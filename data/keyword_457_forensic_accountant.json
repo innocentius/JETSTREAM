@@ -1,0 +1,1212 @@
+{
+  "keyword": "forensic accountant",
+  "count": 38,
+  "keyword_match_count": 38,
+  "content_match_count": 4,
+  "total_files": 42,
+  "timeline": [
+    {
+      "file_id": "EFTA00037697",
+      "summary": "An FBI Forensic Accountant at the New York Field Office is investigating property ownership linked to Ghislaine Maxwell. Communications detail a potential property value of $4,950,000 sold by an LLC on July 6, 2000, to an unknown buyer. The initial investigation indicates the property was previously owned by an LLC and potentially partially or fully owned by Ghislaine Maxwell. The investigator requests further information including purchase and sale dates, prices, and previous owners from various real estate databases (ACRIS).",
+      "timestamp": "2000-07-06T00:00:00",
+      "timestamp_raw": "July 6, 2000",
+      "keywords": [
+        "ghislaine maxwell",
+        "fbi",
+        "forensic accountant",
+        "property",
+        "llc",
+        "sale",
+        "purchase",
+        "redaction",
+        "efta00037697",
+        "squad c-40"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014611",
+      "summary": "An FBI investigation, involving a forensic accountant, is underway regarding financial documents related to the Epstein case. A contractor ([REDACTED]) was instructed to burn specified folders to a disc and deliver it to a Special Agent at a conference or via security pickup by 11:30 AM. The folders included documents related to American Express and Deutsche Bank subpoenas. The request originated from an Assistant U.S. Attorney for the Southern District of New York.",
+      "timestamp": "2019-07-18T00:00:00",
+      "timestamp_raw": "18 Jul 2019",
+      "keywords": [
+        "efta00014611",
+        "epstein",
+        "financial documents",
+        "fbi",
+        "forensic accountant",
+        "subpoenas",
+        "investigation",
+        "usa doj",
+        "new york",
+        "disc"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00021644",
+            "similarity": 0.538,
+            "index": 2,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00030628",
+            "similarity": 0.583,
+            "index": 5,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00025521",
+            "similarity": 0.583,
+            "index": 7,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00021644",
+      "summary": "Attorney are coordinating a meeting to review financial documents related to Jeffrey Epstein. The initial scheduling involved multiple attempts to find a suitable time for a call, primarily between July 23, 2019, and July 18, 2019. A forensic accountant is assisting in the investigation.  A request was made to burn and deliver specific folders relating to American Express and Deutsche Bank subpoenas to the FBI for review, with the expectation of presenting the discs at a conference.",
+      "timestamp": "2019-07-23T00:00:00",
+      "timestamp_raw": "July 23, 2019",
+      "keywords": [
+        "fbi",
+        "epstein",
+        "financial documents",
+        "redaction",
+        "call",
+        "tuesday",
+        "investigation",
+        "new york",
+        "subpoenas",
+        "forensic accountant"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00014611",
+            "similarity": 0.538,
+            "index": 1,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00030625",
+            "similarity": 0.538,
+            "index": 4,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00030628",
+            "similarity": 0.9,
+            "index": 5,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00014625",
+            "similarity": 0.538,
+            "index": 6,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00021367",
+      "summary": "Attorney) are coordinating regarding the investigation of financial documents related to Jeffrey Epstein. *   The initial discussions revolved around the scope of the investigation and preferred meeting methods (call vs. in-person). *   A contractor was tasked with creating a disc containing specific financial documents from various banks (American Express, Deutsche Bank) and delivering it to the FBI for a scheduled conference. *   The delivery timeline was set for 11:30 AM, with options for hand-off at the conference or through a security pickup.",
+      "timestamp": "2019-07-23T00:00:00",
+      "timestamp_raw": "23 Jul 2019",
+      "keywords": [
+        "financial investigation",
+        "epstein",
+        "fbi",
+        "subpoenas",
+        "documents",
+        "meeting",
+        "scheduling",
+        "forensic accountant"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030625",
+      "summary": "Attorney) are coordinating the handling of financial documents related to Jeffrey Epstein’s case. *   The initial request involves determining a meeting time (likely a phone call or in-person) to review the documents. *   A task is assigned to a contractor to burn specified folders to a disc and deliver it to the FBI. *   The FBI is planning a meeting to discuss an investigation game plan, potentially on Tuesday. *   A court conference is scheduled for Tuesday at 11:00 AM. *   Sensitive information is redacted throughout the communication.",
+      "timestamp": "2019-07-23T00:00:00",
+      "timestamp_raw": "23 Jul 2019",
+      "keywords": [
+        "financial documents",
+        "epstein",
+        "fbi",
+        "redaction",
+        "investigation",
+        "meeting",
+        "time",
+        "phone call",
+        "subpoenas",
+        "forensic accountant"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00021644",
+            "similarity": 0.538,
+            "index": 2,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00030628",
+            "similarity": 0.583,
+            "index": 5,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00025521",
+            "similarity": 0.583,
+            "index": 7,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00030628",
+      "summary": "Attorney’s office, are coordinating regarding the “Epstein” financial documents (EFTA00030628 and EFTA00030629). *   Discussions involve scheduling a call for July 23rd at 1:30 PM, arranging a meeting to discuss a game plan for the investigation, and the delivery of discs containing relevant financial data. *   A contractor, Hamilton, is tasked with creating and delivering the discs. *   The FBI is involved in overseeing the process and coordinating with the forensic accountant.",
+      "timestamp": "2019-07-23T00:00:00",
+      "timestamp_raw": "23 Jul 2019",
+      "keywords": [
+        "epstein",
+        "financial documents",
+        "fbi",
+        "redaction",
+        "subpoenas",
+        "investigation",
+        "new york",
+        "call",
+        "forensic accountant"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00030625",
+            "similarity": 0.583,
+            "index": 4,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00021644",
+            "similarity": 0.9,
+            "index": 2,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00014611",
+            "similarity": 0.583,
+            "index": 1,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00014625",
+            "similarity": 0.583,
+            "index": 6,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00025521",
+            "similarity": 0.8,
+            "index": 7,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00025519",
+            "similarity": 0.583,
+            "index": 8,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00014625",
+      "summary": "The document records email exchanges regarding a financial investigation related to Jeffrey Epstein, overseen by the FBI and the U.S. Attorney’s Office for the Southern District of New York. Discussions involve scheduling a call to review financial documents, coordinating with a forensic accountant, and arranging for the delivery of digital media containing subpoena returns from American Express and Deutsche Bank. The initial request was for a call at 1:30 PM on July 23, 2019, with subsequent scheduling adjustments and coordination for a meeting to discuss a game plan.",
+      "timestamp": "2019-07-23T00:00:00",
+      "timestamp_raw": "July 23, 2019",
+      "keywords": [
+        "fbi",
+        "epstein",
+        "financial documents",
+        "redaction",
+        "investigation",
+        "new york",
+        "amex",
+        "deutsche bank",
+        "forensic accountant",
+        "scheduling"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00030628",
+            "similarity": 0.583,
+            "index": 5,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00021644",
+            "similarity": 0.538,
+            "index": 2,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00025521",
+            "similarity": 0.583,
+            "index": 7,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00025519",
+            "similarity": 0.538,
+            "index": 8,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00025521",
+      "summary": "The document is a record of communication regarding the investigation of financial documents related to Jeffrey Epstein, involving the FBI’s New York field office (N. (NY) (FBI)) and a contractor, Andy Hamilton. Key points include: *   Scheduling a call between FBI agents and Alison [REDACTED] and [REDACTED] to discuss the documents. *   A forensic accountant, Lubin, is being brought in to assist. *   Hamilton was instructed to burn specific folders to a disc and deliver it to Special Agent Amanda Young by 11:30 AM for a scheduled conference or via a security pickup. *   The subject of the communications is the “USvEpstein-2018R01618 InvestigationVI 2018 SDNY” investigation.",
+      "timestamp": "2019-07-23T00:00:00",
+      "timestamp_raw": "23 Jul 2019",
+      "keywords": [
+        "fbi",
+        "epstein",
+        "financial documents",
+        "redaction",
+        "investigation",
+        "subpoenas",
+        "new york",
+        "forensic accountant",
+        "u.s. attorney"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00014625",
+            "similarity": 0.583,
+            "index": 6,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00030628",
+            "similarity": 0.8,
+            "index": 5,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00030625",
+            "similarity": 0.583,
+            "index": 4,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00025519",
+            "similarity": 0.583,
+            "index": 8,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00025519",
+      "summary": "The following emails detail arrangements for the collection of financial documents related to Jeffrey Epstein’s case, involving FBI agents, a contractor, and an Assistant U.S. Attorney. Discussions include scheduling a meeting to plan the investigation, coordinating the delivery of discs containing relevant documents to the Special Agent Detective by 11:30 AM, and ensuring timely notification upon completion. Redactions obscure sender and recipient identities.",
+      "timestamp": "2019-07-23T00:00:00",
+      "timestamp_raw": "23 Jul 2019",
+      "keywords": [
+        "fbi",
+        "epstein",
+        "financial documents",
+        "redaction",
+        "investigation",
+        "subpoena",
+        "new york",
+        "forensic accountant",
+        "contractor",
+        "disc"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00025521",
+            "similarity": 0.583,
+            "index": 7,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00014625",
+            "similarity": 0.538,
+            "index": 6,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00030628",
+            "similarity": 0.583,
+            "index": 5,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016323",
+      "summary": "An FBI Forensic Accountant from the New York Field Office is reviewing Maxwell’s credit card accounts, specifically a CapitalOne/SAKS card (account number redacted).  The attached Experian report from August 2019 shows the card had a zero balance as of August 15, 2019, with the last payment made in May 2019. A summary of Maxwell’s credit cards is being prepared and will be sent out either today or tomorrow.",
+      "timestamp": "2019-08-15T00:00:00",
+      "timestamp_raw": "August 15, 2019",
+      "keywords": [
+        "experian",
+        "credit card",
+        "capitalone",
+        "saks",
+        "maxwell",
+        "fbi",
+        "forensic accountant",
+        "account number",
+        "2019",
+        "summary"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020166",
+      "summary": "A Forensic Accountant at the FBI New York Field Office is requesting subpoenas from Wells Fargo, CITI, MoneyGram, Western Union, and Experian. Attached riders are provided for the subpoenas, which the Forensic Accountant will serve. Recipients are instructed to use specific contact information for the FBI and to forward results electronically to 26 Federal Plaza, New York, NY 10278.",
+      "timestamp": "2019-08-15T00:00:00",
+      "timestamp_raw": "15 Aug 2019",
+      "keywords": [
+        "subpoenas",
+        "wells fargo",
+        "citi",
+        "moneygram",
+        "western union",
+        "experian",
+        "fbi",
+        "forensic accountant",
+        "investigation",
+        "electronic format"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00019959",
+            "similarity": 0.538,
+            "index": 11,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00032383",
+            "similarity": 0.667,
+            "index": 12,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00019959",
+      "summary": "A subpoena request was sent from the Assistant United States Attorney, Southern District of New York, to various financial institutions – Wells Fargo, Citibank, MoneyGram, Western Union, and Experian – on August 16, 2019. The subpoenas were to be prepared and returned by the FBI Forensic Accountant, with specific text to be included. The FBI Special Agent was designated as the point of contact for the FBI’s investigation, and the results were to be submitted electronically to the FBI New York Field Office.",
+      "timestamp": "2019-08-16T00:00:00",
+      "timestamp_raw": "August 16, 2019",
+      "keywords": [
+        "subpoenas",
+        "fbi",
+        "wells fargo",
+        "citibank",
+        "moneygram",
+        "western union",
+        "experian",
+        "redaction analysis",
+        "forensic accountant",
+        "new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00020166",
+            "similarity": 0.538,
+            "index": 10,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00032383",
+            "similarity": 0.667,
+            "index": 12,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00032383",
+      "summary": "An email chain discusses the preparation and return of subpoenas related to Wells Fargo, CITI, MoneyGram, Western Union, and Experian. The subpoenas should include the text: “If you have any questions please contact Forensic Accountant.” The subpoenas were requested by an Assistant United States Attorney and the FBI, specifically referencing Special Agent EFTA00032383.",
+      "timestamp": "2019-08-16T00:00:00",
+      "timestamp_raw": "16 Aug 2019",
+      "keywords": [
+        "efta00032383",
+        "subpoenas",
+        "wells fargo",
+        "citi",
+        "moneygram",
+        "western union",
+        "experian",
+        "fbi",
+        "forensic accountant",
+        "new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00019959",
+            "similarity": 0.667,
+            "index": 11,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00020166",
+            "similarity": 0.667,
+            "index": 10,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019750",
+      "summary": "Department of Justice, specifically the Southern District of New York, issued a grand jury subpoena to Bank of America N.A. on October 15, 2019, as part of a criminal investigation involving suspected federal crimes (1591, 1594(c), 2422(b), 371 U.S.C.). The subpoena demands the production of extensive records from Bank of America, encompassing customer account details (names, addresses, DOB, SSN, etc.), transaction history (checks, wires, statements), and online banking activity, dating from account inception.  Bank of America is instructed to provide these records electronically if possible, and must comply by October 29, 2019, at 10:00 AM. Failure to comply will result in contempt of court charges. The subpoena includes a rider specifying the exact records required, and a Declaration of Custodian of Records to authenticate the provided information.  The Justice Department requests that Bank of America refrain from disclosing the subpoena’s existence to prevent interference with the investigation.",
+      "timestamp": "2019-10-15T00:00:00",
+      "timestamp_raw": "October 15, 2019",
+      "keywords": [
+        "grand jury subpoena",
+        "bank of america",
+        "united states attorney",
+        "federal criminal investigation",
+        "18 u.s.c.",
+        "wire transfers",
+        "records production",
+        "investigation",
+        "contempt of court",
+        "forensic accountant"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019744",
+      "summary": "An Assistant United States Attorney sent a subpoena (attached as 2019-10-07_subpoena_tolapdf) to [REDACTED] requesting a subpoena for CapitalOne regarding a specific matter. The subpoena should include provided text and utilize an account number found by [REDACTED]. The Forensic Accountant at the FBI New York Field Office (26 Federal Plaza, NYC, NY 10278) was to forward results electronically to the Special Agent Federal Bureau of Investigation.",
+      "timestamp": "2019-11-07T00:00:00",
+      "timestamp_raw": "07 Oct 2019",
+      "keywords": [
+        "subpoena",
+        "capitalone",
+        "fbi",
+        "forensic accountant",
+        "new york",
+        "rider",
+        "redacted",
+        "united states attorney",
+        "investigation",
+        "electronic format"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037689",
+      "summary": "An email was sent from an FBI Forensic Accountant at the New York Field Office (EFTA00037689) to an unidentified recipient regarding “Clear & Accurint Rpts.” An attachment named “Clear_Rpt.pdf” was included.",
+      "timestamp": "2019-11-21T00:00:00",
+      "timestamp_raw": "21 Oct 2019",
+      "keywords": [
+        "efta00037689",
+        "redaction analysis",
+        "clear rpt",
+        "forensic accountant",
+        "fbi",
+        "nyc",
+        "imi"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025128",
+      "summary": "A forensic accountant at the FBI New York Field Office received a subpoena tracker from an unidentified sender on June 2, 2020. The tracker, attached to an email, only contained subpoenas served by the FBI and excluded the Epstein Deutsche Bank production. The sender proposed setting up a Dal virtual drive for shared access.",
+      "timestamp": "2020-06-02T00:00:00",
+      "timestamp_raw": "June 2, 2020",
+      "keywords": [
+        "epstein",
+        "subpoena",
+        "fbi",
+        "deutsche bank",
+        "production",
+        "tracker",
+        "virtual drive",
+        "forensic accountant",
+        "redaction",
+        "new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00023538",
+            "similarity": 0.818,
+            "index": 17,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00023538",
+      "summary": "A forensic accountant from the FBI New York Field Office sent a subpoena tracker (Epstein_Subpoena_Tracker V6.1.20.xlsx) to an individual, including information on subpoenas served by the FBI. The tracker excludes the Epstein-Deutsche Bank production. The accountant offered to provide missing productions and discussed the possibility of a shared Dal virtual drive.",
+      "timestamp": "2020-06-02T00:00:00",
+      "timestamp_raw": "02 Jun 2020",
+      "keywords": [
+        "epstein",
+        "subpoena",
+        "tracker",
+        "fbi",
+        "deutsche bank",
+        "production",
+        "forensic accountant",
+        "virtual drive",
+        "dal",
+        "new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00025128",
+            "similarity": 0.818,
+            "index": 16,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016316",
+      "summary": "An FBI Forensic Accountant at the New York Field Office is requesting access to USAfx. The request stems from an inability to locate subpoena returns previously provided by a U.S. Attorney’s Office paralegal specialist in SDNY, who previously sent returns on discs. The paralegal specialist is asking for the returns to be uploaded to USAfx.",
+      "timestamp": "2020-06-10T00:00:00",
+      "timestamp_raw": "10 Jun 2020",
+      "keywords": [
+        "epstein",
+        "subpoena",
+        "tracker",
+        "usafx",
+        "forensic accountant",
+        "fbi",
+        "ny",
+        "bank subpoenas",
+        "returns",
+        "sdny"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037700",
+      "summary": "An FBI Forensic Accountant from the New York Field Office sent an email to [REDACTED] and [REDACTED] regarding a CITI account belonging to Maxwell ([REDACTED]). The email included the reference number EFTA00037700. A PDF attachment named UBSTERRAMAR00000582.pdf was included.",
+      "timestamp": "2020-06-16T00:00:00",
+      "timestamp_raw": "16 Jun 2020",
+      "keywords": [
+        "citi account",
+        "maxwell",
+        "fbi",
+        "forensic accountant",
+        "efta00037700",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037701",
+      "summary": "On June 16, 2020, Ori (from the FBI New York Field Office, EFTA00037701) requested Mark to serve a subpoena related to a CITI account belonging to Maxwell. The subpoena was sent by a Forensic Accountant at the FBI New York Field Office.",
+      "timestamp": "2020-06-16T00:00:00",
+      "timestamp_raw": "June 16, 2020",
+      "keywords": [
+        "fbi",
+        "citi account",
+        "subpoena",
+        "citibank",
+        "maxwell",
+        "forensic accountant",
+        "redaction",
+        "efta00037701"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037707",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] on June 17, 2020, regarding the upload of three JP Morgan Chase productions related to Maxwell and Best to the DOJ file sharing site. The email was sent from the FBI New York Field Office, specifically EFTA00037707.",
+      "timestamp": "2020-06-17T00:00:00",
+      "timestamp_raw": "June 17, 2020",
+      "keywords": [
+        "efta00037707",
+        "jp morgan chase",
+        "maxwell",
+        "fbi",
+        "forensic accountant",
+        "doj",
+        "file sharing",
+        "redaction",
+        "new york",
+        "2020"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016343",
+      "summary": "An FBI agent (“a”) contacted Amex regarding a credit card associated with Maxwell, noting a discrepancy between Amex account numbering conventions (accounts starting with 37 versus the provided 34). The agent inquired about returns from the card, given the last statement date of 12/18/19. A Forensic Accountant (FBI New York Field Office) responded with an attached draft analysis of Maxwell’s credit cards for discussion purposes, subject to change.",
+      "timestamp": "2020-06-29T00:00:00",
+      "timestamp_raw": "29 Jun 2020",
+      "keywords": [
+        "efta00016343",
+        "maxwell's credit cards",
+        "amex",
+        "returns",
+        "credit cards",
+        "fbi",
+        "forensic accountant",
+        "financial productions",
+        "analysis",
+        "37"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038589",
+      "summary": "A forensic accountant at the FBI New York Field Office sent an email to recipients containing IRA statements for Maxwell UBS accounts from June 30, 2020, to December 31, 2019. The email included an attached PDF document named “Mawell_UBS_IRA_Acct_Stmt_6-30-20_and_12-31-19.pdf”.",
+      "timestamp": "2020-06-30T00:00:00",
+      "timestamp_raw": "June 30, 2020",
+      "keywords": [
+        "ira",
+        "maxwell",
+        "ubs",
+        "stmt",
+        "forensic accountant",
+        "fbi",
+        "new york",
+        "redaction",
+        "2020",
+        "2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037702",
+      "summary": "A forensic accountant at the FBI New York Field Office prepared an analysis of account numbers related to “Maxwell” within AMEX production. The analysis identifies three account relationships: ELLMAX LLC/GMAXWELL (last statement September 2016), G MAXWELL (current account with specified last six digits), and THEODORE W WAITT (Maxwell had a sub-account with a last statement in September 2010). The draft analysis is for discussion purposes only and subject to change.",
+      "timestamp": "2020-07-01T00:00:00",
+      "timestamp_raw": "01 Jul 2020",
+      "keywords": [
+        "efta00037702",
+        "maxwell",
+        "amex",
+        "account",
+        "analysis",
+        "redaction",
+        "fbi",
+        "forensic accountant",
+        "ellmax llc",
+        "theodore w waitt"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037705",
+      "summary": "An FBI Forensic Accountant at the New York Field Office sent an analysis of Maxwell’s accounts as of 6/30/20 to Ori, requesting updates incorporating information from UBS. The analysis is a draft for discussion purposes and is subject to change, pending further information from UBS regarding the funding of the Montpelier Trust and its expenditures.",
+      "timestamp": "2020-07-10T00:00:00",
+      "timestamp_raw": "10 Jul 2020",
+      "keywords": [
+        "efta00037705",
+        "maxwell",
+        "ubs",
+        "montpelier trust",
+        "expenditures",
+        "account balances",
+        "forensic accountant",
+        "fbi",
+        "redaction",
+        "analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00038016",
+            "similarity": 0.538,
+            "index": 26,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038016",
+      "summary": "Ori will update an analysis of Maxwell’s 6/30/20 account balances and send it to the recipient. The recipient, [REDACTED], requested an update incorporating information from UBS, specifically regarding the funding and expenditures of the Montpelier Trust. A draft analysis, attached by [REDACTED], was provided for discussion purposes and is subject to change. The update will be performed by a Forensic Accountant from the FBI New York Field Office (EFTA00038017).",
+      "timestamp": "2020-07-13T00:00:00",
+      "timestamp_raw": "13 Jul 2020",
+      "keywords": [
+        "maxwell",
+        "account balances",
+        "ubs",
+        "montpelier trust",
+        "expenditures",
+        "funding",
+        "redaction analysis",
+        "fbi",
+        "forensic accountant",
+        "6/30/20"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037705",
+            "similarity": 0.538,
+            "index": 25,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038692",
+      "summary": "An FBI Forensic Accountant from the New York Field Office sent an email on June 25, 2021, to an unknown recipient (identified by the email address “”) with an attachment titled “3.30.2007_Email_Re_FTC_Ownership.pdf.” The email indicated further FTC documents were forthcoming.",
+      "timestamp": "2021-06-25T00:00:00",
+      "timestamp_raw": "June 25, 2021",
+      "keywords": [
+        "ftc",
+        "redaction",
+        "email",
+        "fbi",
+        "forensic accountant",
+        "new york field office"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029227",
+      "summary": "On October 7, 2021, a forensic accountant with the FBI New York Field Office sent account opening, signature, and KYC documents related to two accounts associated with Ghislaine Maxwell to another recipient. The documents, including a June 2007 statement, were uploaded to the DOJ USA File Exchange site. On October 6, 2021, the recipient requested additional account statements covering several months to view balances. On October 4, 2021, the accountant initially provided the attached documents as a follow-up to a prior conversation about Maxwell’s involvement with Epstein accounts.",
+      "timestamp": "2021-10-07T00:00:00",
+      "timestamp_raw": "October 7, 2021",
+      "keywords": [
+        "epstein accounts",
+        "ghislaine maxwell",
+        "account statements",
+        "kyc",
+        "fbi",
+        "doj",
+        "redaction analysis",
+        "jpm-sdny",
+        "usanys"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021664",
+      "summary": "On October 7, 2021, a forensic accountant with the FBI New York Field Office sent documents related to Epstein accounts to FBI agents in New York. The documents included account statements, removal memos requesting the removal of Ghislaine Maxwell from various accounts (Hyperion Air, Jeffery Epstein, NES LLC), and access instructions to a DOJ USA File Exchange folder.  A follow-up email on October 6, 2021, requested account statements for a few months after the documents were executed.  EFTA00021665 was the file identifier.",
+      "timestamp": "2021-10-07T00:00:00",
+      "timestamp_raw": "October 7, 2021",
+      "keywords": [
+        "epstein account documents",
+        "ghislaine maxwell",
+        "fbi",
+        "doj",
+        "redaction",
+        "accounts",
+        "removal memos",
+        "hyperion air",
+        "nes llc",
+        "kycs"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029200",
+      "summary": "An FBI Forensic Accountant from the New York Field Office sent documents related to Jeffrey Epstein and Ghislaine Maxwell accounts to an unknown recipient. The documents included PDFs detailing accounts named JEJE, Jeffety Epstein, and Hyperion. The email indicates a follow-up to a previous conversation about these accounts.",
+      "timestamp": "2021-11-04T00:00:00",
+      "timestamp_raw": "04 Oct 2021",
+      "keywords": [
+        "epstein",
+        "ghislaine maxwell",
+        "account",
+        "documents",
+        "forensic accountant",
+        "fbi",
+        "redaction",
+        "jeje",
+        "jeffety_epstein"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015030",
+      "summary": "An FBI Forensic Accountant from the New York Field Office (EFTA00015030) requested additional account statements (balances) following the initial submission of documents related to Ghislaine Maxwell’s accounts. The initial documents were compiled by the Forensic Accountant as a follow-up to a previous conversation.",
+      "timestamp": "2021-11-06T00:00:00",
+      "timestamp_raw": "06 Oct 2021",
+      "keywords": [
+        "epstein",
+        "accounts",
+        "documents",
+        "redaction",
+        "fbi",
+        "ghislaine maxwell",
+        "forensic accountant",
+        "new york",
+        "statements",
+        "balance"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029172",
+      "summary": "An individual ([REDACTED]) sent documents related to Epstein accounts to the FBI New York Field Office (Forensic Accountant) via the DOJ USA File Exchange site. The documents included removal requests for Ghislaine Maxwell from Hyperion Air, Jeffery Epstein, and JEGE accounts, as well as a removal memo for NES LLC. The recipient ([REDACTED] – NY FBI) requested additional account statements for a few months after the documents were executed, specifically asking for balances. The initial sender ([REDACTED]) had already uploaded documents and granted access to the folder.",
+      "timestamp": "2021-11-07T00:00:00",
+      "timestamp_raw": "07 Oct 2021",
+      "keywords": [
+        "epstein",
+        "accounts",
+        "ghislaine maxwell",
+        "removal",
+        "documents",
+        "doj",
+        "fbi",
+        "hyperion air",
+        "nes llc",
+        "forensic accountant"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015137",
+      "summary": "An FBI Forensic Accountant at the New York Field Office forwarded account statements (EFTA00015137 and EFTA00015138) related to Ghislaine Maxwell’s accounts to an FBI contractor (USANYS) and an FBI agent (NY) for review. The contractor was asked to save the documents on a shared location and was granted access. The FBI agent requested additional account statements from several months after the initial documents were executed to view balances in connection with the Epstein accounts.",
+      "timestamp": "2021-11-07T00:00:00",
+      "timestamp_raw": "07 Oct 2021",
+      "keywords": [
+        "epstein account documents",
+        "redaction analysis",
+        "efta00015137",
+        "usanys",
+        "fbi",
+        "forensic accountant",
+        "ghislaine maxwell",
+        "account statements",
+        "dal usa file exchange",
+        "nyc"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038952",
+      "summary": "An email was sent from a Forensic Accountant at the FBI New York Field Office to an unidentified recipient regarding research. The email is dated December 14, 2021, and includes an attachment named “31000201353855_transcript.pdf” and references case file EFTA00038952.",
+      "timestamp": "2021-12-14T00:00:00",
+      "timestamp_raw": "December 14, 2021",
+      "keywords": [
+        "efta00038952",
+        "forensic accountant",
+        "fbi",
+        "research",
+        "redaction",
+        "transcript",
+        "new york",
+        "2021",
+        "2025",
+        "analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038594",
+      "summary": "A draft analysis of 2019, 2018, and 2017 tax returns was prepared by a Forensic Accountant at the FBI New York Field Office. The analysis includes two attached documents: “2019_2018_2017_Tax_Return_Analysis_V1_12-13-20.pdf” and “Cohen_and_Gresser_Page_9_Schedule_V2.pdf,” intended for discussion purposes. The case reference is EFTA00038594.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00038594",
+        "tax returns",
+        "analysis",
+        "2019",
+        "2018",
+        "2017",
+        "forensic accountant",
+        "fbi",
+        "redaction",
+        "discussion"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00011180",
+      "summary": "Preston M. Faro, a forensic accountant and private investigator, was hired by Cohen & Gresser LLP to review a Financial Condition Report prepared by Macalvins Accountants for Ghislaine Maxwell’s finances from 2015-2020.  His background includes over 40 years of experience in financial fraud investigations, including prior work as an IRS Special Agent and involvement in the World Trade Center Integrity Compliance Program.  During the review, he examined the Financial Condition Report, Independent Accountants’ Commentary, and supporting Excel schedules, accessing underlying documents and questioning Macalvins accountants. He concluded that the report accurately summarized Ms. Maxwell’s assets.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "forensic accountant",
+        "fraud investigation",
+        "irs",
+        "financial fraud",
+        "asset tracing",
+        "compliance program",
+        "ghislaine maxwell",
+        "financial condition report",
+        "independent review",
+        "wtc integrity compliance program"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00011168",
+            "similarity": 0.538,
+            "index": 39,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00020169",
+      "summary": "Experian Information Solutions, Inc. is being asked to provide credit reports, fraud alerts, and related documents for specified individuals (identified by name, date of birth, social security number, address, phone, and email). The request includes all known accounts, lines of credit, credit inquiries, and associated addresses. The results are to be submitted electronically to the Federal Bureau of Investigation (FBI) Special Agent M at 26 Federal Plaza, New York, NY 10278.  There is a request to voluntarily refrain from disclosing the subpoena’s existence to third parties to maintain the confidentiality of an ongoing investigation.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "experian",
+        "credit reports",
+        "fraud alerts",
+        "subpoena",
+        "investigation",
+        "personal identifying information",
+        "fbi",
+        "forensic accountant",
+        "confidentiality",
+        "data disclosure"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010462",
+      "summary": "A draft analysis of a 2019 tax return (attached as 2019_Tax_Retum_Analysis_V1_12-11-20.pdf) was sent from the FBI New York Field Office to an unidentified recipient. The email requests a time for a call to discuss the analysis, originating from a Forensic Accountant. The file identifier is EFTA00010462.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00010462",
+        "tax return",
+        "analysis",
+        "2019",
+        "forensic accountant",
+        "fbi",
+        "new york",
+        "redaction",
+        "draft",
+        "time"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00011168",
+      "summary": "The document is a report by a forensic accountant, formerly with the IRS-CID and involved in the World Trade Center Integrity Compliance Program, regarding a review of a Financial Condition Report for Ghislaine Maxwell prepared by Macalvins Accountants. The review covered the period 2015-2020 and included examining the Financial Condition Report, Independent Accountants' Commentary, accompanying schedules, and underlying documents. The accountant verified the accuracy of the representations within the report and concluded that it accurately summarized Ms. Maxwell's assets.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "forensic accountant",
+        "fraud investigation",
+        "financial fraud",
+        "irs-cid",
+        "money laundering",
+        "asset tracing",
+        "financial condition report",
+        "compliance program",
+        "forensic audit",
+        "ghislaine maxwell"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00011180",
+            "similarity": 0.538,
+            "index": 36,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020167",
+      "summary": "Citibank N.A. requests all documents and records pertaining to account EFTA00020167, from its inception to the present. This includes, but is not limited to, transaction files, documents reflecting account activity, signature cards, identification, opening account documents, “Know Your Customer” documentation, wire transfer records, safe deposit records, trust accounts, statements, checks, prepaid cards, loan applications, online banking information, corporate resolutions, and all correspondence related to the account. The request is to be delivered via FedEx on CDs containing Adobe PDF images. Contact information for a Forensic Accountant (EFTA00020168) is provided for questions.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "citibank",
+        "legal services",
+        "records",
+        "accounts",
+        "data transaction files",
+        "identification",
+        "email",
+        "wire transfers",
+        "banking information",
+        "customer records"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019755",
+      "summary": "Bank of America requests the production of comprehensive records pertaining to account EFTA00019755, encompassing all open and closed accounts. The request includes all documents, data transaction files (Excel), and records related to the account’s history from inception to present. Specifically, requested items include: documents reflecting account transactions, signature cards, identification, withdrawal locations, account opening documents, “know your customer” documentation, wire transfer records, safe deposit records, trust accounts, statements, checks, prepaid cards, loan files, corporate resolutions, online banking information, and any associated correspondence. Contact information for a Forensic Accountant (EFTA00019756) is provided for questions.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "bank of america",
+        "legal order processing",
+        "accounts",
+        "data transaction files",
+        "excel",
+        "pdf",
+        "documents",
+        "records",
+        "wire transfers",
+        "customer identification"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,2438 @@
+{
+  "keyword": "fedex",
+  "count": 70,
+  "keyword_match_count": 70,
+  "content_match_count": 24,
+  "total_files": 94,
+  "timeline": [
+    {
+      "file_id": "EFTA00024636",
+      "summary": "The invoice includes transportation charges ($365.66) and special handling charges ($34.66).  The payment was due August 29, 2000.  The invoice details various shipments including airbills, recipient types (shipper, recipient, third party), and associated charges. There's an error noted regarding an incorrect recipient address.  Page 2 contains a redacted name and address.",
+      "timestamp": "2000-08-14T00:00:00",
+      "timestamp_raw": "August 14, 2000",
+      "keywords": [
+        "fedex",
+        "invoice",
+        "account number",
+        "transportation charges",
+        "shipping address",
+        "payment",
+        "fuel surcharge",
+        "recipient",
+        "address",
+        "2000",
+        "charges",
+        "efta00024636"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00024648",
+            "similarity": 0.533,
+            "index": 1,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00024648",
+      "summary": "Invoice No: 5-678-61193 Invoice Date: December 25, 2000 Account Number: 11442081h Total Charges: $284.88 Payment Due Date: January 9, 2001 Shipping Details: Shipper: J Epstein 8 Co Inc, Package Type: Customer Packaging, Weight: 3.0 to 1.4 kgs, Delivered: December 18, 2000 Transportation Charges: $264.31 (Shipper) and $28.12 (Recipient) Special Handling Charges: $20.57 (Shipper) and $11.12 (Recipient) Fuel Surcharge: $11.02 Operating Schedule: Closed December 25, 26, 31, and January 1. Normal service resumes January 2.",
+      "timestamp": "2000-12-25T00:00:00",
+      "timestamp_raw": "December 25, 2000",
+      "keywords": [
+        "fedex",
+        "invoice",
+        "payment",
+        "account number",
+        "transportation charges",
+        "shipping",
+        "december 25",
+        "2000",
+        "fuel surcharge",
+        "delivery",
+        "charges"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00024636",
+            "similarity": 0.533,
+            "index": 0,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024613",
+      "summary": "Invoice Number: 5-722-84226 Invoice Date: February 19, 2001 Account Number: 1144.2081.6 Total Charges: $290.39 Discount: $36.82 Due Date: March 6, 2001 Shipper: Jeffrey E Epstein Tracking ID: 826749812788 Package Details: FedEx Pak, Zone 8, 2.0 lbs, 0.9 kgs Shipping Charges: Transportation Charges: $914.10, Special Handling Charges: $21.07 Payment Summary: Two payment types listed – Shipper (Total: $272.61) and Third Party (Total: $25.74) Total Airbills: 16",
+      "timestamp": "2001-02-19T00:00:00",
+      "timestamp_raw": "February 19, 2001",
+      "keywords": [
+        "fedex",
+        "invoice",
+        "account number",
+        "billing address",
+        "transportation charges",
+        "discount",
+        "payment",
+        "shipping",
+        "jeffrey epstein",
+        "february 19",
+        "2001"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030852",
+      "summary": "The invoice details charges including base discounts, special handling, and fuel surcharges, totaling $304.34. The shipment involved 11 airbills, with varying package types and weights, delivered to an address in New York. The invoice includes tracking information and remittance advice, specifying a due date of October 29, 2002. There are several adjustment requests (FAXED to a specific number) related to potential discrepancies in the shipment. The document includes a variety of FedEx service code definitions and explanations for various charge codes used. The invoice highlights the use of various service types, including FedEx Express, Ground, and Home Delivery, with details on the associated costs and parameters for each.",
+      "timestamp": "2002-10-14T00:00:00",
+      "timestamp_raw": "October 14, 2002",
+      "keywords": [
+        "invoice number",
+        "account number",
+        "fedex",
+        "transportation charges",
+        "discount",
+        "fuel surcharge",
+        "adjustment request",
+        "remittance advice",
+        "tracking no.",
+        "payment due"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024627",
+      "summary": "The invoice is for transportation charges related to a shipment, with discounts applied, resulting in a final charge of $591.99. Key details include: *   **Billing Address:** FedEx P.O. Box 1140, Memphis, TN 36101-1140. *   **Account Number:** 1144-2081-6. *   **Payment Due Date:** November 11, 2003. *   **Shipment Details:** The shipment involved a standard overnight package, transported under service code 017 (Domestic).  The original number of shipments was 11, with 12 total shipments, and includes a fuel surcharge (0.60%) and a potential weather-related adjustment (thunderstorm). *   **Payment Advice:** The invoice provides a remittance advice section with the payment amount and account number for easy processing. *   **Adjustment Request Form:**  A form is included for requesting adjustments, with a detailed explanation required for each adjustment. *   **Service Codes:**  A table lists various FedEx Ground service codes and their associated charges. The document also includes a note stating that FedEx Ground accounts have been transferred to FedEx Express. It also includes a section regarding changing the billing address.",
+      "timestamp": "2003-10-27T00:00:00",
+      "timestamp_raw": "October 27, 2003",
+      "keywords": [
+        "fedex",
+        "invoice",
+        "shipping address",
+        "account number",
+        "transportation charges",
+        "discounts",
+        "remittance advice",
+        "adjustment request",
+        "rate",
+        "payment due",
+        "tracking number"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020310",
+      "summary": "The invoice totals $594.99 for transportation charges, including a base discount and special handling charges.  It details 12 shipments, broken down by shipper (Shipper) and third party (Third Party) types, with associated details like package weight, dimensions, and service types (e.g., FedEx Priority Overnight).  The invoice includes a fuel surcharge applied to all shipments.  Several individual shipment details are provided, outlining pickup/drop-off dates, tracking numbers, and specific charges for each shipment.  The invoice requires payment by November 11, 2003, and includes remittance information. The document also contains a section detailing the various FedEx Ground service codes.  A redaction exists on page 2, obscuring information.",
+      "timestamp": "2003-10-27T00:00:00",
+      "timestamp_raw": "October 27, 2003",
+      "keywords": [
+        "fedex",
+        "invoice",
+        "shipping address",
+        "account number",
+        "charges",
+        "discounts",
+        "transportation",
+        "adjustment",
+        "rates",
+        "payor",
+        "tracking number",
+        "fuel surcharge",
+        "remittance advice"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00007600",
+      "summary": "This document is a digital record of an Amazon.com order placed on March 21, 2005. The order includes four items: \"SM 101: A Realistic Introduction,\" \"SlaveCraft: Roadmaps for Erotic Servitude,\" \"Training With Miss Abernathy: A Workbook for Erotic Slaves and Their Owners,\" and a related item. The order total is $868.83, paid via American Express, and includes shipping details to Jeffrey Epstein at an address in Palm Beach, Florida. The shipment is tracked by FedEx with a tracking number. The document also provides information about accessing the customer's Amazon account and filing claims for lost or damaged items.  It includes details on the shipping method (One-Day Shipping), addresses for the shipper and billing recipient, and instructions for using the FedEx Ship Manager system.",
+      "timestamp": "2005-03-21T00:00:00",
+      "timestamp_raw": "March 21, 2005",
+      "keywords": [
+        "amazon",
+        "order",
+        "shipping",
+        "payment",
+        "address",
+        "jeffrey epstein",
+        "erotic servitude",
+        "isbn",
+        "returns",
+        "fedex",
+        "usps",
+        "pal beach",
+        "palm beach"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00007606",
+      "summary": "This document is a shipping confirmation for an Amazon order placed on September 4, 2005, with Order ID 103-1737520-450864W. The order includes three books: “A Realistic Introduction” by Jay Wiseman, “SlaveCraft” by Guy Baldwin, and “Training With Miss Abernathy” by Christina Abernathy. The shipping address is 358 El Brillo Way, Palm Beach, Florida 33480. The shipment was sent via FedEx, with instructions for printing and applying the shipping label. The document also includes Amazon’s standard terms and conditions regarding returns and liability limits.",
+      "timestamp": "2005-09-04T00:00:00",
+      "timestamp_raw": "September 4, 2005",
+      "keywords": [
+        "jeffrey epstein",
+        "amazon",
+        "shipping",
+        "order id",
+        "efta00007606",
+        "slavecraft",
+        "palm beach",
+        "florida",
+        "returns",
+        "fedex"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013626",
+      "summary": "An email was sent from [REDACTED] to Jay Lefkowitz on October 30, 2007, regarding “Epstein.” The email included a document named “epstein_addendum_10_30.pdf” and requested that Lefkowitz FedEx the original signature pages. The email relates to document EFTA00013626.",
+      "timestamp": "2007-10-30T00:00:00",
+      "timestamp_raw": "October 30, 2007",
+      "keywords": [
+        "epstein",
+        "redaction",
+        "addendum",
+        "signature",
+        "fed ex",
+        "jay lefkowitz",
+        "2007",
+        "efta00013626",
+        "pdf",
+        "october"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013750",
+      "summary": "On October 30, 2007, Jay Lefkowitz communicated with [REDACTED] and [REDACTED] regarding a legal agreement concerning the Epstein case. The agreement stipulates no contest of liability for the girls on a specified list. Discovery is relevant to damages but not the veracity of claims. Judge Davis was consulted and indicated willingness to act as a \"decider.\" Lefkowitz inquired about Davis’s current status and discussed potential discovery efforts, clarifying the expectation of not being copied on subpoenas. An executed version of an “Epstein Addendum” was sent via FedEx for signature.",
+      "timestamp": "2007-10-30T00:00:00",
+      "timestamp_raw": "October 30, 2007",
+      "keywords": [
+        "epstein",
+        "liability",
+        "discovery",
+        "subpoena",
+        "judge davis",
+        "addendum",
+        "claims",
+        "damages",
+        "redaction",
+        "kirkland & ellis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013518",
+      "summary": "A communication between [REDACTED] and Jay Lefkowitz regarding a revised letter and addendum related to a case involving Jeffrey Epstein. The addendum had paragraphs renumbered from A, B, and C to 7A, 7B, and 7C. The sender requests Lefkowitz’s approval of the addendum, execution, PDF delivery, and subsequent FedEx delivery of the original document to be sent to Judge Davis.",
+      "timestamp": "2007-11-24T00:00:00",
+      "timestamp_raw": "24 Oct 2007",
+      "keywords": [
+        "epstein",
+        "addendum",
+        "letter",
+        "judge davis",
+        "doj",
+        "redaction",
+        "alex acosta",
+        "usafls",
+        "jay lefkowitz",
+        "2007"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013997",
+      "summary": "An email chain discusses a document titled “SDFL - Epstein,” originating from the U.S. Attorney’s Office, S.D. of Florida, and involving correspondence between individuals with redacted names. An attachment, “Epstein hr Ofc of DAG 06 03 08.pdf,” was to be sent via FedEx.",
+      "timestamp": "2008-06-03T00:00:00",
+      "timestamp_raw": "03 Jun 2008",
+      "keywords": [
+        "efta00013997",
+        "sdfl",
+        "epstein",
+        "u.s. attorney's office",
+        "florida",
+        "redaction",
+        "first assistant",
+        "fed ex",
+        "hr",
+        "dag"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013915",
+      "summary": "An email chain discusses sending a hard copy of a document titled “SDFL - Epstein,” including attachments, via FedEx. The original letter and attachments were sent to [REDACTED] by an Assistant U.S. Attorney and a Staff Assistant from the U.S. Attorney’s Office, S.D. of Florida. The email chain includes a reference to a previously sent PDF file.",
+      "timestamp": "2008-06-03T00:00:00",
+      "timestamp_raw": "03 Jun 2008",
+      "keywords": [
+        "epstein",
+        "sdfl",
+        "u.s. attorney",
+        "redaction",
+        "florida",
+        "fed ex",
+        "letter",
+        "assistant",
+        "pdf",
+        "west palm beach"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014032",
+      "summary": "On December 10, 2008, correspondence regarding an Epstein work release letter was exchanged between multiple individuals, including [REDACTED], [REDACTED], and [REDACTED].  One party (identified as [REDACTED]) instructed another to provide a copy of the letter to a “Col.” and to await a response.  Another individual ([REDACTED]) confirmed that Mr. Josefsberg’s letters were in a FedEx bin and to wait for instructions. The original request for comments on the letter was initiated by [REDACTED].",
+      "timestamp": "2008-12-10T00:00:00",
+      "timestamp_raw": "December 10, 2008",
+      "keywords": [
+        "epstein",
+        "work release",
+        "letters",
+        "col",
+        "josefsberg",
+        "fedex",
+        "redaction",
+        "efta00014032"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013855",
+      "summary": "On June 19, 2009, Jay P. Lefkowitz, representing Jeffrey Epstein, communicated via FedEx to the United States Attorney’s Office for the Southern District of Florida regarding the Non-Prosecution Agreement (NPA). He expressed a desire to discuss ambiguities within the NPA, specifically Paragraph 8, to prevent future misunderstandings and potential adversarial relationships. Lefkowitz argued that Paragraph 8 was intended to cover only a single predicate violation and that a statute of limitations defense would be permissible. He requested a discussion to clarify the NPA’s interpretation and reaffirmed Epstein’s commitment to fulfilling the agreement’s terms. An enclosure, a letter responding to a previous communication, was also included.",
+      "timestamp": "2009-06-19T00:00:00",
+      "timestamp_raw": "June 19, 2009",
+      "keywords": [
+        "jeffrey epstein",
+        "npa",
+        "non-prosecution agreement",
+        "litigation",
+        "kirkland & ellis",
+        "united states attorney",
+        "florida",
+        "jay p. lefkowitz",
+        "agreement",
+        "waiver of liability"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00022669",
+      "summary": "AIC Title Service LLC facilitated the name change, requiring the submission of application forms (FAA Form 8050-1) for the aircraft (N491GM and N722JE) showing the new company name.  The process involved communication between AIC Title Service, Darren Indyke (Vice President), and a FedEx courier to deliver the necessary documents to the FAA for registration updates.  The FAA issued certificates reflecting the new name for the aircraft, and confirmation of the fees was requested.",
+      "timestamp": "2010-07-06T00:00:00",
+      "timestamp_raw": "07/06/2010",
+      "keywords": [
+        "delaware",
+        "aircraft",
+        "registration",
+        "name change",
+        "faa",
+        "certificate of amendment",
+        "freedom air international",
+        "n491gm",
+        "n722je",
+        "sicorsky",
+        "bell",
+        "shmitka air",
+        "inc.",
+        "certificates of registration"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030590",
+      "summary": "On March 29, 2011, photos were copied and sent to the recipient via FedEx, along with a CD containing digital images. The sender confirmed the action and requested notification upon arrival.",
+      "timestamp": "2011-03-29T00:00:00",
+      "timestamp_raw": "March 29, 2011",
+      "keywords": [
+        "photos",
+        "redaction",
+        "fedex",
+        "digital",
+        "case",
+        "images",
+        "cd",
+        "2011",
+        "appreciation",
+        "copy"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036172",
+      "summary": "Order ID 113.7403816.9271442 relates to a 9-Channel 9-BNC Video Mixer PIP Video Processor (ASIN: B073KVRC) purchased from AllAboutAdapters via Amazon. The shipment was delivered on July 24, 2019, and signed for by Jason/Support. Amazon retains all messages exchanged between buyers and sellers through EFTA00036172 for marketplace protection and dispute resolution, utilizing filtering technology to prevent fraud.",
+      "timestamp": "2019-07-24T00:00:00",
+      "timestamp_raw": "July 24, 2019",
+      "keywords": [
+        "amazon",
+        "video mixer",
+        "fedex",
+        "tracking",
+        "seller",
+        "message",
+        "delivery",
+        "fraud",
+        "shopping",
+        "efta00036172"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020908",
+      "summary": "Allison Stoddart of WilmerHale sent a letter on behalf of JPMorgan Chase to an unknown recipient (1) and copied Arian Sahni. The letter is also being sent via FedEx. The password for an attached disc is \\E%z{.5B&8bhV73j. Stoddart requests notification of any access issues and provides contact information for WilmerHale.",
+      "timestamp": "2019-12-15T00:00:00",
+      "timestamp_raw": "15 Nov 2019",
+      "keywords": [
+        "jpmorgan chase",
+        "wilmerhale",
+        "letter",
+        "fedex",
+        "password",
+        "access",
+        "email",
+        "confidential",
+        "new york",
+        "production"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019467",
+      "summary": "Robert Glassman, of Panish Shea & Boyle LLP, is sending a request for tangible and documentary evidence in the case of Jane Doe v. Indyke et al. (SDNY Case No. I :20-cv-00484-JGK-DCF). He attached a letter detailing the request and is sending a copy via FedEx. The email includes a confidentiality notice regarding the transmission of confidential information.",
+      "timestamp": "2020-06-08T00:00:00",
+      "timestamp_raw": "08 Jun 2020",
+      "keywords": [
+        "efta00019467",
+        "jane doe",
+        "touhy request",
+        "legal evidence",
+        "robert glassman",
+        "panish shea & boyle llp",
+        "sdny case no.",
+        "fedex",
+        "confidentiality",
+        "litigation"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014452",
+      "summary": "The U.S. Department of Justice, via Acting U.S. Attorney Audrey Strauss, responded to a request for information regarding Jeffrey Epstein and Jane Doe in the case *Doe v. Indyke et al*. The response was governed by Department regulations (“Told°”) restricting disclosure of information acquired during official duties without prior approval. Due to an upcoming pretrial conference and existing discovery exchanges, the Department determined disclosures were appropriate. As a result, redacted versions of FedEx invoices (USDOL0001-0040) and electronic search warrant documents (USDOL0041-0052) were provided, with one page (USDOJ_0053) containing a photograph of the client. The documents were redacted to exclude references to third parties, particularly to protect grand jury secrecy.",
+      "timestamp": "2020-08-03T00:00:00",
+      "timestamp_raw": "August 3, 2020",
+      "keywords": [
+        "jeffrey epstein",
+        "doj",
+        "united states attorney",
+        "southern district of new york",
+        "jane doe",
+        "discovery requests",
+        "grand jury secrecy rule",
+        "federal rule of criminal procedure 6(e)",
+        "redacted"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014450",
+      "summary": "On August 4, 2020, [REDACTED] (USANYS) sent a letter to Robert Glassman of Panish Shea & Boyle LLP regarding a Touhy request in the case of *Jane Doe v. Indyke et al.*, SDNY Case No. 1:20-cv-00484-JGK-DCF. The letter included attachments: a letter responding to the Touhy request and a document production to Glassman.  Glassman had previously contacted [REDACTED] (USANYS) on June 8, 2020, and June 26, 2020, to follow up on the request.  The correspondence included a confidentiality notice outlining the handling of sensitive information.",
+      "timestamp": "2020-08-04T00:00:00",
+      "timestamp_raw": "August 4, 2020",
+      "keywords": [
+        "touhy request",
+        "robert glassman",
+        "jane doe",
+        "sdny",
+        "documentary evidence",
+        "legal request",
+        "redaction",
+        "efta00014450",
+        "panish shea & boyle",
+        "fedex"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030906",
+      "summary": "*   A suggestion was made to send all current discovery materials on each drive to avoid multiple drives with varying content. *   One hard drive was delivered on August 7, 2020, and the tracking information confirms this. *   Instructions were given for mailing the hard drives to the facility’s legal department, including numbering the drives and providing an authorization memo. *   The protocol for handling discovery drives for inmates involves non-encrypted drives and a cover letter containing the password. *   Confirmation of delivery was received and an update on the delivery process was requested.",
+      "timestamp": "2020-08-07T00:00:00",
+      "timestamp_raw": "August 7, 2020",
+      "keywords": [
+        "hard drive",
+        "discovery",
+        "mdc",
+        "inmate",
+        "fedex",
+        "password",
+        "encryption",
+        "protocol",
+        "authorization memo",
+        "usao"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00026711",
+            "similarity": 0.538,
+            "index": 23,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00026713",
+            "similarity": 0.538,
+            "index": 24,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00026711",
+      "summary": "A hard drive containing discovery materials was sent to Ghislaine Maxwell at MDC via FedEx on August 7, 2020, at 7:16 AM. The tracking number indicated “Delivered.” A subsequent email chain ensued regarding the delivery, confirming the arrival and outlining procedures for handling the drive, including password protection and mailing protocols to the legal department. The sender requested confirmation of the delivery protocol and inquired about the necessity of encryption for the drive’s contents.",
+      "timestamp": "2020-08-07T00:00:00",
+      "timestamp_raw": "August 7, 2020",
+      "keywords": [
+        "fedex",
+        "discovery",
+        "hard drive",
+        "mdc",
+        "ghislaine maxwell",
+        "inmate",
+        "password",
+        "authorization memo",
+        "delivery",
+        "tracking number"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00030906",
+            "similarity": 0.538,
+            "index": 22,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00026713",
+            "similarity": 0.538,
+            "index": 24,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00026713",
+      "summary": "An email chain discusses the delivery of a hard drive containing discovery materials to Ghislaine Maxwell at the MDC. The hard drive was delivered on August 7, 2020, at 7:16 AM, according to FedEx tracking. A subsequent email outlines protocol: the drive should be etched with a number, accompanied by an authorization memo, and potentially password-protected with a cover letter containing the password. The original sender indicates that non-encrypted drives are preferred for inmate use. The tracking number for the drive is EFTA00026713.",
+      "timestamp": "2020-08-07T00:00:00",
+      "timestamp_raw": "August 7, 2020",
+      "keywords": [
+        "delivery",
+        "hard drive",
+        "discovery",
+        "fedex",
+        "inmate",
+        "maxwell",
+        "mdc",
+        "password",
+        "protocol",
+        "authorization"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00026711",
+            "similarity": 0.538,
+            "index": 23,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00030906",
+            "similarity": 0.538,
+            "index": 22,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00016292",
+            "similarity": 0.538,
+            "index": 25,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00016292",
+      "summary": "*   Multiple parties (a U.S. Attorney’s office, a staff member, and an assistant U.S. attorney) were involved in coordinating the delivery and ensuring access to the files. *   The drive contained audio and video files, and initial reports indicated issues with certain files not opening. *   The sender sent a second drive containing all existing discovery via FedEx, including a password which was provided separately. *   The initial delivery was marked as “Delivered” on August 7th, but the recipient hadn't yet received it. *   Protocol dictated the drive needed to be numbered, have an authorization memo, and potentially be non-encrypted (without a password) for delivery to the inmate.",
+      "timestamp": "2020-08-26T00:00:00",
+      "timestamp_raw": "26 Aug 2020",
+      "keywords": [
+        "hard drive",
+        "discovery",
+        "files",
+        "audio",
+        "maxwell",
+        "inmate",
+        "fedex",
+        "password",
+        "southern district of new york",
+        "mdc"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00026713",
+            "similarity": 0.538,
+            "index": 24,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023962",
+      "summary": "A hard drive containing discovery materials for inmate Isabela Maxwell was delivered to the Metropolitan Detention Center (MDC). Initial reports indicated issues with files on the drive, specifically excel, pdf, tif, video, and audio files. A paralegal specialist was investigating the cause of the problems, requesting information on specific files and potential software needed to access them. A previous drive containing all discovery to date was also sent via FedEx with a password. There was discussion regarding the need for non-encrypted drives for inmate discovery materials.",
+      "timestamp": "2020-08-27T00:00:00",
+      "timestamp_raw": "27 Aug 2020",
+      "keywords": [
+        "hard drive",
+        "discovery",
+        "files",
+        "excel",
+        "pdf",
+        "tif",
+        "video",
+        "audio",
+        "maxwell",
+        "mdc"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023693",
+      "summary": "On October 2, 2020, the Assistant United States Attorney for the Southern District of New York sent a FedEx drive containing additional discovery for the Ghislaine Maxwell case to [REDACTED]. The sender requested that [REDACTED] and someone at the MDC monitor the delivery and ensure it reaches Maxwell promptly, due to previous complaints about delays.",
+      "timestamp": "2020-10-02T00:00:00",
+      "timestamp_raw": "October 2, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "discovery",
+        "fedex",
+        "attorneys",
+        "united states attorney",
+        "southern district of new york",
+        "maxwell",
+        "drive",
+        "mdc",
+        "new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00028049",
+            "similarity": 0.538,
+            "index": 30,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00029487",
+      "summary": "On October 30, 2020, multiple individuals (USANYS, [REDACTED]) discussed a delay in producing discovery related to the US v. Epstein case. The delay stemmed from significant processing time required for data received from FedEx, specifically 1.2 million records currently being imaged and processed. Hard drives containing productions (SDNYPROD008-014) were being sent to SDNY via FedEx, with the earliest images available on November 2nd.  A key concern was the unlikelihood of meeting the November 9th deadline, potentially requiring explanation to the Court and impacting the team’s workload under Judge Nathan.  The sender, Nick Koontz, indicated a possible timeline of Tuesday for a more concrete estimate.",
+      "timestamp": "2020-10-30T00:00:00",
+      "timestamp_raw": "October 30, 2020",
+      "keywords": [
+        "deadline",
+        "relativity",
+        "fedex",
+        "production",
+        "november 9",
+        "data",
+        "images",
+        "records",
+        "sdny",
+        "efta00029487"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00015280",
+            "similarity": 0.5,
+            "index": 37,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00013205",
+      "summary": "Epstein. *   Production consists of 40,000 images, FBI Florida boxes, and FBI FOIA documents. *   Electronic devices are not being produced. *   FedEx is delivering data in batches, with a significant amount still being processed and imaged. *   Specific hard drives (SDNYPROD008-014) containing approximately 1.2 million records are being sent to SDNY. *   The initial target date for record availability is November 2, 2020, with production starting shortly after. *   The initial target date for completion was November 9, 2020, but this is now unlikely. A revised estimate will be provided early next week. *   PAE is providing the documents on a rolling basis.",
+      "timestamp": "2020-11-02T00:00:00",
+      "timestamp_raw": "November 2, 2020",
+      "keywords": [
+        "fbi",
+        "documents",
+        "productions",
+        "images",
+        "fedex",
+        "sdny",
+        "epstein",
+        "records",
+        "november 9",
+        "hard drive",
+        "e-discovery"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028049",
+      "summary": "An Assistant United States Attorney from the Southern District of New York is sending a new drive containing additional discovery related to Ghislaine Maxwell via FedEx. The drive was being sent to [REDACTED] and the recipient was instructed to monitor its arrival and ensure it reaches Maxwell promptly, due to previous delays reported by Maxwell's attorneys. Attached documents, including a password file and a discovery letter, are included with the shipment.",
+      "timestamp": "2020-11-02T00:00:00",
+      "timestamp_raw": "02 Oct 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "discovery",
+        "usanys",
+        "fedex",
+        "attorneys",
+        "mdc",
+        "password",
+        "new york",
+        "southern district of new york",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00023693",
+            "similarity": 0.538,
+            "index": 27,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013245",
+      "summary": "Initial scans from 2013 were conducted, but some materials (1A10, 1A28, 1A84, and portions of 31E-MM-108062) were not scanned and were subsequently located on discs.  These discs contained PDFs, JPGs, etc., and were created as copies of the original paper.  There were also pornographic images that were not scanned, flagged with a “possible child pornography” note. The team is concerned about the completeness of the scan and wants a full, separate scan to ensure thoroughness, particularly given the potential for discovery.  The team is receiving updates on the shipment of the boxes via FedEx and is working to adjust the deadline to accommodate delays. The team has addressed concerns about the quality and completeness of the 2013 scans and is committed to a thorough review of all materials.",
+      "timestamp": "2020-11-12T00:00:00",
+      "timestamp_raw": "12 Oct 2020",
+      "keywords": [
+        "scanning",
+        "discs",
+        "images",
+        "boxes",
+        "epstein",
+        "maxwell",
+        "copies",
+        "pdfs",
+        "jpgs",
+        "pornographic",
+        "deadlines",
+        "investigation",
+        "labeling",
+        "reproduction",
+        "digital"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030550",
+      "summary": "A United States Attorney from the Southern District of New York sent a new drive with discovery materials related to Ghislaine Maxwell to the MDC via FedEx. The sender requested confirmation upon delivery to Maxwell. Two PDF files, a main document and a password file, were attached.",
+      "timestamp": "2020-11-20T00:00:00",
+      "timestamp_raw": "20 Oct 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "mdc",
+        "fedex",
+        "discovery",
+        "usanys",
+        "contractor",
+        "maxwell",
+        "production",
+        "cover letters",
+        "assistant united states attorney"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018262",
+      "summary": "A CD containing replacement discovery files for Ghislaine Maxwell was sent via FedEx overnight delivery from the Assistant United States Attorney’s office in the Southern District of New York to the MDC. A password letter was attached to the CD.",
+      "timestamp": "2020-11-29T00:00:00",
+      "timestamp_raw": "29 Oct 2020",
+      "keywords": [
+        "efta00018262",
+        "ghislaine maxwell",
+        "cd",
+        "fedex",
+        "password",
+        "discovery files",
+        "southern district of new york",
+        "mdc",
+        "united states attorney",
+        "maxwell"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028688",
+      "summary": "The email chain discusses a significant delay in the processing of data for the US v. Epstein case. Approximately 1.2 million records are being imaged and processed by PAE, with FedEx involvement. The initial deadline of November 9th is now considered unachievable. The team is concerned about the impact on discovery timelines and potential issues with Judge Nathan. Hard drives containing productions (SDNYPROD008-013) are being sent to Sony via FedEx. An update is expected early next week, potentially requiring a broader explanation to the court.",
+      "timestamp": "2020-11-30T00:00:00",
+      "timestamp_raw": "30 Oct 2020",
+      "keywords": [
+        "efta00028688",
+        "relativity",
+        "pae",
+        "fedex",
+        "data processing",
+        "discovery",
+        "deadline",
+        "november 9",
+        "records",
+        "production"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013202",
+      "summary": "*   The images were delayed due to PAE re-doing the production after initially de-duping without prior notification. *   The current production includes images, FBI Florida box documents, and FBI FOIA documents. Electronic device productions were not included. *   PAE is sending images to the recipient on a rolling basis, with an initial target completion date of November 9th appearing unlikely. *   A hard drive containing multiple SDNYPROD productions (1-14) is being shipped via FedEx, with approximately 1.2 million records currently being imaged. *   The recipient is awaiting updates on the processing timeline and anticipates a clearer estimate by early next week.",
+      "timestamp": "2020-11-30T00:00:00",
+      "timestamp_raw": "30 Oct 2020",
+      "keywords": [
+        "pae",
+        "images",
+        "fbi",
+        "redaction",
+        "production",
+        "november 9",
+        "fedex",
+        "records",
+        "electronic devices",
+        "usanys",
+        "sdnyprod"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00019137",
+            "similarity": 0.5,
+            "index": 36,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00019137",
+      "summary": "A communication chain discusses the processing of data, specifically six hard drives (SDNYPROD008-014) containing approximately 1.2 million records, being sent via FedEx to Sony. The data is currently being imaged and marked, with an initial target completion date of November 9th deemed unlikely. A revised estimate suggests completion by Tuesday with a clearer timeline following.  Nick Koontz, a Lead E-Discovery Analyst, is following up on the situation and offering to answer questions and facilitate a call between the parties. The email chain emphasizes the sensitive nature of the information and includes standard disclaimer language.",
+      "timestamp": "2020-11-30T00:00:00",
+      "timestamp_raw": "30 Oct 2020",
+      "keywords": [
+        "efta00019137",
+        "redaction analysis",
+        "pae",
+        "fedex",
+        "november 9",
+        "data imaging",
+        "records",
+        "production",
+        "usanys",
+        "sdnyprod"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00013202",
+            "similarity": 0.5,
+            "index": 35,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015280",
+      "summary": "Epstein case. *   The team is experiencing significant delays (1-2 months) in receiving processed data from Relativity. *   Approximately 1.2 million records are being imaged and will be available for production starting Monday, November 2nd. *   Hard drives containing productions SDNYPROD008 through SDNYPROD014 are being sent to SDNY via FedEx. *   A key concern is the potential impact on deadlines, particularly the November 9th deadline, and the possibility of requiring a court explanation. *   The sender anticipates a more concrete update early next week.",
+      "timestamp": "2020-11-30T00:00:00",
+      "timestamp_raw": "30 Oct 2020",
+      "keywords": [
+        "efta00015280",
+        "relativity",
+        "fedex",
+        "production",
+        "data",
+        "november 9",
+        "judge nathan",
+        "sdny",
+        "records",
+        "imaging",
+        "e-discovery"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00029487",
+            "similarity": 0.5,
+            "index": 28,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010199",
+      "summary": "A replacement drive is being sent to Ghislaine Maxwell via FedEx, replacing one that was broken. The broken drive needs to be returned to the U.S. Attorneys Office, SDNY in New York, NY 10007.",
+      "timestamp": "2020-12-03T00:00:00",
+      "timestamp_raw": "12/3/2020",
+      "keywords": [
+        "efta00010199",
+        "ghislaine maxwell",
+        "fedex",
+        "replacement drive",
+        "u.s. attorneys office",
+        "sdny",
+        "new york",
+        "broken drive",
+        "paralegal specialist",
+        "mail"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010200",
+      "summary": "A replacement drive is being sent via FedEx to Ghislaine Maxwell to replace one that was broken. The broken drive should be mailed back to the U.S. Attorney’s Office, Southern District of New York, located at New York, NY 10007. The email chain details the request and instructions for delivery and return.",
+      "timestamp": "2020-12-04T00:00:00",
+      "timestamp_raw": "December 4, 2020",
+      "keywords": [
+        "maxwell",
+        "drive",
+        "fedex",
+        "replacement",
+        "broken",
+        "mdc",
+        "u.s. attorney",
+        "new york",
+        "sdny"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00031949",
+            "similarity": 0.583,
+            "index": 90,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00010211",
+      "summary": "A letter from the Department of Justice, Federal Bureau of Prisons (Metroplitan Detention Center Brooklyn, NY), is being sent to Hon. Nathan regarding a replacement drive for Ghislaine Maxwell. The drive is FedExed from the U.S. Attorney's Office, SDNY, to the MDC, and the broken drive needs to be returned to the same address. The communication is marked as sensitive and privileged.",
+      "timestamp": "2020-12-04T00:00:00",
+      "timestamp_raw": "12/4/2020",
+      "keywords": [
+        "efta00010211",
+        "maxwell",
+        "ghislaine maxwell",
+        "federal bureau of prisons",
+        "brooklyn",
+        "new york",
+        "u.s. department of justice",
+        "southern district of new york",
+        "drive",
+        "fedex"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031962",
+      "summary": "An email chain discusses the delivery of a replacement drive to Ghislaine Maxwell. A track change on page 2 needs to be corrected before submission to Judge Nathan. A letter to Judge Nathan is attached. A replacement drive is being sent via FedEx, and the broken drive needs to be returned to the U.S. Attorney’s Office, SDNY. The email chain includes individuals from the U.S. Department of Justice, Federal Bureau of Prisons, and the U.S. Attorney’s Office.",
+      "timestamp": "2020-12-04T00:00:00",
+      "timestamp_raw": "December 4, 2020",
+      "keywords": [
+        "maxwell",
+        "drive",
+        "track change",
+        "united states attorney",
+        "new york",
+        "judge nathan",
+        "federal bureau of prisons",
+        "doj",
+        "sdny",
+        "redaction"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019282",
+      "summary": "An email chain discusses the delivery of CDs containing Eighth Production materials and a password for the CDs. The CDs include cover letters sent to defense counsel. A FedEx tracking number (816289189888) is associated with the shipment. The email is from a Paralegal Specialist at the U.S. Attorney’s Office, SDNY.",
+      "timestamp": "2020-12-17T00:00:00",
+      "timestamp_raw": "December 17, 2020",
+      "keywords": [
+        "efta00019282",
+        "mdc",
+        "cd",
+        "fedex",
+        "counsel",
+        "password",
+        "cover letter",
+        "maxwell",
+        "production",
+        "shared"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019285",
+      "summary": "On December 17, 2020, an Assistant United States Attorney from the Southern District of New York sent a new discovery production for Ghislaine Maxwell via FedEx. The production included copies of cover letters and related documents.",
+      "timestamp": "2020-12-17T00:00:00",
+      "timestamp_raw": "December 17, 2020",
+      "keywords": [
+        "efta00019285",
+        "ghislaine maxwell",
+        "discovery production",
+        "fedex",
+        "united states attorney",
+        "new york",
+        "redaction",
+        "assistant",
+        "maxwell",
+        "mdc"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029978",
+      "summary": "A United States Attorney sent a laptop, power cord, cover memo, a hard drive with a new discovery production, and two cover letters to Maxwell for her review of discovery materials. A previous hard drive containing file replacements was also shipped via FedEx. The Attorney requested confirmation that the drive was delivered to Maxwell.",
+      "timestamp": "2020-12-18T00:00:00",
+      "timestamp_raw": "18 Nov 2020",
+      "keywords": [
+        "maxwell",
+        "laptop",
+        "discovery",
+        "production",
+        "cover memo",
+        "hard drive",
+        "fedex",
+        "usanys",
+        "redacted",
+        "password"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030947",
+      "summary": "An Assistant United States Attorney from the Southern District of New York is preparing a drive containing discovery material previously provided to Ghislaine Maxwell. Defense counsel requested that Maxwell review the materials over the weekend, and is offering to personally deliver the drive to the MDC (presumably Maxwell’s location) tomorrow. The U.S. Attorney’s office is considering whether allowing defense counsel to pick up the drive is permissible.",
+      "timestamp": "2021-01-07T00:00:00",
+      "timestamp_raw": "07 Jan 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "discovery material",
+        "defense counsel",
+        "united states attorney",
+        "southern district of new york",
+        "fedex",
+        "review",
+        "mdc",
+        "cd",
+        "request"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00030872",
+            "similarity": 0.538,
+            "index": 46,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00021709",
+            "similarity": 0.818,
+            "index": 49,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00030872",
+      "summary": "An email exchange discusses delivering a new drive containing discovery material to Ghislaine Maxwell. The drive, prepared at the request of defense counsel, was intended to replace a previously provided CD. Defense counsel requested delivery to the MDC, initially proposing a hand delivery but offering to pick up the drive themselves. The Assistant United States Attorney was considering this request.",
+      "timestamp": "2021-01-08T00:00:00",
+      "timestamp_raw": "08 Jan 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "efta00030872",
+        "usanys",
+        "defense counsel",
+        "discovery material",
+        "drive",
+        "mdc",
+        "fedex",
+        "southern district of new york",
+        "request"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00030947",
+            "similarity": 0.538,
+            "index": 45,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00013267",
+            "similarity": 0.538,
+            "index": 48,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00021709",
+            "similarity": 0.538,
+            "index": 49,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00021711",
+      "summary": "On January 8, 2021, an Assistant United States Attorney from the Southern District of New York requested permission to allow defense counsel to deliver a new drive containing discovery material to the MDC (presumably Maxwell’s location). The drive was prepared at the request of defense counsel to allow Ghislaine Maxwell to review previously produced CD materials over the weekend. The U.S. Attorney’s office was unavailable to deliver the drive themselves, and a FedEx delivery would not arrive until the following week.",
+      "timestamp": "2021-01-08T00:00:00",
+      "timestamp_raw": "January 8, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "efta00021711",
+        "defense",
+        "mdc",
+        "drive",
+        "discovery material",
+        "southern district of new york",
+        "maxwell",
+        "fedex",
+        "delivery"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00013267",
+            "similarity": 0.538,
+            "index": 48,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00013267",
+      "summary": "An Assistant United States Attorney from the Southern District of New York is discussing the delivery of a new drive containing discovery material previously provided to Ghislaine Maxwell. Defense counsel requested Maxwell review the materials over the weekend and proposed they pick up the drive from the office for delivery to the MDC. The U.S. Attorney’s office was initially considering having someone deliver the drive but determined it wouldn’t arrive before the weekend due to logistical constraints.",
+      "timestamp": "2021-01-08T00:00:00",
+      "timestamp_raw": "08 Jan 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "usanys",
+        "defense",
+        "mdc",
+        "drive",
+        "discovery material",
+        "fedex",
+        "maxwell",
+        "new york",
+        "request"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00021711",
+            "similarity": 0.538,
+            "index": 47,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00030872",
+            "similarity": 0.538,
+            "index": 46,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021709",
+      "summary": "An Assistant United States Attorney from the Southern District of New York is responding to a request from defense counsel regarding Ghislaine Maxwell’s access to discovery materials. The materials, previously provided on a CD, are being compiled into a new drive. Defense counsel requested weekend access for Maxwell, proposing they pick up the drive themselves. The U.S. Attorney’s office is currently unavailable to deliver the drive and cannot facilitate a FedEx delivery due to the timing.",
+      "timestamp": "2021-01-08T00:00:00",
+      "timestamp_raw": "08 Jan 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "discovery material",
+        "defense counsel",
+        "united states attorney",
+        "southern district of new york",
+        "fedex",
+        "drive",
+        "review",
+        "cd",
+        "mdc"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00030872",
+            "similarity": 0.538,
+            "index": 46,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00030947",
+            "similarity": 0.818,
+            "index": 45,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038548",
+      "summary": "An email was sent from EFTA00038548 to [REDACTED] and [REDACTED], with [REDACTED] in the CC field, regarding a follow-up on Maxwell. The email requested contact with Victoria Secret and FedEx to inquire about document retention policies, a review of images (specifically photos), and a follow-up with ALAT concerning UK travel records for Maxwell and Epstein.",
+      "timestamp": "2021-02-17T00:00:00",
+      "timestamp_raw": "17 Feb 2021",
+      "keywords": [
+        "efta00038548",
+        "maxwell",
+        "epstein",
+        "victoria secret",
+        "fedex",
+        "alat",
+        "uk travel records",
+        "redaction",
+        "email",
+        "follow up"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027083",
+      "summary": "An Assistant United States Attorney is following up on the Maxwell investigation. They are requesting information regarding document retention policies from Victoria Secret and FedEx, specifically concerning timeframes (1-5 years depending on method). The investigation also includes a review of images and follow-up with ALAT regarding Maxwell and Epstein’s UK travel records. Detective NYPD/FBI is also involved in the investigation and awaiting a response from Victoria Secret and FedEx.",
+      "timestamp": "2021-02-22T00:00:00",
+      "timestamp_raw": "22 Feb 2021",
+      "keywords": [
+        "efta00027083",
+        "maxwell",
+        "victoria secret",
+        "fedex",
+        "trafficking",
+        "epstein",
+        "nypd",
+        "fbi",
+        "child exploitation",
+        "retention"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00029932",
+            "similarity": 0.538,
+            "index": 52,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00021353",
+            "similarity": 0.667,
+            "index": 53,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00029932",
+      "summary": "An email chain discusses a follow-up regarding the Maxwell investigation. One email provides information from February 22, 2021, stating FedEx retains records for 1-5 years depending on the shipping method and that a response is pending from Victoria Secret. Another email, dated February 17, 2021, outlines tasks including contacting Victoria Secret and FedEx about document retention, reviewing images, and following up on UK travel records for Maxwell and Epstein. The final email is from an Assistant United States Attorney offering to discuss the matter.",
+      "timestamp": "2021-02-22T00:00:00",
+      "timestamp_raw": "February 22, 2021",
+      "keywords": [
+        "efta00029932",
+        "maxwell",
+        "victoria secret",
+        "fedex",
+        "fbi",
+        "child exploitation",
+        "human trafficking",
+        "retention",
+        "nypd",
+        "usanys"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00027083",
+            "similarity": 0.538,
+            "index": 51,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021353",
+      "summary": "Emails detail a follow-up investigation regarding “Maxwell” involving the NYPD/FBI, the FBI, and the United States Attorney’s Office for the Southern District of New York. Victoria Secret’s record retention is limited to approximately two years due to a recent system change. FedEx retains records for 1-5 years depending on shipping method. Efforts are underway to obtain documents and travel records from Victoria Secret, FedEx, and ALAI concerning Maxwell and Epstein.",
+      "timestamp": "2021-02-24T00:00:00",
+      "timestamp_raw": "24 Feb 2021",
+      "keywords": [
+        "fbi",
+        "maxwell",
+        "victoria secret",
+        "trafficking",
+        "uk",
+        "epstein",
+        "fedex",
+        "records",
+        "nypd",
+        "child exploitation"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00027083",
+            "similarity": 0.667,
+            "index": 51,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018834",
+      "summary": "Jason Foy sent electronic copies of documents related to the case *US v. Noel* to multiple recipients, including a deferred prosecution application and exhibits. He confirmed the sending via FedEx with 5 copies and anticipated updates from co-counsel next week. He requested confirmation of receipt and offered to answer any questions.",
+      "timestamp": "2021-02-26T00:00:00",
+      "timestamp_raw": "26 Feb 2021",
+      "keywords": [
+        "efta00018834",
+        "noel",
+        "us v.",
+        "jason foy",
+        "redaction",
+        "prosecution",
+        "deferred prosecution",
+        "fedex",
+        "toya coyer",
+        "tova noel"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00008863",
+      "summary": "This document is a redacted portion of the United States v. Ghislaine Maxwell case, specifically related to Jeffrey Epstein’s activities. It contains several FedEx shipping records, primarily invoices for packages sent between October 2002 and January 2001. These records detail shipments from Epstein’s New York address to his Palm Beach residence, and include tracking information, service types (like FedEx Priority Overnight), charges (including a fuel surcharge), and details of the packages themselves (weight, dimensions, etc.). Several handwritten message pads from Epstein’s Palm Beach residence are also included, containing short, urgent communications with various recipients, referencing meetings, phone calls, and requests for “rush” service. The documents are part of the evidence presented in the Maxwell case, focusing on Epstein’s travel and communication patterns.",
+      "timestamp": "2021-03-29T00:00:00",
+      "timestamp_raw": "March 29, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "jeffrey epstein",
+        "fedex",
+        "united states",
+        "efta00008863",
+        "grand jury",
+        "invoice",
+        "transport",
+        "flights",
+        "message pads"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031015",
+      "summary": "An Assistant United States Attorney from the Southern District of New York sent supplemental discovery production and a cover letter regarding the case *US v. Maxwell, 20 Cr. 330 (MN)* to Christian Everdell. The production was to be loaded onto a FedEx-sent replacement drive provided to the recipient.",
+      "timestamp": "2021-05-03T00:00:00",
+      "timestamp_raw": "03 May 2021",
+      "keywords": [
+        "us v. maxwell",
+        "discovery production",
+        "efta00031015",
+        "christian everdell",
+        "southern district of new york",
+        "20 cr. 330 (mn)",
+        "united states attorney",
+        "2021.05.03_discovery_production.zip",
+        "2021.05.03_maxwell_discovery_letter.pdf"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024925",
+      "summary": "An email chain discusses the production of discovery materials in the case of *US v. Maxwell, 20 Cr. 330 (AJN)*. A supplemental discovery production and a cover letter were sent to counsel via FedEx from the Assistant United States Attorney for the Southern District of New York. The materials were intended for the client, and a replacement drive containing the production was sent to the MDC.",
+      "timestamp": "2021-05-03T00:00:00",
+      "timestamp_raw": "03 May 2021",
+      "keywords": [
+        "discovery",
+        "production",
+        "maxwell",
+        "us v.",
+        "litigation",
+        "evidence",
+        "cover letter",
+        "bsf photos",
+        "southern district of new york",
+        "20 cr. 330"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032002",
+      "summary": "On June 10, 2021, the U.S. Department of Justice, specifically the United States Attorney for the Southern District of New York, sent a communication via FedEx to the Legal Department of the MDC—Metropolitan Detention Center regarding the case United States v. Ghislaine Maxwell (20 Cr. 330 (AJN)). The communication included the password for a disc containing discovery materials related to the case.",
+      "timestamp": "2021-06-10T00:00:00",
+      "timestamp_raw": "June 10, 2021",
+      "keywords": [
+        "efta00032002",
+        "ghislaine maxwell",
+        "united states v.",
+        "metropolitan detention center",
+        "discovery materials",
+        "united states department of justice",
+        "audrey strauss"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029867",
+      "summary": "On July 13, 2021, prepared testimony was created for trial regarding a case involving individuals (AUSAs, SA, Det., Prep) and GM. Key recollections included: a memory of driving a white car, differing recollections about GM’s hair length, receiving approximately $300 from JE for visits, knowledge of JE’s employees using her mother’s phone number, GM requesting a cellphone, occasional friends driving her to JE’s with payment, receiving the “Massage for Dummies” book in FedEx packages, an estimate of her age when GM saw her nude, a belief that JE instructed her to massage a specific individual, SH’s physical abuse, a recent period of sobriety, a lack of memory regarding a 2007 FBI interview, and an inability to sue GM due to participation in the victim compensation fund.",
+      "timestamp": "2021-07-13T00:00:00",
+      "timestamp_raw": "July 13, 2021",
+      "keywords": [
+        "ausas",
+        "sa",
+        "det.",
+        "prep",
+        "gm",
+        "je's",
+        "massage",
+        "victim compensation fund",
+        "fbi",
+        "recollections"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018186",
+      "summary": "*   The trial is scheduled for November in New York. *   They are requesting FedEx records from 2008, initially obtained through a subpoena. *   A cover letter and certification from FedEx in 2008 were attached to provide relevant documentation. *   The team is seeking confirmation of someone who can sign an affidavit or provide testimony at trial. *   Communication involves multiple individuals, including paralegals and an assistant US attorney, with follow-up requests for contact information.",
+      "timestamp": "2021-07-16T00:00:00",
+      "timestamp_raw": "16 Jul 2021",
+      "keywords": [
+        "fedex",
+        "legal department",
+        "records custodian",
+        "testimony",
+        "affidavits",
+        "ghislaine maxwell",
+        "jeffrey epstein",
+        "trial",
+        "new york",
+        "subpoena",
+        "united states attorney",
+        "memphis",
+        "tn"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00019047",
+            "similarity": 0.5,
+            "index": 64,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038698",
+      "summary": "The FBI investigated a case involving Jeffrey Epstein and child sex trafficking, utilizing a Missouri birth certificate identified on July 19, 2021. The birth certificate, originating from Springfield, Missouri, was obtained from the Missouri Department of Health (MDI), Bureau of Vital Statistics. The investigation involved obtaining a copy of the birth certificate and a FedEx shipment with tracking number 774263193664. A physical copy of the certificate will be maintained as an intelligence file and mailed to the case agent.",
+      "timestamp": "2021-07-19T00:00:00",
+      "timestamp_raw": "July 19, 2021",
+      "keywords": [
+        "efta00038698",
+        "missouri birth certificate",
+        "jeffrey epstein",
+        "child sex trafficking",
+        "fbi",
+        "bureau of vital statistics",
+        "birth record",
+        "certificate of live birth",
+        "fedex",
+        "tracking number"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023043",
+      "summary": "A contractor ([REDACTED]) is assisting the US Attorney's Office (USANYS) with a project concerning documents related to the “GM FedEx Project.” The contractor is reviewing FedEx documents, confirming they were not produced in discovery.  They have drafted a cover letter for the FedEx documents, suggesting it be stamped with specific protective order language. Additional materials are located in a shared folder and the contractor is seeking guidance on whether to stamp them as well, or solely focus on the FedEx materials. Scheduling discussions regarding a call to coordinate work are also occurring between the parties.",
+      "timestamp": "2021-07-21T00:00:00",
+      "timestamp_raw": "21 Jul 2021",
+      "keywords": [
+        "fedex",
+        "discovery",
+        "usanys",
+        "contractor",
+        "maxwell",
+        "production",
+        "stamped",
+        "protective order",
+        "united states attorney",
+        "email"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023045",
+      "summary": "On July 21, 2021, the U.S. Department of Justice, via the Southern District of New York, produced discovery materials related to the case *United States v. Ghislaine Maxwell* (20 Cr. 330). The materials, stamped with control numbers SDNY_GM_02753552 through SDNY_GM_02759392, include FedEx records (EFTA00023045) and are governed by a Protective Order dated July 31, 2020. The Government states it will continue to produce additional discoverable material as needed.",
+      "timestamp": "2021-07-21T00:00:00",
+      "timestamp_raw": "July 21, 2021",
+      "keywords": [
+        "justice",
+        "united states department",
+        "ghislaine maxwell",
+        "protective order",
+        "discovery",
+        "sdny",
+        "cohen & gresser llp",
+        "haddon morgan and foreman",
+        "bates numbers"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019047",
+      "summary": "Attorney’s Office for the Southern District of New York regarding potential records for the Ghislaine Maxwell trial. *   The primary goal was to identify a records custodian who could testify at trial, potentially including a witness who could appear in person. *   A subpoena was issued to FedEx in February 2008 related to the case. *   Documents, including a FedEx cover letter and certification from 2008, were provided as potential evidence. *   Tracy Ferrara of FedEx was identified as the point of contact for the subpoena. *   A request was made for an affidavit or a witness to testify, specifically referencing Jeffrey Epstein. *   The trial was scheduled to begin in New York in November 2021.",
+      "timestamp": "2021-07-30T00:00:00",
+      "timestamp_raw": "30 Jul 2021",
+      "keywords": [
+        "fedex",
+        "records custodian",
+        "testimony",
+        "affidavits",
+        "legal department",
+        "litigation",
+        "subpoena",
+        "ghislaine maxwell",
+        "tracy ferrara",
+        "new york",
+        "2008"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00018186",
+            "similarity": 0.5,
+            "index": 60,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019051",
+      "summary": "Attorney’s Office for the Southern District of New York are involved in a search for records related to Ghislaine Maxwell and Jeffrey Epstein. *   The initial request involves locating a FedEx account number and shipment data from 2007-2020. *   A spreadsheet containing shipment data from 2007-2020 is being provided. *   The search involves identifying a records custodian who could testify in a trial for Ghislaine Maxwell (scheduled in New York in November). *   A subpoena was issued to FedEx in February 2008, with Tracy Ferrara as the point of contact. *   The goal is to find relevant documents for potential use as evidence. *   There is an attempt to engage a paralegal to prepare an affidavit or potentially testify at trial.",
+      "timestamp": "2021-08-05T00:00:00",
+      "timestamp_raw": "05 Aug 2021",
+      "keywords": [
+        "fedex",
+        "account number",
+        "subpoena",
+        "ghislaine maxwell",
+        "jeffrey epstein",
+        "records custodian",
+        "trial",
+        "affidavit",
+        "memphis",
+        "tn",
+        "usanys",
+        "2007-2020"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029417",
+      "summary": "On August 12, 2021, the U.S. Department of Justice, specifically the United States Attorney for the Southern District of New York, sent a communication via FedEx to the Metropolitan Detention Center Legal Department regarding the United States v. Ghislaine Maxwell case (20 Cr. 330 (AJN)). The communication included the password for a drive containing discovery materials related to Ghislaine Maxwell (case number 02879-509). It was sent by Audrey Strauss, United States Attorney.",
+      "timestamp": "2021-08-12T00:00:00",
+      "timestamp_raw": "August 12, 2021",
+      "keywords": [
+        "justice",
+        "ghislaine maxwell",
+        "united states department of justice",
+        "federal express",
+        "metropolitan detention center",
+        "discovery materials",
+        "legal",
+        "brooklyn",
+        "20 cr 330",
+        "audrey strauss"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018005",
+      "summary": "An Assistant United States Attorney from the Southern District of New York is reviewing documents related to case EFTA00018005, including FBI files and FedEx business records certificates. A handbook attached to the email was used in an interview and Maxwell phone records are being investigated.",
+      "timestamp": "2021-09-22T00:00:00",
+      "timestamp_raw": "22 Sep 2021",
+      "keywords": [
+        "relativity",
+        "fbi",
+        "maxwell",
+        "phone records",
+        "fedex",
+        "handbook",
+        "united states attorney",
+        "new york",
+        "records",
+        "redaction"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018855",
+      "summary": "On September 28, 2021, a USANYS contractor sent a list of exhibits related to MEM GX to aUSANYS. The exhibits included photographs of Epstein, Maxwell, and an unidentified individual (from photobooks), a group photo with CA, PB search warrant photos, video of a search, property receipts, FedEx records, flight records, AT&T records, deposition and Mar-A-Lago records, maps, a sworn statement (EFTA00018855), and EFTA00018856.",
+      "timestamp": "2021-09-28T00:00:00",
+      "timestamp_raw": "September 28, 2021",
+      "keywords": [
+        "efta00018855",
+        "gx",
+        "maxwell",
+        "epstein",
+        "photobook",
+        "search warrant",
+        "fedex",
+        "flight records",
+        "mar-a-lago",
+        "usanys"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015186",
+      "summary": "The U.S. Department of Justice, via the Southern District of New York, is producing discovery materials related to the case of *United States v. Ghislaine Maxwell* (20 Cr. 330). The materials, stamped with control numbers SDNY_GM_02762507 through SDNY_GM_02763017, include files from JPMC, FAA, FedEx, and databases pertaining to Ghislaine Maxwell and Jeffrey Epstein, along with photographs. The production is governed by a Protective Order, specifically paragraphs 7, 8, 9, 10, 15, and 17. The DOJ states they are producing these files as an abundance of caution and acknowledges ongoing discovery obligations.",
+      "timestamp": "2021-10-07T00:00:00",
+      "timestamp_raw": "October 7, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states v.",
+        "protective order",
+        "sdny",
+        "justice department",
+        "discovery materials",
+        "confidential",
+        "fbi",
+        "jpmc",
+        "database files",
+        "photographs"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027753",
+      "summary": "The U.S. Attorney for the Southern District of New York responded to a court order regarding the delivery of legal mail to Ghislaine Maxwell at the Metropolitan Detention Center (MDC). Standard procedure dictates legal mail is delivered within one business day of receipt at the MDC, involving warehouse processing, logging, and authorization before delivery to the inmate. Due to the high volume of inmates (1,700) and the legal department's responsibilities, expedited delivery for Maxwell’s mail is not practicable. A hard drive containing court disclosures was delivered via FedEx on October 11, 2021, but a subsequent institutional emergency delayed delivery on October 13, 2021, which was personally delivered by legal counsel on October 14, 2021. The court rejected Maxwell’s request for a specific delivery order, but expects mail to be delivered within one business day going forward.",
+      "timestamp": "2021-10-11T00:00:00",
+      "timestamp_raw": "October 11, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "metropolitan detention center",
+        "legal mail",
+        "united states department of justice",
+        "delivery protocols",
+        "mdc",
+        "court order"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029294",
+      "summary": "Bobbi Sternheim, an attorney, is communicating with someone regarding the delivery of hard drives and legal materials to Ghislaine Maxwell at the MDC (presumably the Metropolitan Detention Center). Sternheim reports that two FedEx envelopes containing these items were delivered on October 12, 2021, at 10:26 AM, but Maxwell hadn't received them as of October 13, 2021. Sternheim expresses concern that this delay will be reported to the court and requests an explanation. Attached screenshots show FedEx delivery confirmations.",
+      "timestamp": "2021-10-12T00:00:00",
+      "timestamp_raw": "October 12, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "bobbi sternheim",
+        "mdc",
+        "fedex",
+        "hard drive",
+        "legal material",
+        "delivery",
+        "government",
+        "court",
+        "october 12",
+        "2021"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00029297",
+            "similarity": 0.818,
+            "index": 74,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00026701",
+      "summary": "On October 13, 2021, Bobbi C. Sternheim sent an email to Sobel regarding the delivery of two FedEx envelopes containing hard drives and decryption passwords to Ghislaine Maxwell at the MOE (likely a specific location). The envelopes, tracking numbers 8166 1429 9141 and 8166 1429 9130, were delivered to the MOE on October 12, 2021, at 10:26 AM. As of October 13, 2021, Maxwell had not received the packages, prompting Sternheim to request an explanation for the delay to be reported to the court. The email also included a disclaimer regarding confidential information from the Law Offices of Bobbi C. Sternheim.",
+      "timestamp": "2021-10-13T00:00:00",
+      "timestamp_raw": "October 13, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "fedex",
+        "tracking",
+        "court",
+        "delivery",
+        "bobbi stemheim",
+        "encryption",
+        "password",
+        "october 12",
+        "2021"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016716",
+      "summary": "On October 13, 2021, Bobbi C. Sternheim sent an email to multiple recipients regarding the delivery of a hard drive to Ghislaine Maxwell at the MDC. The hard drive was to be sent via FedEx and immediately given to Maxwell upon arrival. Sternheim requested confirmation upon arrival and provided her updated contact information. The email contained a standard confidentiality disclaimer.",
+      "timestamp": "2021-10-13T00:00:00",
+      "timestamp_raw": "October 13, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "efta00016716",
+        "ausas",
+        "hard drives",
+        "delivery",
+        "bobbi c. sternheim",
+        "federal express",
+        "mdc",
+        "maxwell",
+        "redaction"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029297",
+      "summary": "On October 14, 2021, Bobbi Sternheim, representing the Law Offices of Bobbi C. Sternheim, contacted [REDACTED] regarding a delivery of hard drives and legal materials to Ghislaine Maxwell at the MDC. Sternheim reported that two FedEx envelopes sent to the MDC on October 12th, at 10:26 am, had not been received by Maxwell. Sternheim expressed concern that this delay would be reported to the court and requested an explanation. The email included standard legal disclaimers and attachments of screenshots related to the FedEx tracking information.",
+      "timestamp": "2021-10-14T00:00:00",
+      "timestamp_raw": "October 14, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "bobbi sternheim",
+        "fedex",
+        "mdc",
+        "legal material",
+        "hard drive",
+        "government",
+        "delivery",
+        "court"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00029294",
+            "similarity": 0.818,
+            "index": 71,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027711",
+      "summary": "The U.S. Department of Justice, specifically the United States Attorney for the Southern District of New York, sent a notification via FedEx to the Legal Department of the MDC—Metropolitan Detention Center on November 11, 2021. The notification concerns the United States v. Ghislaine Maxwell case (20 Cr. 330 (AJN)) and provides the password “isME” for a drive containing witness materials, government exhibits, and discovery related to the case.",
+      "timestamp": "2021-11-11T00:00:00",
+      "timestamp_raw": "November 11, 2021",
+      "keywords": [
+        "united states v. ghislaine maxwell",
+        "justice",
+        "department of justice",
+        "metropolitan detention center",
+        "federal express",
+        "witness materials",
+        "discovery",
+        "government exhibits",
+        "mollo building",
+        "new york"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00005967",
+      "summary": "EFTA00005967 is a FedEx tracking record for shipment number 796271883447. The package, weighing 1 lb (0.45 kg) and measuring 12x9x3 inches, was shipped from New York, NY, to Novato, CA, on November 24, 2021, via FedEx Priority Overnight. It was delivered on November 26, 2021, at 9:15 AM, signed for by A. ALEX. The tracking details include a travel history showing stops at various FedEx hubs and facilities between Indianapolis, IN and San Rafael, CA. The RMA number is 642371.",
+      "timestamp": "2021-11-24T00:00:00",
+      "timestamp_raw": "November 24, 2021",
+      "keywords": [
+        "fedex",
+        "tracking",
+        "shipment",
+        "delivery",
+        "new york",
+        "novato",
+        "ca",
+        "2021",
+        "11/26/2021",
+        "dimensions",
+        "weight",
+        "packaging"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016482",
+      "summary": "On November 24, 2021, a paralegal specialist from the U.S. Attorney’s Office I SDNY requested a time-sensitive review of pending productions, specifically the TW 3500 and Rule 16 productions, along with associated cover letters. The productions were located at Wsa.doj.gov\\cloud \\ NYS \\StAndrews\\ Shared \\USvEpstein-2018R01618 !Trial and included an Excel version of the indices. A password was attached to expedite the review process. The specialist needed the materials reviewed and ready for loading by 3:20 PM due to a FedEx pickup at 4:00 PM. EFTA00016482 was referenced.",
+      "timestamp": "2021-11-24T00:00:00",
+      "timestamp_raw": "November 24, 2021",
+      "keywords": [
+        "efta00016482",
+        "review",
+        "productions",
+        "cover letters",
+        "index",
+        "usanys",
+        "contractor",
+        "fedex",
+        "time sensitive",
+        "trial"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016488",
+      "summary": "On November 24, 2021, Damian Williams, United States Attorney for the Southern District of New York, sent a communication via FedEx to the Legal Department of the MDC—Metropolitan Detention Center in Brooklyn, NY. The communication related to the case of United States v. Ghislaine Maxwell (20 Cr. 330). It provided the password for a drive containing witness materials, government exhibits, and discovery documents pertinent to Ghislaine Maxwell (02879-509).",
+      "timestamp": "2021-11-24T00:00:00",
+      "timestamp_raw": "November 24, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states v.",
+        "united states department of justice",
+        "metropolitan detention center",
+        "discovery",
+        "witness materials",
+        "government exhibits",
+        "federal express",
+        "brooklyn",
+        "new york"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018888",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] regarding case 3500, the Ghislaine Maxwell trial. The email details the attachment of defense-related documents, including cover letters, indices, witness material, and Microsoft Word documents. These materials were uploaded to USAfx and are prepared for distribution to the defense team. The sender intends to load a drive for Maxwell and ship it via FedEx.",
+      "timestamp": "2021-12-06T00:00:00",
+      "timestamp_raw": "06 Nov 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "efta00018888",
+        "redaction analysis",
+        "defense",
+        "usafx",
+        "fedex",
+        "maxwell",
+        "cover letter",
+        "witness material",
+        "2021"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036986",
+      "summary": "This document is a series of emails exchanged between Melissa Gormly, a paralegal with FedEx Express, and the U.S. Attorney’s Office (specifically, an Assistant United States Attorney from the Southern District of New York). The emails concern a subpoena issued to FedEx in 2008 regarding records related to Ghislaine Maxwell and Jeffrey Epstein. A key focus is identifying a records custodian who can testify and providing FedEx records (including a spreadsheet of shipments) to the U.S. Attorney’s Office.  Logistics for a potential deposition, including travel arrangements and COVID-19 testing protocols for a visitor, are discussed. Redactions throughout the document indicate sensitive information is being protected.",
+      "timestamp": "2021-12-06T00:00:00",
+      "timestamp_raw": "December 6, 2021",
+      "keywords": [
+        "fedex",
+        "covid test",
+        "melissa gormly",
+        "courthouse",
+        "usanys",
+        "subpoena",
+        "maxwell",
+        "epstein",
+        "vaccination",
+        "new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029574",
+      "summary": "An email was sent from Christian Everdell of Cohen & Gresser LLP to (USANYS) Contractor regarding a Defense Rule 16 disclosure. The email included several attachments, including letters of certification from AT&T and FedEx, a list of certified FedEx invoices, Interlochen records, a redacted release from A. Farmer, and an NPA document (Epstein). The email requested the recipients to save the attachments on a shared drive.",
+      "timestamp": "2021-12-09T00:00:00",
+      "timestamp_raw": "09 Nov 2021",
+      "keywords": [
+        "defense rule 16",
+        "redaction",
+        "disclosure",
+        "efta00029574",
+        "contractor",
+        "usanys",
+        "christian everdell",
+        "cohen & gresser llp",
+        "fedex",
+        "certification"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00009985",
+      "summary": "Christian Everdell of Cohen & Gresser LLP sent an external email to [REDACTED], Jeff Pagliuca, and Laura Menninger regarding a Defense Rule 16 disclosure. The email included attachments related to the disclosure, specifically redacted documents including: a letter to the government, certifications from AT&T and FedEx, a list of certified FedEx invoices, Interlochen Records, a redacted A. Farmer Release, and an Epstein NPA. A confidentiality notice and privacy policy link were also included.",
+      "timestamp": "2021-12-09T00:00:00",
+      "timestamp_raw": "09 Nov 2021",
+      "keywords": [
+        "defense rule 16",
+        "redaction",
+        "efta00009985",
+        "christian everdell",
+        "cohen & gresser llp",
+        "disclosures",
+        "certifications",
+        "invoices",
+        "geneva"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023359",
+      "summary": "The United States Attorney’s Office for the Southern District of New York is sending additional discovery materials related to the case *US v. Maxwell* (20 Cr. 330 (MN)) to counsel. This includes a cover letter, a hard drive containing documents, and supplemental productions of testifying and non-testifying witness material and exhibits. The materials will also be available via USAfx. The sender requests confirmation regarding pickup of the hard drive or FedEx delivery options.",
+      "timestamp": "2021-12-20T00:00:00",
+      "timestamp_raw": "20 Nov 2021",
+      "keywords": [
+        "us v. maxwell",
+        "discovery",
+        "witness",
+        "evidence",
+        "defense",
+        "hard drive",
+        "fedex",
+        "united states attorney's office",
+        "new york",
+        "maxwell"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014653",
+      "summary": "A hard drive and password were sent to the Metropolitan Detention Center (MDC) via FedEx as part of a case involving the United States v. Maxwell. The sender is an Assistant United States Attorney from the Southern District of New York, EFTA00014653.",
+      "timestamp": "2021-12-20T00:00:00",
+      "timestamp_raw": "20 Nov 2021",
+      "keywords": [
+        "us v. maxwell",
+        "hard drive",
+        "fedex",
+        "password",
+        "ms. maxwell",
+        "united states attorney",
+        "mdc",
+        "southern district of new york",
+        "2021",
+        "efta00014653"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019454",
+      "summary": "A contractor is preparing a discovery production for the US v. Maxwell case. This includes a Rule 16 production excluding SDNY_GM_02774100-SDNY_GM_02774104, as well as witness and exhibit materials. The materials are being sent via FedEx to both Colorado and the MDC, with tracking numbers provided.  A cover letter is attached for the hard drive containing the materials. The contractor is coordinating with USANYS counsel to determine delivery method (pickup or FedEx) and recipient locations (CO, MDC, or Ms. Maxwell at the MDC).",
+      "timestamp": "2021-12-20T00:00:00",
+      "timestamp_raw": "20 Nov 2021",
+      "keywords": [
+        "maxwell",
+        "us v.",
+        "usafx",
+        "production",
+        "drive",
+        "mdc",
+        "fedex",
+        "rule 16",
+        "discovery",
+        "witness",
+        "sdny"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014655",
+      "summary": "A communication regarding the discovery production in the case of *US v. Maxwell* (20 Cr. 330 (AJN)). A corrected cover letter was sent to Laura Mennin, detailing a correction of an SDNY file number error (changing SDNY_GM_02774195 to SDNY_GM_02774105). Hard drives containing discovery materials were shipped to Mennin’s office in Colorado and to Maxwell’s client at the MDC via FedEx. Some Bates numbers (2774105-2774194) were missing from the production and were requested for clarification. An additional discovery production including witness material and exhibits was also being prepared for shipment via hard drive and USAfx.",
+      "timestamp": "2021-12-20T00:00:00",
+      "timestamp_raw": "20 Nov 2021",
+      "keywords": [
+        "us v. maxwell",
+        "discovery",
+        "production",
+        "usafx",
+        "fedex",
+        "laura mennin",
+        "jeff pagliuca",
+        "sdny_gm_02774105",
+        "hard drive",
+        "witness"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031109",
+      "summary": "A legal production, including Rule 16 and 3500 productions, related to the U.S. v. Maxwell case, was prepared and sent to defense counsel via FedEx drive. The drive and password were provided with tracking numbers. The production was uploaded to USAfx. A time-sensitive review of the 3500 index was requested, and the materials were located on Msa.doj.gov\\cloud NYS. Cover letters and Excel indices were attached for review and potential changes.",
+      "timestamp": "2021-12-24T00:00:00",
+      "timestamp_raw": "24 Nov 2021",
+      "keywords": [
+        "maxwell",
+        "production",
+        "rule 16",
+        "3500",
+        "fedex",
+        "usafx",
+        "discovery",
+        "attorney",
+        "index",
+        "time-sensitive"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024986",
+      "summary": "A paralegal specialist at the U.S. Attorney’s Office I SDNY is requesting a time-sensitive review and approval of three productions related to a case (U.S. v Maxwell) to ensure they are ready for distribution via FedEx by 4:00 PM today. The productions are the 1W 3500, NTW 3500, and a 32nd production. Supporting documents, including cover letters and Excel indices, are attached.",
+      "timestamp": "2021-12-24T00:00:00",
+      "timestamp_raw": "24 Nov 2021",
+      "keywords": [
+        "efta00024986",
+        "production",
+        "review",
+        "maxwell",
+        "discovery",
+        "fedex",
+        "rule 16",
+        "3500",
+        "u.s. attorney's office",
+        "sdny"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016792",
+      "summary": "A communication was sent via FedEx containing a small corrected production of discovery to Maxwell. The communication was from the Assistant United States Attorney for the Southern District of New York, along with associated cover letters and PDFs related to the “Maxwell discovery” production.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00016792",
+        "maxwell",
+        "discovery",
+        "production",
+        "redaction",
+        "united states attorney",
+        "southern district of new york",
+        "fedex",
+        "cd",
+        "cover letters"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031949",
+      "summary": "A replacement drive is being sent to Ghislaine Maxwell via FedEx from the U.S. Attorney’s Office, SDNY. The broken drive previously belonging to Maxwell is to be returned to the same address. The emails detail the shipment and request for return of the drive.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "maxwell",
+        "drive",
+        "replacement",
+        "mdc",
+        "u.s. attorney's office",
+        "sdny",
+        "new york",
+        "fedex",
+        "ghislaine maxwell",
+        "broken drive"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00010200",
+            "similarity": 0.583,
+            "index": 39,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00009986",
+      "summary": "This document is a Certification of Business Records issued by FedEx Express’s Legal Department. The declaration, signed by a Senior Paralegal Specialist and Custodian of Records, confirms the documents (EFTA00009986 and EFTA00009987) are original records or true copies created at or near the time of relevant events, kept in the course of regular business activity, and made as a regular practice by FedEx Express. The declaration is sworn under penalty of perjury.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "fedex",
+        "express",
+        "subpoena",
+        "compliance",
+        "litigation",
+        "records",
+        "certification",
+        "legal department",
+        "tennessee",
+        "notary public"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038925",
+      "summary": "This document is a series of fax records detailing household maintenance and security services provided to Jeffrey Epstein’s residences (Epstein House and a staff house). The records cover the period from September 2003 to August 2005, documenting the hours worked by various contractors and staff, including cleaners, gardeners, security personnel, and repair technicians.  Specific tasks included cleaning, landscaping, alarm system management, grocery shopping, car maintenance, and general household upkeep. The records also track payments made to these individuals/companies, totaling approximately $990.00 in 2003 and increasing to around $3,000.00 by 2005. Recurring contractors like Peadon’s Cleaning and Lenny were frequently utilized.  The records include detailed instructions regarding alarm codes, passwords, and specific tasks requested by Epstein. There are mentions of specific individuals like Richard, Christopher, and Larry, and frequently referenced properties/locations like the staff house, the main house (4312), and various repair services. The final page includes a contact list for billing.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00038925",
+        "airport pick-up",
+        "cleaning",
+        "alarm",
+        "hours",
+        "work",
+        "painters",
+        "carpenters",
+        "electricians",
+        "pc computer",
+        "house sit",
+        "fedex"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020167",
+      "summary": "Citibank N.A. requests all documents and records pertaining to account EFTA00020167, from its inception to the present. This includes, but is not limited to, transaction files, documents reflecting account activity, signature cards, identification, opening account documents, “Know Your Customer” documentation, wire transfer records, safe deposit records, trust accounts, statements, checks, prepaid cards, loan applications, online banking information, corporate resolutions, and all correspondence related to the account. The request is to be delivered via FedEx on CDs containing Adobe PDF images. Contact information for a Forensic Accountant (EFTA00020168) is provided for questions.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "citibank",
+        "legal services",
+        "records",
+        "accounts",
+        "data transaction files",
+        "identification",
+        "email",
+        "wire transfers",
+        "banking information",
+        "customer records"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,4341 @@
+{
+  "keyword": "upload",
+  "count": 49,
+  "keyword_match_count": 49,
+  "content_match_count": 89,
+  "total_files": 138,
+  "timeline": [
+    {
+      "file_id": "EFTA00030972",
+      "summary": "A case involving CP (likely child pornography) originated from multiple uploads to Yahoo photo albums and the seizure of four computers from a defendant’s residence. Forensics revealed a virtual reality game, “Hizashi no nakano real,” featuring a 10-year-old animated Asian girl being sexually molested. The defendant was the only user of the game and had progressed to Level 4, involving sustained graphic acts. The case’s admissibility is being questioned.",
+      "timestamp": "2010-01-04T00:00:00",
+      "timestamp_raw": "1/4/2010",
+      "keywords": [
+        "efta00030972",
+        "sex game",
+        "hizashi no nakano real",
+        "virtual reality",
+        "forensic",
+        "cp",
+        "yahoo photo albums",
+        "defendant",
+        "level 4",
+        "animated girl"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019518",
+      "summary": "An email chain discusses obtaining RSA tokens for access to Relativity, a web-based mass-document management system. A form needs to be completed and sent to a recipient for RSA token issuance. A Relativity database is being set up for the U.S. v. Epstein case, specifically requesting the upload of PDF files from the “USvEpstein-awestigation FBI materials” folder (reports, FOIA documents) while excluding files from a subfolder. There's an expectation of receiving a large volume of case files and a need for agent access to avoid delays. A privilege review isn't anticipated for the initial materials.",
+      "timestamp": "2019-01-11T00:00:00",
+      "timestamp_raw": "11 Jan 2019",
+      "keywords": [
+        "relativity",
+        "rsa token",
+        "fbi",
+        "u.s. v. epstein",
+        "ausas",
+        "database",
+        "documents",
+        "access",
+        "case files",
+        "privilege review"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00013438",
+            "similarity": 0.538,
+            "index": 2,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00013438",
+      "summary": "On January 14, 2019, an Assistant U.S. Attorney from the Southern District of New York requested the upload of PDF files from the EFTA00013438 folder to Relativity for review by AUSAs in the U.S. v. Eastern case. The request specified that files within the main folder should be uploaded, excluding files within a subfolder titled “Files combined and manifest.” The Assistant U.S. Attorney anticipated receiving a large volume of case files and wanted to establish a Relativity database to expedite the review process, noting that privilege review wasn’t initially needed for the specified materials.",
+      "timestamp": "2019-01-14T00:00:00",
+      "timestamp_raw": "January 14, 2019",
+      "keywords": [
+        "relativity",
+        "access",
+        "documents",
+        "efta00013438",
+        "fbi",
+        "case files",
+        "privilege review",
+        "u.s. v. eastern",
+        "database",
+        "review"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00019518",
+            "similarity": 0.538,
+            "index": 1,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037894",
+      "summary": "This document is an email sent from the FBI’s dropbox®ic.fbi.gov account to an unknown recipient on January 25, 2019. The email, titled “FBINET to UNET Uploaded Files,” includes an attachment named “FW_Pending_FOIA_1424728_-_JEFFREY_EPSTEIN_-_UNCLASSIFIED.msg,” related to EFTA00037894.",
+      "timestamp": "2019-01-25T00:00:00",
+      "timestamp_raw": "January 25, 2019",
+      "keywords": [
+        "fbi",
+        "unet",
+        "epstein",
+        "foia",
+        "dropbox",
+        "uploaded files",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020780",
+      "summary": "An Assistant U.S. Attorney from the Southern District of New York requested the uploading of documents from the Wisa.doj.gov\\cloud\\NYS\\StAndrews\\Shared USvEpstein-2018R01618 InvestigationV*2018 SDNY investigation\\Subpoena Returns\\Boies Schiller\\2019-03-04 Boies Schiller first subpoena response folder into Relativity for the US v. Epstein case. The desired folder structure was “Subpoena Returns” with subfolders “BSF returns” and “BSF first production” to receive the documents.",
+      "timestamp": "2019-03-04T00:00:00",
+      "timestamp_raw": "2019-03-04",
+      "keywords": [
+        "relativity",
+        "us v. epstein",
+        "subpoena",
+        "boies schiller",
+        "fbi case file",
+        "production",
+        "standrews",
+        "nys",
+        "investigation",
+        "upload"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019549",
+      "summary": "An Assistant U.S. Attorney from the Southern District of New York requested the upload of documents related to the USAO tt 2018R01618 case (US v. Epstein) into Relativity. The documents were located in a specific folder structure within Usa.doj.gov: clouANYS StAndrews \\Shared \\ USvEpstein-2018R01618 InvestigationVI 2018 SDNY investigation \\Subpoena Returns \\ Boies Schiller 2019-03-04 Boies Schiller first subpoena response. The requested structure involved a \"Subpoena Returns\" folder with subfolders \"BSF returns\" and \"BSF first production\" for depositing the documents. The Assistant U.S. Attorney requested confirmation of the upload completion.",
+      "timestamp": "2019-03-04T00:00:00",
+      "timestamp_raw": "2019-03-04",
+      "keywords": [
+        "relativity",
+        "us v. epstein",
+        "subpoena",
+        "folder",
+        "boies schiller",
+        "subpoena returns",
+        "usao",
+        "sdny",
+        "investigation",
+        "production"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030122",
+      "summary": "An Assistant U.S. Attorney from the Southern District of New York is requesting the upload of documents related to the “USA v. Epstein” case to Relativity. The documents are located at Usa.doj.gov\\clouaNYS StAndrews \\Shared \\ USvEpstein-2018R01618 InvestigationVI 2018 SDNY investigation \\Subpoena ReturnABoies Schiller \\ 2019-03-04 Boies Schiller first subpoena response. The desired folder structure is “Subpoena Returns” with subfolders “BSF returns” and “BSF first production.” A previous email indicates that Judge Sweet has passed away.",
+      "timestamp": "2019-03-04T00:00:00",
+      "timestamp_raw": "2019-03-04",
+      "keywords": [
+        "relativity",
+        "usao",
+        "epstein",
+        "subpoena",
+        "folder",
+        "judge sweet",
+        "boies schiller",
+        "us v.",
+        "southern district of new york",
+        "investigation"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032515",
+      "summary": "The FBI possesses substantial data related to the Epstein case and is offering it to the Assistant United States Attorney for the Southern District of New York. Coordination is requested regarding the logistics of uploading this data to a shared location.",
+      "timestamp": "2019-03-06T00:00:00",
+      "timestamp_raw": "06 Mar 2019",
+      "keywords": [
+        "epstein",
+        "fbi",
+        "data",
+        "case",
+        "shared",
+        "logistics",
+        "united states attorney",
+        "new york",
+        "southern district of new york",
+        "efta00032515"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016295",
+      "summary": "A U.S. Attorney from the Southern District of New York requested the FBI to provide data related to the Jeffrey Epstein case for uploading to a shared location. The FBI delivered approximately 16,000 of 29,000 pages of case files from the D.C. FOIA office and several video discs. A contractor was responsible for transferring the materials to a shared drive and Relativity for review, initially focusing on the D.C. files and coordinating with the FBI. The contractor noted a potential stall in receiving the full case file and moved related materials to specific folders.",
+      "timestamp": "2019-03-18T00:00:00",
+      "timestamp_raw": "18 Mar 2019",
+      "keywords": [
+        "epstein",
+        "foia",
+        "d.c.",
+        "relativity",
+        "fbi",
+        "doj",
+        "records",
+        "case file",
+        "data",
+        "hard drive"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020781",
+      "summary": "The email chain discusses the preparation of documents for Relativity. Specifically, the documents located at several paths within the USAO network (\\\\Usa.doj.gov\\clouANYS\\StAndrews\\Shared\\UUUV4C1-3, \\\\Usa.doj.gov\\cloud\\NYS\\StAndrews\\Shared\\UUUV4Q-3, and \\\\Usa.doj.gov\\cloud\\NYS\\StAndrews\\Shared\\USvEpstein-2018R01618) containing DVD data should not be loaded into Relativity. The sender requests that the documents within the US v. Epstein folder be organized into a specific folder structure (\"Subpoena Returns,\" \"BSF returns,\" and \"BSF first production\") for upload to Relativity.  A conversion to a different format is being investigated.",
+      "timestamp": "2019-03-28T00:00:00",
+      "timestamp_raw": "28 Mar 2019",
+      "keywords": [
+        "relativity",
+        "documents",
+        "dvd",
+        "video files",
+        "doj",
+        "subpoena",
+        "epstein",
+        "folder",
+        "usao",
+        "data"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00010256",
+            "similarity": 0.5,
+            "index": 15,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00030220",
+      "summary": "Emails between USANYS and the FBI regarding the Epstein investigation, specifically concerning redacted records (EFTA00030220 and EFTA00030221). The emails detail a request for the full set of scanned records (16,000 or 29,000 pages) to be uploaded to a W drive and an index of the materials.  Multiple individuals involved sought confirmation of scanning, coordination, and contact information for expedited assistance.",
+      "timestamp": "2019-04-01T00:00:00",
+      "timestamp_raw": "01 Apr 2019",
+      "keywords": [
+        "epstein investigation",
+        "records",
+        "fbi",
+        "w drive",
+        "scanned records",
+        "usanys",
+        "contact information",
+        "redaction",
+        "s",
+        "29000 pages"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030124",
+      "summary": "An Assistant U.S. Attorney from the Southern District of New York sent an email to request the upload of documents related to the USA v. Epstein case into Relativity. The documents were located in a specific folder structure within Usa.doj.gov and were subsequently confirmed to have been loaded into Relativity by the sender.",
+      "timestamp": "2019-04-02T00:00:00",
+      "timestamp_raw": "02 Apr 2019",
+      "keywords": [
+        "relativity",
+        "documents",
+        "subpoena",
+        "us v. epstein",
+        "usao",
+        "southern district of new york",
+        "boies schiller",
+        "fbi case file",
+        "subpoena returns",
+        "bs returns"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010351",
+      "summary": "This document details the process of uploading documents related to the US v. Epstein case to the Relativity platform. The Assistant U.S. Attorney requests that specific folders be created within Relativity, mirroring the existing folder structure for the “BSF returns” documents.  Key instructions include: *   Loading documents from a specific DOJ folder (Usa.doj.gov\\clouANYS StAndrews \\Shared \\ USvEpstein-2018R01618 InvestigationV4 2018 SDNY investigation \\Subpoena Returns \\ Boies Schiller\\ 2019-04-18 Boies Schiller second subpoena response) into a new subfolder called “BSF second production” under “BSF returns.” *   Excluding specific folders and PDF documents from the upload (the “!Original Zips” folder and the three PDF documents). *   Clarifying that DVD-based data (containing video files) should not be uploaded. *   Confirming the desired folder structure for the upload process. Several emails demonstrate coordination and clarification regarding the upload process, ensuring the documents are properly organized and processed within the Relativity system.",
+      "timestamp": "2019-04-18T00:00:00",
+      "timestamp_raw": "2019-04-18",
+      "keywords": [
+        "relativity",
+        "documents",
+        "subpoena",
+        "epstein",
+        "doj",
+        "folder",
+        "data",
+        "upload",
+        "us v.",
+        "sdny",
+        "investigation",
+        "returns"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020769",
+      "summary": "An Assistant U.S. Attorney requests the upload of documents related to the US v. Epstein case (USAO11 2018R01618) into Relativity. The documents are located in a specific folder structure within the USA.doj.gov cloud, originating from Boies Schiller.  A separate party notes the documents contain DVD data and requests conversion to a different format, alongside confirmation on how to view video files without a DVD player. Specific file paths containing interview transcripts are listed as items that should *not* be loaded into Relativity due to their DVD-based structure. The request specifies a desired folder structure within Relativity for the uploaded files.",
+      "timestamp": "2019-04-22T00:00:00",
+      "timestamp_raw": "22 Apr 2019",
+      "keywords": [
+        "relativity",
+        "epstein",
+        "us v. epstein",
+        "subpoena",
+        "dvd",
+        "data",
+        "folder",
+        "conversion",
+        "files",
+        "investigation"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00010256",
+            "similarity": 0.5,
+            "index": 15,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00010245",
+      "summary": "The document outlines the process of uploading documents related to the US v. Epstein case to the Relativity platform. Initially, a request is made to load documents from a specific folder structure (`Usa.doj.gov\\ cloud\\ NYS \\ StAndrews \\Shared \\ USvEpstein-2018R01618`) into Relativity, maintaining the existing folder structure (\"BSF returns\" within \"Subpoena Returns\").  There’s a discussion about the format of the documents (specifically DVD files and needing conversion), and a clarification that DVD-based data should not be loaded into Relativity.  Finally, a list of specific file paths related to DVD-based interviews should be excluded from the upload.",
+      "timestamp": "2019-04-22T00:00:00",
+      "timestamp_raw": "22 Apr 2019",
+      "keywords": [
+        "relativity",
+        "documents",
+        "subpoena",
+        "folder",
+        "us epstein",
+        "dvd",
+        "conversion",
+        "standrews",
+        "boies schiller",
+        "relativity",
+        "production"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010256",
+      "summary": "The document details the transfer of several sets of documents related to the US v. Epstein case to Relativity for legal analysis. Initially, the documents were in a folder structure with DVD information that needs conversion. Subsequent communications clarify the desired Relativity folder structure: documents should be placed within a subfolder named \"BSF second production\" under \"BSF returns\" within the \"Subpoena Returns\" subfolder. Specific files containing DVD data are to be excluded from the upload. The sender requests updates on the upload progress and confirms the desired folder structure.",
+      "timestamp": "2019-04-24T00:00:00",
+      "timestamp_raw": "24 Apr 2019",
+      "keywords": [
+        "relativity",
+        "documents",
+        "subpoena",
+        "epstein",
+        "doj",
+        "us v. epstein",
+        "boies schiller",
+        "folder structure",
+        "data",
+        "dvd",
+        "conversion"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00020769",
+            "similarity": 0.5,
+            "index": 13,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00020781",
+            "similarity": 0.5,
+            "index": 9,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00010252",
+            "similarity": 0.769,
+            "index": 16,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00010252",
+      "summary": "The email chain discusses the transfer of documents related to the US v. Epstein case to Relativity. Specifically, the Assistant U.S. Attorney requests the following actions: 1.  Documents from a folder hosted on Usa.doj.gov should be uploaded to Relativity under the “BSF second production” subfolder within the “BSF returns” subfolder, which should be created within the “Subpoena Returns” subfolder. 2.  Certain files within the source folder (specifically, DVD-related video files and several PDF files) should *not* be uploaded to Relativity. 3.  Confirmation is requested regarding the ability to view the video files independently of a DVD player. 4.  A separate request is made to load a different folder of documents into Relativity for the same case.",
+      "timestamp": "2019-04-24T00:00:00",
+      "timestamp_raw": "24 Apr 2019",
+      "keywords": [
+        "relativity",
+        "epstein",
+        "doj",
+        "subpoena",
+        "boies schiller",
+        "us v. epstein",
+        "folder structure",
+        "data",
+        "dvd",
+        "conversion",
+        "subpoena returns",
+        "bsf returns"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00010256",
+            "similarity": 0.769,
+            "index": 15,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020692",
+      "summary": "Attorney, Boies Schiller lawyers) are coordinating the upload of documents related to the US v. Epstein case to the Relativity platform. Initially, all documents were uploaded, but subsequent emails detail specific instructions for adding additional files related to a “second production” and “BSF returns.” The key requests involve loading documents from a specific DOJ-provided folder structure into Relativity, including avoiding certain files (DVD information, original zip folders) and converting file formats if necessary. One email highlights the presence of DVD-related files within the documents and requests clarification on how to view them independently of a DVD player.",
+      "timestamp": "2019-04-29T00:00:00",
+      "timestamp_raw": "29 Apr 2019",
+      "keywords": [
+        "relativity",
+        "epstein",
+        "subpoenas",
+        "doj",
+        "boies schiller",
+        "usvepstein",
+        "data",
+        "documents",
+        "folder",
+        "investigation"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037773",
+      "summary": "An email was sent from dropbox@icibi.gov to [REDACTED] regarding the upload of files from FBINET to UNET. The email subject was \"FBINET to UNET Uploaded Files\" and included an attachment named \"Copy_of Sentinel_Reportof 1A-1C-Report-1.xlsx\" and the document identifier EFTA00037773.",
+      "timestamp": "2019-05-20T00:00:00",
+      "timestamp_raw": "20 May 2019",
+      "keywords": [
+        "efta00037773",
+        "fbinet",
+        "unet",
+        "redaction",
+        "dropbox",
+        "fbi",
+        "uploaded files",
+        "sentinel report",
+        "icibi",
+        "2019"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00038098",
+            "similarity": 0.538,
+            "index": 26,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038461",
+            "similarity": 0.5,
+            "index": 59,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037772",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] on June 12, 2019, regarding the upload of files from FBINET to UNET, including a document named “MP_scan_item_2_book_3.pdf” (EFTA00037772).",
+      "timestamp": "2019-06-12T00:00:00",
+      "timestamp_raw": "June 12, 2019",
+      "keywords": [
+        "efta00037772",
+        "fbinet",
+        "unet",
+        "redaction",
+        "upload",
+        "pdf",
+        "2019",
+        "files",
+        "analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00038855",
+            "similarity": 0.5,
+            "index": 123,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037771",
+      "summary": "An email was sent from dropbox®icibi.gov to [REDACTED] regarding the upload of files from FBINET to UNET. The email included a PDF attachment named “MP_ scan_ item_ 2_ book I.pdf” and referenced the file EFTA00037771.",
+      "timestamp": "2019-06-12T00:00:00",
+      "timestamp_raw": "12 Jun 2019",
+      "keywords": [
+        "efta00037771",
+        "fbinet",
+        "unet",
+        "fbi",
+        "redaction",
+        "dropbox",
+        "uploaded files",
+        "mp_ scan",
+        "jun 2019"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00038461",
+            "similarity": 0.545,
+            "index": 59,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037770",
+      "summary": "An email was sent from an unknown sender to an unidentified recipient on June 17, 2019, regarding the upload of files from FBINET to UNET. The email included a Passenger Manifest document (Passenger_manifest_9.2004.pdf) and referenced the document identifier EFTA00037770.",
+      "timestamp": "2019-06-17T00:00:00",
+      "timestamp_raw": "June 17, 2019",
+      "keywords": [
+        "efta00037770",
+        "fbinet",
+        "unet",
+        "redaction analysis",
+        "upload",
+        "manifest"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00038500",
+            "similarity": 0.5,
+            "index": 74,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038924",
+            "similarity": 0.5,
+            "index": 125,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037798",
+      "summary": "An email was sent from IMI to [REDACTED] on June 24, 2019, regarding the upload of files from FBINET to UNET. The email included the document “Epstein_Summaly.docx” and was associated with the file identifier EFTA00037798.",
+      "timestamp": "2019-06-24T00:00:00",
+      "timestamp_raw": "June 24, 2019",
+      "keywords": [
+        "efta00037798",
+        "fbinet",
+        "unet",
+        "redaction",
+        "uploaded files",
+        "imi",
+        "epstein",
+        "summaly",
+        "docx"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037802",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] regarding the upload of files from FBINET to UNET. The email subject was \"FBINET to UNET Uploaded Files,\" dated July 2, 2019, and included an attachment named “Epstein_approaches_list_Current.xlsx” and the file identifier EFTA00037802.",
+      "timestamp": "2019-07-02T00:00:00",
+      "timestamp_raw": "July 2, 2019",
+      "keywords": [
+        "efta00037802",
+        "fbinet",
+        "unet",
+        "uploaded files",
+        "redaction",
+        "epstein",
+        "analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00038680",
+            "similarity": 0.5,
+            "index": 119,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037983",
+      "summary": "An FBI Dropbox upload, dated July 3, 2019, titled “Operations_Order Form_Main_Ops_Order.pdf,” with file identifier EFTA00037983, was sent to [REDACTED].",
+      "timestamp": "2019-07-03T00:00:00",
+      "timestamp_raw": "July 3, 2019",
+      "keywords": [
+        "fbi",
+        "fbinet",
+        "unet",
+        "redaction",
+        "upload",
+        "operations order",
+        "dropbox",
+        "efta00037983"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00038311",
+            "similarity": 0.6,
+            "index": 43,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038393",
+            "similarity": 0.5,
+            "index": 49,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038429",
+            "similarity": 0.5,
+            "index": 54,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038052",
+      "summary": "A file named “Epstein_Jeffrey_Child_Sex_Trafficking_.xml” (EFTA00038052) was uploaded on July 3, 2019, from Ma to an unknown recipient, with the subject line “FBINET to UNET Uploaded Files.”",
+      "timestamp": "2019-07-03T00:00:00",
+      "timestamp_raw": "July 3, 2019",
+      "keywords": [
+        "epstein",
+        "jeffrey",
+        "trafficking",
+        "unet",
+        "uploaded files",
+        "fbinet",
+        "xml"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038098",
+      "summary": "An FBI file (EFTA00038098) was uploaded to UNET from Dropbox, specifically regarding files associated with Jeffrey Epstein’s operations. The file includes a document titled “Epstein_Op_Order 2.pdf”.",
+      "timestamp": "2019-07-03T00:00:00",
+      "timestamp_raw": "03 Jul 2019",
+      "keywords": [
+        "efta00038098",
+        "fbinet",
+        "unet",
+        "epstein",
+        "redaction",
+        "dropbox",
+        "fbi",
+        "uploaded files",
+        "2019",
+        "pdf"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037773",
+            "similarity": 0.538,
+            "index": 18,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00037826",
+            "similarity": 0.667,
+            "index": 32,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038461",
+            "similarity": 0.5,
+            "index": 59,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038088",
+      "summary": "An email was sent from “EIMIMI” to an unknown recipient regarding the upload of files related to “FBINET” to “UNET”. The email included a PDF attachment named “Ops_Order_Section_2_Revised_Main_Ops_Order.pdf” with the file identifier EFTA00038088.",
+      "timestamp": "2019-07-03T00:00:00",
+      "timestamp_raw": "03 Jul 2019",
+      "keywords": [
+        "efta00038088",
+        "fbinet",
+        "unet",
+        "uploaded files",
+        "ops order",
+        "main ops order"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037312",
+      "summary": "On July 6, 2019, an FBI file (\"FBINET\") was uploaded to the UNET, containing files related to Jeffrey Epstein’s operations, specifically “Epstein_Ops_Order.pdf”. The file was designated EFTA00037312.",
+      "timestamp": "2019-07-06T00:00:00",
+      "timestamp_raw": "July 6, 2019",
+      "keywords": [
+        "epstein",
+        "fbinet",
+        "unet",
+        "uploaded files",
+        "fbi",
+        "efta00037312"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00038373",
+            "similarity": 0.5,
+            "index": 56,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038047",
+      "summary": "On July 15, 2019, the NYPD Detective Bureau Child Exploitation/Human Trafficking Task Force (N.Y. FBI Squad C20) forwarded an updated spreadsheet, titled “FBINET to UNET Uploaded Files” (EFTA00038047), to [REDACTED] via email from dropbox@ic.fbi.gcA. The email also included attachments: HOTLINE_TRACICER.xlsx, Outlook-1510171437.png, and Outlook-1510171974jpg.",
+      "timestamp": "2019-07-15T00:00:00",
+      "timestamp_raw": "July 15, 2019",
+      "keywords": [
+        "fbi",
+        "nypd",
+        "child exploitation",
+        "human trafficking",
+        "fbinet",
+        "unet",
+        "uploaded files",
+        "dropbox",
+        "task force",
+        "efta00038047"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037882",
+      "summary": "An NYPD Detective forwarded a YouTube video from Rusty Shackleford, dated July 17, 2019, showing a computer on a table in a building, to an FBI officer. A second YouTube video, taken by drone and uploaded on August 6, 2019, of the same room showed no computer. Both videos were posted before the August 13, 2019, raid. The detective believes the computer’s movement prior to the raid suggests potential conspiracy and obstruction related to the Jeffrey Epstein case and its surrounding circumstances.",
+      "timestamp": "2019-07-17T00:00:00",
+      "timestamp_raw": "July 17, 2019",
+      "keywords": [
+        "fbi",
+        "nypd",
+        "youtube",
+        "rusty shackleford",
+        "computer",
+        "raid",
+        "epstein",
+        "conspiracy",
+        "human trafficking",
+        "investigation"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014622",
+      "summary": "Daniel Rose reported escalating harassment directed at a woman (\"Ms. M\") including text messages from reporters and the unauthorized uploading of a Jeffrey Epstein video to her YouTube account. He was seeking assistance in stopping the media attention. An Assistant United States Attorney contacted Daniel Rose to offer support and connect him with the FBI’s victim coordinator, , to discuss resources for Ms. M’s safety and wellness. Two redactions are present in the document.",
+      "timestamp": "2019-07-24T00:00:00",
+      "timestamp_raw": "24 Jul 2019",
+      "keywords": [
+        "efta00014622",
+        "harassment",
+        "epstein",
+        "reporters",
+        "media",
+        "youtube",
+        "video",
+        "fbi",
+        "victim coordinator",
+        "safety"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037826",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] (NY, FBI) on July 26, 2019, regarding the upload of files from FBINET to UNET. The email subject was \"FBINET to UNET Uploaded Files,\" and an attachment named \"EpsteinSearchLogsandFD597.pdf\" was included. The document's identifier is EFTA00037826.",
+      "timestamp": "2019-07-26T00:00:00",
+      "timestamp_raw": "July 26, 2019",
+      "keywords": [
+        "efta00037826",
+        "fbinet",
+        "unet",
+        "epstein",
+        "redaction",
+        "fbi",
+        "uploaded files",
+        "2019",
+        "ny",
+        "pdf"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038098",
+            "similarity": 0.667,
+            "index": 26,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037817",
+      "summary": "A file named \"Arrest_of JEFFREY EPSTEIN.pdf\" was uploaded from FBINET to UNET on July 29, 2019, and assigned the identifier EFTA00037817. The email subject line indicates this upload related to the arrest of Jeffrey Epstein.",
+      "timestamp": "2019-07-29T00:00:00",
+      "timestamp_raw": "July 29, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "fbinet",
+        "unet",
+        "uploaded files",
+        "arrest"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014355",
+      "summary": "On August 12, 2019, an individual requested access to Relativity database files related to the Epstein investigation. There were issues accessing the database, resulting in a request to confirm access permissions. The vendor provided new PDF files created from 66 original PDFs received in June, along with a flash drive for review. The files were to be uploaded to the \"Florida investigation FOIA files\" folder in Relativity. Instructions were given regarding indexing, specifically the need to include phone numbers in indexes and use document descriptions instead of file extensions. The discovery obligations were suspended due to recent events. EFTA00014356 was also referenced.",
+      "timestamp": "2019-08-12T00:00:00",
+      "timestamp_raw": "August 12, 2019",
+      "keywords": [
+        "relativity",
+        "epstein",
+        "pdf",
+        "index",
+        "flash drive",
+        "data",
+        "investigation",
+        "foia",
+        "vendor",
+        "records"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019989",
+      "summary": "Emails between individuals regarding the upload of PDF files related to the US v. Epstein case to Relativity. The files were processed by a vendor and initially duplicated from Florida case files.",
+      "timestamp": "2019-08-23T00:00:00",
+      "timestamp_raw": "23 Aug 2019",
+      "keywords": [
+        "epstein",
+        "foia",
+        "relativity",
+        "pdf",
+        "us v.",
+        "redaction",
+        "vendor",
+        "florida",
+        "files",
+        "upload"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037562",
+      "summary": "*   CID requested a 1530 daily phone call with NY for updates on EFTA00037562. *   NY agreed to end-of-day reporting Mon-Fri, with weekend updates only occurring due to significant events. *   CID requested that updates be sent to them and a designated point of contact (POC). *   The VC squad had no planned updates for the Epstein case on August 25, 2019. *   VCAC was asked to confirm if they also had no planned updates. *   The FBI discussed file uploads between FBINET and UNET. *   EFTA00037563 was referenced.",
+      "timestamp": "2019-08-25T00:00:00",
+      "timestamp_raw": "August 25, 2019",
+      "keywords": [
+        "fbi",
+        "cid",
+        "ny",
+        "efta00037562",
+        "updates",
+        "phone calls",
+        "reporting",
+        "epstein",
+        "vcac",
+        "unet"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037570",
+      "summary": "An email chain discusses the lack of planned updates for the Epstein case by the VC Squad and VCAC. The CID (FBI) is inquiring about consolidation efforts, specifically whether they are being handled through the VC side or by the individual CID agent.  NY (FBI) has confirmed no updates are planned for the weekend. Files related to “FBINET to UNET Uploaded Files” were being shared. EFTA00037570 and EFTA00037571 are identified as file references.",
+      "timestamp": "2019-08-25T00:00:00",
+      "timestamp_raw": "25 Aug 2019",
+      "keywords": [
+        "fbi",
+        "efta00037570",
+        "efta00037571",
+        "vcac",
+        "vc",
+        "cid",
+        "epstein",
+        "unet",
+        "fbinet",
+        "reporting"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00037566",
+            "similarity": 0.667,
+            "index": 38,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037566",
+      "summary": "Emails between FBI agents (identified as “NY” and “CID”) discuss updates regarding the FBINET to UNET file uploads and reporting related to the Epstein case.  VC Squad and VCAC have no planned activity for the weekend. CID is coordinating consolidation of reporting from VCAC, VC, and CR through “M.”  Updates are being sent to multiple individuals, including ICVCU.",
+      "timestamp": "2019-08-25T00:00:00",
+      "timestamp_raw": "25 Aug 2019",
+      "keywords": [
+        "fbi",
+        "efta00037566",
+        "fbinet",
+        "unet",
+        "vcac",
+        "vc",
+        "cr",
+        "cid",
+        "epstein",
+        "reporting"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037570",
+            "similarity": 0.667,
+            "index": 37,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031679",
+      "summary": "An email was sent from the FBI New York Field Office Violent Crimes Task Force (Special Agent) to [REDACTED] and [REDACTED], with CC to [REDACTED], regarding the uploaded files from FBINET to UNET. The email included a document named “Interview_of - DRAFT.pdf” and “DRAFT 302 of.” The case reference is EFTA00031679.",
+      "timestamp": "2019-08-30T00:00:00",
+      "timestamp_raw": "30 Aug 2019",
+      "keywords": [
+        "fbi",
+        "new york field office",
+        "violent crimes task force",
+        "fbinet",
+        "unet",
+        "redaction analysis",
+        "upload",
+        "files",
+        "interview",
+        "efta00031679"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00038430",
+            "similarity": 0.545,
+            "index": 137,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038113",
+      "summary": "An FBI file (FBINET) was uploaded to UNET via Dropbox, containing the document EFTA00038113.pdf and a PDF attachment named MM_application.pdf. The email was sent on September 5, 2019, from dropbox®icibi.gov to a redacted recipient.",
+      "timestamp": "2019-09-05T00:00:00",
+      "timestamp_raw": "September 5, 2019",
+      "keywords": [
+        "efta00038113",
+        "fbinet",
+        "unet",
+        "redaction analysis",
+        "dropbox",
+        "fbi",
+        "upload",
+        "2019",
+        "pdf",
+        "files"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00038378",
+            "similarity": 0.545,
+            "index": 44,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038114",
+      "summary": "An email was sent from \"EIMIMIa\" to an unknown recipient on September 5, 2019, regarding the upload of files from FBINET to UNET. The email attached a PDF file named LSJ_SW.pdf and associated with the identifier EFTA00038114.",
+      "timestamp": "2019-09-05T00:00:00",
+      "timestamp_raw": "September 5, 2019",
+      "keywords": [
+        "efta00038114",
+        "fbinet",
+        "unet",
+        "uploaded files",
+        "lsj_sw.pdf",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00038373",
+            "similarity": 0.5,
+            "index": 56,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038495",
+            "similarity": 0.5,
+            "index": 76,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035728",
+      "summary": "This document is an official report from the Federal Bureau of Investigation's Digital Evidence Laboratory (DEL REX) regarding the examination of evidence items 1B1 to 1618. The report, dated 09/10/2019, details the uploading of a CART Process Report for cloning and imaging processes related to a death investigation involving Jeffrey Epstein as a victim (Case ID: 90A-NY-3151227). The report is classified as UNCLASSIFIED.",
+      "timestamp": "2019-09-10T00:00:00",
+      "timestamp_raw": "09/10/2019",
+      "keywords": [
+        "fbi",
+        "import form",
+        "digital evidence",
+        "cart process report",
+        "cloning",
+        "imaging",
+        "evidence items",
+        "jeffrey epstein",
+        "victim",
+        "death investigation"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038311",
+      "summary": "FBI transmitted a file named EFTA00038311 to the UNET via Dropbox, along with a document named Interview.pdf, on October 8, 2019. The email subject was “FBINET to UNET Uploaded Files.”",
+      "timestamp": "2019-10-08T00:00:00",
+      "timestamp_raw": "October 8, 2019",
+      "keywords": [
+        "efta00038311",
+        "fbinet",
+        "unet",
+        "redaction",
+        "fbi",
+        "dropbox",
+        "upload",
+        "interview"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037983",
+            "similarity": 0.6,
+            "index": 24,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00038393",
+            "similarity": 0.636,
+            "index": 49,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038431",
+            "similarity": 0.556,
+            "index": 52,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038428",
+            "similarity": 0.5,
+            "index": 53,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038378",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] on October 11, 2019, regarding the upload of files from FBINET to UNET. The email included a PDF attachment named “EFTA00038378”. Two redactions are noted on page 1.",
+      "timestamp": "2019-10-11T00:00:00",
+      "timestamp_raw": "October 11, 2019",
+      "keywords": [
+        "efta00038378",
+        "fbinet",
+        "unet",
+        "redaction analysis",
+        "upload",
+        "pdf",
+        "2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038113",
+            "similarity": 0.545,
+            "index": 40,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038315",
+      "summary": "An email from HEIMIMI was sent on October 21, 2019, with the subject \"FBINET to UNET Uploaded Files.\" The email included a PDF attachment named “20190709maxwelldocs075817.pdf” and identified the document as EFTA00038315.",
+      "timestamp": "2019-10-21T00:00:00",
+      "timestamp_raw": "October 21, 2019",
+      "keywords": [
+        "efta00038315",
+        "fbinet",
+        "unet",
+        "uploaded files",
+        "maxweld",
+        "20190709"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031401",
+      "summary": "An email exchange discusses access to subpoena and return records related to the Epstein investigation. An agent requests access to USAFX, a United States Attorney’s Office FTP site, to view subpoenas and returns. The request includes re-uploading expired returns and granting co-owner status to another individual. A log of served subpoenas and returns is attached, and assistance with obtaining an USAFX account is offered.",
+      "timestamp": "2019-10-31T00:00:00",
+      "timestamp_raw": "October 31, 2019",
+      "keywords": [
+        "subpoena",
+        "records",
+        "usafx",
+        "access",
+        "ftp",
+        "subpoena log",
+        "returns",
+        "united states attorney",
+        "new york",
+        "investigation"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019743",
+      "summary": "An email was sent from EFTA00019743 to [REDACTED] regarding a signed report (MOI-n2019-010614.pdf) related to an interview. The report was attached and will be uploaded into iManage. The sender requested instructions on how to deliver the interview notes.",
+      "timestamp": "2019-11-01T00:00:00",
+      "timestamp_raw": "01 Oct 2019",
+      "keywords": [
+        "efta00019743",
+        "redaction",
+        "report",
+        "interview",
+        "imanage",
+        "moi",
+        "2019-010614.pdf",
+        "notes",
+        "pdf",
+        "signed"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016297",
+      "summary": "On November 12, 2019, an individual ([REDACTED]) contacted another individual ([REDACTED]) regarding the completion of document unitization and coding from 56 DVD files related to the US v. Epstein case. The vendor had finished this work. The individual requested the return of the DVDs and offered to return them upon their return to the office. They also inquired about reviewing the vendor's work product before uploading it to Relativity and proposed a meeting early next week to discuss.",
+      "timestamp": "2019-11-12T00:00:00",
+      "timestamp_raw": "November 12, 2019",
+      "keywords": [
+        "epstein",
+        "us v.",
+        "dvd",
+        "data",
+        "contractor",
+        "relativity",
+        "vendor",
+        "work product",
+        "redaction",
+        "storage"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038393",
+      "summary": "An email was sent from dropbox@icibi.gov to [REDACTED] regarding the upload of files from FBINET to UNET. The email included a PDF attachment named “Interview_of” dated December 9, 2019, and related to case EFTA00038393.",
+      "timestamp": "2019-12-09T00:00:00",
+      "timestamp_raw": "December 9, 2019",
+      "keywords": [
+        "efta00038393",
+        "fbinet",
+        "unet",
+        "redaction",
+        "dropbox",
+        "fbi",
+        "upload",
+        "interview",
+        "2019",
+        "2025"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038311",
+            "similarity": 0.636,
+            "index": 43,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037983",
+            "similarity": 0.5,
+            "index": 24,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00038428",
+            "similarity": 0.667,
+            "index": 53,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038429",
+            "similarity": 0.667,
+            "index": 54,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038028",
+            "similarity": 0.538,
+            "index": 97,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00017061",
+      "summary": "The FBI requested a 1TB hard drive from a contractor to transfer a large volume of emails related to the Epstein investigation. The FBI had previously identified a significant amount of data, including emails from 5 iMacs and 5 laptops recovered from a New York residence, and was processing it for upload to Relativity. The contractor was tasked with generating load files and copying the data to the drive. There were questions regarding the status of materials from the island and a concern about the timeline for processing all evidence, anticipating delays due to the complexity of the process.",
+      "timestamp": "2019-12-12T00:00:00",
+      "timestamp_raw": "12 Nov 2019",
+      "keywords": [
+        "fbi",
+        "relativity",
+        "epstein",
+        "search warrant",
+        "emails",
+        "data transfer",
+        "hard drive",
+        "new york",
+        "island",
+        "forensic examiner"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030547",
+      "summary": "An email exchange discusses the return of DVDs containing data unitized and coded from 56 DVD files related to the case *US v. Epstein*. One party requests the DVDs be provided for case file storage and asks about reviewing the vendor’s work product before uploading it to Relativity. The other party indicates they will return the DVDs and offers to meet next week to discuss review.",
+      "timestamp": "2019-12-12T00:00:00",
+      "timestamp_raw": "12 Nov 2019",
+      "keywords": [
+        "epstein",
+        "us v.",
+        "redaction analysis",
+        "dvds",
+        "relativity",
+        "document unitization",
+        "vendor",
+        "data",
+        "case file",
+        "work product"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038431",
+      "summary": "An email was sent from [REDACTED] to an unknown recipient on December 13, 2019, regarding the upload of files from FBINET to UNET. The email included the document EFTA00038431.",
+      "timestamp": "2019-12-13T00:00:00",
+      "timestamp_raw": "December 13, 2019",
+      "keywords": [
+        "efta00038431",
+        "fbinet",
+        "unet",
+        "redaction",
+        "upload",
+        "interview"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038311",
+            "similarity": 0.556,
+            "index": 43,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00038500",
+            "similarity": 0.5,
+            "index": 74,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038700",
+            "similarity": 0.625,
+            "index": 121,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038428",
+      "summary": "An email was sent from dropbox®ic.tbi.gov to [REDACTED] on December 13, 2019, regarding the upload of files from FBINET to UNET. The email included an attachment named “Interview_offldf” and referenced the file identifier EFTA00038428.",
+      "timestamp": "2019-12-13T00:00:00",
+      "timestamp_raw": "December 13, 2019",
+      "keywords": [
+        "efta00038428",
+        "fbinet",
+        "unet",
+        "redaction",
+        "upload",
+        "dropbox",
+        "interview",
+        "files",
+        "2019",
+        "2025"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038393",
+            "similarity": 0.667,
+            "index": 49,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038311",
+            "similarity": 0.5,
+            "index": 43,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00038429",
+            "similarity": 0.538,
+            "index": 54,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038028",
+            "similarity": 0.538,
+            "index": 97,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038700",
+            "similarity": 0.545,
+            "index": 121,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038429",
+      "summary": "An email was sent from dropbox®ic.tbi.gov to [REDACTED] on December 13, 2019, regarding the upload of files from FBINET to UNET. The email included an attachment named “Interview_oi” and referenced document EFTA00038429.",
+      "timestamp": "2019-12-13T00:00:00",
+      "timestamp_raw": "December 13, 2019",
+      "keywords": [
+        "efta00038429",
+        "fbinet",
+        "unet",
+        "redaction",
+        "fbi",
+        "dropbox",
+        "upload",
+        "interview",
+        "2019",
+        "december"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038428",
+            "similarity": 0.538,
+            "index": 53,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038393",
+            "similarity": 0.667,
+            "index": 49,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038311",
+            "similarity": 0.636,
+            "index": 43,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038372",
+      "summary": "An email was sent from “EIMIMI” to an unknown recipient regarding files uploaded from “FBINET” to “UNET”. An attachment named “Proffer of Interview_231.pdf” (referenced as EFTA00038372) was included.",
+      "timestamp": "2019-12-27T00:00:00",
+      "timestamp_raw": "27 Nov 2019",
+      "keywords": [
+        "efta00038372",
+        "fbinet",
+        "unet",
+        "uploaded files",
+        "proffer",
+        "interview"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00038427",
+            "similarity": 0.5,
+            "index": 58,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038495",
+            "similarity": 0.5,
+            "index": 76,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037979",
+            "similarity": 0.5,
+            "index": 81,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038373",
+      "summary": "An email was sent from the FBI (NY) to an unidentified recipient regarding the upload of files named “FBINET” to “UNET.” The email included a PDF document named “EFTA00038373.”",
+      "timestamp": "2019-12-27T00:00:00",
+      "timestamp_raw": "27 Nov 2019",
+      "keywords": [
+        "efta00038373",
+        "fbi",
+        "unet",
+        "uploaded files",
+        "fbinet",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038114",
+            "similarity": 0.5,
+            "index": 41,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037312",
+            "similarity": 0.5,
+            "index": 28,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00038495",
+            "similarity": 0.5,
+            "index": 76,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00016912",
+      "summary": "The document is a series of email exchanges concerning the upload and privilege review of data related to the Epstein investigation. Key points include: *   Discussions about locating data within the Relativity database, specifically regarding folders named \"2020-01-23\" and \"Search Warrant Returns.\" *   Reports on the release of data from the NP and STR folders, with delays attributed to large data volumes. *   Confirmation of a hard drive received from FBI CART containing seized device materials. *   Requests for the hard drive to be returned after data upload for subsequent privilege review. *   Multiple inquiries regarding the status of data uploads and delays.",
+      "timestamp": "2020-01-23T00:00:00",
+      "timestamp_raw": "2020-01-23",
+      "keywords": [
+        "epstein",
+        "relativity",
+        "subpoena returns",
+        "search warrant returns",
+        "data",
+        "vendor",
+        "fbi",
+        "privilege review",
+        "folder",
+        "upload"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00029758",
+            "similarity": 0.538,
+            "index": 63,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00029661",
+            "similarity": 0.538,
+            "index": 64,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00021131",
+            "similarity": 0.538,
+            "index": 66,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038427",
+      "summary": "An email was sent on January 28, 2020, from “Ma” to an unknown recipient regarding the upload of files from FBINET to UNET. The email included an attachment named “Interview_ofalf” and was identified as EFTA00038427.",
+      "timestamp": "2020-01-28T00:00:00",
+      "timestamp_raw": "January 28, 2020",
+      "keywords": [
+        "efta00038427",
+        "fbinet",
+        "unet",
+        "uploaded files",
+        "interview",
+        "analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038372",
+            "similarity": 0.5,
+            "index": 55,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00038495",
+            "similarity": 0.5,
+            "index": 76,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037979",
+            "similarity": 0.5,
+            "index": 81,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038461",
+      "summary": "An FBI file (EFTA00038461) was uploaded to UNET from Dropbox, originating from the FBI’s dropbox®icibi.gov address. The file, “Phone_conversation_with,” was sent on January 31, 2020.",
+      "timestamp": "2020-01-31T00:00:00",
+      "timestamp_raw": "January 31, 2020",
+      "keywords": [
+        "efta00038461",
+        "fbinet",
+        "unet",
+        "redaction",
+        "fbi",
+        "dropbox",
+        "uploaded files",
+        "phone conversation"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038098",
+            "similarity": 0.5,
+            "index": 26,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037771",
+            "similarity": 0.545,
+            "index": 20,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037773",
+            "similarity": 0.5,
+            "index": 18,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027843",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] (USANYS) regarding “Epstein search materials for upload and privilege review.” The email is associated with file EFTA00027843.",
+      "timestamp": "2020-02-07T00:00:00",
+      "timestamp_raw": "07 Feb 2020",
+      "keywords": [
+        "epstein",
+        "redaction",
+        "analysis",
+        "contractor",
+        "usanys",
+        "privilege review",
+        "upload",
+        "search materials"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00021122",
+            "similarity": 0.667,
+            "index": 65,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00021066",
+      "summary": "On February 7, 2020, an individual requested an update on the upload of materials from an FBI CART hard drive containing data from seized and searched devices related to the Epstein case. The hard drive was received on January 21, 2020, and left with the recipient. The materials were to be uploaded to Relativity for privilege review, mirroring a previous review of Epstein search warrant returns. A subsequent batch of materials was anticipated shortly after the first upload.",
+      "timestamp": "2020-02-07T00:00:00",
+      "timestamp_raw": "February 7, 2020",
+      "keywords": [
+        "epstein",
+        "fbi cart",
+        "relativity",
+        "hard drive",
+        "privilege review",
+        "redaction",
+        "search materials",
+        "vendor",
+        "upload",
+        "data"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00016919",
+            "similarity": 0.818,
+            "index": 62,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00029758",
+            "similarity": 0.667,
+            "index": 63,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00029661",
+            "similarity": 0.667,
+            "index": 64,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00016919",
+      "summary": "An email chain discusses the receipt of a hard drive from the FBI CART containing materials from the Epstein case. The drive was processed from seized devices and includes data for upload and privilege review to Relativity. A follow-up email requests the return of the hard drive after the materials are uploaded, anticipating another FBI transmission. The privilege review is to be conducted identically to a previous review related to Epstein search warrant returns.",
+      "timestamp": "2020-02-07T00:00:00",
+      "timestamp_raw": "07 Feb 2020",
+      "keywords": [
+        "epstein",
+        "search materials",
+        "relativity",
+        "privilege review",
+        "fbi cart",
+        "hard drive",
+        "vendor",
+        "upload",
+        "data",
+        "redacted"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00021066",
+            "similarity": 0.818,
+            "index": 61,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00029758",
+            "similarity": 0.667,
+            "index": 63,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00029661",
+            "similarity": 0.667,
+            "index": 64,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00021131",
+            "similarity": 0.667,
+            "index": 66,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00029758",
+      "summary": "Emails discuss the upload and privilege review of data from a hard drive received from the FBI CART related to the Epstein case. The hard drive contains processed devices seized and searched. A request is made to upload the materials to Relativity for privilege review. A follow-up email inquires about the status of the upload, and another confirms the materials will be subject to a similar privilege review as previous Epstein search warrant returns. A second hard drive with additional materials is expected shortly.",
+      "timestamp": "2020-02-12T00:00:00",
+      "timestamp_raw": "12 Feb 2020",
+      "keywords": [
+        "epstein",
+        "data",
+        "upload",
+        "relativity",
+        "privilege review",
+        "fbi",
+        "hard drive",
+        "vendor",
+        "search materials",
+        "efta00029758"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00016919",
+            "similarity": 0.667,
+            "index": 62,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00021066",
+            "similarity": 0.667,
+            "index": 61,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00016912",
+            "similarity": 0.538,
+            "index": 57,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00029661",
+            "similarity": 0.818,
+            "index": 64,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00021131",
+            "similarity": 0.818,
+            "index": 66,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00029775",
+            "similarity": 0.818,
+            "index": 67,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00029661",
+      "summary": "Emails discuss the upload and privilege review of data related to the Epstein case, originating from an FBI CART hard drive. The data was expected to be ready by the end of the week, with updates provided regarding its status. Instructions were given for PAE to categorize the data into PP and NP folders based on privilege terms and to send STR reports. The recipient requested the hard drive back once the materials were uploaded for a subsequent privilege review mirroring a previous process.",
+      "timestamp": "2020-02-12T00:00:00",
+      "timestamp_raw": "12 Feb 2020",
+      "keywords": [
+        "epstein",
+        "search materials",
+        "privilege review",
+        "relativity",
+        "data",
+        "upload",
+        "fbi",
+        "hard drive",
+        "folders",
+        "vendor"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00029758",
+            "similarity": 0.818,
+            "index": 63,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00016919",
+            "similarity": 0.667,
+            "index": 62,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00021066",
+            "similarity": 0.667,
+            "index": 61,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00021131",
+            "similarity": 0.818,
+            "index": 66,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00029775",
+            "similarity": 0.818,
+            "index": 67,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00029672",
+            "similarity": 0.538,
+            "index": 68,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00021122",
+      "summary": "An email dated February 12, 2020, from [REDACTED] to [REDACTED] with the subject “Read: RE: Epstein search materials for upload and privilege review” (EFTA00021122) contained two redactions.",
+      "timestamp": "2020-02-12T00:00:00",
+      "timestamp_raw": "February 12, 2020",
+      "keywords": [
+        "epstein",
+        "redaction",
+        "analysis",
+        "efta00021122",
+        "privilege review",
+        "upload",
+        "search materials"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00027843",
+            "similarity": 0.667,
+            "index": 60,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021131",
+      "summary": "Email correspondence regarding the upload and privilege review of data related to the Epstein case, originating from an FBI CART hard drive. The data was initially expected to be completed within a day but was delayed. Updates indicated the data was “almost done” by February 12th, then expected to be ready by Monday morning. A check-in was made on February 4th regarding the status. The hard drive was received on January 21st and intended to be uploaded to Relativity for privilege review, with a request for its return after completion.",
+      "timestamp": "2020-02-14T00:00:00",
+      "timestamp_raw": "14 Feb 2020",
+      "keywords": [
+        "epstein",
+        "data",
+        "vendor",
+        "upload",
+        "privilege review",
+        "relativity",
+        "fbi",
+        "hard drive",
+        "search materials",
+        "case"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00029661",
+            "similarity": 0.818,
+            "index": 64,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00029758",
+            "similarity": 0.818,
+            "index": 63,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00016919",
+            "similarity": 0.667,
+            "index": 62,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00029775",
+            "similarity": 0.818,
+            "index": 67,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00029672",
+            "similarity": 0.538,
+            "index": 68,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00020807",
+            "similarity": 0.583,
+            "index": 69,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00029775",
+      "summary": "Multiple individuals are discussing the upload and privilege review of data related to the Epstein case, specifically data received from the FBI CART. The data includes a hard drive processed from seized devices. Upload progress is being tracked, with updates stating the data is “large” and taking time to process. There are requests for status updates and confirmation of completion. A timeline of Monday morning is referenced for data readiness, and a follow-up is scheduled regarding the return of the hard drive once the data is uploaded.",
+      "timestamp": "2020-02-20T00:00:00",
+      "timestamp_raw": "20 Feb 2020",
+      "keywords": [
+        "epstein",
+        "data",
+        "privilege review",
+        "relativity",
+        "upload",
+        "fbi",
+        "search materials",
+        "hard drive",
+        "vendor",
+        "redacted"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00021131",
+            "similarity": 0.818,
+            "index": 66,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00029661",
+            "similarity": 0.818,
+            "index": 64,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00029758",
+            "similarity": 0.818,
+            "index": 63,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00029672",
+            "similarity": 0.538,
+            "index": 68,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00020807",
+            "similarity": 0.583,
+            "index": 69,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00029672",
+      "summary": "The following emails discuss the upload and privilege review of data related to the Epstein investigation: *   Multiple individuals are requesting updates on the status of data received from the FBI CART, including a hard drive containing seized device materials. *   The data is initially located in the \"Subpoena Returns\" folder, then the “Search Warrant Returns” folder, and later in the “NP” and “STR” folders. *   The data is being segregated into “PP” hits and new data is loaded. *   The FBI is processing multiple hard drives related to the case. *   The privilege review process is being conducted, mirroring previous reviews of Epstein search warrant returns. *   The FBI anticipates further data transmissions.",
+      "timestamp": "2020-02-21T00:00:00",
+      "timestamp_raw": "21 Feb 2020",
+      "keywords": [
+        "epstein",
+        "relativity",
+        "search warrant returns",
+        "data",
+        "upload",
+        "privilege review",
+        "fbi",
+        "hard drive",
+        "subpoena returns",
+        "subpoena"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00029775",
+            "similarity": 0.538,
+            "index": 67,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00021131",
+            "similarity": 0.538,
+            "index": 66,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00029661",
+            "similarity": 0.538,
+            "index": 64,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00020807",
+            "similarity": 0.727,
+            "index": 69,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00026865",
+            "similarity": 0.667,
+            "index": 70,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00020839",
+            "similarity": 0.538,
+            "index": 72,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00020807",
+      "summary": "Several individuals are discussing the upload and privilege review of data related to the Epstein case. The data, initially from FBI CART hard drives, is being processed and segmented into folders including \"Subpoena Returns,\" \"Search Warrant Returns,\" \"NP,\" and \"PP hits.\" There are requests for consolidation of subfolders and confirmation of data accessibility within Relativity. Updates regarding data loading progress and delays are provided throughout the exchange. One individual confirms receipt of a hard drive containing processed devices and requests its return upon upload.",
+      "timestamp": "2020-02-21T00:00:00",
+      "timestamp_raw": "21 Feb 2020",
+      "keywords": [
+        "epstein",
+        "relativity",
+        "search warrant returns",
+        "subpoena returns",
+        "data",
+        "upload",
+        "privilege review",
+        "fbi",
+        "vendor"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00029672",
+            "similarity": 0.727,
+            "index": 68,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00029775",
+            "similarity": 0.583,
+            "index": 67,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00021131",
+            "similarity": 0.583,
+            "index": 66,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00026865",
+            "similarity": 0.727,
+            "index": 70,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00020803",
+            "similarity": 0.583,
+            "index": 71,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00020839",
+            "similarity": 0.583,
+            "index": 72,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00026865",
+      "summary": "Several individuals are discussing the upload and privilege review of materials related to the Epstein case, originating from FBI CART hard drives. Concerns are raised about the volume of data (\"voluminous\") and potential technical issues slowing the upload process. Suggestions are made to consolidate folders, create a saved search for easier access, and track the status of data releases. Updates are provided regarding the release of data from various sources (NP folder, STR data, FBI CART hard drive) and requests are made for assistance with uploading and managing the data within the Relativity platform.",
+      "timestamp": "2020-02-23T00:00:00",
+      "timestamp_raw": "23 Feb 2020",
+      "keywords": [
+        "epstein",
+        "relativity",
+        "search warrant returns",
+        "data",
+        "upload",
+        "fbi",
+        "subpoena returns",
+        "privilege review",
+        "folder",
+        "search"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00020807",
+            "similarity": 0.727,
+            "index": 69,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00029672",
+            "similarity": 0.667,
+            "index": 68,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00016912",
+            "similarity": 0.818,
+            "index": 57,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00020839",
+            "similarity": 0.538,
+            "index": 72,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00029754",
+            "similarity": 0.538,
+            "index": 73,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00020803",
+      "summary": "The document records email correspondence regarding the upload and privilege review of materials related to the Epstein case. The materials originated from a hard drive received from the FBI CART, containing data seized during searches. Discussions centered on locating the materials within the Relativity database, specifically under the “Search Warrant Returns” folder. There were concerns about the volume of data and potential issues with the vendor (PAE) releasing it. Updates were provided on the status of data uploads, including the release of the “NP” folder and segregated “PP hits.” Requests were made for guidance on folder structure and for the return of the hard drive once the materials were uploaded. The final email included a document named “STR_Epstein_Privilege Terms_02. I 4.2020.pdf”.",
+      "timestamp": "2020-02-23T00:00:00",
+      "timestamp_raw": "23 Feb 2020",
+      "keywords": [
+        "epstein",
+        "relativity",
+        "search warrant returns",
+        "subpoena returns",
+        "data upload",
+        "fbi",
+        "privilege review",
+        "folder structure",
+        "vendor",
+        "data volume"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00020807",
+            "similarity": 0.583,
+            "index": 69,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00016912",
+            "similarity": 0.538,
+            "index": 57,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020839",
+      "summary": "Multiple parties (including FBI personnel and a vendor named PAE) are involved in the upload and privilege review of data related to the Epstein case. There are concerns about the volume of data, specifically repeated documents and large file sizes. The data is being transferred from various sources, including FBI CART hard drives, and there are requests for it to be organized and moved to the appropriate Relativity folders (Search Warrant Returns). There are delays and questions regarding the upload process and the need for duplication. Discussions revolve around folder structure, data accessibility, and the timeline for completion of the privilege review.",
+      "timestamp": "2020-03-03T00:00:00",
+      "timestamp_raw": "03 Mar 2020",
+      "keywords": [
+        "epstein",
+        "relativity",
+        "search warrant returns",
+        "data",
+        "upload",
+        "de-dupe",
+        "folder structure",
+        "fbi",
+        "privilege review",
+        "documents"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00026865",
+            "similarity": 0.538,
+            "index": 70,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00020807",
+            "similarity": 0.583,
+            "index": 69,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00029672",
+            "similarity": 0.538,
+            "index": 68,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00029754",
+            "similarity": 0.818,
+            "index": 73,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00029754",
+      "summary": "The document contains email exchanges regarding the upload and privilege review of extensive search materials related to the Epstein case. Key issues include: *   **Data Volume & Duplication:** Significant concerns were raised about the large volume of data, particularly repeated documents, requiring de-duplication. *   **Folder Structure:** Discussions centered on the correct placement of the materials within the Relativity database, specifically regarding the categorization of data under “Search Warrant Returns” versus “Subpoena Returns.” *   **Vendor Delays:** The vendor (PAE) experienced difficulties releasing the data due to its size, causing delays in processing. *   **Data Delivery:** The FBI provided a hard drive with processed data from seized devices, and subsequent data sets were anticipated. *   **Ongoing Review:** The uploaded data was to be subject to the same privilege review previously conducted on Epstein search warrant returns.",
+      "timestamp": "2020-03-10T00:00:00",
+      "timestamp_raw": "10 Mar 2020",
+      "keywords": [
+        "epstein",
+        "relativity",
+        "search warrant returns",
+        "data",
+        "upload",
+        "privilege review",
+        "redaction",
+        "documents",
+        "folder structure",
+        "fbi"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00020839",
+            "similarity": 0.818,
+            "index": 72,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00026865",
+            "similarity": 0.538,
+            "index": 70,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00020807",
+            "similarity": 0.583,
+            "index": 69,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038500",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] on April 23, 2020, regarding the upload of files from FBINET to UNET. The email included a PDF attachment named “Interview of” (EFTA00038500).",
+      "timestamp": "2020-04-23T00:00:00",
+      "timestamp_raw": "April 23, 2020",
+      "keywords": [
+        "efta00038500",
+        "fbinet",
+        "unet",
+        "redaction analysis",
+        "upload",
+        "interview"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038431",
+            "similarity": 0.5,
+            "index": 52,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037770",
+            "similarity": 0.5,
+            "index": 21,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00038495",
+            "similarity": 0.5,
+            "index": 76,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038924",
+            "similarity": 0.5,
+            "index": 125,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038430",
+            "similarity": 0.625,
+            "index": 137,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00027444",
+      "summary": "A key issue is the slow and inconsistent delivery of data from the FBI. Initially, the FBI planned to provide fully processed data ready for upload to Relativity, but this shifted to providing raw files from the seized devices, requiring the recipient to perform the necessary conversions and processing themselves – a task that proved significantly delayed and complex. The recipient (identified as \"USANYS\") expressed frustration with the lack of clear communication, the volume of data, and the technical challenges involved in preparing it for review (taint analysis) within Relativity. There were issues with the format of the data, including a lack of linking between email attachments and documents, and the inability of the Relativity platform to handle forensic data elements. The process involved multiple rounds of communication, spreadsheet updates, and requests for additional resources to address the delays. The recipient repeatedly highlighted the need for a clear system of device identification and data tracking to manage the massive amount of information and ensure accurate review. The delays were partly attributed to the FBI's temporary network issues and their decision to send hard drives instead of uploading data directly.",
+      "timestamp": "2020-05-13T00:00:00",
+      "timestamp_raw": "13 May 2020",
+      "keywords": [
+        "epistein",
+        "search warrant",
+        "fbi",
+        "relativity",
+        "data",
+        "conversion",
+        "tiff",
+        "devices",
+        "extraction",
+        "files",
+        "drives",
+        "cart",
+        "timelines",
+        "production",
+        "analysis",
+        "forensics",
+        "materials",
+        "usanys"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038495",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] regarding the upload of files from FBINET to UNET. The email subject was \"FBINET to UNET Uploaded Files\" and included an attachment named “Interview_ofiMaon_10_25_19.pdf” and the document identifier EFTA00038495.",
+      "timestamp": "2020-05-14T00:00:00",
+      "timestamp_raw": "14 May 2020",
+      "keywords": [
+        "efta00038495",
+        "fbinet",
+        "unet",
+        "uploaded files",
+        "interview",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038500",
+            "similarity": 0.5,
+            "index": 74,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038427",
+            "similarity": 0.5,
+            "index": 58,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038373",
+            "similarity": 0.5,
+            "index": 56,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00037979",
+            "similarity": 0.5,
+            "index": 81,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038459",
+      "summary": "An FBI email, dated May 18, 2020, from dropbox@ic.fbi.gov to [REDACTED], discusses the uploading of file EFTA00038459 related to a New York search warrant (302 (1)). The email subject is \"FBINET to UNET Uploaded Files\".",
+      "timestamp": "2020-05-18T00:00:00",
+      "timestamp_raw": "May 18, 2020",
+      "keywords": [
+        "efta00038459",
+        "search warrant",
+        "fbi",
+        "unet",
+        "dropbox",
+        "ny",
+        "redaction",
+        "302",
+        "2020",
+        "uploaded files"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016316",
+      "summary": "An FBI Forensic Accountant at the New York Field Office is requesting access to USAfx. The request stems from an inability to locate subpoena returns previously provided by a U.S. Attorney’s Office paralegal specialist in SDNY, who previously sent returns on discs. The paralegal specialist is asking for the returns to be uploaded to USAfx.",
+      "timestamp": "2020-06-10T00:00:00",
+      "timestamp_raw": "10 Jun 2020",
+      "keywords": [
+        "epstein",
+        "subpoena",
+        "tracker",
+        "usafx",
+        "forensic accountant",
+        "fbi",
+        "ny",
+        "bank subpoenas",
+        "returns",
+        "sdny"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00022360",
+      "summary": "A paralegal specialist at the U.S. Attorney’s Office I SDNY is requesting that a sender provide subpoena returns related to the Epstein case, specifically those previously sent on discs, and also upload them to USAfx. The sender had previously provided a tracker of bank subpoenas and returns on June 2nd. The specialist was unable to locate the returns on the shared drive.",
+      "timestamp": "2020-06-10T00:00:00",
+      "timestamp_raw": "10 Jun 2020",
+      "keywords": [
+        "epstein",
+        "subpoena",
+        "returns",
+        "bank",
+        "usafx",
+        "redaction",
+        "tracker",
+        "disc",
+        "u.s. attorney's office"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037707",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] on June 17, 2020, regarding the upload of three JP Morgan Chase productions related to Maxwell and Best to the DOJ file sharing site. The email was sent from the FBI New York Field Office, specifically EFTA00037707.",
+      "timestamp": "2020-06-17T00:00:00",
+      "timestamp_raw": "June 17, 2020",
+      "keywords": [
+        "efta00037707",
+        "jp morgan chase",
+        "maxwell",
+        "fbi",
+        "forensic accountant",
+        "doj",
+        "file sharing",
+        "redaction",
+        "new york",
+        "2020"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037979",
+      "summary": "An email was sent on July 2, 2020, regarding the upload of files from FBINET to UNET. The email included an attachment named “EFTA00037979” which is a PDF document titled “U FOUO Interview of”.",
+      "timestamp": "2020-07-02T00:00:00",
+      "timestamp_raw": "July 2, 2020",
+      "keywords": [
+        "efta00037979",
+        "fbinet",
+        "unet",
+        "uploaded files",
+        "interview",
+        "fouo"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038495",
+            "similarity": 0.5,
+            "index": 76,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038427",
+            "similarity": 0.5,
+            "index": 58,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038372",
+            "similarity": 0.5,
+            "index": 55,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037990",
+      "summary": "An email was sent from Ma to an unknown recipient on July 10, 2020, regarding uploaded files named “Arrest_of GHISLAINE_MAXWELL_1.pdf” and associated with the file identifier EFTA00037990.",
+      "timestamp": "2020-07-10T00:00:00",
+      "timestamp_raw": "July 10, 2020",
+      "keywords": [
+        "efta00037990",
+        "fbinet",
+        "unet",
+        "ghislaine maxwell",
+        "arrest",
+        "uploaded files",
+        "2020",
+        "2025",
+        "pdf",
+        "analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00038261",
+            "similarity": 0.636,
+            "index": 100,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00027569",
+      "summary": "On July 14, 2020, a contractor (USANYS) received new data related to the US v. Epstein case from IM. The processing and uploading cost was estimated at $8,000.00, and the data was intended to be sent to PAE, requesting approval from the recipient. EFTA00027569 is the case identifier.",
+      "timestamp": "2020-07-14T00:00:00",
+      "timestamp_raw": "July 14, 2020",
+      "keywords": [
+        "epstein",
+        "us v.",
+        "relativity",
+        "pae",
+        "data",
+        "vendor",
+        "cost",
+        "processing",
+        "upload",
+        "contract"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024717",
+      "summary": "An email exchange discusses discrepancies regarding provided data related to the US v. Epstein case. One party (identified as [REDACTED]) questions the provision of NYCO24392 and NYCO24328, noting the absence of those identifiers in attached spreadsheets and a list of devices. Folders containing data related to NYCO24363, NYCO24392, NYCO24328, NYCO24365, NYCO24366, NYCO24371, and NYCO24383 are being sent for upload to Relativity.",
+      "timestamp": "2020-07-19T00:00:00",
+      "timestamp_raw": "19 Jul 2020",
+      "keywords": [
+        "epstein",
+        "nyco24328",
+        "nyco24392",
+        "nyco24363",
+        "nyco24365",
+        "nyco24366",
+        "nyco24371",
+        "nyco24383",
+        "relativity",
+        "us v. epstein"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023763",
+      "summary": "On July 22, 2020, the FBI is finalizing the extraction of data from devices related to the Epstein case. Nearly all remaining device extractions are scheduled to be completed the following day. A drive containing the extracted data will be sent for copying and processing, potentially for upload the following week. A scrubbed and updated spreadsheet is requested to match up the data. The last item is being copied to a drive and will be submitted to Southern, with completion expected the following morning. Hardware data recovery for two servers is outstanding.",
+      "timestamp": "2020-07-22T00:00:00",
+      "timestamp_raw": "July 22, 2020",
+      "keywords": [
+        "epstein",
+        "fbi",
+        "data extraction",
+        "drive",
+        "recovery",
+        "spreadsheet",
+        "southern",
+        "servers",
+        "efta00023763",
+        "data"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037468",
+      "summary": "An email was sent from the FBI to the UNET regarding the upload of files from FBINET to UNET, identified as EFTA00037468. The email included a document named “C-20 SAR 8-07-2020.docx” as an attachment.",
+      "timestamp": "2020-08-07T00:00:00",
+      "timestamp_raw": "8-07-2020",
+      "keywords": [
+        "efta00037468",
+        "fbi",
+        "unet",
+        "uploaded files",
+        "fbinet",
+        "c-20 sar",
+        "2020",
+        "analysis",
+        "redaction",
+        "documents"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021893",
+      "summary": "Several individuals are involved in the upload and processing of materials related to the Epstein case. A hard drive containing five devices (NYCO24332, NYCO24369, NYCO24369_1, NYCO24372, and NYCO24384) was sent to a recipient. There were issues with missing files, including NYC027913, and duplicate folders (NYC024328, NYC024366, and NYC024392). The recipient inquired about supplemental materials and the status of devices with zero-byte files (approximately 71,000). Some drives were flagged as requiring specialist recovery due to physical failures. The recipient was tracking the progress of the spreadsheet updates and expected additional materials to arrive by Monday.",
+      "timestamp": "2020-08-10T00:00:00",
+      "timestamp_raw": "10 Aug 2020",
+      "keywords": [
+        "efta00021893",
+        "relativity",
+        "nyc024328",
+        "nyc024369",
+        "nyc027913",
+        "thumb drive",
+        "data recovery",
+        "zero byte files",
+        "maxwell",
+        "uploads"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028823",
+      "summary": "*   The files are initially copied to a drive and will be uploaded to the Relativity database under the folder “US v. Epstein 4 FBI Case File 4 Images Seized During Search.” *   Requests are made regarding the stamping process (Confidential stamp, Bates number, preferred production format - TIFF images, database load files, or PDF), and clarification is given that searching the files after they've been loaded to Relativity is not possible due to their format. *   There is discussion about the appropriate handling of privileged review (only warrant returns should be privileged) and the lack of a confidential stamp option for Excel files. *   A link to the Relativity database is provided for review.",
+      "timestamp": "2020-09-24T00:00:00",
+      "timestamp_raw": "24 Sep 2020",
+      "keywords": [
+        "relativity",
+        "epstein",
+        "maxwell",
+        "deutsche bank",
+        "jpmorgan",
+        "data",
+        "production",
+        "confidential",
+        "files",
+        "upload",
+        "redaction",
+        "pae",
+        "usanys"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00023683",
+            "similarity": 0.588,
+            "index": 89,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019851",
+            "similarity": 0.5,
+            "index": 95,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00023683",
+      "summary": "*   The documents are being produced by Deutsche Bank and JPMorgan. *   The contractor is responsible for exporting these productions to a specific Relativity folder structure. *   There are questions regarding the confidentiality of the documents, the use of a confidential stamp, and the preferred method of production (tiff images, database load files, or PDF). *   The contractor is clarifying that the documents are not intended for privileged review and that searches within the Relativity database are not possible due to the image format. *   The contractor initially provided links to Relativity pages, but those pages contained no data, leading to an inquiry. *   The contractor requested information on Bates numbering and preferred production methods. *   The initial upload is underway, with files being transferred to a drive for delivery to Relativity.",
+      "timestamp": "2020-09-24T00:00:00",
+      "timestamp_raw": "24 Sep 2020",
+      "keywords": [
+        "relativity",
+        "epstein",
+        "maxwell",
+        "production",
+        "documents",
+        "data",
+        "jpmorgan",
+        "deutsche bank",
+        "confidential",
+        "stamp",
+        "relativity page",
+        "usanys",
+        "contractor",
+        "redaction"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00028823",
+            "similarity": 0.588,
+            "index": 88,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028820",
+      "summary": "*   Questions arise regarding the presence of a confidential stamp on native Excel files, and whether the documents require privilege review (specifically, excluding electronic search warrant returns). *   Links to Relativity pages for Deutsche Bank and JP Morgan documents are provided for review. *   Concerns are raised about data access within Relativity due to the format of the files (primarily images and video). *   Requests are made for details on document production format (tiff images, database load files, or PDF production), Bates number usage, and the placement of a confidential stamp. *   A legal specialist from the US Attorney’s Office SDNY is involved in coordinating the upload process.",
+      "timestamp": "2020-09-24T00:00:00",
+      "timestamp_raw": "24 Sep 2020",
+      "keywords": [
+        "relativity",
+        "epstein",
+        "maxwell",
+        "documents",
+        "production",
+        "confidential",
+        "data",
+        "search",
+        "pae",
+        "database"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00028052",
+            "similarity": 0.818,
+            "index": 91,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00019851",
+            "similarity": 0.6,
+            "index": 95,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00023688",
+            "similarity": 0.538,
+            "index": 96,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00028052",
+      "summary": "The document details the upload of approximately 40,000 files (300GB) related to the Epstein/Maxwell case to Relativity. A contractor ([REDACTED]) is preparing the files for review and marking as confidential. The files are being transferred to PAE for processing. Specific instructions are being provided regarding the marking of the documents (all confidential), the Bates numbering system, and the production format (single page TIFF images, database load files, or PDF production). Links to the production files are provided: Deutsche Bank and JP Morgan.  A request is made to review the files and adjust the production if necessary.",
+      "timestamp": "2020-09-24T00:00:00",
+      "timestamp_raw": "24 Sep 2020",
+      "keywords": [
+        "epstein",
+        "maxwell",
+        "relativity",
+        "production",
+        "confidential",
+        "documents",
+        "files",
+        "pae",
+        "database",
+        "search"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00028820",
+            "similarity": 0.818,
+            "index": 90,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00019851",
+            "similarity": 0.6,
+            "index": 95,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00023688",
+            "similarity": 0.538,
+            "index": 96,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00030592",
+            "similarity": 0.538,
+            "index": 104,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00019850",
+      "summary": "An email exchange occurred on September 25, 2020, regarding the upload of materials related to Epstein and Maxwell. The email originated from [REDACTED] to [REDACTED], with multiple CC’d recipients including [REDACTED], [REDACTED], and [REDACTED]. The email chain is associated with the file “Epstein_Maxwell_Upload.msg” and the document identifier EFTA00019850.",
+      "timestamp": "2020-09-25T00:00:00",
+      "timestamp_raw": "September 25, 2020",
+      "keywords": [
+        "efta00019850",
+        "epstein",
+        "maxwell",
+        "upload",
+        "usanys",
+        "contractor",
+        "redaction",
+        "2020",
+        "september",
+        "email"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023687",
+      "summary": "An email was sent from \"[Sender]\" to [REDACTED] regarding an upload named \"_Epstein_Maxwell_Upload.msg\" related to Epstein and Maxwell. The email was sent on September 25, 2020, with a subject line of \"RE: Epstein/Maxwell Upload.\" The sender's email address includes \"USAHUB-USAJournal111.\" There were two redactions on page 1 of the document.",
+      "timestamp": "2020-09-25T00:00:00",
+      "timestamp_raw": "September 25, 2020",
+      "keywords": [
+        "epstein",
+        "maxwell",
+        "redaction",
+        "upload",
+        "email",
+        "usahub",
+        "outlook",
+        "message",
+        "analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029025",
+      "summary": "This redacted document details the production of electronic files related to the Epstein/Maxwell investigation for the US Attorney’s Office. Key discussions revolve around: *   **Text Reader Capabilities:** A contractor is investigating the Bureau of Prisons’ (BOP) computer systems to determine if they can open the files, aiming to prevent defense claims of inability to access them. *   **Production Format:** The contractor is producing files in their original format (Excel and TXT) to both Maxwell and defense counsel, initially converting them to ensure compatibility with the Metropolitan Detention Center (MDC). *   **Confidential Stamping:** There’s a request to apply a confidential stamp to the files, and a discussion about the method (native format vs. image placeholders). *   **Data Delivery:** Links to Relativity databases containing the production files (Deutsche Bank and JPMorgan) are provided. *   **Privilege Review:** A clarification is given that only certain documents (search warrant returns) require privilege review. *   **Initial Upload & Review:** The contractor is preparing to upload approximately 40,000 files (300GB) to Relativity for stamping, awaiting approval for direct upload or a preliminary review.",
+      "timestamp": "2020-09-25T00:00:00",
+      "timestamp_raw": "25 Sep 2020",
+      "keywords": [
+        "relativity",
+        "text reader",
+        "files",
+        "production",
+        "excel",
+        "confidential",
+        "database",
+        "usanys",
+        "discovery",
+        "conversion",
+        "format",
+        "stamp",
+        "images",
+        "relativityjgo"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019851",
+      "summary": "The document details the production of approximately 40,000 files (around 300GB) related to the Epstein/Maxwell investigation, intended for review and stamping with a confidential designation. The process involves converting the files to a format suitable for Relativity, with multiple parties (USANYS, a contractor, and MDC) involved in the review and distribution. Initial issues include concerns about data availability within Relativity, the absence of a confidential stamp on Excel files, and questions regarding the preferred production format (native vs. converted).  The contractor is responsible for managing the upload, conversion, and distribution of the files, while coordinating with USANYS and MDC for review and approval.",
+      "timestamp": "2020-09-25T00:00:00",
+      "timestamp_raw": "25 Sep 2020",
+      "keywords": [
+        "relativity",
+        "epstein",
+        "maxwell",
+        "production",
+        "data",
+        "files",
+        "excel",
+        "tiff",
+        "confidential",
+        "database",
+        "search",
+        "usanys",
+        "documents",
+        "redaction"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00028052",
+            "similarity": 0.6,
+            "index": 91,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028820",
+            "similarity": 0.6,
+            "index": 90,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028823",
+            "similarity": 0.5,
+            "index": 88,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00023688",
+            "similarity": 0.5,
+            "index": 96,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00023688",
+      "summary": "*   The documents, totaling approximately 40,000 and 300GB, are being converted from native formats (Excel files) to a format suitable for uploading to a Relativity database. *   There’s discussion about applying a “confidential” stamp to the documents and determining the appropriate Bates numbering system. *   The production includes materials from Deutsche Bank and JPMorgan. *   There are questions about whether the documents should be privileged reviewed and how they should be presented (e.g., TIFF images, database load files, or PDFs). *   Links to the Relativity production are provided for review. *   There's a concern regarding the lack of search functionality within the Relativity database due to the predominantly image/video format of the data.",
+      "timestamp": "2020-09-25T00:00:00",
+      "timestamp_raw": "25 Sep 2020",
+      "keywords": [
+        "relativity",
+        "epstein",
+        "maxwell",
+        "production",
+        "documents",
+        "confidential",
+        "data",
+        "files",
+        "judeo",
+        "st andrews"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00019851",
+            "similarity": 0.5,
+            "index": 95,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028052",
+            "similarity": 0.538,
+            "index": 91,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028820",
+            "similarity": 0.538,
+            "index": 90,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038028",
+      "summary": "An FBI file (EFTA00038028) was uploaded to UNET from Dropboxic.fbi.gov on October 6, 2020, titled \"U_On_08_17_2020_at_3_32p.m._Eastem_Time 8.pdf\". The document was flagged for redaction.",
+      "timestamp": "2020-10-06T00:00:00",
+      "timestamp_raw": "October 6, 2020",
+      "keywords": [
+        "fbi",
+        "unet",
+        "fbinet",
+        "redaction",
+        "upload",
+        "dropbox",
+        "efta00038028",
+        "2020",
+        "2025",
+        "files"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038428",
+            "similarity": 0.538,
+            "index": 53,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038393",
+            "similarity": 0.538,
+            "index": 49,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038311",
+            "similarity": 0.5,
+            "index": 43,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00038262",
+            "similarity": 0.538,
+            "index": 99,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00030591",
+      "summary": "An email exchange dated October 9, 2020, concerning an upload named “Epstein_Maxwell_Upload.” The email originated from “la” and was sent to an unknown recipient (“Bce”). The email chain is associated with the file EFTA00030591.",
+      "timestamp": "2020-10-09T00:00:00",
+      "timestamp_raw": "October 9, 2020",
+      "keywords": [
+        "epstein",
+        "maxwell",
+        "upload",
+        "redaction analysis",
+        "efta00030591"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038262",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] on October 23, 2020, regarding the upload of files from FBINET to UNET. The email included a PDF attachment named \"U_On_08_17_2020fit_3_032M_Eastern_TimelMilalate_of bird_1.pdf\" and referenced document EFTA00038262.",
+      "timestamp": "2020-10-23T00:00:00",
+      "timestamp_raw": "October 23, 2020",
+      "keywords": [
+        "efta00038262",
+        "fbinet",
+        "unet",
+        "redaction",
+        "upload",
+        "files",
+        "bird",
+        "pdf",
+        "2020",
+        "2025"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038028",
+            "similarity": 0.538,
+            "index": 97,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038261",
+      "summary": "An email was sent from “Ma” to an unknown recipient regarding the uploaded files “U_On_08_17_2020_at_3_32p.m._Eastem_Time 8_I.pdf” and “EFTA00038261”. The email was sent on October 23, 2020, at 13:42:35 +0000.",
+      "timestamp": "2020-10-23T00:00:00",
+      "timestamp_raw": "October 23, 2020",
+      "keywords": [
+        "efta00038261",
+        "fbinet",
+        "unet",
+        "uploaded files",
+        "2020",
+        "2025",
+        "pdf",
+        "analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037990",
+            "similarity": 0.636,
+            "index": 82,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038302",
+      "summary": "An email was sent from IMIMIMI to [REDACTED] on October 26, 2020, regarding the upload of files from FBINET to UNET. An attached document, Case_Evidence_Report-20201026-0948.xlsx, associated with case EFTA00038302 was involved.",
+      "timestamp": "2020-10-26T00:00:00",
+      "timestamp_raw": "October 26, 2020",
+      "keywords": [
+        "efta00038302",
+        "fbinet",
+        "unet",
+        "redaction",
+        "upload",
+        "case evidence report",
+        "20201026",
+        "imimimi"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038301",
+      "summary": "An email was sent from “EFTA00038301” to [REDACTED] on October 26, 2020, forwarding a file named “Case_Evidence_Report-20201026-0948.xlsx” related to the upload of files from “FBINET” to “UNET.” The email included a case evidence report.",
+      "timestamp": "2020-10-26T00:00:00",
+      "timestamp_raw": "October 26, 2020",
+      "keywords": [
+        "efta00038301",
+        "fbinet",
+        "unet",
+        "uploaded files",
+        "redaction",
+        "case evidence report",
+        "20201026",
+        "file transfer",
+        "analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013235",
+      "summary": "The contractor, (USANYS) [Contractor], is working with the US Attorney’s Office to load the files into Relativity for Bates stamping and review. There are questions regarding the file format (native files vs. imaged files), the desired production method (tiff images, database load files, or PDF), and the placement of confidential stamps. Initial file counts differ (22,000 vs. 41,000), and there’s a request to prioritize the stamping and download of the documents. Communication occurs between multiple individuals within the USANYS contractor and the US Attorney's Office, addressing logistical questions and confirming the process.",
+      "timestamp": "2020-11-09T00:00:00",
+      "timestamp_raw": "09 Oct 2020",
+      "keywords": [
+        "usanys",
+        "epstein",
+        "maxwell",
+        "relativity",
+        "files",
+        "database",
+        "images",
+        "production",
+        "bates",
+        "confidential",
+        "upload",
+        "drive",
+        "stamped"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00030592",
+            "similarity": 0.533,
+            "index": 104,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00030592",
+      "summary": "*   Due to the large file size, the data will be sent to the vendor on a 1TB hard drive. *   There’s a discrepancy between the number of files initially found (41,000) and the number present in the production (22,000), potentially due to un-imaged native files. *   The production data, including Bates-stamped documents, has been uploaded to Relativity. *   Instructions are given for marking documents as confidential and assigning Bates numbers. *   Requests are made for the production of native files alongside the stamped production. *   There are discussions about the best method for producing the documents (database load files, TIFF images, or PDF production). *   A timeline and updates are sought regarding the upload and stamping process. *   The initial materials consist of approximately 40,000 files totaling 300GB, currently being copied to a drive.",
+      "timestamp": "2020-11-09T00:00:00",
+      "timestamp_raw": "09 Oct 2020",
+      "keywords": [
+        "epstein",
+        "maxwell",
+        "relativity",
+        "database",
+        "hard drive",
+        "bates stamped",
+        "production",
+        "files",
+        "images",
+        "confidential"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00013235",
+            "similarity": 0.533,
+            "index": 103,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028052",
+            "similarity": 0.538,
+            "index": 91,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026806",
+      "summary": "An email chain discusses the transfer of data from a vendor to a Maxwell hard drive copy. The data, labeled “Volume001.dat”, is intended for uploading to the Relativity database via the USvEpstein database. A password, “ScanningMaxwell!99”, is provided for the drive. One individual was previously given an original drive to copy to a new drive. A request is made to send the copied drive to a specific recipient for upload once overlay files from the vendor are received.  The sender’s availability and contact information are also included.",
+      "timestamp": "2020-11-13T00:00:00",
+      "timestamp_raw": "13 Oct 2020",
+      "keywords": [
+        "hard drive",
+        "relativity",
+        "maxwell",
+        "vendor",
+        "copy",
+        "data",
+        "upload",
+        "usvepstein",
+        "redaction",
+        "password"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021983",
+      "summary": "An email exchange discusses production tasks for the Maxwell case, specifically concerning documents related to the Epstein Relativity Databases. The sender requests the production of specific documents (EFTA00021983 and EFTA00021984) and asks about the desired level of redaction (as is, as is and confidential, or as is and highly confidential). All materials are to be delivered to 1St. Andrews by the end of October and uploaded to the US v Epstein database in a designated folder (\"USAO-SDFL Files\"). A drive containing scans of files from the USAO-SDFL is also being sent.",
+      "timestamp": "2020-11-14T00:00:00",
+      "timestamp_raw": "14 Oct 2020",
+      "keywords": [
+        "epstein",
+        "relativity",
+        "databases",
+        "discovery tasks",
+        "maxwell",
+        "usao-sdfl",
+        "relativity",
+        "files",
+        "production",
+        "efta00021983"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031095",
+      "summary": "Specifically, cases Epstein and 377 Union Street are receiving excessive attention, monopolizing PAE resources. *   **Data Loading Delays:** Data uploads to Relativity are experiencing delays, particularly with large datasets like 377 Union Street (5 HDs of mixed data). Duplicate data and disorganized files are contributing to the issue. *   **Multiple \"Hot\" Cases:** PAE is managing several high-priority cases concurrently, including We Build the Wall, Epstein, PPI, Keefe v US FD, US v Jai, and 377 Union Street. *   **Communication Challenges:** There's frustration regarding the communication process, with lengthy response times from PAE and difficulty in obtaining clear timelines. *   **Deadline Pressure:** The team is under pressure to meet court deadlines, particularly the 25th of the month production requirement. *   **Impact on AUSAs:** The delays are negatively impacting the ability of Assistant US Attorneys to access their evidence and conduct investigations.",
+      "timestamp": "2020-11-14T00:00:00",
+      "timestamp_raw": "14 Oct 2020",
+      "keywords": [
+        "pae",
+        "litigation",
+        "priority",
+        "data",
+        "relativity",
+        "epstein",
+        "377 union street",
+        "timeline",
+        "requests",
+        "ausas",
+        "deadlines"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00011428",
+      "summary": "A paralegal specialist from the U.S. Attorney’s Office I SDNY is sending a letter and attachments to Montell Figgins regarding the production of discovery in the case of *U.S. v. Thomas, No. 19 Cr 830*. The attachments include a letter detailing the Government's production, a supplemental discovery page marked \"attorney's eyes only,\" and instructions for accessing the discovery materials via a zip file uploaded to USAfx.",
+      "timestamp": "2020-11-14T00:00:00",
+      "timestamp_raw": "14 Oct 2020",
+      "keywords": [
+        "discovery",
+        "production",
+        "thomas",
+        "u.s. v thomas",
+        "sdny",
+        "montell figgins",
+        "attorney's eyes only",
+        "redaction",
+        "litigation",
+        "usafx"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024819",
+      "summary": "A SANYS contractor is sending a revised draft letter regarding the \"Sixth Production\" to the U.S. Attorney’s Office SDNY. The contractor requests a double-check of the index for devices with just images and confirms the upload of iPhone materials to a drive for defense. A cover letter and updated index are attached, including a unique index for the MDC drive. One contractor is still working on copying the MDC drive.",
+      "timestamp": "2020-12-09T00:00:00",
+      "timestamp_raw": "09 Nov 2020",
+      "keywords": [
+        "efta00024819",
+        "usanys",
+        "production",
+        "index",
+        "iphone",
+        "discovery",
+        "defense",
+        "mdc",
+        "paralegal",
+        "contract"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031730",
+      "summary": "An email chain discusses the delivery of tax returns (2015-2019) from Maxwell Financial Report Appendices. One individual requested a ZIP file be burned to a DVD and picked up. Another individual received the ZIP file and offered alternative delivery methods: forwarding the original email link, uploading to USAFx, or providing a hard drive copy. The download of the full Financial Report Appendices to USAFx is still in progress, estimated to take approximately an hour to an hour and a half to complete.",
+      "timestamp": "2020-12-11T00:00:00",
+      "timestamp_raw": "December 11 2020",
+      "keywords": [
+        "maxwell financial report",
+        "tax returns",
+        "zip file",
+        "usafx",
+        "dvd",
+        "it department",
+        "redaction analysis",
+        "efta00031730",
+        "2015-2019",
+        "defense team"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013293",
+      "summary": "The document is a series of email exchanges concerning the upload of data related to a case (\"US v. Epstein\") to a portal.  A vendor was tasked with removing old data from Relativity and replacing it with a new dataset.  There were multiple requests for updates on the upload status, and the vendor confirmed the data was being processed and eventually uploaded.  A link to ShareFile was repeatedly sent to facilitate access to the data, alongside assurances of support in case of access issues.  The email also includes a standard confidentiality notice.",
+      "timestamp": "2021-01-07T00:00:00",
+      "timestamp_raw": "07 Jan 2021",
+      "keywords": [
+        "relativity",
+        "data",
+        "vendor",
+        "upload",
+        "redaction",
+        "portal access",
+        "epstein",
+        "us",
+        "sharefile",
+        "email"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013296",
+      "summary": "On January 7, 2021, a vendor was tasked with uploading data related to “portal access (v2)/US v. Epstein” to Relativity. The vendor initially removed old data and then received a new dataset from a source.  Multiple individuals confirmed the data transfer and requested its review. A ShareFile link was provided for access to the uploaded data.  The data included Florida scanned data which was intended to be removed and replaced by the new vendor data. There was an issue with the initial link, resulting in duplicate emails.",
+      "timestamp": "2021-01-07T00:00:00",
+      "timestamp_raw": "January 7, 2021",
+      "keywords": [
+        "portal access",
+        "data upload",
+        "relativity",
+        "vendor",
+        "epstein",
+        "us v. epstein",
+        "sharefile",
+        "redacted",
+        "data removal",
+        "florida data"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038609",
+      "summary": "An email was sent on March 15, 2021, from [REDACTED] to the recipient of EFTA00038609, subject \"FBINET to UNET Uploaded Files.\" The email included an attachment named “Case_Evidence_Report-20210315-1809_-_NY.xlsx.”",
+      "timestamp": "2021-03-15T00:00:00",
+      "timestamp_raw": "March 15, 2021",
+      "keywords": [
+        "efta00038609",
+        "fbinet",
+        "unet",
+        "redaction",
+        "upload",
+        "files",
+        "evidence",
+        "report",
+        "case evidence",
+        "20210315"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038607",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] regarding the upload of files from FBINET to UNET. The email subject was “FBINET to UNET Uploaded Files” and was sent on March 30, 2021. The email included attachments named 302.docx and EFTA00038607.",
+      "timestamp": "2021-03-30T00:00:00",
+      "timestamp_raw": "March 30, 2021",
+      "keywords": [
+        "efta00038607",
+        "fbinet",
+        "unet",
+        "redaction analysis",
+        "upload",
+        "files",
+        "2021",
+        "302.docx"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00038924",
+            "similarity": 0.556,
+            "index": 125,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038905",
+            "similarity": 0.545,
+            "index": 133,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038430",
+            "similarity": 0.5,
+            "index": 137,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00032646",
+      "summary": "This document is a chain of emails regarding the transfer of files from a CD related to the Maxwell investigation (EFTA00032646). The FBI agent (Special Agent FBI New York Field Office) initially provided a CD containing files to a contractor (USANYS). There were initial difficulties with uploading the files, particularly with a specific folder (“18 1-14”) due to potential corruption.  The contractor attempted to resolve the issue by contacting IT and the FBI for assistance. Ultimately, the files were successfully transferred to a shared drive via USAfx, though one folder needed to be re-copied and resubmitted.",
+      "timestamp": "2021-04-07T00:00:00",
+      "timestamp_raw": "07 Apr 2021",
+      "keywords": [
+        "cd",
+        "maxwell",
+        "fbi",
+        "usafx",
+        "folder",
+        "files",
+        "redaction",
+        "email",
+        "upload",
+        "disk"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00029231",
+            "similarity": 0.667,
+            "index": 116,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00029231",
+      "summary": "On April 7, 2021, an FBI Special Agent from the New York Field Office dropped off a CD containing files related to Maxwell to a contractor. The contractor was experiencing issues uploading a specific folder (“18 1-14”) and requested a replacement. Subsequent communication involved troubleshooting the corrupted folder, exploring alternative methods of transfer (USAfx), and coordinating with IT. The contractor reported four of five folders successfully uploaded, with the final folder proving problematic. The overall goal was to transfer the files to the Epstein share.",
+      "timestamp": "2021-04-07T00:00:00",
+      "timestamp_raw": "April 7, 2021",
+      "keywords": [
+        "fbi",
+        "maxwell",
+        "cd",
+        "usafx",
+        "redaction",
+        "files",
+        "disk",
+        "contractor",
+        "new york",
+        "email"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00032646",
+            "similarity": 0.667,
+            "index": 115,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024017",
+      "summary": "A paralegal specialist from the U.S. Attorney’s Office, SDNY, sent a letter to Jason Foy regarding the discovery production in the case of U.S. v. Noel, No. 19 Cr 830. The letter details the uploading of discovery materials to USAfx and includes an additional page marked “attorney’s eyes only.”",
+      "timestamp": "2021-04-14T00:00:00",
+      "timestamp_raw": "14 Apr 2021",
+      "keywords": [
+        "u.s. v. noel",
+        "discovery",
+        "production",
+        "government",
+        "jason foy",
+        "sdny",
+        "usafx",
+        "redaction",
+        "legal",
+        "attorney"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00031434",
+            "similarity": 0.538,
+            "index": 118,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00031434",
+      "summary": "A U.S. Attorney’s Office paralegal, Pecia Ist, sent a letter to counsel regarding the production of discovery in the case of U.S. v. Thomas, No. 19 Cr 830. The letter details the uploading of discovery materials to USAfx in a zip file and includes a single page marked “attorney’s eyes only.” Contact information is provided for questions or access difficulties.",
+      "timestamp": "2021-04-14T00:00:00",
+      "timestamp_raw": "14 Apr 2021",
+      "keywords": [
+        "u.s. v. thomas",
+        "discovery",
+        "production",
+        "government",
+        "usafx",
+        "legal",
+        "attorney",
+        "case",
+        "redaction",
+        "zip file"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00024017",
+            "similarity": 0.538,
+            "index": 117,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038680",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] regarding the upload of files from FBINET to UNET. The email included an attached Excel report named 1A_Report_-_72-MM-113327.xlsx, identified as EFTA00038680.",
+      "timestamp": "2021-06-02T00:00:00",
+      "timestamp_raw": "02 Jun 2021",
+      "keywords": [
+        "efta00038680",
+        "fbinet",
+        "unet",
+        "redaction",
+        "analysis",
+        "uploaded files",
+        "report",
+        "excel"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037802",
+            "similarity": 0.5,
+            "index": 23,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029020",
+      "summary": "The document details a redaction analysis related to an incident involving data transfer and potential mishandling of sensitive information, specifically concerning the Jeffrey Epstein case and Ghislaine Maxwell. Key points include: *   **Initial Communication:** A series of emails between USDOJ personnel (USANYS, USAEO) discuss the closure of an issue concerning an employee (“S”) who was leaving CACI. *   **GCO Records:** The General Counsel’s Office (GCO) had previously addressed the matter on April 19th, deciding against disciplinary action. *   **Data Incident:** Approximately 5.5 GB of data, including PII related to underage victims, was uploaded via Sharefile.com and linked to the Epstein case. *   **Notifications:** Notifications were sent to the CISO and SOC regarding the incident and the Information Disclosure form. *   **Further Activity:** Another user in NYS uploaded data to a similar firm using Sharefile.com. *   **Protective Order:** The transfer was governed by a court-ordered protective order requiring the marking of confidential information.",
+      "timestamp": "2021-06-07T00:00:00",
+      "timestamp_raw": "07 Jun 2021",
+      "keywords": [
+        "maxwell",
+        "cybersecurity",
+        "data",
+        "protective order",
+        "pii",
+        "redaction",
+        "usao",
+        "caci",
+        "sharefile.com",
+        "incident"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038700",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] on July 28, 2021, regarding the upload of files from FBINET to UNET. The email included a document named “U_Interview_of 1.pdf” and referenced file EFTA00038700.",
+      "timestamp": "2021-07-28T00:00:00",
+      "timestamp_raw": "July 28, 2021",
+      "keywords": [
+        "efta00038700",
+        "fbinet",
+        "unet",
+        "redaction",
+        "upload",
+        "files",
+        "interview"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038428",
+            "similarity": 0.545,
+            "index": 53,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038431",
+            "similarity": 0.625,
+            "index": 52,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038311",
+            "similarity": 0.5,
+            "index": 43,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00038430",
+            "similarity": 0.556,
+            "index": 137,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038703",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] regarding the upload of files from FBINET to UNET. The email subject was “FBINET to UNET Uploaded Files,” dated September 10, 2021, and included the attachment ADG_immigration_form192707.pdf, associated with file EFTA00038703.",
+      "timestamp": "2021-09-10T00:00:00",
+      "timestamp_raw": "September 10, 2021",
+      "keywords": [
+        "efta",
+        "fbinet",
+        "unet",
+        "redaction",
+        "immigration",
+        "upload",
+        "files",
+        "2021",
+        "2025"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00038855",
+            "similarity": 0.636,
+            "index": 123,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038905",
+            "similarity": 0.5,
+            "index": 133,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038855",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] on September 28, 2021, regarding the upload of files from FBINET to UNET. The email included a file named EFTA00038855.pdf, specifically a redacted version (U_ On 9 23 2021 at 9 58 AM Eastern).",
+      "timestamp": "2021-09-28T00:00:00",
+      "timestamp_raw": "September 28, 2021",
+      "keywords": [
+        "efta00038855",
+        "fbinet",
+        "unet",
+        "redaction",
+        "upload",
+        "files",
+        "2021",
+        "2025",
+        "analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038703",
+            "similarity": 0.636,
+            "index": 122,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037772",
+            "similarity": 0.5,
+            "index": 19,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00038905",
+            "similarity": 0.5,
+            "index": 133,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00029227",
+      "summary": "On October 7, 2021, a forensic accountant with the FBI New York Field Office sent account opening, signature, and KYC documents related to two accounts associated with Ghislaine Maxwell to another recipient. The documents, including a June 2007 statement, were uploaded to the DOJ USA File Exchange site. On October 6, 2021, the recipient requested additional account statements covering several months to view balances. On October 4, 2021, the accountant initially provided the attached documents as a follow-up to a prior conversation about Maxwell’s involvement with Epstein accounts.",
+      "timestamp": "2021-10-07T00:00:00",
+      "timestamp_raw": "October 7, 2021",
+      "keywords": [
+        "epstein accounts",
+        "ghislaine maxwell",
+        "account statements",
+        "kyc",
+        "fbi",
+        "doj",
+        "redaction analysis",
+        "jpm-sdny",
+        "usanys"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038924",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] regarding the upload of files from FBINET to UNET. The email is associated with the document EFTA00038924.",
+      "timestamp": "2021-11-05T00:00:00",
+      "timestamp_raw": "05 Oct 2021",
+      "keywords": [
+        "efta00038924",
+        "fbinet",
+        "unet",
+        "redaction analysis",
+        "upload",
+        "files"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038607",
+            "similarity": 0.556,
+            "index": 114,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038500",
+            "similarity": 0.5,
+            "index": 74,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037770",
+            "similarity": 0.5,
+            "index": 21,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00038905",
+            "similarity": 0.5,
+            "index": 133,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038430",
+            "similarity": 0.625,
+            "index": 137,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00015031",
+      "summary": "An email chain discusses a zipped file named “DiscoveryExport_-_AF_&_ADG.” The initial email from [REDACTED] (USANYS) requests confirmation that the attachment opens and asks for a link to upload it to USAfx. A subsequent email from [REDACTED] (USANYS) reports the zip file is empty and suggests resending it or setting up USAfx access. The email chain originates from the FBI New York Field Office, Child Exploitation/Human Trafficking Desk, and includes the case file EFTA00015031.",
+      "timestamp": "2021-11-06T00:00:00",
+      "timestamp_raw": "06 Oct 2021",
+      "keywords": [
+        "efta00015031",
+        "af",
+        "adg",
+        "usafx",
+        "fbi",
+        "redaction",
+        "email",
+        "zip",
+        "contractor",
+        "human trafficking"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029172",
+      "summary": "An individual ([REDACTED]) sent documents related to Epstein accounts to the FBI New York Field Office (Forensic Accountant) via the DOJ USA File Exchange site. The documents included removal requests for Ghislaine Maxwell from Hyperion Air, Jeffery Epstein, and JEGE accounts, as well as a removal memo for NES LLC. The recipient ([REDACTED] – NY FBI) requested additional account statements for a few months after the documents were executed, specifically asking for balances. The initial sender ([REDACTED]) had already uploaded documents and granted access to the folder.",
+      "timestamp": "2021-11-07T00:00:00",
+      "timestamp_raw": "07 Oct 2021",
+      "keywords": [
+        "epstein",
+        "accounts",
+        "ghislaine maxwell",
+        "removal",
+        "documents",
+        "doj",
+        "fbi",
+        "hyperion air",
+        "nes llc",
+        "forensic accountant"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038833",
+      "summary": "An email exchange occurred between a contractor (“I=E,” USANYS) and the FBI (NY Field Office, Child Exploitation/Human Trafficking) regarding “hotline tracking spreadsheets.” The contractor requested updated spreadsheets for Maxwell and Epstein’s tiplines, citing outdated FBI copies from last summer. The contractor had previously uploaded email tips from SDNY and created a USAfx folder for uploads. Several individuals were involved in the communication, including [REDACTED] and Kimberly. A phone call was offered to discuss the spreadsheets further.",
+      "timestamp": "2021-11-08T00:00:00",
+      "timestamp_raw": "08 Oct 2021",
+      "keywords": [
+        "hotline tracking spreadsheets",
+        "fbi",
+        "usanys",
+        "contractor",
+        "email tips",
+        "sdny",
+        "maxwell",
+        "epstein",
+        "ausas",
+        "redaction"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018264",
+      "summary": "On November 12, 2021, emails were exchanged regarding questionnaires prepared for a case, likely a legal proceeding. One individual (identified as [REDACTED]) sent a spreadsheet containing juror questionnaires to another individual ([REDACTED]). These questionnaires had been uploaded to USAfx and were intended to be shared with defense counsel. A deadline of 11:00 AM the following day was set for receiving comments/objections regarding the jurors. The sender promised to distribute the questionnaires and assign juror numbers for review.",
+      "timestamp": "2021-11-12T00:00:00",
+      "timestamp_raw": "November 12, 2021",
+      "keywords": [
+        "questionnaires",
+        "jurors",
+        "defense counsel",
+        "spreadsheet",
+        "usafx",
+        "redacted",
+        "efta00018264",
+        "review",
+        "assignments",
+        "court"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018265",
+      "summary": "On November 12, 2021, emails were exchanged regarding the distribution and review of questionnaires related to a US v. Maxwell case. The questionnaires were prepared and uploaded to USAfx.  Individuals were instructed to complete their reviews, noting objections, and submit them by 11:00 AM on November 13, 2021.  A spreadsheet containing assignments and questionnaires was attached.  Updates were provided regarding the scanning and preparation of the documents for distribution to defense counsel.",
+      "timestamp": "2021-11-12T00:00:00",
+      "timestamp_raw": "November 12, 2021",
+      "keywords": [
+        "questionnaires",
+        "defense",
+        "counsel",
+        "juror",
+        "review",
+        "data",
+        "spreadsheet",
+        "objections",
+        "redaction",
+        "efta00018265"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018888",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] regarding case 3500, the Ghislaine Maxwell trial. The email details the attachment of defense-related documents, including cover letters, indices, witness material, and Microsoft Word documents. These materials were uploaded to USAfx and are prepared for distribution to the defense team. The sender intends to load a drive for Maxwell and ship it via FedEx.",
+      "timestamp": "2021-12-06T00:00:00",
+      "timestamp_raw": "06 Nov 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "efta00018888",
+        "redaction analysis",
+        "defense",
+        "usafx",
+        "fedex",
+        "maxwell",
+        "cover letter",
+        "witness material",
+        "2021"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027665",
+      "summary": "Questionnaires generated this morning were saved and uploaded to USAfx. Assignments detailing the questionnaires are in an attached spreadsheet. Team members are instructed to review the questionnaires and provide comments/objections by 11 a.m. tomorrow morning. The completed questionnaires will be shared with defense counsel upon notification.",
+      "timestamp": "2021-12-12T00:00:00",
+      "timestamp_raw": "12 Nov 2021",
+      "keywords": [
+        "questionnaires",
+        "juror",
+        "defense counsel",
+        "usafx",
+        "juror numbers",
+        "review",
+        "assignments",
+        "excel",
+        "scanning",
+        "efta00027665"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038905",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] on December 15, 2021, regarding the upload of files from FBINET to UNET. The email included the attachment 31E-MM-108062--119.WPD and the document EFTA00038905.",
+      "timestamp": "2021-12-15T00:00:00",
+      "timestamp_raw": "December 15, 2021",
+      "keywords": [
+        "efta00038905",
+        "fbinet",
+        "unet",
+        "redaction analysis",
+        "upload",
+        "files",
+        "2021",
+        "2025",
+        "pdf"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038924",
+            "similarity": 0.5,
+            "index": 125,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038855",
+            "similarity": 0.5,
+            "index": 123,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038703",
+            "similarity": 0.5,
+            "index": 122,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031109",
+      "summary": "A legal production, including Rule 16 and 3500 productions, related to the U.S. v. Maxwell case, was prepared and sent to defense counsel via FedEx drive. The drive and password were provided with tracking numbers. The production was uploaded to USAfx. A time-sensitive review of the 3500 index was requested, and the materials were located on Msa.doj.gov\\cloud NYS. Cover letters and Excel indices were attached for review and potential changes.",
+      "timestamp": "2021-12-24T00:00:00",
+      "timestamp_raw": "24 Nov 2021",
+      "keywords": [
+        "maxwell",
+        "production",
+        "rule 16",
+        "3500",
+        "fedex",
+        "usafx",
+        "discovery",
+        "attorney",
+        "index",
+        "time-sensitive"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038955",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] with the subject \"FBINET to UNET Uploaded Files\" on April 11, 2022. The email included a PDF attachment named EFTA00038955.pdf, which contains two redactions.",
+      "timestamp": "2022-04-11T00:00:00",
+      "timestamp_raw": "April 11, 2022",
+      "keywords": [
+        "efta00038955",
+        "fbinet",
+        "unet",
+        "redaction analysis",
+        "upload files",
+        "2022",
+        "2025",
+        "pdf"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00039003",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] regarding the upload of files named “Post_Arrest_Spontaneous_Utterances_made_by_DefendantiFFREY_R_EPSTEIN.pdf” (identified as EFTA00039003) on February 7, 2023.",
+      "timestamp": "2023-02-07T00:00:00",
+      "timestamp_raw": "February 7, 2023",
+      "keywords": [
+        "efta00039003",
+        "fbinet",
+        "unet",
+        "redaction",
+        "uploaded files",
+        "arrest",
+        "utterances",
+        "defendanti",
+        "epstein",
+        "2023"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038430",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] regarding the upload of files from FBINET to UNET. The email is titled \"FBINET to UNET Uploaded Files\" and includes a PDF attachment named “Interview_ofa”. The file identifier is EFTA00038430.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00038430",
+        "fbinet",
+        "unet",
+        "redaction analysis",
+        "upload",
+        "files",
+        "interview"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038924",
+            "similarity": 0.625,
+            "index": 125,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038700",
+            "similarity": 0.556,
+            "index": 121,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038607",
+            "similarity": 0.5,
+            "index": 114,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    }
+  ]
+}

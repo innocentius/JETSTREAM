@@ -1,0 +1,1236 @@
+{
+  "keyword": "ocme",
+  "count": 34,
+  "keyword_match_count": 34,
+  "content_match_count": 9,
+  "total_files": 43,
+  "timeline": [
+    {
+      "file_id": "EFTA00033860",
+      "summary": "On August 10, 2019, Officer Ma responded to a request for emergency hospital detail at Metropolitan Correctional Center, New York, regarding inmate Jeffrey Epstein (#76318-054). Officers secured the remains in room A9 of New York Presbyterian Hospital, with the Institution Duty Officer (IDO) taking command. The timeline involved preparation, escort, securing, communication with the Office of City Medical Examiner (OCME), and ultimately, the transport of the remains to the city morgue location.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "efta00033860",
+        "jeffrey epstein",
+        "metropolitan correctional center",
+        "new york",
+        "remains",
+        "ocme",
+        "hospital detail",
+        "federal bureau of prisons",
+        "united states government",
+        "emergency room"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00035012",
+            "similarity": 0.538,
+            "index": 2,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00033699",
+      "summary": "On August 10, 2019, at approximately 8:45 am, a correctional officer responded to a request for emergency hospital detail at the Metropolitan Correctional Center, New York, regarding inmate Jeffrey Epstein (#76318-054). The officer and another officer secured the remains in room A9 of New York Presbyterian hospital. Subsequently, the Institution Duty Officer (IDO) took command, overseeing the process which included communication with the Office of City Medical Examiner (OCME), the preparation and movement of the remains to the hospital morgue, and ultimately, transport to the city morgue for examination and processing.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "efta00033699",
+        "jeffrey epstein",
+        "remains",
+        "new york presbyterian",
+        "metropolitan correctional center",
+        "ocme",
+        "hospital detail",
+        "federal correction officer",
+        "bureau of prisons",
+        "us dept of justice"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035012",
+      "summary": "On August 10, 2019, at approximately 8:45 am, Officer M. responded to Metropolitan Correctional Center, New York, to provide emergency hospital detail for inmate Jeffrey Epstein (#76318-054) at New York Presbyterian Hospital room A9. Following preparation and escort of the remains to the hospital morgue cooling unit, officers secured the area under the direction of the Institution Duty Officer (IDO). The IDO then coordinated with the Director of the Office of City Medical Examiner (OCME) regarding the remains’ transport to the city morgue. OCME staff ultimately transported the remains at 12:57 pm, and the detail staff returned to MCC New York at 1:03 pm.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "efta00035012",
+        "jeffrey epstein",
+        "metropolitan correctional center",
+        "new york",
+        "remains",
+        "ocme",
+        "hospital detail",
+        "bureau of prisons",
+        "us department of justice",
+        "emergency room"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00033860",
+            "similarity": 0.538,
+            "index": 0,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020165",
+      "summary": "The New York City Office of the Chief Medical Examiner (OCME) completed an autopsy on Jeffrey Epstein, finding the cause of death consistent with strangulation/hanging. The autopsy revealed a broken hiatal bone and injuries to the left shoulder consistent with hanging. OCME determined there was no reason to suspect suicide and will await toxicology reports and interviews with first responders before finalizing the report.",
+      "timestamp": "2019-08-11T00:00:00",
+      "timestamp_raw": "11 Aug 2019",
+      "keywords": [
+        "epstein",
+        "autopsy",
+        "strangulation",
+        "hanging",
+        "ocme",
+        "toxicology",
+        "report",
+        "guards",
+        "interviews",
+        "usanys"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00023982",
+            "similarity": 1.0,
+            "index": 4,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00023982",
+      "summary": "The New York City Office of Chief Medical Examiner (OCME) completed an autopsy on Jeffrey Epstein, concluding that the findings are consistent with strangulation/hanging. The autopsy revealed a broken hiatal bone and injuries to the left shoulder also consistent with hanging. OCME determined there’s no reason to suspect suicide wasn’t self-inflicted and is awaiting toxicology and witness reports to finalize the report.",
+      "timestamp": "2019-08-11T00:00:00",
+      "timestamp_raw": "11 Aug 2019",
+      "keywords": [
+        "epstein",
+        "autopsy",
+        "strangulation",
+        "hanging",
+        "ocme",
+        "toxicology",
+        "report",
+        "guards",
+        "interviews",
+        "usanys"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00020165",
+            "similarity": 1.0,
+            "index": 3,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020445",
+      "summary": "An email chain discusses redaction requests related to the Epstein case. The Assistant United States Attorney requested the Office of Chief Medical Examiner (OCME) withhold specific documents and destroy a draft interview report dated August 12, 2019. The OCME responded requesting a list of specific documents desired for withholding and offered to discuss the deactivation of a document previously described.",
+      "timestamp": "2019-08-12T00:00:00",
+      "timestamp_raw": "August 12, 2019",
+      "keywords": [
+        "epstein case",
+        "redaction",
+        "ocme",
+        "documents",
+        "withhold",
+        "letter",
+        "fbi",
+        "interview report",
+        "new york",
+        "southern district"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00032423",
+            "similarity": 0.583,
+            "index": 22,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00013194",
+      "summary": "Emails dated August 13, 2019, discuss the investigation into Jeffrey Epstein’s death. Concerns are raised about presenting evidence, specifically a ligature, for potential use in court. Discussions involve comparing ligatures from July 23rd and August 10th.  A phone call is scheduled between the sender, David, and Dr. Roman at OCME to address ligature questions. One individual states they cannot reliably determine a time of death due to the timeframe. The AUSA office requests information regarding the ligature and interviews with those who discovered the body, citing legalities.",
+      "timestamp": "2019-08-13T00:00:00",
+      "timestamp_raw": "August 13, 2019",
+      "keywords": [
+        "epstein",
+        "ligature",
+        "time of death",
+        "ocme",
+        "ausa",
+        "david",
+        "roman",
+        "phone call",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027930",
+      "summary": "The email chain discusses obtaining information related to an investigation, likely involving Jeffrey Epstein. The U.S. Department of Justice, specifically the Office of the Inspector General’s New York Field Office, requests ambulance reports and physical descriptions (height and weight) from MCC.  It also outlines a schedule for voluntary interviews with various individuals, including an OPS Lt., Internal staff, Control staff, and an Assistant United States Attorney, all working on the 8th and 9th of August with specified shifts.  The emails are exchanged between multiple individuals and departments.",
+      "timestamp": "2019-08-13T00:00:00",
+      "timestamp_raw": "13 Aug 2019",
+      "keywords": [
+        "epstein",
+        "u.s. department of justice",
+        "redaction",
+        "interviews",
+        "mcc",
+        "ocme",
+        "ambulance reports",
+        "physical descriptions",
+        "height",
+        "weight",
+        "new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00027106",
+            "similarity": 0.538,
+            "index": 8,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00027106",
+      "summary": "The U.S. Department of Justice, Office of the Inspector General’s New York Field Office is requesting ambulance reports and physical descriptions (height and weight) from the Office of the Chief Medical Examiner (OCME). They also want to schedule voluntary interviews with the following individuals: OPS Lt. (8/10 12-8 Internal), Internal (8/10 12-8 Internal), Control (8/9 4-12 Internal), Control (8/9 4-12 Internal), Control (8/9 2-10 Internal). The request originates from an Assistant United States Attorney in the Southern District of New York.",
+      "timestamp": "2019-08-13T00:00:00",
+      "timestamp_raw": "13 Aug 2019",
+      "keywords": [
+        "epstein",
+        "justice",
+        "interviews",
+        "ocme",
+        "ambulance reports",
+        "physical descriptions",
+        "u.s. department of justice",
+        "new york",
+        "southern district of new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00027930",
+            "similarity": 0.538,
+            "index": 7,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032386",
+      "summary": "An email exchange discusses viewing surveillance footage related to Jeffrey Epstein. One individual (identified as [REDACTED]) is scheduled to perform autopsies and is coordinating with the FBI regarding access to the footage, which is restricted to FBI space due to software issues. The email chain originates from the OCME (New York) and includes correspondence about a potential viewing at 290 Broadway.",
+      "timestamp": "2019-08-15T00:00:00",
+      "timestamp_raw": "15 Aug 2019",
+      "keywords": [
+        "epstein",
+        "autopsies",
+        "fbi",
+        "surveillance footage",
+        "redaction",
+        "efta00032386"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027121",
+      "summary": "An email was sent from [REDACTED] (NY) to [REDACTED] (OCME) regarding surveillance footage related to the Epstein case. The footage cannot be viewed outside of FBI space due to software issues, and the sender offered to coordinate a viewing at 290 Broadway.",
+      "timestamp": "2019-08-15T00:00:00",
+      "timestamp_raw": "15 Aug 2019",
+      "keywords": [
+        "epstein",
+        "video",
+        "autopsy",
+        "fbi",
+        "surveillance footage",
+        "redaction",
+        "usanys",
+        "software issues",
+        "oga",
+        "oig"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018899",
+      "summary": "The City Medical Examiner (OCME) has officially determined that Jeffrey Epstein’s cause of death was hanging and the manner of death was suicide. A press release and official death certificate reflecting this conclusion are planned for later that afternoon.",
+      "timestamp": "2019-08-16T00:00:00",
+      "timestamp_raw": "16 Aug 2019",
+      "keywords": [
+        "epstein",
+        "ocme",
+        "suicide",
+        "cause of death",
+        "redaction",
+        "usanys",
+        "medical examiner",
+        "press release",
+        "death certificate"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00024007",
+            "similarity": 0.8,
+            "index": 12,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00031006",
+            "similarity": 0.8,
+            "index": 13,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00024007",
+      "summary": "The City Medical Examiner (OCME) has determined that Jeffrey Epstein’s cause of death was hanging and the manner of death was suicide. An official press release and death certificate reflecting this determination are planned for later today.",
+      "timestamp": "2019-08-16T00:00:00",
+      "timestamp_raw": "16 Aug 2019",
+      "keywords": [
+        "epstein",
+        "ocme",
+        "suicide",
+        "cause of death",
+        "geoffre berman",
+        "usanys",
+        "redaction",
+        "medical examiner",
+        "death certificate"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00018899",
+            "similarity": 0.8,
+            "index": 11,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00031006",
+            "similarity": 0.8,
+            "index": 13,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00031006",
+      "summary": "The City Medical Examiner (OCME) has determined that Jeffrey Epstein’s cause of death was hanging and the manner of death was suicide. An official press release and death certificate reflecting this determination are scheduled to be released later that afternoon.",
+      "timestamp": "2019-08-16T00:00:00",
+      "timestamp_raw": "16 Aug 2019",
+      "keywords": [
+        "epstein",
+        "ocme",
+        "suicide",
+        "redaction",
+        "cause of death",
+        "geoffrey berman",
+        "usanys",
+        "medical examiner",
+        "death certificate"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00024007",
+            "similarity": 0.8,
+            "index": 12,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00018899",
+            "similarity": 0.8,
+            "index": 11,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027968",
+      "summary": "On August 19, 2019, the NYPD transferred items 1B37 and 1B38 to the New York Office of the Chief Medical Examiner (NY OCME) for examination.  An evidence receipt was generated on August 12, 2019, at 11:56 AM documenting the transfer. The case ID is 90A-NY-3151227 and involves a death investigation with Jeffrey Epstein as the victim.",
+      "timestamp": "2019-08-19T00:00:00",
+      "timestamp_raw": "August 19, 2019",
+      "keywords": [
+        "fbi",
+        "electronic communication",
+        "evidence",
+        "ny ocme",
+        "jeffrey epstein",
+        "death investigation",
+        "90a-ny-3151227",
+        "1b37",
+        "1b38",
+        "nypd"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037215",
+      "summary": "On August 23, 2019, a correctional officer (identified as “w”) responded to a body alert in the SHU at the facility regarding Jeffrey Epstein. The officer assisted with CPR, allowed EMS access, and escorted Epstein to Beekman Hospital. Another officer, working with OIG and SDNY, responded to a similar alert where Epstein was already being treated after being removed from his cell. FBI CART provided a video package of the MCC to SDNY, and coordination was made to retrieve and image Thomas’ cell phone. The Office of the Chief Medical Examiner (OCME) was contacted and advised that they would provide a report soon, anticipating no further information requests. Three proffers were scheduled for Monday, August 26th, involving inmates from the MCC at the time of the incident, who have a history of facilitating contraband and policy violations.",
+      "timestamp": "2019-08-23T00:00:00",
+      "timestamp_raw": "August 23, 2019",
+      "keywords": [
+        "epstein",
+        "bop",
+        "fbi",
+        "ocme",
+        "autopsy",
+        "shu",
+        "cart",
+        "proffers",
+        "mcc",
+        "ransom"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037216",
+      "summary": "On August 23, 2019, an FBI-New York investigation regarding Jeffrey Epstein’s death involved interviews with Bureau of Prisons (BOP) guards. One guard reported that another guard and his partner conducted a 12x8 tour, responded to a body alert in the SHU where Epstein was already receiving CPR, and subsequently escorted the body to Beekman Hospital with EMS. Another guard assisted with the count and then responded to a body alert, observing Epstein being removed from his cell and treated. FBI CART packaged video from the MCC for SDNY, and coordination was made to retrieve and image Thomas’ cell phone. The Office of Chief Medical Examiner (OCME) advised that a final report would be provided soon, with a physician and executive having a meeting regarding the autopsy. Three proffers involving inmates from the MCC were scheduled for Monday, August 26th.",
+      "timestamp": "2019-08-23T00:00:00",
+      "timestamp_raw": "August 23, 2019",
+      "keywords": [
+        "epstein",
+        "fbi",
+        "bop",
+        "oig",
+        "sdny",
+        "shu",
+        "ems",
+        "autopsy",
+        "mcc",
+        "contraband"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027255",
+      "summary": "A draft letter regarding file EFTA00027255 was prepared by the Assistant United States Attorney for the Southern District of New York. The letter aims to redact specific details about the file’s contents and circumstances of disclosure. The GC was informed of the letter’s creation, and no issues were raised. A call is scheduled for the following morning to discuss the letter.",
+      "timestamp": "2019-08-27T00:00:00",
+      "timestamp_raw": "27 Aug 2019",
+      "keywords": [
+        "ocme",
+        "letter",
+        "disclosure",
+        "redaction",
+        "united states attorney",
+        "southern district of new york",
+        "gc",
+        "file",
+        "circumstances",
+        "2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00028000",
+            "similarity": 0.667,
+            "index": 19,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00029729",
+      "summary": "On August 27, 2019, at 5:30 PM, an event occurred at the OCME (421 E. 26th St) related to Epstein records accepted by SDNY. The event was classified as X-PERSONAL, created on August 27, 2019 at 4:13 PM, and attended by OCME personnel.",
+      "timestamp": "2019-08-27T00:00:00",
+      "timestamp_raw": "August 27, 2019",
+      "keywords": [
+        "epstein",
+        "sdny",
+        "ocme",
+        "records",
+        "2019-08-27",
+        "event",
+        "redaction analysis",
+        "personal",
+        "x-personal",
+        "dtstamp"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028000",
+      "summary": "An Assistant United States Attorney from the Southern District of New York sent a draft letter to the OCME (Office of Chief Medical Examiner) regarding file EFTA00028000. The letter aimed to briefly describe the file's contents and circumstances of disclosure, emphasizing the need for minimal detail to protect sensitive information. The sender requested a phone call to discuss the letter and intended to send it after a 10:00 AM meeting with the OCME. The General Counsel (GC) had already reviewed and approved the letter.",
+      "timestamp": "2019-08-28T00:00:00",
+      "timestamp_raw": "28 Aug 2019",
+      "keywords": [
+        "ocme",
+        "redaction",
+        "letter",
+        "us attorney",
+        "southern district of new york",
+        "disclosure",
+        "file",
+        "request",
+        "gc",
+        "2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00027255",
+            "similarity": 0.667,
+            "index": 17,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021295",
+      "summary": "On August 28, 2019, the U.S. Attorney’s Office for the Southern District of New York requested that the New York City Office of the Chief Medical Examiner (OCME) withhold specific materials related to Jeffrey Epstein’s autopsy. These materials include documents, records, and information provided by the USAO and FBI, as well as OCME case files containing such information. The request also included withholding the names and identifying information of federal law enforcement agents involved in the investigation and the substance of their interviews. The Attorney’s Office reserved the right to seek further legal process if the OCME were to disclose these materials.",
+      "timestamp": "2019-08-28T00:00:00",
+      "timestamp_raw": "August 28, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "autopsy report",
+        "united states attorney",
+        "federal bureau of investigation",
+        "metropolitan correctional center",
+        "criminal investigation",
+        "florence hutner",
+        "office of the chief medical examiner",
+        "redaction analysis",
+        "united states department of justice"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00018944",
+            "similarity": 0.818,
+            "index": 21,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00018944",
+      "summary": "On August 28, 2019, the U.S. Attorney’s Office for the Southern District of New York requested that the New York City Office of the Chief Medical Examiner (OCME) withhold specific documents, evidence, and information related to the autopsy of Jeffrey Epstein. This request stemmed from an ongoing criminal investigation into Epstein’s death at the Metropolitan Correctional Center (MCC). The USAO and FBI provided the OCME with materials and information during the investigation, and the U.S. Attorney requested the OCME to not share these materials, including names of federal law enforcement agents involved, with any third party, until the criminal investigation concluded.",
+      "timestamp": "2019-08-28T00:00:00",
+      "timestamp_raw": "August 28, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "autopsy report",
+        "united states attorney",
+        "federal bureau of investigation",
+        "metropolitan correctional center",
+        "criminal investigation",
+        "office of the chief medical examiner",
+        "redaction analysis",
+        "florence butner",
+        "united states department of justice"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00021295",
+            "similarity": 0.818,
+            "index": 20,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032423",
+      "summary": "On September 6, 2019, the Office of Chief Medical Examiner (OCME) informed a recipient that redactions for the Epstein case would be provided on Monday, September 10th, due to a longer-than-expected review process. A subsequent email on September 3rd confirmed this timeline and requested a list of specific documents being requested, along with an opportunity to discuss the destruction of a specific OCME document. An attachment dated August 28, 2019, was also sent.",
+      "timestamp": "2019-09-06T00:00:00",
+      "timestamp_raw": "September 6, 2019",
+      "keywords": [
+        "epstein case",
+        "redaction",
+        "medical examiner",
+        "new york",
+        "request",
+        "documents",
+        "ocme",
+        "fbi",
+        "interview report"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00020445",
+            "similarity": 0.583,
+            "index": 5,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021297",
+      "summary": "On September 9, 2019, the U.S. Attorney's Office for the Southern District of New York requested that the Office of the Chief Medical Examiner (OCME) redact specific documents and materials related to the Jeffrey Epstein autopsy case. These redactions included documents provided by the USAO or FBI, the names and identifying information of federal law enforcement agents, photographs of the scene at the Mansion at the Colony (MCC), and this letter and its attachment. The redacted document was attached as an enclosure.",
+      "timestamp": "2019-09-09T00:00:00",
+      "timestamp_raw": "September 9, 2019",
+      "keywords": [
+        "justice",
+        "department of justice",
+        "mollo building",
+        "jeffrey epstein",
+        "autopsy report",
+        "redaction",
+        "ocme",
+        "fbi",
+        "florence hutner",
+        "united states attorney"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030609",
+      "summary": "A U.S. Attorney from the Southern District of New York sent a letter and a report to Florence Hutner of the OCME regarding redactions made to the Epstein file. The attachments detail the redactions and a letter outlining the process.",
+      "timestamp": "2019-09-09T00:00:00",
+      "timestamp_raw": "09 Sep 2019",
+      "keywords": [
+        "epstein file",
+        "redactions",
+        "usanys",
+        "ocme",
+        "florence hutner",
+        "2019",
+        "united states attorney",
+        "southern district of new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030610",
+      "summary": "On September 9, 2019, the U.S. Attorney’s Office for the Southern District of New York requested the Office of the Chief Medical Examiner (OCME) to redact specific documents and information related to the Jeffrey Epstein autopsy file. These redactions included documents provided by the USAO or FBI, names and identifying information of federal law enforcement agents involved, and the August 28 Letter itself. The redacted document, attached to the letter, was provided to the FBI to preserve the integrity of an ongoing investigation.",
+      "timestamp": "2019-09-09T00:00:00",
+      "timestamp_raw": "September 9, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "autopsy report",
+        "redaction analysis",
+        "united states attorney",
+        "office of the chief medical examiner",
+        "fbi",
+        "usao",
+        "legal documents",
+        "august 28 letter",
+        "florence hutner"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019697",
+      "summary": "On September 27, 2019, an individual requested the death certificate and autopsy report for Jeffrey Epstein’s case (EFTA00019697) from the Office of Chief Medical Examiner (OCME) and the U.S. Marshal’s Southern District of New York. The OCME directed the requestor to contact Florence Hutner, their General Counsel. A prior request on August 19, 2019, had also been made for these documents. The Marshal provided contact information for the supervisory deputy.",
+      "timestamp": "2019-09-27T00:00:00",
+      "timestamp_raw": "September 27, 2019",
+      "keywords": [
+        "epstein",
+        "death certificate",
+        "autopsy report",
+        "subpoena",
+        "ocme",
+        "florence hutner",
+        "marshals",
+        "ausa",
+        "efta00019697",
+        "efta00019698"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021323",
+      "summary": "An email chain discusses obtaining a death certificate and autopsy report for Jeffrey Epstein’s case. Requests were made to multiple parties, including the New York City Office of Chief Medical Examiner and the U.S. Marshals Service, for subpoenas to access these documents. Discussions include the need for a subpoena from the requesting office and inquiries about a potential form Epstein may have signed regarding suicidal tendencies.  The emails reference specific offices and individuals involved in the process.",
+      "timestamp": "2019-11-10T00:00:00",
+      "timestamp_raw": "10 Oct 2019",
+      "keywords": [
+        "subpoena",
+        "autopsy report",
+        "death certificate",
+        "jeffrey epstein",
+        "ocme",
+        "marshals",
+        "bop",
+        "redaction",
+        "new york city",
+        "ausai"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035748",
+      "summary": "On November 14, 2019, an email was sent by an AUSA to summarize a telephone conversation between the AUSA, another AUSA, Dr. (OCME), and Dr. (OCME Chief Legal Counsel) regarding the autopsy of Jeffrey Epstein. The email, identified as Form FD-1036, was part of a death investigation (Case ID: 90A-NY-3151227) and included Jeffrey Epstein as the victim.",
+      "timestamp": "2019-11-14T00:00:00",
+      "timestamp_raw": "November 14, 2019",
+      "keywords": [
+        "fbi",
+        "jeffrey epstein",
+        "death investigation",
+        "autopsy",
+        "medical examiner",
+        "synopsis",
+        "email",
+        "case id",
+        "90a-ny-3151227",
+        "unclassified"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023753",
+      "summary": "An AUSA working on an investigation into the death of an inmate at the Brooklyn MDC contacted WINI seeking a confidentiality agreement, similar to the one signed in the Jeffrey Epstein investigation. The AUSA was willing to discuss the matter over the phone.",
+      "timestamp": "2020-06-11T00:00:00",
+      "timestamp_raw": "11 Jun 2020",
+      "keywords": [
+        "efta00023753",
+        "jeffrey epstein",
+        "ocme",
+        "confidentiality agreement",
+        "brooklyn mdc",
+        "investigation",
+        "ausa",
+        "edny",
+        "murder",
+        "inmate"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010382",
+      "summary": "A United States Attorney sent an email to notify the OCME (Office of the Chief Medical Examiner) regarding a FOIA request for the autopsy report of Jeffrey Epstein. The attached OCME Report of Autopsy contains redactions, indicated by boxes.",
+      "timestamp": "2021-06-28T00:00:00",
+      "timestamp_raw": "28 Jun 2021",
+      "keywords": [
+        "epstein",
+        "foia",
+        "ocme",
+        "autopsy",
+        "redaction",
+        "usanys",
+        "gc",
+        "white plains",
+        "united states attorney"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029520",
+      "summary": "A United States Attorney’s Office (USANYS) sent an OCME Report of Autopsy for Jeffrey Epstein to another USANYS office (USANYS) and a third USANYS office (SANYS) on June 28, 2021. The report is attached as a PDF document. Redactions are indicated within the document.",
+      "timestamp": "2021-06-28T00:00:00",
+      "timestamp_raw": "June 28, 2021",
+      "keywords": [
+        "epstein",
+        "ocme report",
+        "autopsy",
+        "redaction",
+        "usanys",
+        "white plains",
+        "ny",
+        "2021",
+        "pdf",
+        "forensic"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026518",
+      "summary": "An Assistant United States Attorney sent the OCME Report of Autopsy regarding the Epstein autopsy to various recipients at the USANY (presumably the Department of Justice).  A request was made to the Bureau of Prisons (BOP) to redact a photo.  The OCME confirmed the photo of the hyoid bone on page 12 was, in fact, Epstein’s and suggested redacting the entire page 12 photo to align with redactions of page 13 images. Redactions were indicated in the attached document.",
+      "timestamp": "2021-06-29T00:00:00",
+      "timestamp_raw": "29 Jun 2021",
+      "keywords": [
+        "epstein",
+        "foia",
+        "ocme",
+        "redaction",
+        "autopsy",
+        "hyoid bone",
+        "bop",
+        "usanys",
+        "sanys",
+        "photo"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00023398",
+            "similarity": 0.818,
+            "index": 34,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00023402",
+            "similarity": 0.818,
+            "index": 35,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00023400",
+            "similarity": 0.818,
+            "index": 36,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00022018",
+      "summary": "Attorney’s Office, Southern District of New York (USANYS), regarding an Epstein autopsy report. *   The emails discuss scheduling a call for June 29, 2021, at 3:30 PM. *   A USANYS representative informed the OCME of an ongoing FOIA case against the Bureau of Prisons (BOP) that would be made public on Friday, June 25, 2021, and requested a call to discuss it. *   All emails include standard legal disclaimers regarding confidentiality and restricted distribution.",
+      "timestamp": "2021-06-29T00:00:00",
+      "timestamp_raw": "June 29, 2021",
+      "keywords": [
+        "epstein autopsy",
+        "redaction",
+        "usanys",
+        "ocme",
+        "foia",
+        "bop",
+        "new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023398",
+      "summary": "On July 1, 2021, a USANYS official confirmed that the redacted OCME Report of Autopsy would be released the following day. The OCME requested a copy of the redacted report to be sent to them on Friday.  A subsequent email on June 29, 2021, indicated that the BOP would redact a photo related to the autopsy. On June 28, 2021, an Assistant United States Attorney sent the redacted OCME Report of Autopsy, noting specific redactions within the document. A discussion arose regarding the redaction of a photo of the hyoid bone on page 12, prompting a consideration of whether to redact the entire page 12 photo.",
+      "timestamp": "2021-07-01T00:00:00",
+      "timestamp_raw": "July 1, 2021",
+      "keywords": [
+        "epstein",
+        "foia",
+        "ocme",
+        "autopsy",
+        "redaction",
+        "usanys",
+        "bop",
+        "hyoid bone",
+        "photo",
+        "release"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00026518",
+            "similarity": 0.818,
+            "index": 32,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00023402",
+            "similarity": 0.818,
+            "index": 35,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00023400",
+            "similarity": 0.818,
+            "index": 36,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00010417",
+            "similarity": 0.818,
+            "index": 37,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00023402",
+      "summary": "On July 1, 2021, an Assistant United States Attorney sent the OCME Report of Autopsy (EFTA00023403) to [REDACTED] for distribution, including to the OCME and BOP. The report contained redactions indicated by boxes. On June 29, 2021, a discussion occurred regarding the redaction of a photo of the hyoid bone on page 12, with the suggestion to redact the entire page 12 photo due to the closeup photos redacted from page 13. The USANYS was coordinating with the OCME to send a redacted copy of the autopsy report.",
+      "timestamp": "2021-07-01T00:00:00",
+      "timestamp_raw": "July 1, 2021",
+      "keywords": [
+        "epstein",
+        "foia",
+        "ocme",
+        "autopsy",
+        "redaction",
+        "usanys",
+        "bop",
+        "hyoid bone",
+        "photo",
+        "report"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00023398",
+            "similarity": 0.818,
+            "index": 34,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00026518",
+            "similarity": 0.818,
+            "index": 32,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00023400",
+            "similarity": 1.0,
+            "index": 36,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00010417",
+            "similarity": 0.818,
+            "index": 37,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00023400",
+      "summary": "Email exchanges between individuals at the US Attorney's Office (USANYS) and the Office of Chief Medical Examiner (OCME) regarding the release of an autopsy report for Jeffrey Epstein. The report includes redactions. A request was made to send a redacted copy to the OCME.  Discussion occurred about redacting a specific photo (hyoid bone) on page 12, suggesting a need to redact the entire page 12 photo. An attachment containing the redacted autopsy report was sent.",
+      "timestamp": "2021-07-01T00:00:00",
+      "timestamp_raw": "01 Jul 2021",
+      "keywords": [
+        "epstein",
+        "foia",
+        "ocme",
+        "autopsy",
+        "redaction",
+        "usanys",
+        "bop",
+        "hyoid bone",
+        "photo",
+        "report"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00023402",
+            "similarity": 1.0,
+            "index": 35,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00023398",
+            "similarity": 0.818,
+            "index": 34,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00026518",
+            "similarity": 0.818,
+            "index": 32,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00010417",
+            "similarity": 0.818,
+            "index": 37,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00010417",
+      "summary": "An autopsy report related to Jeffrey Epstein’s death was released. The Office of Chief Medical Examiner (OCME) requested a copy of a redacted autopsy report. A redacted photo of the hyoid bone on page 12 was identified and discussed, prompting a request to redact the entire photo on page 12 in addition to close-up photos from page 13. The BOP (Bureau of Prisons) was to redact a photo. The attached report contained redactions indicated by boxes.",
+      "timestamp": "2021-07-02T00:00:00",
+      "timestamp_raw": "02 Jul 2021",
+      "keywords": [
+        "epstein",
+        "autopsy",
+        "redaction",
+        "ocme",
+        "foia",
+        "usanys",
+        "bop",
+        "hyoid bone",
+        "photo",
+        "times"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00023400",
+            "similarity": 0.818,
+            "index": 36,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00023402",
+            "similarity": 0.818,
+            "index": 35,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00023398",
+            "similarity": 0.818,
+            "index": 34,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00010419",
+            "similarity": 0.538,
+            "index": 38,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00010419",
+      "summary": "An autopsy report for Jeffrey Epstein was prepared by the Office of the Chief Medical Examiner (OCME). Redactions were requested and applied to the report, specifically regarding a photo of the hyoid bone on page 12.  Email exchanges between USANY (likely a legal entity) and OCME detail the process of sending the redacted report to the Times, coordinating redactions with the Bureau of Prisons (BOP), and discussing the extent of redactions needed for images. The final report was attached as EFTA00010419.pdf.",
+      "timestamp": "2021-07-02T00:00:00",
+      "timestamp_raw": "02 Jul 2021",
+      "keywords": [
+        "epstein",
+        "autopsy report",
+        "redactions",
+        "ocme",
+        "foia",
+        "usanys",
+        "hyoid bone",
+        "photo",
+        "redacted",
+        "times"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00010417",
+            "similarity": 0.538,
+            "index": 37,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027460",
+      "summary": "A communication chain discusses providing advance notice regarding the release of autopsy reports related to Mark Epstein’s death. The US Attorney’s Office is coordinating with Stacey Richman, Mark Epstein’s lawyer, and the Orange County Medical Examiner’s Office (OCME). The OCME is preparing a production of the autopsy report, and the US Attorney’s Office is considering notifying the Epstein family, particularly given ongoing FOIA litigation, while also informing Stacey Richman.",
+      "timestamp": "2021-07-02T00:00:00",
+      "timestamp_raw": "02 Jul 2021",
+      "keywords": [
+        "epstein",
+        "foia",
+        "redaction",
+        "bop",
+        "stacey richman",
+        "ocme",
+        "autopsy report",
+        "notice",
+        "family",
+        "litigation"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018502",
+      "summary": "On July 2, 2021, Florence Hutner, General Counsel of the Office of Chief Medical Examiner, received an attached redacted autopsy report related to Mark Epstein’s case from [REDACTED].  [REDACTED] informed Hutner that they had provided notice to Epstein’s attorney. On July 1, 2021, [REDACTED] of the U.S. Attorney’s Office, Southern District of New York, stated they would send the redacted autopsy report to Hutner the following day and would notify Epstein’s lawyer.",
+      "timestamp": "2021-07-02T00:00:00",
+      "timestamp_raw": "July 2, 2021",
+      "keywords": [
+        "epstein",
+        "foia",
+        "redaction",
+        "autopsy",
+        "hutner",
+        "ocme",
+        "florence hutner",
+        "u.s. attorney's office",
+        "southern district of new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010616",
+      "summary": "*   Florence Hutner, General Counsel for the Office of Chief Medical Examiner, is communicating regarding a FOIA request related to Jeffrey Epstein’s autopsy report. *   The autopsy report was produced to the New York Times and a redacted version was attached. *   The U.S. Attorney’s Office (Southern District of New York) is involved, having notified Mark Epstein’s attorney and intending to provide a courtesy heads-up. *   Confirmation was sought regarding the conclusion of the federal investigation and whether the NYT has published any redacted autopsy reports. *   A toxicology report request from a member of the public was received.",
+      "timestamp": "2021-08-23T00:00:00",
+      "timestamp_raw": "23 Aug 2021",
+      "keywords": [
+        "epstein",
+        "foia",
+        "autopsy report",
+        "redacted",
+        "ocme",
+        "toxicology",
+        "investigation",
+        "nyt",
+        "release",
+        "u.s. attorney"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035810",
+      "summary": "On October 21, 2022, a Special Agent in Charge from the U.S. Department of Justice’s Office of the Inspector General requested the City of New York’s Office of the Chief Medical Examiner to transfer evidence related to OCME case file M19-019432, concerning Jeffrey Epstein. The request included evidence unit EU19-28179 (ligature/bed sheet material strip and chain of custody paperwork) and any other associated evidence. The OIG was to be notified upon readiness for pickup.",
+      "timestamp": "2022-10-21T00:00:00",
+      "timestamp_raw": "October 21, 2022",
+      "keywords": [
+        "efta00035810",
+        "doj oig",
+        "chief medical examiner",
+        "jeffrey epstein",
+        "ocme",
+        "evidence",
+        "chain of custody",
+        "m19-019432",
+        "eu19-28179",
+        "new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    }
+  ]
+}

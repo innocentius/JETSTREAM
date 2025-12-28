@@ -1,0 +1,1759 @@
+{
+  "keyword": "federal express",
+  "count": 37,
+  "keyword_match_count": 37,
+  "content_match_count": 3,
+  "total_files": 40,
+  "timeline": [
+    {
+      "file_id": "EFTA00013954",
+      "summary": "On September 17, 2008, Katherine W. Ezell communicated with Mercedes C. Estrada regarding materials related to Jeffrey Epstein. Ezell relayed a message from Bob regarding a letter being drafted for the Florida Bar, alongside a Non-Prosecution Agreement and Addendum. She instructed that Special Agent would send unredacted documents to Katherine via Federal Express, and requested she pass on regards to victims meeting with the agents.",
+      "timestamp": "2008-09-17T00:00:00",
+      "timestamp_raw": "September 17, 2008",
+      "keywords": [
+        "epstein",
+        "non-prosecution agreement",
+        "florida bar",
+        "redaction",
+        "usafls",
+        "katherine ezeell",
+        "bob",
+        "tien",
+        "victim notification log",
+        "documents"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014177",
+      "summary": "A U.S. Attorney received a letter from Roy Black addressed directly to them, concerning Jeffrey Epstein. The letter originated from Epstein’s team, and included a reference to a complaint against the Rothstein firm. The Attorney had previously received a voicemail from Brad Edwards and was awaiting the criminal complaint.",
+      "timestamp": "2009-12-09T00:00:00",
+      "timestamp_raw": "December 09, 2009",
+      "keywords": [
+        "jeffrey epstein",
+        "roy black",
+        "rothstein",
+        "complaint",
+        "u.s. attorney",
+        "brad edwards",
+        "federal express",
+        "letter",
+        "redaction",
+        "criminal complaint"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026715",
+      "summary": "On August 13, 2020, the U.S. Department of Justice, Southern District of New York, sent a document to the MDC—Metropolitan Detention Center Legal Department regarding the case *United States v. Ghislaine Maxwell* (20 Cr. 330 (AJN)). The communication included the password for a drive containing discovery materials. Audrey Strauss, Acting United States Attorney, signed the document.",
+      "timestamp": "2020-08-13T00:00:00",
+      "timestamp_raw": "August 13, 2020",
+      "keywords": [
+        "united states department of justice",
+        "ghislaine maxwell",
+        "federal express",
+        "metropolitan detention center",
+        "discovery materials",
+        "legal department",
+        "united states attorney",
+        "southern district of new york",
+        "20 cr. 330",
+        "audrey strauss"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00013218",
+            "similarity": 0.5,
+            "index": 3,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00013219",
+            "similarity": 0.667,
+            "index": 4,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00022055",
+            "similarity": 0.5,
+            "index": 8,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00013218",
+      "summary": "On October 2, 2020, the United States Attorney for the Southern District of New York sent discovery materials related to the case *United States v. Ghislaine Maxwell* (20 Cr. 330 (AJN)) to the Metropolitan Detention Center Legal Department. The materials were enclosed for Ghislaine Maxwell (inmate 02879-509) to access.",
+      "timestamp": "2020-10-02T00:00:00",
+      "timestamp_raw": "October 2, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states v.",
+        "metropolitan detention center",
+        "discovery",
+        "united states department of justice",
+        "legal department",
+        "federal express",
+        "audrey strauss"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00026715",
+            "similarity": 0.5,
+            "index": 2,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00013219",
+            "similarity": 0.636,
+            "index": 4,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00023696",
+            "similarity": 0.5,
+            "index": 5,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00023695",
+            "similarity": 0.636,
+            "index": 6,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00013219",
+      "summary": "On October 2, 2020, the United States Attorney for the Southern District of New York sent a notification to the MDC—Metropolitan Detention Center Legal Department regarding the United States v. Ghislaine Maxwell case (20 Cr. 330 (AJN)). The communication included the password “USAOsdnyl!” for a drive containing discovery materials related to Ghislaine Maxwell (case file 02879-509).",
+      "timestamp": "2020-10-02T00:00:00",
+      "timestamp_raw": "October 2, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states v.",
+        "united states department of justice",
+        "metropolitan detention center",
+        "federal express",
+        "usaosdnyl",
+        "discovery materials",
+        "legal department",
+        "20 cr. 330",
+        "audrey strauss"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00013218",
+            "similarity": 0.636,
+            "index": 3,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00026715",
+            "similarity": 0.667,
+            "index": 2,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00023696",
+            "similarity": 0.545,
+            "index": 5,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00022055",
+            "similarity": 0.5,
+            "index": 8,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00018260",
+            "similarity": 0.636,
+            "index": 9,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00023696",
+      "summary": "The U.S. Department of Justice, Acting United States Attorney Audrey Strauss, is sending a drive containing discovery materials related to the case *United States v. Ghislaine Maxwell* (20 Cr. 330) to the MDC—Metropolitan Detention Center. The drive’s access password is provided.",
+      "timestamp": "2020-10-02T00:00:00",
+      "timestamp_raw": "October 2, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states v.",
+        "justice department",
+        "metropolitan detention center",
+        "federal express",
+        "discovery materials",
+        "audrey strauss"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00013219",
+            "similarity": 0.545,
+            "index": 4,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00013218",
+            "similarity": 0.5,
+            "index": 3,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00022055",
+            "similarity": 0.5,
+            "index": 8,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00018260",
+            "similarity": 0.667,
+            "index": 9,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00029981",
+            "similarity": 0.75,
+            "index": 11,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00023695",
+      "summary": "On October 2, 2020, the U.S. Department of Justice, Southern District of New York, sent discovery materials related to the case *United States v. Ghislaine Maxwell* (20 Cr. 330 (AJN)) to the MDC—Metropolitan Detention Center. The materials were enclosed for inmate Ghislaine Maxwell (ID: 02879-509) and were provided by Acting United States Attorney Audrey Strauss.",
+      "timestamp": "2020-10-02T00:00:00",
+      "timestamp_raw": "October 2, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states department of justice",
+        "southern district of new york",
+        "metropolitan detention center",
+        "federal express",
+        "discovery",
+        "united states v.",
+        "mdc",
+        "audrey strauss",
+        "criminal case"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00013218",
+            "similarity": 0.636,
+            "index": 3,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00018260",
+            "similarity": 0.636,
+            "index": 9,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00029980",
+            "similarity": 0.5,
+            "index": 10,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00029981",
+            "similarity": 0.545,
+            "index": 11,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00022054",
+      "summary": "The U.S. Department of Justice, specifically the Southern District of New York, sent discovery materials related to the case *United States v. Ghislaine Maxwell* (20 Cr. 330) to the Metropolitan Detention Center’s Legal Department. The materials are for inmate Ghislaine Maxwell (ID: 02879-509).",
+      "timestamp": "2020-10-19T00:00:00",
+      "timestamp_raw": "October 19, 2020",
+      "keywords": [
+        "justice",
+        "united states department",
+        "ghislaine maxwell",
+        "legal",
+        "federal express",
+        "metropolitan detention center",
+        "discovery",
+        "united states v.",
+        "brooklyn",
+        "audrey strauss"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00013218",
+            "similarity": 0.5,
+            "index": 3,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00029980",
+            "similarity": 0.5,
+            "index": 10,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00031950",
+            "similarity": 0.667,
+            "index": 13,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00016793",
+            "similarity": 0.667,
+            "index": 16,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00022055",
+      "summary": "On October 19, 2020, the U.S. Department of Justice, specifically the United States Attorney for the Southern District of New York, sent discovery materials related to the case *United States v. Ghislaine Maxwell* (20 Cr. 330 (AJN)) to the MDC—Metropolitan Detention Center Legal Department. The materials were contained in a package labeled “The passes” (02879-509) and were sent by Federal Express. Audrey Strauss, United States Attorney, signed the correspondence.",
+      "timestamp": "2020-10-19T00:00:00",
+      "timestamp_raw": "October 19, 2020",
+      "keywords": [
+        "u.s. department of justice",
+        "ghislaine maxwell",
+        "federal express",
+        "metropolitan detention center",
+        "legal department",
+        "united states v.",
+        "discovery materials",
+        "southern district of new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00023696",
+            "similarity": 0.5,
+            "index": 5,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00013219",
+            "similarity": 0.5,
+            "index": 4,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00026715",
+            "similarity": 0.5,
+            "index": 2,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00018260",
+            "similarity": 0.6,
+            "index": 9,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00029981",
+            "similarity": 0.5,
+            "index": 11,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019283",
+            "similarity": 0.636,
+            "index": 14,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00018260",
+      "summary": "On October 29, 2020, Audrey Strauss, Acting United States Attorney, sent a document to the MDC—Metropolitan Detention Center Legal Department regarding the case *United States v. Ghislaine Maxwell* (20 Cr. 330 (AJN)). The document is a notification containing the password for a CD containing discovery materials related to Ghislaine Maxwell (case file 02879-509).",
+      "timestamp": "2020-10-29T00:00:00",
+      "timestamp_raw": "October 29, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states v.",
+        "metropolitan detention center",
+        "discovery materials",
+        "federal express",
+        "audrey strauss",
+        "united states department of justice",
+        "southern district of new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00022055",
+            "similarity": 0.6,
+            "index": 8,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00023695",
+            "similarity": 0.636,
+            "index": 6,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00023696",
+            "similarity": 0.667,
+            "index": 5,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00029981",
+            "similarity": 0.875,
+            "index": 11,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00031951",
+            "similarity": 0.778,
+            "index": 12,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00019283",
+            "similarity": 0.5,
+            "index": 14,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00029980",
+      "summary": "On November 9, 2020, the United States Attorney for the Southern District of New York sent discovery materials related to the case *United States v. Ghislaine Maxwell* (20 Cr. 330 (AJN)) to the Metropolitan Detention Center – Brooklyn. The materials were intended for Ghislaine Maxwell (inmate ID 02879-509) and were provided by Audrey Strauss, Acting United States Attorney.",
+      "timestamp": "2020-11-09T00:00:00",
+      "timestamp_raw": "November 9, 2020",
+      "keywords": [
+        "efta00029980",
+        "ghislaine maxwell",
+        "united states v.",
+        "metropolitan detention center",
+        "brooklyn",
+        "federal express",
+        "audrey strauss",
+        "discovery",
+        "inmate",
+        "united states attorney",
+        "southern district of new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00022054",
+            "similarity": 0.5,
+            "index": 7,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00023695",
+            "similarity": 0.5,
+            "index": 6,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00019283",
+            "similarity": 0.5,
+            "index": 14,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00030094",
+            "similarity": 0.538,
+            "index": 18,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00031688",
+            "similarity": 0.5,
+            "index": 19,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00029981",
+      "summary": "On November 9, 2020, Audrey Strauss, Acting United States Attorney, sent a document to the MDC—Metropolitan Detention Center in Brooklyn, NY, regarding the United States v. Ghislaine Maxwell case (20 Cr. 330). The document provides the password for a drive containing discovery materials related to Ghislaine Maxwell (case file 02879-509).",
+      "timestamp": "2020-11-09T00:00:00",
+      "timestamp_raw": "November 9, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states department of justice",
+        "metropolitan detention center",
+        "discovery materials",
+        "federal express",
+        "united states v.",
+        "audrey strauss"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00018260",
+            "similarity": 0.875,
+            "index": 9,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00022055",
+            "similarity": 0.5,
+            "index": 8,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00023695",
+            "similarity": 0.545,
+            "index": 6,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00031951",
+            "similarity": 0.875,
+            "index": 12,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00030094",
+            "similarity": 0.6,
+            "index": 18,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028579",
+            "similarity": 0.875,
+            "index": 21,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00031951",
+      "summary": "This document is a letter from the United States Attorney, Audrey Strauss, to the MDC—Metropolitan Detention Center in Brooklyn, NY, regarding the United States v. Ghislaine Maxwell case (20 Cr. 330). The letter provides the password for a drive containing discovery materials related to Ghislaine Maxwell (case file 02879-509). The letter was sent on December 3, 2020.",
+      "timestamp": "2020-12-03T00:00:00",
+      "timestamp_raw": "December 3, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states v.",
+        "united states department of justice",
+        "metropolitan detention center",
+        "federal express",
+        "discovery materials",
+        "audrey strauss",
+        "efta00031951"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00029981",
+            "similarity": 0.875,
+            "index": 11,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00018260",
+            "similarity": 0.778,
+            "index": 9,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00023695",
+            "similarity": 0.5,
+            "index": 6,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00030094",
+            "similarity": 0.545,
+            "index": 18,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028579",
+            "similarity": 0.778,
+            "index": 21,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00029417",
+            "similarity": 0.5,
+            "index": 24,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00031950",
+      "summary": "The U.S. Department of Justice, specifically the Southern District of New York, is providing discovery materials to Ghislaine Maxwell, inmate 02879-509, at the MDC—Metropolitan Detention Center. The materials relate to the case *United States v. Ghislaine Maxwell* (20 Cr. 330 (AJN)). The document is dated December 3, 2020, and sent by Acting United States Attorney Audrey Strauss.",
+      "timestamp": "2020-12-03T00:00:00",
+      "timestamp_raw": "December 3, 2020",
+      "keywords": [
+        "justice",
+        "united states department",
+        "ghislaine maxwell",
+        "metropolitan detention center",
+        "legal department",
+        "discovery",
+        "federal express",
+        "united states v.",
+        "brooklyn",
+        "criminal case"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00022054",
+            "similarity": 0.667,
+            "index": 7,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00013218",
+            "similarity": 0.5,
+            "index": 3,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00016793",
+            "similarity": 0.667,
+            "index": 16,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00020104",
+            "similarity": 0.538,
+            "index": 26,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00020103",
+            "similarity": 0.5,
+            "index": 27,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00019283",
+      "summary": "On December 17, 2020, the U.S. Department of Justice, specifically the United States Attorney for the Southern District of New York, sent discovery materials related to the case *United States v. Ghislaine Maxwell* (20 Cr. 330 (AJN)) to the MDC—Metropolitan Detention Center Legal Department. The materials were enclosed for Ghislaine Maxwell’s access.",
+      "timestamp": "2020-12-17T00:00:00",
+      "timestamp_raw": "December 17, 2020",
+      "keywords": [
+        "u.s. department of justice",
+        "ghislaine maxwell",
+        "metropolitan detention center",
+        "federal express",
+        "discovery",
+        "united states v.",
+        "legal department",
+        "southern district of new york",
+        "audrey strauss",
+        "mdc"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00029980",
+            "similarity": 0.5,
+            "index": 10,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00018260",
+            "similarity": 0.5,
+            "index": 9,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00022055",
+            "similarity": 0.636,
+            "index": 8,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00016794",
+            "similarity": 0.538,
+            "index": 17,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00030094",
+            "similarity": 0.727,
+            "index": 18,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00028578",
+            "similarity": 0.538,
+            "index": 20,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00019284",
+      "summary": "On December 17, 2020, the U.S. Department of Justice, specifically the Acting United States Attorney Audrey Strauss, sent a disc containing discovery materials related to the case *United States v. Ghislaine Maxwell* (20 Cr. 330) to the MDC—Metropolitan Detention Center Legal Department. The disc was sent via Federal Express.",
+      "timestamp": "2020-12-17T00:00:00",
+      "timestamp_raw": "December 17, 2020",
+      "keywords": [
+        "justice",
+        "ghislaine maxwell",
+        "united states",
+        "discovery materials",
+        "legal",
+        "brooklyn",
+        "federal express",
+        "metropolitan detention center",
+        "united states attorney",
+        "efta00019284"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00029417",
+            "similarity": 0.538,
+            "index": 24,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00029416",
+            "similarity": 0.538,
+            "index": 25,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00016793",
+      "summary": "The U.S. Department of Justice, United States Attorney for the Southern District of New York, is sending discovery materials related to the case *United States v. Ghislaine Maxwell* (20 Cr. 330 (AJN)) to the MDC—Metropolitan Detention Center Legal Department. The materials are intended for Ghislaine Maxwell (inmate ID 02879-509).",
+      "timestamp": "2020-12-18T00:00:00",
+      "timestamp_raw": "December 18, 2020",
+      "keywords": [
+        "justice",
+        "united states department",
+        "ghislaine maxwell",
+        "metropolitan detention center",
+        "discovery",
+        "legal",
+        "federal express",
+        "brooklyn",
+        "new york",
+        "criminal case"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00031950",
+            "similarity": 0.667,
+            "index": 13,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00022054",
+            "similarity": 0.667,
+            "index": 7,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00031688",
+            "similarity": 0.538,
+            "index": 19,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00029416",
+            "similarity": 0.538,
+            "index": 25,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00020103",
+            "similarity": 0.5,
+            "index": 27,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00016794",
+      "summary": "On December 18, 2020, the U.S. Department of Justice, specifically the United States Attorney for the Southern District of New York, sent discovery materials related to the case *United States v. Ghislaine Maxwell* (20 Cr. 330 (AJN)) to the MDC—Metropolitan Detention Center Legal Department at 80 29th Street, Brooklyn, NY 11232. The materials pertain to Ghislaine Maxwell (case file 02879-509).",
+      "timestamp": "2020-12-18T00:00:00",
+      "timestamp_raw": "December 18, 2020",
+      "keywords": [
+        "u.s. department of justice",
+        "ghislaine maxwell",
+        "metropolitan detention center",
+        "federal express",
+        "discovery materials",
+        "legal department",
+        "united states v.",
+        "southern district of new york",
+        "criminal case",
+        "efta00016794"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00019283",
+            "similarity": 0.538,
+            "index": 14,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00018260",
+            "similarity": 0.5,
+            "index": 9,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00022055",
+            "similarity": 0.8,
+            "index": 8,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030094",
+      "summary": "On March 16, 2021, the U.S. Department of Justice, specifically the United States Attorney for the Southern District of New York, sent discovery materials related to the case *United States v. Ghislaine Maxwell* (20 Cr. 330) to the MDC—Metropolitan Detention Center Legal Department. The materials were intended for Ghislaine Maxwell (inmate ID 02879-509) and were provided by Audrey Strauss, United States Attorney.",
+      "timestamp": "2021-03-16T00:00:00",
+      "timestamp_raw": "March 16, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states v.",
+        "metropolitan detention center",
+        "mdc",
+        "audrey strauss",
+        "federal express",
+        "discovery",
+        "united states department of justice",
+        "southern district of new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00019283",
+            "similarity": 0.727,
+            "index": 14,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00031951",
+            "similarity": 0.545,
+            "index": 12,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00029981",
+            "similarity": 0.6,
+            "index": 11,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00028578",
+            "similarity": 0.583,
+            "index": 20,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028579",
+            "similarity": 0.545,
+            "index": 21,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00031688",
+      "summary": "On May 3, 2021, the U.S. Department of Justice, specifically the United States Attorney for the Southern District of New York, sent discovery materials related to the case *United States v. Ghislaine Maxwell* (20 Cr. 330 (AJN)) to the MDC—Metropolitan Detention Center Legal Department. The materials were enclosed for Ghislaine Maxwell (inmate 02879-509) to access.",
+      "timestamp": "2021-05-03T00:00:00",
+      "timestamp_raw": "May 3, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states v.",
+        "metropolitan detention center",
+        "justice department",
+        "discovery",
+        "legal",
+        "federal express",
+        "brooklyn",
+        "new york",
+        "united states attorney"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00016793",
+            "similarity": 0.538,
+            "index": 16,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00029980",
+            "similarity": 0.5,
+            "index": 10,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00022054",
+            "similarity": 0.538,
+            "index": 7,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00029416",
+            "similarity": 0.538,
+            "index": 25,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00020103",
+            "similarity": 0.5,
+            "index": 27,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00014654",
+            "similarity": 0.538,
+            "index": 38,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00028578",
+      "summary": "The United States Attorney for the Southern District of New York is providing discovery materials to Ghislaine Maxwell, inmate 02879-509, at the MDC—Metropolitan Detention Center in Brooklyn, NY, related to the case United States v. Ghislaine Maxwell (20 Cr. 330 (AJN)). The materials were sent via Federal Express on May 21, 2021, by Audrey Strauss, United States Attorney.",
+      "timestamp": "2021-05-21T00:00:00",
+      "timestamp_raw": "May 21, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states",
+        "southern district of new york",
+        "metropolitan detention center",
+        "federal express",
+        "discovery",
+        "inmate",
+        "united states v.",
+        "criminal case",
+        "audrey strauss"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00030094",
+            "similarity": 0.583,
+            "index": 18,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019283",
+            "similarity": 0.538,
+            "index": 14,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00029980",
+            "similarity": 0.615,
+            "index": 10,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028579",
+      "summary": "On May 21, 2021, the U.S. Department of Justice, specifically the United States Attorney for the Southern District of New York, sent a disc containing discovery materials related to the case *United States v. Ghislaine Maxwell* (20 Cr. 330) to the MDC—Metropolitan Detention Center in Brooklyn, NY. The disc’s password was “Very truly yours, AUDREY STRAUSS.”",
+      "timestamp": "2021-05-21T00:00:00",
+      "timestamp_raw": "May 21, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states v.",
+        "united states department of justice",
+        "metropolitan detention center",
+        "discovery materials",
+        "federal express",
+        "audrey strauss",
+        "efta00028579"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00030094",
+            "similarity": 0.545,
+            "index": 18,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00031951",
+            "similarity": 0.778,
+            "index": 12,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00029981",
+            "similarity": 0.875,
+            "index": 11,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00029417",
+            "similarity": 0.5,
+            "index": 24,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00032003",
+      "summary": "The U.S. Department of Justice, specifically the United States Attorney for the Southern District of New York, sent discovery materials related to the case *United States v. Ghislaine Maxwell* (20 Cr. 330 (AJN)) to the Metropolitan Detention Center’s Legal Department. The materials are intended for Ghislaine Maxwell (inmate 02879-509). The communication was sent on June 10, 2021.",
+      "timestamp": "2021-06-10T00:00:00",
+      "timestamp_raw": "June 10, 2021",
+      "keywords": [
+        "united states v. chislaine maxwell",
+        "audrey strauss",
+        "metropolitan detention center",
+        "discovery",
+        "federal express",
+        "efta00032003"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019051",
+      "summary": "Attorney’s Office for the Southern District of New York are involved in a search for records related to Ghislaine Maxwell and Jeffrey Epstein. *   The initial request involves locating a FedEx account number and shipment data from 2007-2020. *   A spreadsheet containing shipment data from 2007-2020 is being provided. *   The search involves identifying a records custodian who could testify in a trial for Ghislaine Maxwell (scheduled in New York in November). *   A subpoena was issued to FedEx in February 2008, with Tracy Ferrara as the point of contact. *   The goal is to find relevant documents for potential use as evidence. *   There is an attempt to engage a paralegal to prepare an affidavit or potentially testify at trial.",
+      "timestamp": "2021-08-05T00:00:00",
+      "timestamp_raw": "05 Aug 2021",
+      "keywords": [
+        "fedex",
+        "account number",
+        "subpoena",
+        "ghislaine maxwell",
+        "jeffrey epstein",
+        "records custodian",
+        "trial",
+        "affidavit",
+        "memphis",
+        "tn",
+        "usanys",
+        "2007-2020"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029417",
+      "summary": "On August 12, 2021, the U.S. Department of Justice, specifically the United States Attorney for the Southern District of New York, sent a communication via FedEx to the Metropolitan Detention Center Legal Department regarding the United States v. Ghislaine Maxwell case (20 Cr. 330 (AJN)). The communication included the password for a drive containing discovery materials related to Ghislaine Maxwell (case number 02879-509). It was sent by Audrey Strauss, United States Attorney.",
+      "timestamp": "2021-08-12T00:00:00",
+      "timestamp_raw": "August 12, 2021",
+      "keywords": [
+        "justice",
+        "ghislaine maxwell",
+        "united states department of justice",
+        "federal express",
+        "metropolitan detention center",
+        "discovery materials",
+        "legal",
+        "brooklyn",
+        "20 cr 330",
+        "audrey strauss"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00028579",
+            "similarity": 0.5,
+            "index": 21,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019284",
+            "similarity": 0.538,
+            "index": 15,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00031951",
+            "similarity": 0.5,
+            "index": 12,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00029416",
+            "similarity": 0.538,
+            "index": 25,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00029416",
+      "summary": "The U.S. Department of Justice, specifically the United States Attorney for the Southern District of New York, is providing discovery materials related to the case *United States v. Ghislaine Maxwell* (20 Cr. 330 (AJN)) to Ghislaine Maxwell, currently incarcerated at the MDC—Metropolitan Detention Center. The materials are enclosed for her access.",
+      "timestamp": "2021-08-12T00:00:00",
+      "timestamp_raw": "August 12, 2021",
+      "keywords": [
+        "justice",
+        "ghislaine maxwell",
+        "united states department of justice",
+        "metropolitan detention center",
+        "discovery",
+        "legal",
+        "united states attorney",
+        "federal express",
+        "brooklyn",
+        "criminal"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00029417",
+            "similarity": 0.538,
+            "index": 24,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00031688",
+            "similarity": 0.538,
+            "index": 19,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00016793",
+            "similarity": 0.538,
+            "index": 16,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020104",
+      "summary": "The U.S. Department of Justice, specifically United States Attorney Damian Williams, sent a communication to the Legal Department of the MDC—Metropolitan Detention Center on October 11, 2021, regarding the case United States v. Ghislaine Maxwell (20 Cr. 330). The communication included the password for a drive containing witness materials and discovery related to the case (02879-509).",
+      "timestamp": "2021-10-11T00:00:00",
+      "timestamp_raw": "October 11, 2021",
+      "keywords": [
+        "u.s. department of justice",
+        "ghislaine maxwell",
+        "federal express",
+        "metropolitan detention center",
+        "united states v.",
+        "discovery",
+        "witness materials",
+        "legal department",
+        "brooklyn",
+        "ny"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00019283",
+            "similarity": 0.538,
+            "index": 14,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00031950",
+            "similarity": 0.538,
+            "index": 13,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00022055",
+            "similarity": 0.5,
+            "index": 8,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00020103",
+            "similarity": 0.5,
+            "index": 27,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00018892",
+            "similarity": 0.538,
+            "index": 31,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028206",
+            "similarity": 0.818,
+            "index": 32,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00020103",
+      "summary": "On October 11, 2021, the U.S. Attorney for the Southern District of New York sent witness materials and discovery related to the case *United States v. Ghislaine Maxwell* (20 Cr. 330 (LIN)) to the Metropolitan Detention Center’s Legal Department. The materials are intended for Ghislaine Maxwell (inmate 02879-509).",
+      "timestamp": "2021-10-11T00:00:00",
+      "timestamp_raw": "October 11, 2021",
+      "keywords": [
+        "efta00020103",
+        "ghislaine maxwell",
+        "united states v.",
+        "justice",
+        "metropolitan detention center",
+        "discovery",
+        "witness materials",
+        "brooklyn",
+        "new york",
+        "federal express",
+        "damian williams"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00020104",
+            "similarity": 0.5,
+            "index": 26,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00031688",
+            "similarity": 0.5,
+            "index": 19,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00016793",
+            "similarity": 0.5,
+            "index": 16,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00028206",
+            "similarity": 0.5,
+            "index": 32,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00014654",
+            "similarity": 0.5,
+            "index": 38,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00016488",
+            "similarity": 0.615,
+            "index": 39,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00023037",
+      "summary": "Bobbi Sternheim sent an email to [REDACTED] on October 12, 2021, informing them that the government had sent a hard drive related to Ghislaine Maxwell to the Mail & Defence Centre (MDC) via Federal Express. Sternheim instructed the recipient to immediately hand the hard drive over to Maxwell, emphasizing the urgency of the situation. The email included Sternheim’s contact information and a standard confidentiality disclaimer.",
+      "timestamp": "2021-10-12T00:00:00",
+      "timestamp_raw": "October 12, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "federal express",
+        "mdc",
+        "bobbi sternheim",
+        "hard drive",
+        "redaction",
+        "legal",
+        "confidential",
+        "email",
+        "external"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016716",
+      "summary": "On October 13, 2021, Bobbi C. Sternheim sent an email to multiple recipients regarding the delivery of a hard drive to Ghislaine Maxwell at the MDC. The hard drive was to be sent via FedEx and immediately given to Maxwell upon arrival. Sternheim requested confirmation upon arrival and provided her updated contact information. The email contained a standard confidentiality disclaimer.",
+      "timestamp": "2021-10-13T00:00:00",
+      "timestamp_raw": "October 13, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "efta00016716",
+        "ausas",
+        "hard drives",
+        "delivery",
+        "bobbi c. sternheim",
+        "federal express",
+        "mdc",
+        "maxwell",
+        "redaction"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019059",
+      "summary": "On October 29, 2021, the U.S. Department of Justice, specifically the United States Attorney for the Southern District of New York, sent witness materials, Government Exhibits, and discovery related to the case *United States v. Ghislaine Maxwell* (20 Cr. 330 (AJN)) to the MDC—Metropolitan Detention Center Legal Department for inmate Ghislaine Maxwell (ID: 02879-509).",
+      "timestamp": "2021-10-29T00:00:00",
+      "timestamp_raw": "October 29, 2021",
+      "keywords": [
+        "justice",
+        "united states department",
+        "ghislaine maxwell",
+        "metropolitan detention center",
+        "legal department",
+        "discovery",
+        "witness materials",
+        "exhibits",
+        "federal express",
+        "criminal case"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00016793",
+            "similarity": 0.538,
+            "index": 16,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00031950",
+            "similarity": 0.667,
+            "index": 13,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018892",
+      "summary": "The U.S. Department of Justice, specifically Damian Williams, is providing witness materials related to the case United States v. Ghislaine Maxwell (20 Cr. 330 (AJN)). These materials are being sent to Ghislaine Maxwell, inmate 02879-509, at the MDC—Metropolitan Detention Center in Brooklyn, NY.",
+      "timestamp": "2021-11-06T00:00:00",
+      "timestamp_raw": "November 6, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states department of justice",
+        "southern district of new york",
+        "metropolitan detention center",
+        "federal express",
+        "united states v.",
+        "witness materials",
+        "brooklyn",
+        "ny",
+        "damien williams"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00020104",
+            "similarity": 0.538,
+            "index": 26,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00018260",
+            "similarity": 0.5,
+            "index": 9,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00028206",
+            "similarity": 0.538,
+            "index": 32,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00016488",
+            "similarity": 0.538,
+            "index": 39,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00028206",
+      "summary": "The U.S. Department of Justice, specifically the United States Attorney for the Southern District of New York, is providing witness materials to Ghislaine Maxwell (inmate 02879-509) at the MDC—Metropolitan Detention Center. The materials relate to the case United States v. Ghislaine Maxwell, case number 20 Cr. 330 (AJN), and were sent via Federal Express on November 6, 2021, by Damian Williams, United States Attorney.",
+      "timestamp": "2021-11-06T00:00:00",
+      "timestamp_raw": "November 6, 2021",
+      "keywords": [
+        "u.s. department of justice",
+        "ghislaine maxwell",
+        "metropolitan detention center",
+        "legal department",
+        "united states v.",
+        "witness materials",
+        "federal express",
+        "brooklyn",
+        "ny",
+        "damian williams"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00018892",
+            "similarity": 0.538,
+            "index": 31,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00020103",
+            "similarity": 0.5,
+            "index": 27,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00020104",
+            "similarity": 0.818,
+            "index": 26,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00028205",
+            "similarity": 0.583,
+            "index": 34,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00018891",
+      "summary": "On November 6, 2021, Damian Williams, United States Attorney for the Southern District of New York, sent a communication via Federal Express to the MDC—Metropolitan Detention Center in Riker Dam Department, revealing the password for a drive containing witness materials related to the case *United States v. Ghislaine Maxwell* (20 Cr. 330). The drive identifier is (02879-509).",
+      "timestamp": "2021-11-06T00:00:00",
+      "timestamp_raw": "November 6, 2021",
+      "keywords": [
+        "united states v. ghislaine maxwell",
+        "metropolitan detention center",
+        "federal express",
+        "justice department",
+        "ghislaine maxwell",
+        "witness materials",
+        "drive",
+        "damian williams"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00028205",
+            "similarity": 0.545,
+            "index": 34,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00028205",
+      "summary": "On November 6, 2021, Damian Williams, United States Attorney for the Southern District of New York, sent a communication to the Legal Department of the MDC—Metropolitan Detention Center regarding the United States v. Ghislaine Maxwell case (20 Cr. 330 (AJN)). The communication included the password for a drive containing witness materials pertinent to Ghislaine Maxwell (02879-509).",
+      "timestamp": "2021-11-06T00:00:00",
+      "timestamp_raw": "November 6, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states v.",
+        "metropolitan detention center",
+        "federal express",
+        "united states department of justice",
+        "damian williams",
+        "witness materials",
+        "drive",
+        "legal department"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00018891",
+            "similarity": 0.545,
+            "index": 33,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028206",
+            "similarity": 0.583,
+            "index": 32,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00013218",
+            "similarity": 0.545,
+            "index": 3,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028274",
+      "summary": "The defense team, Cohen & Gresser LLP, is providing the government with a preliminary list of documents potentially usable in Ghislaine Maxwell’s defense case, as required by Rule 16(b)(1)(A) of the Federal Rules of Criminal Procedure. The defense acknowledges the case is still in development and subject to change based on trial proceedings. The disclosed documents include phone records (AT&T, Federal Express), customs records, Interlochen records, Shopper’s Travel records, flight manifests, a general release related to the Epstein Victims' Compensation Program, floorplans, police incident reports, and a non-prosecution agreement. The defense reserves the right to supplement these disclosures and continue investigating for additional potentially relevant materials.",
+      "timestamp": "2021-11-08T00:00:00",
+      "timestamp_raw": "November 8, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "rule 16",
+        "federal rules of criminal procedure",
+        "discovery",
+        "united states v.",
+        "defense disclosures",
+        "subpoenas",
+        "phone records",
+        "flight manifests"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027711",
+      "summary": "The U.S. Department of Justice, specifically the United States Attorney for the Southern District of New York, sent a notification via FedEx to the Legal Department of the MDC—Metropolitan Detention Center on November 11, 2021. The notification concerns the United States v. Ghislaine Maxwell case (20 Cr. 330 (AJN)) and provides the password “isME” for a drive containing witness materials, government exhibits, and discovery related to the case.",
+      "timestamp": "2021-11-11T00:00:00",
+      "timestamp_raw": "November 11, 2021",
+      "keywords": [
+        "united states v. ghislaine maxwell",
+        "justice",
+        "department of justice",
+        "metropolitan detention center",
+        "federal express",
+        "witness materials",
+        "discovery",
+        "government exhibits",
+        "mollo building",
+        "new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023036",
+      "summary": "Bobbi C. Sternheim sent an email to multiple recipients informing them that the government had sent a hard drive containing information related to Ghislaine Maxwell via Federal Express. Sternheim instructed recipients to immediately provide the hard drive to Maxwell and to report upon its arrival. Sternheim also provided her updated contact information and a confidentiality disclaimer.",
+      "timestamp": "2021-11-12T00:00:00",
+      "timestamp_raw": "12 Oct 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "redaction analysis",
+        "mdc",
+        "federal express",
+        "bobbi c. sternheim",
+        "hard drive",
+        "legal",
+        "external",
+        "new york",
+        "2021"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014654",
+      "summary": "The United States Attorney for the Southern District of New York, Damian Williams, is communicating with the MDC—Metropolitan Detention Center in Brooklyn, NY, regarding the United States v. Ghislaine Maxwell case (20 Cr. 330). The communication pertains to a drive containing witness materials, government exhibits, and discovery related to Ghislaine Maxwell (02879-509). The password for this drive is provided.",
+      "timestamp": "2021-11-20T00:00:00",
+      "timestamp_raw": "November 20, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states department of justice",
+        "united states attorney",
+        "metropolitan detention center",
+        "federal express",
+        "discovery",
+        "witness materials",
+        "government exhibits",
+        "united states v.",
+        "new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00020103",
+            "similarity": 0.5,
+            "index": 27,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00031688",
+            "similarity": 0.538,
+            "index": 19,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00013218",
+            "similarity": 0.5,
+            "index": 3,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00016488",
+            "similarity": 0.818,
+            "index": 39,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00016488",
+      "summary": "On November 24, 2021, Damian Williams, United States Attorney for the Southern District of New York, sent a communication via FedEx to the Legal Department of the MDC—Metropolitan Detention Center in Brooklyn, NY. The communication related to the case of United States v. Ghislaine Maxwell (20 Cr. 330). It provided the password for a drive containing witness materials, government exhibits, and discovery documents pertinent to Ghislaine Maxwell (02879-509).",
+      "timestamp": "2021-11-24T00:00:00",
+      "timestamp_raw": "November 24, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states v.",
+        "united states department of justice",
+        "metropolitan detention center",
+        "discovery",
+        "witness materials",
+        "government exhibits",
+        "federal express",
+        "brooklyn",
+        "new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00014654",
+            "similarity": 0.818,
+            "index": 38,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00018892",
+            "similarity": 0.538,
+            "index": 31,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00020103",
+            "similarity": 0.615,
+            "index": 27,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    }
+  ]
+}

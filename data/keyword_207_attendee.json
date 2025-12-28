@@ -1,0 +1,5219 @@
+{
+  "keyword": "attendee",
+  "count": 25,
+  "keyword_match_count": 25,
+  "content_match_count": 169,
+  "total_files": 194,
+  "timeline": [
+    {
+      "file_id": "EFTA00013487",
+      "summary": "An event occurred on 2007-06-26 from 14:00:00 to 16:00:00 +0000, titled “Epstein Case Meeting with Defense Attorneys,” organized at the Executive Conference Room.  EFTA00013487 was the attendee. The event was created on 2015-04-04 and last modified on 2015-07-22. It had a priority of 5.",
+      "timestamp": "2007-06-26T00:00:00",
+      "timestamp_raw": "2007-06-26",
+      "keywords": [
+        "epstein case",
+        "defense attorneys",
+        "meeting",
+        "2007-06-26",
+        "executive conference room",
+        "redaction analysis",
+        "personal",
+        "date created",
+        "date modified"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013474",
+      "summary": "An event occurred on 2007-06-26 from 14:00:00 to 16:00:00 in the Executive Conference Room, designated as “X-PERSONAL” with a priority of 5. The event was an “Epstein Case Meeting with Defense Attorneys” and involved attendee EFTA00013474.",
+      "timestamp": "2007-06-26T00:00:00",
+      "timestamp_raw": "2007-06-26",
+      "keywords": [
+        "epstein case",
+        "defense attorneys",
+        "meeting",
+        "2007",
+        "2015",
+        "executive conference room",
+        "x-personal",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013472",
+      "summary": "The document records an event titled “Epstein Case” that occurred on September 7, 2007, from 18:00:00 to 19:00:00 +0000 at the West Palm Beach Office, organized by Alex Acosta (USAFLS). The event was classified as X-PERSONAL, created on March 27, 2015, and modified on July 22, 2015. The attendee is identified as EFTA00013472 with a priority level of 5.",
+      "timestamp": "2007-09-07T00:00:00",
+      "timestamp_raw": "September 7, 2007",
+      "keywords": [
+        "epstein case",
+        "redaction analysis",
+        "acosta",
+        "west palm beach",
+        "2007-09-07",
+        "efta00013472",
+        "x-personal"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00013485",
+            "similarity": 0.625,
+            "index": 3,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00013485",
+      "summary": "The document records an event titled \"Epstein Case\" that occurred on September 7, 2007, from 18:00:00 to 19:00:00 +0000 at the West Palm Beach Office, organized by Alex Acosta (USAFLS). The event is classified as X-PERSONAL, created on April 4, 2015, and modified on July 22, 2015. EFTA00013485 was an attendee.",
+      "timestamp": "2007-09-07T00:00:00",
+      "timestamp_raw": "September 7, 2007",
+      "keywords": [
+        "epstein case",
+        "redaction analysis",
+        "acosta",
+        "west palm beach",
+        "2007-09-07",
+        "efta00013485"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00013472",
+            "similarity": 0.625,
+            "index": 2,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013480",
+      "summary": "A hearing took place on 2007-09-18 from 13:00:00 to 16:00:00 +0000, organized by C. (USAFLS) and held before Judge Marra. The event was classified as X-PERSONAL and had a priority of 5. Attendees included representatives of USAFLS (EFTA00013480).",
+      "timestamp": "2007-09-18T00:00:00",
+      "timestamp_raw": "2007-09-18",
+      "keywords": [
+        "epstein",
+        "motion to quash",
+        "hearing",
+        "2007",
+        "usafls",
+        "judge marra",
+        "redaction analysis",
+        "personal",
+        "attendees",
+        "efta00013480"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013475",
+      "summary": "Event: Epstein Pre-Meet Start Date: 2007-12-14 17:15:00 +0000 End Date: 2007-12-14 17:45:00 +0000 Organizer: Acosta, Alex (USAFLS) Location: Alex's Office Class: X-PERSONAL Attendee: EFTA00013475",
+      "timestamp": "2007-12-14T00:00:00",
+      "timestamp_raw": "2007-12-14",
+      "keywords": [
+        "epstein",
+        "pre-meet",
+        "acosta",
+        "alex",
+        "2007-12-14",
+        "2015-03-27",
+        "x-personal",
+        "efta00013475"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013488",
+      "summary": "An event titled \"Epstein Pre-Meet\" occurred on December 14, 2007, from 17:15:00 to 17:45:00 GMT. Alex Acosta (USAFLS) organized the meeting at his office, classified as X-PERSONAL. Attendees included <AVillafana@usa.doj.gov> (USAFLS) and EFTA00013488.",
+      "timestamp": "2007-12-14T00:00:00",
+      "timestamp_raw": "December 14, 2007",
+      "keywords": [
+        "epstein",
+        "redaction analysis",
+        "efta00013488",
+        "alex acosta",
+        "usafls",
+        "2007-12-14",
+        "pre-meet",
+        "personal",
+        "doj",
+        "date created"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013470",
+      "summary": "A telephone conference took place on 2008-12-03 from 19:00:00 to 19:30:00 +0000 in the organizer’s office regarding Jeffrey Epstein. The event was classified as X-PERSONAL and created on 2015-03-27. EFTA00013470 was an attendee.",
+      "timestamp": "2008-12-03T00:00:00",
+      "timestamp_raw": "2008-12-03",
+      "keywords": [
+        "epstein",
+        "telephone conference",
+        "2008-12-03",
+        "event",
+        "personal",
+        "x-personal",
+        "conference",
+        "data",
+        "analysis",
+        "redaction"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00013483",
+            "similarity": 0.6,
+            "index": 8,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00013483",
+      "summary": "A telephone conference regarding Jeffrey Epstein took place on December 3, 2008, from 19:00:00 to 19:30:00 GMT. The event was held in an organizer’s office, classified as X-PERSONAL, and created on April 4, 2015. EFTA00013483 was an attendee.",
+      "timestamp": "2008-12-03T00:00:00",
+      "timestamp_raw": "December 3, 2008",
+      "keywords": [
+        "epstein",
+        "telephone conference",
+        "2008-12-03",
+        "event",
+        "personal",
+        "conference"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00013470",
+            "similarity": 0.6,
+            "index": 7,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013478",
+      "summary": "An event titled “Epstein” occurred on June 5, 2009, from 3:00 PM to 3:30 PM at Jeff’s Office. The event was classified as “X-PERSONAL” and attended by EFTA00013478. The organizer is redacted.",
+      "timestamp": "2009-06-05T00:00:00",
+      "timestamp_raw": "June 5, 2009",
+      "keywords": [
+        "epstein",
+        "redaction",
+        "event",
+        "2009",
+        "2015",
+        "office",
+        "personal",
+        "attendee",
+        "date",
+        "priority"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013491",
+      "summary": "Event: Epstein occurred on June 5, 2009, from 3:00 PM to 3:30 PM at an office location. It was marked as X-PERSONAL, created on April 4, 2015, and last modified on July 22, 2015.  Attendee EFTA00013491 was associated with the event.",
+      "timestamp": "2009-06-05T00:00:00",
+      "timestamp_raw": "June 5, 2009",
+      "keywords": [
+        "epstein",
+        "event",
+        "2009",
+        "2015",
+        "office",
+        "personal",
+        "date created",
+        "date modified",
+        "dtstamp",
+        "efta00013491"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013490",
+      "summary": "An event titled “CEOS Meeting re Epstein Investigation” took place on December 17, 2009, from 18:00:00 to 19:30:00 GMT. It was conducted by phone at a redacted location, classified as X-PERSONAL. The event was created on April 4, 2015, and modified on July 22, 2015. The attendee was EFTA00013490.",
+      "timestamp": "2009-12-17T00:00:00",
+      "timestamp_raw": "December 17, 2009",
+      "keywords": [
+        "efta00013490",
+        "ceos meeting",
+        "epstein investigation",
+        "redaction analysis",
+        "2009-12-17",
+        "x-personal",
+        "event",
+        "conference call",
+        "date created",
+        "date modified"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013477",
+      "summary": "A phone call, classified as X-PERSONAL and designated priority 5, occurred on December 17, 2009, from 18:00:00 to 19:30:00 GMT. The event was a CEOS Meeting regarding the Epstein investigation. The meeting was created on March 27, 2015, and modified on July 22, 2015.  EFTA00013477 was an attendee.",
+      "timestamp": "2009-12-17T00:00:00",
+      "timestamp_raw": "December 17, 2009",
+      "keywords": [
+        "efta00013477",
+        "ceos meeting",
+        "epstein investigation",
+        "redaction analysis",
+        "2009-12-17",
+        "x-personal",
+        "event",
+        "investigation",
+        "metadata",
+        "call-in"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00014184",
+            "similarity": 0.667,
+            "index": 13,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00014184",
+      "summary": "A phone meeting, designated as X-PERSONAL, occurred on December 17, 2009, from 18:00:00 to 19:30:00 GMT. The meeting was related to the CEOS Meeting regarding the Epstein investigation. It was created on December 14, 2009, and last modified on October 2, 2022. EFTA00014184 was an attendee.",
+      "timestamp": "2009-12-17T00:00:00",
+      "timestamp_raw": "December 17, 2009",
+      "keywords": [
+        "epstein investigation",
+        "ceos meeting",
+        "2009-12-17",
+        "personal",
+        "x-personal",
+        "event",
+        "call-in",
+        "investigation",
+        "data",
+        "metadata"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00013477",
+            "similarity": 0.667,
+            "index": 12,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019165",
+      "summary": "The agent is specifically seeking information about Jeffrey Epstein and another individual who attended. The agent initially contacted Thonn after finding a conference online and then attempted to gather information through the New Orleans Convention & Visitors Bureau and the 1-800-648-8411 conference hotline.  Details regarding the conference’s hotels and attendee records are being sought.",
+      "timestamp": "2011-04-20T00:00:00",
+      "timestamp_raw": "20 Apr 2011",
+      "keywords": [
+        "fbi",
+        "new orleans",
+        "conference",
+        "investment",
+        "jeffrey epstein",
+        "1998",
+        "2000",
+        "adele thonn",
+        "new orleans convention & visitors bureau",
+        "financial conference"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037277",
+      "summary": "An event, titled “AOT Team 4 Meeting – UNCLASSIFIED,” took place on August 22, 2018, from 17:00 to 18:00 in Room 3256. The event was organized with a priority of 5 and included a reminder displayed 15 minutes prior to the start. Attendees included [REDACTED] and [REDACTED]. Related documents EFTA00037278 also exists.",
+      "timestamp": "2018-08-22T00:00:00",
+      "timestamp_raw": "August 22, 2018",
+      "keywords": [
+        "efta00037277",
+        "aot team",
+        "meeting",
+        "unclassified",
+        "redaction",
+        "2018-08-22",
+        "room 3256",
+        "event",
+        "x-personal"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032024",
+      "summary": "A meeting took place on 2018-12-04 from 22:30:00 to 23:30:00 +0000, organized by (USANYS) [REDACTED] and [REDACTED]. The meeting, titled “Meeting with-(Epstein),” was classified as X-PERSONAL. Attendees included (USANYS) and EFTA00032024.",
+      "timestamp": "2018-12-04T00:00:00",
+      "timestamp_raw": "2018-12-04",
+      "keywords": [
+        "efta00032024",
+        "epstein",
+        "usanys",
+        "redaction",
+        "meeting",
+        "2018-12-04",
+        "personal",
+        "event",
+        "x-personal"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00010142",
+            "similarity": 0.5,
+            "index": 72,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00019430",
+      "summary": "On December 6, 2018, at Conference Room 646, an event labeled \"Accepted: Meet re: Epstein Investigation\" occurred from 21:30:00 to 22:30:00. The event was classified as X-PERSONAL and created on December 5, 2018.  The attendee was EFTA00019430.",
+      "timestamp": "2018-12-06T00:00:00",
+      "timestamp_raw": "December 6, 2018",
+      "keywords": [
+        "epstein investigation",
+        "efta00019430",
+        "conference room 646",
+        "2018-12-06",
+        "x-personal",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00019532",
+            "similarity": 0.625,
+            "index": 19,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00019426",
+      "summary": "A meeting titled “Meet re: Epstein Investigation” took place on December 6, 2018, from 21:30 to 22:30 in Conference Room 646. It was created on December 5, 2018, with a priority level of 5 and assigned to the attendee EFTA00019426. The meeting included a reminder to display a message 15 minutes prior to the start.",
+      "timestamp": "2018-12-06T00:00:00",
+      "timestamp_raw": "December 6, 2018",
+      "keywords": [
+        "epstein investigation",
+        "meet",
+        "conference room 646",
+        "2018-12-06",
+        "event",
+        "reminder",
+        "efta00019426"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019532",
+      "summary": "Event: Meet re: Epstein Investigation Start Date: 2018-12-06 21:30:00 +0000 End Date: 2018-12-06 22:30:00 +0000 Location: Conference Room 646 Class: X-PERSONAL Date Created: 2018-12-05 00:52:30 +0000 Date Modified: 2018-12-05 00:52:30 +0000 Priority: 5 DTSTAMP: 2018-12-05 00:37:27 +0000 Attendee: EFTA00019532",
+      "timestamp": "2018-12-06T00:00:00",
+      "timestamp_raw": "2018-12-06",
+      "keywords": [
+        "epstein investigation",
+        "efta00019532",
+        "conference room 646",
+        "2018-12-06",
+        "meet",
+        "x-personal",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00019430",
+            "similarity": 0.625,
+            "index": 17,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029654",
+      "summary": "A call or meeting occurred on December 7, 2018, from 16:00:00 to 17:00:00 GMT, related to the Epstein case. The organizer was (USANYS) [REDACTED], and attendees included (USANYS) < and (USANYS) [Contractor] <>. The event was classified as X-PERSONAL and created on December 7, 2018, at 02:59:25 GMT.",
+      "timestamp": "2018-12-07T00:00:00",
+      "timestamp_raw": "December 7, 2018",
+      "keywords": [
+        "epstein",
+        "call",
+        "meeting",
+        "usanys",
+        "contractor",
+        "redaction",
+        "2018-12-07",
+        "x-personal",
+        "efta00029654"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037774",
+      "summary": "On 2019-01-22 from 18:30 to 19:30, at conf room 333, there was an event categorized as “X-PERSONAL” with attendee EFTA00037774, regarding a meeting with Jeffrey Epstein. The event was created on 2019-01-22 at 01:11:50 and last modified on 2019-01-22 at 19:58:20. It had a priority of 5.",
+      "timestamp": "2019-01-22T00:00:00",
+      "timestamp_raw": "2019-01-22",
+      "keywords": [
+        "epstein",
+        "meeting",
+        "2019-01-22",
+        "conference",
+        "redaction analysis",
+        "efta00037774",
+        "personal"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019517",
+      "summary": "This document records an event titled “Epstein Oral Argument—Second Circuit” held on February 6, 2019, from 3:00 PM to 5:00 PM GMT. The event was classified as X-PERSONAL, created on January 9, 2019, and had a priority of 5. It included attendees from (USANYS) and triggered an alarm reminder 15 minutes before the start.",
+      "timestamp": "2019-02-06T00:00:00",
+      "timestamp_raw": "February 6, 2019",
+      "keywords": [
+        "epstein",
+        "oral argument",
+        "second circuit",
+        "2019-02-06",
+        "event",
+        "x-personal",
+        "redaction analysis",
+        "reminder",
+        "efta00019517"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030294",
+      "summary": "On April 8, 2019, at 13:30:00 +0000, an event titled “Accepted: Epstein pre-meet” occurred, classified as X-PERSONAL, with a priority of 5.  The event spanned from 13:30:00 to 14:00:00 +0000. The attendee was EFTA00030294.",
+      "timestamp": "2019-04-08T00:00:00",
+      "timestamp_raw": "April 8, 2019",
+      "keywords": [
+        "efta00030294",
+        "epstein",
+        "meeting",
+        "2019-04-08",
+        "x-personal",
+        "event",
+        "accepted",
+        "date",
+        "priority",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00019230",
+            "similarity": 0.583,
+            "index": 113,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00029175",
+      "summary": "The event “Epstein Brass Meet” took place on April 8, 2019, from 4:00 PM to 4:30 PM GMT. It was classified as X-PERSONAL and had a priority of 5. The record was created on April 5, 2019, and has not been modified since.  EFTA00029175 was an attendee.",
+      "timestamp": "2019-04-08T00:00:00",
+      "timestamp_raw": "April 8, 2019",
+      "keywords": [
+        "efta00029175",
+        "epstein brass meet",
+        "2019-04-08",
+        "event",
+        "x-personal",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032399",
+      "summary": "On April 25, 2019, at 2:00 PM, an event titled \"Meet re Epstein\" occurred, classified as X-PERSONAL. Attendees included (USANYS) [REDACTED] and [REDACTED]. The event lasted from 2:00 PM to 2:30 PM and was created on April 25, 2019. The priority was set to 5.",
+      "timestamp": "2019-04-25T00:00:00",
+      "timestamp_raw": "April 25, 2019",
+      "keywords": [
+        "efta00032399",
+        "epstein",
+        "meet",
+        "redaction",
+        "2019-04-25",
+        "x-personal",
+        "attendee",
+        "usanys",
+        "event",
+        "priority"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00017793",
+            "similarity": 0.583,
+            "index": 26,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00032441",
+            "similarity": 0.667,
+            "index": 68,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00032443",
+            "similarity": 0.583,
+            "index": 69,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00017793",
+      "summary": "On April 25, 2019, at 2:00 PM GMT, an event labeled “Meet re Epstein” (Class: X-PERSONAL) occurred with attendee EFTA00017793. The event lasted from 2:00 PM to 2:30 PM GMT and was created/modified on April 25, 2019. The priority was set to 5.",
+      "timestamp": "2019-04-25T00:00:00",
+      "timestamp_raw": "April 25, 2019",
+      "keywords": [
+        "efta00017793",
+        "epstein",
+        "meet",
+        "2019-04-25",
+        "event",
+        "x-personal",
+        "redaction analysis",
+        "priority",
+        "attendee"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00032399",
+            "similarity": 0.583,
+            "index": 25,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00013351",
+            "similarity": 0.636,
+            "index": 28,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00016608",
+            "similarity": 0.636,
+            "index": 70,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00013353",
+      "summary": "On April 25, 2019, at 2:00 PM GMT, an event titled “Meet re Epstein” was organized by (USANYS). The event was classified as X-PERSONAL, created on April 25, 2019, and modified on the same date. A reminder was set to display 15 minutes before the start. Attendees include [REDACTED] and [REDACTED].",
+      "timestamp": "2019-04-25T00:00:00",
+      "timestamp_raw": "April 25, 2019",
+      "keywords": [
+        "epstein",
+        "redaction",
+        "event",
+        "meet",
+        "2019-04-25",
+        "usanys",
+        "personal",
+        "alarm",
+        "reminder",
+        "efta00013353"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013351",
+      "summary": "On 2019-04-25 at 14:00:00 +0000, an event labeled “Accepted: Meet re Epstein” occurred, lasting from 14:00:00 to 14:30:00 +0000. The event was classified as X-PERSONAL, with a priority of 5. EFTA00013351 was the attendee.",
+      "timestamp": "2019-04-25T00:00:00",
+      "timestamp_raw": "2019-04-25",
+      "keywords": [
+        "efta00013351",
+        "epstein",
+        "meet",
+        "2019-04-25",
+        "x-personal",
+        "event",
+        "date",
+        "priority",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00017793",
+            "similarity": 0.636,
+            "index": 26,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00016608",
+            "similarity": 0.5,
+            "index": 70,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019230",
+            "similarity": 0.5,
+            "index": 113,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00025478",
+            "similarity": 0.5,
+            "index": 122,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00015526",
+      "summary": "A call occurred on 2019-06-28 at 18:00:00 +0000 with the FBI regarding Jeffrey Epstein, organized by (USANYS) [REDACTED]. The call lasted 30 minutes. The event was classified as X-PERSONAL, created on 2019-06-24 and modified on the same date. It had a priority of 5 and included attendees (USANYS). A reminder was set to display a message 15 minutes before the start.",
+      "timestamp": "2019-06-28T00:00:00",
+      "timestamp_raw": "2019-06-28",
+      "keywords": [
+        "fbi",
+        "epstein",
+        "redaction",
+        "usanys",
+        "call",
+        "2019-06-28",
+        "event",
+        "personal",
+        "reminder",
+        "efta00015526"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037390",
+      "summary": "An FBI event, designated EFTA00037390, took place on July 1, 2019, from 19:30 to 20:15 at the ADIC Large Conference Room in New York. The event was a brief on the Jeffrey Epstein case, organized by the FBI and marked as X-PERSONAL. A reminder message was sent 15 minutes prior to the start time, scheduled for 3:30 p.m. Attendees included redacted individuals.",
+      "timestamp": "2019-07-01T00:00:00",
+      "timestamp_raw": "July 1, 2019",
+      "keywords": [
+        "epstein",
+        "fbi",
+        "briefing",
+        "case",
+        "monday",
+        "3:30 pm",
+        "adic",
+        "redaction",
+        "ssa",
+        "new york"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037480",
+      "summary": "An event occurred on 2019-07-01 from 19:30:00 to 20:00:00 +0000 involving a planning/coordination meeting with SDNY and Epstein. Attendees included (NY), FBI [REDACTED], and [REDACTED]. The event was classified as X-PERSONAL, created on 2019-06-27, modified on 2019-06-28, and assigned a priority of 5.",
+      "timestamp": "2019-07-01T00:00:00",
+      "timestamp_raw": "2019-07-01",
+      "keywords": [
+        "efta00037480",
+        "sdny",
+        "epstein",
+        "meeting",
+        "planning",
+        "coordination",
+        "redaction",
+        "x-personal",
+        "2019-07-01",
+        "fbi"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00037457",
+            "similarity": 0.818,
+            "index": 32,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037457",
+      "summary": "An event occurred on 2019-07-01 from 18:30:00 to 19:00:00 +0000, classified as X-PERSONAL, involving a planning/coordination meeting with SDNY and Epstein. Attendees included M, M1 (NY) (FBI) [REDACTED] [REDACTED]. The event was created on 2019-06-28 and last modified on 2019-08-01. Priority was set to 5.",
+      "timestamp": "2019-07-01T00:00:00",
+      "timestamp_raw": "2019-07-01",
+      "keywords": [
+        "efta00037457",
+        "sdny",
+        "epstein",
+        "meeting",
+        "planning",
+        "coordination",
+        "2019-07-01",
+        "x-personal",
+        "redaction",
+        "fbi"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037480",
+            "similarity": 0.818,
+            "index": 31,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030822",
+      "summary": "On 2019-07-09 from 14:00:00 to 14:30:00 UTC, there was an accepted counsel call (Class: X-PERSONAL) involving attendee EFTA00030822. The event was created on 2019-07-08 and last modified on the same date. The priority was set to 5.",
+      "timestamp": "2019-07-09T00:00:00",
+      "timestamp_raw": "2019-07-09",
+      "keywords": [
+        "efta00030822",
+        "accepted",
+        "counsel call",
+        "2019-07-09",
+        "event",
+        "x-personal",
+        "priority",
+        "date",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026644",
+      "summary": "On July 11, 2019, at 16:00:00 +0000, a bail submission related to the Epstein defense occurred at Berman. The event was classified as X-PERSONAL and created on July 8, 2019. A 15-minute reminder was scheduled to display before the start.",
+      "timestamp": "2019-07-11T00:00:00",
+      "timestamp_raw": "July 11, 2019",
+      "keywords": [
+        "epstein",
+        "bail submission",
+        "redaction",
+        "2019-07-11",
+        "berman",
+        "personal",
+        "x-personal",
+        "dtstamp",
+        "attendee",
+        "event"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00028378",
+            "similarity": 0.545,
+            "index": 35,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00028378",
+      "summary": "On 2019-07-11 at 16:00:00 +0000, a bail submission for Jeffrey Epstein was accepted at Berman location. The event was classified as X-PERSONAL and created on 2019-07-08. One attendee is redacted.",
+      "timestamp": "2019-07-11T00:00:00",
+      "timestamp_raw": "2019-07-11",
+      "keywords": [
+        "epstein",
+        "bail submission",
+        "redaction",
+        "efta00028378",
+        "2019-07-11",
+        "berman",
+        "x-personal"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00026644",
+            "similarity": 0.545,
+            "index": 34,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032983",
+      "summary": "On July 12, 2019, at 21:00-21:30 +0000, a government response to a bail motion for Jeffrey Epstein was accepted at Berman. The event was classified as X-PERSONAL. The attendee is redacted.",
+      "timestamp": "2019-07-12T00:00:00",
+      "timestamp_raw": "July 12, 2019",
+      "keywords": [
+        "epstein",
+        "bail motion",
+        "gov't reply",
+        "berman",
+        "redacted",
+        "2019-07-12",
+        "x-personal",
+        "dtstamp",
+        "efta00032983"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014326",
+      "summary": "v. Epstein case (19 Cr. 490). *   Reid Weingarten, a defense attorney, is coordinating with government counsel ([REDACTED]) and Judge Berman’s chambers. *   Discussions revolve around the government's bail memorandum and the defendant’s motion for bail. *   Attendees express availability for meetings on Monday morning, with a proposed agenda. *   The government provided an attached document (Government’s reply in support of its detention memo and in opposition to the defendant’s motion for bail) filed this afternoon.",
+      "timestamp": "2019-07-13T00:00:00",
+      "timestamp_raw": "13 Jul 2019",
+      "keywords": [
+        "epstein",
+        "bail",
+        "government",
+        "u.s. attorney",
+        "reid weingarten",
+        "judge berman",
+        "memorandum",
+        "case",
+        "exhibits",
+        "southern district of new york"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026646",
+      "summary": "An event, titled “Epstein bail hearing,” took place on 2019-07-15 from 14:00:00 to 14:30:00 +0000 at location 17B (Berman). The organizer is redacted. The event was created on 2019-07-08 and has a priority of 5. A reminder was set to display a message 15 minutes before the start. The document is identified as EFTA00026646.",
+      "timestamp": "2019-07-15T00:00:00",
+      "timestamp_raw": "2019-07-15",
+      "keywords": [
+        "epstein",
+        "bail hearing",
+        "2019-07-15",
+        "redaction",
+        "efta00026646",
+        "berman",
+        "personal",
+        "event",
+        "attendee"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032985",
+      "summary": "An event, designated as an “Accepted: Epstein bail hearing,” occurred on 2019-07-15 from 14:00:00 to 14:30:00 at location 17B (Berman). The event was marked as X-PERSONAL, created on 2019-07-09, and associated with attendee EFTA00032985.",
+      "timestamp": "2019-07-15T00:00:00",
+      "timestamp_raw": "2019-07-15",
+      "keywords": [
+        "epstein",
+        "bail hearing",
+        "2019-07-15",
+        "17b",
+        "berman",
+        "x-personal",
+        "efta00032985"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028084",
+      "summary": "On July 18, 2019, Jeffrey Epstein attended a conference at Courtroom 17B, 500 Pearl, lasting from 15:30:00 to 17:30:00 +0000. One attendee is redacted. The event was classified as X-PERSONAL.",
+      "timestamp": "2019-07-18T00:00:00",
+      "timestamp_raw": "July 18, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "conference",
+        "redaction",
+        "2019-07-18",
+        "courtroom 17b",
+        "event",
+        "efta00028084"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020944",
+      "summary": "On 2019-07-18, from 15:30 to 17:30, there was an event titled “Jeffrey Epstein” at Courtroom 17B, 500 Pearl, classified as X-PERSONAL. The event was created on 2019-07-17 and modified on the same date. EFTA00020944 was an attendee.",
+      "timestamp": "2019-07-18T00:00:00",
+      "timestamp_raw": "2019-07-18",
+      "keywords": [
+        "jeffrey epstein",
+        "conference",
+        "event",
+        "2019-07-18",
+        "courtroom",
+        "date",
+        "redaction analysis",
+        "efta00020944"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037837",
+      "summary": "On 2019-07-18, Jeffrey Epstein attended a conference at Courtroom 17B, 500 Pearl. The event was classified as X-PERSONAL and created on 2019-07-15. The attendee was identified as EFTA00037837.",
+      "timestamp": "2019-07-18T00:00:00",
+      "timestamp_raw": "2019-07-18",
+      "keywords": [
+        "jeffrey epstein",
+        "conference",
+        "courtroom",
+        "2019-07-18",
+        "event",
+        "accepted",
+        "x-personal",
+        "efta00037837"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00037839",
+            "similarity": 0.636,
+            "index": 43,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037839",
+      "summary": "Event details for a conference titled “Jeffrey Epstein” were recorded on 2019-07-18 from 13:30:00 to 15:30:00 at Courtroom 17B, 500 Pearl. The event was classified as X-PERSONAL and created on 2019-07-15. The attendee is identified as EFTA00037839.",
+      "timestamp": "2019-07-18T00:00:00",
+      "timestamp_raw": "2019-07-18",
+      "keywords": [
+        "jeffrey epstein",
+        "conference",
+        "2019-07-18",
+        "courtroom",
+        "event",
+        "accepted",
+        "x-personal",
+        "date created",
+        "dtstamp",
+        "efta00037839"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037837",
+            "similarity": 0.636,
+            "index": 42,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038294",
+      "summary": "On 2019-07-31 at 15:00:00 +0000, a conference was scheduled for Jeffrey Epstein, categorized as “X-PERSONAL.” The event organizer is unknown. The event was created on 2019-07-18 and modified on 2019-07-23. A reminder was set to display a message 15 minutes before the start, and the event was designated with priority 5 and the identifier EFTA00038294.",
+      "timestamp": "2019-07-31T00:00:00",
+      "timestamp_raw": "2019-07-31",
+      "keywords": [
+        "epstein",
+        "scheduling",
+        "conference",
+        "2019",
+        "attendee",
+        "event",
+        "reminder",
+        "efta00038294",
+        "priority"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00038295",
+            "similarity": 0.636,
+            "index": 45,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038295",
+      "summary": "On 2019-07-31 at 15:00:00 +0000, a conference was scheduled for Jeffrey Epstein, classified as \"X-PERSONAL.\" The organizer is unknown. A reminder was set to display a message 15 minutes before the start. The document was created on 2019-07-31 and last modified on 2019-09-04.",
+      "timestamp": "2019-07-31T00:00:00",
+      "timestamp_raw": "2019-07-31",
+      "keywords": [
+        "epstein",
+        "scheduling",
+        "conference",
+        "2019",
+        "attendee",
+        "efta00038295",
+        "priority",
+        "alarm",
+        "reminder"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038294",
+            "similarity": 0.636,
+            "index": 44,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036750",
+      "summary": "On August 12, 2019, at 8:45 AM, a reconstruction and after-action event took place from 12:45 PM to 1:00 PM. The event was conducted via a conference call (877-465-7975, passcode: 15546123#) and potentially in person at the DIR’s Office. Marla organized the call to discuss the event with attendees, including the RSD (whose availability was uncertain). The event was classified as X-PERSONAL and had a priority of 5.",
+      "timestamp": "2019-08-12T00:00:00",
+      "timestamp_raw": "August 12, 2019",
+      "keywords": [
+        "efta00036750",
+        "reconstruction",
+        "after action",
+        "call-in",
+        "2019-08-12",
+        "rsd",
+        "marla",
+        "personal",
+        "dir's office",
+        "event"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00036692",
+            "similarity": 0.538,
+            "index": 47,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00036692",
+      "summary": "On August 12, 2019, at 8:45 AM, a reconstruction and after-action event took place, lasting from 12:45 PM to 1:00 PM. The event was conducted via a conference call (877-465-7975, passcode: 15546123#/DIR’s Office) and potentially in person at the DIR’s Office. The event was classified as X-PERSONAL and had a priority of 5.  The call was set up to discuss the event with attendees, including RSD representatives. The document was created on August 12, 2019, and last modified on July 27, 2021.",
+      "timestamp": "2019-08-12T00:00:00",
+      "timestamp_raw": "August 12, 2019",
+      "keywords": [
+        "reconstruction",
+        "after action",
+        "event",
+        "call-in",
+        "2019-08-12",
+        "rsd",
+        "dir's office",
+        "x-personal",
+        "priority",
+        "efta00036692"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00036750",
+            "similarity": 0.538,
+            "index": 46,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019863",
+      "summary": "On 2019-08-13 from 13:30:00 to 14:00:00 GMT, an update conference call concerning Jeffrey Epstein was recorded and classified as X-PERSONAL. The event was created on 2019-08-13 at 13:42:04 GMT with a priority of 5. The attendee was identified as (USANYS) <I EFTA00019863.",
+      "timestamp": "2019-08-13T00:00:00",
+      "timestamp_raw": "2019-08-13",
+      "keywords": [
+        "efta00019863",
+        "epstein",
+        "conference call",
+        "update",
+        "2019-08-13",
+        "x-personal",
+        "priority",
+        "date created",
+        "attendee",
+        "usanys"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019332",
+      "summary": "A meeting regarding MCC/Epstein took place on 2019-08-13 from 15:45:00 to 16:15:00 +0000 at an unspecified “M. office,” organized by (USANYS). Attendees included (USANYS), (USANYS), (USANYS), and EFTA00019332. The event was created on 2019-08-13 at 12:17:35 +0000 and modified at the same time. It was classified as X-PERSONAL and assigned a priority of 5.",
+      "timestamp": "2019-08-13T00:00:00",
+      "timestamp_raw": "2019-08-13",
+      "keywords": [
+        "efta00019332",
+        "mcc",
+        "epstein",
+        "meeting",
+        "usanys",
+        "2019-08-13",
+        "personal",
+        "event",
+        "analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036359",
+      "summary": "A Department Head Meeting was scheduled for Tuesday, August 13, 2019, at 7:30 A.M. in the Warden’s Conference Room. Attendees were requested to be present by 7:30 A.M. The meeting was sent by Lee.",
+      "timestamp": "2019-08-13T00:00:00",
+      "timestamp_raw": "August 13, 2019",
+      "keywords": [
+        "department head meeting",
+        "august 13",
+        "2019",
+        "warden's conference room",
+        "lee",
+        "efta00036359"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00022631",
+      "summary": "An email chain discusses a visit to the Metropolitan Correctional Center (MCC) on Thursday, August 13, 2019, at 10:00 AM. The purpose of the visit is to observe specific areas, including the E floor psych observation and suicide watch area, the 9th floor SHU, and Epstein’s cell. MCC legal will escort the visitors, and they are instructed not to speak to guards due to ongoing investigations. The email chain coordinates logistics, including entry via the 3rd floor bridge and confirms the attendees: Mr. Berman and his staff.",
+      "timestamp": "2019-08-13T00:00:00",
+      "timestamp_raw": "August 13, 2019",
+      "keywords": [
+        "mcc",
+        "metropolitan correctional center",
+        "visa",
+        "efta00022631",
+        "screening",
+        "suicide watch",
+        "shu",
+        "epstein",
+        "legal",
+        "visitation"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013193",
+      "summary": "On August 13, 2019, at 3:45 PM +0000, a meeting occurred regarding MCC/Epstein. The meeting took place in an unspecified office. The event was marked as X-PERSONAL, with a priority of 5.  The record was created on August 13, 2019, at 12:17:25 +0000 and last modified at the same time. EFTA00013193 was an attendee.",
+      "timestamp": "2019-08-13T00:00:00",
+      "timestamp_raw": "August 13, 2019",
+      "keywords": [
+        "efta00013193",
+        "mcc",
+        "epstein",
+        "meeting",
+        "2019-08-13",
+        "redaction analysis",
+        "personal",
+        "event",
+        "date",
+        "x-personal"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00017761",
+      "summary": "An email chain discusses a visit to the Metropolitan Correctional Center (MCC) in New York on Thursday, August 14, 2019. The request includes a tour of specific areas – the 2nd floor psych observation and suicide watch area, the 9th floor SHU, and Epstein’s cell – with a preference for MCC legal to escort the visitors.  A request was made for the new acting warden to join the tour. Visitors are instructed to report to the front lobby for screening. The sender confirms the request will be communicated to the Warden and provides a list of attendees, including Mr. Berman and his staff.",
+      "timestamp": "2019-08-14T00:00:00",
+      "timestamp_raw": "August 14, 2019",
+      "keywords": [
+        "mcc visit",
+        "metropolitan correctional center",
+        "new york",
+        "warden",
+        "attorney",
+        "suicide watch",
+        "shu",
+        "epstein's cell",
+        "visitors",
+        "screening"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00017760",
+      "summary": "A meeting was scheduled for August 14, 2019, at 3:00 PM in the 8th floor library involving the Epstein case, PC chiefs, and the Epstein team. The meeting was organized by [REDACTED] and added to the calendars of attendees including [REDACTED].",
+      "timestamp": "2019-08-14T00:00:00",
+      "timestamp_raw": "August 14, 2019",
+      "keywords": [
+        "epstein",
+        "meeting",
+        "redaction",
+        "efta00017760",
+        "2019",
+        "8th floor",
+        "pc chiefs",
+        "team"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036390",
+      "summary": "On August 14, 2019, the Metropolitan Correctional Center, New York, announced a tour for representatives from the Department of Justice and the SDNY USA0 on August 15, 2019, at 10:00 a.m. Attendees included the Principal Deputy Attorney General, Advisor at AG’s office, Geoffrey Berman, several Deputy US Attorneys, Chief of the Criminal Division, SDNY, Counsel to the US Attorney, Chief of the Public Corruption Unit, SDNY, and multiple AUSAs. The Supervisory Attorney requested notification of attendees’ arrival.",
+      "timestamp": "2019-08-14T00:00:00",
+      "timestamp_raw": "August 14, 2019",
+      "keywords": [
+        "united states government",
+        "memorandum",
+        "metropolitan correctional center",
+        "new york",
+        "department of justice",
+        "sdny",
+        "tour",
+        "august 15",
+        "2019",
+        "geoffrey berman",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00017764",
+      "summary": "On August 15, 2019, from 16:00 to 18:00, an “Accepted: Brass Meeting re Epstein” event occurred on the 8th Floor. It was classified as X-PERSONAL, had a priority of 5, and was created/modified on August 14, 2019. The attendee was EFTA00017764.",
+      "timestamp": "2019-08-15T00:00:00",
+      "timestamp_raw": "August 15, 2019",
+      "keywords": [
+        "efta00017764",
+        "brass meeting",
+        "epstein",
+        "2019-08-15",
+        "x-personal",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019343",
+      "summary": "Geoff scheduled a meeting for August 15, 2019, at 12:00 PM in the 8th floor library. Attendees included [REDACTED], [REDACTED], the MCC team, and representatives from the main justice, FBI, and IG departments. The meeting followed a visit by the MCC.",
+      "timestamp": "2019-08-15T00:00:00",
+      "timestamp_raw": "August 15, 2019",
+      "keywords": [
+        "efta00019343",
+        "mcc",
+        "epstein",
+        "meeting",
+        "fbi",
+        "justice",
+        "redaction",
+        "geoff",
+        "8th floor",
+        "library"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00017788",
+      "summary": "The document is a series of emails related to a planned visit to the Metropolitan Correctional Center (MCC) by US Attorney Geoffrey Berman and staff. Discussions involve coordinating the number and types of attendees (including paralegals and interns), arranging for law enforcement agents and a new acting warden to join the tour, and specifying the areas of interest for the visit (second floor observation areas, SHU, and Epstein’s cell). Requests were made for specific screening procedures and to limit interaction with guards due to ongoing investigations.",
+      "timestamp": "2019-08-15T00:00:00",
+      "timestamp_raw": "15 Aug 2019",
+      "keywords": [
+        "mcc visit",
+        "le agents",
+        "paralegals",
+        "interns",
+        "law enforcement",
+        "warden",
+        "geoffrey berman",
+        "metropolitan correctional center",
+        "epstein",
+        "shu",
+        "suicide watch",
+        "legal"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031002",
+      "summary": "On August 16, 2019, at 2:00 PM, there was a meeting with the FBI regarding Jeffrey Epstein. The meeting lasted 30 minutes and was classified as X-PERSONAL. The event was created on August 15, 2019.",
+      "timestamp": "2019-08-16T00:00:00",
+      "timestamp_raw": "August 16, 2019",
+      "keywords": [
+        "fbi",
+        "epstein",
+        "meeting",
+        "2019-08-16",
+        "personal",
+        "x-personal",
+        "event",
+        "date",
+        "attendee"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00031614",
+            "similarity": 0.583,
+            "index": 108,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00036534",
+      "summary": "*   The meeting agenda has been revised to include a briefing with a new ODAG Liaison. *   Attendees are instructed to review their areas of responsibility and provide concise (5-minute or less) presentations. *   The Philadelphia hotel room block has been canceled, and attendees are responsible for canceling their travel arrangements. *   Meeting logistics are detailed, including the Hyatt Regency Washington location, room assignments (A-C training rooms), required identification (PIV card), and business casual attire. *   Weather forecasts and temperature ranges are provided. *   A fee of $25 will be collected for food expenses for the November 2019 meeting. *   PRD support staff will be available for assistance during the meeting.",
+      "timestamp": "2019-08-20T00:00:00",
+      "timestamp_raw": "August 20, 2019",
+      "keywords": [
+        "executive staff",
+        "briefings",
+        "odag",
+        "washington",
+        "dc",
+        "august 2019",
+        "philadelphia",
+        "hyatt regency",
+        "agenda",
+        "meeting",
+        "travel"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036536",
+      "summary": "An email was sent revising the agenda for an Executive Staff meeting scheduled for August 20, 2019, in Washington, DC. The meeting will include “Executive Staff Briefings to ODAG.” The Philadelphia hotel room block has been canceled, and attendees are responsible for canceling their own airfare/train arrangements. The meeting will be held in training rooms A-C on the first floor of the Hyatt Regency Washington on Capital Hill. Attendees are required to bring their government ID and PIV card. The dress attire is business casual, and the weather forecast is for warm, partly cloudy days. $25 will be collected from each attendee for food for the November 2019 meeting. PRD support staff will be available for assistance during the meeting.",
+      "timestamp": "2019-08-20T00:00:00",
+      "timestamp_raw": "August 20, 2019",
+      "keywords": [
+        "executive staff",
+        "august 2019 meeting",
+        "washington dc",
+        "hyatt regency",
+        "philadelphia",
+        "agenda",
+        "food",
+        "government id",
+        "piv card"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037881",
+      "summary": "An email was sent on August 26, 2019, regarding assistance for the upcoming hearing concerning Jeffrey Epstein. The sender requested volunteers to be on standby around 9:30/10 AM to assist victims, particularly those meeting at SDNY before the hearing. Attendees were instructed to wear suits due to a directive from higher-ups. The sender planned to provide further instructions regarding location (290) in the morning.",
+      "timestamp": "2019-08-26T00:00:00",
+      "timestamp_raw": "August 26, 2019",
+      "keywords": [
+        "epstein",
+        "hearing",
+        "victims",
+        "courthouse",
+        "sdny",
+        "2019",
+        "suit",
+        "standby",
+        "exchange labs",
+        "redaction"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037872",
+      "summary": "An event, titled “Nolle conference,” took place on August 27, 2019, from 14:30 to 15:00 at 500 Pearl, Courtroom 17B. The organizer was (USANYS) @usdoj.gov. Attendees included (USANYS) @usdoj.gov, (NY) (FBI) @fbi.gov, and @nypd.org. The event involved a status conference related to the case of USA v. Epstein (Case Number: 1:19-cr-00490-RMB) and a proposed nolle prosequi order, with Judge Richard M. Berman presiding. Counsel for the government, the deceased defendant, and potentially victims were scheduled to be heard.",
+      "timestamp": "2019-08-27T00:00:00",
+      "timestamp_raw": "August 27, 2019",
+      "keywords": [
+        "efta00037872",
+        "usanys",
+        "epstein",
+        "nolle prosequi",
+        "united states attorney",
+        "jeffrey epstein",
+        "judge richard m. berman",
+        "southern district of new york",
+        "1:19-cr-00490-rmb",
+        "electronic filing"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037504",
+      "summary": "An UNCLASSIFIED conference call, titled “Epstein Conference Call - Updates,” took place on September 6, 2019, from 2:00 PM to 3:00 PM. The call was organized by the FBI Victim Services Division Program Manager and involved attendees including [REDACTED], [REDACTED], and [REDACTED]. The conference call utilized the dial-in number 1-877-446-3914 and guest code 787677. The call was scheduled following a previous discussion.",
+      "timestamp": "2019-09-06T00:00:00",
+      "timestamp_raw": "September 6, 2019",
+      "keywords": [
+        "epstein",
+        "conference call",
+        "unclassified",
+        "fbi",
+        "victim services",
+        "2019-09-06",
+        "redaction",
+        "scheduling",
+        "dial-in",
+        "guest code"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037502",
+      "summary": "An unclassified conference call, titled “Epstein Conference Call - Updates,” took place on September 6, 2019, from 2:00 PM to 3:00 PM. The call was organized by the Department of Justice (DO) and the FBI, with a participant from [REDACTED]. Attendees included FBI personnel from New York (NY) and others from the FBI. The purpose was to discuss updates following a previous low-side discussion. Contact information for accessing the call, including dial-in details and contact information for the FBI Victim Services Division, is provided.",
+      "timestamp": "2019-09-06T00:00:00",
+      "timestamp_raw": "September 6, 2019",
+      "keywords": [
+        "epstein",
+        "conference call",
+        "fbi",
+        "unclassified",
+        "2019",
+        "september 6",
+        "redaction",
+        "event",
+        "victim services",
+        "call"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019836",
+      "summary": "On September 10, 2019, Jason Mojica Proffer participated in a meeting (Class: X-PERSONAL) at 500 Pearl Street - Q, related to Jeffrey Epstein. The meeting lasted from 16:30:00 to 17:30:00. The event was created on December 13, 2019, with a priority of 5.",
+      "timestamp": "2019-09-10T00:00:00",
+      "timestamp_raw": "September 10, 2019",
+      "keywords": [
+        "jason mojica proffer",
+        "epstein",
+        "event",
+        "2019-09-10",
+        "redaction analysis",
+        "personal",
+        "q",
+        "attendee",
+        "dtstamp"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029357",
+      "summary": "On September 10, 2019, from 16:30 to 17:30, Jason Mojica underwent a proffer session (classified as X-PERSONAL) organized by (USANYS) at 500 Pearl Street - Q. The event was created on December 13, 2019, and the attendee is identified as EFTA00029357. The DTSTAMP is September 4, 2019.",
+      "timestamp": "2019-09-10T00:00:00",
+      "timestamp_raw": "September 10, 2019",
+      "keywords": [
+        "jason mojica",
+        "proffer",
+        "epstein",
+        "efta00029357",
+        "2019-09-10",
+        "redaction analysis",
+        "usanys",
+        "personal",
+        "event",
+        "date created"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032441",
+      "summary": "On September 17, 2019, at 2:00 PM, an event titled “Meet on Epstein” occurred with the classification of X-PERSONAL. Attendees included (USANYS) [REDACTED] and [REDACTED]. The event was created on September 17, 2019, at 8:33:55 AM and last modified at the same time. It was given a priority of 5 and a DTSTAMP of 2019-09-17 01:33:14 +0000. The document itself is identified as EFTA00032441.",
+      "timestamp": "2019-09-17T00:00:00",
+      "timestamp_raw": "September 17, 2019",
+      "keywords": [
+        "efta00032441",
+        "epstein",
+        "redaction",
+        "event",
+        "meet",
+        "2019-09-17",
+        "x-personal",
+        "usanys",
+        "priority",
+        "attendee"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00032399",
+            "similarity": 0.667,
+            "index": 25,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00032443",
+            "similarity": 0.727,
+            "index": 69,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00016608",
+            "similarity": 0.583,
+            "index": 70,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00031632",
+            "similarity": 0.818,
+            "index": 71,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00032443",
+      "summary": "On September 17, 2019, at 2:00 PM, an event titled “Meet on Epstein” took place with the classification “X-PERSONAL.” Attendees included (USANYS) [REDACTED] and [REDACTED]. The event was created and last modified on September 17, 2019, with a priority level of 5.",
+      "timestamp": "2019-09-17T00:00:00",
+      "timestamp_raw": "September 17, 2019",
+      "keywords": [
+        "efta00032443",
+        "epstein",
+        "redaction",
+        "event",
+        "2019-09-17",
+        "x-personal",
+        "meet",
+        "usanys",
+        "attendee"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00032441",
+            "similarity": 0.727,
+            "index": 68,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00032399",
+            "similarity": 0.583,
+            "index": 25,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00016608",
+            "similarity": 0.5,
+            "index": 70,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00031632",
+            "similarity": 0.727,
+            "index": 71,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00010142",
+            "similarity": 0.636,
+            "index": 72,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00016608",
+      "summary": "Event: Meet on Epstein Start Date: 2019-09-17 19:30:00 +0000 End Date: 2019-09-17 20:00:00 +0000 Organizer: Unknown Attendee: EFTA00016608 Class: X-PERSONAL Date Created: 2019-09-17 23:04:28 +0000 Date Modified: 2019-09-17 23:04:28 +0000 Priority: 5",
+      "timestamp": "2019-09-17T00:00:00",
+      "timestamp_raw": "2019-09-17",
+      "keywords": [
+        "efta00016608",
+        "epstein",
+        "meet",
+        "2019-09-17",
+        "event",
+        "redaction analysis",
+        "x-personal",
+        "priority",
+        "attendee"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00032443",
+            "similarity": 0.5,
+            "index": 69,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00032441",
+            "similarity": 0.583,
+            "index": 68,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00013351",
+            "similarity": 0.5,
+            "index": 28,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00031632",
+            "similarity": 0.583,
+            "index": 71,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00031632",
+      "summary": "On September 17, 2019, at 7:30 PM, an event titled \"Meet on Epstein\" occurred with a personal classification (X-PERSONAL). Attendees included (USANYS) [REDACTED] and [REDACTED]. The event was created on September 17, 2019, and modified on the same date. It had a priority level of 5 and a timestamp of 2:01:48 PM on September 17, 2019.",
+      "timestamp": "2019-09-17T00:00:00",
+      "timestamp_raw": "September 17, 2019",
+      "keywords": [
+        "efta00031632",
+        "epstein",
+        "meet",
+        "redaction",
+        "2019-09-17",
+        "x-personal",
+        "usanys",
+        "event",
+        "priority",
+        "attendee"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00016608",
+            "similarity": 0.583,
+            "index": 70,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00032443",
+            "similarity": 0.727,
+            "index": 69,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00032441",
+            "similarity": 0.818,
+            "index": 68,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00010142",
+            "similarity": 0.583,
+            "index": 72,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00010142",
+      "summary": "An event titled “Meet on Epstein” occurred on September 17, 2019, from 2:00 PM to 3:00 PM. The organizer was (USANYS) [REDACTED] and [REDACTED]. Attendees included (USANYS), (USANYS), and EFTA00010142. The event was classified as X-PERSONAL and had a priority of 5.",
+      "timestamp": "2019-09-17T00:00:00",
+      "timestamp_raw": "September 17, 2019",
+      "keywords": [
+        "efta00010142",
+        "epstein",
+        "redaction",
+        "usanys",
+        "event",
+        "2019-09-17",
+        "meet",
+        "personal",
+        "x-personal"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00031632",
+            "similarity": 0.583,
+            "index": 71,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00032443",
+            "similarity": 0.636,
+            "index": 69,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00032441",
+            "similarity": 0.583,
+            "index": 68,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037734",
+      "summary": "An FBI event, designated EFTA00037734, took place on October 2, 2019, from 5:00 PM to 6:00 PM at the FBI’s 9th Floor Conference Room. The event was classified as X-PERSONAL and focused on “Epstein Victim Briefings.” A reminder was issued to attendees regarding the start time.",
+      "timestamp": "2019-10-02T00:00:00",
+      "timestamp_raw": "October 2, 2019",
+      "keywords": [
+        "epstein",
+        "victim",
+        "briefings",
+        "fbi",
+        "2019",
+        "conference room",
+        "personal",
+        "redaction",
+        "event",
+        "attendees"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037412",
+      "summary": "An FBI-organized event, “Epstein: Miami Brief Final Call,” took place on 2019-10-11 from 14:00:00 to 15:00:00 +0000 at the 9th Floor Conf Room or Conf Line. The event was classified as X-PERSONAL and involved attendees from the FBI, NY, OGA, and Department of Justice (DO) personnel. A reminder message with a Guest Code ([REDACTED]) was to be displayed one hour prior to the start. The document is identified as EFTA00037412.",
+      "timestamp": "2019-10-11T00:00:00",
+      "timestamp_raw": "2019-10-11",
+      "keywords": [
+        "epstein",
+        "miami",
+        "fbi",
+        "redaction",
+        "event",
+        "conference",
+        "2019-10-11",
+        "confidential",
+        "do",
+        "oga"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00037411",
+            "similarity": 0.5,
+            "index": 75,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038033",
+            "similarity": 0.667,
+            "index": 76,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037411",
+      "summary": "An FBI event titled \"Epstein: Miami Brief Final Call\" took place on October 11, 2019, from 2:00 PM to 3:00 PM GMT. The event was organized by the FBI and held in the 9th Floor Conf Room or Conf Line. The classification was X-PERSONAL, and the attendee information includes a guest code: EFTA00037411. A reminder message was to be displayed one hour before the start.",
+      "timestamp": "2019-10-11T00:00:00",
+      "timestamp_raw": "October 11, 2019",
+      "keywords": [
+        "epstein",
+        "miami",
+        "fbi",
+        "conference",
+        "redaction analysis",
+        "event",
+        "2019-10-11",
+        "efta00037411"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037412",
+            "similarity": 0.5,
+            "index": 74,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00038033",
+            "similarity": 0.5,
+            "index": 76,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038033",
+      "summary": "An FBI-organized event titled “Epstein: Miami Brief Final Call” took place on October 11, 2019, from 2:00 PM to 3:00 PM GMT. The event was held in the 9th Floor Conf Room or Conf Line and was classified as X-PERSONAL. Attendees included representatives from the FBI, the Office of the Attorney General (OGA), and the Department of Justice (DO) and its contractors. A reminder message with a guest code and dial-in information was to be displayed 15 minutes prior to the start. The document is identified as EFTA00038033.",
+      "timestamp": "2019-10-11T00:00:00",
+      "timestamp_raw": "October 11, 2019",
+      "keywords": [
+        "epstein",
+        "miami",
+        "fbi",
+        "redaction",
+        "event",
+        "conference",
+        "2019-10-11",
+        "attendees",
+        "confidential",
+        "efta00038033"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037411",
+            "similarity": 0.5,
+            "index": 75,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037412",
+            "similarity": 0.667,
+            "index": 74,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021312",
+      "summary": "Emails discuss next steps in an investigation, likely related to a case involving victims of Jeffrey Epstein. Key points include: *   A photo array is requested, potentially for interviews. *   A photo book will be used instead of a \"6 pack.\" *   A victim conference in Miami is planned for October 15, 2019, and attendees are being considered. *   An FBI agent is coordinating with a lawyer to schedule interviews, potentially combining trips to Florida and New York. *   The team is seeking information on seized photos from both the Manhattan and Florida houses, including any discs with names on them.",
+      "timestamp": "2019-10-15T00:00:00",
+      "timestamp_raw": "October 15, 2019",
+      "keywords": [
+        "efta00021312",
+        "victims",
+        "epstein",
+        "miami",
+        "photo array",
+        "fbi",
+        "interviews",
+        "florida",
+        "november",
+        "analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038321",
+      "summary": "The FBI Victim Services Division is offering an RSVP for a briefing regarding the Epstein case. The briefing is scheduled for October 15, 2019 in Miami, FL and October 23, 2019 in New York, NY. Attendees are required to complete a form collecting personal information, including contact details, citizenship, and travel preferences (transportation mode, dates, and airports). Attendees can bring one support person who also requires a separate form to be completed, including their personal details and travel preferences.  Lodging and mileage reimbursement are authorized, with specific restrictions on incidental charges and authorized expenses.  Attendees must acknowledge understanding of the limitations of authorized expenses, specifically excluding meals, rental vehicles, and entertainment.",
+      "timestamp": "2019-10-15T00:00:00",
+      "timestamp_raw": "October 15, 2019",
+      "keywords": [
+        "fbi",
+        "epstein",
+        "victim services",
+        "rsvp",
+        "miami",
+        "new york",
+        "travel arrangements",
+        "support person",
+        "lodging",
+        "transportation"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028331",
+      "summary": "A forwarded email from October 17, 2019, discusses a meeting in Florida involving Epstein victims, support persons, and attorneys. The meeting is expected to have 15 victims, 3 support persons, and 8 attorneys and is receiving positive feedback from attendees. The email references case file EFTA00028331.",
+      "timestamp": "2019-10-17T00:00:00",
+      "timestamp_raw": "October 17, 2019",
+      "keywords": [
+        "epstein",
+        "victims",
+        "meeting",
+        "florida",
+        "attorneys",
+        "support",
+        "redaction",
+        "analysis",
+        "efta00028331"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024297",
+      "summary": "An event titled “Epstein estate” took place on October 23, 2019, from 6:30 PM to 7:00 PM GMT. Marc A. Weinstein (redacted) organized the event via a Skype meeting with Conference ID 803 102 52. Attendees included Tomback, Andrew (redacted). A reminder was set to display 15 minutes before the start, including dial-in numbers for various countries: Brazil, Canada, China, France, Germany, India, Ireland, Israel, Japan, Singapore, United Kingdom, United States. The document also provides instructions for joining the meeting via computer or mobile device, and offers troubleshooting steps via Skype Web App and the “Help” link. Additionally, it includes a dial-in PIN for a specific number (+12016300824).",
+      "timestamp": "2019-10-23T00:00:00",
+      "timestamp_raw": "October 23, 2019",
+      "keywords": [
+        "epstein estate",
+        "skype",
+        "dial-in numbers",
+        "weinstein",
+        "marc a.",
+        "2019-10-23",
+        "redaction",
+        "conference id",
+        "meeting",
+        "attendees"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038375",
+      "summary": "An email chain discusses arrangements for a meeting involving three legal firms and FBI Victim Services Division regarding a briefing for victims of Jeffrey Epstein. The meeting is scheduled for October 23, 2019, at 10:00 AM. Attendees are advised to bring identification, avoid electronic devices, and arrive by 9:30 AM. Parking and transportation information are provided, and updates/questions should be submitted to a designated email inbox. The meeting's purpose is to be respectful and cooperative.",
+      "timestamp": "2019-10-23T00:00:00",
+      "timestamp_raw": "October 23, 2019",
+      "keywords": [
+        "fbi victim services division",
+        "jeffrey epstein",
+        "attorney",
+        "redaction analysis",
+        "legal counsel",
+        "meeting",
+        "identification",
+        "email",
+        "security",
+        "transportation"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028837",
+      "summary": "On October 23, 2019, at 6:30 PM GMT, Marc Weinstein (with a redacted attendee) participated in a Skype meeting classified as X-PERSONAL regarding the Epstein estate. The meeting was created on October 23, 2019, at 1:47 PM GMT and has a priority level of 5.",
+      "timestamp": "2019-10-23T00:00:00",
+      "timestamp_raw": "October 23, 2019",
+      "keywords": [
+        "epstein estate",
+        "redaction analysis",
+        "marc weinstein",
+        "skype meeting",
+        "2019-10-23",
+        "efta00028837"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021289",
+      "summary": "An Epstein Team Meeting took place on 2019-10-30 from 20:30:00 to 21:30:00 GMT. The event was classified as X-PERSONAL, with a priority of 5. The record was created on 2019-10-30 at 15:34:48 GMT and modified at the same time. EFTA00021289 was the attendee.",
+      "timestamp": "2019-10-30T00:00:00",
+      "timestamp_raw": "2019-10-30",
+      "keywords": [
+        "efta00021289",
+        "epstein team meeting",
+        "2019-10-30",
+        "x-personal",
+        "redaction analysis",
+        "event",
+        "meeting"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024295",
+      "summary": "On 2019-10-30 from 18:30:00 to 19:00:00 GMT, there was an “X-PERSONAL” event: a call with the estate counsel of Jeffrey Epstein. The event was created on 2019-10-23 and has a priority of 5. The attendee is designated as EFTA00024295.",
+      "timestamp": "2019-10-30T00:00:00",
+      "timestamp_raw": "2019-10-30",
+      "keywords": [
+        "efta00024295",
+        "epstein",
+        "estate",
+        "counsel",
+        "call",
+        "2019-10-30",
+        "personal",
+        "redaction analysis",
+        "event"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014557",
+      "summary": "Event: Epstein discovery deadline was accepted. Start Date: 2019-10-31 21:00:00 +0000 End Date: 2019-10-31 21:00:00 +0000 Class: X-PERSONAL Priority: 5 Attendee: EFTA0001457",
+      "timestamp": "2019-10-31T00:00:00",
+      "timestamp_raw": "2019-10-31",
+      "keywords": [
+        "efta00014557",
+        "epstein",
+        "deadline",
+        "x-personal",
+        "redaction analysis",
+        "2019-10-31",
+        "2019-07-31",
+        "event",
+        "priority"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00028076",
+            "similarity": 0.545,
+            "index": 86,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00028076",
+      "summary": "On 2019-10-31 at 21:00:00 +0000, an event named “Accepted: Epstein discovery deadline” occurred, classified as X-PERSONAL. The event was created on 2019-07-31 16:55:31 +0000 and had attendees [REDACTED] and [REDACTED]. The document’s identifier is EFTA00028076.",
+      "timestamp": "2019-10-31T00:00:00",
+      "timestamp_raw": "2019-10-31",
+      "keywords": [
+        "efta00028076",
+        "redaction analysis",
+        "epstein",
+        "deadline",
+        "2019-10-31",
+        "x-personal",
+        "event",
+        "discovery"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00014557",
+            "similarity": 0.545,
+            "index": 85,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038014",
+      "summary": "The FBI Victim Services Division is offering a briefing to victims of Jeffrey Epstein. The briefing will be held on October 15th in Miramar, Florida, or October 23rd in New York, NY. Attendees are asked to complete and return an RSVP Questionnaire to VictimServices@fbi.gov, providing personal information for security purposes. Transportation and lodging will be provided free of charge for those residing more than 50 miles from the location, with mileage reimbursement available for self-drivers. The meeting will involve FBI representatives, the FBI NY Field Office, and the U.S. Attorney's Office for the Southern District of New York.",
+      "timestamp": "2019-11-02T00:00:00",
+      "timestamp_raw": "02 Oct 2019",
+      "keywords": [
+        "fbi",
+        "jeffrey epstein",
+        "victim services",
+        "fbi victim services division",
+        "meeting",
+        "miami",
+        "new york",
+        "florida",
+        "rsvp questionnaire",
+        "victim"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032855",
+      "summary": "On November 4, 2019, at 21:00:00 +0000, an event occurred at the Epstein / Victim Fund Meet, classified as X-PERSONAL, with a priority of 5. The event lasted from 21:00:00 to 21:30:00 +0000. The attendee was identified as EFTA00032855.",
+      "timestamp": "2019-11-04T00:00:00",
+      "timestamp_raw": "November 4, 2019",
+      "keywords": [
+        "efta00032855",
+        "event",
+        "victim fund",
+        "meet",
+        "2019-11-04",
+        "redaction analysis",
+        "personal",
+        "date",
+        "attendee"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023935",
+      "summary": "On November 4, 2019, at 21:00:00 +0000, an event occurred at the Epstein / Victim Fund Meet. The event lasted from 21:00:00 +0000 to 21:30:00 +0000. The event is classified as X-PERSONAL and has a priority of 5. The attendee is EFTA00023935.",
+      "timestamp": "2019-11-04T00:00:00",
+      "timestamp_raw": "November 4, 2019",
+      "keywords": [
+        "efta00023935",
+        "event",
+        "date",
+        "location",
+        "victim fund",
+        "meet",
+        "priority",
+        "redaction analysis",
+        "2019-11-04",
+        "epstein"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037933",
+      "summary": "An email exchange discusses whether to request attendee information (specifically attorneys) to gain access to a building for a briefing. The exchange questions whether transportation, hotel, or reimbursements should be provided to the attorneys. An RSVP questionnaire was attached.",
+      "timestamp": "2019-11-04T00:00:00",
+      "timestamp_raw": "04 Oct 2019",
+      "keywords": [
+        "attorneys",
+        "briefing",
+        "redaction",
+        "information",
+        "transportation",
+        "hotel",
+        "reimbursements",
+        "efta00037933"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038310",
+      "summary": "Diane Aldrich of Allred Maroko Goldberg sent questionnaires to the FBI Victim Services regarding co-counsel for Gloria Allred and related Epstein clients. The questionnaires were for attendees of an FBI Victim Services briefing scheduled for October 23rd in New York. The attachments were DM_Signed_Form.pdf and MW_Signed_Form.pdf.",
+      "timestamp": "2019-11-08T00:00:00",
+      "timestamp_raw": "08 Oct 2019",
+      "keywords": [
+        "fbi",
+        "victim services",
+        "gloria allred",
+        "diane aldrich",
+        "epstein",
+        "new york",
+        "questionnaires",
+        "legal",
+        "confidential",
+        "redaction"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032803",
+      "summary": "On November 19, 2019, at 21:30:00 +0000, a meeting (Event: TC with Reid Weingarten re Epstein) took place in Reid Weingarten’s office (RD’s office) organized by (USANYS). The meeting was classified as X-PERSONAL. Attendees included (USANYS) [REDACTED]. The purpose was a call between Reid Weingarten and another individual regarding an indictment, with the intention of limiting discussion. The meeting was flagged with a 15-minute reminder and noted for inclusion of the Epstein team.",
+      "timestamp": "2019-11-19T00:00:00",
+      "timestamp_raw": "November 19, 2019",
+      "keywords": [
+        "efta00032803",
+        "reid weingarten",
+        "epstein",
+        "indictment",
+        "usanys",
+        "redaction",
+        "event",
+        "tc",
+        "2019-11-19",
+        "call"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028287",
+      "summary": "An individual requested that another party inquire about which victims Jared Epstein was contacting regarding a meeting, specifically seeking substantive feedback. Another party reported continuing positive feedback from attendees of a meeting in Florida involving 15 victims, 3 support persons, and 8 attorneys, occurring on October 23rd.",
+      "timestamp": "2019-11-21T00:00:00",
+      "timestamp_raw": "21 Oct 2019",
+      "keywords": [
+        "epstein",
+        "victims",
+        "meeting",
+        "florida",
+        "feedback",
+        "counsel",
+        "attorneys",
+        "support persons",
+        "redaction",
+        "efta00028287"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032329",
+      "summary": "This document is an email correspondence regarding a scan, attached to which is a PDF named \"Epstein_Victims_Attendees,_Agenda.pdf\". The sender is associated with the U.S. Attorney’s Office, SDNY, identified by the code EFTA00032329.",
+      "timestamp": "2019-11-24T00:00:00",
+      "timestamp_raw": "24 Oct 2019",
+      "keywords": [
+        "efta00032329",
+        "scan",
+        "epstein",
+        "victims",
+        "attendees",
+        "agenda",
+        "paralegal specialist",
+        "u.s. attorney's office",
+        "sdny"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029637",
+      "summary": "On December 2, 2019, at 3:30 PM GMT, a Skype meeting titled “Epstein Estate Call” occurred, organized by Marc Weinstein of Hughes Hubbard &amp;amp; Palmer. The meeting attendee was [REDACTED], and also included Tomback, Andrew of WhiteCase. The meeting utilized the dial-in number +1 (201) 630-0824 and conference ID 169269771. Additional dial-in numbers were provided for various countries including Brazil, Canada, China, France, Germany, India, Ireland, Israel, Japan, Singapore, United Kingdom, and United States. A reminder message was to be displayed 15 minutes before the start.",
+      "timestamp": "2019-12-02T00:00:00",
+      "timestamp_raw": "December 2, 2019",
+      "keywords": [
+        "epstein",
+        "skype",
+        "meeting",
+        "dial-in",
+        "weinstein",
+        "redaction",
+        "conference id",
+        "attendees",
+        "event",
+        "marc a.weinstein"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020969",
+      "summary": "On December 4, 2019, at 20:00:00 UTC, an event occurred classified as X-PERSONAL, related to a proffer regarding abuse. The event ran from 20:00:00 to 23:00:00 UTC. The attendee is redacted.",
+      "timestamp": "2019-12-04T00:00:00",
+      "timestamp_raw": "December 4, 2019",
+      "keywords": [
+        "efta00020969",
+        "redaction",
+        "abuse",
+        "event",
+        "personal",
+        "2019-12-04",
+        "priority",
+        "attendee",
+        "proffer",
+        "date"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029648",
+      "summary": "On December 4, 2019, at 7:51:44 +0000, an event occurred at Winston & Strawn offices, 200 Park Ave, classified as X-PERSONAL with a priority of 5. The event was a \"proffer (re abuse)\" lasting from 19:00:00 to 22:00:00 +0000, and the attendee was EFTA00029648.",
+      "timestamp": "2019-12-04T00:00:00",
+      "timestamp_raw": "December 4, 2019",
+      "keywords": [
+        "efta00029648",
+        "abuse",
+        "winston & strawn",
+        "2019-12-04",
+        "redaction analysis",
+        "event",
+        "personal",
+        "priority",
+        "2019-12-03"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00016923",
+            "similarity": 0.5,
+            "index": 98,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00016929",
+            "similarity": 0.5,
+            "index": 99,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00016923",
+      "summary": "On December 4, 2019, at the Winston & Strawn offices, an event was accepted regarding a proffer (related to abuse). The event occurred between 19:00 and 22:00, classified as X-PERSONAL. The document was created on November 27, 2019, and modified on the same date. The attendee was EFTA00016923.",
+      "timestamp": "2019-12-04T00:00:00",
+      "timestamp_raw": "December 4, 2019",
+      "keywords": [
+        "efta00016923",
+        "abuse",
+        "winston & strawn",
+        "2019-12-04",
+        "event",
+        "proffer",
+        "personal",
+        "redaction analysis",
+        "2019-11-27"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00029648",
+            "similarity": 0.5,
+            "index": 97,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00016929",
+            "similarity": 0.5,
+            "index": 99,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00016929",
+      "summary": "On December 4, 2019, at 8:00 PM, attendee EFTA00016929 participated in an event classified as “X-PERSONAL” at Winston & Strawn offices, 200 Park Ave. The event was marked as “re abuse” and lasted from 8:00 PM to 11:00 PM.",
+      "timestamp": "2019-12-04T00:00:00",
+      "timestamp_raw": "December 4, 2019",
+      "keywords": [
+        "efta00016929",
+        "roller",
+        "abuse",
+        "winston & strawn",
+        "2019-12-04",
+        "event",
+        "accepted",
+        "personal",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00016923",
+            "similarity": 0.5,
+            "index": 98,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00029648",
+            "similarity": 0.5,
+            "index": 97,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029305",
+      "summary": "An event, titled \"Accepted: Epstein Team Meeting,\" occurred on December 9, 2019, from 20:30:00 to 21:00:00 GMT. The event was classified as X-PERSONAL. Attendees included (USANYS) [REDACTED] and [REDACTED]. The document was created on December 8, 2019, with a priority of 5 and a DTSTAMP of 2019-12-08 21:09:57 +0000.",
+      "timestamp": "2019-12-09T00:00:00",
+      "timestamp_raw": "December 9, 2019",
+      "keywords": [
+        "efta00029305",
+        "epstein team meeting",
+        "redaction",
+        "2019-12-09",
+        "x-personal",
+        "usanys",
+        "event",
+        "meeting",
+        "date",
+        "personal"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032499",
+      "summary": "A meeting, identified as “Meet re Epstein forfeiture,” took place on December 9, 2019, from 7:00 PM to 8:00 PM at an AA office. The meeting was created on December 4, 2019, and assigned a high priority. It was linked to the attendee \"EFTA00032499\" and included a reminder to display a message 15 minutes before the start.",
+      "timestamp": "2019-12-09T00:00:00",
+      "timestamp_raw": "December 9, 2019",
+      "keywords": [
+        "epstein",
+        "forfeiture",
+        "event",
+        "meeting",
+        "2019-12-09",
+        "aa office",
+        "personal",
+        "reminder",
+        "efta00032499"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032859",
+      "summary": "On December 9, 2019, at the M office, an event occurred regarding the acceptance of a forfeiture related to Jeffrey Epstein. The event lasted from 19:00:00 to 20:00:00. The event was classified as X-PERSONAL and created on December 5, 2019.  The attendee was EFTA00032859.",
+      "timestamp": "2019-12-09T00:00:00",
+      "timestamp_raw": "December 9, 2019",
+      "keywords": [
+        "efta00032859",
+        "epstein",
+        "forfeiture",
+        "2019-12-09",
+        "meet",
+        "x-personal",
+        "redaction analysis",
+        "event",
+        "m office"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029652",
+      "summary": "On December 9, 2019, at 7:00 PM, an event titled \"Accepted: Meet re Epstein forfeiture\" took place at the Eoffice. The event was classified as X-PERSONAL, created on December 4, 2019, and had a priority of 5. [REDACTED] was an attendee.",
+      "timestamp": "2019-12-09T00:00:00",
+      "timestamp_raw": "December 9, 2019",
+      "keywords": [
+        "epstein",
+        "forfeiture",
+        "efta00029652",
+        "redaction",
+        "2019-12-09",
+        "event",
+        "eoffice",
+        "personal",
+        "x-personal"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00022150",
+      "summary": "On December 10, 2019, from 6:00 PM to 7:00 PM GMT, an “Accepted: Brass Meeting on Epstein” event occurred (Class: X-PERSONAL). The attendee was EFTA00022150. The event was created on December 7, 2019, with a priority of 5.",
+      "timestamp": "2019-12-10T00:00:00",
+      "timestamp_raw": "December 10, 2019",
+      "keywords": [
+        "efta00022150",
+        "brass meeting",
+        "epstein",
+        "x-personal",
+        "2019-12-10",
+        "event",
+        "accepted",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00023229",
+            "similarity": 0.667,
+            "index": 105,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00023229",
+      "summary": "On December 10, 2019, from 6:00 PM to 7:00 PM GMT, an “Accepted: Brass Meeting on Epstein” event occurred. The event was classified as X-PERSONAL, had a priority of 5, and was created on December 7, 2019. The attendee was EFTA00023229.",
+      "timestamp": "2019-12-10T00:00:00",
+      "timestamp_raw": "December 10, 2019",
+      "keywords": [
+        "efta00023229",
+        "brass meeting",
+        "epstein",
+        "2019-12-10",
+        "x-personal",
+        "event",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00022150",
+            "similarity": 0.667,
+            "index": 104,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019561",
+      "summary": "The document consists of email exchanges regarding travel approval requests for investigations, primarily related to the Epstein case (2018R01618). Requests repeatedly involve travel to locations including Los Angeles, Santa Monica, West Palm Beach, and Fort Lauderdale, Florida, for interviews and meetings. The requests typically involve a team and span several dates within November and December 2019.  A key recurring element is the request for a conference room reservation at the destination hotel.  The details of the trips, including specific dates, attendees, and locations, are redacted.",
+      "timestamp": "2019-12-13T00:00:00",
+      "timestamp_raw": "December 13, 2019",
+      "keywords": [
+        "travel approval",
+        "travel",
+        "los angeles",
+        "santa monica",
+        "per diem",
+        "epstein investigation",
+        "west palm beach",
+        "conference room",
+        "united states v. epstein",
+        "florida"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028715",
+      "summary": "On 2020-01-06 from 17:30:00 to 18:00:00 +0000, an event occurred classified as X-PERSONAL titled “Accepted: Epstein Meeting.” Attendees included (USANYS) [REDACTED] and [REDACTED]. The event was created on 2020-01-08 and last modified on 2020-01-08. The priority was 5 and a DTSTAMP of 2020-01-06 16:30:40 +0000 was recorded.",
+      "timestamp": "2020-01-06T00:00:00",
+      "timestamp_raw": "2020-01-06",
+      "keywords": [
+        "efta00028715",
+        "epstein",
+        "meeting",
+        "2020-01-06",
+        "x-personal",
+        "redaction",
+        "usanys",
+        "event",
+        "priority",
+        "date"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031614",
+      "summary": "An FBI/SDNY meeting regarding Jeffrey Epstein took place on January 8, 2020, from 6:00 PM to 7:00 PM in a secure room (1SA). The event was classified as X-PERSONAL. The record was created on January 9, 2020.",
+      "timestamp": "2020-01-08T00:00:00",
+      "timestamp_raw": "January 8, 2020",
+      "keywords": [
+        "fbi",
+        "sdny",
+        "epstein",
+        "meeting",
+        "2020-01-08",
+        "redaction analysis",
+        "personal",
+        "x-personal",
+        "attendee",
+        "date"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00031002",
+            "similarity": 0.583,
+            "index": 59,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031825",
+      "summary": "On January 8, 2020, from 6:00 PM to 7:00 PM, an FBI/SDNY meeting regarding the Epstein case was held. The meeting was classified as X-PERSONAL. Attendees included [REDACTED] and [REDACTED]. The record was created on January 9, 2020, with a priority of 5.",
+      "timestamp": "2020-01-08T00:00:00",
+      "timestamp_raw": "January 8, 2020",
+      "keywords": [
+        "fbi",
+        "sdny",
+        "epstein",
+        "redaction",
+        "meeting",
+        "2020-01-08",
+        "personal",
+        "event",
+        "data"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028719",
+      "summary": "An event titled “Epstein T&E Meeting” took place on 2020-01-10 from 16:30:00 to 17:30:00 +0000, organized by (USANYS). The meeting was held at s Office and classified as X-PERSONAL. Attendees included (USANYS) [Contractor] and (USANYS) [REDACTED]. A reminder was set to display a message 15 minutes before the start. The document’s creation and modification dates are 2020-01-09 16:07:07 +0000 and 2020-01-09 16:07:07 +0000 respectively, with a priority level of 5.",
+      "timestamp": "2020-01-10T00:00:00",
+      "timestamp_raw": "2020-01-10",
+      "keywords": [
+        "epstein",
+        "t&e meeting",
+        "2020-01-10",
+        "usanys",
+        "contractor",
+        "redaction",
+        "event",
+        "reminder",
+        "efta00028719"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031616",
+      "summary": "Event: Epstein T&E Meeting Start Date: 2020-01-10 16:30:00 +0000 End Date: 2020-01-10 17:30:00 +0000 Location: Office Class: X-PERSONAL Priority: 5 DTSTAMP: 2020-01-08 23:39:25 +0000 Attendee: EFTA00031616",
+      "timestamp": "2020-01-10T00:00:00",
+      "timestamp_raw": "2020-01-10",
+      "keywords": [
+        "efta00031616",
+        "epstein t&e",
+        "meeting",
+        "2020-01-10",
+        "accepted",
+        "office",
+        "x-personal",
+        "priority",
+        "dtstamp"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028731",
+      "summary": "An event titled “Accepted: Epstein Meeting” occurred on January 16, 2020, from 7:00 PM to 8:30 PM. The event was classified as X-PERSONAL. The record was created on January 11, 2020, and last modified on the same date. The attendee is designated as EFTA00028731.",
+      "timestamp": "2020-01-16T00:00:00",
+      "timestamp_raw": "January 16, 2020",
+      "keywords": [
+        "efta00028731",
+        "epstein",
+        "meeting",
+        "2020-01-16",
+        "x-personal",
+        "redaction analysis",
+        "event",
+        "priority",
+        "date created",
+        "date modified"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00019230",
+            "similarity": 0.583,
+            "index": 113,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00026612",
+            "similarity": 0.538,
+            "index": 121,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00019230",
+      "summary": "An event titled \"Accepted: Epstein Meeting\" occurred on 2020-01-16 from 19:00:00 to 20:30:00, classified as X-PERSONAL. The attendee was EFTA00019230.  The record was created on 2020-01-15 and last modified on the same date. It has a priority of 5.",
+      "timestamp": "2020-01-16T00:00:00",
+      "timestamp_raw": "2020-01-16",
+      "keywords": [
+        "efta00019230",
+        "epstein",
+        "meeting",
+        "2020-01-16",
+        "x-personal",
+        "redaction analysis",
+        "event",
+        "date",
+        "priority"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00028731",
+            "similarity": 0.583,
+            "index": 112,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00013351",
+            "similarity": 0.5,
+            "index": 28,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00030294",
+            "similarity": 0.583,
+            "index": 23,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00025478",
+            "similarity": 0.5,
+            "index": 122,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00021072",
+      "summary": "On 2020-01-23 from 20:00:00 to 20:30:00 +0000, The Bloom Firm (marcelino@thebloomfirm.com) organized a call with attendees teri@thebloornfirm.com, colleen@thebloomfirm.com, and themselves. The call was hosted via UberConference at https://www.uberconference.com/thebloomfirm with a dial-in number of 818-405-0476, and no PIN was required.",
+      "timestamp": "2020-01-23T00:00:00",
+      "timestamp_raw": "2020-01-23",
+      "keywords": [
+        "epstein",
+        "call",
+        "bloom firm",
+        "the bloom firm",
+        "uberconference",
+        "2020",
+        "2020-01-23",
+        "teri@thebloomfirm.com",
+        "colleen@thebloomfirm.com",
+        "efta00021072"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018221",
+      "summary": "Event: Epstein was accepted. The event occurred on 2020-02-04 from 22:30:00 to 23:00:00, classified as X-PERSONAL. The record was created on 2020-02-04 at 04:16:15 with a priority of 5.  EFTA00018221 was the attendee.",
+      "timestamp": "2020-02-04T00:00:00",
+      "timestamp_raw": "2020-02-04",
+      "keywords": [
+        "epstein",
+        "event",
+        "accepted",
+        "2020-02-04",
+        "x-personal",
+        "redaction analysis",
+        "dtstamp",
+        "priority",
+        "attendee",
+        "efta00018221"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023408",
+      "summary": "On February 25, 2020, at 16:30:00 +0000, an event occurred classified as ‘X-PERSONAL’ and marked as priority 5. The event involved accepting Epstein-related FOIA requests. The creation and modification dates were February 25, 2020, at 08:17:28 +0000. The record is associated with the identifier EFTA00023408.",
+      "timestamp": "2020-02-25T00:00:00",
+      "timestamp_raw": "February 25, 2020",
+      "keywords": [
+        "epstein",
+        "foia",
+        "requests",
+        "2020",
+        "redaction analysis",
+        "x-personal",
+        "event",
+        "date",
+        "attendee"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00026603",
+            "similarity": 0.583,
+            "index": 128,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00026537",
+            "similarity": 0.5,
+            "index": 131,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00030302",
+      "summary": "On March 11, 2020, from 14:30:00 to 14:45:00 UTC, an event occurred classified as X-PERSONAL regarding questions related to Epstein ESI. The event was created on March 10, 2020, with attendees [REDACTED] and [REDACTED]. The document is associated with EFTA00030302.",
+      "timestamp": "2020-03-11T00:00:00",
+      "timestamp_raw": "March 11, 2020",
+      "keywords": [
+        "epstein",
+        "redaction analysis",
+        "efta00030302",
+        "questions",
+        "2020-03-11",
+        "x-personal",
+        "personal",
+        "event",
+        "date"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023136",
+      "summary": "The document consists of email exchanges regarding a call scheduled for March 25, 2020, at 16:00 UTC. The call was initially proposed for a Zoom meeting with multiple attendees, including Kathleen E. Cassidy, Samidh Guha, and Susan Necheles. Discussions revolved around scheduling flexibility, a revised draft submission, and the availability of a conference call number with various dialing options. Redactions were present throughout the document.",
+      "timestamp": "2020-03-25T00:00:00",
+      "timestamp_raw": "March 25, 2020",
+      "keywords": [
+        "call",
+        "zoom",
+        "draft",
+        "discussion",
+        "review",
+        "march 2020",
+        "kathleen cassidy",
+        "samidh guha",
+        "kate",
+        "conference number",
+        "redaction"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028350",
+      "summary": "On April 3, 2020, a Conference Line Call-In event occurred involving the Jeffrey Epstein Estate and Southern Country International Bank/USVI. The event lasted from 15:00:00 to 16:00:00 and was classified as X-PERSONAL. The attendee was [REDACTED].",
+      "timestamp": "2020-04-03T00:00:00",
+      "timestamp_raw": "April 3, 2020",
+      "keywords": [
+        "epstein",
+        "jeffrey",
+        "estate",
+        "southern country international",
+        "bank",
+        "usvi",
+        "conference line call-in",
+        "redaction",
+        "2020-04-03",
+        "efta00028350"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031973",
+      "summary": "A call took place on 2020-04-03 from 15:00:00 to 16:00:00 GMT, organized by (USANYS) [REDACTED] and [REDACTED]. The call was classified as X-PERSONAL. Attendees included (USANYS) and EFTA00031973.",
+      "timestamp": "2020-04-03T00:00:00",
+      "timestamp_raw": "2020-04-03",
+      "keywords": [
+        "efta00031973",
+        "usvi",
+        "epstein",
+        "call",
+        "2020-04-03",
+        "usanys",
+        "redaction",
+        "personal",
+        "event",
+        "x-personal"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026612",
+      "summary": "On 2020-04-29 at 18:00:00 +0000, an event classified as “X-PERSONAL” occurred, titled “Accepted: Epstein call.” The call lasted from 18:00:00 to 18:30:00 +0000. The event was created on 2020-04-29 at 15:58:09 +0000 and associated with attendee EFTA00026612, with a priority of 5.",
+      "timestamp": "2020-04-29T00:00:00",
+      "timestamp_raw": "2020-04-29",
+      "keywords": [
+        "epstein",
+        "efta00026612",
+        "call",
+        "2020-04-29",
+        "x-personal",
+        "redaction analysis",
+        "event",
+        "priority",
+        "date created",
+        "date modified"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00028731",
+            "similarity": 0.538,
+            "index": 112,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00025478",
+            "similarity": 0.583,
+            "index": 122,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00025478",
+      "summary": "On April 29, 2020, at 18:00:00 +0000, an event occurred classified as X-PERSONAL, involving the attendee EFTA00025478, regarding a call with Jeffrey Epstein. The event lasted from 18:00:00 to 18:30:00 +0000.  The event was created on April 29, 2020, at 16:18:44 +0000 and last modified at the same time. Its priority was set to 5.",
+      "timestamp": "2020-04-29T00:00:00",
+      "timestamp_raw": "April 29, 2020",
+      "keywords": [
+        "efta00025478",
+        "epstein",
+        "call",
+        "2020-04-29",
+        "x-personal",
+        "event",
+        "redaction analysis",
+        "date",
+        "priority"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00026612",
+            "similarity": 0.583,
+            "index": 121,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019230",
+            "similarity": 0.5,
+            "index": 113,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00013351",
+            "similarity": 0.5,
+            "index": 28,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00026537",
+            "similarity": 0.5,
+            "index": 131,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00026605",
+            "similarity": 0.5,
+            "index": 132,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00030335",
+      "summary": "A request for information relating to Jeffrey Epstein was sent via Webex meeting on April 30, 2020. The meeting used the access code 470 899 616 and password RxPNmCtV685. The meeting involved recording of audio and other information, with attendees consenting to this recording. The email contains a legal disclaimer regarding confidential and protected information.",
+      "timestamp": "2020-04-30T00:00:00",
+      "timestamp_raw": "April 30, 2020",
+      "keywords": [
+        "epstein",
+        "redaction",
+        "webex",
+        "meeting",
+        "recording",
+        "legal privilege",
+        "confidential",
+        "disclosure",
+        "attorney-client",
+        "vicbex"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030336",
+      "summary": "A Webex meeting was scheduled for 2020-05-04 from 17:45:00 to 18:15:00 +0000 with the meeting number 470 899 616 and password RxPNmCtV685. The meeting was related to a request for information regarding Jeffrey Epstein. Participants could join via Webex, dial-in number, or mobile app. The service allows recording of audio and other information, requiring consent from attendees. The email contains a legal disclaimer regarding confidentiality and protected information.",
+      "timestamp": "2020-05-04T00:00:00",
+      "timestamp_raw": "2020-05-04",
+      "keywords": [
+        "epstein",
+        "webex",
+        "meeting",
+        "recording",
+        "legal",
+        "privilege",
+        "confidential",
+        "disclosure",
+        "attendee",
+        "2020"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030786",
+      "summary": "An event, related to the Epstein case, occurred on 2020-05-18 from 18:00:00 to 18:30:00 +0000, organized by (USANYS) [REDACTED]. The event was classified as X-PERSONAL, created on 2020-05-16, and had a priority of 5. Attendees included ) [REDACTED] and [REDACTED]. A reminder was set to display 15 minutes before the start.",
+      "timestamp": "2020-05-18T00:00:00",
+      "timestamp_raw": "2020-05-18",
+      "keywords": [
+        "epstein",
+        "touhy request",
+        "redaction",
+        "2020-05-18",
+        "usanys",
+        "efta00030786"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013459",
+      "summary": "An email thread discusses scheduling a call with multiple recipients, including “the brass,” for the following day. Two attendees propose times of 11:00 AM and 1:00 PM, with others confirming that either time is acceptable. The original email requesting the call proposes these two time slots.",
+      "timestamp": "2020-05-21T00:00:00",
+      "timestamp_raw": "21 May 2020",
+      "keywords": [
+        "epstein",
+        "call",
+        "tomorrow",
+        "11am",
+        "1pm",
+        "redaction",
+        "usanys",
+        "contractor",
+        "may 21",
+        "2020"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023176",
+      "summary": "Roberta Kaplan is in a call with Kate Doniger regarding an investigation into Jeffrey Epstein. An Assistant U.S. Attorney from the Southern District of New York requests a five-minute phone call from Roberta Kaplan, potentially with additional attendees, to ask a quick question. The email includes a standard disclaimer regarding confidential and privileged communications.",
+      "timestamp": "2020-05-21T00:00:00",
+      "timestamp_raw": "21 May 2020",
+      "keywords": [
+        "epstein investigation",
+        "roberta kaplan",
+        "u.s. attorney",
+        "southern district of new york",
+        "redaction analysis",
+        "kate doniger",
+        "assistant u.s. attorney"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026603",
+      "summary": "On 2020-05-22 from 17:00:00 to 18:00:00 GMT, there was an “Accepted: Epstein Call” event (Class: X-PERSONAL) involving attendee EFTA00026603, located at 877-720-9282 - 8146826. The event was created on 2020-05-21 and last modified on 2020-05-21. The priority was 5 and the DTSTAMP is 2020-05-21 13:34:35 +0000.",
+      "timestamp": "2020-05-22T00:00:00",
+      "timestamp_raw": "2020-05-22",
+      "keywords": [
+        "epstein",
+        "call",
+        "2020",
+        "877-720-9282",
+        "8146826",
+        "x-personal",
+        "redaction analysis",
+        "event",
+        "date",
+        "attendee"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00023408",
+            "similarity": 0.583,
+            "index": 116,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00030784",
+            "similarity": 0.818,
+            "index": 130,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00026537",
+            "similarity": 0.727,
+            "index": 131,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00031831",
+      "summary": "On 2020-05-22 from 17:00:00 to 18:00:00 GMT, an event named \"Accepted: Epstein Call\" occurred. The event was classified as X-PERSONAL and had a priority of 5. The record was created on 2020-05-21 and last modified on the same date. EFTA00031831 was an attendee.",
+      "timestamp": "2020-05-22T00:00:00",
+      "timestamp_raw": "2020-05-22",
+      "keywords": [
+        "efta00031831",
+        "epstein",
+        "call",
+        "2020-05-22",
+        "event",
+        "accepted",
+        "x-personal",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030784",
+      "summary": "On May 22, 2020, from 5:00 PM to 6:00 PM GMT, there was an “Accepted: Epstein Call” event. The call originated from 877-720-9282 and the associated ID is 8146826. The event was classified as “X-PERSONAL.” The record was created on May 21, 2020, at 1:35 PM GMT, and last modified on the same date and time. The attendee is identified as EFTA00030784.",
+      "timestamp": "2020-05-22T00:00:00",
+      "timestamp_raw": "May 22, 2020",
+      "keywords": [
+        "epstein",
+        "call",
+        "2020",
+        "877-720-9282",
+        "8146826",
+        "x-personal",
+        "redaction analysis",
+        "event",
+        "date",
+        "efta00030784"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00026603",
+            "similarity": 0.818,
+            "index": 128,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00026537",
+            "similarity": 0.727,
+            "index": 131,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00026537",
+      "summary": "An event named \"Epstein Call\" occurred on 2020-05-22 from 17:00:00 to 18:00:00 +0000 at location 877-720-9282 - 8146826. The event was classified as X-PERSONAL, had a priority of 5, and involved the attendee EFTA00026537.",
+      "timestamp": "2020-05-22T00:00:00",
+      "timestamp_raw": "2020-05-22",
+      "keywords": [
+        "epstein",
+        "call",
+        "event",
+        "2020",
+        "877-720-9282",
+        "x-personal",
+        "redaction analysis",
+        "date",
+        "location"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00030784",
+            "similarity": 0.727,
+            "index": 130,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00026603",
+            "similarity": 0.727,
+            "index": 128,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00025478",
+            "similarity": 0.5,
+            "index": 122,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00026605",
+            "similarity": 0.636,
+            "index": 132,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00026605",
+      "summary": "On 2020-05-22, an event labeled \"Epstein Call\" occurred between 17:00:00 and 18:00:00 +0000. The event took place at 877-720-9282 - 8146826 and was classified as X-PERSONAL. EFTA00026605 was an attendee. The event was created on 2020-05-21 and last modified on 2020-05-21. The priority was 5.",
+      "timestamp": "2020-05-22T00:00:00",
+      "timestamp_raw": "2020-05-22",
+      "keywords": [
+        "efta00026605",
+        "epstein",
+        "call",
+        "2020",
+        "event",
+        "date",
+        "location",
+        "priority",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00026537",
+            "similarity": 0.636,
+            "index": 131,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00025478",
+            "similarity": 0.5,
+            "index": 122,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023393",
+      "summary": "Event: \"Epstein Call\" took place on 2020-05-22 from 17:00:00 to 18:00:00 +0000. The location was 877-720-9282 - 8146826, classified as X-PERSONAL. EFTA00023393 was the attendee. The event was created on 2020-05-21 at 14:05:56 +0000 and last modified on the same date at 13:36:47 +0000. Priority was set to 5.",
+      "timestamp": "2020-05-22T00:00:00",
+      "timestamp_raw": "2020-05-22",
+      "keywords": [
+        "epstein call",
+        "2020-05-22",
+        "redaction analysis",
+        "efta00023393",
+        "x-personal",
+        "priority",
+        "date created",
+        "date modified",
+        "877-720-9282"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015353",
+      "summary": "A press release is being prepared to announce charges against Ghislaine Maxwell for her role in the sexual exploitation and abuse of minor girls by Jeffrey Epstein. The press conference will be held on July 1, 2020, at the U.S. Attorney’s Office, Southern District of New York, at XX:00 a.m. and will be livestreamed on Facebook. Logistics are being coordinated, including securing a backdrop, chairs, and addressing acoustic concerns within the venue. A paragraph regarding COVID-19 safety protocols and increased arrival times for press attendees is being drafted for the press advisory. The International Court of Trade has denied a request.",
+      "timestamp": "2020-07-01T00:00:00",
+      "timestamp_raw": "July 1, 2020",
+      "keywords": [
+        "press release",
+        "covid-19",
+        "ghislaine maxwell",
+        "jeffrey epstein",
+        "united states attorney",
+        "fbi",
+        "press conference",
+        "sexual exploitation",
+        "social distance",
+        "lobby"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026403",
+      "summary": "A Webex meeting occurred on 2020-07-06 from 17:15:00 to 18:00:00 +0000. The meeting was categorized as \"X-PERSONAL\" priority 5. Attendees were alerted 15 minutes prior to the start via a Webex notification. Joining instructions included a Webex link, a dial-in number (1995719104@usao.webex.com and 207.182.190.20), and instructions for joining via Microsoft Lync or Skype for Business. A help resource link is provided: http://help.webex.com.",
+      "timestamp": "2020-07-06T00:00:00",
+      "timestamp_raw": "2020-07-06",
+      "keywords": [
+        "webex",
+        "efta00026403",
+        "meeting",
+        "alarm",
+        "reminder",
+        "join",
+        "date",
+        "location",
+        "video system",
+        "microsoft lync"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024774",
+      "summary": "Initial inquiries involve contacting a UK-based witness, Jill Greenfield, and her client, to gather information. Early discussions center on the best method of communication (WebEx vs. BlueJeans), and the logistical details of meeting, including potential attendee lists (Kyle Philips, Jill Greenfield, and potentially a US lawyer friend). Concerns are raised about anonymity and the voluntary nature of any discussions, emphasizing sensitivity and avoiding re-victimization. As the investigation progresses, a shift occurs due to the pandemic, leading to a halt on international travel and a renewed focus on obtaining a summary of the witness’s information. The lawyers repeatedly stress the voluntary nature of any interview, the importance of the witness’s comfort level, and the limitations on accessing notes and disclosing information to other parties. Ultimately, the communication aims to establish a framework for a sensitive and productive interview process.",
+      "timestamp": "2020-07-08T00:00:00",
+      "timestamp_raw": "08 Jul 2020",
+      "keywords": [
+        "epstein investigation",
+        "redaction",
+        "webex",
+        "louise scott",
+        "kyle philips",
+        "jill greenfield",
+        "fbi",
+        "victims",
+        "maxwell",
+        "united states",
+        "united kingdom"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015962",
+      "summary": "On July 16, 2020, at 5:30 PM +0000, a Skype meeting (Conference ID: 612 758 867) took place concerning Epstein’s New York property. The meeting was classified as X-PERSONAL, created on July 16, 2020, at 4:33:58 PM +0000, and modified at the same time. EFTA00015962 was the attendee. The priority was set to 5.",
+      "timestamp": "2020-07-16T00:00:00",
+      "timestamp_raw": "July 16, 2020",
+      "keywords": [
+        "epstein",
+        "property",
+        "skype",
+        "meeting",
+        "2020-07-16",
+        "efta00015962",
+        "x-personal",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032233",
+      "summary": "On 2020-08-21 at 20:00:00 +0000, an event (labeled \"t/c with Colleen re\") occurred, lasting from 20:00:00 to 20:30:00 +0000. The event was classified as “X-PERSONAL” and had a priority of 5. A reminder message was to be displayed 15 minutes before the start. The event was created on 2020-08-20 and modified on the same date. Attendees included (USANYS).",
+      "timestamp": "2020-08-21T00:00:00",
+      "timestamp_raw": "2020-08-21",
+      "keywords": [
+        "efta00032233",
+        "colleen",
+        "event",
+        "2020-08-21",
+        "reminder",
+        "personal",
+        "redaction analysis",
+        "x-personal",
+        "attendee",
+        "alarm"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026581",
+      "summary": "On October 5, 2020, at 6:45 PM +0000, there was an accepted phone call with the DOJ regarding the Epstein SDNY Investigation. The call lasted from 6:45 PM to 7:15 PM +0000. The event was classified as X-PERSONAL, had a priority of 5, and was created and last modified on October 5, 2020. EFTA00026581 was the attendee.",
+      "timestamp": "2020-10-05T00:00:00",
+      "timestamp_raw": "October 5, 2020",
+      "keywords": [
+        "epstein",
+        "doj",
+        "investigation",
+        "sdny",
+        "2020",
+        "call",
+        "redaction analysis",
+        "x-personal"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020508",
+      "summary": "On October 9, 2020, an individual reported information about a Jeffrey Epstein party to the FBI. The report included details about Lisa Villeneuve (formerly Ghislaine Lisa Villeneuve), who met Epstein at a hospital in 2000 and subsequently attended a party on Palm Beach Island, Florida, hosted by Epstein and possibly Ghislaine Maxwell. Attendees included Bobby Cox, introduced as a model scout, and Curt Schmidt, CEO of Blue Buffalo. Donald Trump was also reportedly invited to the same event at Mar a Lago. The reporting individual stated they last spoke to Villeneuve in 2002.",
+      "timestamp": "2020-10-09T00:00:00",
+      "timestamp_raw": "October 9, 2020",
+      "keywords": [
+        "epstein",
+        "jeffrey",
+        "ghislaine maxwell",
+        "lisa villeneuve",
+        "fbi",
+        "child trafficking",
+        "donald trump",
+        "mar a lago",
+        "palm beach",
+        "real estate",
+        "model scout"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023254",
+      "summary": "On October 16, 2020, at 2:00 PM GMT, Maxwell participated in a tentative discussion via dial-in regarding images from Epstein devices. The event was classified as X-PERSONAL, had a priority of 5, and was created/modified on the same date. One attendee is redacted.",
+      "timestamp": "2020-10-16T00:00:00",
+      "timestamp_raw": "October 16, 2020",
+      "keywords": [
+        "efta00023254",
+        "maxwell",
+        "epstein",
+        "devices",
+        "redaction",
+        "2020-10-16",
+        "images",
+        "x-personal",
+        "dial-in"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023251",
+      "summary": "On 2020-10-16 at 14:00:00 +0000, a confidential (X-PERSONAL) event occurred titled \"Accepted: Maxwell - Discuss Images from Epstein Devices.\" The event took place via dial-in and lasted from 14:00:00 to 14:30:00 +0000.  EFTA00023251 was the attendee.",
+      "timestamp": "2020-10-16T00:00:00",
+      "timestamp_raw": "2020-10-16",
+      "keywords": [
+        "efta00023251",
+        "maxwell",
+        "epstein",
+        "devices",
+        "images",
+        "discuss",
+        "2020-10-16",
+        "x-personal",
+        "event",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038046",
+      "summary": "An FBI briefing call, designated EFTA00038046, took place on October 16, 2020, from 16:00:00 to 17:00:00 GMT. The organizer was the FBI, and attendees included representatives from ODAG, JMD, and NY (FBI). The call was marked as X-PERSONAL and had a priority of 5. A reminder message was to be displayed 15 minutes before the start, and the dial-in numbers were 303-586-4335 and 1-877-446-3914 with a guest passcode. The call was related to a conversation with SA.",
+      "timestamp": "2020-10-16T00:00:00",
+      "timestamp_raw": "October 16, 2020",
+      "keywords": [
+        "epstein",
+        "briefing call",
+        "fbi",
+        "2020",
+        "october 16",
+        "dial-in",
+        "guest passcode",
+        "redaction analysis",
+        "x-personal"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025512",
+      "summary": "A call occurred on 2020-10-23 from 15:00:00 to 15:30:00 +0000 regarding discovery and the Epstein investigation. The organizer is redacted, and attendees included (USANYS), (NYPD) [REDACTED], (FBI) [REDACTED], and (NY). The event was classified as X-PERSONAL and had a priority of 5.",
+      "timestamp": "2020-10-23T00:00:00",
+      "timestamp_raw": "2020-10-23",
+      "keywords": [
+        "efta00025512",
+        "discovery",
+        "epstein investigation",
+        "sdny",
+        "fbi",
+        "nypd",
+        "redaction",
+        "2020-10-23",
+        "call",
+        "personal"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010300",
+      "summary": "On October 23, 2020, from 15:00:00 to 15:30:00 UTC, there was a telephone call regarding discovery and the Epstein investigation. The call was classified as X-PERSONAL. The event was created on October 22, 2020. EFTA00010300 was the attendee.",
+      "timestamp": "2020-10-23T00:00:00",
+      "timestamp_raw": "October 23, 2020",
+      "keywords": [
+        "efta00010300",
+        "discovery",
+        "epstein",
+        "investigation",
+        "sdny",
+        "2020-10-23",
+        "call",
+        "personal",
+        "redacted analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038161",
+      "summary": "An email chain discusses an ODAG/FBI briefing conference call scheduled for November 2, 2020, at 2:00 PM - 3:00 PM UTC-05:00 Eastern Time. The call details include the conference line number EFTA00038161 and a guest passcode EFTA00038162. Attachments include a master list of attendees and an RSVP tracking spreadsheet. The email originates from multiple FBI and ODAG entities.",
+      "timestamp": "2020-11-02T00:00:00",
+      "timestamp_raw": "November 2, 2020",
+      "keywords": [
+        "efta00038161",
+        "odag",
+        "fbi",
+        "briefing conference call",
+        "rsvp",
+        "travel information",
+        "november 2",
+        "2020",
+        "crt",
+        "ny",
+        "email"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026586",
+      "summary": "Initial discussions centered around scheduling a video conference with the client, concerns about travel restrictions due to COVID-19 and quarantine requirements, and logistical details such as potential travel arrangements to London. The team was exploring options for a meeting, including the possibility of testing, and coordinating with the UK Metropolitan Police regarding notification requirements. The investigation was being led by a team including multiple attorneys and FBI agents. There were discussions regarding the client's preferences for the meeting format and number of attendees, and confirmation regarding potential travel approvals.",
+      "timestamp": "2020-11-06T00:00:00",
+      "timestamp_raw": "06 Oct 2020",
+      "keywords": [
+        "efta00026586",
+        "epstein",
+        "covid-19",
+        "testing",
+        "uk",
+        "travel",
+        "interviews",
+        "government",
+        "quarantine",
+        "met police"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028129",
+      "summary": "Attorney’s Office for the Southern District of New York and a legal partner, Jill Greenfield, and her client. Key elements include: *   **Scheduling and Logistics:** Discussions revolve around scheduling a video conference with the client, potential travel to the UK (including testing requirements), and coordination with the Met Police. *   **Client Concerns:** The client expresses concerns about the number of attendees and the need to minimize potential lockdowns. *   **Team Changes:** The investigative team has undergone changes with new members joining, including FBI Special Agents. *   **Approvals:** The team is seeking approvals for meetings and travel, particularly regarding quarantine requirements and embassy notifications. *   **Proposed Dates:** The team proposes specific dates (October 14th-16th or 20th-22nd) for meetings, awaiting client confirmation. *   **Standard Practices:** The team confirms standard practices, such as notifying the Met Police about meetings conducted abroad.",
+      "timestamp": "2020-11-06T00:00:00",
+      "timestamp_raw": "06 Oct 2020",
+      "keywords": [
+        "efta00028129",
+        "epstein",
+        "jill greenfield",
+        "testing",
+        "uk",
+        "travel",
+        "interviews",
+        "quarantine",
+        "investigation",
+        "metropolitan police"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019131",
+      "summary": "An event titled “Epstein Estate” took place on November 9, 2020, from 21:30 to 22:00. Marc A. Weinstein organized it via a Skype meeting with Conference ID 570 579 045. The event had a priority of 5. Several dial-in numbers were provided for attendees globally, including Brazil, Canada, China, France, Germany, India, Ireland, Israel, Japan, Korea, Singapore, United Kingdom, and United States. The document outlines instructions for joining the meeting via telephone and provides troubleshooting advice for first-time Skype for Business guests.",
+      "timestamp": "2020-11-09T00:00:00",
+      "timestamp_raw": "November 9, 2020",
+      "keywords": [
+        "epstein estate",
+        "skype meeting",
+        "weinstein",
+        "dial-in numbers",
+        "conference id",
+        "andrew tomback",
+        "2020-11-09",
+        "redaction analysis",
+        "event",
+        "mobile phone"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038265",
+      "summary": "The U.S. Department of Justice is holding a meeting on November 12, 2020, from 9:00 AM to 12:00 PM EST at the FBI Miami Field Office to provide information regarding a 2006-2008 federal criminal investigation into Jeffrey Epstein, including discussions about interactions with victims. Participants will include DOJ and FBI representatives, crime victims, legal representatives, and support persons.  Attendees must adhere to COVID-19 safety protocols including temperature checks, mask-wearing, and social distancing. The DOJ will cover travel costs (transportation, lodging, and one checked bag) but not food or per diem. Participants are prohibited from bringing electronic devices. RSVP by November 2, 2020, is required.",
+      "timestamp": "2020-11-12T00:00:00",
+      "timestamp_raw": "November 12, 2020",
+      "keywords": [
+        "u.s. department of justice",
+        "jeffrey epstein",
+        "fbi miami",
+        "criminal investigation",
+        "meeting",
+        "victims",
+        "doj",
+        "legal representatives",
+        "covid-19",
+        "transportation"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038145",
+      "summary": "A debriefing titled “ODAG Epstein Debrief” was canceled on November 16, 2020, from 20:30:00 to 21:30:00 GMT. The event was organized under the classification “X-PERSONAL” and created on November 16, 2020, at 18:22:01 GMT.  It was assigned a priority of 1 and attendee invitations were sent.",
+      "timestamp": "2020-11-16T00:00:00",
+      "timestamp_raw": "November 16, 2020",
+      "keywords": [
+        "efta00038145",
+        "odag",
+        "epstein",
+        "debrief",
+        "canceled",
+        "2020-11-16",
+        "event",
+        "personal",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038211",
+      "summary": "Sigrid McCawley, a Partner at BOIES SCHILLER FLEXNER LLP, received emails regarding a meeting related to a DOJ investigation involving Epstein victims. The meeting was initially intended for an overseas client to attend in person, but a zoom option was not available due to travel restrictions. A colleague confirmed the meeting’s purpose was to review information from a 2006 investigation. The sender repeatedly confirmed receipt of the invitation and requested a list of attendees, including confirming the names of all clients involved.  The emails contained standard disclaimers regarding external communications and confidentiality.",
+      "timestamp": "2020-11-29T00:00:00",
+      "timestamp_raw": "29 Oct 2020",
+      "keywords": [
+        "sigrid mccawley",
+        "boies schiller flexner llp",
+        "epstein victims",
+        "doj invites",
+        "zoom",
+        "investigation",
+        "meeting",
+        "email",
+        "redaction"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031727",
+      "summary": "On December 8, 2020, at 6:30 PM GMT, there was a telephone call regarding the USVI Epstein Litigation with SDNY. The call lasted 30 minutes and took place via the phone numbers listed. The event was classified as X-PERSONAL. It was created on December 7, 2020, and has not been modified since.  EFTA00031727 was the attendee.",
+      "timestamp": "2020-12-08T00:00:00",
+      "timestamp_raw": "December 8, 2020",
+      "keywords": [
+        "epstein litigation",
+        "usvi",
+        "sdny",
+        "call",
+        "2020-12-08",
+        "litigation",
+        "redaction analysis",
+        "efta00031727"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00017900",
+      "summary": "A redaction analysis was conducted for document EFTA00017900 related to a tentative FOIA request concerning Epstein/Maxwell. The event occurred on March 10, 2021, from 22:00:00 to 22:30:00 GMT. The classification was X-PERSONAL, with attendees including (USANYS) [REDACTED] and [REDACTED].",
+      "timestamp": "2021-03-10T00:00:00",
+      "timestamp_raw": "March 10, 2021",
+      "keywords": [
+        "epstein",
+        "maxwell",
+        "foia",
+        "redaction",
+        "efta00017900",
+        "2021",
+        "x-personal",
+        "usanys"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00025210",
+            "similarity": 0.5,
+            "index": 155,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00025212",
+            "similarity": 0.5,
+            "index": 156,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00025210",
+      "summary": "On March 10, 2021, at 22:00:00 +0000, a FOIA request from Epstein/Maxwell was accepted (Class: X-PERSONAL). The event was created on March 10, 2021, at 20:59:07 +0000 and modified at the same time. Attendees include (USANYS) [REDACTED] and [REDACTED]. The document identifier is EFTA00025210.",
+      "timestamp": "2021-03-10T00:00:00",
+      "timestamp_raw": "March 10, 2021",
+      "keywords": [
+        "efta00025210",
+        "foia",
+        "epstein",
+        "maxwell",
+        "redaction",
+        "x-personal",
+        "2021-03-10",
+        "usanys",
+        "event",
+        "date"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00017900",
+            "similarity": 0.5,
+            "index": 154,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00025212",
+            "similarity": 0.818,
+            "index": 156,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00029856",
+            "similarity": 0.667,
+            "index": 158,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00025212",
+      "summary": "A FOIA request related to Epstein/Maxwell was accepted on 2021-03-10 between 22:00:00 and 22:30:00 UTC. The classification is X-PERSONAL. Attendees include (USANYS) [REDACTED] and [REDACTED]. The document is identified as EFTA00025212.",
+      "timestamp": "2021-03-10T00:00:00",
+      "timestamp_raw": "2021-03-10",
+      "keywords": [
+        "efta00025212",
+        "foia",
+        "epstein",
+        "maxwell",
+        "redaction",
+        "x-personal",
+        "2021-03-10",
+        "event",
+        "usanys",
+        "date"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00025210",
+            "similarity": 0.818,
+            "index": 155,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00017900",
+            "similarity": 0.5,
+            "index": 154,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00029856",
+            "similarity": 0.667,
+            "index": 158,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00030075",
+      "summary": "An event, designated as “Accepted: Epstein/Maxwell FOIA,” occurred on 2021-03-10 from 22:00:00 to 22:30:00 GMT. The event was classified as X-PERSONAL, created on 2021-03-10 at 20:51:52 GMT, and modified at the same time. It had a priority of 5 and a DTSTAMP of 2021-03-10 20:20:27 GMT. The attendee was EFTA00030075.",
+      "timestamp": "2021-03-10T00:00:00",
+      "timestamp_raw": "2021-03-10",
+      "keywords": [
+        "efta00030075",
+        "epstein",
+        "maxwell",
+        "foia",
+        "redaction analysis",
+        "2021-03-10",
+        "x-personal",
+        "event",
+        "date created",
+        "date modified"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00029856",
+            "similarity": 0.538,
+            "index": 158,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00029856",
+      "summary": "A redaction was performed on file EFTA00029856 related to an FOIA request for Epstein/Maxwell. The event occurred on 2021-03-10 between 22:00:00 and 22:30:00, classified as X-PERSONAL. The redaction was created on 2021-03-10 at 21:15:02 and modified at the same time. Attendees included (USANYS) [REDACTED] and [REDACTED].",
+      "timestamp": "2021-03-10T00:00:00",
+      "timestamp_raw": "2021-03-10",
+      "keywords": [
+        "efta00029856",
+        "redaction analysis",
+        "foia",
+        "epstein",
+        "maxwell",
+        "x-personal",
+        "2021-03-10",
+        "usanys",
+        "event",
+        "date"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00030075",
+            "similarity": 0.538,
+            "index": 157,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00025212",
+            "similarity": 0.667,
+            "index": 156,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00025210",
+            "similarity": 0.667,
+            "index": 155,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030077",
+      "summary": "A redaction analysis concerns the event titled \"Call re: Epstein FOIA,\" which occurred on March 19, 2021, from 13:00:00 to 13:30:00 GMT. The event was organized by [REDACTED] and [REDACTED], taking place at a location classified as “X-PERSONAL.” It was created on March 11, 2021, with a priority level of 5.  A reminder was set to display 15 minutes before the start. The event is identified as EFTA00030077.",
+      "timestamp": "2021-03-19T00:00:00",
+      "timestamp_raw": "March 19, 2021",
+      "keywords": [
+        "epstein",
+        "foia",
+        "redaction",
+        "event",
+        "2021-03-19",
+        "personal",
+        "x-personal",
+        "attendee",
+        "reminder",
+        "efta00030077"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00017902",
+            "similarity": 0.5,
+            "index": 160,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00017902",
+      "summary": "A FOIA request concerning Jeffrey Epstein was accepted on March 19, 2021, from 13:00:00 to 13:30:00 GMT. The request was classified as X-PERSONAL and involved attendee [REDACTED].",
+      "timestamp": "2021-03-19T00:00:00",
+      "timestamp_raw": "March 19, 2021",
+      "keywords": [
+        "epstein",
+        "foia",
+        "redaction",
+        "efta00017902",
+        "2021-03-19",
+        "x-personal",
+        "event",
+        "call"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00030077",
+            "similarity": 0.5,
+            "index": 159,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024012",
+      "summary": "On March 25, 2021, at 8:00 PM - 9:00 PM GMT, there was a tentative call with PAE regarding Jeffrey Epstein. The call used the dial-in number 844-215-6902 with code 707522. The event was marked as X-PERSONAL and created on March 25, 2021. EFTA00024012 was the attendee.",
+      "timestamp": "2021-03-25T00:00:00",
+      "timestamp_raw": "March 25, 2021",
+      "keywords": [
+        "efta00024012",
+        "epstein",
+        "pae",
+        "call",
+        "2021-03-25",
+        "dial-in",
+        "x-personal",
+        "event",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018020",
+      "summary": "On April 5, 2021, a call occurred between Andy Tomback and Marc Weinstein (Epstein estate) from 7:30 PM to 8:00 PM. The call was marked as X-PERSONAL and created on March 31, 2021. One attendee is redacted.",
+      "timestamp": "2021-04-05T00:00:00",
+      "timestamp_raw": "April 5, 2021",
+      "keywords": [
+        "efta00018020",
+        "redaction analysis",
+        "andy tomback",
+        "marc weinstein",
+        "epstein estate",
+        "2021-04-05",
+        "personal",
+        "x-personal",
+        "call",
+        "dtstamp"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032447",
+      "summary": "A tentative call was scheduled for 2021-04-05 19:30:00 - 20:00:00 +0000 with Andy Tomback and Marc Weinstein (Epstein estate). The call was classified as X-PERSONAL. One attendee is redacted.",
+      "timestamp": "2021-04-05T00:00:00",
+      "timestamp_raw": "2021-04-05",
+      "keywords": [
+        "efta00032447",
+        "andy tomback",
+        "marc weinstein",
+        "epstein estate",
+        "redaction",
+        "event",
+        "call",
+        "2021-04-05",
+        "personal",
+        "priority"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00009826",
+      "summary": "An event titled \"Epstein FOIA Next Steps - Noel Team\" took place on April 13, 2021, from 20:00:00 to 20:30:00 GMT. The event was marked as X-PERSONAL priority 5 and involved a dial-in with passcode EFTA00009826. A reminder alarm was set to display 15 minutes before the start.",
+      "timestamp": "2021-04-13T00:00:00",
+      "timestamp_raw": "April 13, 2021",
+      "keywords": [
+        "epstein",
+        "foia",
+        "next steps",
+        "noel team",
+        "2021",
+        "redaction analysis",
+        "efta00009826",
+        "event",
+        "attendee",
+        "dial in"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026916",
+      "summary": "On April 13, 2021, at 17:30:00 +0000, a call was accepted regarding the Epstein FOIA request. The call lasted from 17:30:00 to 18:00:00 +0000. Attendees included (USANYS) [REDACTED] and [REDACTED]. The classification was X-PERSONAL, and the priority was 5.",
+      "timestamp": "2021-04-13T00:00:00",
+      "timestamp_raw": "April 13, 2021",
+      "keywords": [
+        "efta00026916",
+        "foia",
+        "redaction",
+        "epstein",
+        "2021-04-13",
+        "x-personal",
+        "usanys",
+        "call",
+        "merge calls"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00009901",
+      "summary": "Ghislaine Maxwell’s arraignment on the S2 Superseding Indictment is scheduled for April 23, 2021, at 2:30 PM in Courtroom 24B of the Daniel Patrick Moynihan Courthouse. Due to public interest and COVID-19 restrictions, a video feed will be available, seating is limited to 100 people, and attendees must complete a questionnaire and have their temperature taken prior to entry. Mask requirements are in place, and non-compliance will result in removal. A public teleconference line (844-291-6362, access code 2921822) is also available. The government must notify victims of the proceeding, and defense counsel must inform the court of any family members wishing to attend. Photography, recording, or rebroadcasting of the proceeding are prohibited.",
+      "timestamp": "2021-04-23T00:00:00",
+      "timestamp_raw": "April 23, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states court",
+        "covid-19",
+        "courtroom",
+        "teleconference",
+        "jury assembly room",
+        "public access",
+        "filings",
+        "notice",
+        "victims"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038599",
+      "summary": "On 2021-04-29, at 14:00:00 +0000, an external email meeting was canceled for a “Hold for Maxwell witness meetings.” The meeting was scheduled from 14:00:00 to 15:30:00 +0000 and was classified as X-PERSONAL with a priority of 5. The record was created on 2021-04-29 02:11:22 +0000 and last modified at the same time. The attendee was EFTA00038599.",
+      "timestamp": "2021-04-29T00:00:00",
+      "timestamp_raw": "2021-04-29",
+      "keywords": [
+        "efta00038599",
+        "maxwell",
+        "witness meetings",
+        "canceled",
+        "email",
+        "2021-04-29",
+        "event",
+        "hold",
+        "personal"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031625",
+      "summary": "On 2021-05-07, at 19:00:00 +0000, an Epstein FOIA call occurred via telephone. The call was classified as X-PERSONAL, had a priority of 5, and was created/modified on 2021-05-06. The attendee was EFTA00031625.",
+      "timestamp": "2021-05-07T00:00:00",
+      "timestamp_raw": "2021-05-07",
+      "keywords": [
+        "epstein",
+        "foia",
+        "call",
+        "2021-05-07",
+        "x-personal",
+        "redaction analysis",
+        "efta00031625"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016604",
+      "summary": "A tentative phone call occurred on June 4, 2021, from 16:00:00 to 16:30:00 GMT, regarding an Epstein FOIA case. The call was a dial-in and classified as X-PERSONAL with a priority of 5. The event was created and last modified on June 4, 2021. EFTA00016604 was the attendee.",
+      "timestamp": "2021-06-04T00:00:00",
+      "timestamp_raw": "June 4, 2021",
+      "keywords": [
+        "epstein foia",
+        "redaction analysis",
+        "efta00016604",
+        "call",
+        "2021-06-04",
+        "personal",
+        "dial-in",
+        "x-personal"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029530",
+      "summary": "A pre-meeting regarding a US v Noel/Epstein FOIA request was accepted on 2021-06-28 from 19:45:00 to 20:00:00 at Ms Office. The attendee was (USANYS) [REDACTED]. The event was classified as X-PERSONAL and created on 2021-06-27.",
+      "timestamp": "2021-06-28T00:00:00",
+      "timestamp_raw": "2021-06-28",
+      "keywords": [
+        "foia",
+        "redaction",
+        "efta00029530",
+        "us v noel/epstein",
+        "2021-06-28",
+        "pre-meeting",
+        "ms office",
+        "x-personal"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029532",
+      "summary": "A pre-meeting event occurred on 2021-06-28 at 19:45:00 +0000, organized by (USANYS), held in an office. The event was classified as X-PERSONAL. Attendees included (USANYS), (USANYS), and (USANYS). A reminder alarm was set to display 15 minutes before the start. The document identifier is EFTA00029532.",
+      "timestamp": "2021-06-28T00:00:00",
+      "timestamp_raw": "2021-06-28",
+      "keywords": [
+        "foia",
+        "usanys",
+        "efta00029532",
+        "pre-meeting",
+        "noel",
+        "epstein",
+        "2021-06-28",
+        "redaction analysis",
+        "personal",
+        "event"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010587",
+      "summary": "This document details a series of email exchanges between Joe Nascimento, attorney at ROSS AMSEL RABEN NASCIMENTO, PLLC, and an unidentified party (“cl” and others) concerning scheduling a meeting related to an ongoing investigation. The initial request was for a meeting on August 19th or 20th to discuss potential scheduling, with logistical details provided such as mask mandates, water fountain issues, and travel arrangements. Subsequent communications involved confirming vaccinations, requesting attendee information (name, date of birth, address), and finalizing the meeting date and time for August 20th. The conversations also included reminders about travel arrangements and various logistical considerations. There are multiple redactions throughout the document.",
+      "timestamp": "2021-08-19T00:00:00",
+      "timestamp_raw": "19 Aug 2021",
+      "keywords": [
+        "efta00010587",
+        "redaction",
+        "joe nascimento",
+        "epstein",
+        "vaccination",
+        "masks",
+        "miami",
+        "travel",
+        "attorney",
+        "schedule"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027572",
+      "summary": "Paulette Taylor sent a focus group questionnaire to [REDACTED] for review, requesting minimal comments by noon on September 21, 2021. Attached were proposed edits to the questionnaire, jury instructions, and a verdict sheet. Eight attendees from the Government were expected for the research exercise on Saturday.",
+      "timestamp": "2021-09-21T00:00:00",
+      "timestamp_raw": "September 21, 2021",
+      "keywords": [
+        "focus group questionnaire",
+        "redaction analysis",
+        "efta00027572",
+        "usanys",
+        "jury instructions",
+        "government",
+        "editing",
+        "research exercise",
+        "nyc",
+        "comments"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023457",
+      "summary": "On 2021-10-29 from 13:30:00 to 14:00:00 UTC, event EFTA00023457 was recorded as “Accepted” regarding a request related to the case United States v. Ghislaine Maxwell (S2 20 Cr. 330). The event was classified as X-PERSONAL, had a priority of 5, and involved the attendee EFTA00023457.",
+      "timestamp": "2021-10-29T00:00:00",
+      "timestamp_raw": "2021-10-29",
+      "keywords": [
+        "efta00023457",
+        "ghislaine maxwell",
+        "united states",
+        "touhy request",
+        "x-personal",
+        "2021-10-29",
+        "event",
+        "re",
+        "s2 20 cr 330",
+        "ajn"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016726",
+      "summary": "Bobbi Sternheim, an attorney, is communicating regarding logistics for teleconferences and an in-person conference related to the case *US v. Maxwell*. The communication lists attendees for the October 21 teleconference: Bobbi Sternheim, Christian Everdell, Laura Menninger, Jeffrey Pagliuca, Ann Lundberg, Ian Maxwell, Kevin Maxwell, Pandora Maxwell, Philip Maxwell, Anne Holve, Katie Vaughan Edwards, Brian Basham, Isabel Maxwell, Christine Maxwell, Leah Saffian, Jeff Roth, and others. The court requests estimates of participants for both conferences. For the November 1 in-person conference, counsel must provide attendee numbers, vaccination status, and specify who will speak. The court is implementing COVID-19 protocols and will enforce a one attorney speaking per issue rule.",
+      "timestamp": "2021-11-15T00:00:00",
+      "timestamp_raw": "15 Oct 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "bobbi sternheim",
+        "maxwell family",
+        "teleconference",
+        "pretrial conference",
+        "us v. maxwell",
+        "october 21",
+        "november 1",
+        "legal counsel",
+        "covid-19",
+        "court logistics"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019457",
+      "summary": "The document records a tentative event: United States v. Ghislaine Maxwell, scheduled for November 21, 2021, from 19:00:00 to 19:30:00 +0000. Allison Stoddart from Wilmer Hale is listed as an attendee. The event is classified as X-PERSONAL.",
+      "timestamp": "2021-11-21T00:00:00",
+      "timestamp_raw": "November 21, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states",
+        "event",
+        "allison stoddart",
+        "wilmerhale",
+        "redaction analysis",
+        "20 cr 330",
+        "ajn",
+        "2021-11-21",
+        "efta00019457"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026478",
+      "summary": "A United States Attorney’s Office representative is following up on a telephone conference scheduled for tomorrow at noon with Judge Nathan, involving the defendant. The conference details, including the defendant’s phone number and access code, were previously communicated by Bobbi Sternheim. An order regarding the conference, including separate dial-in options for press and public attendees, is attached.",
+      "timestamp": "2021-11-21T00:00:00",
+      "timestamp_raw": "21 Oct 2021",
+      "keywords": [
+        "telephone conference",
+        "nathan",
+        "united states attorney",
+        "court",
+        "order",
+        "october 21",
+        "defendant",
+        "access code",
+        "press",
+        "public"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016467",
+      "summary": "A preparatory call, designated “227815.002 USA V GHISLAINE MAXWELL 20 CR 330 (AJN),” took place on November 24, 2021, from 2:00 PM to 2:30 PM UTC (Eastern Time). The call was organized by “testimony” and held via a Microsoft Teams meeting at att@m.webex.com, with a phone conference ID available. The event was classified as X-PERSONAL.",
+      "timestamp": "2021-11-24T00:00:00",
+      "timestamp_raw": "November 24, 2021",
+      "keywords": [
+        "efta00016467",
+        "ghislaine maxwell",
+        "usa v",
+        "testimony",
+        "microsoft teams",
+        "webex",
+        "20 cr 330",
+        "2021-11-24",
+        "houston",
+        "phone conference id",
+        "attendee"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038894",
+      "summary": "An event, designated “227815.002 USA V GHISLAINE MAXWELL 20 CR 330 (AJN),” took place on November 24, 2021, from 2:00 PM to 2:30 PM (UTC-05:00) Eastern Time. The event was a preparation call held via Microsoft Teams and involved attendees [REDACTED] and [REDACTED]. The event was created on November 24, 2021, at 3:25 PM and last modified on November 24, 2021, at 7:01 PM. The event’s priority was 5.",
+      "timestamp": "2021-11-24T00:00:00",
+      "timestamp_raw": "November 24, 2021",
+      "keywords": [
+        "efta00038894",
+        "ghislaine maxwell",
+        "usa v",
+        "227815.002",
+        "20 cr 330",
+        "ajn",
+        "meeting",
+        "att prep call",
+        "2021-11-24",
+        "microsoft teams"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019419",
+      "summary": "An email discusses the trial of Ghislaine Maxwell, scheduled to take place in the Southern District of New York (40 Foley, courtroom 318) on November 28, 2021, starting at 8:30 AM. The email details logistical information for attendees, including courtroom locations and timing, and emphasizes the prosecution’s intention to prove sex crimes allegedly occurring in 1994 and the exploitation of underage girls. The sender identifies as an Assistant United States Attorney from the Southern District of New York.",
+      "timestamp": "2021-11-28T00:00:00",
+      "timestamp_raw": "November 28, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "sex crimes",
+        "united states v.",
+        "florida",
+        "southern district of new york",
+        "justice",
+        "underage girls",
+        "trial",
+        "peremptory challenges",
+        "courtroom"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00022130",
+            "similarity": 0.538,
+            "index": 181,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00014900",
+            "similarity": 0.615,
+            "index": 182,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00029421",
+            "similarity": 0.538,
+            "index": 185,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00022130",
+      "summary": "A meeting invitation is being sent regarding the trial of Ghislaine Maxwell. The trial will take place in the Southern District of New York, specifically courtroom 318, and is scheduled to begin at 8:30 a.m. on November 29, 2021. The purpose of the trial is to prosecute Maxwell for sexually exploiting underage girls. Attendees are advised to arrive early due to expected high attendance.",
+      "timestamp": "2021-11-29T00:00:00",
+      "timestamp_raw": "November 29, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "sex crimes",
+        "florida",
+        "united states v.",
+        "justice",
+        "jury",
+        "underage girls",
+        "courtroom",
+        "prosecutors",
+        "opening statements"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00019419",
+            "similarity": 0.538,
+            "index": 180,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00014900",
+            "similarity": 0.5,
+            "index": 182,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00029422",
+            "similarity": 0.538,
+            "index": 187,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00014900",
+      "summary": "An email chain discusses the upcoming trial of Ghislaine Maxwell, scheduled for November 29, 2021. The email indicates prosecutors intend to pursue charges related to alleged sex crimes occurring in 1994. The trial will take place in the Southern District of New York, specifically courtroom 318, with overflow options. The email details the trial’s timing, including a 8:30 AM start with peremptory challenges and opening statements, and advises attendees to arrive early. The core message emphasizes the pursuit of justice for alleged victims of Ghislaine Maxwell’s actions.",
+      "timestamp": "2021-11-29T00:00:00",
+      "timestamp_raw": "November 29, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states v.",
+        "sex crimes",
+        "florida",
+        "southern district of new york",
+        "justice",
+        "jury",
+        "prosecutrs",
+        "underage girls",
+        "trial",
+        "new york"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00022130",
+            "similarity": 0.5,
+            "index": 181,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019419",
+            "similarity": 0.615,
+            "index": 180,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00031250",
+            "similarity": 0.5,
+            "index": 184,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00010945",
+            "similarity": 0.615,
+            "index": 186,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00029422",
+            "similarity": 0.615,
+            "index": 187,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00010943",
+      "summary": "*   **Trial Details:** The trial began on November 29, 2021, with jury selection, and involved procedures for public access including live feeds from overflow rooms due to COVID-19 protocols. *   **COVID-19 Protocols:** Attendees were required to complete a questionnaire, have their temperature taken, and wear approved masks within the S.D.N.Y. courthouse. *   **Information Update Request:** Edward Friedland requested an update to a webpage regarding access to the trial, specifically requesting the latest order outlining in-person access instead of telephone access. *   **Resource Link:** Joseph Pecorino provided a link to the U.S. Attorney's Office website with information about the case.",
+      "timestamp": "2021-11-29T00:00:00",
+      "timestamp_raw": "November 29, 2021",
+      "keywords": [
+        "maxwell link",
+        "ghislaine maxwell",
+        "s.d.n.y. court",
+        "covid-19",
+        "trial",
+        "victim attendance",
+        "united states v.",
+        "edward friedland",
+        "joseph pecorino"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031250",
+      "summary": "A message is being sent to various legal and investigative entities regarding the trial of Ghislaine Maxwell in the Southern District of New York. The message expresses a desire for support at the trial, highlighting the prosecution’s intention to prove sex crimes allegedly occurring in 1994. The trial is scheduled to begin at 8:30 a.m. with preliminary instructions and opening statements, and attendees are advised to arrive early. Courtroom locations and overflow options are provided.",
+      "timestamp": "2021-12-28T00:00:00",
+      "timestamp_raw": "28 Nov 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states",
+        "sex crimes",
+        "prosecution",
+        "florida",
+        "jury",
+        "justice",
+        "legal",
+        "trial",
+        "new york"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00014900",
+            "similarity": 0.5,
+            "index": 182,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00029421",
+            "similarity": 0.538,
+            "index": 185,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00029422",
+            "similarity": 0.538,
+            "index": 187,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00029421",
+      "summary": "An email chain discusses the upcoming trial of Ghislaine Maxwell in the Southern District of New York. It expresses confidence in prosecutors willing to pursue sex crime charges from 1994 and highlights the importance of seeking justice and holding Maxwell accountable for sexually exploiting underage girls. The email provides logistical details for the trial, including courtroom locations, timing (starting at 8:30 a.m.), and instructions for attendees.",
+      "timestamp": "2021-12-28T00:00:00",
+      "timestamp_raw": "28 Nov 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states v.",
+        "sex crimes",
+        "florida",
+        "justice",
+        "jurors",
+        "prosecution",
+        "legal",
+        "courtroom",
+        "trial"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00031250",
+            "similarity": 0.538,
+            "index": 184,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019419",
+            "similarity": 0.538,
+            "index": 180,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00029422",
+            "similarity": 0.538,
+            "index": 187,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00010945",
+      "summary": "A legal team from the Southern District of New York is proceeding with the trial of Ghislaine Maxwell, focusing on allegations of sexual exploitation and harm to underage girls. Jury selection is underway, with preliminary instructions and opening statements expected to begin at 8:30 a.m. Multiple courtrooms are available to accommodate anticipated attendance, and attendees are advised to arrive early. The prosecution intends to present evidence of Maxwell’s actions to a jury.",
+      "timestamp": "2021-12-29T00:00:00",
+      "timestamp_raw": "29 Nov 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "usanys-criminalausas",
+        "sex crimes",
+        "jury",
+        "florida",
+        "southern district of new york",
+        "1994",
+        "underage girls",
+        "justice",
+        "trial"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00014900",
+            "similarity": 0.615,
+            "index": 182,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019419",
+            "similarity": 0.538,
+            "index": 180,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00029422",
+            "similarity": 0.667,
+            "index": 187,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00029422",
+      "summary": "An email chain discusses the upcoming trial of Ghislaine Maxwell, focusing on the prosecution of sex crimes allegedly committed in 1994. The sender highlights the difficulty prosecutors face in pursuing such a case and emphasizes the importance of justice and truth. Trial details are provided, including courtroom locations (40 Foley, courtroom 318, and overflow courtrooms 110, 506, 905, and 906), timing (starting at 8:30 a.m. with peremptory challenges and opening statements), and logistical recommendations for attendees. The email originates from the Assistant United States Attorney for the Southern District of New York.",
+      "timestamp": "2021-12-29T00:00:00",
+      "timestamp_raw": "29 Nov 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states v.",
+        "sex crimes",
+        "prosecution",
+        "florida",
+        "jury",
+        "justice",
+        "underage girls",
+        "1994",
+        "trial"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00010945",
+            "similarity": 0.667,
+            "index": 186,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00029421",
+            "similarity": 0.538,
+            "index": 185,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00031250",
+            "similarity": 0.538,
+            "index": 184,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038883",
+      "summary": "On March 8, 2022, from 15:00 to 18:30, there was an external email regarding a hearing for Ghislaine Maxwell. The hearing was to take place in Courtroom 110, 40 Foley. Attendees were required to complete a COVID-19 questionnaire and wear an N95, KN95, or KF94 mask within the courthouse. Failure to comply with these protocols would result in removal from the courthouse. The hearing was ordered by Judge Alison J. Nathan on March 3, 2022.",
+      "timestamp": "2022-03-08T00:00:00",
+      "timestamp_raw": "March 8, 2022",
+      "keywords": [
+        "ghislaine maxwell",
+        "hearing",
+        "juror",
+        "courtroom",
+        "covid-19",
+        "s.d.n.y.",
+        "order",
+        "motion for a new trial",
+        "new york",
+        "2022-03-08"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038995",
+      "summary": "An external email event, titled “In re Epstein: FBI [REDACTED] Video Review,” took place on 2023-05-23 from 20:00 to 21:00 at Patterson Belknap, organized by Ruzumna and Daniel. The event was classified as X-PERSONAL. Lauren Doxey was a listed attendee. A reminder message was to be displayed 15 minutes before the start. The email contains privileged/confidential information with specific handling instructions. EFTA00038996 is also referenced.",
+      "timestamp": "2023-05-23T00:00:00",
+      "timestamp_raw": "2023-05-23",
+      "keywords": [
+        "epstein",
+        "fbi",
+        "redaction",
+        "email",
+        "video review",
+        "2023-05-23",
+        "ruzumna",
+        "daniel",
+        "patterson belknap",
+        "x-personal"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019845",
+      "summary": "An event, categorized as “X-PERSONAL,” occurred as a “Proffer.” It was created on November 26, 2025, with a priority of 5.  Attendees included [REDACTED], [REDACTED], and an FBI agent ([NY] – FBI) [REDACTED]. The document is associated with the identifier EFTA00019845.",
+      "timestamp": "2025-11-26T00:00:00",
+      "timestamp_raw": "November 26, 2025",
+      "keywords": [
+        "redaction",
+        "event",
+        "proffer",
+        "fbi",
+        "efta00019845",
+        "personal",
+        "x-personal",
+        "priority",
+        "date",
+        "organizer"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00019846",
+            "similarity": 0.545,
+            "index": 191,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00019846",
+      "summary": "An event, classified as X-PERSONAL, titled “Proffer,” was created on 2025-11-26. The organizer is redacted, and attendees include redacted individuals and FBI agent [REDACTED]. The event has a priority level of 5 and is associated with the identifier EFTA00019846.",
+      "timestamp": "2025-11-26T00:00:00",
+      "timestamp_raw": "2025-11-26",
+      "keywords": [
+        "redaction",
+        "efta00019846",
+        "proffer",
+        "fbi",
+        "personal",
+        "event",
+        "x-personal"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00019845",
+            "similarity": 0.545,
+            "index": 190,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019172",
+      "summary": "A meeting is scheduled for December 17th at 10:30 AM at USA0 in Miami to discuss “Op Stolen Globe” and a potential new investigation involving Jeffrey Epstein or others. The FBI is requested to be present. The sender is located in South Carolina and Colombia, and requests confirmation of attendees to inform superiors.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00019172",
+        "op stolen globe",
+        "jeffrey epstein",
+        "fbi",
+        "miami",
+        "december 17th",
+        "investigation",
+        "south carolina",
+        "colombia",
+        "west palm beach"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00006025",
+      "summary": "This document is an attendance and expense report related to a case investigation, likely involving a victim and related personnel. It contains a list of attendees, contact information (including addresses across multiple states), a breakdown of stall expenses (mileage, lodging, etc.), travel arrangements, and flight details. Key data points include: *   **Attendees:** A list of names and affiliations (e.g., Victim, Attorney, Guest, Therapist, FBI Agents). *   **Contact Information:** Addresses for victims and guests in various locations (Las Vegas, Miami, Asheville, etc.). *   **Expenses:** Mileage reimbursement, lodging costs, and other travel-related expenditures. *   **Travel Arrangements:** Details of flights, arrival/departure times, and hotel reservations. *   **Notes:**  Includes reasons for flight cancellations (illness, weather) and a request for a one-way ticket to Miami. *   **Exemption Certificate:** A form related to federal employee purchases, used to justify expenditures.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "victim",
+        "attorney",
+        "guest",
+        "name",
+        "flight",
+        "travel",
+        "address",
+        "mileage",
+        "florida",
+        "date",
+        "booking",
+        "conference",
+        "hotel",
+        "efta00006025"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    }
+  ]
+}

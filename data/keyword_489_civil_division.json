@@ -1,0 +1,986 @@
+{
+  "keyword": "civil division",
+  "count": 27,
+  "keyword_match_count": 27,
+  "content_match_count": 4,
+  "total_files": 31,
+  "timeline": [
+    {
+      "file_id": "EFTA00029018",
+      "summary": "An Assistant U.S. Attorney in New York inquired about a potential FOIA request related to the Jeffrey Epstein investigation being processed by the civil division. The inquiry stemmed from hearing about the request second-hand and expressed confusion regarding its venue in the SDNY court. The Assistant U.S. Attorney offered to assist in identifying the appropriate contact person within the civil division.",
+      "timestamp": "2019-06-12T00:00:00",
+      "timestamp_raw": "12 Jun 2019",
+      "keywords": [
+        "foia",
+        "epstein",
+        "investigation",
+        "civil division",
+        "usanys",
+        "assistant u.s. attorney",
+        "criminal investigation",
+        "request",
+        "review",
+        "sdny"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00029019",
+            "similarity": 0.538,
+            "index": 1,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00029019",
+      "summary": "An Assistant U.S. Attorney from the Southern District of New York (USANYS) received a message regarding a Freedom of Information Act (FOIA) request related to the Jeffrey Epstein investigation. The request originated from a colleague who heard second-hand information through the civil division. The Assistant U.S. Attorney inquired about the appropriate contact person within the civil division to discuss FOIA processes and expressed willingness to assist.",
+      "timestamp": "2019-06-12T00:00:00",
+      "timestamp_raw": "12 Jun 2019",
+      "keywords": [
+        "foia",
+        "epstein",
+        "investigation",
+        "civil division",
+        "usanys",
+        "southern district of new york",
+        "redaction",
+        "request",
+        "colleague",
+        "criminal investigation"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00029018",
+            "similarity": 0.538,
+            "index": 0,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018184",
+      "summary": "A meeting was held between [REDACTED] and [REDACTED] regarding the Civil Division’s schedule, specifically in relation to the Epstein papers. The discussion centered on whether to postpone or delay a scheduled meeting.",
+      "timestamp": "2019-07-12T00:00:00",
+      "timestamp_raw": "12 Jul 2019",
+      "keywords": [
+        "efta00018184",
+        "redaction analysis",
+        "epstein papers",
+        "civil division",
+        "meeting",
+        "postponement",
+        "2019",
+        "july",
+        "12"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028094",
+      "summary": "*   The requestor, the sole heir and next of kin, seeks information previously released to the New York Times via a FOIA request. *   The request includes a copy of a video tape from August 9, 2019, showing activity outside the SHU before Epstein’s death, and information about inmates on that tier and personnel involved. *   The requestor is specifically seeking details regarding the circumstances surrounding the movement of Epstein’s body before the medical examiner arrived and any related incident reports. *   Guidance was provided to submit a FOIA request to the BOP, referencing the NYT release, and a civil division of the office would forward the request.",
+      "timestamp": "2019-08-09T00:00:00",
+      "timestamp_raw": "August 9, 2019",
+      "keywords": [
+        "bop",
+        "foia",
+        "fbi",
+        "jeffrey epstein",
+        "new york times",
+        "video",
+        "shu",
+        "inmate",
+        "request",
+        "death",
+        "custody"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032389",
+      "summary": "On August 20, 2019, Michael C. Miller of Steptoe & Johnson LLP contacted Michael Miller regarding requests for disclosure related to the United States v. Jeffrey Epstein case (19-CRIM-00490, S.D.N.Y.).  AUSA from the Southern District of New York would handle Touhy requests. Due to the defendant’s death and an anticipated nolle prosequi order, no further productions were planned. Service of materials would be provided to Miller but not to other entities, including the MCC and FBI. Correspondence was attached for reference.",
+      "timestamp": "2019-08-20T00:00:00",
+      "timestamp_raw": "August 20, 2019",
+      "keywords": [
+        "epstein",
+        "jeffrey",
+        "sdny",
+        "usao",
+        "touhy",
+        "civil division",
+        "united states v.",
+        "michael miller",
+        "steptoe & johnson",
+        "doj"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019659",
+      "summary": "An email chain discusses requests for disclosure related to the United States v. Jeffrey Epstein case (19-CRIM-00490). Michael Miller, a partner at Steptoe & Johnson LLP, responds to Michael C. Miller’s request for letters sent by Steptoe regarding requests for disclosure, noting that due to Epstein’s death and a proposed nolle prosequi, no further productions will occur.  The correspondence indicates the DOJ’s Touhy regulations are being followed and that the office will not accept service for separate entities. Copies of the letters are provided as a courtesy for service to the MCC and FBI.",
+      "timestamp": "2019-08-21T00:00:00",
+      "timestamp_raw": "21 Aug 2019",
+      "keywords": [
+        "epstein",
+        "jeffrey",
+        "united states v.",
+        "s.d.n.y.",
+        "touhy regulations",
+        "steptoe",
+        "civil division",
+        "criminal case",
+        "nolle prosequi"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032755",
+      "summary": "On September 3, 2019, an email was sent from USANYS to the FBI regarding responses to requests from Epstein’s lawyers related to the Touhy case. AUSA in the Civil Division was handling the requests and needed contact information for “Thanksl” (EFTA00032755). An attached PDF, 8.20.19_Epstein_Letter_to_FBI-c2.pdf, was included.",
+      "timestamp": "2019-09-03T00:00:00",
+      "timestamp_raw": "September 3, 2019",
+      "keywords": [
+        "epstein",
+        "fbi",
+        "touhy",
+        "usanys",
+        "civil division",
+        "ausa",
+        "requests",
+        "correspondence",
+        "2019",
+        "contact information"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00029306",
+            "similarity": 0.667,
+            "index": 7,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00029306",
+      "summary": "An email chain discusses a response to requests from Epstein’s lawyers regarding the Touhy case. An AUSA in the Civil Division of the USANYs requested contact information for an FBI POC, likely related to an attached document. The email thread involves individuals from the USANYs, FBI, OGA, and potentially other redacted entities.",
+      "timestamp": "2019-09-04T00:00:00",
+      "timestamp_raw": "04 Sep 2019",
+      "keywords": [
+        "epstein",
+        "touhy",
+        "fbi",
+        "usanys",
+        "oga",
+        "civil division",
+        "requests",
+        "redaction",
+        "ausa",
+        "contact information"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00032755",
+            "similarity": 0.667,
+            "index": 6,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031090",
+      "summary": "On December 31, 2019, a U.S. Attorney in the Southern District of New York discussed a request from plaintiff counsel (Robbie Kaplan at Kaplan Hecker) for documents related to an investigation involving Epstein and his estate. The Attorney was awaiting a formal request and was considering implementing a system for handling such requests, initially suggesting Touhy Requests directed to a Civil Division person. The Attorney was seeking confirmation of this person and wanted to respond to Kaplan’s narrow request promptly, given a forthcoming status conference on January 10th.",
+      "timestamp": "2019-12-31T00:00:00",
+      "timestamp_raw": "December 31, 2019",
+      "keywords": [
+        "epstein case",
+        "plaintiff counsel",
+        "redaction analysis",
+        "touhy requests",
+        "civil division",
+        "robbie kaplan",
+        "kaplan hecker",
+        "usanys",
+        "requests",
+        "investigation"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00031089",
+            "similarity": 0.538,
+            "index": 9,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00031089",
+      "summary": "On December 31, 2019, an Assistant U.S. Attorney from the Southern District of New York contacted [REDACTED] regarding requests from plaintiff counsel, specifically Robbie Kaplan at Kaplan Hecker, seeking information related to an investigation of Jeffrey Epstein and his estate. The Attorney was following up on a previous discussion about establishing a process for handling these requests, suggesting the use of Touhy Requests directed to a designated Civil Division person. The Attorney sought confirmation of this plan and requested information on the identity of that person, emphasizing the urgency due to an upcoming status conference for Kaplan’s case on January 10th.",
+      "timestamp": "2019-12-31T00:00:00",
+      "timestamp_raw": "December 31, 2019",
+      "keywords": [
+        "epstein",
+        "plaintiff counsel",
+        "documents",
+        "touhy requests",
+        "kaplan hecker",
+        "civil division",
+        "requests",
+        "investigation",
+        "status conference",
+        "usanys"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00031090",
+            "similarity": 0.538,
+            "index": 8,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00031088",
+            "similarity": 0.818,
+            "index": 30,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00022144",
+      "summary": "A U.S. Attorney’s office (USANYS) is responding to a request for documents from plaintiff counsel (Robbie Kaplan at Kaplan Hecker) regarding an investigation involving Jeffrey Epstein’s suicide. The criminal team offers assistance to civil USAs handling the requests, suggesting a formal division to establish protocol. The USANYS is considering directing counsel to submit Touhy Requests and designating a Civil Division person to receive them. The request from Kaplan Hecker is narrow and time-sensitive, with a status conference scheduled for January 10th.",
+      "timestamp": "2019-12-31T00:00:00",
+      "timestamp_raw": "December 31, 2019",
+      "keywords": [
+        "epstein",
+        "civil division",
+        "ausa",
+        "requests",
+        "counsel",
+        "litigation",
+        "touhy requests",
+        "kaplan hecker",
+        "status conference"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028559",
+      "summary": "The email, dated January 31, 2020, outlines the following tasks: SCFU update (10:00), MLOC update (2:00), review of the Ray draft, Epstein trust documents, Will, Fed/Karl transfer, Civil Division follow-up, Henley sell, and a sex trafficking memo. The email is associated with document EFTA00028559.",
+      "timestamp": "2020-01-31T00:00:00",
+      "timestamp_raw": "January 31, 2020",
+      "keywords": [
+        "efta00028559",
+        "scfu",
+        "mloc",
+        "ray draft",
+        "epstein trust documents",
+        "will",
+        "fed/karl",
+        "civil division",
+        "henley sell",
+        "sex trafficking"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027443",
+      "summary": "On May 12, 2020, an email exchange occurred regarding a FOIA request related to Epstein. [REDACTED] passed along contact information to [REDACTED], who would then forward it to their General Counsel’s Office. An AUSA in the Civil Division was handling the request and potentially coordinating with OIG.",
+      "timestamp": "2020-05-12T00:00:00",
+      "timestamp_raw": "May 12, 2020",
+      "keywords": [
+        "foia",
+        "redaction",
+        "ausa",
+        "epstein",
+        "oig",
+        "general counsel",
+        "contact info",
+        "civil division",
+        "request",
+        "matter"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032045",
+      "summary": "On July 6, 2020, two individuals, [REDACTED] and [REDACTED], discussed trust-related matters concerning the Epstein estate. [REDACTED] informed [REDACTED] that [REDACTED] was handling CIDs and that [REDACTED] was considering a departure date of July 20th. There was a planned call on July 7th to discuss these matters. [REDACTED] had previously been handling trust issues before taking leave, and expressed a desire to consult with [REDACTED] during their remaining two weeks.",
+      "timestamp": "2020-07-06T00:00:00",
+      "timestamp_raw": "July 6, 2020",
+      "keywords": [
+        "efta00032045",
+        "redaction",
+        "cids",
+        "trust-related",
+        "epstein",
+        "departure",
+        "civil division",
+        "email",
+        "july 20",
+        "negotiations"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030904",
+      "summary": "The U.S. Department of Justice, via Acting United States Attorney Audrey Strauss, responded to a request from Jeffrey S. Pagliuca, Esq., regarding the use of discovery materials from the criminal case *United States v. Ghislaine Maxwell* (Bates Nos. SDNY GM _ 00000834 through SDNY_ GM_ 00000962) in a civil lawsuit. The Government maintains that the materials remain under seal due to ongoing investigation and a Protective Order restricting their use to the defense of the criminal case. The Protective Order explicitly prohibits using the discovery materials in any civil proceeding. If the request is made in the capacity of Ms. Maxwell’s attorney in a civil lawsuit, the Government directs Pagliuca to utilize Freedom of Information Act requests or Toughy requests, referring him to the Civil Division for assistance.",
+      "timestamp": "2020-08-12T00:00:00",
+      "timestamp_raw": "August 12, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states v.",
+        "discovery materials",
+        "protective order",
+        "civil lawsuit",
+        "criminal investigation",
+        "justice department",
+        "sdny",
+        "efta00030904"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021902",
+      "summary": "The U.S. Department of Justice, via Acting U.S. Attorney Audrey Strauss, is responding to a request from Jeffrey S. Pagliuca regarding the use of discovery materials from the Ghislaine Maxwell criminal case (Bates Nos. SDNY GM 00000834-00000962) in a civil lawsuit. The government maintains that the materials remain under seal due to an ongoing grand jury investigation and a Protective Order limiting their use to the criminal defense. They assert that Pagliuca’s request is unclear regarding his role (defense counsel vs. civil attorney) and that any attempt to access the materials through FOIA or a Toughy request would be subject to the Protective Order’s restrictions. The government directs Pagliuca to contact the Civil Division for assistance.",
+      "timestamp": "2020-08-12T00:00:00",
+      "timestamp_raw": "August 12, 2020",
+      "keywords": [
+        "united states",
+        "justice",
+        "ghislaine maxwell",
+        "civil lawsuit",
+        "discovery materials",
+        "grand jury investigation",
+        "protective order",
+        "freedom of information act",
+        "criminal case"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015895",
+      "summary": "The document is a series of email exchanges regarding a request for assistance in locating documents related to the Epstein/Maxwell investigation. Key points include: *   Requests to contact individuals within the Southern District of New York’s (SDFL) Criminal Division, specifically the Criminal Chief, to locate relevant files. *   Discussions about contacting OPR and NDGA for document custodians. *   Confirmation of limited contact with a USANAYS AUSA in the SDFL civil division. *   Scheduling a meeting for July 22nd to discuss document location and potential review. *   The primary goal is to ascertain what hard-copy materials remain in the SDFL related to the case.",
+      "timestamp": "2020-08-19T00:00:00",
+      "timestamp_raw": "19 Aug 2020",
+      "keywords": [
+        "epstein/maxwell",
+        "sdfl",
+        "usanys",
+        "opr",
+        "criminal division",
+        "document collection",
+        "ghislaine maxwell",
+        "cvra litigation",
+        "recusal",
+        "discovery requests"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023767",
+      "summary": "A U.S. Attorney’s Office, Civil Division employee (identified as “Chief”) sent a letter to Mr. Scarola regarding a potential request to the Department of Justice for material relating to Jeffrey Epstein. The letter offers assistance with the process and provides contact information.",
+      "timestamp": "2021-02-17T00:00:00",
+      "timestamp_raw": "17 Feb 2021",
+      "keywords": [
+        "jeffrey epstein",
+        "doj",
+        "redaction",
+        "request",
+        "u.s. attorney's office",
+        "sdny",
+        "civil division",
+        "searola touhy",
+        "material"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028848",
+      "summary": "An Assistant United States Attorney from the Southern District of New York is requesting information regarding Jeffrey Epstein-related FOIA lawsuits handled by the Civil Division. They are specifically seeking a list of these lawsuits (pending or historical) and inquiring about potential guidance or alternative contacts within the Civil Division. The request originated from an email chain involving [REDACTED] and [REDACTED].",
+      "timestamp": "2021-03-12T00:00:00",
+      "timestamp_raw": "12 Mar 2021",
+      "keywords": [
+        "jeffrey epstein",
+        "foia",
+        "civil division",
+        "usanys",
+        "discovery",
+        "judge engelmayer",
+        "lawsuits",
+        "redaction",
+        "email",
+        "southern district of new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00018986",
+            "similarity": 0.667,
+            "index": 19,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00031587",
+            "similarity": 0.538,
+            "index": 20,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00030099",
+            "similarity": 0.636,
+            "index": 21,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00018986",
+      "summary": "An email chain discusses locating a list of all Jeffrey Epstein-related FOIA lawsuits handled by the Civil Division of the Southern District of New York. One individual is tasked with finding this list, potentially involving a SONY case against the FBI, and suggests contacting Judge Engelmayer and the civil clerk.  The original sender is an Assistant United States Attorney from the Southern District of New York.",
+      "timestamp": "2021-03-12T00:00:00",
+      "timestamp_raw": "12 Mar 2021",
+      "keywords": [
+        "jeffrey epstein",
+        "foia",
+        "civil division",
+        "fbi",
+        "litigation",
+        "redaction",
+        "usanys",
+        "judge engelmayer",
+        "discovery",
+        "lawsuits"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00028848",
+            "similarity": 0.667,
+            "index": 18,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00031587",
+            "similarity": 0.538,
+            "index": 20,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00030099",
+            "similarity": 0.636,
+            "index": 21,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00031587",
+      "summary": "An email chain discusses a request for a list of all Jeffrey Epstein-related FOIA lawsuits handled by the Civil Division of the Southern District of New York. The sender is seeking information from the Civil Division, specifically regarding how to track down this list, and identifies individuals including [REDACTED] and [REDACTED] as potential contacts. The email references a criminal discovery matter and an ongoing FOIA request.",
+      "timestamp": "2021-03-16T00:00:00",
+      "timestamp_raw": "16 Mar 2021",
+      "keywords": [
+        "jeffrey epstein",
+        "foia",
+        "civil division",
+        "lawsuit",
+        "discovery",
+        "usanys",
+        "redaction",
+        "civil clerks",
+        "judge engelmayer",
+        "criminal matter"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00018986",
+            "similarity": 0.538,
+            "index": 19,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028848",
+            "similarity": 0.538,
+            "index": 18,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00030099",
+            "similarity": 0.5,
+            "index": 21,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00031941",
+            "similarity": 0.538,
+            "index": 23,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00030099",
+      "summary": "An Assistant United States Attorney from the Southern District of New York is requesting a list of all Jeffrey Epstein-related FOIA lawsuits handled by the Civil Division. They are contacting a colleague, [REDACTED], who handles the main matter before Judge Engelmayer, and a civil clerk, to investigate this request. The request originated from a follow-up email chain regarding FOIA inquiries related to Jeffrey Epstein.",
+      "timestamp": "2021-03-16T00:00:00",
+      "timestamp_raw": "16 Mar 2021",
+      "keywords": [
+        "jeffrey epstein",
+        "foia",
+        "civil division",
+        "usanys",
+        "lawsuits",
+        "discovery",
+        "judge engelmayer",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00031587",
+            "similarity": 0.5,
+            "index": 20,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00018986",
+            "similarity": 0.636,
+            "index": 19,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028848",
+            "similarity": 0.636,
+            "index": 18,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00021362",
+            "similarity": 0.636,
+            "index": 22,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00021362",
+      "summary": "Two FOIA cases related to Jeffrey Epstein were identified: one before Judge Engelmayer (NY Times) and one before Judge Gardephe (Radar Online) – Case 17 Civ. 3956 (PGG).  An Assistant United States Attorney from the Southern District of New York is requesting a list of all Jeffrey Epstein-related FOIA lawsuits handled by the Civil Division, specifically inquiring about tracking this information and suggesting contacting relevant individuals within the division.",
+      "timestamp": "2021-03-17T00:00:00",
+      "timestamp_raw": "17 Mar 2021",
+      "keywords": [
+        "jeffrey epstein",
+        "foia",
+        "civil division",
+        "usanys",
+        "redaction analysis",
+        "judge engelmayer",
+        "judge gardephe",
+        "civil clerks",
+        "lawsuits",
+        "discovery matter"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00030099",
+            "similarity": 0.636,
+            "index": 21,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00031941",
+            "similarity": 0.538,
+            "index": 23,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00031941",
+      "summary": "Emails between individuals within the Southern District of New York's Civil Division discuss a request for a list of all Jeffrey Epstein-related FOIA lawsuits. One individual confirms that only two FOIA cases exist: the NY Times case before Judge Engelmayer and the Radar Online case before Judge Gardephe (17 Civ. 3956 (PGG)). Another individual is copying someone who handles the main matter before Judge Engelmayer and the civil clerk to assist in locating the requested list.",
+      "timestamp": "2021-03-17T00:00:00",
+      "timestamp_raw": "17 Mar 2021",
+      "keywords": [
+        "jeffrey epstein",
+        "foia",
+        "civil division",
+        "usanys",
+        "judge engelmayer",
+        "radar online",
+        "ny times",
+        "civil clerks",
+        "discovery matter",
+        "redaction"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00021362",
+            "similarity": 0.538,
+            "index": 22,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00031587",
+            "similarity": 0.538,
+            "index": 20,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025060",
+      "summary": "An email chain discusses forwarding a request for records released to the New York Times regarding a case involving Jeffrey Epstein. One individual (identified as “”) is instructed to submit a FOIA request to the BOP, providing a copy to another individual (“”) who will then forward it to the Civil Division of the Office. The initial request originates from someone seeking all records released to the NYT.",
+      "timestamp": "2021-11-26T00:00:00",
+      "timestamp_raw": "26 Oct 2021",
+      "keywords": [
+        "foia",
+        "request",
+        "bop",
+        "nyt",
+        "epstein",
+        "records",
+        "civil division",
+        "redaction",
+        "efta00025060",
+        "jeffrey"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00025055",
+            "similarity": 0.538,
+            "index": 27,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028026",
+            "similarity": 0.538,
+            "index": 28,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00028030",
+      "summary": "An individual (EFTA00028031) requested a copy of records released to the New York Times regarding their brother’s case involving Jeffrey Epstein. A previous sender (EFTA00028030) advised forwarding such requests to them, who would then pass them to BOP and ensure the Civil Division of their Office receives the copy of the FOIA request. The initial sender had previously informed the recipient that the requester needed to submit a FOIA request to BOP specifically referencing the NYT release.",
+      "timestamp": "2021-11-26T00:00:00",
+      "timestamp_raw": "26 Oct 2021",
+      "keywords": [
+        "foia",
+        "request",
+        "bop",
+        "new york times",
+        "jeffrey epstein",
+        "redaction",
+        "civil division",
+        "records",
+        "email",
+        "efta00028030"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00025058",
+            "similarity": 0.818,
+            "index": 26,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00025055",
+            "similarity": 0.667,
+            "index": 27,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028026",
+            "similarity": 0.538,
+            "index": 28,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00025058",
+      "summary": "An individual (referred to as \"Hi,\") requested copies of all records released to the New York Times regarding their brother’s case (Jeffrey Epstein) through a FOIA request to the Bureau of Prisons (BOP). The sender of the initial request, Mr. [REDACTED], instructed the recipient to submit the FOIA request and provide a copy. He would then forward the request to the Civil Division of their Office, noting that the request specifically pertains to the records already released to the NYT.",
+      "timestamp": "2021-11-26T00:00:00",
+      "timestamp_raw": "26 Oct 2021",
+      "keywords": [
+        "foia",
+        "bop",
+        "new york times",
+        "jeffrey epstein",
+        "records",
+        "request",
+        "civil division",
+        "scotland",
+        "redaction",
+        "email"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00028030",
+            "similarity": 0.818,
+            "index": 25,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00025055",
+            "similarity": 0.667,
+            "index": 27,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028026",
+            "similarity": 0.538,
+            "index": 28,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00025055",
+      "summary": "An individual (identified as \"Scanned by McAfee and confirmed virus-free\") requested a copy of all records released to the New York Times regarding their brother Jeffrey Epstein’s case through the Bureau of Prisons (BOP). Another individual ([REDACTED]) advised the requester to submit a FOIA request to the BOP specifically requesting the NYT-released materials, and offered to forward the request to the Civil Division of their Office, stating that their division does not handle FOIA requests. A previous discussion occurred over the summer regarding this matter, where the requester’s brother had not submitted a request.",
+      "timestamp": "2021-11-26T00:00:00",
+      "timestamp_raw": "26 Oct 2021",
+      "keywords": [
+        "foia",
+        "request",
+        "bop",
+        "nyt",
+        "jeffrey epstein",
+        "records",
+        "civil division",
+        "redaction",
+        "efta00025055",
+        "email"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00025058",
+            "similarity": 0.667,
+            "index": 26,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028030",
+            "similarity": 0.667,
+            "index": 25,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00025060",
+            "similarity": 0.538,
+            "index": 24,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00028026",
+            "similarity": 0.667,
+            "index": 28,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00028026",
+      "summary": "An individual (EFTA00028026) requested a copy of records released to the New York Times regarding their brother’s case (Jeffrey Epstein) through a FOIA request to the Bureau of Prisons (BOP). A colleague (alMIN) advised the requester to submit the request directly to the BOP and offered to forward a copy once received, noting that the requester’s office does not handle FOIA requests. The original request was forwarded for awareness.",
+      "timestamp": "2021-11-26T00:00:00",
+      "timestamp_raw": "26 Oct 2021",
+      "keywords": [
+        "foia",
+        "bop",
+        "nyt",
+        "jeffrey epstein",
+        "request",
+        "civil division",
+        "records",
+        "redaction",
+        "almin",
+        "efta00028026"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00025055",
+            "similarity": 0.667,
+            "index": 27,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00025058",
+            "similarity": 0.538,
+            "index": 26,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028030",
+            "similarity": 0.538,
+            "index": 25,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023125",
+      "summary": "A request was submitted to the Bureau of Prisons (BOP) seeking information related to the death of Jeffrey Epstein while in federal custody at the Metropolitan Correctional Center (MCC) in NYC. The requestor, the sole heir and next of kin, seeks the same information released to the New York Times via a FOIA request, including: *   A copy of the August 9th, 2019 video tape from the SHU. *   A list of inmates on that tier and their transfer history. *   Information on personnel directing actions on that tier and those present with EMTs. *   A copy of any incident report related to the movement of Epstein’s body before the medical examiner arrived. A legal advisor instructed the requestor to submit a FOIA request to the BOP, specifically referencing the NYT release, and to forward a copy of the request to the Civil Division for processing.",
+      "timestamp": "2021-11-28T00:00:00",
+      "timestamp_raw": "28 Oct 2021",
+      "keywords": [
+        "foia",
+        "bop",
+        "jeffrey epstein",
+        "mcc",
+        "shu",
+        "august 9th 2019",
+        "video tape",
+        "inmate list",
+        "civil division",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031088",
+      "summary": "An Assistant U.S. Attorney in the Southern District of New York is following up on a request regarding document requests from plaintiff counsel involved in lawsuits against Jeffrey Epstein and his estate. The Attorney wants to establish a process for handling these requests, specifically utilizing Touhy Requests directed to a designated Civil Division person. Robbie Kaplan at Kaplan Hecker is the initial plaintiff’s counsel requesting documents, and the Attorney is seeking confirmation of the Civil Division person responsible for receiving these requests, prioritizing a response before a January 10 status conference.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "epstein",
+        "plaintiff counsel",
+        "touhy requests",
+        "kaplan hecker",
+        "civil division",
+        "requests",
+        "southern district of new york",
+        "investigation",
+        "status conference",
+        "documents"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00031089",
+            "similarity": 0.818,
+            "index": 9,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": []
+      }
+    }
+  ]
+}

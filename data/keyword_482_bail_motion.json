@@ -1,0 +1,985 @@
+{
+  "keyword": "bail motion",
+  "count": 32,
+  "keyword_match_count": 32,
+  "content_match_count": 3,
+  "total_files": 35,
+  "timeline": [
+    {
+      "file_id": "EFTA00032982",
+      "summary": "A government response to a bail motion for Jeffrey Epstein was accepted on July 8, 2019. The email details the subject, sender, recipient, and attachment related to this action.",
+      "timestamp": "2019-07-08T00:00:00",
+      "timestamp_raw": "July 8, 2019",
+      "keywords": [
+        "efta00032982",
+        "epstein",
+        "bail motion",
+        "gov't reply",
+        "2019",
+        "jul 08"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030823",
+      "summary": "An email from [REDACTED] to an, subject “Gov’t reply to Epstein bail motion due,” was sent on July 8, 2019, with the file name EFTA00030823.",
+      "timestamp": "2019-07-08T00:00:00",
+      "timestamp_raw": "July 8, 2019",
+      "keywords": [
+        "efta00030823",
+        "epstein",
+        "bail motion",
+        "gov't reply",
+        "redacted",
+        "2019",
+        "jul",
+        "attachment",
+        "efta"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026647",
+      "summary": "A government reply to a bail motion for Jeffrey Epstein was accepted on July 10, 2019. The email details this acceptance.",
+      "timestamp": "2019-07-10T00:00:00",
+      "timestamp_raw": "July 10, 2019",
+      "keywords": [
+        "epstein",
+        "bail motion",
+        "efta00026647",
+        "gov't",
+        "2019",
+        "reply"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028418",
+      "summary": "The United States Attorney for the Southern District of New York is responding to Jeffrey Epstein’s motion for leave to file a supplemental financial disclosure under seal. The Government states it has not received any financial disclosure from the defense related to Epstein’s motion for pretrial release. Due to the lack of information, the Government requests an extension of its deadline to respond to the Bail Motion and, if necessary, a postponement of the bail hearing to allow for review of a complete response.",
+      "timestamp": "2019-07-11T00:00:00",
+      "timestamp_raw": "July 11, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "united states",
+        "bail motion",
+        "sealing motion",
+        "financial disclosure",
+        "richard berman",
+        "united states attorney",
+        "southern district of new york",
+        "redaction analysis",
+        "legal case"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030824",
+      "summary": "On July 12, 2019, at 21:00:00 +0000, a government response to a bail motion for Jeffrey Epstein occurred at Berman. The event was classified as X-PERSONAL, created on July 8, 2019, and had a priority of 5. A reminder message was scheduled to display 15 minutes before the start.",
+      "timestamp": "2019-07-12T00:00:00",
+      "timestamp_raw": "July 12, 2019",
+      "keywords": [
+        "epstein",
+        "bail motion",
+        "gov't reply",
+        "2019-07-12",
+        "berman",
+        "redaction",
+        "personal",
+        "event",
+        "dtstamp"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00026648",
+            "similarity": 0.636,
+            "index": 5,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00032983",
+            "similarity": 0.5,
+            "index": 8,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00026648",
+      "summary": "On July 12, 2019, at 21:00:00 +0000, a government response to an Epstein bail motion was accepted. The event occurred at Berman, classified as X-PERSONAL, and was created on July 10, 2019.",
+      "timestamp": "2019-07-12T00:00:00",
+      "timestamp_raw": "July 12, 2019",
+      "keywords": [
+        "epstein",
+        "bail motion",
+        "redaction",
+        "gov't reply",
+        "2019-07-12",
+        "berman",
+        "x-personal",
+        "dtstamp",
+        "efta00026648"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00030824",
+            "similarity": 0.636,
+            "index": 4,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00032983",
+            "similarity": 0.636,
+            "index": 8,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00015531",
+      "summary": "An email was sent from the Co-Chief, Public Corruption Unit of the U.S. Attorney’s Office for the Southern District of New York to [REDACTED] and [REDACTED], with CC’d to [REDACTED]. The email discusses a response to a government opposition to a bail motion, including an attached PDF named “2019-07-12,_JE,_govemment_opposition_to_bail_motioniwith_exhibits.pdf”.",
+      "timestamp": "2019-07-12T00:00:00",
+      "timestamp_raw": "2019-07-12",
+      "keywords": [
+        "efta00015531",
+        "redaction analysis",
+        "pstem",
+        "government opposition",
+        "bail motion",
+        "u.s. attorney's office",
+        "southern district of new york",
+        "response",
+        "exhibits"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018271",
+      "summary": "An email chain discusses filing a bail reply letter. The email thread originates from an Assistant United States Attorney for the Southern District of New York, referencing attachments including government opposition to a bail motion with and without exhibits. The sender is logging on remotely while awaiting a flight to complete the filing.",
+      "timestamp": "2019-07-12T00:00:00",
+      "timestamp_raw": "12 Jul 2019",
+      "keywords": [
+        "efta00018271",
+        "usanys",
+        "filing",
+        "bail motion",
+        "government opposition",
+        "exhibits",
+        "redaction",
+        "july 12",
+        "2019",
+        "southern district of new york",
+        "assistant united states attorney"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032983",
+      "summary": "On July 12, 2019, at 21:00-21:30 +0000, a government response to a bail motion for Jeffrey Epstein was accepted at Berman. The event was classified as X-PERSONAL. The attendee is redacted.",
+      "timestamp": "2019-07-12T00:00:00",
+      "timestamp_raw": "July 12, 2019",
+      "keywords": [
+        "epstein",
+        "bail motion",
+        "gov't reply",
+        "berman",
+        "redacted",
+        "2019-07-12",
+        "x-personal",
+        "dtstamp",
+        "efta00032983"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00026648",
+            "similarity": 0.636,
+            "index": 5,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00030824",
+            "similarity": 0.5,
+            "index": 4,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018268",
+      "summary": "This email, dated July 12, 2019, is from the U.S. Attorney’s Office, SDNY, to an unknown recipient regarding opposition to a bail motion for Jeffrey Epstein. An attachment, “JE_government_opposition_to_bail_motioniwith_exhibits.pdf,” is included.",
+      "timestamp": "2019-07-12T00:00:00",
+      "timestamp_raw": "July 12, 2019",
+      "keywords": [
+        "efta00018268",
+        "sdny",
+        "epstein",
+        "bail motion",
+        "opposition",
+        "u.s. attorney",
+        "redaction",
+        "2019",
+        "united states",
+        "government"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030204",
+      "summary": "An email was sent from an Assistant U.S. Attorney in the Southern District of New York to Stan Pottinger regarding a docketed version of a document titled “2019-07-123E,_government_opposition_to_bail_motioniwith_exhibits.pdf,” which included government opposition to a bail motion.",
+      "timestamp": "2019-07-12T00:00:00",
+      "timestamp_raw": "12 Jul 2019",
+      "keywords": [
+        "efta00030204",
+        "redaction analysis",
+        "docketed",
+        "bail motion",
+        "government opposition",
+        "stan pottinger",
+        "southern district of new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029015",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] regarding the SDNY Opposition to Epstein Bail Motion. The email expresses gratitude and acknowledges the subject matter.",
+      "timestamp": "2019-07-12T00:00:00",
+      "timestamp_raw": "12 Jul 2019",
+      "keywords": [
+        "efta00029015",
+        "sdny",
+        "epstein",
+        "bail motion",
+        "redaction",
+        "opposition",
+        "2019",
+        "july",
+        "efta"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020346",
+      "summary": "A document titled “2019-07-12, JE, government opposition to bail motion (with exhibits).pdf” was sent from [REDACTED] (USANYS Contractor) to [REDACTED] (USANYS). The email, dated July 15, 2019, includes attachments: the PDF document outlining the government’s opposition to a bail motion and a text file named ATT00001.txt. The document’s identifier is EFTA00020346.",
+      "timestamp": "2019-07-15T00:00:00",
+      "timestamp_raw": "July 15, 2019",
+      "keywords": [
+        "efta00020346",
+        "bail motion",
+        "government opposition",
+        "exhibits",
+        "2019-07-12",
+        "usanys",
+        "contractor",
+        "redaction analysis",
+        "je"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032554",
+      "summary": "On January 17, 2020, an email exchange occurred between individuals within the U.S. Attorney's Office for the Southern District of New York regarding the bail proceedings for Jeffrey Epstein. One party requested filings related to the government’s bail motion and opposition, which were subsequently attached to the email. The email confirmed that no documents were filed under seal and provided the relevant documents to the recipient.",
+      "timestamp": "2020-01-17T00:00:00",
+      "timestamp_raw": "January 17, 2020",
+      "keywords": [
+        "epstein",
+        "bail",
+        "filings",
+        "government",
+        "seal",
+        "usanys",
+        "judge pittman",
+        "submissions",
+        "corruption",
+        "civ div"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019897",
+      "summary": "On November 25, 2020, Christian Everdell of Cohen & Gresser LLP sent an email to Judge Nathan regarding a renewed bail motion in the case of *U.S. v. Ghislaine Maxwell* (20 Cr. 330). The email included a letter intended to be filed under seal and submitted to the court and all counsel, referencing Section 2(B) of Judge Nathan’s Individual Practices in Criminal Cases. The letter was attached and addressed to the court and legal representatives involved in the case.",
+      "timestamp": "2020-11-25T00:00:00",
+      "timestamp_raw": "November 25, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "bail motion",
+        "sealing",
+        "court",
+        "judge nathan",
+        "christian everdell",
+        "cohen & gresser llp",
+        "u.s. v.",
+        "criminal cases",
+        "confidentiality"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00015975",
+            "similarity": 0.5,
+            "index": 25,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019896",
+            "similarity": 0.818,
+            "index": 26,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00011253",
+            "similarity": 0.538,
+            "index": 31,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00017823",
+      "summary": "Ghislaine Maxwell’s legal team, Og Cohen & Gresser LLP, is seeking to file a renewed motion for bail under seal due to significant privacy concerns. They argue that releasing certain materials, including letters from her family and friends (potential sureties), a financial report, and analysis of government discovery, would expose her and these individuals to harassment and threats, citing documented social media attacks and the potential for intimidation. The team highlights a lower presumption of public access for pretrial bail submissions compared to trial exhibits, referencing previous court rulings (Lugosch and Sadr) that prioritize privacy interests, particularly when innocent third parties are involved. They request an in-camera conference to address these concerns and secure protection for the sensitive information. The government consents to the redaction and sealed filing of specific materials, but does not agree to an in-camera conference.",
+      "timestamp": "2020-11-25T00:00:00",
+      "timestamp_raw": "November 25, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "bail motion",
+        "protective order",
+        "confidentiality",
+        "sealing",
+        "surveillance",
+        "sureties",
+        "financial report",
+        "discovery materials",
+        "redaction"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030756",
+      "summary": "On December 8, 2020, Christian R. Everdell of Cohen & Gresser LLP submitted a renewed bail motion and redacted exhibits (A-E) to Judge Nathan in the case of U.S. v. Ghislaine Maxwell (20 Cr. 330 (AJN)). The documents were filed under seal.",
+      "timestamp": "2020-12-08T00:00:00",
+      "timestamp_raw": "December 8, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "bail motion",
+        "exhibits",
+        "redaction",
+        "u.s. v.",
+        "christian r everdell",
+        "cohen & gresser llp",
+        "seal",
+        "legal documents"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030755",
+      "summary": "Christian Everdell is sending a communication regarding the U.S. v. Ghislaine Maxwell case (20 Cr. 330 (MN)), specifically a renewed bail motion and exhibits that will be filed under seal. The email is dated December 8, 2020, and includes a linked message. The recipient is EFTA00030755.",
+      "timestamp": "2020-12-08T00:00:00",
+      "timestamp_raw": "December 8, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "bail motion",
+        "exhibits",
+        "u.s. v.",
+        "20 cr. 330 (mn)",
+        "redaction analysis",
+        "usahub-usajournal111"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00009865",
+      "summary": "*   The initial request was for the statement to be submitted as a signed declaration, but the Assistant U.S. Attorney preferred a separate PDF with attribution. *   The statement itself expresses concern about Maxwell’s potential flight and argues she is a psychopath who continues to abuse power and exploit others. It references her history of abuse, manipulation, and disregard for responsibility. *   The statement urges the court to deny bail and maintain her incarceration until trial.",
+      "timestamp": "2020-12-15T00:00:00",
+      "timestamp_raw": "December 15, 2020",
+      "keywords": [
+        "sigrid mccawley",
+        "ghislaine maxwell",
+        "filing",
+        "bail motion",
+        "united states attorney",
+        "redaction",
+        "statement",
+        "maxwell",
+        "justice",
+        "victim"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00031821",
+            "similarity": 0.538,
+            "index": 19,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00031821",
+      "summary": "Sigrid McCawley sent a statement to Boies Schiller Flexner regarding Ghislaine Maxwell’s case. The statement expresses concern about Maxwell’s potential release on bail, citing her history of abuse, manipulative behavior, disregard for others, and potential to flee.  She believes Maxwell is a psychopath and fears she will continue to harm others if released. The sender requests the statement be submitted as a separate PDF with appropriate attribution and suggests a letter addressed to Judge Nathan as the most suitable format.",
+      "timestamp": "2020-12-15T00:00:00",
+      "timestamp_raw": "December 15, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "bail motion",
+        "filing",
+        "statement",
+        "redaction",
+        "maxwell",
+        "victim",
+        "judge nathan",
+        "prosecution",
+        "psychopath"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00009865",
+            "similarity": 0.538,
+            "index": 18,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019424",
+      "summary": "An email chain discusses a response filed by USANYS to Ghislaine Maxwell’s renewed bail motion. The response was initially filed under seal with proposed redactions due to a court order. A timeframe of at least two days is anticipated before the response appears on the docket due to the defense’s 24-hour objection period to the redactions. The email thread includes requests for updates and a copy of the response, referencing Judge Nathan’s scheduling of a ruling and the VW website.",
+      "timestamp": "2020-12-16T00:00:00",
+      "timestamp_raw": "December 16 2020",
+      "keywords": [
+        "efta00019424",
+        "maxwell",
+        "bail motion",
+        "judge nathan",
+        "redactions",
+        "vw site",
+        "usanys",
+        "response",
+        "docket",
+        "pacer"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016023",
+      "summary": "On December 16, 2020, the Assistant United States Attorney for the Southern District of New York submitted documents in opposition to a defendant’s renewed bail application in the case of *US v. Maxwell, 20 CR. 330 (AJN)*. The submission included a cover letter, memorandum of law, Government Exhibits A and B, and a proposed redaction document for the memorandum of law. The documents were sent to Nathan NYSD Chambers and several attorneys including Christian Everdell, BOBBI C STERNHEIM, and Jeff Pagliuca.",
+      "timestamp": "2020-12-16T00:00:00",
+      "timestamp_raw": "December 16, 2020",
+      "keywords": [
+        "us v. maxwell",
+        "redaction analysis",
+        "bail motion",
+        "government submission",
+        "southern district of new york",
+        "20 cr. 330 (ajn)",
+        "usanys",
+        "new york",
+        "attorney",
+        "legal documents"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021356",
+      "summary": "An email exchange occurred between individuals identified as [REDACTED] and [REDACTED] regarding a cover letter for case EFTA00021356. One party requested a prior letter from the case to use as a reference and indicated an inability to work on the shared drive. An attached document titled \"GM renewed bail motion cover letter\" (dated 2020-12-16) was sent as part of the exchange.",
+      "timestamp": "2020-12-16T00:00:00",
+      "timestamp_raw": "2020-12-16",
+      "keywords": [
+        "cover letter",
+        "redaction",
+        "efta00021356",
+        "bail motion",
+        "ori",
+        "f6n"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024396",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] regarding a finalized document, \"2020-12-16 GM renewed bail motion opposition FINAL.docx,\" attached to the email. The sender noted minor formatting and a missing word in the document and offered assistance, noting a time conflict from 7:15 to 8:15. The document’s case file is EFTA00024396.",
+      "timestamp": "2020-12-16T00:00:00",
+      "timestamp_raw": "2020-12-16",
+      "keywords": [
+        "bail motion",
+        "redaction",
+        "opposition",
+        "2020",
+        "gm",
+        "renewed",
+        "final",
+        "docx",
+        "efta00024396"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00019243",
+            "similarity": 0.5,
+            "index": 24,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00019243",
+      "summary": "This document is a final opposition to a renewed bail motion submitted by “GM” on December 16, 2020. The communication, titled “2020-12-16 GM renewed bail motion opposition FINAL.docx,” was sent to “[REDACTED]” and associated with the file EFTA00019243.",
+      "timestamp": "2020-12-16T00:00:00",
+      "timestamp_raw": "December 16, 2020",
+      "keywords": [
+        "bail motion",
+        "redaction",
+        "efta00019243",
+        "2020-12-16",
+        "gm",
+        "opposition",
+        "final",
+        "docx",
+        "message"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00024396",
+            "similarity": 0.5,
+            "index": 23,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015975",
+      "summary": "Christian Everdell of Cohen & Gresser LLP sent an email to Judge Nathan regarding a typographical error in a reply brief for the case *U.S. v. Ghislaine Maxwell* (20 Cr. 330). The email requested approval to correct the error on pages 1 and 8 of the memorandum.  He attached both the unredacted and redacted versions of the memorandum, along with exhibits A-B, to be filed under seal. The email also included a cover letter and confidentiality notices.",
+      "timestamp": "2020-12-18T00:00:00",
+      "timestamp_raw": "December 18, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "bail motion",
+        "redaction",
+        "memorandum",
+        "court",
+        "u.s. v.",
+        "christian everdell",
+        "cohen & gresser llp"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00019897",
+            "similarity": 0.5,
+            "index": 14,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00011179",
+            "similarity": 0.5,
+            "index": 33,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00016768",
+            "similarity": 0.636,
+            "index": 34,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00019896",
+      "summary": "Christian Everdell of Cohen & Gresser LLP sent a letter, attached as a PDF, to Judge Nathan regarding the sealing of Ghislaine Maxwell’s renewed bail motion in the case U.S. v. Ghislaine Maxwell (20 Cr. 330 (MN)). The letter was to be filed under seal and submitted to the Court and all counsel according to Judge Nathan’s Individual Practices in Criminal Cases.",
+      "timestamp": "2020-12-25T00:00:00",
+      "timestamp_raw": "25 Nov 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "u.s. v.",
+        "bail motion",
+        "sealing",
+        "judge nathan",
+        "christian everdell",
+        "cohen & gresser llp",
+        "criminal cases",
+        "confidentiality",
+        "letter"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00019897",
+            "similarity": 0.818,
+            "index": 14,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00011253",
+            "similarity": 0.538,
+            "index": 31,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00031918",
+      "summary": "This motion builds upon her previous bail applications and proposes a stringent set of conditions designed to ensure her appearance at trial. These conditions include a substantial bond ($28.5 million), real property, cash, asset monitoring by a retired judge, renunciation of British and French citizenship, waivers of extradition rights, confinement in New York City, GPS monitoring, and a third-party custodian.  Maxwell contends that the government is unfairly opposing the bail package, attempting to avoid addressing the merits of the case and relying on unfounded arguments. She challenges the government’s assertion that she poses an “extreme risk of flight,” arguing that the bail package is sufficient and highlighting weaknesses in the government’s case, including the lack of evidence of a criminal conspiracy and misleading of the court by government prosecutors. The government’s position is that a decision on this bail motion could complicate an appeal currently pending, and therefore jurisdiction should be deferred. Maxwell further challenges the government’s argument regarding her French nationality, arguing that it should not be used to bar extradition. Finally, she points to the difficulties she is facing with accessing electronic discovery materials.",
+      "timestamp": "2021-02-26T00:00:00",
+      "timestamp_raw": "February 26, 2021",
+      "keywords": [
+        "bail",
+        "extradition",
+        "citizenship",
+        "monitoring",
+        "conditions",
+        "court",
+        "guarantee",
+        "reform act",
+        "foreign",
+        "assets",
+        "jeopardy",
+        "evidence"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020437",
+      "summary": "David Oscar Markus is representing Ghislaine Maxwell’s appeal regarding the denial of her bail application in *U.S. v. Ghislaine Maxwell*. He requests access to unredacted docket entries 4, 18, 22, 97, 100, 103, 106, 159, 160, 165, 171, and 169 to prepare the appeal. The Assistant U.S. Attorney acknowledges Markus’s role and refers to an existing protective order (ECF No. 36) binding on all counsel. The government initially opposes Maxwell’s motion and intends to file a response.",
+      "timestamp": "2021-03-31T00:00:00",
+      "timestamp_raw": "31 Mar 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "bail motion",
+        "redaction",
+        "protective order",
+        "u.s. v.",
+        "appeal",
+        "docket entries",
+        "government",
+        "legal counsel",
+        "southern district of new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023009",
+      "summary": "On April 27, 2021, an email chain was sent regarding the denial of bail motion for Ghislaine Maxwell in the case United States of America v. Maxwell (Case Number 21-58). The email chain included notifications from the 2nd Circuit Court of Appeals and the U.S. Attorney’s Office regarding the filed motion order. The motion order, filed by Ghislaine Maxwell’s legal representation, denied the motion for bail. A PDF document titled \"Maxwell_ Bail _Order.pdf\" was attached.",
+      "timestamp": "2021-04-27T00:00:00",
+      "timestamp_raw": "April 27, 2021",
+      "keywords": [
+        "maxwell",
+        "united states of america",
+        "bail",
+        "motion order",
+        "ghislaine maxwell",
+        "21-58",
+        "court of appeals",
+        "docket",
+        "pacer",
+        "electronic document"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028644",
+      "summary": "On May 17, 2021, Ghislaine Maxwell filed a renewed motion for bail in the United States v. Maxwell case (21-770) with the 2nd Circuit Court of Appeals. This followed a previous rejection of her bail appeal. The court electronically filed the motion and a supporting document, along with an electronic stamp and notification details, accessible through PACER. The email chain indicates a concern about the procedural propriety of the filing, with suggestions regarding alternative appeal routes.",
+      "timestamp": "2021-05-17T00:00:00",
+      "timestamp_raw": "May 17, 2021",
+      "keywords": [
+        "maxwell",
+        "united states of america",
+        "bail motion",
+        "circuit court",
+        "21-770",
+        "ghislaine maxwell",
+        "docket",
+        "appeal",
+        "motion for bail"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00011253",
+      "summary": "Christian Everdell of Cohen & Gresser LLP submitted documents to Judge Nathan regarding Ghislaine Maxwell’s bail motion in U.S. v. Ghislaine Maxwell (20 Cr. 330 (MN)). The submissions included a cover letter, an unredacted renewed bail motion, and unredacted exhibits A-E. These documents were sent under seal due to the volume of materials.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "ghislaine maxwell",
+        "bail motion",
+        "exhibits",
+        "u.s. v.",
+        "judge nathan",
+        "christian everdell",
+        "cohen & gresser llp",
+        "redaction analysis",
+        "confidentiality",
+        "seal"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00019896",
+            "similarity": 0.538,
+            "index": 26,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019897",
+            "similarity": 0.538,
+            "index": 14,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00011167",
+            "similarity": 0.818,
+            "index": 32,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00011179",
+            "similarity": 0.538,
+            "index": 33,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00016768",
+            "similarity": 0.538,
+            "index": 34,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00011167",
+      "summary": "Christian Everdell of Cohen & Gresser LLP submitted redacted exhibits (0-P, S, W-X) related to the U.S. v. Ghislaine Maxwell case (20 Cr. 330) to Judge Nathan and all counsel under seal, as per Court Order Dkt. 89. The exhibits were attached as PDFs and included supporting images.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "ghislaine maxwell",
+        "bail motion",
+        "exhibits",
+        "redaction analysis",
+        "u.s. v.",
+        "cohen & gresser llp",
+        "judge nathan",
+        "criminal case",
+        "seal",
+        "confidentiality"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00011253",
+            "similarity": 0.818,
+            "index": 31,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00016768",
+            "similarity": 0.538,
+            "index": 34,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00011179",
+      "summary": "Christian Everdell of Cohen & Gresser LLP submitted exhibits O-X (unredacted) to Judge Nathan in the case of U.S. v. Ghislaine Maxwell (20 Cr. 330) under seal, as per Court Order Dkt. 89. The exhibits included PDFs and images labeled Exhibit_O.pdf through Exhibit_X.pdf. The email also contained a confidentiality notice and a privacy policy link.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "ghislaine maxwell",
+        "bail motion",
+        "exhibits",
+        "u.s. v.",
+        "christian everdell",
+        "nathannysdchambers",
+        "cohen & gresser llp",
+        "redacted",
+        "court",
+        "seal"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00011253",
+            "similarity": 0.538,
+            "index": 31,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00015975",
+            "similarity": 0.5,
+            "index": 25,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016768",
+      "summary": "Christian Everdell of Cohen & Gresser LLP submitted documents to Judge Nathan in the case of *U.S. v. Ghislaine Maxwell* (20 Cr. 330 (MN)) under seal. The documents included a cover letter, an unredacted reply memorandum, a redacted reply memorandum, and accompanying exhibits A and B. The submission was in response to a renewed bail motion.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "ghislaine maxwell",
+        "bail motion",
+        "redaction",
+        "u.s. v.",
+        "christian everdell",
+        "cohen & gresser llp",
+        "judge nathan",
+        "exhibits",
+        "memorandum",
+        "criminal case"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00011167",
+            "similarity": 0.538,
+            "index": 32,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00011253",
+            "similarity": 0.538,
+            "index": 31,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00015975",
+            "similarity": 0.636,
+            "index": 25,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    }
+  ]
+}

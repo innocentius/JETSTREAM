@@ -1,0 +1,966 @@
+{
+  "keyword": "forensic psychologist",
+  "count": 26,
+  "keyword_match_count": 26,
+  "content_match_count": 2,
+  "total_files": 28,
+  "timeline": [
+    {
+      "file_id": "EFTA00018977",
+      "summary": "*   On July 9th, the watch was noted as “None.” *   On July 10th, Epstein was moved from Psychological Observation to the SHU. *   On July 23rd and 24th, Epstein was removed from Suicide Watch and stepped down to Psychological Observation. *   A Forensic Psychologist, LT, U.S. Public Health Service, was involved in the observation of Gebremariam (ID: 79792-007). *   All updates contained a disclaimer regarding sensitive information.",
+      "timestamp": "2019-07-09T00:00:00",
+      "timestamp_raw": "7/9/2019",
+      "keywords": [
+        "suicide watch",
+        "psych observation",
+        "epstein",
+        "76318-054",
+        "inmate",
+        "shu",
+        "psychological observation",
+        "forensic psychologist",
+        "bureau of prisons",
+        "redaction"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034875",
+      "summary": "On July 10, 2019, Inmate Epstein #76318-054 was removed from Psychological Observation and placed in the Special Housing Unit (SHU). There were no active Suicide Watches reported. The update was provided by Forensic Psychologist Samantha (Forensic) of the U.S. Department of Justice, Federal Bureau of Prisons, Metropolitan Correctional Center.",
+      "timestamp": "2019-07-10T00:00:00",
+      "timestamp_raw": "July 10, 2019",
+      "keywords": [
+        "inmate",
+        "suicide watch",
+        "psych observation",
+        "shu",
+        "forensic psychologist",
+        "u.s. public health service",
+        "federal bureau of prisons",
+        "metropolitan correctional center",
+        "redaction analysis",
+        "efta00034875"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00034110",
+            "similarity": 0.818,
+            "index": 2,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00034953",
+            "similarity": 0.538,
+            "index": 12,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034110",
+      "summary": "Inmate Epstein #76318-054 was removed from Psychological Observation and placed in the Special Housing Unit (SHU) on July 10, 2019. There were no active Suicide Watches at that time. The update was provided by a Forensic Psychologist with the U.S. Public Health Service and the Federal Bureau of Prisons.",
+      "timestamp": "2019-07-10T00:00:00",
+      "timestamp_raw": "July 10, 2019",
+      "keywords": [
+        "inmate",
+        "suicide watch",
+        "psych observation",
+        "shu",
+        "forensic psychologist",
+        "u.s. public health service",
+        "federal bureau of prisons",
+        "metropolitan correctional center",
+        "efta00034110",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034875",
+            "similarity": 0.818,
+            "index": 1,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00034953",
+            "similarity": 0.538,
+            "index": 12,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035500",
+      "summary": "An inmate, identified as Epstein #76318-054, is currently on Psychological Observation and requests to receive his legal paperwork, which is permitted. The communication originates from a Forensic Psychologist within the U.S. Department of Justice’s Federal Bureau of Prisons, Metropolitan Correctional Center, and is directed to prison staff.",
+      "timestamp": "2019-07-24T00:00:00",
+      "timestamp_raw": "24 Jul 2019",
+      "keywords": [
+        "epstein",
+        "psychological observation",
+        "legal paperwork",
+        "forensic psychologist",
+        "u.s. department of justice",
+        "federal bureau of prisons",
+        "metropolitan correctional center",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00035693",
+            "similarity": 0.545,
+            "index": 8,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034641",
+      "summary": "On July 24, 2019, at 11:24 AM, a Suicide Watch was initiated for inmate Epstein (#76318-054) at the Metropolitan Correctional Center in New York. A psychological observation was not conducted. The communication is classified as CONFIDENTIAL and pertains to the U.S. Department of Justice, Federal Bureau of Prisons, and U.S. Public Health Service.",
+      "timestamp": "2019-07-24T00:00:00",
+      "timestamp_raw": "July 24, 2019",
+      "keywords": [
+        "suicide watch",
+        "psych observation",
+        "forensic psychologist",
+        "u.s. public health service",
+        "federal bureau of prisons",
+        "metropolitan correctional center",
+        "efta00034641",
+        "confidential",
+        "sdny_00011827",
+        "epstein"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00034926",
+            "similarity": 0.538,
+            "index": 5,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034658",
+            "similarity": 0.667,
+            "index": 6,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034710",
+            "similarity": 0.667,
+            "index": 7,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034926",
+      "summary": "On July 24, 2019, at 11:24 AM, a Suicide Watch was initiated for inmate Epstein (#76318-054) at the Metropolitan Correctional Center in New York. A psychological observation was not conducted. The communication is classified as CONFIDENTIAL and pertains to EFTA00034926.",
+      "timestamp": "2019-07-24T00:00:00",
+      "timestamp_raw": "July 24, 2019",
+      "keywords": [
+        "suicide watch",
+        "psych observation",
+        "forensic psychologist",
+        "u.s. public health service",
+        "federal bureau of prisons",
+        "metropolitan correctional center",
+        "efta00034926",
+        "epstin",
+        "confidential",
+        "sdny"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034641",
+            "similarity": 0.538,
+            "index": 4,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00034658",
+            "similarity": 0.667,
+            "index": 6,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034710",
+            "similarity": 0.538,
+            "index": 7,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034929",
+            "similarity": 0.538,
+            "index": 9,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034658",
+      "summary": "On July 24, 2019, a suicide watch was initiated for Epstein #76318-054, a Forensic Psychologist with the U.S. Public Health Service and Federal Bureau of Prisons, who was incarcerated at the Metropolitan Correctional Center in New York. The communication was classified as CONFIDENTIAL and contained sensitive information regarding the case (EFTA00034658).",
+      "timestamp": "2019-07-24T00:00:00",
+      "timestamp_raw": "July 24, 2019",
+      "keywords": [
+        "suicide watch",
+        "psych observation",
+        "forensic psychologist",
+        "epstein",
+        "u.s. public health service",
+        "federal bureau of prisons",
+        "metropolitan correctional center",
+        "confidential",
+        "sdny",
+        "efta00034658"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034926",
+            "similarity": 0.667,
+            "index": 5,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034641",
+            "similarity": 0.667,
+            "index": 4,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00034710",
+            "similarity": 0.667,
+            "index": 7,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034929",
+            "similarity": 0.667,
+            "index": 9,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034654",
+            "similarity": 0.538,
+            "index": 11,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034710",
+      "summary": "On July 24, 2019, at 11:24:32 AM, a suicide watch was initiated for inmate Epstein (#76318-054) at the Metropolitan Correctional Center in New York. There were no psychological observations recorded at that time. The communication is classified as CONFIDENTIAL and pertains to the U.S. Department of Justice, Federal Bureau of Prisons.",
+      "timestamp": "2019-07-24T00:00:00",
+      "timestamp_raw": "July 24, 2019",
+      "keywords": [
+        "suicide watch",
+        "psych observation",
+        "forensic psychologist",
+        "u.s. public health service",
+        "federal bureau of prisons",
+        "metropolitan correctional center",
+        "efta00034710",
+        "confidential",
+        "sdny_00012116",
+        "epstein"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034658",
+            "similarity": 0.667,
+            "index": 6,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034926",
+            "similarity": 0.538,
+            "index": 5,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034641",
+            "similarity": 0.667,
+            "index": 4,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00034929",
+            "similarity": 0.667,
+            "index": 9,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034953",
+            "similarity": 0.667,
+            "index": 12,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035693",
+      "summary": "A forensic psychologist from the U.S. Public Health Service, working for the Bureau of Prisons, sent an email to a redacted recipient regarding “Epstein #76318-054.” The email attached a PDF document titled “2019 07 24 10 40 50.pdf,” and included a warning that the message contained sensitive information requiring specific handling according to policy.",
+      "timestamp": "2019-07-24T00:00:00",
+      "timestamp_raw": "24 Jul 2019",
+      "keywords": [
+        "epstein",
+        "forensic psychologist",
+        "u.s. public health service",
+        "federal bureau of prisons",
+        "metropolitan correctional center",
+        "redaction analysis",
+        "2019",
+        "u.s. department of justice",
+        "sensitive"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035500",
+            "similarity": 0.545,
+            "index": 3,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00034654",
+            "similarity": 0.583,
+            "index": 11,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034929",
+      "summary": "On July 24, 2019, a Suicide Watch was initiated for inmate Epstein (#76318-054) at the Metropolitan Correctional Center in New York. The update was provided by a Forensic Psychologist, LT, U.S. Public Health Service, from the U.S. Department of Justice’s Federal Bureau of Prisons. The fax included a confidentiality warning regarding sensitive information.",
+      "timestamp": "2019-07-24T00:00:00",
+      "timestamp_raw": "July 24, 2019",
+      "keywords": [
+        "suicide watch",
+        "psych observation",
+        "epstein",
+        "forensic psychologist",
+        "u.s. public health service",
+        "federal bureau of prisons",
+        "metropolitan correctional center",
+        "new york",
+        "confidential",
+        "efta00034929"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034710",
+            "similarity": 0.667,
+            "index": 7,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034658",
+            "similarity": 0.667,
+            "index": 6,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034926",
+            "similarity": 0.538,
+            "index": 5,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00034953",
+            "similarity": 0.818,
+            "index": 12,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00022509",
+      "summary": "On July 24, 2019, a Lieutenant within the U.S. Public Health Service and Federal Bureau of Prisons (Metropolitan Correctional Center) requested a change in observation status for inmate Epstein #76318-054. The request involved removing him from Suicide Watch and placing him on Psychological Observation, as documented in a memorandum from the MCC New York. A forensic report named “TEXT.htm” and a PDF file were attached to the communication.",
+      "timestamp": "2019-07-24T00:00:00",
+      "timestamp_raw": "July 24, 2019",
+      "keywords": [
+        "efta00022509",
+        "epstein",
+        "suicide watch",
+        "psychological observation",
+        "united states government",
+        "memorandum",
+        "mcc new york",
+        "forensic psychologist",
+        "u.s. public health service",
+        "bureau of prisons"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034654",
+      "summary": "A forensic psychologist working for the U.S. Public Health Service, U.S. Department of Justice, Federal Bureau of Prisons, and Metropolitan Correctional Center sent an email attachment, “2019 07 24 10 40 50.odf,” referencing case file #76318-054 concerning Jeffrey Epstein. The email was marked CONFIDENTIAL and SDNY_000 11865 and EFTA00034654.",
+      "timestamp": "2019-07-24T00:00:00",
+      "timestamp_raw": "7/24/2019",
+      "keywords": [
+        "epstein",
+        "forensic psychologist",
+        "u.s. public health service",
+        "federal bureau of prisons",
+        "metropolitan correctional center",
+        "confidential",
+        "sensitive information",
+        "redaction analysis",
+        "2019",
+        "sdny"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035693",
+            "similarity": 0.583,
+            "index": 8,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034658",
+            "similarity": 0.538,
+            "index": 6,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034953",
+      "summary": "On July 29, 2019, at 11:29 AM, a Forensic Psychologist with the U.S. Public Health Service and the Federal Bureau of Prisons observed inmate Epstein (#76318-054) at the Metropolitan Correctional Center in New York. The suicide watch status was clear (None), and the observation was pending beds for the inmate in SHU (Special Housing Unit). The message was classified as CONFIDENTIAL and contained warnings about sensitive information.",
+      "timestamp": "2019-07-29T00:00:00",
+      "timestamp_raw": "July 29, 2019",
+      "keywords": [
+        "suicide watch",
+        "psych observation",
+        "forensic psychologist",
+        "u.s. public health service",
+        "federal bureau of prisons",
+        "metropolitan correctional center",
+        "new york",
+        "epstein",
+        "shu",
+        "confidential"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034929",
+            "similarity": 0.818,
+            "index": 9,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00034710",
+            "similarity": 0.667,
+            "index": 7,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034658",
+            "similarity": 0.667,
+            "index": 6,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036293",
+      "summary": "A forensic psychologist at the Metropolitan Correctional Center in New York requested a 15-day extension to complete evaluations due to understaffing, a high caseload, and a pending medical procedure. Supporting correspondence details requests, confirmations, and acknowledgments related to the extension request and the psychologist's role within the U.S. Public Health Service, Department of Justice, and Federal Bureau of Prisons. The document includes email chains discussing the situation and attached documents, including a letter to the Judge. Redactions have been applied to several sections of the document.",
+      "timestamp": "2019-08-08T00:00:00",
+      "timestamp_raw": "08 Aug 2019",
+      "keywords": [
+        "forensic psychologist",
+        "u.s. public health service",
+        "federal bureau of prisons",
+        "metropolitan correctional center",
+        "efta00036293",
+        "redaction",
+        "case load",
+        "evaluation",
+        "judge",
+        "extension"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00033994",
+      "summary": "A Forensic Psychologist is requesting emails from a recipient (identified as “can_mi”) regarding communications involving Jeffrey Epstein. The request includes specific questions about whether the recipient has emails where Epstein needed a cellmate or other emails concerning Epstein. The communication is classified as CONFIDENTIAL and involves the Metropolitan Correctional Center in New York.",
+      "timestamp": "2019-08-12T00:00:00",
+      "timestamp_raw": "8/12/2019",
+      "keywords": [
+        "epstein",
+        "redaction",
+        "emails",
+        "forensic psychologist",
+        "metropolitan correctional center",
+        "sdny",
+        "confidential",
+        "cellmate",
+        "psy.d",
+        "ph.d"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00033995",
+            "similarity": 0.545,
+            "index": 27,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035285",
+      "summary": "A forensic psychologist at the Metropolitan Correctional Center in New York City, requesting emails related to Jeffrey Epstein, specifically inquiring about instances where Epstein needed a cellmate or any other emails concerning Epstein. The email was sent on August 12, 2019.",
+      "timestamp": "2019-08-12T00:00:00",
+      "timestamp_raw": "August 12, 2019",
+      "keywords": [
+        "epstein",
+        "emails",
+        "forensic psychologist",
+        "metropolitan correctional center",
+        "new york",
+        "cellmate",
+        "redaction analysis",
+        "efta00035285"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00033995",
+            "similarity": 0.667,
+            "index": 27,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00036135",
+      "summary": "The light in Suicide Watch Cell #1 is non-functional, requiring immediate replacement due to an inmate’s occupancy. The inmate cannot be moved until the light is repaired, necessitating Lieutenant assistance.",
+      "timestamp": "2019-08-14T00:00:00",
+      "timestamp_raw": "8/14/2019",
+      "keywords": [
+        "suicide watch",
+        "cell",
+        "light",
+        "inmate",
+        "replacement",
+        "lt.",
+        "forensic psychologist",
+        "metropolitan correctional center",
+        "united states public health service",
+        "efta00036135"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00036847",
+            "similarity": 0.667,
+            "index": 17,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00036847",
+      "summary": "On August 14, 2019, a Forensic Psychologist at the Metropolitan Correctional Center reported that the Suicide Watch light in Cell #1 was out due to an inmate's occupancy. The Psychologist requested immediate replacement of the light and instructed the Lieutenant to move the inmate to another cell while the repair was conducted. The email thread confirms the situation and the urgency of the repair.",
+      "timestamp": "2019-08-14T00:00:00",
+      "timestamp_raw": "August 14, 2019",
+      "keywords": [
+        "suicide watch",
+        "cell",
+        "inmate",
+        "replacement",
+        "light",
+        "metropolitan correctional center",
+        "forensic psychologist",
+        "united states public health service",
+        "redaction",
+        "text.htm"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00036135",
+            "similarity": 0.667,
+            "index": 16,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034660",
+      "summary": "A forensic psychologist, Ph.D., is out of the office from August 12 to September 3, 2019, with email access limited.  The psychologist advises contacting the Lieutenant’s Office (Ext. 6450) for emergencies or contacting designated personnel for psychology-related issues.  An OIG (Office of the Inspector General) is requesting an interview regarding Jeffrey Epstein, registration number 76318-054.  The OIG wants to interview staff members including a nurse, and the medical staff are available for voluntary interviews.",
+      "timestamp": "2019-09-03T00:00:00",
+      "timestamp_raw": "September 3, 2019",
+      "keywords": [
+        "forensic psychologist",
+        "suicide watch",
+        "jeffrey epstein",
+        "metropolitan correctional center",
+        "u.s. department of justice",
+        "oig",
+        "interviews",
+        "psychologist",
+        "risk assessment",
+        "new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024760",
+      "summary": "Dawn M. Hughes, Ph.D., ABPP, is a clinical and forensic psychologist specializing in traumatic stress, interpersonal violence, and anxiety disorders. She holds degrees from Nova Southeastern University and has extensive professional experience, including postdoctoral fellowships, clinical practice, and academic positions at Well Cornell Medical College. Her licensure includes New York, Connecticut, and North Carolina. She is a member of numerous professional organizations, including the American Psychological Association and the International Society for Traumatic Stress Studies. Hughes has a significant record of professional activities and presentations, frequently lecturing on forensic psychology, trauma assessment, and courtroom strategies related to interpersonal violence.  Her research focuses on memory of childhood sexual abuse and its psychological effects.",
+      "timestamp": "2019-09-17T00:00:00",
+      "timestamp_raw": "September 17, 2019",
+      "keywords": [
+        "clinical psychology",
+        "forensic psychology",
+        "trauma",
+        "anxiety disorders",
+        "sexual abuse",
+        "domestic violence",
+        "ptsd",
+        "research",
+        "academia",
+        "new york",
+        "expert witness"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024767",
+      "summary": "Dr. Dawn Hughes, a forensic psychologist, provides psychological evaluations for legal purposes, working with law firms as clients. Evaluations involve interviews, testing, document review, and report preparation.  Confidentiality is maintained, with information shared with the litigant's attorney. Fees are $500 per hour, with specific billing rates for court testimony and disbursements. A $7000 retainer is required, with $3500 non-refundable, and the final cost depends on the scope of the evaluation. All agreements must be in writing and signed by Dr. Hughes and an authorized representative of the law firm.",
+      "timestamp": "2020-10-08T00:00:00",
+      "timestamp_raw": "October 8, 2020",
+      "keywords": [
+        "forensic psychology",
+        "psychological evaluation",
+        "expert witness",
+        "confidentiality",
+        "fees",
+        "retainer",
+        "evaluation",
+        "psychological testing",
+        "dr. hughes"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024756",
+      "summary": "On November 2, 2020, Dawn Hughes responded to an email from a federal prosecutor regarding potential expert testimony for the trial of United States v. Isac Axwe, scheduled for July 12, 2021, in the Southern District of New York. Hughes expressed interest in discussing her availability for a call to discuss the possibility of providing expert witness testimony.",
+      "timestamp": "2020-11-02T00:00:00",
+      "timestamp_raw": "November 2, 2020",
+      "keywords": [
+        "expert testimony",
+        "united states v. is acne axwe",
+        "federal prosecutors",
+        "forensic psychologist",
+        "trial",
+        "new york",
+        "dawn hughes",
+        "october 29",
+        "2020",
+        "july 12",
+        "2021"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00018082",
+            "similarity": 0.5,
+            "index": 25,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00030529",
+      "summary": "On November 4, 2020, Neil (liIIM) responded to Dawn Hughes regarding an offer to provide expert testimony as a clinical and forensic psychologist in the trial of *United States v. Ghislaine Maxwell*. The trial was scheduled for July 12, 2021, in the Southern District of New York. Dawn Hughes had attached her CV and standard engagement agreement for review and offered a call to discuss availability the following day or the week after.",
+      "timestamp": "2020-11-04T00:00:00",
+      "timestamp_raw": "November 4, 2020",
+      "keywords": [
+        "efta00030529",
+        "efta00030530",
+        "dawn hughes",
+        "roberta kaplan",
+        "expert testimony",
+        "ghislaine maxwell",
+        "united states v.",
+        "trial",
+        "forensic psychologist",
+        "clinical psychologist"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00024754",
+            "similarity": 0.5,
+            "index": 23,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00024758",
+            "similarity": 0.538,
+            "index": 24,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00024754",
+      "summary": "Dr. Dawn Hughes, a Clinical and Forensic Psychologist, was contacted by federal prosecutors regarding her potential testimony as an expert witness in the trial of *United States v. Ghislaine Maxwell*. The trial is scheduled for July 12, 2021, in the Southern District of New York. Dr. Hughes responded positively to a request to discuss availability for a call to discuss the possibility of her providing expert testimony.",
+      "timestamp": "2021-07-12T00:00:00",
+      "timestamp_raw": "July 12, 2021",
+      "keywords": [
+        "expert testimony",
+        "ghislaine maxwell",
+        "united states v.",
+        "forensic psychologist",
+        "clinical psychologist",
+        "trial",
+        "new york",
+        "july 12",
+        "2021",
+        "dawn hughes",
+        "efta00024754"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00030529",
+            "similarity": 0.5,
+            "index": 22,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00024758",
+            "similarity": 0.5,
+            "index": 24,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00018082",
+            "similarity": 0.75,
+            "index": 25,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00024758",
+      "summary": "Dawn Hughes was contacted by federal prosecutors regarding potential expert witness testimony in the case of *United States v. Ghislaine Maxwell*. The case is scheduled for trial on July 12, 2021, in the Southern District of New York. The prosecutors requested a call to discuss Hughes’ availability for a call tomorrow or next week. Hughes attached her CV and standard engagement agreement for review.",
+      "timestamp": "2021-07-12T00:00:00",
+      "timestamp_raw": "July 12, 2021",
+      "keywords": [
+        "efta00024758",
+        "dawn hughes",
+        "expert testimony",
+        "ghislaine maxwell",
+        "united states v.",
+        "trial",
+        "forensic psychologist",
+        "clinical psychologist",
+        "engagement agreement",
+        "2020"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00024754",
+            "similarity": 0.5,
+            "index": 23,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00030529",
+            "similarity": 0.538,
+            "index": 22,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018082",
+      "summary": "An email chain discusses the possibility of Dr. Dawn Hughes providing expert testimony as a forensic psychologist in the case of United States v. Ghislaine Maxwell. The trial is scheduled for July 12, 2021, in the Southern District of New York. A federal prosecutor initiated the inquiry regarding Dr. Hughes' availability for a call to discuss the matter.",
+      "timestamp": "2021-07-12T00:00:00",
+      "timestamp_raw": "July 12, 2021",
+      "keywords": [
+        "expert testimony",
+        "ghislaine maxwell",
+        "united states v.",
+        "forensic psychologist",
+        "dawn hughes",
+        "trial",
+        "september 2020",
+        "new york",
+        "july 12",
+        "2021"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00024754",
+            "similarity": 0.75,
+            "index": 23,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00024756",
+            "similarity": 0.5,
+            "index": 21,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036317",
+      "summary": "This document contains August reviews from a Forensic Psychologist, Dr. Psy.D., Ph.D., who is a Psychologist with the United States Public Health Service and works at the Metropolitan Correctional Center in New York. The document is associated with case file EFTA00036317.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00036317",
+        "forensic psychologist",
+        "shu reviews",
+        "psy.d.",
+        "ph.d.",
+        "metropolitan correctional center",
+        "united states public health service"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00033995",
+      "summary": "A forensic psychologist requests emails related to Jeffrey Epstein, specifically inquiries about needing a cellmate or any other communications concerning Epstein. The request originates from the Metropolitan Correctional Center in New York.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "epstein",
+        "emails",
+        "forensic psychologist",
+        "cellmate",
+        "metropolitan correctional center",
+        "sdny",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035285",
+            "similarity": 0.667,
+            "index": 15,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033994",
+            "similarity": 0.545,
+            "index": 14,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    }
+  ]
+}

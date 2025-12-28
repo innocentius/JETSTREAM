@@ -1,0 +1,1344 @@
+{
+  "keyword": "press conference",
+  "count": 34,
+  "keyword_match_count": 34,
+  "content_match_count": 3,
+  "total_files": 37,
+  "timeline": [
+    {
+      "file_id": "EFTA00037799",
+      "summary": "*   **Initial Investigations (2005-2007):** The FBI and West Palm Beach Police investigated Epstein starting in 2005, involving interviews with approximately 35 victims, a search of his Florida residence, and analysis of records. *   **Non-Prosecution Agreement (2008):** Epstein pleaded guilty to soliciting prostitution and received a 18-month sentence, a deal that drew significant media attention due to Alex Acosta's involvement. *   **New York Investigation (2018):** The SDNY opened an investigation into Epstein’s activities in New York, confirmed by his long-standing connections and residence there. *   **Victim Accounts:** Victims, primarily between ages 14-17, reported Epstein’s abuse involving masturbation, fondling, and direct genital contact, with payments of $200-$300 per session. He recruited additional girls through recruiters. Locations included New York City, Florida, USVI, and New Mexico. *   **Ongoing Efforts:** The NYO is coordinating interviews with co-conspirators and victims, pursuing seizure of Epstein’s residences (valued at approximately $100M), and planning a press conference with a victim tip line.",
+      "timestamp": "2019-07-02T00:00:00",
+      "timestamp_raw": "July 2, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "sex trafficking",
+        "human trafficking",
+        "arrest",
+        "manhattan",
+        "florida",
+        "victims",
+        "prosecution agreement",
+        "new york city",
+        "recruiter"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030224",
+      "summary": "On July 7, 2019, multiple individuals communicated regarding the arrest of Jeffrey Epstein on sex trafficking charges. One email congratulated the team involved in the arrest and prosecution, highlighting the seriousness of the charges and the potential for bringing justice to numerous victims. Another email announced the upcoming sentencing hearing, scheduled to be handled by the sender. The arrest was considered an \"extraordinarily worthy prosecution\" and a demonstration of the unit’s commitment to pursuing difficult cases against powerful individuals.",
+      "timestamp": "2019-07-07T00:00:00",
+      "timestamp_raw": "July 7, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "sex trafficking",
+        "indictment",
+        "victims",
+        "prosecution",
+        "arrest",
+        "sentencing",
+        "psi",
+        "press conference",
+        "usanys"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00030172",
+            "similarity": 0.538,
+            "index": 2,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028362",
+            "similarity": 0.667,
+            "index": 4,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028988",
+            "similarity": 0.667,
+            "index": 5,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00030172",
+      "summary": "On July 7, 2019, an individual (USANYS) forwarded a message regarding the arrest of Jeffrey Epstein on sex trafficking charges. Epstein was in custody awaiting arraignment on an upcoming indictment. The charges were considered an important and worthy prosecution involving numerous victims, including girls as young as 14, and represented a commitment to prosecuting powerful individuals. A press conference announcing the charges was scheduled for Monday morning at 11:00 AM.",
+      "timestamp": "2019-07-07T00:00:00",
+      "timestamp_raw": "July 7, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "sex trafficking",
+        "indictment",
+        "victims",
+        "usanys",
+        "redaction",
+        "prosecution",
+        "arrests",
+        "press conference",
+        "pcu"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00030224",
+            "similarity": 0.538,
+            "index": 1,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00015598",
+            "similarity": 0.667,
+            "index": 3,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028362",
+            "similarity": 0.667,
+            "index": 4,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028988",
+            "similarity": 0.538,
+            "index": 5,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00015598",
+      "summary": "On July 7, 2019, Jeffrey Epstein was arrested on sex trafficking charges. He is in custody awaiting arraignment on an upcoming indictment. The case is considered important due to the serious nature of the charges and the potential for bringing justice to dozens of victims, some as young as 14, who were abused. A press conference announcing the charges was planned for Monday morning at 11:00 AM.",
+      "timestamp": "2019-07-07T00:00:00",
+      "timestamp_raw": "July 7, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "sex trafficking",
+        "indictment",
+        "victims",
+        "arrests",
+        "prosecution",
+        "legal",
+        "charges",
+        "press conference",
+        "pcu"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00030172",
+            "similarity": 0.667,
+            "index": 2,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00028362",
+            "similarity": 0.667,
+            "index": 4,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028988",
+            "similarity": 0.538,
+            "index": 5,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00015573",
+            "similarity": 0.818,
+            "index": 6,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00028362",
+      "summary": "On July 7, 2019, an email was sent regarding the arrest of Jeffrey Epstein on sex trafficking charges. Epstein was in custody awaiting arraignment on an upcoming indictment. The email highlighted the significance of the case, emphasizing the serious nature of the charges and the potential for justice for numerous victims, including those as young as 14. A press conference was scheduled for Monday morning at 11:00 AM to formally announce the charges.",
+      "timestamp": "2019-07-07T00:00:00",
+      "timestamp_raw": "July 7, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "sex trafficking",
+        "arrest",
+        "victims",
+        "prosecution",
+        "indictment",
+        "usanys",
+        "pcu",
+        "charges",
+        "press conference"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00015598",
+            "similarity": 0.667,
+            "index": 3,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00030172",
+            "similarity": 0.667,
+            "index": 2,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00030224",
+            "similarity": 0.667,
+            "index": 1,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00028988",
+            "similarity": 0.818,
+            "index": 5,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00015573",
+            "similarity": 0.538,
+            "index": 6,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00032592",
+            "similarity": 0.818,
+            "index": 7,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00028988",
+      "summary": "On July 7, 2019, an individual (USANYS) sent an email to a recipient (REDACTED) regarding the arrest of Jeffrey Epstein on sex trafficking charges. The email highlighted the significance of the case, including the potential for justice for numerous victims, and praised the team's swift action. A press conference announcing the charges was scheduled for Monday morning at 11:00 AM.",
+      "timestamp": "2019-07-07T00:00:00",
+      "timestamp_raw": "July 7, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "sex trafficking",
+        "arrest",
+        "victims",
+        "prosecution",
+        "indictment",
+        "charges",
+        "usanys",
+        "redaction analysis",
+        "press conference"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00028362",
+            "similarity": 0.818,
+            "index": 4,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00015598",
+            "similarity": 0.538,
+            "index": 3,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00030172",
+            "similarity": 0.538,
+            "index": 2,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00015573",
+            "similarity": 0.538,
+            "index": 6,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00032592",
+            "similarity": 0.667,
+            "index": 7,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00015597",
+            "similarity": 0.818,
+            "index": 8,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00015573",
+      "summary": "On July 7, 2019, an individual (identified as “PCU”) received an email detailing the arrest of Jeffrey Epstein on sex trafficking charges. The arrest was considered an important case due to the serious nature of the crimes and the potential for justice for victims, including those as young as 14. A press conference announcing the charges was scheduled for Monday morning at 11:00 AM. The email expressed congratulations to the team involved in the prosecution.",
+      "timestamp": "2019-07-07T00:00:00",
+      "timestamp_raw": "July 7, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "sex trafficking",
+        "indictment",
+        "victims",
+        "arrests",
+        "prosecution",
+        "legal",
+        "charges",
+        "press conference",
+        "efta00015573"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00028988",
+            "similarity": 0.538,
+            "index": 5,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028362",
+            "similarity": 0.538,
+            "index": 4,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00015598",
+            "similarity": 0.818,
+            "index": 3,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00032592",
+            "similarity": 0.667,
+            "index": 7,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00032592",
+      "summary": "On July 7, 2019, an email was sent regarding the arrest of Jeffrey Epstein on sex trafficking charges. The sender, [REDACTED], congratulated the team involved in the prosecution, highlighting the case’s importance due to the serious nature of the charges and the potential for justice for numerous victims, including those as young as 14. A press conference announcing the charges was scheduled for Monday morning at 11:00 AM.",
+      "timestamp": "2019-07-07T00:00:00",
+      "timestamp_raw": "July 7, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "sex trafficking",
+        "indictment",
+        "victims",
+        "arrests",
+        "prosecution",
+        "charges",
+        "usanys",
+        "pcu",
+        "press conference"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00015573",
+            "similarity": 0.667,
+            "index": 6,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028988",
+            "similarity": 0.667,
+            "index": 5,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028362",
+            "similarity": 0.818,
+            "index": 4,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00015597",
+            "similarity": 0.667,
+            "index": 8,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00032971",
+            "similarity": 0.667,
+            "index": 9,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00015597",
+      "summary": "On July 7, 2019, an individual (identified as “PCU”) informed Mat of the arrest of Jeffrey Epstein on sex trafficking charges. Epstein was in custody awaiting arraignment on an upcoming indictment. The case was described as critically important, involving potential charges against numerous victims, including those as young as 14, and represented a significant prosecution of a powerful individual. A press conference announcing the charges was scheduled for Monday morning at 11:00 AM.",
+      "timestamp": "2019-07-07T00:00:00",
+      "timestamp_raw": "July 7, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "sex trafficking",
+        "arrest",
+        "victims",
+        "prosecution",
+        "indictment",
+        "charges",
+        "usanys",
+        "pcu",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00032592",
+            "similarity": 0.667,
+            "index": 7,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028988",
+            "similarity": 0.818,
+            "index": 5,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00028362",
+            "similarity": 0.818,
+            "index": 4,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00032971",
+            "similarity": 1.0,
+            "index": 9,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00032971",
+      "summary": "On July 7, 2019, an arrest was made regarding Jeffrey Epstein on sex trafficking charges. Epstein was in custody awaiting arraignment on an upcoming indictment. The case was considered extremely serious and important, with the potential to bring justice for numerous victims, including those as young as 14. A team was congratulated for the swift prosecution, with a planned press conference to be held Monday morning.",
+      "timestamp": "2019-07-07T00:00:00",
+      "timestamp_raw": "July 7, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "sex trafficking",
+        "arrest",
+        "indictment",
+        "victims",
+        "prosecution",
+        "charges",
+        "usanys",
+        "pcu",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00015597",
+            "similarity": 1.0,
+            "index": 8,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00032592",
+            "similarity": 0.667,
+            "index": 7,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028988",
+            "similarity": 0.818,
+            "index": 5,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031682",
+      "summary": "An email was sent from the United States Department of Justice’s Public Affairs office to [REDACTED] regarding a press conference video. The video, hosted at https://www.justice.gov/usao-sdny/2019-press-conferences, was shared by Nicholas Biase.",
+      "timestamp": "2019-07-11T00:00:00",
+      "timestamp_raw": "11 Jul 2019",
+      "keywords": [
+        "epstein",
+        "press conference",
+        "video",
+        "justice",
+        "doj",
+        "southern district of new york",
+        "nicholas biase",
+        "redaction",
+        "united states department of justice",
+        "2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016803",
+      "summary": "On January 27, 2020, an FBI agent (SSA-C-20, Crimes Against Children/Human Trafficking, FBI New York) sent an email to inquire about the details of a press conference held at Jeffrey Epstein’s mansion. The email included a forwarded message from another FBI agent regarding questions about the press conference's subject and calls from irate victims who were not notified. A USANYS individual had already contacted the sender to connect them with someone to discuss the situation.",
+      "timestamp": "2020-01-27T00:00:00",
+      "timestamp_raw": "January 27, 2020",
+      "keywords": [
+        "epstein",
+        "press conference",
+        "fbi",
+        "victims",
+        "trafficking",
+        "redaction",
+        "ssa",
+        "crimes against children",
+        "aaronkatersky",
+        "new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00011145",
+            "similarity": 0.538,
+            "index": 15,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037269",
+      "summary": "On January 27, 2020, a press conference was held at Jeffrey Epstein’s mansion. The conference was related to Safe Horizon and addressed a question regarding the active investigation, specifically involving Prince Andrew. FBI New York personnel were surprised by the event and received inquiries from victims who were not notified in advance. One individual, [REDACTED], expressed annoyance about the lack of prior notification.",
+      "timestamp": "2020-01-27T00:00:00",
+      "timestamp_raw": "January 27, 2020",
+      "keywords": [
+        "epstein",
+        "fbi",
+        "press conference",
+        "safe horizon",
+        "victim services",
+        "prince andrew",
+        "investigation",
+        "new york",
+        "redaction",
+        "ssa"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00031722",
+            "similarity": 0.667,
+            "index": 13,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00031722",
+      "summary": "On January 27, 2020, FBI New York personnel were involved in communication regarding a press conference held at Epstein’s mansion. One individual expressed surprise that supervisors hadn’t informed them about the conference, particularly concerning comments about an ongoing investigation. Another individual, a Geoff, answered questions relating to Prince Andrew. A media affairs officer requested information about the press conference’s purpose, noting questions from the media and irate victims who were not notified.",
+      "timestamp": "2020-01-27T00:00:00",
+      "timestamp_raw": "January 27, 2020",
+      "keywords": [
+        "fbi",
+        "epstein",
+        "press conference",
+        "victim services",
+        "safe horizon",
+        "prince andrew",
+        "investigation",
+        "redaction",
+        "ny (fbi)",
+        "after-affects"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037269",
+            "similarity": 0.667,
+            "index": 12,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016804",
+      "summary": "An FBI assistant U.S. attorney sent an email to InialYS <MIMMIE> regarding complaints from victims’ services about the FBI’s failure to notify them of a press conference at Jeffrey Epstein’s residence.",
+      "timestamp": "2020-01-27T00:00:00",
+      "timestamp_raw": "27 Jan 2020",
+      "keywords": [
+        "fbi",
+        "victims",
+        "press conference",
+        "epstein",
+        "notification",
+        "u.s. attorney",
+        "southern district of new york",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00011145",
+      "summary": "On January 27, 2020, the FBI received emails regarding a press conference held at Jeffrey Epstein’s mansion. One email chain detailed concerns about victims not being notified and requests for guidance on communicating with them. Another email chain indicated that an FBI team was receiving calls related to the press conference and that a location was mentioned to multiple individuals. A SSA-Squad C-20 representative from the FBI New York office provided information about the press conference and the victim's reactions.",
+      "timestamp": "2020-01-27T00:00:00",
+      "timestamp_raw": "January 27, 2020",
+      "keywords": [
+        "fbi",
+        "epstein",
+        "press conference",
+        "victims",
+        "redaction",
+        "usanys",
+        "aaronkatersky",
+        "twitter",
+        "crimes against children",
+        "human trafficking"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00016803",
+            "similarity": 0.538,
+            "index": 11,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00021051",
+            "similarity": 0.538,
+            "index": 16,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00021051",
+      "summary": "A press conference took place at Jeffrey Epstein’s mansion on January 27, 2020, regarding questions from the media affairs department and calls from irate victims who were not notified. The email is from the FBI New York’s Crimes Against Children/Human Trafficking Squad C-20.",
+      "timestamp": "2020-01-27T00:00:00",
+      "timestamp_raw": "January 27, 2020",
+      "keywords": [
+        "epstein",
+        "press conference",
+        "victims",
+        "human trafficking",
+        "fbi",
+        "crimes against children",
+        "ssa",
+        "squad c-20",
+        "notification",
+        "twitter"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00011145",
+            "similarity": 0.538,
+            "index": 15,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037415",
+      "summary": "A press conference hosted by Safe Horizons raised awareness for New York State’s Child Victims Act. The conference, held near Epstein’s residence, was not related to the Epstein investigation, though it included a brief discussion about Prince Andrew. Concerns were raised by a victim and her contact regarding not being notified of the event.  FBI personnel acknowledged the poor judgment and lack of communication surrounding the press conference, directing inquiries to the Victim Services (VS) lead, but advising against adding fuel to the situation.  One FBI agent requested guidance on how to frame the situation for the affected victims and suggested they contact the US Attorney's Office for feedback.",
+      "timestamp": "2020-01-29T00:00:00",
+      "timestamp_raw": "29 Jan 2020",
+      "keywords": [
+        "safe horizons",
+        "new york state child victims act",
+        "epstein",
+        "prince andrew",
+        "victims",
+        "fbi",
+        "press conference",
+        "child victims",
+        "victim services",
+        "awareness"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030776",
+      "summary": "An email chain discusses the inclusion of photographs, specifically one of Jeffrey Epstein and Ghislaine Maxwell together, within a criminal indictment related to a “GM indictment.” One party suggests using the photos for a press conference, citing their public availability and potential value as visuals. Another party questions the necessity of including them in the indictment, referencing a previous instance where a photo of Epstein was used at a press conference without being part of the official indictment. The discussion occurred between individuals within the United States Attorney’s Office, SDNY.",
+      "timestamp": "2020-06-26T00:00:00",
+      "timestamp_raw": "26 Jun 2020",
+      "keywords": [
+        "indictment",
+        "gm",
+        "photos",
+        "press conference",
+        "usanys",
+        "efta00030776",
+        "horse case",
+        "jm",
+        "je",
+        "epstein"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021174",
+      "summary": "On June 26, 2020, Audrey received draft remarks and a Q&A document (“Ghislaine_Maxwell_Press_Remarks_v3.docx”; “Maxwelljossible_QA_v2.docx”) from the team regarding a potential press conference for Ghislaine Maxwell. The team is collaborating with the press office to develop visuals.",
+      "timestamp": "2020-06-26T00:00:00",
+      "timestamp_raw": "June 26, 2020",
+      "keywords": [
+        "efta00021174",
+        "ghislaine maxwell",
+        "press remarks",
+        "q&a",
+        "press conference",
+        "visual",
+        "remarks",
+        "audrey",
+        "june 2020"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031105",
+      "summary": "The discussion concerns a potential arrest situation and the timing of a press conference. One party suggests delaying the press conference until the following morning if a woman is arrested later that day, specifically after 1:00 PM, due to the possibility of her being held in jail until then. They reference a previous situation involving Jeffrey Epstein, where the arrest and press conference were delayed until Monday morning. The concern is that releasing information prematurely could lead to public inquiries before the planned press conference. The clerk’s office operating hours are a factor in the decision-making process.",
+      "timestamp": "2020-07-01T00:00:00",
+      "timestamp_raw": "01 Jul 2020",
+      "keywords": [
+        "arrest",
+        "press conference",
+        "indictment",
+        "epstein",
+        "delay",
+        "presentation",
+        "courthouse",
+        "legal",
+        "press office",
+        "unseal"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029859",
+      "summary": "On July 1, 2020, discussions occurred regarding the handling of an arrest, referencing prior actions related to Jeffrey Epstein’s arrest. Concerns were raised about timing – specifically, whether a press conference should be held if an arrest occurred late in the day, potentially impacting the presentation of the individual to the court. The possibility of postponing the press conference to the following morning was discussed if the arrest occurred after 1:00 PM, when the presentment cutoff in DNH is.",
+      "timestamp": "2020-07-01T00:00:00",
+      "timestamp_raw": "July 1, 2020",
+      "keywords": [
+        "efta00029859",
+        "redaction",
+        "arrest",
+        "press conference",
+        "courthouse",
+        "epstein",
+        "gm",
+        "unsealing",
+        "dnh",
+        "presentment"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015353",
+      "summary": "A press release is being prepared to announce charges against Ghislaine Maxwell for her role in the sexual exploitation and abuse of minor girls by Jeffrey Epstein. The press conference will be held on July 1, 2020, at the U.S. Attorney’s Office, Southern District of New York, at XX:00 a.m. and will be livestreamed on Facebook. Logistics are being coordinated, including securing a backdrop, chairs, and addressing acoustic concerns within the venue. A paragraph regarding COVID-19 safety protocols and increased arrival times for press attendees is being drafted for the press advisory. The International Court of Trade has denied a request.",
+      "timestamp": "2020-07-01T00:00:00",
+      "timestamp_raw": "July 1, 2020",
+      "keywords": [
+        "press release",
+        "covid-19",
+        "ghislaine maxwell",
+        "jeffrey epstein",
+        "united states attorney",
+        "fbi",
+        "press conference",
+        "sexual exploitation",
+        "social distance",
+        "lobby"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015355",
+      "summary": "On July 1, 2020, at XX:00 p.m., Audrey Strauss, Acting United States Attorney for the Southern District of New York, will hold a press conference at the U.S. Attorney’s Office to announce charges against Ghislaine Maxwell for her role in the sexual exploitation and abuse of minor girls by Jeffrey Epstein. The press conference will be livestreamed on Facebook and will adhere to mandatory COVID-19 protocols.",
+      "timestamp": "2020-07-01T00:00:00",
+      "timestamp_raw": "July 1, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "jeffrey epstein",
+        "sexual exploitation",
+        "abuse",
+        "press conference",
+        "united states attorney",
+        "southern district of new york",
+        "facebook",
+        "audrey strauss",
+        "fbi"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015356",
+      "summary": "*   The press conference will be held on July 1, 2020, at the U.S. Attorney’s Office, Southern District of New York. *   Audrey Strauss, Acting United States Attorney, and an FBI Assistant Director-in-Charge will lead the conference. *   Logistics are being discussed, including venue selection (initially the lobby was considered, then Plan B/Z – using the whole lobby) and COVID-19 safety protocols (masks, social distancing, step-and-repeat backdrop). *   The FBI is assisting with arrangements, including securing chairs, checking capacity, and addressing acoustic concerns. *   A paragraph is needed for the press advisory to outline safety protocols and request extra time for press entry. *   The planned timing of the arrest is uncertain, with potential pushes to Thursday.",
+      "timestamp": "2020-07-01T00:00:00",
+      "timestamp_raw": "July 1, 2020",
+      "keywords": [
+        "covid-19",
+        "press release",
+        "maxwell",
+        "epstein",
+        "fbi",
+        "protocols",
+        "social distancing",
+        "press conference",
+        "us attorney",
+        "safety"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029858",
+      "summary": "On July 1, 2020, discussions occurred regarding the handling of a potential arrest and subsequent press conference related to an individual (likely Jeffrey Epstein). A plan was considered to keep the arrest under seal and provide a copy to lawyers, followed by a press conference. Concerns arose about the timing of the press conference if the arrest occurred late in the day, potentially leading to the individual being held in jail until the following morning. A proposed solution was to postpone the press conference to the following morning if the arrest occurred before 1:00 PM, when the presentment would be cut off.",
+      "timestamp": "2020-07-01T00:00:00",
+      "timestamp_raw": "July 1, 2020",
+      "keywords": [
+        "epstein",
+        "press conference",
+        "arrest",
+        "unsealing",
+        "legal",
+        "dnh",
+        "presentation",
+        "monday",
+        "clerk's office",
+        "2020"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028748",
+      "summary": "An email chain congratulates a team on the arrest of Ghislaine Maxwell. One sender highlights the extensive investigative work, creativity, and perseverance involved in building the case, referencing conduct dating back significantly. Another sender announces a press conference at 12:00 to celebrate the accomplishment.",
+      "timestamp": "2020-07-02T00:00:00",
+      "timestamp_raw": "02 Jul 2020",
+      "keywords": [
+        "maxwell",
+        "redaction",
+        "case",
+        "arrest",
+        "ghislaine maxwell",
+        "press conference",
+        "legal",
+        "perseverance",
+        "criminal prosecution",
+        "efta00028748"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00010431",
+            "similarity": 0.538,
+            "index": 28,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00031494",
+      "summary": "An email chain congratulates a team on the arrest of Ghislaine Maxwell. One sender highlights the team’s productivity during quarantine and commends their “extraordinary amount of work and perseverance” in building a case based on “conduct that I’m pretty sure is older than all of our paralegals.” A press conference is scheduled for 12:00.",
+      "timestamp": "2020-07-02T00:00:00",
+      "timestamp_raw": "02 Jul 2020",
+      "keywords": [
+        "maxwell",
+        "ghislaine",
+        "arrest",
+        "case",
+        "perseverance",
+        "team",
+        "quarantine",
+        "press conference",
+        "redaction",
+        "efta00031494"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00010431",
+            "similarity": 0.667,
+            "index": 28,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00029934",
+            "similarity": 0.538,
+            "index": 29,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00016164",
+            "similarity": 0.538,
+            "index": 30,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00010431",
+      "summary": "An email chain congratulates a team on the arrest of Ghislaine Maxwell. The sender highlights the extensive work, perseverance, and creativity involved in building the case, noting the conduct relates to a long-standing issue. A press conference is scheduled for 12:00.",
+      "timestamp": "2020-07-02T00:00:00",
+      "timestamp_raw": "02 Jul 2020",
+      "keywords": [
+        "maxwell",
+        "ghislaine",
+        "arrest",
+        "case",
+        "redaction",
+        "press conference",
+        "congratulating",
+        "team",
+        "perseverance",
+        "criminal prosecution"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00031494",
+            "similarity": 0.667,
+            "index": 27,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028748",
+            "similarity": 0.538,
+            "index": 26,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00029934",
+            "similarity": 0.538,
+            "index": 29,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00016164",
+            "similarity": 0.667,
+            "index": 30,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00017735",
+            "similarity": 0.667,
+            "index": 31,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00029934",
+      "summary": "An email chain discusses the arrest of Ghislaine Maxwell. One sender congratulates a team on their \"extraordinary amount of work and perseverance\" in building a case based on “conduct that I’m pretty sure is older than all of our paralegals.” A press conference is scheduled for 12:00 regarding the case.",
+      "timestamp": "2020-07-02T00:00:00",
+      "timestamp_raw": "02 Jul 2020",
+      "keywords": [
+        "maxwell",
+        "ghislaine",
+        "arrest",
+        "case",
+        "press conference",
+        "accomplishment",
+        "perseverance",
+        "creativity",
+        "prosecution",
+        "redaction"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00010431",
+            "similarity": 0.538,
+            "index": 28,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00031494",
+            "similarity": 0.538,
+            "index": 27,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00016164",
+            "similarity": 0.538,
+            "index": 30,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00017735",
+            "similarity": 0.667,
+            "index": 31,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00029863",
+            "similarity": 0.538,
+            "index": 32,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00016164",
+      "summary": "An email chain discusses the arrest of Ghislaine Maxwell. One sender congratulates a team on their “extraordinary amount of work and perseverance” in building a case based on conduct predating the paralegals, referencing a Tuesday call. A press conference is scheduled for 12:00 regarding the accomplishment.",
+      "timestamp": "2020-07-02T00:00:00",
+      "timestamp_raw": "02 Jul 2020",
+      "keywords": [
+        "maxwell",
+        "ghislaine",
+        "arrest",
+        "case",
+        "prosecution",
+        "redaction",
+        "press conference",
+        "congratulating",
+        "team",
+        "legal"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00029934",
+            "similarity": 0.538,
+            "index": 29,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00010431",
+            "similarity": 0.667,
+            "index": 28,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00031494",
+            "similarity": 0.538,
+            "index": 27,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00017735",
+            "similarity": 0.538,
+            "index": 31,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00029863",
+            "similarity": 0.818,
+            "index": 32,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00017735",
+      "summary": "An email chain congratulates a team on the arrest of Ghislaine Maxwell. The sender highlights the team’s productivity during quarantine and commends their “extraordinary amount of work and perseverance” in building a case based on evidence dating back significantly. A press conference is scheduled for 12:00.",
+      "timestamp": "2020-07-02T00:00:00",
+      "timestamp_raw": "02 Jul 2020",
+      "keywords": [
+        "maxwell",
+        "ghislaine",
+        "arrest",
+        "case",
+        "perseverance",
+        "creativity",
+        "press conference",
+        "quarantine",
+        "team",
+        "redaction"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00016164",
+            "similarity": 0.538,
+            "index": 30,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00029934",
+            "similarity": 0.667,
+            "index": 29,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00010431",
+            "similarity": 0.667,
+            "index": 28,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00029863",
+            "similarity": 0.538,
+            "index": 32,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00030955",
+            "similarity": 0.538,
+            "index": 36,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00029863",
+      "summary": "An email chain discusses the arrest of Ghislaine Maxwell. One sender congratulates a team on their “extraordinary amount of work and perseverance” in building a case based on older conduct, referencing a press conference scheduled for 12:00. The email chain originates from [REDACTED] to [REDACTED].",
+      "timestamp": "2020-07-02T00:00:00",
+      "timestamp_raw": "02 Jul 2020",
+      "keywords": [
+        "maxwell",
+        "ghislaine",
+        "arrest",
+        "case",
+        "press conference",
+        "prosecution",
+        "redaction",
+        "efta00029863",
+        "congratulating",
+        "team"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00017735",
+            "similarity": 0.538,
+            "index": 31,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00016164",
+            "similarity": 0.818,
+            "index": 30,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00029934",
+            "similarity": 0.538,
+            "index": 29,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030377",
+      "summary": "On July 2, 2020, at 9:49 AM EDT, the Press-Office, SDNY, sent a press conference advisory regarding the indictment of Ghislaine Maxwell.  A subsequent email, sent on July 6, 2020, at 5:08 PM GMT, expressed appreciation for the advisory. The email originated from [REDACTED] (USANYS) 8 [REDACTED].  The email chain involved correspondence regarding the \"U.S. v. Ghislaine Maxwell Indictment.pdf\" document (EFTA00030377).",
+      "timestamp": "2020-07-02T00:00:00",
+      "timestamp_raw": "July 2, 2020",
+      "keywords": [
+        "efta00030377",
+        "redaction",
+        "press conference",
+        "usanys",
+        "ghislaine maxwell",
+        "indictment",
+        "july 2",
+        "2020",
+        "sdny",
+        "u.s."
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00031851",
+            "similarity": 0.538,
+            "index": 34,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00031851",
+      "summary": "On July 2, 2020, at 12:00 p.m., a press conference was announced regarding the indictment of Ghislaine Maxwell. An email chain ensued, with confirmations and expressions of congratulations sent between individuals associated with the SDNY (Southern District of New York) Press-Office and [REDACTED]. A PDF document titled \"EFTA00031851.pdf\" (likely the indictment) was also shared.",
+      "timestamp": "2020-07-02T00:00:00",
+      "timestamp_raw": "July 2, 2020",
+      "keywords": [
+        "efta00031851",
+        "redaction analysis",
+        "usanys",
+        "press conference",
+        "ghislaine maxwell",
+        "indictment",
+        "july 2",
+        "2020",
+        "sdny",
+        "american heroes"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00030377",
+            "similarity": 0.538,
+            "index": 33,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021169",
+      "summary": "A Daily Mail reporter in New York sent a PDF of a print edition coverage of the Maxwell arrest and press conference to the sender. The PDF is titled \"GhislaineDMarrestcoverage.pdf\" and is labeled as EFTA00021169.",
+      "timestamp": "2020-07-03T00:00:00",
+      "timestamp_raw": "03 Jul 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "arrest",
+        "press conference",
+        "daily mail",
+        "efta00021169"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030955",
+      "summary": "An email chain congratulates a team on the arrest of Ghislaine Maxwell. One sender highlights the team’s diligent, creative, and extensive work in building a case based on longstanding conduct, referencing a conversation from a previous call. Another sender announces a press conference scheduled for 12:00.",
+      "timestamp": "2020-07-06T00:00:00",
+      "timestamp_raw": "06 Jul 2020",
+      "keywords": [
+        "maxwell",
+        "ghislaine",
+        "arrest",
+        "case",
+        "press conference",
+        "accomplishment",
+        "perseverance",
+        "creativity",
+        "conduct",
+        "prosecution"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00017735",
+            "similarity": 0.538,
+            "index": 31,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00029934",
+            "similarity": 0.818,
+            "index": 29,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": []
+      }
+    }
+  ]
+}

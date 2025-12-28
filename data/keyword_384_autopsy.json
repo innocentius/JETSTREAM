@@ -1,0 +1,2002 @@
+{
+  "keyword": "autopsy",
+  "count": 48,
+  "keyword_match_count": 48,
+  "content_match_count": 16,
+  "total_files": 64,
+  "timeline": [
+    {
+      "file_id": "EFTA00033799",
+      "summary": "On August 9, 2019, Jeffrey Epstein was found unresponsive in his cell at the Metropolitan Correctional Center (MCC) New York at 6:33 AM. Medical personnel initiated CPR and provided interventions including epinephrine and intubation. He was transported to Beekman Hospital where he was pronounced dead at 7:36 AM. Following the incident, law enforcement and investigative teams, including the FBI, US Marshals, medical examiners, and various institutional staff, responded. They conducted interviews, collected evidence (fingerprints, photographs, computer data), and coordinated with legal and family representatives. The timeline details the sequence of events from initial discovery to the release of the body for autopsy, the involvement of multiple agencies, and the subsequent investigation conducted over several days, including staff recalls and continued FBI presence. Finally, operations resumed on August 11th.",
+      "timestamp": "2019-08-09T00:00:00",
+      "timestamp_raw": "August 9, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "suicide",
+        "shu",
+        "cpr",
+        "ems",
+        "hospital",
+        "fbi",
+        "autopsy",
+        "medical examiner",
+        "beekman hospital",
+        "time of death",
+        "attorneys",
+        "crisis support team",
+        "usms",
+        "sidny"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00035445",
+            "similarity": 0.562,
+            "index": 4,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034465",
+            "similarity": 0.5,
+            "index": 5,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035626",
+            "similarity": 0.562,
+            "index": 7,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035175",
+      "summary": "On August 9, 2019, Jeffrey Epstein was found unresponsive in his cell at the Metropolitan Correctional Center (MCC) New York at 6:33 am. Medical personnel initiated CPR and provided interventions including intubation, epinephrine, and IV access. He was transported to Beekman Hospital where he was pronounced dead at 7:36 am. A subsequent investigation involved numerous agencies including the FBI, US Marshals, Bureau of Prisons, Medical Examiner, and Office of Inspector General (OIG). Personnel documented timelines of staff responses, medical interventions, communication with various authorities (AUSA, Judge Berman, etc.), and the collection of evidence (fingerprints, photos, clothing).  The investigation involved multiple visits and interviews within the facility and at Beekman Hospital.  The institution’s operations were temporarily modified, and computer systems were secured and replaced.  The investigation continued over several days with FBI involvement, OIG oversight, and staff recall.",
+      "timestamp": "2019-08-09T00:00:00",
+      "timestamp_raw": "August 9, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "august 9",
+        "2019",
+        "shu",
+        "cpr",
+        "beekman hospital",
+        "fbi",
+        "autopsy",
+        "medical examiner",
+        "time of death",
+        "inmate",
+        "emergency response"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00035445",
+            "similarity": 0.571,
+            "index": 4,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034465",
+            "similarity": 0.5,
+            "index": 5,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00036664",
+            "similarity": 0.571,
+            "index": 8,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035220",
+      "summary": "On August 9, 2019, Jeffrey Epstein, while in the custody of the US Marshals, was visited by attorneys and had a social call with cellmate Reyes Efrain before being found unresponsive in his cell. Medical personnel initiated CPR, intubation, and attempted transport to Beekman Hospital where he was pronounced dead. Following his death, investigators, including the FBI, US Marshals, medical examiners, and various institutional staff, responded to the scene. A timeline of events followed, including the collection of evidence, interviews with inmates and staff, notification of legal representatives and family, and ultimately, the removal of Epstein’s computer from the SHU. The circumstances surrounding Epstein’s death were investigated by multiple agencies, including the OIG.",
+      "timestamp": "2019-08-09T00:00:00",
+      "timestamp_raw": "August 9, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "reyes efrain",
+        "shu",
+        "cpr",
+        "medical emergency",
+        "beekman hospital",
+        "fbi",
+        "autopsy",
+        "coroner",
+        "usms",
+        "time of death"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00034505",
+            "similarity": 0.615,
+            "index": 3,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035445",
+            "similarity": 0.5,
+            "index": 4,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00036664",
+            "similarity": 0.5,
+            "index": 8,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034505",
+      "summary": "On August 9, 2019, Jeffrey Epstein was unresponsive in his cell at 6:33 am, triggering a medical emergency and CPR. Medical personnel transported him to Beekman Hospital where he was pronounced dead at 7:36 am. Following the incident, law enforcement, including the FBI and various legal and investigative teams, responded to the institution. Procedures included fingerprinting, photography, securing clothing, notifying family, issuing a press release, and scheduling an autopsy performed by the Medical Examiner. The Office of the Inspector General (OIG) also investigated the incident.",
+      "timestamp": "2019-08-09T00:00:00",
+      "timestamp_raw": "August 9, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "suicide",
+        "shu",
+        "cpr",
+        "aed",
+        "medical emergency",
+        "beekman hospital",
+        "fbi",
+        "autopsy",
+        "time of death"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035220",
+            "similarity": 0.615,
+            "index": 2,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00035445",
+            "similarity": 0.538,
+            "index": 4,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034474",
+            "similarity": 0.5,
+            "index": 6,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035626",
+            "similarity": 0.538,
+            "index": 7,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035445",
+      "summary": "Around 6:33 AM, a body alarm was triggered, and staff discovered him unresponsive. Medical personnel initiated CPR and other life-saving measures, eventually intubating him and transporting him to Beekman Hospital. He was pronounced dead at 7:36 AM. The following events occurred: *   **Immediate Response (August 9):**  Initial calls to emergency services, USMS, SIS, FBI, and various institutional staff (Warden, Psychologist, Captain, etc.) were made. Reyes, Epstein’s cellmate, was released from court and did not return to the institution. *   **Investigation (August 9-11):**  Investigators, including the FBI, OIG, medical examiners, and computer services personnel, conducted interviews, took fingerprints and photographs, secured clothing, and removed computers from Epstein’s cell. The Medical Examiner performed an autopsy, and a press release was issued. *   **Evidence Collection (August 10-11):**  The OIG and FBI collected computer evidence (two FPS computers), and the Computer Services Manager replaced the seized computers. The timeline concluded with the removal of the computers and the departure of OIG/FBI personnel from the MCC New York.",
+      "timestamp": "2019-08-09T00:00:00",
+      "timestamp_raw": "August 9, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "reyes",
+        "shu",
+        "cpr",
+        "autopsy",
+        "beekman hospital",
+        "fbi",
+        "ems",
+        "medical examiner",
+        "time of death"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034505",
+            "similarity": 0.538,
+            "index": 3,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035220",
+            "similarity": 0.5,
+            "index": 2,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035175",
+            "similarity": 0.571,
+            "index": 1,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00034474",
+            "similarity": 0.5,
+            "index": 6,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035626",
+            "similarity": 0.667,
+            "index": 7,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00036664",
+            "similarity": 0.818,
+            "index": 8,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034465",
+      "summary": "On August 9, 2019, Jeffrey Epstein was found unresponsive in his cell at the Special Housing Unit (SHU) at WAB-USMS-SDNY, leading to a medical emergency and subsequent death. Initial events included an inmate departure for court, visits with attorneys, and a social call. CPR and medical interventions were performed, and he was transported to Beekman Hospital. A timeline of responses followed, involving law enforcement (FBI, USMS), legal personnel (AUSA, Judge Berman), medical staff (Medical Examiner, Psychologist), and institutional staff (warden, correctional officers, IT staff). Investigations spanned multiple days, including interviews, fingerprint collection, forensic examinations, and the removal of electronic devices. The investigation involved numerous agencies and personnel, culminating in the release of the body for autopsy and the resumption of normal operations on August 11, 2019.",
+      "timestamp": "2019-08-09T00:00:00",
+      "timestamp_raw": "August 9, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "suicide",
+        "shu",
+        "cpr",
+        "beekman hospital",
+        "fbi",
+        "autopsy",
+        "medical examiner",
+        "august 10",
+        "2019",
+        "coroner",
+        "crisis support team"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035175",
+            "similarity": 0.5,
+            "index": 1,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033799",
+            "similarity": 0.5,
+            "index": 0,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00034474",
+            "similarity": 0.769,
+            "index": 6,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00035626",
+            "similarity": 0.571,
+            "index": 7,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00036664",
+            "similarity": 0.571,
+            "index": 8,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034474",
+      "summary": "Medical personnel initiated CPR and other life-saving measures, leading to intubation and administration of epinephrine. He was transported to Beekman Hospital where he was pronounced dead at 7:36 am. The incident triggered a rapid response involving multiple agencies including the US Marshals Service, FBI, District Attorney’s office, medical staff, psychological staff, and various institutional personnel. Investigations included interviews with inmates, collection of forensic evidence (fingerprints, photographs, clothing), and the removal of electronic devices from his cell. The autopsy was conducted on August 12, 2019, and forensic teams (OIG/FBI) collected computer data. The timeline details the coordination of these efforts, communications with relevant parties, and the actions taken by various individuals and organizations involved in the response.",
+      "timestamp": "2019-08-09T00:00:00",
+      "timestamp_raw": "August 9, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "suicide",
+        "shu",
+        "cpr",
+        "beekman hospital",
+        "ems",
+        "fbi",
+        "autopsy",
+        "coroner",
+        "august 10",
+        "2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034465",
+            "similarity": 0.769,
+            "index": 5,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00035445",
+            "similarity": 0.5,
+            "index": 4,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034505",
+            "similarity": 0.5,
+            "index": 3,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00035626",
+            "similarity": 0.615,
+            "index": 7,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00036664",
+            "similarity": 0.615,
+            "index": 8,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035461",
+            "similarity": 0.769,
+            "index": 9,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035626",
+      "summary": "On August 9, 2019, Jeffrey Epstein was unresponsive in his cell at WAB, prompting medical intervention and subsequent transport to Beekman Hospital. CPR, epinephrine, and IV access were administered without success. He was pronounced dead at 7:36 am. Following his death, authorities, including the FBI, USMS, SIS, and various hospital and correctional staff, responded to the scene and initiated an investigation. Interviews were conducted with inmates, forensic examinations were performed, and the body was released to the Medical Examiner for autopsy. The timeline details the communication and actions of numerous agencies and individuals involved in the response, including notification of legal representatives, media, and oversight agencies.",
+      "timestamp": "2019-08-09T00:00:00",
+      "timestamp_raw": "August 9, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "suicide",
+        "shu",
+        "cpr",
+        "ems",
+        "fbi",
+        "autopsy",
+        "beekman hospital",
+        "warden",
+        "medical examiner"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034474",
+            "similarity": 0.615,
+            "index": 6,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034465",
+            "similarity": 0.571,
+            "index": 5,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035445",
+            "similarity": 0.667,
+            "index": 4,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00036664",
+            "similarity": 0.818,
+            "index": 8,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00035461",
+            "similarity": 0.571,
+            "index": 9,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00036664",
+      "summary": "On August 9, 2019, Jeffrey Epstein was found unresponsive in his cell at WAB, prompting CPR and subsequent medical intervention. He was transported to Beekman Hospital where he died at 7:30 am. Following his death, authorities conducted interviews with inmates, collected forensic evidence, notified legal representatives and the media, and arranged for the body to be released for autopsy. The timeline details staff responses, medical procedures, law enforcement involvement, and communication with key personnel including the FBI, prosecutor’s office, and family.",
+      "timestamp": "2019-08-09T00:00:00",
+      "timestamp_raw": "August 9, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "suicide",
+        "shu",
+        "cpr",
+        "ems",
+        "medical examiner",
+        "fbi",
+        "beekman hospital",
+        "autopsy",
+        "time of death"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035626",
+            "similarity": 0.818,
+            "index": 7,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00034474",
+            "similarity": 0.615,
+            "index": 6,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034465",
+            "similarity": 0.571,
+            "index": 5,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00035461",
+            "similarity": 0.692,
+            "index": 9,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035461",
+      "summary": "CPR and various medical interventions were attempted. Emergency services were called, and he was transported to Beekman Hospital. A timeline of events followed, including notifications to various authorities (FBI, USMS, AUSA, Judge Berman), institutional staff, and psychological professionals.  A press release was issued, and the body was released to the Medical Examiner for autopsy. Investigations involved interviews with inmates, forensic examination (fingerprints, photos), computer removal and replacement, and involvement from the FBI, OIG, and correctional services personnel over several days. Normal operations resumed on August 11, 2019, with continued investigations extending into August 13, 2019 involving additional correctional services personnel.",
+      "timestamp": "2019-08-09T00:00:00",
+      "timestamp_raw": "August 9, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "suicide",
+        "shu",
+        "cpr",
+        "beekman hospital",
+        "fbi",
+        "autopsy",
+        "medical examiner",
+        "time of death",
+        "august 10",
+        "2019",
+        "coroner"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00036664",
+            "similarity": 0.692,
+            "index": 8,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035626",
+            "similarity": 0.571,
+            "index": 7,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034474",
+            "similarity": 0.769,
+            "index": 6,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00034367",
+            "similarity": 0.562,
+            "index": 10,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034367",
+      "summary": "Jeffrey Epstein’s death occurred on August 10, 2019, at the Metropolitan Correctional Center (MCC) New York. The timeline begins with his court appearance at 8:30 am, followed by a social call at 7:00 pm. At 6:33 am on August 10th, a body alarm was triggered, and Epstein was found unresponsive in his cell. Medical personnel initiated CPR and provided interventions before transporting him to Beekman Hospital. Despite efforts, he was pronounced dead at 7:36 am. A series of agencies, including US Marshals, FBI, Bureau of Prisons, and the Office of the Inspector General (OIG), responded to the scene and conducted investigations, including interviews, forensic examinations (fingerprints, photographs, autopsy), and the removal of electronic devices. The investigation continued into the following day, with OIG and FBI agents collecting evidence and computers before departing the institution.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "august 9",
+        "2019",
+        "shu",
+        "cpr",
+        "medical emergency",
+        "beekman hospital",
+        "fbi",
+        "autopsy",
+        "coroner",
+        "usms",
+        "ido",
+        "time of death"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035461",
+            "similarity": 0.562,
+            "index": 9,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034474",
+            "similarity": 0.5,
+            "index": 6,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034505",
+            "similarity": 0.533,
+            "index": 3,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019333",
+      "summary": "Multiple law enforcement agencies, including the FBI, DOJ-OIG, and US Marshals Service, are investigating the death of Jeffrey Epstein. Concerns are being raised about the speed of information release, particularly by the Bureau of Prisons (BOP), with defense counsel expressing frustration and demanding accurate details. There are reports of individuals claiming to have information about the circumstances of Epstein’s death, including a purported investigator from the MCC and a phone call claiming the body was ready for pickup. A preliminary autopsy is underway, but questions arise regarding the timing and coordination between agencies, especially concerning the BOP’s public statements and potential for misinformation. AUSA is taking the lead in the investigation.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "10 Aug 2019",
+      "keywords": [
+        "epstein",
+        "fbi",
+        "doj",
+        "bop",
+        "mcc",
+        "usao",
+        "autopsy",
+        "investigation",
+        "hoax",
+        "attorneys",
+        "retrieval"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013176",
+      "summary": "On August 10, 2019, multiple parties (defense counsel, a supervisory staff attorney, USMS, and BOP) received reports regarding the death of Jeffrey Epstein. A phone call was received claiming an MCC investigator informed Epstein’s close contact that Epstein’s body was ready for retrieval. Concerns arose regarding the premature public press release from the BOP and the lack of communication regarding basic facts, including the time and cause of death. Counsel demanded immediate updates and accurate information to relay to Epstein’s attorneys and family. The BOP provided an update stating Epstein was being taken to the hospital via ambulance due to a suicide attempt, but offered no further specifics. A USMS representative confirmed the update and stated they would push out updates as they received them.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "epstein",
+        "bop",
+        "mcc",
+        "investigation",
+        "autopsy",
+        "retrieval",
+        "defense counsel",
+        "press release",
+        "usms",
+        "death"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019339",
+      "summary": "On August 10, 2019, communications discuss the autopsy of Jeffrey Epstein, specifically regarding requests for a pathologist and a delay in the autopsy procedure. One email inquires about potential contacts for Epstein's counsel to request a pathologist. Another email confirms no further updates were expected for the day and expresses a desire for thorough investigations.  The emails involve individuals from “USANYS” and “Miller,” along with other names redacted.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "epstein",
+        "autopsy",
+        "us v epstein",
+        "redaction",
+        "pathologist",
+        "jeffrey epstein",
+        "weinberg",
+        "martin g. weinberg",
+        "august 10 2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035425",
+      "summary": "On August 10, 2019, Jeffrey Epstein was found unresponsive in his cell at the Metropolitan Correctional Center (MCC) in New York and pronounced dead at New York Presbyterian-Lower Manhattan Hospital. The death was determined to be an apparent suicide, occurring around 7:37 a.m. Responding staff initiated life-saving measures and EMS was called. An autopsy is pending to determine the exact cause of death, and the Federal Bureau of Investigation is conducting an investigation. The MCC New York will provide an update to the court upon completion of the autopsy and determination of the official cause of death.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "metropolitan correctional center",
+        "new york",
+        "suicide",
+        "death",
+        "bureau of prisons",
+        "federal bureau of investigation",
+        "autopsy",
+        "u.s. department of justice",
+        "colleen mcmahon"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024363",
+      "summary": "On August 10, 2019, Michael Miller requested an expedited autopsy for Jeffrey Epstein, aiming to complete it by Tuesday to allow for a pathologist’s presence. [REDACTED] informed Miller that no further updates were expected that day but assured continued communication. [REDACTED] sent a letter detailing ongoing investigations initiated by the Attorney General, including a potential FBI investigation, and stated that updates would be provided immediately if received. [REDACTED] distributed a press release from the Bureau of Prisons (BOP) summarizing available information, confirming an FBI investigation, and offered ongoing support.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "epstein",
+        "autopsy",
+        "investigation",
+        "fbi",
+        "pathologist",
+        "death",
+        "us v epstein",
+        "jeffrey epstein",
+        "bop",
+        "redaction"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027858",
+      "summary": "On August 10, 2019, Michael Miller inquired about arranging a pathologist for Jeffrey Epstein’s autopsy, specifically requesting a delay due to Epstein’s legal counsel’s demand.  Martin Weinberg responded, acknowledging the request and noting a potential autopsy for the following morning.  A third party sent a brief update confirming no further updates were expected that day and expressing hope for thorough investigations. The email chain pertains to the investigation into Epstein’s death.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "epstein",
+        "autopsy",
+        "pathologist",
+        "us v",
+        "michael miller",
+        "martin weinberg",
+        "redaction analysis",
+        "efta00027858"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00018974",
+            "similarity": 0.5,
+            "index": 18,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00011510",
+      "summary": "On August 10, 2019, Jeffrey Epstein was found unresponsive in his cell at the Metropolitan Correctional Center (MCC) in New York and pronounced dead at New York Presbyterian-Lower Manhattan Hospital. The cause of death was initially determined to be an apparent suicide, following a 6:30 am finding. An autopsy is pending to determine the exact cause of death, and the FBI and Department of Justice Office of the Inspector General are investigating the incident. MCC New York will provide an update to the court upon completion of the autopsy.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "death",
+        "suicide",
+        "bureau of prisons",
+        "federal register",
+        "united states v. jeffrey enstein",
+        "autopsy",
+        "fbi",
+        "attorney general",
+        "new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018974",
+      "summary": "An email chain discusses Jeffrey Epstein’s autopsy. Michael Miller requested a pathologist be present for the autopsy, aiming for it to be delayed until Tuesday to allow for arrangements. Marty Weinberg forwarded a message from Miller requesting an investigation into Epstein’s death and inquiring about delaying the autopsy. IM sent a brief note stating they wouldn’t have further updates that day and anticipated continued contact regarding the investigation.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "10 Aug 2019",
+      "keywords": [
+        "epstein",
+        "autopsy",
+        "pathologist",
+        "us v epstein",
+        "jeffrey epstein",
+        "investigation",
+        "usanys",
+        "michael miller",
+        "martin weinberg",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00027858",
+            "similarity": 0.5,
+            "index": 16,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034341",
+      "summary": "On August 10, 2019, Jeffrey Epstein was found unresponsive in his cell at the Metropolitan Correctional Center (MCC) in New York and died at New York Presbyterian-Lower Manhattan Hospital. He was pronounced dead at 7:37 a.m. from an apparent suicide. The cause of death is currently undetermined and pending an autopsy conducted by the Federal Bureau of Investigation. The MCC New York will provide an update to the court upon completion of the autopsy.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "united states v. jeffrey epstein",
+        "federal bureau of prisons",
+        "metropolitan correctional center",
+        "suicide",
+        "autopsy",
+        "warden",
+        "new york",
+        "cause of death"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023983",
+      "summary": "The New York City medical examiner has completed an autopsy on Jeffrey Epstein’s body, but the cause of death remains pending. The report was published by the New York Daily News on August 11, 2019.",
+      "timestamp": "2019-08-11T00:00:00",
+      "timestamp_raw": "August 11, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "autopsy",
+        "new york city",
+        "medical examiner",
+        "cause of death",
+        "nyc",
+        "daily news",
+        "efta00023983"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020165",
+      "summary": "The New York City Office of the Chief Medical Examiner (OCME) completed an autopsy on Jeffrey Epstein, finding the cause of death consistent with strangulation/hanging. The autopsy revealed a broken hiatal bone and injuries to the left shoulder consistent with hanging. OCME determined there was no reason to suspect suicide and will await toxicology reports and interviews with first responders before finalizing the report.",
+      "timestamp": "2019-08-11T00:00:00",
+      "timestamp_raw": "11 Aug 2019",
+      "keywords": [
+        "epstein",
+        "autopsy",
+        "strangulation",
+        "hanging",
+        "ocme",
+        "toxicology",
+        "report",
+        "guards",
+        "interviews",
+        "usanys"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00023982",
+            "similarity": 1.0,
+            "index": 30,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00024361",
+      "summary": "On August 11, 2019, an individual contacted Dr. MI regarding the Jeffrey Epstein case. Defense counsel had arranged for Michael Baden to join the autopsy, scheduled for 9:00 a.m. the following day. The individual, a prosecutor from the Southern District of New York, requested a call that evening due to a time-sensitive question and provided their cell phone number. [REDACTED] also sent an email related to the case.",
+      "timestamp": "2019-08-11T00:00:00",
+      "timestamp_raw": "August 11, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "michael baden",
+        "autopsy",
+        "redaction",
+        "time sensitive",
+        "southern district of new york",
+        "defense counsel",
+        "prosecution",
+        "email",
+        "contact information"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035435",
+      "summary": "On August 11, 2019, the NYPD Medical Examiner in NYC contacted a Bureau of Prisons Senior Officer Specialist regarding inmate Jeffrey Epstein’s body at the coroner’s office. The contact requested someone to verify the body for autopsy purposes. The communication included a quote from Elizabeth Kubler-Ross regarding the purpose of life and the acceptance of events. The document identifies the case file as EFTA00035435.",
+      "timestamp": "2019-08-11T00:00:00",
+      "timestamp_raw": "August 11, 2019",
+      "keywords": [
+        "epstein",
+        "autopsy",
+        "coroner",
+        "nypd",
+        "bureau of prisons",
+        "kubler-ross",
+        "redaction",
+        "inmate",
+        "medical examiner",
+        "nyc"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00034352",
+            "similarity": 0.583,
+            "index": 24,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034353",
+            "similarity": 0.538,
+            "index": 25,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034355",
+            "similarity": 0.667,
+            "index": 27,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034352",
+      "summary": "On August 11, 2019, the New York City Medical Examiner (NYPD) contacted the Bureau of Prisons regarding the body of inmate Epstein, requesting someone to verify the body for autopsy purposes. The communication included a quote from Elizabeth Kubler-Ross and case identification numbers (SDNY_000 10776 and EFTA00034352).",
+      "timestamp": "2019-08-11T00:00:00",
+      "timestamp_raw": "August 11, 2019",
+      "keywords": [
+        "epstein",
+        "inmate",
+        "autopsy",
+        "coroner",
+        "nypd",
+        "medical examiner",
+        "federal bureau of prisons",
+        "kubler-ross",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035435",
+            "similarity": 0.583,
+            "index": 23,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00034353",
+            "similarity": 0.9,
+            "index": 25,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034353",
+      "summary": "On August 11, 2019, at 9:22 AM GMT, a New York Police Department Medical Examiner contacted the Federal Bureau of Prisons regarding inmate Jeffrey Epstein. The Medical Examiner needed someone to verify Epstein’s body at the coroner’s office to initiate an autopsy. The communication included a quote from Elizabeth Kubler-Ross and case information (SDNY_000 10777, EFTA00034353).",
+      "timestamp": "2019-08-11T00:00:00",
+      "timestamp_raw": "August 11, 2019",
+      "keywords": [
+        "epstein",
+        "inmate",
+        "autopsy",
+        "coroner",
+        "nypd",
+        "medical examiner",
+        "federal bureau of prisons",
+        "kubler-ross",
+        "redaction analysis",
+        "sdny"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034352",
+            "similarity": 0.9,
+            "index": 24,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00035435",
+            "similarity": 0.538,
+            "index": 23,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034354",
+      "summary": "On August 11, 2019, a Medical Examiner from the NYPD contacted the Bureau of Prisons regarding the body of inmate Epstein. The Medical Examiner needed someone to verify the inmate's body at the coroner’s office to initiate an autopsy. The communication was sent from the MCC New York office.",
+      "timestamp": "2019-08-11T00:00:00",
+      "timestamp_raw": "August 11, 2019",
+      "keywords": [
+        "inmate epstein",
+        "autopsy",
+        "coroner's office",
+        "nypd",
+        "verification",
+        "medical examiner",
+        "federal bureau of prisons",
+        "cpr",
+        "sdny_000 10778",
+        "efta00034354"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034355",
+      "summary": "On August 11, 2019, at 10:02 AM GMT, a medical examiner from the NYPD contacted the Bureau of Prisons regarding inmate Epstein. The examiner requested someone to verify the inmate’s body at the coroner’s office to initiate an autopsy. The message includes contact information for Senior Officer Specialist AFGE YOUNG and a quote from Elizabeth Kubler-Ross. The document is marked as CONFIDENTIAL and associated with case SDNY_000 10779 and EFTA00034355.",
+      "timestamp": "2019-08-11T00:00:00",
+      "timestamp_raw": "August 11, 2019",
+      "keywords": [
+        "epstein",
+        "autopsy",
+        "coroner",
+        "nypd",
+        "bureau of prisons",
+        "kubler-ross",
+        "medical examiner",
+        "verification",
+        "2019",
+        "nyc"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035435",
+            "similarity": 0.667,
+            "index": 23,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019953",
+      "summary": "Michael Miller is coordinating an investigation into the death of Jeffrey Epstein. Initially, an autopsy was planned for the following morning with Michael Baden as the pathologist. However, Dr. Jason Graham, the Chief Medical Examiner, advised delaying the autopsy to potentially two days to allow for securing a pathologist.  Additional emails detail updates regarding investigations initiated by the Attorney General and the FBI, including a press release from the Bureau of Prisons (BOP) outlining available information. There's a request to push the autopsy to Tuesday to secure a pathologist.",
+      "timestamp": "2019-08-11T00:00:00",
+      "timestamp_raw": "11 Aug 2019",
+      "keywords": [
+        "epstein",
+        "michael baden",
+        "autopsy",
+        "jason graham",
+        "fbi",
+        "pathology",
+        "investigation",
+        "death",
+        "jeffrey",
+        "weinberg",
+        "reid"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027265",
+      "summary": "Preliminary autopsy results regarding the death of Jeffrey Epstein indicated ligature marks around the neck, petechial hemorrhages in the eyes, a fractured hyoid bone, and deep tissue bleeding to the left shoulder/scapula. The Cause & Manner of Death was not yet determined by Dr. Roman, pending further studies including histology, neuropathology, and toxicology. Dr. Baden Michael, a private pathologist hired by the family, was also present at the autopsy.",
+      "timestamp": "2019-08-11T00:00:00",
+      "timestamp_raw": "11 Aug 2019",
+      "keywords": [
+        "epstein autopsy",
+        "autopsy",
+        "ligature marks",
+        "hemorrhage",
+        "hyoid bone",
+        "toxicology",
+        "dr. baden michael",
+        "nypd",
+        "fbi"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023982",
+      "summary": "The New York City Office of Chief Medical Examiner (OCME) completed an autopsy on Jeffrey Epstein, concluding that the findings are consistent with strangulation/hanging. The autopsy revealed a broken hiatal bone and injuries to the left shoulder also consistent with hanging. OCME determined there’s no reason to suspect suicide wasn’t self-inflicted and is awaiting toxicology and witness reports to finalize the report.",
+      "timestamp": "2019-08-11T00:00:00",
+      "timestamp_raw": "11 Aug 2019",
+      "keywords": [
+        "epstein",
+        "autopsy",
+        "strangulation",
+        "hanging",
+        "ocme",
+        "toxicology",
+        "report",
+        "guards",
+        "interviews",
+        "usanys"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00020165",
+            "similarity": 1.0,
+            "index": 21,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027936",
+      "summary": "*   Log slips for 30-minute checks on August 10th, 2019, show Officer Noel signed each check, despite eight other officers being on duty. Another officer admitted to not conducting 3am or 5am rounds. *   A camera pointed at the SHU hallway was non-functional since Thursday, and FBI seized 18 hard drives of video for analysis. *   Epstein was removed from suicide watch on July 29th and did not have a cellmate due to a lack of requirement. *   An autopsy is scheduled for the morning. *   The OAG (Office of the Attorney General) has requested answers to questions regarding the situation.",
+      "timestamp": "2019-08-12T00:00:00",
+      "timestamp_raw": "12 Aug 2019",
+      "keywords": [
+        "usanys",
+        "epstein",
+        "shu",
+        "officer noel",
+        "30-min checks",
+        "video analysis",
+        "log slips",
+        "bop",
+        "fbi",
+        "interviews"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027121",
+      "summary": "An email was sent from [REDACTED] (NY) to [REDACTED] (OCME) regarding surveillance footage related to the Epstein case. The footage cannot be viewed outside of FBI space due to software issues, and the sender offered to coordinate a viewing at 290 Broadway.",
+      "timestamp": "2019-08-15T00:00:00",
+      "timestamp_raw": "15 Aug 2019",
+      "keywords": [
+        "epstein",
+        "video",
+        "autopsy",
+        "fbi",
+        "surveillance footage",
+        "redaction",
+        "usanys",
+        "software issues",
+        "oga",
+        "oig"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036613",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] inquiring about receipt or anticipated receipt of an autopsy report (EFTA00036613). The email was sent on August 16, 2019.",
+      "timestamp": "2019-08-16T00:00:00",
+      "timestamp_raw": "August 16, 2019",
+      "keywords": [
+        "autopsy",
+        "redaction",
+        "efta00036613",
+        "report",
+        "institution",
+        "received",
+        "august 2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036694",
+      "summary": "An email exchange concerning an autopsy report. One email asks if the institution has received or will receive a copy of the report, sent from a Verizon Samsung Galaxy smartphone. The email chain is labeled EFTA00036694.",
+      "timestamp": "2019-08-16T00:00:00",
+      "timestamp_raw": "16 Aug 2019",
+      "keywords": [
+        "autopsy",
+        "redaction",
+        "efta00036694",
+        "report",
+        "samsung",
+        "verizon",
+        "2019",
+        "2025",
+        "institution",
+        "copy"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019324",
+      "summary": "A U.S. Marshal from the Southern District of New York requested subpoenas for a death certificate and autopsy report related to Jeffrey Epstein’s case. The requests were directed to the Office Of Vital Records, Bureau of Vital Statistics, and the New York City Office of Chief Medical Examiner.",
+      "timestamp": "2019-08-19T00:00:00",
+      "timestamp_raw": "19 Aug 2019",
+      "keywords": [
+        "epstein",
+        "subpoena",
+        "death certificate",
+        "autopsy report",
+        "new york city",
+        "u.s. marshal",
+        "redaction",
+        "ausai",
+        "vital records"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029718",
+      "summary": "An individual requested subpoenas for Jeffrey Epstein’s death certificate and autopsy report from the Office of Vital Records and the New York City Office of Chief Medical Examiner. The request originated from a U.S. Marshal within the Southern District of New York. A response was received indicating the subpoenas were being pursued, referencing involvement with a grand jury investigating a potential crime and suggesting a separate subpoena might be needed for an investigation into Epstein’s death.",
+      "timestamp": "2019-08-19T00:00:00",
+      "timestamp_raw": "19 Aug 2019",
+      "keywords": [
+        "efta00029718",
+        "subpoena",
+        "sex trafficking",
+        "jeffrey epstein",
+        "death certificate",
+        "autopsy report",
+        "new york city",
+        "u.s. marshal",
+        "grand jury",
+        "evidence"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021298",
+      "summary": "This is a request for medical examiner records submitted to the New York City Office of Chief Medical Examiner regarding the case of Jeffrey Epstein. The request includes an autopsy report, complete medical examiner case file, all photographs, X-rays, and unspecified additional materials. The request was submitted on August 19, 2019, and is associated with case number EFTA00021298.",
+      "timestamp": "2019-08-19T00:00:00",
+      "timestamp_raw": "August 19, 2019",
+      "keywords": [
+        "medical examiner",
+        "jeffrey epstein",
+        "autopsy report",
+        "case file",
+        "photographs",
+        "x-rays",
+        "new york",
+        "nyc",
+        "redaction",
+        "request for records"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037215",
+      "summary": "On August 23, 2019, a correctional officer (identified as “w”) responded to a body alert in the SHU at the facility regarding Jeffrey Epstein. The officer assisted with CPR, allowed EMS access, and escorted Epstein to Beekman Hospital. Another officer, working with OIG and SDNY, responded to a similar alert where Epstein was already being treated after being removed from his cell. FBI CART provided a video package of the MCC to SDNY, and coordination was made to retrieve and image Thomas’ cell phone. The Office of the Chief Medical Examiner (OCME) was contacted and advised that they would provide a report soon, anticipating no further information requests. Three proffers were scheduled for Monday, August 26th, involving inmates from the MCC at the time of the incident, who have a history of facilitating contraband and policy violations.",
+      "timestamp": "2019-08-23T00:00:00",
+      "timestamp_raw": "August 23, 2019",
+      "keywords": [
+        "epstein",
+        "bop",
+        "fbi",
+        "ocme",
+        "autopsy",
+        "shu",
+        "cart",
+        "proffers",
+        "mcc",
+        "ransom"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037216",
+      "summary": "On August 23, 2019, an FBI-New York investigation regarding Jeffrey Epstein’s death involved interviews with Bureau of Prisons (BOP) guards. One guard reported that another guard and his partner conducted a 12x8 tour, responded to a body alert in the SHU where Epstein was already receiving CPR, and subsequently escorted the body to Beekman Hospital with EMS. Another guard assisted with the count and then responded to a body alert, observing Epstein being removed from his cell and treated. FBI CART packaged video from the MCC for SDNY, and coordination was made to retrieve and image Thomas’ cell phone. The Office of Chief Medical Examiner (OCME) advised that a final report would be provided soon, with a physician and executive having a meeting regarding the autopsy. Three proffers involving inmates from the MCC were scheduled for Monday, August 26th.",
+      "timestamp": "2019-08-23T00:00:00",
+      "timestamp_raw": "August 23, 2019",
+      "keywords": [
+        "epstein",
+        "fbi",
+        "bop",
+        "oig",
+        "sdny",
+        "shu",
+        "ems",
+        "autopsy",
+        "mcc",
+        "contraband"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018870",
+      "summary": "Investigators are scrutinizing video footage outside Jeffrey Epstein’s cell at the Metropolitan Correctional Center in Manhattan, finding some footage unusable. The FBI and Justice Department’s inspector general are investigating the circumstances surrounding his death, which was ruled a suicide. Key findings include: *   At least one camera’s footage was unusable. *   Protocols regarding checks on Epstein were not followed, with potential falsification of logs being investigated. *   The officers on duty were working overtime and had differing backgrounds. *   Epstein was placed on suicide watch after a July incident and had a series of fluctuating living arrangements with roommates. *   The medical examiner found fractures in Epstein's neck bones, consistent with hanging, but experts caution this requires further investigation. *   The defense team is seeking access to all relevant video footage and intends to conduct an independent investigation.",
+      "timestamp": "2019-08-27T00:00:00",
+      "timestamp_raw": "27 Aug 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "fbi",
+        "justice department",
+        "suicide",
+        "footage",
+        "metropolitan correctional center",
+        "cell",
+        "investigation",
+        "redaction",
+        "autopsy"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021295",
+      "summary": "On August 28, 2019, the U.S. Attorney’s Office for the Southern District of New York requested that the New York City Office of the Chief Medical Examiner (OCME) withhold specific materials related to Jeffrey Epstein’s autopsy. These materials include documents, records, and information provided by the USAO and FBI, as well as OCME case files containing such information. The request also included withholding the names and identifying information of federal law enforcement agents involved in the investigation and the substance of their interviews. The Attorney’s Office reserved the right to seek further legal process if the OCME were to disclose these materials.",
+      "timestamp": "2019-08-28T00:00:00",
+      "timestamp_raw": "August 28, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "autopsy report",
+        "united states attorney",
+        "federal bureau of investigation",
+        "metropolitan correctional center",
+        "criminal investigation",
+        "florence hutner",
+        "office of the chief medical examiner",
+        "redaction analysis",
+        "united states department of justice"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00018944",
+            "similarity": 0.818,
+            "index": 42,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00018944",
+      "summary": "On August 28, 2019, the U.S. Attorney’s Office for the Southern District of New York requested that the New York City Office of the Chief Medical Examiner (OCME) withhold specific documents, evidence, and information related to the autopsy of Jeffrey Epstein. This request stemmed from an ongoing criminal investigation into Epstein’s death at the Metropolitan Correctional Center (MCC). The USAO and FBI provided the OCME with materials and information during the investigation, and the U.S. Attorney requested the OCME to not share these materials, including names of federal law enforcement agents involved, with any third party, until the criminal investigation concluded.",
+      "timestamp": "2019-08-28T00:00:00",
+      "timestamp_raw": "August 28, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "autopsy report",
+        "united states attorney",
+        "federal bureau of investigation",
+        "metropolitan correctional center",
+        "criminal investigation",
+        "office of the chief medical examiner",
+        "redaction analysis",
+        "florence butner",
+        "united states department of justice"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00021295",
+            "similarity": 0.818,
+            "index": 41,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021297",
+      "summary": "On September 9, 2019, the U.S. Attorney's Office for the Southern District of New York requested that the Office of the Chief Medical Examiner (OCME) redact specific documents and materials related to the Jeffrey Epstein autopsy case. These redactions included documents provided by the USAO or FBI, the names and identifying information of federal law enforcement agents, photographs of the scene at the Mansion at the Colony (MCC), and this letter and its attachment. The redacted document was attached as an enclosure.",
+      "timestamp": "2019-09-09T00:00:00",
+      "timestamp_raw": "September 9, 2019",
+      "keywords": [
+        "justice",
+        "department of justice",
+        "mollo building",
+        "jeffrey epstein",
+        "autopsy report",
+        "redaction",
+        "ocme",
+        "fbi",
+        "florence hutner",
+        "united states attorney"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030610",
+      "summary": "On September 9, 2019, the U.S. Attorney’s Office for the Southern District of New York requested the Office of the Chief Medical Examiner (OCME) to redact specific documents and information related to the Jeffrey Epstein autopsy file. These redactions included documents provided by the USAO or FBI, names and identifying information of federal law enforcement agents involved, and the August 28 Letter itself. The redacted document, attached to the letter, was provided to the FBI to preserve the integrity of an ongoing investigation.",
+      "timestamp": "2019-09-09T00:00:00",
+      "timestamp_raw": "September 9, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "autopsy report",
+        "redaction analysis",
+        "united states attorney",
+        "office of the chief medical examiner",
+        "fbi",
+        "usao",
+        "legal documents",
+        "august 28 letter",
+        "florence hutner"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019697",
+      "summary": "On September 27, 2019, an individual requested the death certificate and autopsy report for Jeffrey Epstein’s case (EFTA00019697) from the Office of Chief Medical Examiner (OCME) and the U.S. Marshal’s Southern District of New York. The OCME directed the requestor to contact Florence Hutner, their General Counsel. A prior request on August 19, 2019, had also been made for these documents. The Marshal provided contact information for the supervisory deputy.",
+      "timestamp": "2019-09-27T00:00:00",
+      "timestamp_raw": "September 27, 2019",
+      "keywords": [
+        "epstein",
+        "death certificate",
+        "autopsy report",
+        "subpoena",
+        "ocme",
+        "florence hutner",
+        "marshals",
+        "ausa",
+        "efta00019697",
+        "efta00019698"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021323",
+      "summary": "An email chain discusses obtaining a death certificate and autopsy report for Jeffrey Epstein’s case. Requests were made to multiple parties, including the New York City Office of Chief Medical Examiner and the U.S. Marshals Service, for subpoenas to access these documents. Discussions include the need for a subpoena from the requesting office and inquiries about a potential form Epstein may have signed regarding suicidal tendencies.  The emails reference specific offices and individuals involved in the process.",
+      "timestamp": "2019-11-10T00:00:00",
+      "timestamp_raw": "10 Oct 2019",
+      "keywords": [
+        "subpoena",
+        "autopsy report",
+        "death certificate",
+        "jeffrey epstein",
+        "ocme",
+        "marshals",
+        "bop",
+        "redaction",
+        "new york city",
+        "ausai"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035748",
+      "summary": "On November 14, 2019, an email was sent by an AUSA to summarize a telephone conversation between the AUSA, another AUSA, Dr. (OCME), and Dr. (OCME Chief Legal Counsel) regarding the autopsy of Jeffrey Epstein. The email, identified as Form FD-1036, was part of a death investigation (Case ID: 90A-NY-3151227) and included Jeffrey Epstein as the victim.",
+      "timestamp": "2019-11-14T00:00:00",
+      "timestamp_raw": "November 14, 2019",
+      "keywords": [
+        "fbi",
+        "jeffrey epstein",
+        "death investigation",
+        "autopsy",
+        "medical examiner",
+        "synopsis",
+        "email",
+        "case id",
+        "90a-ny-3151227",
+        "unclassified"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029520",
+      "summary": "A United States Attorney’s Office (USANYS) sent an OCME Report of Autopsy for Jeffrey Epstein to another USANYS office (USANYS) and a third USANYS office (SANYS) on June 28, 2021. The report is attached as a PDF document. Redactions are indicated within the document.",
+      "timestamp": "2021-06-28T00:00:00",
+      "timestamp_raw": "June 28, 2021",
+      "keywords": [
+        "epstein",
+        "ocme report",
+        "autopsy",
+        "redaction",
+        "usanys",
+        "white plains",
+        "ny",
+        "2021",
+        "pdf",
+        "forensic"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010382",
+      "summary": "A United States Attorney sent an email to notify the OCME (Office of the Chief Medical Examiner) regarding a FOIA request for the autopsy report of Jeffrey Epstein. The attached OCME Report of Autopsy contains redactions, indicated by boxes.",
+      "timestamp": "2021-06-28T00:00:00",
+      "timestamp_raw": "28 Jun 2021",
+      "keywords": [
+        "epstein",
+        "foia",
+        "ocme",
+        "autopsy",
+        "redaction",
+        "usanys",
+        "gc",
+        "white plains",
+        "united states attorney"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026518",
+      "summary": "An Assistant United States Attorney sent the OCME Report of Autopsy regarding the Epstein autopsy to various recipients at the USANY (presumably the Department of Justice).  A request was made to the Bureau of Prisons (BOP) to redact a photo.  The OCME confirmed the photo of the hyoid bone on page 12 was, in fact, Epstein’s and suggested redacting the entire page 12 photo to align with redactions of page 13 images. Redactions were indicated in the attached document.",
+      "timestamp": "2021-06-29T00:00:00",
+      "timestamp_raw": "29 Jun 2021",
+      "keywords": [
+        "epstein",
+        "foia",
+        "ocme",
+        "redaction",
+        "autopsy",
+        "hyoid bone",
+        "bop",
+        "usanys",
+        "sanys",
+        "photo"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00023398",
+            "similarity": 0.818,
+            "index": 54,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00023402",
+            "similarity": 0.818,
+            "index": 55,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00023400",
+            "similarity": 0.818,
+            "index": 56,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00022018",
+      "summary": "Attorney’s Office, Southern District of New York (USANYS), regarding an Epstein autopsy report. *   The emails discuss scheduling a call for June 29, 2021, at 3:30 PM. *   A USANYS representative informed the OCME of an ongoing FOIA case against the Bureau of Prisons (BOP) that would be made public on Friday, June 25, 2021, and requested a call to discuss it. *   All emails include standard legal disclaimers regarding confidentiality and restricted distribution.",
+      "timestamp": "2021-06-29T00:00:00",
+      "timestamp_raw": "June 29, 2021",
+      "keywords": [
+        "epstein autopsy",
+        "redaction",
+        "usanys",
+        "ocme",
+        "foia",
+        "bop",
+        "new york"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014902",
+      "summary": "The USAO-SDNY plans to release approximately 2,700 pages of Bureau of Prisons (BOP) documents related to Jeffrey Epstein’s incarceration and suicide at the Metropolitan Correctional Center (MCC) to The New York Times. This release follows deferred prosecution agreements with Tova Noel and Michael Thomas, who were accused of falsifying records regarding Epstein’s death. The documents include internal BOP memoranda, reports, emails, and the autopsy report, detailing failures in security and staffing that contributed to Epstein’s death. The BOP intends to redact photographs of Epstein’s body and names of specific personnel. Notifications regarding the release have been sent to the BOP and the Department of Justice – Office of the Inspector General (DOJ-OIG).",
+      "timestamp": "2021-06-29T00:00:00",
+      "timestamp_raw": "29 Jun 2021",
+      "keywords": [
+        "jeffrey epstein",
+        "foia",
+        "bureau of prisons",
+        "redacted",
+        "umr",
+        "new york times",
+        "criminal prosecution",
+        "suicide",
+        "metropolitan correctional center",
+        "doj-oig"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013391",
+      "summary": "USAO-SDNY is releasing approximately 2,700 pages of Bureau of Prisons (BOP) documents related to Jeffrey Epstein’s incarceration and suicide at the Metropolitan Correctional Center (MCC). The release stems from ongoing Freedom of Information Act (FOIA) litigation by The New York Times. The documents include internal BOP memoranda, Epstein’s psychological records, the autopsy report, and emails from the day of the incident. The release is occurring because USAO-SDNY entered deferred prosecution agreements with Tova Noel and Michael Thomas, who were criminally prosecuted for falsifying records related to Epstein’s death. The BOP plans to redact photographs of Epstein’s remains and names of staff members.",
+      "timestamp": "2021-06-29T00:00:00",
+      "timestamp_raw": "29 Jun 2021",
+      "keywords": [
+        "jeffrey epstein",
+        "foia litigation",
+        "bureau of prisons",
+        "new york times",
+        "redacted",
+        "suicide",
+        "mcc",
+        "tova noel",
+        "michael thomas",
+        "autopsy report",
+        "documents"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023398",
+      "summary": "On July 1, 2021, a USANYS official confirmed that the redacted OCME Report of Autopsy would be released the following day. The OCME requested a copy of the redacted report to be sent to them on Friday.  A subsequent email on June 29, 2021, indicated that the BOP would redact a photo related to the autopsy. On June 28, 2021, an Assistant United States Attorney sent the redacted OCME Report of Autopsy, noting specific redactions within the document. A discussion arose regarding the redaction of a photo of the hyoid bone on page 12, prompting a consideration of whether to redact the entire page 12 photo.",
+      "timestamp": "2021-07-01T00:00:00",
+      "timestamp_raw": "July 1, 2021",
+      "keywords": [
+        "epstein",
+        "foia",
+        "ocme",
+        "autopsy",
+        "redaction",
+        "usanys",
+        "bop",
+        "hyoid bone",
+        "photo",
+        "release"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00026518",
+            "similarity": 0.818,
+            "index": 50,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00023402",
+            "similarity": 0.818,
+            "index": 55,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00023400",
+            "similarity": 0.818,
+            "index": 56,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00010417",
+            "similarity": 0.818,
+            "index": 57,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00023402",
+      "summary": "On July 1, 2021, an Assistant United States Attorney sent the OCME Report of Autopsy (EFTA00023403) to [REDACTED] for distribution, including to the OCME and BOP. The report contained redactions indicated by boxes. On June 29, 2021, a discussion occurred regarding the redaction of a photo of the hyoid bone on page 12, with the suggestion to redact the entire page 12 photo due to the closeup photos redacted from page 13. The USANYS was coordinating with the OCME to send a redacted copy of the autopsy report.",
+      "timestamp": "2021-07-01T00:00:00",
+      "timestamp_raw": "July 1, 2021",
+      "keywords": [
+        "epstein",
+        "foia",
+        "ocme",
+        "autopsy",
+        "redaction",
+        "usanys",
+        "bop",
+        "hyoid bone",
+        "photo",
+        "report"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00023398",
+            "similarity": 0.818,
+            "index": 54,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00026518",
+            "similarity": 0.818,
+            "index": 50,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00023400",
+            "similarity": 1.0,
+            "index": 56,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00010417",
+            "similarity": 0.818,
+            "index": 57,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00023400",
+      "summary": "Email exchanges between individuals at the US Attorney's Office (USANYS) and the Office of Chief Medical Examiner (OCME) regarding the release of an autopsy report for Jeffrey Epstein. The report includes redactions. A request was made to send a redacted copy to the OCME.  Discussion occurred about redacting a specific photo (hyoid bone) on page 12, suggesting a need to redact the entire page 12 photo. An attachment containing the redacted autopsy report was sent.",
+      "timestamp": "2021-07-01T00:00:00",
+      "timestamp_raw": "01 Jul 2021",
+      "keywords": [
+        "epstein",
+        "foia",
+        "ocme",
+        "autopsy",
+        "redaction",
+        "usanys",
+        "bop",
+        "hyoid bone",
+        "photo",
+        "report"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00023402",
+            "similarity": 1.0,
+            "index": 55,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00023398",
+            "similarity": 0.818,
+            "index": 54,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00026518",
+            "similarity": 0.818,
+            "index": 50,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00010417",
+            "similarity": 0.818,
+            "index": 57,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00010417",
+      "summary": "An autopsy report related to Jeffrey Epstein’s death was released. The Office of Chief Medical Examiner (OCME) requested a copy of a redacted autopsy report. A redacted photo of the hyoid bone on page 12 was identified and discussed, prompting a request to redact the entire photo on page 12 in addition to close-up photos from page 13. The BOP (Bureau of Prisons) was to redact a photo. The attached report contained redactions indicated by boxes.",
+      "timestamp": "2021-07-02T00:00:00",
+      "timestamp_raw": "02 Jul 2021",
+      "keywords": [
+        "epstein",
+        "autopsy",
+        "redaction",
+        "ocme",
+        "foia",
+        "usanys",
+        "bop",
+        "hyoid bone",
+        "photo",
+        "times"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00023400",
+            "similarity": 0.818,
+            "index": 56,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00023402",
+            "similarity": 0.818,
+            "index": 55,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00023398",
+            "similarity": 0.818,
+            "index": 54,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00010419",
+            "similarity": 0.538,
+            "index": 60,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00018502",
+      "summary": "On July 2, 2021, Florence Hutner, General Counsel of the Office of Chief Medical Examiner, received an attached redacted autopsy report related to Mark Epstein’s case from [REDACTED].  [REDACTED] informed Hutner that they had provided notice to Epstein’s attorney. On July 1, 2021, [REDACTED] of the U.S. Attorney’s Office, Southern District of New York, stated they would send the redacted autopsy report to Hutner the following day and would notify Epstein’s lawyer.",
+      "timestamp": "2021-07-02T00:00:00",
+      "timestamp_raw": "July 2, 2021",
+      "keywords": [
+        "epstein",
+        "foia",
+        "redaction",
+        "autopsy",
+        "hutner",
+        "ocme",
+        "florence hutner",
+        "u.s. attorney's office",
+        "southern district of new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027460",
+      "summary": "A communication chain discusses providing advance notice regarding the release of autopsy reports related to Mark Epstein’s death. The US Attorney’s Office is coordinating with Stacey Richman, Mark Epstein’s lawyer, and the Orange County Medical Examiner’s Office (OCME). The OCME is preparing a production of the autopsy report, and the US Attorney’s Office is considering notifying the Epstein family, particularly given ongoing FOIA litigation, while also informing Stacey Richman.",
+      "timestamp": "2021-07-02T00:00:00",
+      "timestamp_raw": "02 Jul 2021",
+      "keywords": [
+        "epstein",
+        "foia",
+        "redaction",
+        "bop",
+        "stacey richman",
+        "ocme",
+        "autopsy report",
+        "notice",
+        "family",
+        "litigation"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010419",
+      "summary": "An autopsy report for Jeffrey Epstein was prepared by the Office of the Chief Medical Examiner (OCME). Redactions were requested and applied to the report, specifically regarding a photo of the hyoid bone on page 12.  Email exchanges between USANY (likely a legal entity) and OCME detail the process of sending the redacted report to the Times, coordinating redactions with the Bureau of Prisons (BOP), and discussing the extent of redactions needed for images. The final report was attached as EFTA00010419.pdf.",
+      "timestamp": "2021-07-02T00:00:00",
+      "timestamp_raw": "02 Jul 2021",
+      "keywords": [
+        "epstein",
+        "autopsy report",
+        "redactions",
+        "ocme",
+        "foia",
+        "usanys",
+        "hyoid bone",
+        "photo",
+        "redacted",
+        "times"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00010417",
+            "similarity": 0.538,
+            "index": 57,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010616",
+      "summary": "*   Florence Hutner, General Counsel for the Office of Chief Medical Examiner, is communicating regarding a FOIA request related to Jeffrey Epstein’s autopsy report. *   The autopsy report was produced to the New York Times and a redacted version was attached. *   The U.S. Attorney’s Office (Southern District of New York) is involved, having notified Mark Epstein’s attorney and intending to provide a courtesy heads-up. *   Confirmation was sought regarding the conclusion of the federal investigation and whether the NYT has published any redacted autopsy reports. *   A toxicology report request from a member of the public was received.",
+      "timestamp": "2021-08-23T00:00:00",
+      "timestamp_raw": "23 Aug 2021",
+      "keywords": [
+        "epstein",
+        "foia",
+        "autopsy report",
+        "redacted",
+        "ocme",
+        "toxicology",
+        "investigation",
+        "nyt",
+        "release",
+        "u.s. attorney"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034357",
+      "summary": "A New York City Medical Examiner (NYPD) contacted someone regarding inmate E Stein, requesting verification of the inmate’s body at the coroner’s office to initiate an autopsy. The contact information includes AFGE YOUNG, a Senior Officer Specialist with the Federal Bureau of Prisons and MCC New York, along with a philosophical quote emphasizing the purposeful nature of life events.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "autopsy",
+        "inmate",
+        "coroner",
+        "nypd",
+        "federal bureau of prisons",
+        "cpr",
+        "silence",
+        "blessings",
+        "verification",
+        "efta00034357"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035436",
+      "summary": "The New York City Medical Examiner, working with NYPD, requested verification of the body of inmate Epstein for an autopsy. The request was made at 6:42 AM. The accompanying text includes a quote from Elizabeth Kubler-Ross regarding the purpose of events.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "autopsy",
+        "inmate",
+        "nypd",
+        "coroners office",
+        "elizabeth kubler-ross",
+        "federal bureau of prisons",
+        "mcc new york",
+        "verification",
+        "cpr",
+        "efta00035436"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    }
+  ]
+}

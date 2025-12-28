@@ -1,0 +1,2415 @@
+{
+  "keyword": "death investigation",
+  "count": 51,
+  "keyword_match_count": 51,
+  "content_match_count": 31,
+  "total_files": 82,
+  "timeline": [
+    {
+      "file_id": "EFTA00033571",
+      "summary": "This document is an email return concurrence form (ED-1036 Rev. 10-16-2009) related to a death investigation, Case ID #: 90A-NY-3151227. The email concerns Jeffrey Epstein as a victim and was drafted on 09/05/2019. It was approved by SSA and marked as UNSUB(S).",
+      "timestamp": "2009-10-16T00:00:00",
+      "timestamp_raw": "10-16-2009",
+      "keywords": [
+        "efta00033571",
+        "fbi",
+        "evidence return",
+        "jeffrey epstein",
+        "death investigation",
+        "synopsis",
+        "unclassified",
+        "import form",
+        "ssa",
+        "email"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00035719",
+            "similarity": 0.538,
+            "index": 53,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035732",
+            "similarity": 0.538,
+            "index": 58,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035742",
+            "similarity": 0.538,
+            "index": 60,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035731",
+      "summary": "This document is a redacted FBI import form, FD-1036, related to a death investigation involving Jeffrey Epstein. The form was drafted on 2025-12-27 and references an OIG referral (CIA-2019-05324) received on 10-16-2009, categorized as “Other.” The case ID is 90A-NY-3151227, noting Epstein as a victim and the investigation’s focus. It includes a facial record dated 09/23/2019.",
+      "timestamp": "2009-10-16T00:00:00",
+      "timestamp_raw": "10-16-2009",
+      "keywords": [
+        "fbi",
+        "epstein",
+        "death investigation",
+        "oig referral",
+        "cia",
+        "case id",
+        "unclassified",
+        "facial record",
+        "ssa",
+        "mcc"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035737",
+      "summary": "This document is an unofficial FBI record concerning the death investigation of Jeffrey Epstein. It includes documents provided by DIG SA from MCC, specifically: L-Tier Daily Logs for August 9 and 10, a Weekly Signature Sheet for weeks of 7/28 and 8/4, an Incident Report from July 23, a Suicide Timeline (8/9-8/13), a memo regarding Epstein remains, a memo regarding an Epstein phone call (8/9), and Chain of Custody Logs from MCC. The record was received on October 16, 2009.",
+      "timestamp": "2009-10-16T00:00:00",
+      "timestamp_raw": "October 16, 2009",
+      "keywords": [
+        "jeffrey epstein",
+        "death investigation",
+        "mcc",
+        "fbi",
+        "import form",
+        "unsub",
+        "suicide timeline",
+        "chain of custody",
+        "incident report",
+        "ssa"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035734",
+      "summary": "This document is an official FBI record regarding a death investigation. The record includes phone records for MCC Caller Station 6317, provided by the Office of Inspector General (OIG) on October 16, 2009. The case ID is 90A-NY-3151227, involving Jeffrey Epstein as a victim and classified as an UNSUB(S) death investigation.",
+      "timestamp": "2009-10-16T00:00:00",
+      "timestamp_raw": "October 16, 2009",
+      "keywords": [
+        "efta00035734",
+        "phone records",
+        "mcc caller station",
+        "jeffrey epstein",
+        "death investigation",
+        "fbi",
+        "ssa",
+        "import form",
+        "unclassified",
+        "90a-ny-3151227"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00035735",
+            "similarity": 0.818,
+            "index": 15,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00035720",
+            "similarity": 0.538,
+            "index": 51,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035736",
+      "summary": "This document is an import form related to a case file (90A-NY-3151227) concerning the July 23, 2019 suicide attempt of Jeffrey Epstein. The form includes a photograph of a homemade rope taken from the scene. The document identifies Jeffrey Epstein as a victim and indicates an ongoing death investigation. It references serial 81 within the case file.",
+      "timestamp": "2019-07-23T00:00:00",
+      "timestamp_raw": "July 23, 2019",
+      "keywords": [
+        "efta00035736",
+        "fbi",
+        "photograph",
+        "rope",
+        "suicide",
+        "jeffrey epstein",
+        "incident",
+        "investigation",
+        "oig",
+        "form"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019765",
+      "summary": "Michael Miller received an email from [REDACTED] regarding the ongoing investigation into Jeffrey Epstein’s death, initiated by the Attorney General and including an FBI investigation. The email included a press release from the Bureau of Prisons (BOP) summarizing available information, noting ongoing investigations and a lack of updates regarding the cause of death and Mr. Epstein’s observations. Reid Weingarten and Martin G. Weinberg were also copied on the communications.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "10 Aug 2019",
+      "keywords": [
+        "epstein",
+        "us v",
+        "fbi",
+        "attorney general",
+        "redaction",
+        "mike miller",
+        "martin weinberg",
+        "reid weingarten",
+        "bop",
+        "death investigation"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023972",
+      "summary": "On August 10, 2019, at 4:30 PM EDT, one Hitachi 500GB HDD (Serial Number JP1572JE36A13K) was collected from a redacted location by the MCC-NY as part of a CART evidence submission (NYC023579) related to a death investigation. The HDD was recovered from a Nice Vision DVR2 surveillance system. The receipt was not given.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "fbi",
+        "evidence",
+        "surveillance",
+        "hard drive",
+        "hitachi",
+        "hdd",
+        "cart",
+        "victim",
+        "death investigation",
+        "nyc023579"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00023976",
+            "similarity": 0.538,
+            "index": 14,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00023974",
+      "summary": "On August 10, 2019, at 4:30 PM EDT, one Hitachi 500GB HDD (Serial JP1572JE36MWNK) was collected from a redacted location as part of a death investigation (Case ID: 90A-NY-3151227). The HDD was recovered from a MCC Nice Vision DVR2 Surveillance System and submitted under NYC023582. Receipt was not given.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "fbi",
+        "redaction analysis",
+        "evidence",
+        "cart",
+        "hdd",
+        "surveillance system",
+        "hitachi",
+        "nice vision",
+        "jeffrey epstein",
+        "death investigation"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019759",
+      "summary": "On August 10, 2019, inmate Jeffrey Edward Epstein, 66, died at the Metropolitan Correctional Center (MCC) New York from an apparent suicide. He was found unresponsive in his cell and transported to a local hospital where he was pronounced dead. Epstein was being held on pretrial status for sex trafficking of minors and conspiracy, having arrived at the MCC on July 6, 2019. The FBI is investigating the incident.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "suicide",
+        "metropolitan correctional center",
+        "fbi",
+        "death investigation",
+        "sex trafficking",
+        "pretrial status",
+        "bureau of prisons",
+        "new york",
+        "ems"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023975",
+      "summary": "On August 10, 2019, at 4:30 PM EDT, one Seagate Barracuda 500GB HDD (Serial Number 23T6C3JA) was collected from a redacted location by the MCC-NY. The device originated from a Nice Vision DVR2 Surveillance System (1 of 18). The item was submitted as NYCO23578 and related to a death investigation involving Jeffrey Epstein. Receipt was not given.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "fbi",
+        "evidence",
+        "surveillance",
+        "hard drive",
+        "seagate",
+        "cart evidence",
+        "nyco23578",
+        "death investigation",
+        "jeffrey epstein",
+        "mcc-ny"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023973",
+      "summary": "On August 10, 2019, Jeffrey Epstein was found unresponsive in his jail cell at the Metropolitan Correctional Facility (MCC) with a fabricated noose around his neck, initially appearing as a suicide. A death investigation was subsequently initiated due to protocol failures and technical deficiencies within the MCC.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "fbi",
+        "electronic communication",
+        "jeffrey epstein",
+        "suicide",
+        "death investigation",
+        "metropolitan correctional facility",
+        "mcc",
+        "unresponsive",
+        "protocol failures",
+        "investigation"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015300",
+      "summary": "On August 10, 2019, the U.S. Marshals Service confirmed the death of Jeffrey Edward Epstein, 66, a federal prisoner. Epstein was held at the BOP’s Metropolitan Correctional Center (MCC) in New York and was being investigated by the FBI. The U.S. Marshals Service partners with various entities, including state and local governments, the Federal Bureau of Prisons, and private detention facilities, to house its prisoner population.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "usms",
+        "jeffrey epstein",
+        "death investigation",
+        "federal prisoner",
+        "metropolitan correctional center",
+        "fbi",
+        "bop",
+        "detention facilities",
+        "us marshals service",
+        "august 10",
+        "2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027972",
+      "summary": "On August 10, 2019, evidence was collected from the MCC and New York Presbyterian Hospital related to a death investigation involving Jeffrey Epstein. The collected items included a torn sheet, clothing released from New York Presbyterian Hospital, and miscellaneous papers along with an MP-3 player. The evidence was logged under case ID 90A-NY-3151227, serial 43, and was seized by SA personnel. The items were located in Cell #220 of the Special Housing Unit. Receipt numbers 1, 2, and 3 correspond to the collection of these items.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "fbi",
+        "evidence",
+        "jeffrey epstein",
+        "investigation",
+        "mcc",
+        "new york presbyterian hospital",
+        "mp-3 player",
+        "redaction",
+        "serial number",
+        "victim"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023977",
+      "summary": "On August 10, 2019, at 4:30 PM EDT, one Seagate Barracuda 500GB HDD (Serial Number 9QM8MT9P) was collected from a redacted location by the MCC-NY. The item was part of a Nice Vision DVR2 Surveillance System and was submitted as evidence related to a death investigation (Case ID: 90A-NY-3151227). Receipt was not given.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "fbi",
+        "evidence",
+        "surveillance",
+        "hard drive",
+        "seagate",
+        "cart evidence",
+        "nypd",
+        "investigation",
+        "victim",
+        "data"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00023976",
+            "similarity": 0.667,
+            "index": 14,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00023976",
+      "summary": "On August 10, 2019, at 4:30 PM EDT, one Seagate Constellation ES 500GB HDD (Serial Number Z1M1PZPE) was collected from MCC-NY as evidence related to a death investigation (Case ID: 90A-NY-3151227). The evidence originated from a Nice Vision DVR2 surveillance system (7 of 18). Receipt was not given. The document is an item log from the Federal Bureau of Investigation.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "fbi",
+        "evidence",
+        "surveillance",
+        "hard drive",
+        "seagate",
+        "hdd",
+        "cart",
+        "victim",
+        "investigation",
+        "nypd"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00023977",
+            "similarity": 0.667,
+            "index": 13,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00023972",
+            "similarity": 0.538,
+            "index": 6,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035735",
+      "summary": "This document is an import form, FD-1036, dated 09/24/2019, pertaining to a death investigation (Case ID 4: 90A-NY-3151227). The form includes phone records for MCC Caller Station 6385, provided by DIG SA on August 12, 2019. Jeffrey Epstein is identified as the victim. The form indicates UNSUB(S) and notes the investigation is regarding a death investigation.",
+      "timestamp": "2019-08-12T00:00:00",
+      "timestamp_raw": "August 12, 2019",
+      "keywords": [
+        "efta00035735",
+        "phone records",
+        "mcc caller station",
+        "jeffrey epstein",
+        "death investigation",
+        "fbi",
+        "import form",
+        "ssa",
+        "unclassified",
+        "90a-ny-3151227"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035734",
+            "similarity": 0.818,
+            "index": 3,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00035720",
+            "similarity": 0.538,
+            "index": 51,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00032097",
+      "summary": "The FBI collected a Seagate Barracuda 1000GB hard drive (Serial Z1D3ZSS0) as a derivative copy of another Seagate Barracuda 500GB hard drive (Serial Z3T6CF5X). The original hard drive was collected via TX-1, S/N 000ECC58017156 on 08/12/2019 at 07:00. The evidence was labeled NYC027703 and associated with Request ID 112048. Jeffrey Epstein is listed as the victim in a death investigation.",
+      "timestamp": "2019-08-12T00:00:00",
+      "timestamp_raw": "08/12/2019",
+      "keywords": [
+        "fbi",
+        "cart",
+        "hard drive",
+        "seagate",
+        "evidence",
+        "nyc027703",
+        "90a-ny-3151227",
+        "1b3",
+        "08/16/2019",
+        "fbi"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032289",
+      "summary": "On August 12, 2019, Rebekah Donaleski informed a recipient that she would be unable to attend an event (“Wednesday”) due to working the Epstein death investigation. She had previously requested someone to book a reservation and return trip for the same day. The sender expressed gratitude for her assistance and apologized for the last-minute cancellation.",
+      "timestamp": "2019-08-12T00:00:00",
+      "timestamp_raw": "August 12, 2019",
+      "keywords": [
+        "rail",
+        "reservation",
+        "booking",
+        "wednesday",
+        "epstein",
+        "investigation",
+        "dutch case file",
+        "sentencing",
+        "testimony",
+        "victims"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027092",
+      "summary": "An email exchange occurred regarding an interview scheduled for August 12, 2019, at 10:00 AM concerning the Epstein death investigation. One party requested a SA (Subject Area) from their office to attend the interview, and the recipient responded, offering to provide background information upon arrival.",
+      "timestamp": "2019-08-12T00:00:00",
+      "timestamp_raw": "August 12, 2019",
+      "keywords": [
+        "interview",
+        "epstein",
+        "investigation",
+        "sa",
+        "redaction",
+        "usanys",
+        "background"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035740",
+      "summary": "This document is an FBI Import Form related to an investigation into the death of Jeffrey Epstein. It details the receipt of MCC Annual Refresher Training forms and records from OIG SA dated August 13, 2019, and identifies Case ID U: 90A-NY-3151227, with Jeffrey Epstein as a victim and the investigation as a death investigation. The form was drafted on September 25, 2019.",
+      "timestamp": "2019-08-13T00:00:00",
+      "timestamp_raw": "August 13, 2019",
+      "keywords": [
+        "eba",
+        "fbi",
+        "mcc annual refresher training",
+        "jeffrey epstein",
+        "victim",
+        "death investigation",
+        "form",
+        "ssa",
+        "oig",
+        "2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00035729",
+            "similarity": 0.538,
+            "index": 56,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00032298",
+      "summary": "A request was made by the Assistant United States Attorney for the Southern District of New York to have Efrain Reyes, a former cellmate of Jeffrey Epstein, participate in a proffer. The proffer was approved for Friday due to Reyes’ lawyer’s availability and the difficulty in securing agent availability for a takeout order related to the ongoing Epstein death investigation.",
+      "timestamp": "2019-08-13T00:00:00",
+      "timestamp_raw": "13 Aug 2019",
+      "keywords": [
+        "efrain reyes",
+        "proffer",
+        "united states marshal",
+        "southern district of new york",
+        "epstein death investigation",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024404",
+      "summary": "A communication regarding the opening of a case, “In Re: Epstein Death Investigation,” with USAO Number 2019R01059, was sent from the United States Attorney's Office, Southern District of New York, to an unknown recipient. The email confirms the case has been opened.",
+      "timestamp": "2019-08-13T00:00:00",
+      "timestamp_raw": "13 Aug 2019",
+      "keywords": [
+        "epstein death investigation",
+        "usao number",
+        "new york",
+        "united states attorney's office",
+        "criminal clerk",
+        "case",
+        "legal assistant",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032101",
+      "summary": "On August 14, 2019, at 04:30 PM EDT, one Seagate Barracuda 500GB HDD (S/N 9QM8MSRR) was collected from a redacted location as part of a death investigation (Case ID: 90A-NY-3151227). The evidence originated from a Nice Vision DVR2 Surveillance System and was received “No” by MCC-NY. The item was designated as “Original” and collected by an individual named “Seizing Indi.”",
+      "timestamp": "2019-08-14T00:00:00",
+      "timestamp_raw": "August 14, 2019",
+      "keywords": [
+        "fbi",
+        "redaction",
+        "evidence",
+        "cart",
+        "surveillance",
+        "hdd",
+        "seagate",
+        "nyc023595",
+        "jeffrey epstein",
+        "death investigation"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023971",
+      "summary": "On August 14, 2019, at 4:30 PM EDT, one Seagate Barracuda 500GB HDD (Serial Number 9QM8EC75) was collected from a redacted location by the MCC-NY as part of a death investigation (Case ID: 90A-NY-3151227). The evidence was from a Nice Vision DVR2 Surveillance System. The receipt was not given.",
+      "timestamp": "2019-08-14T00:00:00",
+      "timestamp_raw": "August 14, 2019",
+      "keywords": [
+        "fbi",
+        "cart evidence",
+        "surveillance system",
+        "hard drive",
+        "seagate barracuda",
+        "nypd",
+        "jeffrey epstein",
+        "death investigation",
+        "item log",
+        "redaction"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035744",
+      "summary": "This is an FBI Import Form (FD-1036) related to a death investigation. The case ID is 90A-NY-3151227, involving the victim Jeffrey Epstein. On August 14, 2019, a SIS Lieutenant provided a drawing of the MCC 10th Floor, as part of the investigation. The form was generated on December 27, 2025.",
+      "timestamp": "2019-08-14T00:00:00",
+      "timestamp_raw": "August 14, 2019",
+      "keywords": [
+        "efta00035744",
+        "fbi",
+        "import form",
+        "mcc",
+        "drawing",
+        "jeffrey epstein",
+        "victim",
+        "death investigation",
+        "fd-1036",
+        "ssa"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00035720",
+            "similarity": 0.538,
+            "index": 51,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035727",
+            "similarity": 0.538,
+            "index": 55,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035745",
+            "similarity": 0.538,
+            "index": 62,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035743",
+      "summary": "This document is an unofficial FBI import form (FD-1034) relating to a death investigation. The investigation concerns Jeffrey Epstein, identified as a victim. An SIS Lieutenant provided a drawing of MCC 9 South on August 14, 2019, dated September 25, 2019. The case ID is 90A-NY-3151227.",
+      "timestamp": "2019-08-14T00:00:00",
+      "timestamp_raw": "August 14, 2019",
+      "keywords": [
+        "efta00035743",
+        "fbi",
+        "import form",
+        "mcc drawing",
+        "jeffrey epstein",
+        "victim",
+        "death investigation",
+        "fd-1034",
+        "ssa",
+        "sis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027962",
+      "summary": "On August 15, 2019, Special Agent seized items 1820 and 1821 from the MCC (150 Park Row, New York, NY) at approximately 4:45pm, as documented by Lt. T. Doctor. An FD-597 receipt for government property is attached. The case is designated 90A-NY-3151227, a death investigation involving Jeffrey Epstein as a victim.",
+      "timestamp": "2019-08-15T00:00:00",
+      "timestamp_raw": "August 15, 2019",
+      "keywords": [
+        "fbi",
+        "electronic communication",
+        "fd-597",
+        "investigation",
+        "death investigation",
+        "new york",
+        "jeffrey epstein",
+        "seized items",
+        "receipt",
+        "surveillance"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025431",
+      "summary": "On August 16, 2019, a Seagate Barracuda 1000GB Hard Drive (S/N W1D48YH6) was collected as a derivative evidence item (NYCO27706) related to a death investigation. The drive contained a clone copy of a Seagate Constellation ES 500GB hard drive (S/N Z1M1PZPE), collected via Tableau TD3-B (S/N 11D350F0-1525). The request ID was 112048. The initial evidence item was collected on August 12, 2019, at 07:00 PM EDT.",
+      "timestamp": "2019-08-16T00:00:00",
+      "timestamp_raw": "August 16, 2019",
+      "keywords": [
+        "fbi",
+        "hard drive",
+        "seagate",
+        "cart",
+        "nyco27706",
+        "evidence",
+        "90a-ny-3151227",
+        "1b7",
+        "1000gb",
+        "serialization"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025427",
+      "summary": "On August 16, 2019, a Seagate Barracuda 1000GB HDD (S/N W1D496N0) was submitted as a derivative evidence item (NYC027709) related to case 90A-NY-3151227, a death investigation. The item is a copy of a Seagate Barracuda 500GB HDD (S/N 9QM8MSEZ) collected via Tableau TD3-B S/N 11D350F6-1525. The request ID was 112048. The collected date was August 12, 2019, at 07:00 PM EDT. One hard drive was collected.",
+      "timestamp": "2019-08-16T00:00:00",
+      "timestamp_raw": "August 16, 2019",
+      "keywords": [
+        "fbi",
+        "cart",
+        "evidence",
+        "hdd",
+        "seagate",
+        "90a-ny-3151227",
+        "nyc027709",
+        "1b10",
+        "derivative",
+        "2019"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025418",
+      "summary": "On August 16, 2019, a Seagate Desktop 1000GB HDD (S/N Z4Y00Q48) containing a clone copy of a Western Digital 500GB HDD (S/N WCC2EJUC34CJ) was collected as a derivative evidence item (NYC027708) related to a death investigation. The collection was conducted via Tableau TD3-B S/N 01D3B08D-1331, Request ID 112048. The seized individual was Jeffrey Epstein, identified as a victim. The holding office is New York.",
+      "timestamp": "2019-08-16T00:00:00",
+      "timestamp_raw": "August 16, 2019",
+      "keywords": [
+        "fbi",
+        "cart",
+        "evidence",
+        "hdd",
+        "seagate",
+        "western digital",
+        "nyc027708",
+        "90a-ny-3151227",
+        "1b9",
+        "tableau td3-b"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027966",
+      "summary": "On August 16, 2019, a Seagate Barracuda 1000GB HDD (S/N S1D9GK9P) and a Seagate Constellation ES 500GB HDD (S/N Z1M1PZ07) were collected as a derivative copy of evidence NYC027713. The devices were collected via Tableau TX-1 S/N 000ECC58017194 and designated as a derivative copy with Request ID 112048. The collection occurred on August 12, 2019, at 07:00 PM EDT. The evidence relates to a death investigation involving Jeffrey Epstein.",
+      "timestamp": "2019-08-16T00:00:00",
+      "timestamp_raw": "August 16, 2019",
+      "keywords": [
+        "fbi",
+        "cart",
+        "evidence",
+        "hard drive",
+        "seagate",
+        "nyc027713",
+        "90a-ny-3151227",
+        "1b16",
+        "derivative",
+        "request id"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00025416",
+            "similarity": 0.538,
+            "index": 32,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00027970",
+            "similarity": 0.538,
+            "index": 33,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00032102",
+      "summary": "On August 16, 2019, at 07:00 PM EDT, a Hitachi 1TB hard drive (HUA722010CLA330, S/N JPW9K0N039EZLL) was collected as a derivative evidence item (NYC027702) related to a death investigation. The hard drive contained a clone copy of a 500GB Hitachi HDD (HDS721050CLA662, S/N JP1572JE36A13K). The original collection was made via a Tableau TX-1 device (S/N 000ECC5801109B) and associated with Request ID 112048. The evidence was collected from a redacted location and held in New York.",
+      "timestamp": "2019-08-16T00:00:00",
+      "timestamp_raw": "August 16, 2019",
+      "keywords": [
+        "fbi",
+        "cart",
+        "evidence",
+        "hard drive",
+        "hitachi",
+        "nyc027702",
+        "90a-ny-3151227",
+        "request id 112048",
+        "serialization",
+        "data recovery"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025416",
+      "summary": "On August 16, 2019, at 07:00 PM EDT, a Western Digital 1000GB HDD (WD1003FZEX-00MK2A0, S/N WCC3F2783519) containing a clone copy of a Seagate Barracuda 500GB HDD (ST350032ONS, S/N 9QM8MT6D) was collected. The evidence, designated NYCO27712, was collected via Tableau TX-1, S/N 000ECC58017156, and identified as a derivative copy. The request ID was 112048. The collected item is associated with a death investigation involving Jeffrey Epstein.",
+      "timestamp": "2019-08-16T00:00:00",
+      "timestamp_raw": "August 16, 2019",
+      "keywords": [
+        "fbi",
+        "evidence",
+        "hard drive",
+        "western digital",
+        "seagate",
+        "cart",
+        "nyco27712",
+        "90a-ny-3151227",
+        "redaction",
+        "derivative"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00027966",
+            "similarity": 0.538,
+            "index": 30,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00027970",
+            "similarity": 0.667,
+            "index": 33,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00027970",
+      "summary": "On August 16, 2019, a Seagate Barracuda 1000GB HDD (Serial W1D06T5L) was submitted as a derivative evidence item (NYCO27715) related to a death investigation. The HDD contains a clone copy of a Seagate Barracuda 500GB HDD (Serial 9QM8MSRR) collected via Tableau TD3-B (Serial 01D3B07E-1331). The collection occurred on August 12, 2019, at 7:00 PM EDT, and was seized by an unidentified individual. The item is held in New York.",
+      "timestamp": "2019-08-16T00:00:00",
+      "timestamp_raw": "August 16, 2019",
+      "keywords": [
+        "fbi",
+        "evidence",
+        "hard drive",
+        "seagate",
+        "cart",
+        "nyco27715",
+        "90a-ny-3151227",
+        "redaction",
+        "derivative",
+        "investigation"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00025416",
+            "similarity": 0.667,
+            "index": 32,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00027966",
+            "similarity": 0.538,
+            "index": 30,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00025414",
+            "similarity": 0.5,
+            "index": 34,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00025414",
+      "summary": "On August 16, 2019, a Seagate Desktop 1TB hard drive (S/N Z4YDJL1T) was collected as a derivative copy of a Seagate Barracuda 500GB hard drive (S/N 9QM8MT9P). The original hard drive was collected via Tableau TX-1 S/N 000ECC58017194. The request ID was 112048. The evidence was collected from [REDACTED] and held in New York. The seizure occurred on August 12, 2019, at 07:00 PM EDT.  The item is designated as a derivative and is related to a death investigation involving Jeffrey Epstein.",
+      "timestamp": "2019-08-16T00:00:00",
+      "timestamp_raw": "August 16, 2019",
+      "keywords": [
+        "fbi",
+        "evidence",
+        "hard drive",
+        "seagate",
+        "cart",
+        "nyc027704",
+        "90a-ny-3151227",
+        "1b4",
+        "1tb",
+        "500gb",
+        "investigation"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00027970",
+            "similarity": 0.5,
+            "index": 33,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00025402",
+            "similarity": 0.5,
+            "index": 35,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00025402",
+      "summary": "On August 16, 2019, a Seagate Desktop 1TB hard drive (model ST1000DM003, S/N Z4YDHX5M) containing a derivative copy of a Seagate Barracuda 500GB HDD (ST3500320NS, S/N 9QM8EC75) was collected. The original hard drive was collected via Tableau TD-3 -B S/N 01D3B07E-1331. Request ID 112048. The evidence was collected from [REDACTED] and is part of a death investigation related to Jeffrey Epstein. The FBI holds the property and restricts distribution.",
+      "timestamp": "2019-08-16T00:00:00",
+      "timestamp_raw": "August 16, 2019",
+      "keywords": [
+        "fbi",
+        "cart",
+        "hard drive",
+        "evidence",
+        "nyc027705",
+        "seagate",
+        "1tb",
+        "500gb",
+        "08/16/2019",
+        "request id 112048"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00025414",
+            "similarity": 0.5,
+            "index": 34,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027968",
+      "summary": "On August 19, 2019, the NYPD transferred items 1B37 and 1B38 to the New York Office of the Chief Medical Examiner (NY OCME) for examination.  An evidence receipt was generated on August 12, 2019, at 11:56 AM documenting the transfer. The case ID is 90A-NY-3151227 and involves a death investigation with Jeffrey Epstein as the victim.",
+      "timestamp": "2019-08-19T00:00:00",
+      "timestamp_raw": "August 19, 2019",
+      "keywords": [
+        "fbi",
+        "electronic communication",
+        "evidence",
+        "ny ocme",
+        "jeffrey epstein",
+        "death investigation",
+        "90a-ny-3151227",
+        "1b37",
+        "1b38",
+        "nypd"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031010",
+      "summary": "A request was made on August 19, 2019, to arrange car service for a witness in the Epstein death investigation. The witness should be picked up the following day (August 20th) at 10:00 AM and transported to ISA.",
+      "timestamp": "2019-08-19T00:00:00",
+      "timestamp_raw": "August 19, 2019",
+      "keywords": [
+        "efta00031010",
+        "ar service",
+        "epstein",
+        "witness",
+        "isa",
+        "car service",
+        "investigation",
+        "pickup",
+        "2019",
+        "august"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027969",
+      "summary": "On August 21, 2019, items 1820 and 1821 were transferred from the OTD Digital Evidence Laboratory to SA and SA at approximately 12:06 AM. This transfer is documented within a chain of custody package (LA package) related to a death investigation involving Jeffrey Epstein, case ID 90A-NY-3151227.",
+      "timestamp": "2019-08-21T00:00:00",
+      "timestamp_raw": "August 21, 2019",
+      "keywords": [
+        "chain of custody",
+        "digital evidence",
+        "fbi",
+        "electronic communication",
+        "jeffrey epstein",
+        "victim",
+        "evidence lab",
+        "new york",
+        "90a-ny-3151227",
+        "forensic analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015842",
+      "summary": "On August 21, 2019, at 4:00 PM EDT, a Hitachi 2TB Hard Drive (S/N B9GMGTYF) was collected as evidence related to a death investigation involving Jeffrey Epstein. The drive contained verified E01 images designated NYCO23589, NYCO23593, NYCO23594, and NYCO23595. The evidence was submitted as a CART Derivative (Evidence NYCO23597) and is a master copy. The collection was conducted by the FBI’s CART-NY unit in New York.",
+      "timestamp": "2019-08-21T00:00:00",
+      "timestamp_raw": "August 21, 2019",
+      "keywords": [
+        "fbi",
+        "cart",
+        "evidence",
+        "nyco23597",
+        "hitachi",
+        "hard drive",
+        "e01",
+        "90a-ny-3151227",
+        "jeffrey epstein",
+        "2019"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037263",
+      "summary": "An email was sent on August 22, 2019, from \"nmesAgainst\" to an unknown recipient, requesting an update for weekly SAR (Serious and Repeated Crime) regarding a death investigation. The email was marked as \"Normal\" importance and included the subject line “Epstein update.”",
+      "timestamp": "2019-08-22T00:00:00",
+      "timestamp_raw": "August 22, 2019",
+      "keywords": [
+        "epstein",
+        "update",
+        "sar",
+        "death investigation",
+        "trafficking",
+        "mobile",
+        "efta00037263"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037217",
+      "summary": "On August 22, 2019, Supervisory Special Agent Sean from the FBI/NYPD requested an update regarding a death investigation, specifically referencing “E stein t rsit ie”. The request originated from [REDACTED] at the FBI New York office.",
+      "timestamp": "2019-08-22T00:00:00",
+      "timestamp_raw": "August 22, 2019",
+      "keywords": [
+        "fbi",
+        "nypd",
+        "epstein",
+        "death investigation",
+        "sar",
+        "trafficking",
+        "redaction",
+        "estein",
+        "update",
+        "crimes against children"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015840",
+      "summary": "On August 22, 2019, a WD Black 3TB hard drive (S/N WCC13LZR579P) was collected as evidence in Case ID 90A-NY-3151227, a death investigation. The hard drive contained verified E01 images numbered NYCO23578 through NYCO23592. The evidence was collected from a redacted location and held at the New York holding office.",
+      "timestamp": "2019-08-22T00:00:00",
+      "timestamp_raw": "August 22, 2019",
+      "keywords": [
+        "fbi",
+        "cart",
+        "evidence",
+        "hard drive",
+        "wd black",
+        "nyco23596",
+        "serial number",
+        "digital",
+        "90a-ny-3151227",
+        "2019"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035746",
+      "summary": "This is an FBI import form related to a death investigation. On August 25, 2019, the Office of Inspector General (OIG) provided a computer analysis of the computers used by Michael Thomas and Tova Noel within the SHU of MCC. The case ID is 90A-NY-3151227, with Jeffrey Epstein listed as the victim. The form was approved by SSA and drafted on 09/26/2019.",
+      "timestamp": "2019-08-25T00:00:00",
+      "timestamp_raw": "August 25, 2019",
+      "keywords": [
+        "fbi",
+        "import form",
+        "computer analysis",
+        "oig",
+        "victim",
+        "death investigation",
+        "jeffrey epstein",
+        "shu",
+        "mcc",
+        "michael thomas"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037224",
+      "summary": "*   **Evidence Collection:** A cell phone obtained from the deceased is being processed. Agents are serving subpoenas at a hotel in the Bronx, NY. *   **Reporting Protocols:** FBI leadership is directing a shift to daily updates via conference calls, driven by DOJ requests.  Agents are instructed to proactively manage media reporting, focus on co-conspirator investigations, and provide general updates if significant findings aren’t present. Specific guidance includes avoiding naming interview subjects unless there’s significant information and being mindful of information being escalated to higher levels. *   **Case Coordination:** Multiple FBI squads (C-19, C2, and C4) are collaborating on aspects of the case, particularly concerning drug/sex offenses and potential charges.  The teams are coordinating to investigate co-conspirators, analyze phone data, and plan for a hearing on victims.",
+      "timestamp": "2019-08-26T00:00:00",
+      "timestamp_raw": "26 Aug 2019",
+      "keywords": [
+        "epstein",
+        "fbi",
+        "new york",
+        "subpoenas",
+        "phone",
+        "investigation",
+        "co-conspirators",
+        "c19",
+        "c2",
+        "maxwell",
+        "doj",
+        "color of law"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030561",
+      "summary": "A request was made for a Spanish interpreter for a meeting on September 3, 2019, at 2:00 PM at 40 Foley for the “In re Epstein Death Investigation” case, involving proffer discussions. The meeting was expected to last approximately 2 hours and was related to the case EFTA00030561.",
+      "timestamp": "2019-09-03T00:00:00",
+      "timestamp_raw": "September 3, 2019",
+      "keywords": [
+        "spanish interpreter",
+        "proffers",
+        "usanys",
+        "case name",
+        "epstein death investigation",
+        "appointment date",
+        "40 foley",
+        "september 3",
+        "2019",
+        "ausa",
+        "spanish"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035725",
+      "summary": "On September 9, 2019, the Federal Bureau of Investigation received emails from mCc concerning suicide watch and psychological observation of Jeffrey Epstein, as part of a death investigation (Case ID: 90A-NY-3151227). The emails were provided by the Office of the Inspector General (OIG SA).",
+      "timestamp": "2019-09-09T00:00:00",
+      "timestamp_raw": "September 9, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "suicide watch",
+        "psychological observation",
+        "federal bureau of investigation",
+        "import form",
+        "emails",
+        "ssa",
+        "death investigation",
+        "oig",
+        "mcc"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035724",
+      "summary": "This document is an “Other” Import Form related to a death investigation concerning Jeffrey Epstein. It was drafted on September 9, 2019, and references a memo from MCC dated August 10, 2019, provided by OIG SA. The case ID is 90A-NY-3151227 and identifies Epstein as a victim.",
+      "timestamp": "2019-09-09T00:00:00",
+      "timestamp_raw": "September 9, 2019",
+      "keywords": [
+        "epstein",
+        "death investigation",
+        "fbi",
+        "import form",
+        "memorandum",
+        "ssa",
+        "facial record",
+        "sdny",
+        "oig",
+        "90a-ny-3151227"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035721",
+      "summary": "This document is an import form, dated September 9, 2019, related to a death investigation (Case ID: 90A-NY-3151227). The form details the provision of MCC 30-minute round sheets from August 6, 2019, by the Digital Investigation Group (DIG SA) to SSA. Jeffrey Epstein is identified as a victim in the investigation.",
+      "timestamp": "2019-09-09T00:00:00",
+      "timestamp_raw": "September 9, 2019",
+      "keywords": [
+        "fbi",
+        "jeffrey epstein",
+        "death investigation",
+        "mcc",
+        "30 minute rounds",
+        "august 6",
+        "2019",
+        "ssa",
+        "unclassified",
+        "form",
+        "import form"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00035722",
+            "similarity": 0.615,
+            "index": 50,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035720",
+            "similarity": 0.615,
+            "index": 51,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035719",
+            "similarity": 0.5,
+            "index": 53,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035726",
+      "summary": "This document is an import form, dated September 9, 2019, pertaining to a memorandum from SOS R. regarding Jeffrey Epstein’s cellmate. The memorandum was produced on August 12, 2019, and is linked to Case ID 90A-NY-3151227, categorized as a death investigation with Jeffrey Epstein identified as a victim. The form was approved by SSA and drafted by the FBI.",
+      "timestamp": "2019-09-09T00:00:00",
+      "timestamp_raw": "September 9, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "cellmate",
+        "death investigation",
+        "fbi",
+        "memorandum",
+        "sos",
+        "victim",
+        "case id",
+        "unclassified",
+        "import form"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00035749",
+            "similarity": 0.538,
+            "index": 67,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035757",
+            "similarity": 0.538,
+            "index": 74,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035722",
+      "summary": "On September 9, 2019, the Federal Bureau of Investigation (FBI) received a document related to a death investigation (Case ID: 90A-NY-3151227) involving Jeffrey Epstein as a victim. The document consists of 30-minute round sheets from August 10, 2019, from 8:00 am to 12:00 am, provided by the Digital Investigation Group (DIG SA). The document was approved by the Social Security Administration (SSA).",
+      "timestamp": "2019-09-09T00:00:00",
+      "timestamp_raw": "September 9, 2019",
+      "keywords": [
+        "fbi",
+        "import form",
+        "death investigation",
+        "jeffrey epstein",
+        "ssa",
+        "30 minute rounds",
+        "august 10",
+        "2019",
+        "case id",
+        "unclassified"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035721",
+            "similarity": 0.615,
+            "index": 48,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00035720",
+            "similarity": 0.538,
+            "index": 51,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035730",
+            "similarity": 0.667,
+            "index": 57,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035742",
+            "similarity": 0.538,
+            "index": 60,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035720",
+      "summary": "On September 9, 2019, the FBI received a document related to MCC 30-minute rounds conducted on August 5, 2019. The document, identified as FD-1036, includes round sheets provided by the Digital Investigation Group (DIG SA). The case ID is 90A-NY-3151227, and Jeffrey Epstein is identified as a victim in a death investigation.",
+      "timestamp": "2019-09-09T00:00:00",
+      "timestamp_raw": "September 9, 2019",
+      "keywords": [
+        "fbi",
+        "import form",
+        "mcc",
+        "jeffrey epstein",
+        "death investigation",
+        "ssa",
+        "2019",
+        "90a-ny-3151227",
+        "unclassified",
+        "fd-1036"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035722",
+            "similarity": 0.538,
+            "index": 50,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035721",
+            "similarity": 0.615,
+            "index": 48,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035744",
+            "similarity": 0.538,
+            "index": 24,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00035719",
+            "similarity": 0.538,
+            "index": 53,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035727",
+            "similarity": 0.538,
+            "index": 55,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035730",
+            "similarity": 0.538,
+            "index": 57,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035723",
+      "summary": "This document is an unofficial FBI import form, dated September 9, 2019, related to a death investigation involving Jeffrey Epstein. It includes MCC count slips from August 10, 2019, provided by the Office of Inspector General (OIG SA), and identifies Case ID #90A-NY-3151227 and the status of the investigation as UNSUB(S).",
+      "timestamp": "2019-09-09T00:00:00",
+      "timestamp_raw": "September 9, 2019",
+      "keywords": [
+        "efta00035723",
+        "fbi",
+        "import form",
+        "mcc count slips",
+        "jeffrey epstein",
+        "victim",
+        "death investigation",
+        "ssa",
+        "90a-ny-3151227",
+        "sdny_00017787"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035719",
+      "summary": "This document is an FBI Import Form, dated September 9, 2019, regarding an email sent on UNET. The email, titled \"Email Regarding MCC Staff Assignments on August 10, 2019,\" was forwarded by OIG SA to MCC SIS Lt. on August 11, 2019. The case ID is 90A-NY-3151227, and Jeffrey Epstein is identified as a victim in a death investigation.",
+      "timestamp": "2019-09-09T00:00:00",
+      "timestamp_raw": "September 9, 2019",
+      "keywords": [
+        "fbi",
+        "jeffrey epstein",
+        "email",
+        "mcc",
+        "staff assignments",
+        "death investigation",
+        "unet",
+        "ssa",
+        "unclassified",
+        "import form"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035720",
+            "similarity": 0.538,
+            "index": 51,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035721",
+            "similarity": 0.5,
+            "index": 48,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033571",
+            "similarity": 0.538,
+            "index": 0,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035728",
+      "summary": "This document is an official report from the Federal Bureau of Investigation's Digital Evidence Laboratory (DEL REX) regarding the examination of evidence items 1B1 to 1618. The report, dated 09/10/2019, details the uploading of a CART Process Report for cloning and imaging processes related to a death investigation involving Jeffrey Epstein as a victim (Case ID: 90A-NY-3151227). The report is classified as UNCLASSIFIED.",
+      "timestamp": "2019-09-10T00:00:00",
+      "timestamp_raw": "09/10/2019",
+      "keywords": [
+        "fbi",
+        "import form",
+        "digital evidence",
+        "cart process report",
+        "cloning",
+        "imaging",
+        "evidence items",
+        "jeffrey epstein",
+        "victim",
+        "death investigation"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035727",
+      "summary": "This document is an unofficial Federal Bureau of Investigation (FBI) Import Form, dated September 10, 2019, pertaining to a death investigation. The form, identified as FD-1036, includes a 30-minute round sheet provided by OIG SA regarding MCC ZB on July 27 and 29, 2019. The case ID is 90A-NY-3151227, and the victim is Jeffrey Epstein, with the investigation categorized as a death investigation.",
+      "timestamp": "2019-09-10T00:00:00",
+      "timestamp_raw": "September 10, 2019",
+      "keywords": [
+        "efta00035727",
+        "fbi",
+        "import form",
+        "death investigation",
+        "jeffrey epstein",
+        "ssa",
+        "mcc",
+        "30 minute round sheet",
+        "fd-1036",
+        "case id"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035720",
+            "similarity": 0.538,
+            "index": 51,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035744",
+            "similarity": 0.538,
+            "index": 24,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00035742",
+            "similarity": 0.538,
+            "index": 60,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035729",
+      "summary": "On September 13, 2019, an email was provided by Dr. regarding Jeffrey Epstein needing a cellmate after being removed from psych observation. The email was dated July 30, 2019, and is related to a death investigation (Case ID 90A-NY-3151227) involving Jeffrey Epstein as a victim. The email was approved by SSA and drafted as part of a redacted file.",
+      "timestamp": "2019-09-13T00:00:00",
+      "timestamp_raw": "September 13, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "victim",
+        "death investigation",
+        "email",
+        "fbi",
+        "ssa",
+        "cellmate",
+        "psych observation",
+        "2019",
+        "form"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035740",
+            "similarity": 0.538,
+            "index": 19,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035730",
+      "summary": "This document is an unofficial FBI Import Form, dated September 18, 2019, titled “MCC Count Slips for July 23, 2019 to August 9, 2019.” It was approved by SSA and drafted in connection with Case ID # 90A- NY-3151227, a death investigation involving Jeffrey Epstein as a victim. AUSA provided the MCC Count Slips on September 17, 2019.",
+      "timestamp": "2019-09-18T00:00:00",
+      "timestamp_raw": "September 18, 2019",
+      "keywords": [
+        "fbi",
+        "import form",
+        "mcc count slips",
+        "jeffrey epstein",
+        "death investigation",
+        "ssa",
+        "case id",
+        "2019",
+        "ausa",
+        "unclassified"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035720",
+            "similarity": 0.538,
+            "index": 51,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035722",
+            "similarity": 0.667,
+            "index": 50,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035721",
+            "similarity": 0.5,
+            "index": 48,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00035742",
+            "similarity": 0.538,
+            "index": 60,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035749",
+            "similarity": 0.538,
+            "index": 67,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035732",
+      "summary": "This is an FBI Import Form (FD-1036) dated 09/23/2019, related to a death investigation involving Jeffrey Epstein. The form is an “Other” type, specifically a “MCC Duty Officer Supplement,” approved by SSA. The Case ID is 90A-NY-3151227, and the investigation is classified as UNSUB(S); VICTIM; DEATH INVESTIGATION.  The document is designated UNCLASSIFIED and includes the identifier EFTA00035732.",
+      "timestamp": "2019-09-23T00:00:00",
+      "timestamp_raw": "09/23/2019",
+      "keywords": [
+        "efta00035732",
+        "fbi",
+        "import form",
+        "mcc duty officer",
+        "jeffrey epstein",
+        "death investigation",
+        "ssa",
+        "fd-1036",
+        "unclassified",
+        "synopsis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035720",
+            "similarity": 0.538,
+            "index": 51,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033571",
+            "similarity": 0.538,
+            "index": 0,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00035742",
+            "similarity": 0.667,
+            "index": 60,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035733",
+      "summary": "This document is an “Evidence Return” import form (FD-1036) from the FBI, Case ID #90A-NY-3151227, related to a death investigation involving Jeffrey Epstein as a victim. Evidence package 1B44 was returned on 8/28/19 by SA per EC 8/29/19 Ser. 68.",
+      "timestamp": "2019-09-24T00:00:00",
+      "timestamp_raw": "09/24/2019",
+      "keywords": [
+        "fbi",
+        "evidence return",
+        "jeffrey epstein",
+        "victim",
+        "investigation",
+        "form",
+        "case id",
+        "90a-ny-3151227",
+        "ec 8/29/19",
+        "sdny_00017797"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035742",
+      "summary": "This is an FBI import form, FD-1036, dated September 25, 2019, regarding a death investigation. The picture of Tova Noel was provided by OIG on August 14, 2019. Jeffrey Epstein is listed as a victim. The case ID is 90A-NY-3151227.",
+      "timestamp": "2019-09-25T00:00:00",
+      "timestamp_raw": "September 25, 2019",
+      "keywords": [
+        "fbi",
+        "import form",
+        "tova noel",
+        "death investigation",
+        "jeffrey epstein",
+        "ssa",
+        "unclassified",
+        "fd-1036",
+        "synopsis",
+        "case id"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035732",
+            "similarity": 0.667,
+            "index": 58,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035730",
+            "similarity": 0.538,
+            "index": 57,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035727",
+            "similarity": 0.538,
+            "index": 55,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00035749",
+            "similarity": 0.538,
+            "index": 67,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035755",
+            "similarity": 0.538,
+            "index": 72,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035757",
+            "similarity": 0.538,
+            "index": 74,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035738",
+      "summary": "This is an unofficial FBI import form, FD-1036, dated September 25, 2019, pertaining to a death investigation. The form details an inmate log from August 9 and 10, 2019, provided by OIG, referencing Jeffrey Epstein as a victim and case ID 90A-NY-3151227. The document was received on October 16, 2009.",
+      "timestamp": "2019-09-25T00:00:00",
+      "timestamp_raw": "September 25, 2019",
+      "keywords": [
+        "efta00035738",
+        "shu inmate log",
+        "jeffrey epstein",
+        "victim",
+        "death investigation",
+        "fbi",
+        "import form",
+        "ssa",
+        "august 9-10",
+        "2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035745",
+      "summary": "On September 25, 2019, an “Import Form” was created for a drawing titled “(U) MCC Suicide Watch 2nd Floor Drawing.” The drawing was provided by SIS Lt. on August 14, 2019, in connection with a death investigation involving Jeffrey Epstein, identified by Case ID 90A-NY-3151227, categorized as UNSUB(S) and a DEATH INVESTIGATION.",
+      "timestamp": "2019-09-25T00:00:00",
+      "timestamp_raw": "September 25, 2019",
+      "keywords": [
+        "efta00035745",
+        "suicide watch",
+        "mcc",
+        "jeffrey epstein",
+        "death investigation",
+        "import form",
+        "ssa",
+        "fd-1036",
+        "sis",
+        "drawing"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035744",
+            "similarity": 0.538,
+            "index": 24,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035741",
+      "summary": "This document is an FBI import form, FD-1036, related to a death investigation. The form includes a facial record of Michael Thomas, dated September 25, 2019, provided by OIG SA on August 14, 2019. Jeffrey Epstein is identified as a victim. The case ID is 90A-NY-3151227.",
+      "timestamp": "2019-09-25T00:00:00",
+      "timestamp_raw": "September 25, 2019",
+      "keywords": [
+        "michael thomas",
+        "fbi",
+        "jeffrey epstein",
+        "victim",
+        "death investigation",
+        "import form",
+        "ssa",
+        "facial record",
+        "unclassified",
+        "efta00035741"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00035749",
+            "similarity": 0.538,
+            "index": 67,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035754",
+            "similarity": 0.667,
+            "index": 71,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035755",
+            "similarity": 0.538,
+            "index": 72,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035739",
+      "summary": "This document is an “Import Form” regarding the MCC bed assignments for Jeffrey Epstein, dated September 25, 2019. It was provided by SIS Lt. on August 13, 2018, and is part of a death investigation case ID # 90A-NY-3151227, designating Epstein as a victim and noting the involvement of SSA approval.",
+      "timestamp": "2019-09-25T00:00:00",
+      "timestamp_raw": "September 25, 2019",
+      "keywords": [
+        "epstein",
+        "jeffrey",
+        "fbi",
+        "investigation",
+        "death",
+        "bed assignments",
+        "ssa",
+        "victim",
+        "unclassified",
+        "form"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035747",
+      "summary": "This document is a Form 583 Report of Incident, dated October 3, 2019, regarding Jeffrey Epstein’s death investigation. The report was provided by the Digital Investigation Group (DIG SA) on August 14, 2019. The case ID is 90A-NY-3151227, and Jeffrey Epstein is listed as the victim. The form is classified as UNCLASSIFIED.",
+      "timestamp": "2019-10-03T00:00:00",
+      "timestamp_raw": "October 3, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "form 583",
+        "death investigation",
+        "fbi",
+        "ssa",
+        "incident report",
+        "90a-ny-3151227",
+        "efta00035747"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035748",
+      "summary": "On November 14, 2019, an email was sent by an AUSA to summarize a telephone conversation between the AUSA, another AUSA, Dr. (OCME), and Dr. (OCME Chief Legal Counsel) regarding the autopsy of Jeffrey Epstein. The email, identified as Form FD-1036, was part of a death investigation (Case ID: 90A-NY-3151227) and included Jeffrey Epstein as the victim.",
+      "timestamp": "2019-11-14T00:00:00",
+      "timestamp_raw": "November 14, 2019",
+      "keywords": [
+        "fbi",
+        "jeffrey epstein",
+        "death investigation",
+        "autopsy",
+        "medical examiner",
+        "synopsis",
+        "email",
+        "case id",
+        "90a-ny-3151227",
+        "unclassified"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00035757",
+            "similarity": 0.538,
+            "index": 74,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035749",
+      "summary": "This is an official FBI Import Form, dated November 21, 2019, titled “CART Process Report for CART Submission ID:218509.” The report relates to a death investigation with Jeffrey Epstein as a victim (Case ID S: 90A-NY-3151227) and was approved by the SSA. The form is marked as UNCLASSIFIED and includes the case number EFTA00035749.",
+      "timestamp": "2019-11-21T00:00:00",
+      "timestamp_raw": "November 21, 2019",
+      "keywords": [
+        "fbi",
+        "import form",
+        "cart process report",
+        "jeffrey epstein",
+        "victim",
+        "death investigation",
+        "ssa",
+        "case id",
+        "unclassified",
+        "efta00035749"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035741",
+            "similarity": 0.538,
+            "index": 63,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035742",
+            "similarity": 0.538,
+            "index": 60,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035730",
+            "similarity": 0.538,
+            "index": 57,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00035754",
+            "similarity": 0.538,
+            "index": 71,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035755",
+            "similarity": 0.538,
+            "index": 72,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035757",
+            "similarity": 0.538,
+            "index": 74,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00015524",
+      "summary": "An email chain discusses a voicemail from Stacey Richman regarding a client, Mark Epstein. One individual suggests contacting Richman and offers to return her call initially, while another believes she may be connected to a death investigation and asks if the recipient has any information. There were ten redactions contained within the document.",
+      "timestamp": "2019-11-24T00:00:00",
+      "timestamp_raw": "24 Oct 2019",
+      "keywords": [
+        "mark epstein",
+        "redaction",
+        "investigation",
+        "stacey richman",
+        "vm",
+        "client",
+        "death",
+        "response",
+        "team",
+        "call"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035751",
+      "summary": "This document is an unofficial Federal Bureau of Investigation Import Form, dated December 11, 2019, related to a digital evidence examination. It concerns Process Report #223558 regarding CART technical assistance for case ID #90A-NY-3151227, involving Jeffrey Epstein as a victim and a death investigation. The form was received on October 16, 2009.",
+      "timestamp": "2019-12-11T00:00:00",
+      "timestamp_raw": "December 11, 2019",
+      "keywords": [
+        "fbi",
+        "import form",
+        "del rex",
+        "digital evidence laboratory",
+        "sid",
+        "jeffrey epstein",
+        "victim",
+        "death investigation",
+        "process report",
+        "cart"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035752",
+      "summary": "This document is an Import Form created by the FBI, Case ID #90A-NY-3151227, related to a death investigation involving Jeffrey Epstein. The form, dated December 13, 2019, was provided by the OIG SA and includes OIG Waiver Forms and references to documents SONY_00017816 and EFTA00035752. The form indicates UNSUB(S) and Jeffrey Epstein as the victim.",
+      "timestamp": "2019-12-13T00:00:00",
+      "timestamp_raw": "December 13, 2019",
+      "keywords": [
+        "fbi",
+        "investigation",
+        "jeffrey epstein",
+        "oig",
+        "waiver forms",
+        "death investigation",
+        "case id",
+        "2019",
+        "ssa",
+        "oig sa"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035754",
+      "summary": "This document is a redacted FBI import form (FD-1036) regarding a death investigation involving Michael Thomas. The form, dated December 13, 2019, details a work schedule provided by the Social Security Administration (SSA) on September 6, 2019. Jeffrey Epstein is listed as a victim, and the case ID is 90A-NY-3151227. The document is classified for release to the USA, Great Britain, and Ireland.",
+      "timestamp": "2019-12-13T00:00:00",
+      "timestamp_raw": "December 13, 2019",
+      "keywords": [
+        "eba",
+        "fbi",
+        "work schedules",
+        "michael thomas",
+        "jeffrey epstein",
+        "victim",
+        "death investigation",
+        "ssa",
+        "unclassified",
+        "import form"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035749",
+            "similarity": 0.538,
+            "index": 67,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035741",
+            "similarity": 0.667,
+            "index": 63,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00035755",
+            "similarity": 0.538,
+            "index": 72,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035755",
+      "summary": "This is a redacted FBI Import Form, specifically a Daily Assignment Log for Tova Noel, dated December 13, 2019. The log was generated by the OIG as part of a death investigation (Case ID: 90A-NY-3151227) involving Jeffrey Epstein as a victim. The document is officially approved by the SSA and designated as UNCLASSIFIED.",
+      "timestamp": "2019-12-13T00:00:00",
+      "timestamp_raw": "December 13, 2019",
+      "keywords": [
+        "efta00035755",
+        "tova noel",
+        "jeffrey epstein",
+        "victim",
+        "death investigation",
+        "import form",
+        "fbi",
+        "ssa",
+        "daily assignment log",
+        "unclassified"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035754",
+            "similarity": 0.538,
+            "index": 71,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035749",
+            "similarity": 0.538,
+            "index": 67,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035741",
+            "similarity": 0.538,
+            "index": 63,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035756",
+      "summary": "This document is a Federal Bureau of Investigation (FBI) import form, specifically an \"Other\" type, relating to a death investigation. The form, dated February 4, 2020, includes a psychology report and interview notes for the case ID 8: 90A-NY-3151227, involving Jeffrey Epstein as a victim. The report is classified as UNCLASSIFIED and designates the case as UNSUB(S).",
+      "timestamp": "2020-02-04T00:00:00",
+      "timestamp_raw": "February 4, 2020",
+      "keywords": [
+        "efta00035756",
+        "fbi",
+        "psychology report",
+        "interview notes",
+        "death investigation",
+        "jeffrey epstein",
+        "victim",
+        "import form",
+        "unclassified",
+        "federal bureau of investigation"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035757",
+      "summary": "This is an email record from the Federal Bureau of Investigation, dated October 14, 2020, related to a death investigation identified as Case ID 8: 90A-NY-3151227. Jeffrey Epstein is listed as the victim. The email is part of a continuation chain (Ro 10-16-2009) and is classified as UNCLASSIFIED.",
+      "timestamp": "2020-10-14T00:00:00",
+      "timestamp_raw": "October 14, 2020",
+      "keywords": [
+        "fbi",
+        "import form",
+        "email",
+        "jeffrey epstein",
+        "victim",
+        "death investigation",
+        "fd-i036",
+        "synopsis",
+        "case id",
+        "unclassified"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035749",
+            "similarity": 0.538,
+            "index": 67,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035748",
+            "similarity": 0.538,
+            "index": 66,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035742",
+            "similarity": 0.538,
+            "index": 60,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035759",
+      "summary": "*   **Request:** The FBI New York Laboratory Division is requested to perform a handwriting analysis comparing the letter’s handwriting to Jeffrey Epstein’s. *   **Evidence:** A red rope containing papers was collected from Epstein’s cell. *   **Timeline:** The request was drafted on January 202C (likely a typo - intended to be 2021) with a deadline of October 30, 2020, due to an upcoming trial. *   **Personnel:** Involved individuals include Special Agent (SA) Tijuana Doctor and Lieutenant (LT) Tijuana Doctor, along with Jeffrey Epstein. *   **Method:** Handwriting samples from Epstein’s cell will be submitted.",
+      "timestamp": "2020-10-30T00:00:00",
+      "timestamp_raw": "October 30, 2020",
+      "keywords": [
+        "jeffrey epstein",
+        "fbi",
+        "laboratory examination",
+        "handwriting analysis",
+        "death investigation",
+        "new york",
+        "tucson",
+        "evidence",
+        "dna",
+        "case id"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035758",
+      "summary": "This document is an Intake Screening Phone Log related to a death investigation, Case ID 90A-NY-3151227, involving Jeffrey Epstein as a victim. The log was provided by the OIG Special Agent on 11/3/2020 and dated 03/04/2021. It is associated with the EFTA00035758 file.",
+      "timestamp": "2020-11-03T00:00:00",
+      "timestamp_raw": "11/3/2020",
+      "keywords": [
+        "fbi",
+        "intake screening",
+        "phone log",
+        "case id",
+        "jeffrey epstein",
+        "victim",
+        "death investigation",
+        "oig",
+        "unclassified",
+        "efta00035758"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030878",
+      "summary": "On January 11, 2021, an email exchange occurred regarding the intake squad for MCC matters, specifically related to a prison assault and a motion filed by Robert Gist. One individual identified SA was assigned to the NYO Bank Robbery Task force at the time of the assault and subsequently retired from the FBI. Another individual was involved with the Epstein death investigation and confirmed the intake squad for MCC matters was the \"intake squad for MCC matters (I worked with them on the Epstein death investigation)\". A previous inquiry dated February 2017 sought information about the squad responsible for handling MCC referrals.",
+      "timestamp": "2021-01-11T00:00:00",
+      "timestamp_raw": "January 11, 2021",
+      "keywords": [
+        "efta00030878",
+        "redaction analysis",
+        "mcc",
+        "epstein death investigation",
+        "ssa",
+        "c19",
+        "criminal complaints",
+        "usanys",
+        "fbi",
+        "robert gist"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035811",
+      "summary": "The U.S. Department of Justice, Office of the Inspector General, New York Field Office, is requesting the complete medical examiner’s report and associated documentation related to the death investigation of Jeffrey Epstein, an inmate at the Metropolitan Correctional Center New York. This includes notes, reports, photos, evidence, x-rays, and any other relevant materials. The request is to be mailed to or emailed to the specified address.",
+      "timestamp": "2022-02-28T00:00:00",
+      "timestamp_raw": "February 28, 2022",
+      "keywords": [
+        "justice",
+        "inspector general",
+        "medical examiner",
+        "jeffrey epstein",
+        "bureau of prisons",
+        "new york",
+        "investigation",
+        "cause of death",
+        "documentation",
+        "u.s. department of justice"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037068",
+      "summary": "On February 14, 2024, an individual contacted Mr. Brettler, reporting that their emails, including correspondence with Boies and Lucia Osborn, have been deleted. The individual believes Lucia Osborn, involved in a death investigation and connected to a meeting with Queen Camilla, is “incredibly dangerous.” They express fear for themselves and their unborn child’s safety, citing potential danger due to the situation and lack of support.",
+      "timestamp": "2024-02-14T00:00:00",
+      "timestamp_raw": "February 14, 2024",
+      "keywords": [
+        "deletion",
+        "evidence",
+        "emails",
+        "lucia osborn",
+        "boies",
+        "buckingham palace",
+        "queen camilla",
+        "racism",
+        "danger",
+        "help"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035417",
+      "summary": "The document requests information regarding the death of Jeffrey Epstein at Metropolitan Correctional Center (MCC) NY. Specifically, it seeks confirmation of the following: 1.  Notification of Epstein’s next of kin. 2.  Whether staff initiated life-saving measures upon finding him. 3.  The involvement of EMS and/or hospital staff in providing medical care and transport to the hospital. 4.  The determination of death – by EMS or hospital staff. 5.  Notification of the FBI and the status of the investigation (suicide vs. other). 6.  The date of Epstein’s arrival at MCC NY on PP37. 7.  The specific offense titles related to his indictments.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "epstein",
+        "death investigation",
+        "life-saving measures",
+        "fbi",
+        "suicide",
+        "mcc ny",
+        "sex trafficking",
+        "notification",
+        "bop",
+        "ems"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035753",
+      "summary": "This document is an unofficial FBI import form, Case ID #90A-NY-3151227, related to a death investigation involving Jeffrey Epstein. It was generated on December 27, 2025, and includes waiver forms provided by the OIG SA, specifically referencing SONY_00017817 and EFTA00035753. The form indicates the subject is UNSUB(S), Jeffrey Epstein (victim), and the date of the investigation is December 13, 2019.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "fbi",
+        "investigation",
+        "death",
+        "waiver forms",
+        "oig",
+        "jeffrey epstein",
+        "victim",
+        "form",
+        "other",
+        "unclassified"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    }
+  ]
+}

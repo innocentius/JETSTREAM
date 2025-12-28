@@ -1,0 +1,982 @@
+{
+  "keyword": "child sex trafficking",
+  "count": 29,
+  "keyword_match_count": 29,
+  "content_match_count": 11,
+  "total_files": 40,
+  "timeline": [
+    {
+      "file_id": "EFTA00019173",
+      "summary": "The document is a series of emails discussing concerns and questions regarding the legal case involving Jeffrey Epstein. Key points include: *   Scheduling confirmation related to a sentencing. *   Confusion regarding Epstein’s plea and sentencing, specifically questioning the handling of trafficking charges and the lenient conditions of his confinement. *   Detailed inquiries about the terms of the Non-Prosecution Agreement (NPA), including victim counselor selection, the reasons for dismissing trafficking charges, and the lack of public record or FOIA transparency. *   Concerns about potential future offenses and the absence of protective measures for victims. *   Questions regarding the suspension of the federal grand jury investigation and the reasons for not pursuing charges against co-conspirators.",
+      "timestamp": "2010-06-18T00:00:00",
+      "timestamp_raw": "18 Jun 2010",
+      "keywords": [
+        "jeffrey epstein",
+        "child sex trafficking",
+        "npa",
+        "sentencing",
+        "florida",
+        "restitution",
+        "registered sex offender",
+        "us attorney",
+        "foia",
+        "parole violations"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038652",
+      "summary": "This document is a court order regarding a Freedom of Information Act (FOIA) lawsuit filed by Radar Online LLC and James Robertson against the Federal Bureau of Investigation (FBI). Plaintiffs sought records related to the FBI's investigation and prosecution of Jeffrey Epstein and Ghislaine Maxwell. Here's a breakdown of the key facts: *   **Case Background:** The lawsuit began in 2017 after the FBI failed to respond to a FOIA request. The FBI subsequently withheld a significant amount of records, primarily citing Exemption 7(A) of the FOIA (relating to interference with law enforcement proceedings). *   **FBI’s Actions:** The FBI processed 11,571 pages of responsive documents, mostly redacted, based on the Exemption 7(A) claim. They argued that disclosing the records could negatively impact the ongoing prosecution of Epstein and Maxwell. *   **Court’s Decision:** The court granted the FBI’s motion for summary judgment, ruling that the FBI had adequately justified the withheld records under Exemption 7(A). The court found that the FBI had properly linked the requested records to the potential harm of interfering with the ongoing prosecutions. The court also addressed arguments about segregability, concluding that the FBI’s explanations were sufficient.",
+      "timestamp": "2017-04-20T00:00:00",
+      "timestamp_raw": "April 20, 2017",
+      "keywords": [
+        "foia",
+        "fbi",
+        "jeffrey epstein",
+        "child sex trafficking",
+        "redaction",
+        "exemption 7(a)",
+        "maxwell",
+        "ghislaine maxwell",
+        "prosecution",
+        "investigation",
+        "records",
+        "law enforcement",
+        "summary judgment"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037984",
+      "summary": "Epstein lured victims, facilitated sex acts, and paid them in cash, encouraging them to recruit additional girls. *   **Legal Actions:** Epstein was indicted for federal offenses (18 USC 1591, 18 USC 371) and an arrest warrant was issued by the SDNY. *   **Arrest Plan:** The planned arrest involves coordination between FBI Newark, CBP, NYPD, and local law enforcement. It includes a silent hit notification with CBP upon Epstein’s return to the U.S. and his subsequent detention at an airport. Following arrest, a search warrant will be executed at his New York residence. *   **Operational Details:** The operation is scheduled to occur on July 2, 2019, with a focus on immediate arrest and subsequent search of the premises. Communication protocols and emergency reporting procedures are outlined.",
+      "timestamp": "2019-07-02T00:00:00",
+      "timestamp_raw": "July 2, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "child sex trafficking",
+        "arrest",
+        "nypd",
+        "fbi",
+        "cbp",
+        "search warrant",
+        "massages",
+        "victims",
+        "2002-2005",
+        "new york",
+        "florida",
+        "sex toys",
+        "recruitment"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00037313",
+            "similarity": 0.588,
+            "index": 3,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037313",
+      "summary": "*   **Timeline:** The operation was scheduled for July 6, 2019, at 4:00 PM, focusing on Epstein’s return to the US via Teterboro Airport. CBP was to detain him upon arrival, followed by coordination with FBI Newark and NYPD for arrest. A subsequent search warrant would be executed at his New York residence. *   **Operational Plan:** The plan involved coordinated efforts between the FBI, NYPD, CBP, and potentially other agencies (SWAT, SCUBA, etc.). The operation’s success relied on Epstein returning to the US as planned. *   **Administrative Details:** Includes contact information for the on-scene commander, prosecutor (SDNY), and emergency reporting procedures. Tactical briefing information and associated equipment lists are also included.",
+      "timestamp": "2019-07-06T00:00:00",
+      "timestamp_raw": "July 6, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "sex trafficking",
+        "arrest",
+        "search warrant",
+        "nypd",
+        "fbi",
+        "cbp",
+        "new york",
+        "florida",
+        "2019",
+        "victims",
+        "massages",
+        "sexual acts"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037984",
+            "similarity": 0.588,
+            "index": 2,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019729",
+      "summary": "On July 11, 2019, the FBI executed a search warrant at 9 East 71st Street, New York, in connection with Jeffrey Epstein child sex trafficking. During the search, agents collected a variety of electronic devices, including a silver Apple desktop computer, multiple Seagate Path/100 hard drives, USB flash drives (including Data Traveler 4GB and Mentor Media 32GB), and several CDs/DVDs. Additionally, they seized a Dell Precision Tower 5810 computer, a Sony Vaio laptop, an Olympus recorder, an Apple iPad and associated accessories, and various other computers and storage devices, totaling 45 devices. These items were found across various rooms of the residence, including rooms A, FF, GG, II, NN, O, V, and U.",
+      "timestamp": "2019-07-11T00:00:00",
+      "timestamp_raw": "July 11, 2019",
+      "keywords": [
+        "fbi",
+        "search warrant",
+        "new york",
+        "computer",
+        "hard drive",
+        "data",
+        "jeffrey epstein",
+        "trafficking",
+        "seizure",
+        "devices",
+        "apple",
+        "seagate",
+        "usb"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028332",
+      "summary": "Jean James, a retired police detective with 25 years of experience investigating child abuse, is campaigning for legal changes to protect whistleblowers exposing high-level cover-ups of child prostitution, specifically referencing the case of Jeffrey Epstein connections. He claims to have faced threats and bullying after exposing these crimes, which he believes were suppressed for decades.  He is working with other whistleblowers, victims, and survivors to raise awareness and seek legal protection for those exposing abuse. He is requesting financial support for his campaign.",
+      "timestamp": "2019-07-12T00:00:00",
+      "timestamp_raw": "12 Jul 2019",
+      "keywords": [
+        "child sex trafficking",
+        "jeffrey epstein",
+        "abuse",
+        "whistleblowers",
+        "protection",
+        "crime",
+        "jon wedger foundation",
+        "victim",
+        "survivor",
+        "campaign"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029522",
+      "summary": "Geoffrey Berman sent an email to Jean James on July 12, 2019, regarding a forwarded email titled \"VIDEO CHILD SEX TRAFFICKING - JEFFREY EPSTEIN CONNECTIONS\" (EFTA00029522). The email was marked as “Normal” importance.",
+      "timestamp": "2019-07-12T00:00:00",
+      "timestamp_raw": "July 12, 2019",
+      "keywords": [
+        "epstein",
+        "trafficking",
+        "child",
+        "sex",
+        "efta00029522",
+        "jeffrey",
+        "video",
+        "fwd",
+        "jean james"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038235",
+      "summary": "The threat involved a planned execution of Jeffrey Epstein and requests for information to locate other victims. The initial post referenced a \"DEEPPASTE\" forum and urged readers to provide identifying details. Subsequent investigations, including attempts to contact the user and gather additional information from the Darknet, proved unsuccessful. The user’s account was reportedly deactivated, and the investigation was ultimately closed on May 12, 2020, with no outstanding leads.  The investigation focused on potential child sex trafficking related to Epstein’s activities.",
+      "timestamp": "2019-07-26T00:00:00",
+      "timestamp_raw": "July 26, 2019",
+      "keywords": [
+        "fbi",
+        "jeffrey epstein",
+        "darknet",
+        "threats",
+        "investigation",
+        "victim",
+        "child sex trafficking",
+        "electronic communication",
+        "deeppaste",
+        "epstein",
+        "new york",
+        "unknown subject"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016124",
+      "summary": "Here’s a breakdown of the key elements: *   **Protective Order:** A federal judge ordered the government to hand over sensitive investigative materials to Epstein’s defense team due to concerns about potential harm to victims and the ongoing investigation. *   **Non-Prosecution Agreement (NPA):** The original 2008 NPA with federal prosecutors, secured over allegations of child sex trafficking, immunized Epstein and four women suspected of involvement. The NPA is currently under review by the Justice Department’s Office of Professional Responsibility. *   **Victim Allegations:** One accuser, Jane Doe 17, sued the Department of Justice in 2008 alleging the NPA was obtained in violation of the Crime Victims' Rights Act, highlighting a lack of communication with victims. *   **New Indictment:** Epstein was indicted on charges related to sex trafficking and conspiracy, accusing him of exploiting dozens of underage girls. His defense argues the charges are a “re-do” of a previous investigation. *   **Cell Conditions:** Epstein is currently incarcerated in a windowless, unsanitary cell at the Metropolitan Correctional Center in New York, experiencing a situation comparable to that of other high-profile inmates like Joaquin “El Chapo” Guzman. *   **Threats and Interference:** Concerns arose regarding potential witness tampering, with Epstein allegedly wiring money to co-conspirators. Furthermore, a senator, Lauren Book, reported receiving threats and pressure to drop her calls for an investigation into Sheriff Bradshaw’s handling of Epstein’s case in Palm Beach County. *   **Early Accusation:** A Santa Monica police report from 1997 details an accusation by a model, M, alleging Epstein sexually assaulted her during a “talent scout” meeting for Victoria’s Secret, revealing a long-standing connection and potentially a pattern of behavior. *   **Legal Challenges:** Epstein’s lawyers are appealing his bail denial, arguing the charges are based on a re-examination of previously shelved allegations. The document highlights a complex and ongoing legal battle with significant implications for Epstein and the victims involved.",
+      "timestamp": "2019-07-29T00:00:00",
+      "timestamp_raw": "29 Jul 2019",
+      "keywords": [
+        "redaction analysis",
+        "jeffrey epstein",
+        "protective order",
+        "sex trafficking",
+        "victims",
+        "non-prosecution agreement",
+        "florida",
+        "new york",
+        "justice department",
+        "co-conspirators",
+        "jane doe 17",
+        "sex abuse",
+        "witness tampering"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023980",
+      "summary": "On August 10, 2019, United States Senator Ben Sasse wrote to Attorney General William P. Barr regarding the death of Jeffrey Epstein by apparent suicide while in federal Bureau of Prisons custody. Sasse expresses outrage at what he perceives as a systemic failure within the Department of Justice, citing Epstein’s previous suicide attempt and the apparent removal of suicide watch. He demands answers regarding whether Epstein was on suicide watch, why he was taken off, and the initiation of investigations into the Bureau of Prisons’ handling of Epstein's case and potential criminal activity surrounding it. He also requests confirmation that all evidence related to Epstein’s co-conspirators is being secured.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "suicide",
+        "justice department",
+        "child sex trafficking",
+        "attorney general",
+        "investigations",
+        "bureau of prisons",
+        "criminal activity"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019669",
+      "summary": "On August 12, 2019, the FBI New York Office’s Criminal Division Branch C executed a search warrant at Little Saint James Island, USVI, USA, owned by Jeffrey Epstein, as part of a Child Sex Trafficking investigation. The warrant targeted several structures including a single-story residence (A3), sheds (B1 & B2), a dock (B3), and potential two-story structures (A2, A4, C1 & C2).  A dome structure (D3) and a yellow square marked potential hidden structure were also identified. The operation utilized a USNG/MGRS map with topographic data and a scale of 1:25000 to document the locations and descriptions of these structures. Weather and nautical reports for Saint Thomas, USVI, were included as supplementary information.",
+      "timestamp": "2019-08-12T00:00:00",
+      "timestamp_raw": "August 12, 2019",
+      "keywords": [
+        "fbi",
+        "jeffrey epstein",
+        "little saint james island",
+        "usvi",
+        "child sex trafficking",
+        "search warrant",
+        "weather report",
+        "nautical report",
+        "structures",
+        "lsj",
+        "usvi",
+        "2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037340",
+      "summary": "Thomas, U.S. Virgin Islands. The operation, scheduled for August 12, 2019, involves a team from the FBI and NYPD to investigate a case of child sex trafficking involving Epstein’s recruitment and exploitation of minors. The operation involves a security sweep of the island, interviews with individuals present, and the potential use of less-than-lethal devices, consistent with DOJ policy regarding the use of force. The operation is based on a 2019 warrant issued in connection with allegations of Epstein’s activities in New York and Florida. Supporting documents, including maps, personnel assignments, and policy statements regarding the use of force, are also included.",
+      "timestamp": "2019-08-12T00:00:00",
+      "timestamp_raw": "August 12, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "sex trafficking",
+        "little saint james",
+        "u.s. virgin islands",
+        "search warrant",
+        "fbi",
+        "nypd",
+        "operations order",
+        "victim recruitment",
+        "massage",
+        "assault",
+        "2002-2005",
+        "arrested",
+        "case file number",
+        "armed & dangerous",
+        "escape risk"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015328",
+      "summary": "The document consists of a series of emails related to a request for assistance bringing a law enforcement investigation into the U.S., specifically concerning potential connections to Jeffrey Epstein and sex trafficking. Multiple parties, including Marsh Law Firm PLLC and a Dr. [REDACTED], are involved. Concerns repeatedly arise about inconsistencies in information and a lack of response from U.S. law enforcement regarding attempts to facilitate entry for a client. Key details include references to Epstein’s mansion, photographic evidence, and names of individuals associated with suspected trafficking activities. The emails highlight a frustration with the perceived inaction of law enforcement despite the individual’s claims of possessing substantial evidence.",
+      "timestamp": "2019-11-21T00:00:00",
+      "timestamp_raw": "21 Oct 2019",
+      "keywords": [
+        "epstein",
+        "law enforcement",
+        "trafficking",
+        "u.s.",
+        "investigation",
+        "marsh law firm",
+        "fbi",
+        "homeland security",
+        "child sex trafficking"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025010",
+      "summary": "On March 8, 2020, an individual reported a tip to the FBI regarding alleged child sex trafficking and infanticide involving Jeffrey Epstein and their uncle, dating back to 1984. The complainant, using an alias, detailed a series of events involving multiple individuals and yachts originating from Mona Lake, MI.  The complainant claims to have been forced into sexual activity at age 13 while pregnant and alleges involvement of Donald Trump and the murder/disposal of their newborn daughter in Lake Michigan. The initial contact was with an NYPD detective (name redacted) who investigated the claims. The tip originated from an IP address in Albuquerque, NM, and includes information regarding the complainant’s address, contact details, and witness information.  Several pieces of information are redacted.",
+      "timestamp": "2020-03-08T00:00:00",
+      "timestamp_raw": "March 8, 2020",
+      "keywords": [
+        "jeffrey epstein",
+        "child sex trafficking",
+        "fbi",
+        "nypd",
+        "1984",
+        "lake michigan",
+        "infanticide",
+        "new mexico",
+        "donald trump",
+        "tips.fbi.gov"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020473",
+      "summary": "*   **Complainant Account:** A woman (identified as redacted) who claims to have been introduced to Epstein by a Canadian friend in 2002-2004. *   **Complainant Activity:** The woman facilitated meetings between Epstein and underage aspiring models, allegedly procuring them for sex trafficking with Epstein and Maxwell’s involvement. She described receiving money from Epstein for her services. *   **Witness Information:** A 40-year-old witness, also redacted, who identifies themselves as the complainant’s friend. *   **Technical Data:** The tip originated from an IP address in Stockholm, Sweden.  The user browser and referrer were also recorded.",
+      "timestamp": "2020-05-08T00:00:00",
+      "timestamp_raw": "May 8, 2020",
+      "keywords": [
+        "epstein",
+        "jeffrey",
+        "ghislaine maxwell",
+        "sex trafficking",
+        "child sex trafficking",
+        "fbi",
+        "ntoc",
+        "nyc",
+        "stockholm",
+        "2002-2004",
+        "tipsibi.gov"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020477",
+      "summary": "On June 8, 2020, an individual contacted the FBI’s NTOC reporting information related to the Epstein/Maxwell case. The individual reported being introduced to Eliot Siegel in 2007 through mutual friends, who arranged a modeling event at the O2 Arena in London. During the event, Ghislaine Maxwell reportedly indicated the individual would be on a magazine cover with Jeffrey Epstein.  The individual declined Siegel’s modeling offer and later had a romantic relationship with a man in Miami who was coached by an unidentified individual. The individual attempted to report the situation to police but did not follow through due to other issues, including her father’s unwanted advances and concerns about surveillance. The individual also reported seeing news articles about Scott Borgerson, recognizing him as the man in Miami, and believed encounters with Prince William were also connected to the case.",
+      "timestamp": "2020-06-08T00:00:00",
+      "timestamp_raw": "June 8, 2020",
+      "keywords": [
+        "jeffrey epstein",
+        "ghislaine maxwell",
+        "child sex trafficking",
+        "fbi",
+        "eliot siegel",
+        "patrick james fitzgerald",
+        "cambridge",
+        "uk",
+        "o2 arena",
+        "modeling event",
+        "miami",
+        "fl"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020476",
+      "summary": "On June 8, 2020, an individual contacted the FBI NTOC providing information regarding Jeffrey Epstein and Ghislaine Maxwell. The individual stated Maxwell was a jewelry designer and socialite in New York City and that they had personally witnessed Maxwell procuring young, underage girls – approximately five times a week between 2002 and 2004 – primarily Eastern European girls new to New York, with Epstein assisting them.",
+      "timestamp": "2020-06-08T00:00:00",
+      "timestamp_raw": "June 8, 2020",
+      "keywords": [
+        "epstein",
+        "maxwell",
+        "child sex trafficking",
+        "fbi",
+        "new york city",
+        "jewelry designer",
+        "underage girls",
+        "eastern european",
+        "2002-2004",
+        "ntoc"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015942",
+      "summary": "This document is a redacted email chain concerning evidence related to Jeffrey Epstein’s death and trafficking rings. It appears to be a collection of photographic evidence, allegedly originating from Wisconsin, linked to child/sex trafficking and pornography rings. The emails, sent between July 13, 2020, and June 4, 2020, contain increasingly alarming claims, including accusations of extremist procedures, planned mass destruction, and alleged involvement of prominent figures like the Rockafeller family. The photos, accessible via Google Photos links, depict various individuals and locations, and include references to government technology use. The chain concludes with a BBC article link and further email correspondence.",
+      "timestamp": "2020-07-13T00:00:00",
+      "timestamp_raw": "July 13, 2020",
+      "keywords": [
+        "jeffrey epstein",
+        "trafficking",
+        "wisconsin",
+        "government technology",
+        "witnesses",
+        "child sex trafficking",
+        "evidence",
+        "photos",
+        "redaction",
+        "june 1st 2020"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020457",
+      "summary": "*   **Claimant Account:** The claimant, identified only as “[REDACTED],” alleges being drugged and taken to a “pedophile ring” operated by Prince Andrew and Ghislaine Maxwell, starting around 1994-1996. Locations mentioned include Frogmore Cottage, Egham, and Palm Beach, Florida. *   **Specific Allegations:** The claimant describes being hit by a dark blue car (potentially driven by Prince Andrew), restrained and tortured at Frogmore Cottage, and subjected to physical abuse by Maxwell. *   **Additional Witnesses/Individuals:** The claimant identifies his father, Ghislaine Maxwell, and another individual identified only as “[REDACTED]” as associated with the alleged trafficking ring. A former school classmate, “[REDACTED],” is also mentioned, with a possible connection to the events. *   **Timeline & Reporting:** The claimant reported his father to the police around 2012 after receiving a text message from Ghislaine Maxwell. *   **Evidence:** The claimant states he buried a figurine from the car near his home as evidence, and mentions the destruction of photographs by his father. *   **Investigation Status:** The document is part of an FBI investigation, with redactions present due to the sensitive nature of the allegations.",
+      "timestamp": "2020-07-13T00:00:00",
+      "timestamp_raw": "July 13, 2020",
+      "keywords": [
+        "jeffrey epstein",
+        "human trafficking",
+        "sexual assault",
+        "frogmore cottage",
+        "ghislaine maxwell",
+        "prince andrew",
+        "surrey",
+        "uk",
+        "irish traveller",
+        "redaction",
+        "1994-1996"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020470",
+      "summary": "On August 3, 2020, an anonymous tipster reported suspected human trafficking involving Jeffrey Epstein and Prince Andrew to the FBI NTOC via tips.fbi.gov. The tip included claims of organized pedophilia, references to specific locations (Bahamas, Ipanema, Brazil, Florianopolis), and the alleged presence of evidence, including keys and tapes. The tipster claimed the activity had been ongoing for 15 years.  A follow-up communication on August 4, 2020, included redacted complainant and witness information, along with details about the subject, Jeffrey Epstein, and the source IP address (Finland) and referrer URL (FBI.gov/tips).",
+      "timestamp": "2020-08-03T00:00:00",
+      "timestamp_raw": "August 3, 2020",
+      "keywords": [
+        "jeffrey epstein",
+        "child sex trafficking",
+        "fbi",
+        "human trafficking",
+        "bahamas",
+        "brazil",
+        "tipster",
+        "threat operations center",
+        "redaction analysis",
+        "public corruption"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020479",
+      "summary": "On August 10, 2020, an anonymous female caller reported to the FBI that her father, an attorney residing in Tarpon Springs, FL, was a former recruiter for Jeffrey Epstein. The caller, who was 28 years old at the time, claimed she and her siblings were subjected to sex trafficking throughout their childhood, beginning at age four, with her father and other individuals acting as “pimps.” She stated she met Epstein around the time Ghislaine Maxwell was around. The caller described instances of forced sexual activity, a “thumb” controlling her, and a child who expresses fear of her father. She also claimed to have taken a photograph of Prince Andrew and Ghislaine Maxwell in 2001.  The caller is currently seeking full custody of her child and fears he may also be trafficked.",
+      "timestamp": "2020-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2020",
+      "keywords": [
+        "epstein",
+        "jeffrey",
+        "child sex trafficking",
+        "fbi",
+        "tarpon springs",
+        "anonymous",
+        "ghislaine",
+        "pimps",
+        "custody",
+        "memory"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020491",
+      "summary": "On August 17, 2020, Jeffrey Epstein reported being approached by Ghislaine Maxwell approximately 28 years prior, when he was 14. Maxwell offered modeling opportunities, international travel, and massages. Epstein recalled working at the Jupiter Gym (now Elite Gym of Palm Beach) and being approached by Maxwell after seeing him on an elliptical machine. He stated he was 14 at the time Maxwell inquired about his age and offered him modeling opportunities, including Victoria Secret and international travel. He declined the offer because he was unable to pursue runway modeling due to a hip defect and believed the offer was primarily centered around modeling.",
+      "timestamp": "2020-08-17T00:00:00",
+      "timestamp_raw": "August 17, 2020",
+      "keywords": [
+        "jeffrey epstein",
+        "ghislaine maxwell",
+        "child sex trafficking",
+        "fbi",
+        "modeling",
+        "florida",
+        "international travel",
+        "pageants",
+        "elite gym",
+        "threat operations"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020493",
+      "summary": "On August 20, 2020, a woman contacted the FBI’s National Threat Operations Center reporting she had been contacted by Jeffrey Epstein. She stated she is a victim of Epstein and has been in contact with hundreds of other victims attempting to publish a book. She provided information about Epstein’s connections to prominent business figures like Leslie Wexner and claimed knowledge of criminal activity involving Epstein, President Bill Clinton, President Donald Trump, Maxwell, and films documenting these activities. The woman inquired about who hired Epstein at Bear.",
+      "timestamp": "2020-08-20T00:00:00",
+      "timestamp_raw": "August 20, 2020",
+      "keywords": [
+        "epstein",
+        "jeffrey",
+        "child sex trafficking",
+        "fbi",
+        "victim",
+        "new york",
+        "leslie wexner",
+        "bill clinton",
+        "donald trump",
+        "maxwell",
+        "threat operations"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020497",
+      "summary": "On August 24, 2020, an online tip was submitted to the FBI NTOC regarding a video potentially involving Jeffrey Epstein and a minor child involved in a murder. The tip originated from an unknown individual’s residential address in North Port, Florida, and a specific IP address. The submitted text described a disturbing video depicting a confession/minor child confession related to Epstein and a murder of a woman. The tip included questions regarding the crime’s details, the complainant’s information (redacted), and details about the video’s origin including IP address, referrer URL, browser, and location data.",
+      "timestamp": "2020-08-24T00:00:00",
+      "timestamp_raw": "August 24, 2020",
+      "keywords": [
+        "jeffrey epstein",
+        "child sex trafficking",
+        "fbi",
+        "threat operations center",
+        "tip",
+        "video",
+        "confession",
+        "florida",
+        "north port",
+        "2020"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020495",
+      "summary": "On August 24, 2020, an individual (\"III\") contacted the FBI reporting he was raped by Jeffrey Epstein. III recounted being taken to Epstein’s ranch in New Mexico on December 5, 1993, where he and three young boys (approximately 17 years old) were restrained and incapacitated. III described being in a “strippers lounge,” unconscious after consuming Pepsi, and witnessing a deformed penis. Armed guards were present during the return trip to California, and III did not disclose the incident. III is pursuing a civil lawsuit against Epstein’s estate.",
+      "timestamp": "2020-08-24T00:00:00",
+      "timestamp_raw": "August 24, 2020",
+      "keywords": [
+        "fbi",
+        "jeffrey epstein",
+        "child sex trafficking",
+        "rape",
+        "new mexico",
+        "beverly hills",
+        "civil suit",
+        "50d-ny-302757i",
+        "2020",
+        "strippers lounge"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020501",
+      "summary": "The tip included a direct link to the video. The individual provided an IP address resolving to North Port, Florida, and offered limited information about the situation, including uncertainty about the victim's location, identity, and control over travel documents. The initial tip was followed by a redacted report on August 25, 2020, detailing the source’s information and the video's content. Additional details regarding the source's location and browser were also recorded.",
+      "timestamp": "2020-08-24T00:00:00",
+      "timestamp_raw": "August 24, 2020",
+      "keywords": [
+        "jeffrey epstein",
+        "child sex trafficking",
+        "fbi",
+        "youtube",
+        "threat operations center",
+        "florida",
+        "34287",
+        "50d-ny-3027571",
+        "online tip",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020505",
+      "summary": "On September 8, 2020, Jeffrey Epstein reported observing Ghislaine Maxwell speaking with two unidentified young women at Behavior Health in West Palm Beach, Florida, in 2013. He stated he witnessed the women entering and exiting Epstein’s car at the facility multiple times. Epstein was also present at the facility and observed the same interactions. He continues to maintain contact with an unidentified counselor at the facility.",
+      "timestamp": "2020-09-08T00:00:00",
+      "timestamp_raw": "September 8, 2020",
+      "keywords": [
+        "jeffrey epstein",
+        "ghislaine maxwell",
+        "child sex trafficking",
+        "fbi",
+        "threat operations center",
+        "west palm beach",
+        "florida",
+        "behavioral health",
+        "car",
+        "counselors"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020506",
+      "summary": "On September 14, 2020, Jeffrey Epstein reported to the National Threat Operations Center that he had deported himself to Canada after seeing a Facebook post regarding Ghislaine Maxwell. He recalled a night in 2008 at the SCORES strip club where he met Epstein and Maxwell. Epstein repeatedly stated he was a billionaire and desired a young girl under 16. A chauffeur present intervened, and Epstein threatened and pushed him. Epstein recounted that Maxwell and the chauffeur told him they had compromising information. Epstein also overheard Maxwell speaking with a club employee who reported a 15-year-old girl needing help and planned to pick her up after leaving the club. Epstein noted the chauffeur was a small man, approximately 5’4-5’5”.",
+      "timestamp": "2020-09-14T00:00:00",
+      "timestamp_raw": "September 14, 2020",
+      "keywords": [
+        "epstein",
+        "jeffrey",
+        "ghislaine maxwell",
+        "child sex trafficking",
+        "national threat operations center",
+        "strip club",
+        "scores",
+        "2008",
+        "chauffeur",
+        "facebook",
+        "canada"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020509",
+      "summary": "The tip originated from an individual in Brownsboro, Alabama, who reported receiving an email detailing alleged abuse and trafficking involving multiple children. The email contained accusations of torture, sexual assault, and kidnapping, along with claims of political connections of the abusers. The tip included information about individuals such as John Scarola, Michael Egauger, and Mark Foley, and referenced investigations surrounding Straight Inc. from 1983. The complainant provided limited personal information and claimed multiple children had suffered personal losses due to the alleged crimes.  A witness, age 15, provided information based on shared experiences within similar abusive cults. The FBI is investigating the origin of the information and attempting to corroborate the claims.  The IP address resolves to Huntsville, Alabama.",
+      "timestamp": "2020-10-13T00:00:00",
+      "timestamp_raw": "October 13, 2020",
+      "keywords": [
+        "epstein",
+        "jeffrey",
+        "trafficking",
+        "sexual assault",
+        "fbi",
+        "tips.fbi.gov",
+        "brownsboro",
+        "alabama",
+        "growing together inc.",
+        "cults",
+        "corruption",
+        "witnesses",
+        "john scarola"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020517",
+      "summary": "On October 27, 2020, an individual (referred to as “III”) contacted the FBI National Threat Operations Center reporting information about Jeffrey Epstein and Ghislaine Maxwell. III stated he had a relationship with Ghislaine Maxwell around 1997, during which she confided in him about financial difficulties and her daughters. He recounted instances where she asked him to spell \"Ghislaine,\" indicating she had been receiving money from her and had met Donald Trump and his associates at a hotel. In 1999, III reported a disturbing encounter where Maxwell became erratic and stated that Trump had raped her. He expressed fear of reporting the incident to the police. Maxwell later claimed to have contacted the police but disappeared, with her death later attributed to a drug overdose and potentially a cover-up. III also mentioned driving Donald Trump in 1995, during which Trump made concerning statements. Finally, he revealed that a man named John W. Nichols, who had previously attempted to set him up for a bombing in Oklahoma City, had worked security for Bill and Hillary Clinton and had fired III.",
+      "timestamp": "2020-10-27T00:00:00",
+      "timestamp_raw": "October 27, 2020",
+      "keywords": [
+        "jeffrey epstein",
+        "ghislaine maxwell",
+        "child sex trafficking",
+        "donald trump",
+        "fbi",
+        "1997",
+        "new york",
+        "limousine",
+        "suicide",
+        "oklahoma city",
+        "cocaine",
+        "facebook"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020523",
+      "summary": "On November 9, 2020, Shislaine Maxwell contacted the FBI to report an assault by Jeffrey Epstein in New York City in 1992. Maxwell stated she was sixteen years old at the time and was visiting with her grandfather. She was offered a dog-walking job by Shislaine Maxwell, during which Epstein was present. She alleges she was offered a drink, fell asleep, and upon waking discovered she was bleeding and sore, recalling Epstein pinning her down. The NYPD has been informed of the assault.",
+      "timestamp": "2020-11-09T00:00:00",
+      "timestamp_raw": "November 9, 2020",
+      "keywords": [
+        "jeffrey epstein",
+        "child sex trafficking",
+        "assault",
+        "new york city",
+        "fbi",
+        "nypd",
+        "shislaine maxwell",
+        "1992",
+        "report",
+        "intake"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025005",
+      "summary": "This is an FBI document, Case ID # EFTA00025005, concerning the case of Jeffrey Epstein and a child sex trafficking investigation. It details outreach support efforts following an OPR briefing on findings dated November 11, 2020. An updated contact information list as of November 18, 2020 is included as an enclosure.",
+      "timestamp": "2020-11-11T00:00:00",
+      "timestamp_raw": "November 11, 2020",
+      "keywords": [
+        "fbi",
+        "jeffrey epstein",
+        "child sex trafficking",
+        "victim services",
+        "case support",
+        "enclosure",
+        "unclassified",
+        "federal bureau of investigation",
+        "opr",
+        "outreach support"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038256",
+      "summary": "An email chain discusses a Cybertipline report related to the Epstein case. A Detective from the NYPD/FBI Child Exploitation Human Trafficking Task Force forwarded a report to a supervisor at the National Center for Missing & Exploited Children’s Child Sex Trafficking Team. The analyst identified several individuals, including a \"Detective\" and a woman who appeared normal and organized during a phone call. The supervisor requested to review the report and the names before the analyst conducted further searches, fearing it might be a misinterpretation or a dream. The email includes a request for guidance on how to handle the information.",
+      "timestamp": "2020-11-21T00:00:00",
+      "timestamp_raw": "21 Oct 2020",
+      "keywords": [
+        "efta00038256",
+        "epstein",
+        "child exploitation",
+        "human trafficking",
+        "nypd",
+        "fbi",
+        "cybertipline",
+        "netflix",
+        "detective",
+        "tip"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020524",
+      "summary": "On December 6, 2020, an individual contacted the FBI’s National Threat Operations Center reporting an active Facebook page belonging to Jeffrey Epstein. The individual, who identified herself as “TIE,” reported seeing pictures on the page potentially depicting Epstein with young girls, which she believed indicated possible child sex trafficking activity. TIE was unable to provide a specific Facebook URL, but reported multiple accounts under the name Jeffrey Epstein with a picture of him as the profile picture.",
+      "timestamp": "2020-12-06T00:00:00",
+      "timestamp_raw": "December 6, 2020",
+      "keywords": [
+        "epstein",
+        "jeffrey",
+        "child sex trafficking",
+        "facebook",
+        "fbi",
+        "pedophiles",
+        "investigation",
+        "intake",
+        "case id",
+        "url"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00008744",
+      "summary": "*   **Case Details:** The hearing is part of a case against Maxwell, relating to alleged child sex trafficking and exploitation. The U.S. government is investigating, and this transcript is a record of testimony given by a witness, Detective , who works for the NYPD. *   **Witness Testimony:** Detective provided testimony covering his involvement in the FBI’s Child Exploitation and Human Trafficking Task Force, including investigations into Jeffrey Epstein and Maxwell. He described his role in gathering information, reviewing reports, and interviewing other individuals connected to the case. *   **Maxwell’s Activities:** The testimony details Maxwell's activities, including her relationships with Epstein, her time at Palm Beach residences (including a townhouse on Madison Avenue and a ranch in New Mexico), and the arrangements for massages provided to Epstein. It mentions that Maxwell was paid for these services and used the money to purchase drugs. *   **Sexual Interactions:** The witness described instances where Maxwell engaged in sexual activity with Epstein, including direct sexual contact during massage sessions and involvement with other young women. *   **Evidence Review:** The transcript incorporates review of flight records, telephone logs, and items seized during a search of Epstein’s Palm Beach residence, including message pads. *   **Witness’s Past:** The testimony includes details about the witness's own past struggles with drug addiction and a legal issue involving a stolen Xbox. The witness admits to lying during a 2009 deposition regarding her interactions with Maxwell and Epstein. In essence, the transcript documents a significant portion of a criminal investigation, detailing the witness's involvement, the evidence gathered, and the testimony related to the alleged crimes of Ghislaine Maxwell.",
+      "timestamp": "2021-01-19T00:00:00",
+      "timestamp_raw": "January 19, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "jeffrey epstein",
+        "palm beach",
+        "massage",
+        "abuse",
+        "trafficking",
+        "fbi",
+        "grand jury",
+        "new york city police department",
+        "depositions",
+        "records",
+        "flight logs",
+        "photos",
+        "sex toys",
+        "victims",
+        "cooperation"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020974",
+      "summary": "*   **Date of Collection:** 01/27/2021 *   **Material:** Highly confidential responsive material, including nude and partial nude images and videos, processed by CART. *   **Devices:** Data was collected from multiple portable hard drives identified by NYC device codes (NYC0243xx). *   **Item Type:**  A derivative digital item including nude and semi-nude images and videos. *   **Collection Details:** Collected on 01/26/2021 at 04:00 PM EST from New York. One portable hard drive was collected. *   **Restrictions:** The document is FBI property, loaned for review, and not to be distributed outside the recipient agency.",
+      "timestamp": "2021-01-27T00:00:00",
+      "timestamp_raw": "01/27/2021",
+      "keywords": [
+        "fbi",
+        "child sex trafficking",
+        "digital evidence",
+        "cart",
+        "nude images",
+        "jeffrey epstein",
+        "nyc0243xx",
+        "confidential",
+        "device type",
+        "hard drive"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038870",
+      "summary": "This document is a payment authorization form (Form 794) related to the case of Jeffrey Epstein and child sex trafficking. It requests reimbursement for expenses incurred for trial witnesses on 6/23/2021. An attached receipt (Receipt 194) is included. The case ID is 71.",
+      "timestamp": "2021-06-23T00:00:00",
+      "timestamp_raw": "6/23/2021",
+      "keywords": [
+        "efta00038870",
+        "jeffrey epstein",
+        "child trafficking",
+        "reimbursement",
+        "form 794",
+        "fbi",
+        "payment authorization",
+        "trial witness",
+        "expenses",
+        "enclosure"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038698",
+      "summary": "The FBI investigated a case involving Jeffrey Epstein and child sex trafficking, utilizing a Missouri birth certificate identified on July 19, 2021. The birth certificate, originating from Springfield, Missouri, was obtained from the Missouri Department of Health (MDI), Bureau of Vital Statistics. The investigation involved obtaining a copy of the birth certificate and a FedEx shipment with tracking number 774263193664. A physical copy of the certificate will be maintained as an intelligence file and mailed to the case agent.",
+      "timestamp": "2021-07-19T00:00:00",
+      "timestamp_raw": "July 19, 2021",
+      "keywords": [
+        "efta00038698",
+        "missouri birth certificate",
+        "jeffrey epstein",
+        "child sex trafficking",
+        "fbi",
+        "bureau of vital statistics",
+        "birth record",
+        "certificate of live birth",
+        "fedex",
+        "tracking number"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010139",
+      "summary": "Dipesh Gadher of The Sunday Times emailed Nick inquiring about the Ghislaine Maxwell case on July 20, 2021. He asked six questions: whether there would be two trials (child sex trafficking and perjury), the trial start date in November, the perjury trial date, the potential maximum sentence (up to 80 years), the ongoing investigation into Maxwell and Epstein's network, and whether Prince Andrew remained a person of interest and if US prosecutors had obtained a statement. The email also includes standard disclaimers regarding confidentiality and email content.",
+      "timestamp": "2021-07-20T00:00:00",
+      "timestamp_raw": "July 20, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "trials",
+        "perjury",
+        "sentence",
+        "investigation",
+        "prince andrew",
+        "usanys",
+        "dipesh gadher",
+        "child sex trafficking",
+        "epstein"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019656",
+      "summary": "Nicholas Biase (USANYS) is responding to inquiries from Dipesh Gadher (The Sunday Times) regarding the Ghislaine Maxwell case. Gadher is requesting clarification on several key points including the status of the trials (child sex trafficking and perjury), the potential sentence for Maxwell, the ongoing investigation into Maxwell and Epstein’s network, and whether Prince Andrew remains a person of interest. Biase acknowledges he knows all answers except one (#6) and defers handling that specific question. The email also includes standard disclaimers regarding confidentiality and legal privilege.",
+      "timestamp": "2021-07-20T00:00:00",
+      "timestamp_raw": "20 Jul 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "usanys",
+        "trials",
+        "perjury",
+        "nick gadher",
+        "prince andrew",
+        "investigations",
+        "maxwell",
+        "epstein",
+        "efta00019656"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    }
+  ]
+}

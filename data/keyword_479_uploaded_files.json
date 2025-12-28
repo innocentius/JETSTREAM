@@ -1,0 +1,1013 @@
+{
+  "keyword": "uploaded files",
+  "count": 27,
+  "keyword_match_count": 27,
+  "content_match_count": 9,
+  "total_files": 36,
+  "timeline": [
+    {
+      "file_id": "EFTA00037894",
+      "summary": "This document is an email sent from the FBI’s dropbox®ic.fbi.gov account to an unknown recipient on January 25, 2019. The email, titled “FBINET to UNET Uploaded Files,” includes an attachment named “FW_Pending_FOIA_1424728_-_JEFFREY_EPSTEIN_-_UNCLASSIFIED.msg,” related to EFTA00037894.",
+      "timestamp": "2019-01-25T00:00:00",
+      "timestamp_raw": "January 25, 2019",
+      "keywords": [
+        "fbi",
+        "unet",
+        "epstein",
+        "foia",
+        "dropbox",
+        "uploaded files",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020769",
+      "summary": "An Assistant U.S. Attorney requests the upload of documents related to the US v. Epstein case (USAO11 2018R01618) into Relativity. The documents are located in a specific folder structure within the USA.doj.gov cloud, originating from Boies Schiller.  A separate party notes the documents contain DVD data and requests conversion to a different format, alongside confirmation on how to view video files without a DVD player. Specific file paths containing interview transcripts are listed as items that should *not* be loaded into Relativity due to their DVD-based structure. The request specifies a desired folder structure within Relativity for the uploaded files.",
+      "timestamp": "2019-04-22T00:00:00",
+      "timestamp_raw": "22 Apr 2019",
+      "keywords": [
+        "relativity",
+        "epstein",
+        "us v. epstein",
+        "subpoena",
+        "dvd",
+        "data",
+        "folder",
+        "conversion",
+        "files",
+        "investigation"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037773",
+      "summary": "An email was sent from dropbox@icibi.gov to [REDACTED] regarding the upload of files from FBINET to UNET. The email subject was \"FBINET to UNET Uploaded Files\" and included an attachment named \"Copy_of Sentinel_Reportof 1A-1C-Report-1.xlsx\" and the document identifier EFTA00037773.",
+      "timestamp": "2019-05-20T00:00:00",
+      "timestamp_raw": "20 May 2019",
+      "keywords": [
+        "efta00037773",
+        "fbinet",
+        "unet",
+        "redaction",
+        "dropbox",
+        "fbi",
+        "uploaded files",
+        "sentinel report",
+        "icibi",
+        "2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00038098",
+            "similarity": 0.538,
+            "index": 6,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038461",
+            "similarity": 0.5,
+            "index": 21,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037771",
+      "summary": "An email was sent from dropbox®icibi.gov to [REDACTED] regarding the upload of files from FBINET to UNET. The email included a PDF attachment named “MP_ scan_ item_ 2_ book I.pdf” and referenced the file EFTA00037771.",
+      "timestamp": "2019-06-12T00:00:00",
+      "timestamp_raw": "12 Jun 2019",
+      "keywords": [
+        "efta00037771",
+        "fbinet",
+        "unet",
+        "fbi",
+        "redaction",
+        "dropbox",
+        "uploaded files",
+        "mp_ scan",
+        "jun 2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00038461",
+            "similarity": 0.545,
+            "index": 21,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037798",
+      "summary": "An email was sent from IMI to [REDACTED] on June 24, 2019, regarding the upload of files from FBINET to UNET. The email included the document “Epstein_Summaly.docx” and was associated with the file identifier EFTA00037798.",
+      "timestamp": "2019-06-24T00:00:00",
+      "timestamp_raw": "June 24, 2019",
+      "keywords": [
+        "efta00037798",
+        "fbinet",
+        "unet",
+        "redaction",
+        "uploaded files",
+        "imi",
+        "epstein",
+        "summaly",
+        "docx"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037802",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] regarding the upload of files from FBINET to UNET. The email subject was \"FBINET to UNET Uploaded Files,\" dated July 2, 2019, and included an attachment named “Epstein_approaches_list_Current.xlsx” and the file identifier EFTA00037802.",
+      "timestamp": "2019-07-02T00:00:00",
+      "timestamp_raw": "July 2, 2019",
+      "keywords": [
+        "efta00037802",
+        "fbinet",
+        "unet",
+        "uploaded files",
+        "redaction",
+        "epstein",
+        "analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00038680",
+            "similarity": 0.5,
+            "index": 31,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038098",
+      "summary": "An FBI file (EFTA00038098) was uploaded to UNET from Dropbox, specifically regarding files associated with Jeffrey Epstein’s operations. The file includes a document titled “Epstein_Op_Order 2.pdf”.",
+      "timestamp": "2019-07-03T00:00:00",
+      "timestamp_raw": "03 Jul 2019",
+      "keywords": [
+        "efta00038098",
+        "fbinet",
+        "unet",
+        "epstein",
+        "redaction",
+        "dropbox",
+        "fbi",
+        "uploaded files",
+        "2019",
+        "pdf"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037773",
+            "similarity": 0.538,
+            "index": 2,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00037826",
+            "similarity": 0.667,
+            "index": 11,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038461",
+            "similarity": 0.5,
+            "index": 21,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038088",
+      "summary": "An email was sent from “EIMIMI” to an unknown recipient regarding the upload of files related to “FBINET” to “UNET”. The email included a PDF attachment named “Ops_Order_Section_2_Revised_Main_Ops_Order.pdf” with the file identifier EFTA00038088.",
+      "timestamp": "2019-07-03T00:00:00",
+      "timestamp_raw": "03 Jul 2019",
+      "keywords": [
+        "efta00038088",
+        "fbinet",
+        "unet",
+        "uploaded files",
+        "ops order",
+        "main ops order"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038052",
+      "summary": "A file named “Epstein_Jeffrey_Child_Sex_Trafficking_.xml” (EFTA00038052) was uploaded on July 3, 2019, from Ma to an unknown recipient, with the subject line “FBINET to UNET Uploaded Files.”",
+      "timestamp": "2019-07-03T00:00:00",
+      "timestamp_raw": "July 3, 2019",
+      "keywords": [
+        "epstein",
+        "jeffrey",
+        "trafficking",
+        "unet",
+        "uploaded files",
+        "fbinet",
+        "xml"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037312",
+      "summary": "On July 6, 2019, an FBI file (\"FBINET\") was uploaded to the UNET, containing files related to Jeffrey Epstein’s operations, specifically “Epstein_Ops_Order.pdf”. The file was designated EFTA00037312.",
+      "timestamp": "2019-07-06T00:00:00",
+      "timestamp_raw": "July 6, 2019",
+      "keywords": [
+        "epstein",
+        "fbinet",
+        "unet",
+        "uploaded files",
+        "fbi",
+        "efta00037312"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00038373",
+            "similarity": 0.5,
+            "index": 19,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038047",
+      "summary": "On July 15, 2019, the NYPD Detective Bureau Child Exploitation/Human Trafficking Task Force (N.Y. FBI Squad C20) forwarded an updated spreadsheet, titled “FBINET to UNET Uploaded Files” (EFTA00038047), to [REDACTED] via email from dropbox@ic.fbi.gcA. The email also included attachments: HOTLINE_TRACICER.xlsx, Outlook-1510171437.png, and Outlook-1510171974jpg.",
+      "timestamp": "2019-07-15T00:00:00",
+      "timestamp_raw": "July 15, 2019",
+      "keywords": [
+        "fbi",
+        "nypd",
+        "child exploitation",
+        "human trafficking",
+        "fbinet",
+        "unet",
+        "uploaded files",
+        "dropbox",
+        "task force",
+        "efta00038047"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037826",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] (NY, FBI) on July 26, 2019, regarding the upload of files from FBINET to UNET. The email subject was \"FBINET to UNET Uploaded Files,\" and an attachment named \"EpsteinSearchLogsandFD597.pdf\" was included. The document's identifier is EFTA00037826.",
+      "timestamp": "2019-07-26T00:00:00",
+      "timestamp_raw": "July 26, 2019",
+      "keywords": [
+        "efta00037826",
+        "fbinet",
+        "unet",
+        "epstein",
+        "redaction",
+        "fbi",
+        "uploaded files",
+        "2019",
+        "ny",
+        "pdf"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038098",
+            "similarity": 0.667,
+            "index": 6,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037817",
+      "summary": "A file named \"Arrest_of JEFFREY EPSTEIN.pdf\" was uploaded from FBINET to UNET on July 29, 2019, and assigned the identifier EFTA00037817. The email subject line indicates this upload related to the arrest of Jeffrey Epstein.",
+      "timestamp": "2019-07-29T00:00:00",
+      "timestamp_raw": "July 29, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "fbinet",
+        "unet",
+        "uploaded files",
+        "arrest"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037570",
+      "summary": "An email chain discusses the lack of planned updates for the Epstein case by the VC Squad and VCAC. The CID (FBI) is inquiring about consolidation efforts, specifically whether they are being handled through the VC side or by the individual CID agent.  NY (FBI) has confirmed no updates are planned for the weekend. Files related to “FBINET to UNET Uploaded Files” were being shared. EFTA00037570 and EFTA00037571 are identified as file references.",
+      "timestamp": "2019-08-25T00:00:00",
+      "timestamp_raw": "25 Aug 2019",
+      "keywords": [
+        "fbi",
+        "efta00037570",
+        "efta00037571",
+        "vcac",
+        "vc",
+        "cid",
+        "epstein",
+        "unet",
+        "fbinet",
+        "reporting"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031679",
+      "summary": "An email was sent from the FBI New York Field Office Violent Crimes Task Force (Special Agent) to [REDACTED] and [REDACTED], with CC to [REDACTED], regarding the uploaded files from FBINET to UNET. The email included a document named “Interview_of - DRAFT.pdf” and “DRAFT 302 of.” The case reference is EFTA00031679.",
+      "timestamp": "2019-08-30T00:00:00",
+      "timestamp_raw": "30 Aug 2019",
+      "keywords": [
+        "fbi",
+        "new york field office",
+        "violent crimes task force",
+        "fbinet",
+        "unet",
+        "redaction analysis",
+        "upload",
+        "files",
+        "interview",
+        "efta00031679"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00038430",
+            "similarity": 0.545,
+            "index": 35,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038114",
+      "summary": "An email was sent from \"EIMIMIa\" to an unknown recipient on September 5, 2019, regarding the upload of files from FBINET to UNET. The email attached a PDF file named LSJ_SW.pdf and associated with the identifier EFTA00038114.",
+      "timestamp": "2019-09-05T00:00:00",
+      "timestamp_raw": "September 5, 2019",
+      "keywords": [
+        "efta00038114",
+        "fbinet",
+        "unet",
+        "uploaded files",
+        "lsj_sw.pdf",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00038373",
+            "similarity": 0.5,
+            "index": 19,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038495",
+            "similarity": 0.5,
+            "index": 22,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038311",
+      "summary": "FBI transmitted a file named EFTA00038311 to the UNET via Dropbox, along with a document named Interview.pdf, on October 8, 2019. The email subject was “FBINET to UNET Uploaded Files.”",
+      "timestamp": "2019-10-08T00:00:00",
+      "timestamp_raw": "October 8, 2019",
+      "keywords": [
+        "efta00038311",
+        "fbinet",
+        "unet",
+        "redaction",
+        "fbi",
+        "dropbox",
+        "upload",
+        "interview"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038315",
+      "summary": "An email from HEIMIMI was sent on October 21, 2019, with the subject \"FBINET to UNET Uploaded Files.\" The email included a PDF attachment named “20190709maxwelldocs075817.pdf” and identified the document as EFTA00038315.",
+      "timestamp": "2019-10-21T00:00:00",
+      "timestamp_raw": "October 21, 2019",
+      "keywords": [
+        "efta00038315",
+        "fbinet",
+        "unet",
+        "uploaded files",
+        "maxweld",
+        "20190709"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038372",
+      "summary": "An email was sent from “EIMIMI” to an unknown recipient regarding files uploaded from “FBINET” to “UNET”. An attachment named “Proffer of Interview_231.pdf” (referenced as EFTA00038372) was included.",
+      "timestamp": "2019-12-27T00:00:00",
+      "timestamp_raw": "27 Nov 2019",
+      "keywords": [
+        "efta00038372",
+        "fbinet",
+        "unet",
+        "uploaded files",
+        "proffer",
+        "interview"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00038427",
+            "similarity": 0.5,
+            "index": 20,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038495",
+            "similarity": 0.5,
+            "index": 22,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037979",
+            "similarity": 0.5,
+            "index": 24,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038373",
+      "summary": "An email was sent from the FBI (NY) to an unidentified recipient regarding the upload of files named “FBINET” to “UNET.” The email included a PDF document named “EFTA00038373.”",
+      "timestamp": "2019-12-27T00:00:00",
+      "timestamp_raw": "27 Nov 2019",
+      "keywords": [
+        "efta00038373",
+        "fbi",
+        "unet",
+        "uploaded files",
+        "fbinet",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038114",
+            "similarity": 0.5,
+            "index": 15,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037312",
+            "similarity": 0.5,
+            "index": 9,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00038495",
+            "similarity": 0.5,
+            "index": 22,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038427",
+      "summary": "An email was sent on January 28, 2020, from “Ma” to an unknown recipient regarding the upload of files from FBINET to UNET. The email included an attachment named “Interview_ofalf” and was identified as EFTA00038427.",
+      "timestamp": "2020-01-28T00:00:00",
+      "timestamp_raw": "January 28, 2020",
+      "keywords": [
+        "efta00038427",
+        "fbinet",
+        "unet",
+        "uploaded files",
+        "interview",
+        "analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038372",
+            "similarity": 0.5,
+            "index": 18,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00038495",
+            "similarity": 0.5,
+            "index": 22,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037979",
+            "similarity": 0.5,
+            "index": 24,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038461",
+      "summary": "An FBI file (EFTA00038461) was uploaded to UNET from Dropbox, originating from the FBI’s dropbox®icibi.gov address. The file, “Phone_conversation_with,” was sent on January 31, 2020.",
+      "timestamp": "2020-01-31T00:00:00",
+      "timestamp_raw": "January 31, 2020",
+      "keywords": [
+        "efta00038461",
+        "fbinet",
+        "unet",
+        "redaction",
+        "fbi",
+        "dropbox",
+        "uploaded files",
+        "phone conversation"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038098",
+            "similarity": 0.5,
+            "index": 6,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037771",
+            "similarity": 0.545,
+            "index": 3,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037773",
+            "similarity": 0.5,
+            "index": 2,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038495",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] regarding the upload of files from FBINET to UNET. The email subject was \"FBINET to UNET Uploaded Files\" and included an attachment named “Interview_ofiMaon_10_25_19.pdf” and the document identifier EFTA00038495.",
+      "timestamp": "2020-05-14T00:00:00",
+      "timestamp_raw": "14 May 2020",
+      "keywords": [
+        "efta00038495",
+        "fbinet",
+        "unet",
+        "uploaded files",
+        "interview",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038427",
+            "similarity": 0.5,
+            "index": 20,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038373",
+            "similarity": 0.5,
+            "index": 19,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038372",
+            "similarity": 0.5,
+            "index": 18,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00037979",
+            "similarity": 0.5,
+            "index": 24,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038459",
+      "summary": "An FBI email, dated May 18, 2020, from dropbox@ic.fbi.gov to [REDACTED], discusses the uploading of file EFTA00038459 related to a New York search warrant (302 (1)). The email subject is \"FBINET to UNET Uploaded Files\".",
+      "timestamp": "2020-05-18T00:00:00",
+      "timestamp_raw": "May 18, 2020",
+      "keywords": [
+        "efta00038459",
+        "search warrant",
+        "fbi",
+        "unet",
+        "dropbox",
+        "ny",
+        "redaction",
+        "302",
+        "2020",
+        "uploaded files"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037979",
+      "summary": "An email was sent on July 2, 2020, regarding the upload of files from FBINET to UNET. The email included an attachment named “EFTA00037979” which is a PDF document titled “U FOUO Interview of”.",
+      "timestamp": "2020-07-02T00:00:00",
+      "timestamp_raw": "July 2, 2020",
+      "keywords": [
+        "efta00037979",
+        "fbinet",
+        "unet",
+        "uploaded files",
+        "interview",
+        "fouo"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038495",
+            "similarity": 0.5,
+            "index": 22,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038427",
+            "similarity": 0.5,
+            "index": 20,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038372",
+            "similarity": 0.5,
+            "index": 18,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037990",
+      "summary": "An email was sent from Ma to an unknown recipient on July 10, 2020, regarding uploaded files named “Arrest_of GHISLAINE_MAXWELL_1.pdf” and associated with the file identifier EFTA00037990.",
+      "timestamp": "2020-07-10T00:00:00",
+      "timestamp_raw": "July 10, 2020",
+      "keywords": [
+        "efta00037990",
+        "fbinet",
+        "unet",
+        "ghislaine maxwell",
+        "arrest",
+        "uploaded files",
+        "2020",
+        "2025",
+        "pdf",
+        "analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00038261",
+            "similarity": 0.636,
+            "index": 27,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037468",
+      "summary": "An email was sent from the FBI to the UNET regarding the upload of files from FBINET to UNET, identified as EFTA00037468. The email included a document named “C-20 SAR 8-07-2020.docx” as an attachment.",
+      "timestamp": "2020-08-07T00:00:00",
+      "timestamp_raw": "8-07-2020",
+      "keywords": [
+        "efta00037468",
+        "fbi",
+        "unet",
+        "uploaded files",
+        "fbinet",
+        "c-20 sar",
+        "2020",
+        "analysis",
+        "redaction",
+        "documents"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038261",
+      "summary": "An email was sent from “Ma” to an unknown recipient regarding the uploaded files “U_On_08_17_2020_at_3_32p.m._Eastem_Time 8_I.pdf” and “EFTA00038261”. The email was sent on October 23, 2020, at 13:42:35 +0000.",
+      "timestamp": "2020-10-23T00:00:00",
+      "timestamp_raw": "October 23, 2020",
+      "keywords": [
+        "efta00038261",
+        "fbinet",
+        "unet",
+        "uploaded files",
+        "2020",
+        "2025",
+        "pdf",
+        "analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037990",
+            "similarity": 0.636,
+            "index": 25,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038301",
+      "summary": "An email was sent from “EFTA00038301” to [REDACTED] on October 26, 2020, forwarding a file named “Case_Evidence_Report-20201026-0948.xlsx” related to the upload of files from “FBINET” to “UNET.” The email included a case evidence report.",
+      "timestamp": "2020-10-26T00:00:00",
+      "timestamp_raw": "October 26, 2020",
+      "keywords": [
+        "efta00038301",
+        "fbinet",
+        "unet",
+        "uploaded files",
+        "redaction",
+        "case evidence report",
+        "20201026",
+        "file transfer",
+        "analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038609",
+      "summary": "An email was sent on March 15, 2021, from [REDACTED] to the recipient of EFTA00038609, subject \"FBINET to UNET Uploaded Files.\" The email included an attachment named “Case_Evidence_Report-20210315-1809_-_NY.xlsx.”",
+      "timestamp": "2021-03-15T00:00:00",
+      "timestamp_raw": "March 15, 2021",
+      "keywords": [
+        "efta00038609",
+        "fbinet",
+        "unet",
+        "redaction",
+        "upload",
+        "files",
+        "evidence",
+        "report",
+        "case evidence",
+        "20210315"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038607",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] regarding the upload of files from FBINET to UNET. The email subject was “FBINET to UNET Uploaded Files” and was sent on March 30, 2021. The email included attachments named 302.docx and EFTA00038607.",
+      "timestamp": "2021-03-30T00:00:00",
+      "timestamp_raw": "March 30, 2021",
+      "keywords": [
+        "efta00038607",
+        "fbinet",
+        "unet",
+        "redaction analysis",
+        "upload",
+        "files",
+        "2021",
+        "302.docx"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00038430",
+            "similarity": 0.5,
+            "index": 35,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038680",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] regarding the upload of files from FBINET to UNET. The email included an attached Excel report named 1A_Report_-_72-MM-113327.xlsx, identified as EFTA00038680.",
+      "timestamp": "2021-06-02T00:00:00",
+      "timestamp_raw": "02 Jun 2021",
+      "keywords": [
+        "efta00038680",
+        "fbinet",
+        "unet",
+        "redaction",
+        "analysis",
+        "uploaded files",
+        "report",
+        "excel"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037802",
+            "similarity": 0.5,
+            "index": 5,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038703",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] regarding the upload of files from FBINET to UNET. The email subject was “FBINET to UNET Uploaded Files,” dated September 10, 2021, and included the attachment ADG_immigration_form192707.pdf, associated with file EFTA00038703.",
+      "timestamp": "2021-09-10T00:00:00",
+      "timestamp_raw": "September 10, 2021",
+      "keywords": [
+        "efta",
+        "fbinet",
+        "unet",
+        "redaction",
+        "immigration",
+        "upload",
+        "files",
+        "2021",
+        "2025"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038955",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] with the subject \"FBINET to UNET Uploaded Files\" on April 11, 2022. The email included a PDF attachment named EFTA00038955.pdf, which contains two redactions.",
+      "timestamp": "2022-04-11T00:00:00",
+      "timestamp_raw": "April 11, 2022",
+      "keywords": [
+        "efta00038955",
+        "fbinet",
+        "unet",
+        "redaction analysis",
+        "upload files",
+        "2022",
+        "2025",
+        "pdf"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00039003",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] regarding the upload of files named “Post_Arrest_Spontaneous_Utterances_made_by_DefendantiFFREY_R_EPSTEIN.pdf” (identified as EFTA00039003) on February 7, 2023.",
+      "timestamp": "2023-02-07T00:00:00",
+      "timestamp_raw": "February 7, 2023",
+      "keywords": [
+        "efta00039003",
+        "fbinet",
+        "unet",
+        "redaction",
+        "uploaded files",
+        "arrest",
+        "utterances",
+        "defendanti",
+        "epstein",
+        "2023"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038430",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] regarding the upload of files from FBINET to UNET. The email is titled \"FBINET to UNET Uploaded Files\" and includes a PDF attachment named “Interview_ofa”. The file identifier is EFTA00038430.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00038430",
+        "fbinet",
+        "unet",
+        "redaction analysis",
+        "upload",
+        "files",
+        "interview"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038607",
+            "similarity": 0.5,
+            "index": 30,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00031679",
+            "similarity": 0.545,
+            "index": 14,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,1644 @@
+{
+  "keyword": "second circuit",
+  "count": 39,
+  "keyword_match_count": 39,
+  "content_match_count": 14,
+  "total_files": 53,
+  "timeline": [
+    {
+      "file_id": "EFTA00018654",
+      "summary": "Key stories include: *   **FDIC Staffer Case:** An FDIC employee, Allison Aytes, is accused of taking bank secrets and using them in job interviews. *   **Billy Walters Insider Trading Case:** The Second Circuit overturned a restitution order in the Billy Walters insider trading case. *   **Jeffrey Epstein Settlement:** Jeffrey Epstein settled a dispute with his teenage victim’s attorney. *   **Panama Papers Indictment:** Prosecutors indicted a lawyer and three men connected to the Panama Papers leak. *   **Various Other Cases:** The document also details several other legal cases including: fraud charges, insider trading, bribery allegations, cyber security breaches (including a Hilton lawsuit over secretly filmed footage), and legal ethics violations. *   **Legal Industry Trends:** It includes articles about new law firms appealing to BigLaw talent, changes to the Department of Justice’s cooperation credit policy, and the use of cryptocurrency addresses as OFAC identifiers. *   **Job Listings:** The document also includes several job listings for legal associates. Essentially, it's a snapshot of legal news from a specific date in 2018, encompassing a diverse range of legal areas and industries.",
+      "timestamp": "2018-12-05T00:00:00",
+      "timestamp_raw": "December 5, 2018",
+      "keywords": [
+        "fdic",
+        "insider trading",
+        "mueller",
+        "panama papers",
+        "restitution",
+        "jeffrey epstein",
+        "michael flynn",
+        "billy walters",
+        "data-driven lawyer",
+        "regulatory records"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031330",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] regarding the acceptance of an Epstein oral argument before the Second Circuit Court of Appeals. The email was dated January 9, 2019, and included the subject \"Accepted: Epstein Oral Argument-- Second Circuit.\"",
+      "timestamp": "2019-01-09T00:00:00",
+      "timestamp_raw": "January 9, 2019",
+      "keywords": [
+        "epstein",
+        "second circuit",
+        "redaction",
+        "oral argument",
+        "usanys"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00019516",
+            "similarity": 0.667,
+            "index": 2,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019533",
+            "similarity": 0.667,
+            "index": 3,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00029468",
+            "similarity": 0.5,
+            "index": 4,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00019516",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] regarding an oral argument concerning the case of Jeffrey Epstein, specifically to the Second Circuit Court of Appeals. The email was dated January 9, 2019.",
+      "timestamp": "2019-01-09T00:00:00",
+      "timestamp_raw": "January 9, 2019",
+      "keywords": [
+        "epstein",
+        "second circuit",
+        "redaction",
+        "oral argument",
+        "2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00031330",
+            "similarity": 0.667,
+            "index": 1,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00019533",
+            "similarity": 0.667,
+            "index": 3,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00029468",
+            "similarity": 0.5,
+            "index": 4,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00029466",
+            "similarity": 0.5,
+            "index": 5,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00019533",
+      "summary": "An email was sent from [REDACTED] to discuss the “Accepted: Epstein Oral Argument—Second Circuit” on January 9, 2019. The email is attached to the document EFTA00019533.",
+      "timestamp": "2019-01-09T00:00:00",
+      "timestamp_raw": "January 9, 2019",
+      "keywords": [
+        "epstein",
+        "oral argument",
+        "second circuit",
+        "redaction",
+        "efta00019533"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00019516",
+            "similarity": 0.667,
+            "index": 2,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00031330",
+            "similarity": 0.667,
+            "index": 1,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00029468",
+            "similarity": 0.5,
+            "index": 4,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00029466",
+            "similarity": 0.5,
+            "index": 5,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00029468",
+      "summary": "This document is an email regarding the accepted oral argument in the Epstein case before the Second Circuit Court of Appeals. The email was sent on February 5, 2019, and is labeled as “EFTA00029468.”",
+      "timestamp": "2019-02-05T00:00:00",
+      "timestamp_raw": "February 5, 2019",
+      "keywords": [
+        "epstein",
+        "oral argument",
+        "second circuit",
+        "efta00029468"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00019533",
+            "similarity": 0.5,
+            "index": 3,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019516",
+            "similarity": 0.5,
+            "index": 2,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00031330",
+            "similarity": 0.5,
+            "index": 1,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00029466",
+            "similarity": 0.6,
+            "index": 5,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019534",
+            "similarity": 0.5,
+            "index": 7,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00030436",
+            "similarity": 0.5,
+            "index": 11,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00029466",
+      "summary": "This email, dated February 5, 2019, concerns an oral argument regarding the case of Jeffrey Epstein. The email is titled “Epstein Oral Argument-- Second Circuit” and includes an unnamed attachment.",
+      "timestamp": "2019-02-05T00:00:00",
+      "timestamp_raw": "February 5, 2019",
+      "keywords": [
+        "epstein",
+        "second circuit",
+        "oral argument",
+        "efta00029466"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00029468",
+            "similarity": 0.6,
+            "index": 4,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019533",
+            "similarity": 0.5,
+            "index": 3,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019516",
+            "similarity": 0.5,
+            "index": 2,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00019534",
+            "similarity": 0.5,
+            "index": 7,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00030436",
+            "similarity": 0.5,
+            "index": 11,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00029469",
+            "similarity": 0.5,
+            "index": 12,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00030435",
+      "summary": "This document is an email regarding the acceptance of an oral argument before the Second Circuit Court of Appeals concerning the case of Epstein. The email was sent on February 5, 2019, and includes an unnamed attachment. The document identifier is EFTA00030435.",
+      "timestamp": "2019-02-05T00:00:00",
+      "timestamp_raw": "February 5, 2019",
+      "keywords": [
+        "epstein",
+        "oral argument",
+        "second circuit",
+        "efta00030435",
+        "2019",
+        "february"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00019516",
+            "similarity": 0.571,
+            "index": 2,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019534",
+      "summary": "An oral argument, titled \"Epstein Oral Argument--Second Circuit,\" took place on February 6, 2019, from 3:00 PM to 5:00 PM GMT. The event was marked as X-PERSONAL and created on January 9, 2019.",
+      "timestamp": "2019-02-06T00:00:00",
+      "timestamp_raw": "February 6, 2019",
+      "keywords": [
+        "epstein",
+        "oral argument",
+        "second circuit",
+        "2019-02-06",
+        "efta00019534"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00029466",
+            "similarity": 0.5,
+            "index": 5,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00029468",
+            "similarity": 0.5,
+            "index": 4,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031331",
+      "summary": "On February 6, 2019, an oral argument (“Epstein Oral Argument”) was held before the Second Circuit Court. The event was classified as “X-PERSONAL.” It was organized by [REDACTED] and [REDACTED]. The event occurred between 15:00:00 and 17:00:00 UTC on January 9, 2019, with a creation date of January 9, 2019, and a modification date of January 9, 2019.",
+      "timestamp": "2019-02-06T00:00:00",
+      "timestamp_raw": "February 6, 2019",
+      "keywords": [
+        "efta00031331",
+        "epstein",
+        "oral argument",
+        "second circuit",
+        "2019-02-06",
+        "redaction",
+        "event",
+        "x-personal"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00019517",
+            "similarity": 0.545,
+            "index": 9,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00019517",
+      "summary": "This document records an event titled “Epstein Oral Argument—Second Circuit” held on February 6, 2019, from 3:00 PM to 5:00 PM GMT. The event was classified as X-PERSONAL, created on January 9, 2019, and had a priority of 5. It included attendees from (USANYS) and triggered an alarm reminder 15 minutes before the start.",
+      "timestamp": "2019-02-06T00:00:00",
+      "timestamp_raw": "February 6, 2019",
+      "keywords": [
+        "epstein",
+        "oral argument",
+        "second circuit",
+        "2019-02-06",
+        "event",
+        "x-personal",
+        "redaction analysis",
+        "reminder",
+        "efta00019517"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00031331",
+            "similarity": 0.545,
+            "index": 8,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029467",
+      "summary": "An event titled “Epstein Oral Argument—Second Circuit” took place on March 6, 2019, from 3:00 PM to 5:00 PM GMT. The event was organized, classified as “X-PERSONAL,” and created on February 5, 2019. It had a priority of 5 and was associated with an alarm and reminder (EFTA00029467).",
+      "timestamp": "2019-03-06T00:00:00",
+      "timestamp_raw": "March 6, 2019",
+      "keywords": [
+        "epstein",
+        "oral argument",
+        "second circuit",
+        "2019-03-06",
+        "event",
+        "redaction analysis",
+        "efta00029467"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00030436",
+            "similarity": 0.714,
+            "index": 11,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00029469",
+            "similarity": 0.714,
+            "index": 12,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00030436",
+      "summary": "On March 6, 2019, from 3:00 PM to 5:00 PM GMT, an oral argument related to the Epstein case was accepted by the Second Circuit Court of Appeals. The event was marked as X-PERSONAL and created on February 5, 2019.",
+      "timestamp": "2019-03-06T00:00:00",
+      "timestamp_raw": "March 6, 2019",
+      "keywords": [
+        "epstein",
+        "oral argument",
+        "second circuit",
+        "2019-03-06",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00029467",
+            "similarity": 0.714,
+            "index": 10,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00029466",
+            "similarity": 0.5,
+            "index": 5,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00029468",
+            "similarity": 0.5,
+            "index": 4,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00029469",
+            "similarity": 1.0,
+            "index": 12,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00029469",
+      "summary": "On March 6, 2019, an oral argument related to the Epstein case was accepted before the Second Circuit Court. The event occurred between 15:00 and 17:00 GMT, was organized by an unidentified entity, and was marked as X-PERSONAL. The event was created on February 5, 2019, and has a priority level of 5.",
+      "timestamp": "2019-03-06T00:00:00",
+      "timestamp_raw": "March 6, 2019",
+      "keywords": [
+        "epstein",
+        "oral argument",
+        "second circuit",
+        "2019-03-06",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00030436",
+            "similarity": 1.0,
+            "index": 11,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00029467",
+            "similarity": 0.714,
+            "index": 10,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00029466",
+            "similarity": 0.5,
+            "index": 5,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00017095",
+      "summary": "This document is a legal filing by The New York Times Company and reporter Benjamin Weiser regarding the Government’s attempt to seal judicial records in the United States v. Tartaglione case. The Times argues that the records, pertaining to the transfer of defendant Nicholas Tartaglione from the Metropolitan Correctional Center (MCC), are subject to the common law and First Amendment rights of access. Specifically, the records detail Tartaglione’s claims of unsafe conditions at the MCC, stemming from interactions with former cellmate Jeffrey Epstein, and the Government’s subsequent response. The Times contends that these documents constitute “judicial documents” under Second Circuit jurisprudence—relevant to the judicial function, carrying a presumption of access, and possessing significant value for monitoring federal courts. The Times disputes the Government’s justification for sealing the records, asserting that disclosing information about BOP deliberations would not unduly influence inmate behavior or compromise law enforcement functions. They argue that the public interest in transparency regarding the judicial process, particularly in this high-profile case involving Epstein’s suicide, outweighs any potential concerns. The filing concludes by requesting that the Court deny the Government’s application to seal the documents.",
+      "timestamp": "2019-03-21T00:00:00",
+      "timestamp_raw": "Mar. 21, 2019",
+      "keywords": [
+        "new york times",
+        "united states v. tartaglione",
+        "access",
+        "first amendment",
+        "judicial documents",
+        "redaction",
+        "bop",
+        "criminal prosecution",
+        "detention",
+        "public right",
+        "criminal defense"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032556",
+      "summary": "legal system in late June 2019. Key themes include: *   **New York Attorney General Actions:** Investigations into Bitfinex, Insys Pharmaceuticals kickbacks, and other state legal actions. *   **Second Circuit Court Cases:** Decisions regarding Lehman Brothers, Goldman Sachs, and other cases before the Second Circuit Court of Appeals. *   **Bankruptcy Proceedings:** Developments in cases like BlueHippo Funding and Sungard Availability Services. *   **SEC Enforcement:** Ongoing scrutiny of cryptocurrency markets and related regulatory actions. *   **Various Litigation:** Disputes related to intellectual property (Lionbridge, TransPerfect), real estate (chess builders), employment (CKR Law), benefits, and other areas (e.g., SiriusXM, Express Scripts, Total Wine & More). *   **Supreme Court Decisions:** A ruling on Tennessee liquor license requirements and a clarification regarding “Auer deference.” *   **Firm News & Recognition:** Updates on firms like O’Melveny & Myers winning “best to work for” titles and other achievements. *   **Job Postings:** Several job listings from law firms seeking attorneys across various practice areas. The document includes news about specific legal battles, regulatory actions, and firm activities.",
+      "timestamp": "2019-06-27T00:00:00",
+      "timestamp_raw": "27 Jun 2019",
+      "keywords": [
+        "crypto market",
+        "bitfinex",
+        "sec",
+        "lehman brothers",
+        "goldman sachs",
+        "insys",
+        "attorney kickbacks",
+        "tennessee liquor licenses",
+        "cybersecurity data breach",
+        "intellectual property",
+        "picasso painting",
+        "employment discrimination",
+        "lgbtq rights",
+        "debt collector lawsuit",
+        "high court",
+        "u.s. supreme court",
+        "fraud",
+        "bankruptcy",
+        "bank suit",
+        "libor rigging",
+        "sports arbitration",
+        "reit investor fees",
+        "legal industry",
+        "judge reprimand",
+        "judicial vetters",
+        "pacer fees",
+        "court opinions",
+        "jobs",
+        "law360"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010466",
+      "summary": "A communication from the Attorney's Office for the Southern District of New York regarding a Second Circuit decision concerning the unsealing of Jeffrey Epstein files. The communication includes a link to the Second Circuit’s decision (Epstein-ca2-20190703.pdf) and contact information for the office.",
+      "timestamp": "2019-07-03T00:00:00",
+      "timestamp_raw": "03 Jul 2019",
+      "keywords": [
+        "epstein",
+        "second circuit",
+        "redaction",
+        "unsealing",
+        "new york",
+        "justice",
+        "decision",
+        "files",
+        "pdf",
+        "sdny"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032583",
+      "summary": "Key highlights include: *   **Cravath & Swaine's NYU Ties:** A New York court rejected a bid for a new trial in an ERISA class action against New York University, citing a lack of bias. *   **LexisNexis Settlement:** LexisNexis Risk Solutions reached a $5.8 million settlement with states over withheld fees from law enforcement agencies. *   **Ed Sheeran Trial Delay:** The Ed Sheeran copyright trial was postponed due to a Ninth Circuit ruling on the Led Zeppelin case. *   **Various Litigation Updates:** Several other cases are covered, including: a Montana rancher fraud case, a Second Circuit ruling on asylum for a Chinese woman, a New York doctor convicted of opioid fraud, state attorneys general urging the CFPB to maintain overdraft rules, investigations into Facebook housing ads, a recycling bin case involving an insurer, a truck crash coverage dispute, a Barilla class action dismissal, a California business owner suing the NBA for stolen app ideas, and various cases related to bankruptcy, intellectual property, employment, and banking. *   **Firm News and Job Listings:** The document also includes news about Cooley LLP, Pierce Bainbridge, and Wilson Sonsini, along with several job listings from Schoen Legal Search. *   **Legal Industry Analysis:** An opinion piece discusses the decline in large law firm mergers. The document appears to be a snapshot of legal news focused on a diverse range of industries and legal matters.",
+      "timestamp": "2019-07-03T00:00:00",
+      "timestamp_raw": "03 Jul 2019",
+      "keywords": [
+        "cravath swaine",
+        "nyu",
+        "erisa",
+        "new trial",
+        "judge",
+        "lexisnexis",
+        "ed sheeran",
+        "fraud",
+        "asylum",
+        "oxycodone",
+        "overdraft rule",
+        "facebook housing advertisers",
+        "recycling bin",
+        "truck crash coverage",
+        "barilla",
+        "intellectual property",
+        "nba",
+        "mont. cattle rancher",
+        "nyc doc",
+        "state ags",
+        "cfpb",
+        "sheeran trial",
+        "insurance",
+        "second circuit",
+        "law firms",
+        "merger",
+        "jobs"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024831",
+      "summary": "On August 1, 2019, an email chain discusses a Second Circuit Court of Appeals decision in *United States v. Boustani*. The court ruled that the Bail Reform Act prohibits wealthy defendants from being released to “self-funded private jails” when poorer defendants would be detained. The court established a principle of equal treatment under the law, stating that a two-tiered system based on wealth is unfair. A narrow exception exists where a defendant’s wealth is the *primary* factor in determining a flight risk, but this exception was not applied in the Boustani case. The ruling is now the governing law in the Second Circuit.",
+      "timestamp": "2019-08-01T00:00:00",
+      "timestamp_raw": "August 1, 2019",
+      "keywords": [
+        "second circuit",
+        "bail reform act",
+        "wealthy defendants",
+        "white collar cases",
+        "home confinement",
+        "private security",
+        "boustani",
+        "detention",
+        "flight risk",
+        "fair trial"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024833",
+      "summary": "This document is a record of the Second Circuit Court of Appeals’ affirmation of a District Court order denying bail to Jean Boustani in Case 19-1018. The case involves Boustani’s charges of wire fraud, securities fraud, and money laundering. The District Court initially denied Boustani’s bail application, finding he posed a flight risk and that no conditions would reasonably assure his appearance in court. Boustani filed a second application, which was also denied. The Second Circuit affirmed the District Court's decision, explaining that the Bail Reform Act does not allow a wealthy defendant to avoid detention by paying for private armed security guards, particularly when similarly situated defendants of lesser means would be detained. The court cited concerns about unequal treatment based on wealth and reaffirmed that Boustani’s flight risk was established based on a preponderance of evidence, considering factors such as the seriousness of the charges, potential sentence, and Boustani’s international connections.",
+      "timestamp": "2019-08-01T00:00:00",
+      "timestamp_raw": "08/01/2019",
+      "keywords": [
+        "boustani",
+        "bail reform act",
+        "united states v.",
+        "flight risk",
+        "detention",
+        "security guards",
+        "eastern district of new york",
+        "wire fraud",
+        "securities fraud",
+        "money laundering"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00022349",
+      "summary": "Jonathan M. Albano of Morgan, Lewis & Bockius LLP sent an email on August 2, 2019, to multiple recipients including Michael Schachter, Victoria Peng, and Mark S. Moore, offering a copy of a Second Circuit decision in *Brown v. Maxwell* (July 3, 2019).  An Assistant United States Attorney attached the Government’s opposition to Oath Inc.’s motion to intervene, provided to the Court on an ex parte basis. The email included a disclaimer regarding attorney-client communication and confidentiality.",
+      "timestamp": "2019-08-02T00:00:00",
+      "timestamp_raw": "August 2, 2019",
+      "keywords": [
+        "efta00022349",
+        "motion to intervene",
+        "brown v maxwell",
+        "oath inc",
+        "us v gatto",
+        "second circuit",
+        "jon albano",
+        "morgan lewis & bockius",
+        "united states attorney's office",
+        "southern district of new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016130",
+      "summary": "Jonathan M. Albano of Morgan, Lewis & Bockius LLP sent a communication to counsel regarding a case, *US v. Gatto*, and an attachment of the Second Circuit’s decision in *Brown v. Maxwell*. The attached document was the Government’s opposition to Oath Inc.’s motion to intervene, provided to the court on an ex parte basis and included an unredacted version. The communication originated from the United States Attorneys Office, Southern District of New York.",
+      "timestamp": "2019-08-02T00:00:00",
+      "timestamp_raw": "02 Aug 2019",
+      "keywords": [
+        "efta00016130",
+        "oath inc.",
+        "us v. gatto",
+        "motion to intervene",
+        "brown v maxwell",
+        "second circuit",
+        "united states attorneys office",
+        "morgan",
+        "lewis & bockius llp",
+        "victoria peng",
+        "jon albano",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010186",
+      "summary": "An Assistant U.S. Attorney from the Southern District of New York sent an email to inform recipients that the Second Circuit had unsealed and posted documents related to the Ghislaine Maxwell libel lawsuit. The email clarifies that these newly released documents are independent of any filings made by the sender and does not represent new information from their investigation.",
+      "timestamp": "2019-08-09T00:00:00",
+      "timestamp_raw": "09 Aug 2019",
+      "keywords": [
+        "epstein",
+        "second circuit",
+        "ghislaine maxwell",
+        "libel lawsuit",
+        "documents",
+        "redaction",
+        "u.s. attorney",
+        "southern district of new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00031701",
+            "similarity": 0.7,
+            "index": 22,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00031701",
+      "summary": "On August 9, 2019, an Assistant U.S. Attorney from the Southern District of New York informed [REDACTED] that the Second Circuit had unsealed documents related to the Ghislaine Maxwell libel lawsuit. The Attorney stated that their office was not a party to the litigation and could not comment on the newly released documents, which were independent of their own investigation. The Attorney anticipated increased media attention due to the document release.",
+      "timestamp": "2019-08-09T00:00:00",
+      "timestamp_raw": "August 9, 2019",
+      "keywords": [
+        "epstein",
+        "maxwell",
+        "libel lawsuit",
+        "second circuit",
+        "redaction",
+        "litigation",
+        "ghislaine maxwell",
+        "u.s. attorney",
+        "southern district of new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00010186",
+            "similarity": 0.7,
+            "index": 21,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00017074",
+      "summary": "This document is a response filed by attorneys for Intervenors Julie Brown and the Miami Herald to Ghislaine Maxwell’s objections to unsealing certain judicial documents related to a lawsuit. The Intervenors argue that Maxwell’s objections are without merit and that the documents should be unsealed in their entirety. Here’s a breakdown of the key points: *   **Context:** The document responds to Maxwell’s attempts to keep sealed specific court documents (Dkt. Entries 143, 164, 172, 199, and 230) within the case of *Virginia L. Giuffre v. Ghislaine Maxwell*. *   **Core Argument:** The Intervenors assert that the presumption of access to judicial documents is “substantial,” particularly in a case involving allegations of sexual abuse. They argue Maxwell’s objections rely on generalized “countervailing interests” without specific justification. *   **Addressing Maxwell’s Claims:** The document systematically dismantles Maxwell's arguments, including: *   Mischaracterizing the Second Circuit’s ruling in *Brown v. Maxwell*. *   Dismissing arguments about protective orders and reliance on them. *   Refuting claims that the documents are abusively filed. *   Challenging assertions about preventing abuse or undue burden, specifically regarding the alleged “embarrassment” of the accusations. *   Rejecting objections based on unreliable deposition transcripts. *   Criticizing the arguments regarding \"countervailing interests” and the failure to meet the high standard for continued sealing. *   **Request:** The Intervenors formally request the court to unseal all specified documents. Essentially, the document is a legal challenge seeking to restore public access to documents related to the case, arguing that Maxwell’s attempts to keep them sealed are unsupported by legal precedent or factual considerations.",
+      "timestamp": "2020-05-22T00:00:00",
+      "timestamp_raw": "May 22, 2020",
+      "keywords": [
+        "efta00017074",
+        "virginia giuffre",
+        "ghislaine maxwell",
+        "unsealing",
+        "judicial documents",
+        "second circuit",
+        "brown v. maxwell",
+        "protective order",
+        "countervailing interests",
+        "discovery motions",
+        "presumption of access"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015968",
+      "summary": "A protective order proposal was drafted by defense counsel (Laura Menninger and Haddon, Morgan & Foreman, P.C.) regarding a case involving pretrial publicity and discovery. The proposal includes clarifications and modifications to a previous version, specifically addressing: *   Defining “Confidential” information, aligning with Second Circuit case law and privacy rights. *   Removing a “Highly Confidential” category. *   Suggesting a laptop-based access for the government to provide the client with confidential discovery materials for review while in custody. *   Requiring explicit marking of documents as confidential rather than relying on cover letters. *   Maintaining the ability for the party receiving the order to dispute designations. The sender (Christian Everdell) emphasizes the importance of a jury trial and the need to protect witnesses from harassment, advocating for equitable access to discovery for all parties.  A confidentiality notice is included in each email.",
+      "timestamp": "2020-07-17T00:00:00",
+      "timestamp_raw": "17 Jul 2020",
+      "keywords": [
+        "protective order",
+        "confidentiality",
+        "discovery",
+        "redaction",
+        "witness",
+        "government",
+        "court",
+        "privacy",
+        "legal",
+        "access"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021861",
+      "summary": "This document is a request filed by Haddon, Morgan & Foreman on behalf of Ghislaine Maxwell to the Southern District of New York, arguing for the Court to reconsider its July 23, 2020 ruling that should allow the unsealing of Maxwell’s and Doe 1’s deposition transcripts.  The core argument is that the government’s use of these sealed transcripts to bring an indictment against Maxwell constitutes a serious violation of the Protective Order, and the court should maintain the transcripts’ sealed status. The filing details how the government obtained the transcripts despite the protective order, highlighting a second violation of the order stemming from plaintiff’s counsel’s actions. It argues that the circumstances surrounding the indictment and the government’s actions—including media commentary and a criminal investigation—create a heightened need to protect Maxwell’s rights, particularly her right to a fair trial, and that the court should stay any unsealing orders pending appeal, referencing relevant case law like *Martindell* and *Nixon*.  Finally, the filing alleges that plaintiff’s counsel intentionally set up a perjury trap for Maxwell by using her deposition in this way, and that a failure to properly uphold the Protective Order was a key factor in the government’s actions.",
+      "timestamp": "2020-07-23T00:00:00",
+      "timestamp_raw": "July 23, 2020",
+      "keywords": [
+        "protective order",
+        "deposition transcripts",
+        "ms. maxwell",
+        "giuffre v. maxwell",
+        "perjury",
+        "contempt proceedings",
+        "second circuit",
+        "unsealing",
+        "law enforcement",
+        "criminal investigation",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018749",
+      "summary": "Ghislaine Maxwell* case (20 Cr. 330). Specifically, she seeks to allow her to refer to and file under seal in the *Giuffre v. Maxwell* (15-cv-5433) and Second Circuit appeal (No. 20-2413) certain discovery materials produced by the government, primarily from August 5, 2020, and a large batch from Boies Schiller & Flexner. The request stems from a need for fair determination of key issues impacting her privacy and due process rights. Maxwell argues that the government has essentially turned over all discovery materials produced in both the *Giuffre* and Jane Doe 43 cases. She believes this has been done secretly, in conjunction with Boies Schiller, and that this information was not fully disclosed to her. Maxwell asserts that the government's actions violate the Protective Order, which exempts information obtained “from a source other than the government,” and that she’s acting out of “abundance of caution.” She highlights a conflict between the government’s actions and a court order that the government must comply with when producing documents. The motion further argues that the unsealing of these materials is justified because the documents are “judicial documents” with a presumptive right of public access and that the government’s interference with the process is unfair. The motion also points to an emergency stay of unsealing ordered by the Second Circuit pending briefing. Finally, the document contends the court should allow her to use the materials under seal for her defense in the ongoing legal proceedings.",
+      "timestamp": "2020-08-05T00:00:00",
+      "timestamp_raw": "August 5, 2020",
+      "keywords": [
+        "protective order",
+        "ghislaine maxwell",
+        "giuffre v. maxwell",
+        "discovery materials",
+        "united states district court",
+        "second circuit",
+        "seal",
+        "confidential",
+        "jeffrey paglloca",
+        "boies schiller & flexner",
+        "jurisdiction"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018583",
+      "summary": "Haddon, Morgan and Foreman, P.C., represented by Jeffrey S. Pagliuca, are requesting Judge Nathan’s permission to refer to and attach discovery materials (the “Unsealing Materials”) related to two settled civil cases involving Ghislaine Maxwell to the appeal in *U.S. v. Ghislaine Maxwell* (No. 15 Civ. 7433). The Unsealing Materials consist of ex parte pleadings, transcripts, and rulings from the government’s efforts to obtain discovery. They argue the materials are not confidential under the Protective Order and cite a Second Circuit case supporting public access. They are requesting the government agree to the disclosure and are working under a deadline set by Judge Preska to discuss this issue.",
+      "timestamp": "2020-08-09T00:00:00",
+      "timestamp_raw": "August 9, 2020",
+      "keywords": [
+        "maxwell",
+        "ghislaine",
+        "discovery materials",
+        "unsealing materials",
+        "protective order",
+        "judge nathan",
+        "judge preska",
+        "second circuit",
+        "civil litigation",
+        "confidential"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018580",
+      "summary": "15 Civ. 7433) against her. New, critical information has emerged impacting both this case and a related criminal action (20 Cr. 330) involving U.S. v. Maxwell. This information relates to Maxwell’s due process rights and Fourth, Fifth, and Sixth Amendment protections. Counsel seeks a temporary three-week stay of the unsealing process to allow for consultation with the U.S. Attorney's Office and a potential modification of the protective order. They propose streamlining the unsealing process through modifications to the protocol, including reduced briefing page limits and a shorter objection response period. Counsel also requests the court allow for a 7-day period for Non-Parties to object after a sealing order. Finally, they propose prioritizing specific decided motions for unsealing, excluding those tied to the paused deposition transcripts.",
+      "timestamp": "2020-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2020",
+      "keywords": [
+        "maxwell",
+        "criminal action",
+        "protective order",
+        "unsealing",
+        "stay",
+        "fourth amendment",
+        "fifth amendment",
+        "sixth amendment",
+        "due process",
+        "civil action",
+        "u.s. attorney",
+        "second circuit",
+        "redaction"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00017803",
+      "summary": "A legal brief, titled “BRIEF, on behalf of Appellant Ghislaine Maxwell,” was filed in the 2d Circuit Court regarding the case *v. Maxwell* (Docket No. 20-02413). Sigrid McCawley of Boies Schiller Flexner LLP sent the brief to Deborah Knowlton. If Judge Nathan denies a motion to modify the protective order, Maxwell’s attorneys intend to appeal to the Second Circuit and seek consolidation with the appeal from Judge Preska’s order. The brief was filed on August 20, 2020, and entered into the court record on the same date.",
+      "timestamp": "2020-08-20T00:00:00",
+      "timestamp_raw": "August 20, 2020",
+      "keywords": [
+        "efta00017803",
+        "ghislaine maxwell",
+        "2d cir.",
+        "protective order",
+        "appeal",
+        "motion",
+        "sigrid mccawley",
+        "boies schiller flexner llp",
+        "docket entry",
+        "brief",
+        "usanys"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025258",
+      "summary": "*   **Loughlin Sentencing:** Lori Loughlin and her husband, Mossimo Giannulli, were sentenced to 2 months and 5 months respectively in the \"Varsity Blues\" college admissions scandal. *   **Chinese Spy Case:** U.S. attorneys sought to deny bail to an ex-CIA agent accused of spying for China, citing a significant flight risk. *   **Maxwell Discovery Request:** Federal prosecutors opposed Ghislaine Maxwell’s request to file criminal discovery materials under seal in civil lawsuits. *   **Los Angeles Explosion Charges:** Criminal charges were filed against the owners and managers of a commercial property in Los Angeles following an explosion that injured firefighters. *   **Politically Exposed Client Policy:** The Financial Crimes Enforcement Network (FinCEN) and banking regulators advised banks to conduct due diligence on \"politically exposed\" clients but not to subject them to extra scrutiny. *   **Scotiabank Spoofing Settlement:** Traders sued Scotiabank following a $127 million settlement with the U.S. government over a precious metals market manipulation scheme. *   **Fiat Chrysler Defense:** Fiat Chrysler argued against a stock-drop suit alleging concealment of a bribery scheme involving the United Auto Workers. *   **OSCE and SEC Actions:** The SEC pursued judgments against executives of Osiris Therapeutics and biotech company executives for securities law violations. *   **Belize Ponzi Scheme:** The SEC targeted two former brokers involved in a $22 million Ponzi scheme fronted by a purported Belize airport project. *   **AEP Bribery Allegations:** American Electric Power Co. Inc. is facing a proposed class action related to an Ohio newspaper investigation into a $60 million corruption plot. *   **Dallas Attorney Suspension:** A Dallas criminal defense attorney was suspended from practicing due to violating a judge’s order and lying to prosecutors. *   **Amazon Price Gouging Suit:** Pennsylvania's attorney general filed a lawsuit against an Amazon seller for illegally jacking up the price of hand sanitizer during the COVID-19 pandemic. *   **Trump Judicial Pick Criticism:** Liberal advocates criticized President Trump’s youthful pick for a Florida federal judgeship. *   **Stoel Rives Salary Adjustments:** Stoel Rives LLP partially rolled back salary reductions implemented due to the COVID-19 pandemic. *   **Legal Industry News:** Articles covered Liberty Mutual’s Burton Awards recognition, pro bono legal battles related to mail-in voting, and the shift to remote depositions. *   **Various Legal Cases & Proceedings:** Updates on cases involving the SEC, CFTC, fraud investigations, and legal industry trends were reported. *   **Job Postings:** Several legal job postings were included, specifically for a Criminal Defense and White-Collar Associate.",
+      "timestamp": "2020-08-24T00:00:00",
+      "timestamp_raw": "24 Aug 2020",
+      "keywords": [
+        "trump",
+        "tax subpoena",
+        "second circuit",
+        "lori loughlin",
+        "mossimo giannulli",
+        "varsity blues",
+        "fraud",
+        "ponzi scheme",
+        "sec",
+        "belize",
+        "criminal charges",
+        "compliance",
+        "politically exposed clients",
+        "discovery",
+        "banking",
+        "spying",
+        "ghislaine maxwell",
+        "price gouging",
+        "mail-in voting",
+        "pro bono",
+        "courtroom sketch",
+        "legal industry",
+        "corporate news",
+        "job openings"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025526",
+      "summary": "It covers a range of legal developments from September 2020, including: *   **Davis Polk’s Pay Model Change:** Davis Polk & Wardwell LLP is shifting from a strict lockstep compensation system to one based on performance. *   **Copyright Suit:** HuffPost was found not to have violated copyright law regarding a Jon Hamm photo. *   **Bankruptcy:** Century 21 department stores filed for Chapter 11 bankruptcy due to COVID-19 related insurer issues. *   **Loan Agreements:** King & Spalding and Willkie Farr represented parties in loans involving Paramount Group and Deutsche Pfandbriefbank. *   **ACA Challenge:** 23 Attorneys General are challenging the Trump administration's rollbacks of civil rights protections in healthcare. *   **Property Tax Rejection:** New York City Mayor Bill de Blasio rejected a property tax hike to address the city's budget gap. *   **LNG Project Delay:** The NJ LNG project was delayed due to environmental concerns. *   **Insurance Suit:** A North Carolina investor won a $8 million lawsuit against AXA Life Insurance. *   **Moped Crash Lawsuit:** A New Yorker sued Revel Transit Inc. for a moped crash. *   **Trade Secrets Lawsuit:** Cannabinoid Maker hit Amyris with a $881 million trade secret lawsuit. *   **Halkbank Case:** A New York judge rejected Turkey’s Halkbank’s bid to pause a sanctions case. *   **Epstein Accuser Lawsuit:** Ghislaine Maxwell’s attempts to keep deposition transcripts sealed were challenged. *   **Competition Lawsuit:** State Attorneys General are challenging drugmakers’ attempts to delay price-fixing trials. *   **Capital Markets Activity:** A Starboard Value-backed SPAC led three IPOs. *   **Bankruptcy Case:** Morgan Stanley argued its sale of Tops Markets was solvent. *   **Banking Litigation:** Judge declined to require bank GCs to sit for depositions. *   **Immigration Case:** The Supreme Court ruled Trump could not exclude unauthorized immigrants from the 2020 census. *   **Telecom Case:** The Second Circuit refused to revive a legal challenge to a restaurant’s registered trade dress. *   **Various Firm News:** Reports on hiring, legal strategies, and legal industry trends were featured from firms like Davis Polk, Gibson Dunn, Ropes & Gray, and others. The document also includes various advertisements and legal industry analysis pieces.",
+      "timestamp": "2020-09-11T00:00:00",
+      "timestamp_raw": "September 11, 2020",
+      "keywords": [
+        "davis polk",
+        "pay model",
+        "lockstep",
+        "salary",
+        "jon hamm",
+        "century 21",
+        "bankruptcy",
+        "aca",
+        "civil rights",
+        "supreme court",
+        "antitrust",
+        "sec",
+        "immigration",
+        "trade secrets",
+        "esg",
+        "lng",
+        "insurance",
+        "property tax",
+        "real estate financing",
+        "legal fees",
+        "diversity visa",
+        "green card",
+        "legal lions",
+        "legal lambs",
+        "regulatory framework",
+        "bankruptcy protection",
+        "spac",
+        "settlement"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028060",
+      "summary": "The United States Court of Appeals for the Second Circuit ordered the United States to file an amicus brief regarding Ghislaine Maxwell’s case, limited to ten pages, by September 16, 2020. Parties were ordered to respond to the brief by September 23, 2020. A hearing scheduled for September 22, 2020 was adjourned until further order.",
+      "timestamp": "2020-09-16T00:00:00",
+      "timestamp_raw": "September 16, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states court of appeals",
+        "second circuit",
+        "appeal",
+        "jeffrey epstein",
+        "amicus brief",
+        "legal case",
+        "sharon churcher",
+        "united states v. maxwell",
+        "20-2413"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00022041",
+      "summary": "A Law360 article from October 14, 2020, discusses the ongoing legal case against Theranos founder Elizabeth Holmes, noting she faces new charges.  It also briefly mentions Ghislaine Maxwell’s case involving Jeffrey Epstein, including a Second Circuit panel’s support for Maxwell’s challenge to a deposition order. The document contains multiple redactions.",
+      "timestamp": "2020-10-14T00:00:00",
+      "timestamp_raw": "October 14, 2020",
+      "keywords": [
+        "theranos",
+        "elizabeth holmes",
+        "ghislaine maxwell",
+        "jeffrey epstein",
+        "white collar crime",
+        "law360",
+        "deposition",
+        "legal case",
+        "second circuit",
+        "abuse"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018289",
+      "summary": "This document is a record of the Second Circuit Court of Appeals’ decision in the case of *Ghislaine Maxwell v. [Other Parties]*. The court affirmed a District Court order that allowed the unsealing of certain litigation materials, including a deposition transcript related to the case. The court found that the District Court did not abuse its discretion in ordering the unsealing, despite Maxwell’s arguments to the contrary, citing existing legal precedent and a correct application of the presumption of public access to judicial documents. The document also includes standard court instructions regarding the filing of a bill of costs.",
+      "timestamp": "2020-10-19T00:00:00",
+      "timestamp_raw": "10/19/2020",
+      "keywords": [
+        "united states court of appeals",
+        "ghislaine maxwell",
+        "district court",
+        "summary order",
+        "appeal",
+        "deposition",
+        "litigation materials",
+        "public access",
+        "presumption of access"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018504",
+      "summary": "The Office has three Second Circuit oral arguments scheduled for October 13-16, 2020, via phone/Zoom. The arguments are: *   **Farhane v. United States** (October 13, 10:00 am): Motion for certificate of appealability regarding an ineffective assistance of counsel claim. *   **United States v. Maxwell** (October 13, 2:24 pm): Appeal regarding a protective order and potential abuse of discretion. *   **United States v. Louis McIntosh** (October 15, 10:00 am): Appeal regarding Hobbs Act robbery counts, challenges to convictions and jury instructions, and a preliminary order of forfeiture deadline.",
+      "timestamp": "2020-11-08T00:00:00",
+      "timestamp_raw": "08 Oct 2020",
+      "keywords": [
+        "second circuit",
+        "oral arguments",
+        "criminal cases",
+        "farhane v. united states",
+        "united states v. maxwell",
+        "united states v. louis mcintosh",
+        "brief",
+        "appealability",
+        "protective order",
+        "forfeiture"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023011",
+      "summary": "The United States Court of Appeals for the Second Circuit affirmed the District Court’s denial of Ghislaine Maxwell’s renewed requests for bail pending trial in the case of *United States v. Maxwell*. The appeals court rejected her motion for bail and temporary pretrial release, citing concerns about her sleep deprivation while incarcerated, which should be addressed directly to the District Court.",
+      "timestamp": "2020-12-28T00:00:00",
+      "timestamp_raw": "December 28, 2020",
+      "keywords": [
+        "efta00023011",
+        "ghislaine maxwell",
+        "united states court of appeals",
+        "second circuit",
+        "criminal case",
+        "bail appeal",
+        "18 u.s.c. § 3142(i)",
+        "united states v. maxwell"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021568",
+      "summary": "An email chain discusses redactions within a document, likely a legal filing related to a case. Specifically, the sender requests confirmation that redaction on page 117 has been completed and corrects a citation in the V.C.I section. A colleague is preparing a public, redacted version of a July deposition. The document is associated with the Southern District of New York United States Attorney’s office.",
+      "timestamp": "2021-02-27T00:00:00",
+      "timestamp_raw": "27 Feb 2021",
+      "keywords": [
+        "redaction",
+        "efta00021568",
+        "docket",
+        "second circuit",
+        "depo",
+        "edits",
+        "corrections",
+        "united states attorney",
+        "southern district of new york",
+        "february 26"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019088",
+      "summary": "This document is a collection of news articles from Law360, a legal news publication, covering a variety of legal cases and developments as of March 30, 2021. Key stories include: *   **Toyota Investigation:** Toyota is being investigated for possible bribery of Thai judges and government officials to overturn an import tax judgment. *   **Donziger Case:** The Second Circuit Court of Appeals rejected arguments to overturn Steven Donziger’s home confinement. *   **EDNY Resources:** The U.S. Attorney’s Office for the Eastern District of New York is increasing resources to combat anti-Asian hate crimes. *   **Supreme Court Cases:** Decisions were made regarding Hillary Clinton’s email case, Ghislaine Maxwell’s charges, and a request to hear a case involving a threat against a judge. *   **SEC Actions:** The SEC is seizing websites posing as COVID-19 vaccine makers and has taken action against former engine maker executives for accounting fraud. *   **Parnas Bail:** Bail conditions for Lev Parnas were relaxed amid selective prosecution claims. *   **Flynn Judge Threat:** A New York man pleaded guilty to threatening a judge overseeing the Michael Flynn case. *   **Weinstein Case:** A sexual assault case against Harvey Weinstein was paused to attempt mediation. *   **Various Other Cases:** Articles detail lawsuits involving Insys Therapeutics, Chevron, architectural firms, and disputes related to court access and intellectual property rights. *   **Industry News:** The document includes bonus announcements for BigLaw firms and a spotlight on Brad Caldwell's successful litigation strategy.",
+      "timestamp": "2021-03-30T00:00:00",
+      "timestamp_raw": "March 30, 2021",
+      "keywords": [
+        "toyota",
+        "bribery",
+        "thai judges",
+        "u.s. authorities",
+        "import tax",
+        "donziger",
+        "chevron",
+        "anti-asian hate crimes",
+        "clinton",
+        "email server",
+        "covid-19",
+        "ghislaine maxwell",
+        "epstein",
+        "parnas",
+        "flynn judge",
+        "weinstein",
+        "sec fraud",
+        "madoff funds",
+        "architectural bribery",
+        "pittsburgh court access",
+        "opioid scripts",
+        "insys therapeutics",
+        "health fraud",
+        "legal privilege",
+        "biglaw bonuses",
+        "brad caldwell",
+        "mcdonald's",
+        "facebook judge",
+        "california supreme court",
+        "imf",
+        "thomson reuters",
+        "ross intelligence"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032792",
+      "summary": "On April 19, 2021, an Assistant United States Attorney from the Southern District of New York contacted Brad Edwards and Brittany Henderson regarding Ghislaine Maxwell’s upcoming court appearances. An in-person arraignment was scheduled for April 23rd at 2:30 p.m. in courtroom 24B, and a remote oral argument for an appeal regarding her bail was scheduled for April 26th at 10 a.m., livestreamed via the Second Circuit Court’s website. The Assistant U.S. Attorney requested confirmation of Maxwell’s attendance and preferred method (in-person or phone) by April 20, 2021.",
+      "timestamp": "2021-04-19T00:00:00",
+      "timestamp_raw": "April 19, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states v.",
+        "scheduling order",
+        "court appearance",
+        "bail appeal",
+        "remote argument",
+        "docket sheet",
+        "usanys",
+        "april 23rd",
+        "april 26th"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00011050",
+      "summary": "The Office has two oral arguments in criminal cases scheduled before the Second Circuit this week (April 26-30, 2021), to be argued by phone/zoom.  The first argument, United States v. Ghislaine Maxwell, will be on Monday at 10:00 am and includes a ball appeal. Livestream access and briefs are available via hyperlinks.",
+      "timestamp": "2021-04-26T00:00:00",
+      "timestamp_raw": "26 Apr 2021",
+      "keywords": [
+        "efta00011050",
+        "second circuit",
+        "oral arguments",
+        "criminal cases",
+        "usanys",
+        "ghislaine maxwell",
+        "appeals",
+        "briefs",
+        "zoom",
+        "livestream"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027413",
+      "summary": "The Department of Justice’s USANYS office sent an email to various recipients regarding two oral arguments scheduled for the Second Circuit Court of Appeals this week (April 26-30, 2021). One argument is United States v. Ghislaine Maxwell, a bail appeal scheduled to begin at 10:00 am on Monday, April 26th. The arguments will be conducted via phone/zoom with a livestream available. Briefs for the cases are accessible through hyperlinks.",
+      "timestamp": "2021-04-26T00:00:00",
+      "timestamp_raw": "26 Apr 2021",
+      "keywords": [
+        "efta00027413",
+        "second circuit",
+        "usanys",
+        "oral arguments",
+        "criminal cases",
+        "ghislaine maxwell",
+        "bail appeal",
+        "briefs",
+        "april 26",
+        "2021",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029695",
+      "summary": "An email chain discusses Maxwell’s case, specifically a ruling regarding his confinement conditions rather than a bail order. David Markus intends to file a renewed motion for bond in the Second Circuit based on the Friday ruling. Maxwell’s attorney sent an email referencing the ruling and questioning the purpose of a potential new appeal.",
+      "timestamp": "2021-05-17T00:00:00",
+      "timestamp_raw": "17 May 2021",
+      "keywords": [
+        "maxwell",
+        "appeal",
+        "bail",
+        "confinement",
+        "judge nathan",
+        "second circuit",
+        "motion for bond",
+        "david oscar markus",
+        "markus/moss",
+        "efta00029695"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030767",
+      "summary": "Key highlights include: *   **Tiffany Cunningham’s Confirmation:** Perkins Coie partner Tiffany Cunningham was confirmed as the first Black judge on the U.S. Federal Circuit. *   **Various Litigation Updates:** Several ongoing lawsuits and legal proceedings were reported, including disputes related to Robinhood, Florida litigation, a murder threat case, and a lawsuit against the Department of Justice regarding access to justice units. *   **Regulatory Scrutiny:** The Consumer Financial Protection Bureau (CFPB) was facing scrutiny over overdraft fees and cryptocurrency issues, while the FCC was debating advertising ID rules. The Department of Energy was addressing energy cybersecurity threats. *   **Government Actions:** Congress was considering codifying the DOJ’s Office for Access to Justice, and the DOJ was pursuing wage-fixing charges. The FBI was investigating threats against a judge. *   **Corporate and Industry News:** Articles covered topics such as DoorDash and Grubhub lawsuits, Walmart’s hiring practices, Foley Hoag’s growth, and various tech companies’ legal challenges (Twitter, Facebook, Google). *   **International Trade:** The EU initiated a trade dispute with Russia over import substitution policies, and a deal was reached to quell trade tensions. *   **Other Legal Developments:** Several other legal cases and rulings were reported, including a dispute over a Colorado equal pay law, a settlement involving an HIV-positive immigrant, and a dismissal of a lawsuit against Jones Day.",
+      "timestamp": "2021-07-20T00:00:00",
+      "timestamp_raw": "July 20, 2021",
+      "keywords": [
+        "perkins coie",
+        "federal circuit",
+        "tiffany cunningham",
+        "biden",
+        "senate vote",
+        "patent litigator",
+        "contentious pick",
+        "second circuit",
+        "net worth",
+        "florida litigation",
+        "\"water wars",
+        "\" doj access to justice",
+        "robinhood",
+        "ny regulator",
+        "banking & securities",
+        "warren",
+        "cfpb",
+        "cryptocurrency",
+        "colonial pipeline",
+        "flynn judge",
+        "michael flynn",
+        "congress",
+        "code doj access to justice",
+        "efta00030767",
+        "law360",
+        "legal firms",
+        "ip attorney",
+        "public policy",
+        "california",
+        "tax",
+        "walmart",
+        "competition",
+        "doordash",
+        "grubhub",
+        "elizabeth warren",
+        "energy & environmental",
+        "cybersecurity",
+        "colonial pipeline hack",
+        "healthcare",
+        "fda",
+        "media & entertainment",
+        "twitter",
+        "garland",
+        "press freedom",
+        "big tech",
+        "employment & benefits",
+        "nassar",
+        "fbi",
+        "outten & golden",
+        "perkins coie",
+        "bank overdraft fees",
+        "russian currency pact",
+        "ghislaine maxwell",
+        "illinois pot biz",
+        "colorado equal pay law",
+        "medicare payment advisory commission",
+        "legal industry",
+        "girardi",
+        "texas bar",
+        "mass aclu",
+        "job listings"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023413",
+      "summary": "An Assistant United States Attorney forwarded a draft Q&A regarding Paul Kane, including questions related to Second Circuit case law concerning the admissibility of records maintained by a company but not created by it, specifically referencing *United States v. Kuthuru* (665 F. App'x 34, 39 (2d Cir. 2016)). The questions focus on situations where witnesses attest to the records' integration into the company's operations and reliance in daily operations.",
+      "timestamp": "2021-12-14T00:00:00",
+      "timestamp_raw": "14 Nov 2021",
+      "keywords": [
+        "efta00023413",
+        "paul kane",
+        "q&a",
+        "second circuit",
+        "records",
+        "business records",
+        "hearsay",
+        "kuthuru",
+        "pcs",
+        "united states attorney"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031257",
+      "summary": "An email chain discusses a Paul Kane Q&A document related to a case involving Besselsen and Matt. One email suggests adjusting questions to account for differences in record-keeping practices between 1997 and present. Another email highlights questions regarding the reading aloud of identifying information for MV1, requiring adjustments for the open record. The Q&A draft incorporates legal references to Second Circuit cases concerning admissible business records maintained by entities without directly creating them.",
+      "timestamp": "2021-12-29T00:00:00",
+      "timestamp_raw": "29 Nov 2021",
+      "keywords": [
+        "paul kane",
+        "q&a",
+        "record keeping",
+        "hearsay",
+        "besselsen",
+        "matt",
+        "mv1",
+        "second circuit",
+        "united states v. kuthuru",
+        "business records"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032349",
+      "summary": "Key highlights include: *   **Second Circuit Ruling:** The Second Circuit Court of Appeals ruled that the \"McDonnell\" ruling (regarding U.S. FCPA prosecutions) does not apply broadly to corruption cases, affirming a conviction of a Chinese developer for bribing UN officials. *   **Various Legal Cases:** Several significant legal cases are reported on, including: *   A former KPMG accountant sentenced for theft of confidential inspection plans. *   A New York Times defamation lawsuit against Joe Arpaio dismissed. *   The investigation into Jeffrey Epstein’s death and related documents. *   A charity accused of Iran sanctions violations receiving a new trial. *   Cisco’s $8.6 million settlement over cybersecurity flaws. *   Intellectual property disputes involving Humvee and \"Call of Duty,\" and a lawsuit by NBA star Giannis Antetokounmpo. *   **Judicial Concerns:**  A judge expressed frustration with attacks on the judiciary and urged for more aggressive action. *   **Industry News:** The document covers trends within the legal profession, such as growth in certain firms (Eversheds Sutherland), discussions around lawyer well-being, and developments in areas like cannabis law and tech privacy. *   **Job Postings:**  A list of job openings within various law firms and legal fields is also included. Essentially, it's a snapshot of key legal developments and trends as reported by Law360 at the time of publication (December 26, 2025).",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "un bribery",
+        "mcdonnell",
+        "foreign corrupt practices act",
+        "fcpa",
+        "second circuit",
+        "corruption prosecution",
+        "chinese real estate developer",
+        "kpmg",
+        "tax evasion",
+        "arpaio defamation suit",
+        "jeffrey epstein",
+        "sec",
+        "cybersecurity",
+        "data breach",
+        "intellectual property",
+        "trademark lawsuit",
+        "\"call of duty",
+        "\" greek freak",
+        "parody",
+        "copyright infringement",
+        "securities fraud",
+        "white collar crime",
+        "judicial independence",
+        "cyber security & privacy",
+        "delta airlines",
+        "cyber security",
+        "legal industry",
+        "attorney well-being",
+        "legal access",
+        "extradition",
+        "pro publica",
+        "corporate news",
+        "cannabis",
+        "tech giants",
+        "litigation funding",
+        "attorney jobs"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025551",
+      "summary": "The United States Court of Appeals for the Second Circuit denied Ghislaine Maxwell’s motion for pretrial release and her request for the court to remand the matter for an evidentiary hearing regarding her confinement conditions. The Government opposed both requests.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "united states court of appeals",
+        "second circuit",
+        "ghislaine maxwell",
+        "pretrial release",
+        "order",
+        "docket nos.",
+        "defendant",
+        "united states of america",
+        "motion",
+        "denied"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032388",
+      "summary": "The appeal numbered 19-2221-cr regarding Jeffrey Epstein is dismissed with prejudice by agreement of the parties. Costs, expenses, and fees are not recoverable. The stipulation was executed on August 2019 by Reid Weingarten and Martin G. Weinberg representing Jeffrey Epstein and the United States of America, respectively.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "epstein",
+        "jeffrey",
+        "united states court of appeals",
+        "second circuit",
+        "appeal",
+        "dismissal",
+        "united states of america",
+        "defendant-appellant",
+        "plaintiff-appellee",
+        "federal rule of appellate procedure"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025392",
+      "summary": "It covers a wide range of legal topics including criminal justice (Sheldon Silver’s prison sentence), legal practice trends (flexible work arrangements, arbitration), regulatory actions (EPA, SEC), court decisions (Second Circuit upholding Turkish banker conviction, 5Pointz case), legislative developments (65 new federal judgeships), and various legal disputes involving companies like WeWork, Textron, Coca-Cola, and Ford. Several notable cases are highlighted, including the shooting of a judge’s son, challenges to transgender health protections, and disputes over intellectual property. The document also includes announcements regarding new general counsel appointments and legal developments impacting the legal industry (expert witness lawsuits, appointment of immigration judges). Finally, it includes a survey on judicial views on systemic racism and information about job listings and a legal industry publication.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "sheldon silver",
+        "prison term",
+        "covid-19",
+        "remote work",
+        "fox news",
+        "harassment lawsuit",
+        "turkish banker",
+        "u.s. sanctions",
+        "billions",
+        "federal judgeships",
+        "transgender health protections",
+        "5pointz",
+        "environmental dumping",
+        "coal lease ban",
+        "wework arbitration",
+        "sec sanctions",
+        "textron buy",
+        "false claims act",
+        "bankruptcy",
+        "defamation suit",
+        "judicial security",
+        "bar exam",
+        "systemic racism",
+        "expert witness",
+        "avenatti",
+        "immigration judges",
+        "immigration restrictions",
+        "levi & korsinsky",
+        "immigration judges"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032913",
+      "summary": "Key stories include: *   **DOJ vs. Gizmodo:** The U.S. Department of Justice successfully defended its refusal to confirm or deny records related to alleged Trump wiretap investigations, a ruling against Gizmodo Media Group. *   **Various Legal Cases:** Several other legal cases are reported on, including a former Long Island councilman’s tax evasion plea, a Geico appraisal dispute, a New York law firm’s debt collection practices, a speech or debate clause case against Rep. Christopher Collins, a fraud case involving Rakoff, a proposed class action against Arizona tea, and intellectual property disputes (Pinduoduo, TeeFLii, etc.). *   **Law Firm Activity:** The document includes updates on law firm activity, such as personnel changes (attorneys joining or leaving firms), and mentions of specific law firms (Aaronson Rappaport, Abrams Fensterman, etc.) involved in the cases. *   **Regulatory Actions:** There are reports on regulatory actions, including the SEC, FTC, and various state agencies. *   **Judicial Decisions & Disputes:** Several court rulings and disputes are covered, including the Second Circuit reviving a Mexican citizen’s deportation case, and challenges to judicial nominees. *   **Job Postings**: A small section lists several job openings with law firms, highlighting various legal specializations. The document appears to be a snapshot of legal news delivered via Law360’s platform.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "doj",
+        "gizmodo",
+        "wiretap",
+        "trump",
+        "judge",
+        "tax evasion",
+        "appraisal",
+        "geico",
+        "debt collection",
+        "collins",
+        "insider trading",
+        "new york",
+        "securities",
+        "fraud",
+        "ginseng",
+        "intellectual property",
+        "pinduoduo",
+        "copyright",
+        "arbitration",
+        "employment",
+        "wta",
+        "mlb",
+        "competition",
+        "forex",
+        "bankruptcy",
+        "sizmek",
+        "litigation",
+        "legal industry",
+        "kavanaugh",
+        "bias suit",
+        "weinstein",
+        "college admissions",
+        "jobs",
+        "attorney"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00011096",
+      "summary": "The motion is based on the extensive pretrial publicity surrounding the case – specifically, the notoriety of both Ghislaine Maxwell and Jeffrey Epstein – and the resulting heightened likelihood of juror bias. Key points include: *   **Pretrial Publicity:**  A massive amount of media coverage (newspapers, magazines, TV, streaming services, podcasts, social media) has exposed potential jurors to information about the case, Epstein, and Maxwell, potentially creating preconceptions. *   **Sensitivity of Charges:** The charges relate to serious sexual abuse allegations, increasing the sensitivity of the case and the potential for jurors to be influenced. *   **Limitations of Standard Voir Dire:** The team argues that standard, court-conducted voir dire is insufficient to address this level of publicity and bias. *   **Need for Expanded Voir Dire:** They request individual sequestered voir dire and limited counsel questioning to maximize the chances of identifying and overcoming potential juror bias. *   **Attorneys’ Role:** They believe attorneys are best positioned to probe jurors' attitudes and perceptions due to their knowledge of the case and their ability to elicit honest responses. *   **Legal Basis:** The motion cites relevant Second Circuit case law, emphasizing the importance of juror impartiality and the court's discretion to utilize expanded voir dire procedures in cases with significant pretrial publicity.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "voir dire",
+        "pretrial publicity",
+        "bias",
+        "juror",
+        "sequestration",
+        "media coverage",
+        "prejudice",
+        "challenges",
+        "evidence",
+        "questioning"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028047",
+      "summary": "This is an oral argument statement form for the United States Court of Appeals for the Second Circuit. It outlines the process for requesting oral argument in a case, including deadlines for submission, criteria for requesting argument (dependent on other party requests), and procedures regarding attorney availability and updates. The form requires information about the party requesting argument, the attorney who will present it, and any dates of unavailability.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "united states court",
+        "appeals",
+        "redaction analysis",
+        "oral argument",
+        "legal form",
+        "court rules",
+        "motion to postpone",
+        "availability",
+        "briefs",
+        "efta00028047"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    }
+  ]
+}

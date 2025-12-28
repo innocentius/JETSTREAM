@@ -1,0 +1,1097 @@
+{
+  "keyword": "taspd",
+  "count": 25,
+  "keyword_match_count": 25,
+  "content_match_count": 4,
+  "total_files": 29,
+  "timeline": [
+    {
+      "file_id": "EFTA00037731",
+      "summary": "On April 27, 2019, at 10:36:08 EDT, a query was initiated through the CBP Person Lookout Query system (P3N06596100A01) regarding Jeffrey Epstein, MI: . The query originated from the TASPD consumer and requestor, and was conducted at the CBP-Reston, Nail Targeting Center.",
+      "timestamp": "2019-04-27T00:00:00",
+      "timestamp_raw": "April 27, 2019",
+      "keywords": [
+        "efta00037731",
+        "epstein",
+        "jeffrey",
+        "cbp",
+        "person lookout query",
+        "query",
+        "tecsid",
+        "redaction analysis",
+        "fbi",
+        "taspd"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00037721",
+            "similarity": 0.667,
+            "index": 3,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037713",
+            "similarity": 0.538,
+            "index": 8,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037190",
+            "similarity": 0.667,
+            "index": 17,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037729",
+      "summary": "On April 28, 2019, at 11:44:11 EDT, Jeffrey Epstein was viewed by a user named TASPD via the Person Lookout Query system. The query originated from the Newark International Terminal, C location, using the TECSID EFTA00037729 as criteria. The subject was flagged as a \"SUBJ QUERY HIT.\"",
+      "timestamp": "2019-04-28T00:00:00",
+      "timestamp_raw": "April 28, 2019",
+      "keywords": [
+        "efta00037729",
+        "jeffrey epstein",
+        "taspd",
+        "person lookout query",
+        "query hit",
+        "newark",
+        "edt",
+        "tecsid",
+        "redaction analysis",
+        "lookup"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00037728",
+            "similarity": 0.5,
+            "index": 2,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037728",
+      "summary": "A query was initiated on May 5, 2019, at 3:21 PM EDT, regarding Jeffrey Epstein, MI, accessed at the Newark International Terminal, Terminal C. The query originated from the TASPD consumer and requestor, using the TECSID EFTA00037728 as criteria. The user viewed the record from a “hit list” within a Person Lookout Query service.",
+      "timestamp": "2019-05-05T00:00:00",
+      "timestamp_raw": "May 5, 2019",
+      "keywords": [
+        "efta00037728",
+        "jeffrey epstein",
+        "person lookout query",
+        "taspd",
+        "tecsid",
+        "redaction analysis",
+        "newark",
+        "intl ap terminal",
+        "query hit",
+        "eastern time",
+        "consumer request"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037729",
+            "similarity": 0.5,
+            "index": 1,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00037720",
+            "similarity": 0.5,
+            "index": 5,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037721",
+      "summary": "On June 10, 2019, a query was initiated through the Person Lookout Query system, referencing record EFTA00037721. The query involved the subject Jeffrey Epstein, MI: , originating from the TASPD consumer and requestor. The view of this record occurred at CBP-HQ, OFO NAIL TARGETING CTR, at 12:46:49 EDT 2019.",
+      "timestamp": "2019-06-10T00:00:00",
+      "timestamp_raw": "June 10, 2019",
+      "keywords": [
+        "efta00037721",
+        "epstein",
+        "jeffrey",
+        "cbp",
+        "fbi",
+        "query",
+        "redaction",
+        "person lookout query",
+        "tecsid",
+        "taspd"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037731",
+            "similarity": 0.667,
+            "index": 0,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00037719",
+            "similarity": 0.538,
+            "index": 4,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037715",
+            "similarity": 0.538,
+            "index": 6,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037190",
+            "similarity": 0.538,
+            "index": 17,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037719",
+      "summary": "On June 11, 2019, an FBI user from CBP-HQ, OFO NAIL TARGETING CTR, accessed a record for Jeffrey Epstein through the Person Lookout Query system. The query originated from TASPD with the TECSID EFTA00037719.",
+      "timestamp": "2019-06-11T00:00:00",
+      "timestamp_raw": "June 11, 2019",
+      "keywords": [
+        "efta00037719",
+        "jeffrey epstein",
+        "cbp",
+        "fbi",
+        "query",
+        "person lookout query",
+        "taspd",
+        "tecsid",
+        "redaction",
+        "hit list"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037721",
+            "similarity": 0.538,
+            "index": 3,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037720",
+      "summary": "On June 11, 2019, at 12:25:43 AM (UTC-05:00), Jeffrey Epstein accessed a record identified by EFTA00037720 through the Person Lookout Query service, originating from TASPD. The access occurred from Los Angeles, term IS, and was based on TECSID query criteria.",
+      "timestamp": "2019-06-11T00:00:00",
+      "timestamp_raw": "June 11, 2019",
+      "keywords": [
+        "efta00037720",
+        "jeffrey epstein",
+        "taspd",
+        "person lookout query",
+        "query hit",
+        "redaction analysis",
+        "tecsid",
+        "los angeles",
+        "eastern time",
+        "query"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037728",
+            "similarity": 0.5,
+            "index": 2,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037715",
+      "summary": "A query was initiated on record P3N06596100A01 (Jeffrey Epstein, MI: ) on June 19, 2019, at 11:45:41 EDT, originating from the TASPD consumer and requestor. The query was conducted from the USM-ARLINGTON, INTELLIGENCE location.",
+      "timestamp": "2019-06-19T00:00:00",
+      "timestamp_raw": "June 19, 2019",
+      "keywords": [
+        "efta00037715",
+        "cbp",
+        "epstein",
+        "jeffrey",
+        "query",
+        "p3n06596100a01",
+        "taspd",
+        "tecsid",
+        "redaction",
+        "usm-arlington"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037721",
+            "similarity": 0.538,
+            "index": 3,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00037190",
+            "similarity": 0.538,
+            "index": 17,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00036981",
+            "similarity": 0.667,
+            "index": 19,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00036977",
+            "similarity": 0.538,
+            "index": 21,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037714",
+      "summary": "On July 1, 2019, at 13:24:25 EDT, the FBI user TASPD accessed record P3N06596100A01, pertaining to Jeffrey Epstein, at JFK Airport Terminal 3 in New York. The access was initiated through a Person Lookout Query based on the criteria TECSID: P3N06596100A01.",
+      "timestamp": "2019-07-01T00:00:00",
+      "timestamp_raw": "July 1, 2019",
+      "keywords": [
+        "efta00037714",
+        "jeffrey epstein",
+        "p3n06596100a01",
+        "fbi",
+        "new york",
+        "jfk airport",
+        "person lookout query",
+        "query hit",
+        "redaction analysis",
+        "tecsid"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037713",
+      "summary": "On July 2, 2019, at 12:35:29 EDT, a query was initiated through the Person Lookout Query system regarding record P3N06596100A01, concerning Jeffrey Epstein, MI: , accessed from New York JFK Airport, Terminal 4. The query was conducted by TASPD.",
+      "timestamp": "2019-07-02T00:00:00",
+      "timestamp_raw": "July 2, 2019",
+      "keywords": [
+        "efta00037713",
+        "epstein",
+        "jeffrey",
+        "cbp",
+        "jfk airport",
+        "person lookout query",
+        "query hit",
+        "redaction analysis",
+        "taspd",
+        "tecsid"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037731",
+            "similarity": 0.538,
+            "index": 0,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00037190",
+            "similarity": 0.538,
+            "index": 17,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037740",
+      "summary": "A query was conducted on August 15, 2019, at 16:37:28 EDT, originating from the TASPD consumer request and accessed by a user from the CBP-HQ, OFO NAIL TARGETING CTR. The record viewed was for Jeffrey Epstein, with the query criteria using the EFTA00037740 identifier. The query originated from the Person Lookout Query service.",
+      "timestamp": "2019-08-15T00:00:00",
+      "timestamp_raw": "August 15, 2019",
+      "keywords": [
+        "efta00037740",
+        "epstein",
+        "jeffrey",
+        "taspd",
+        "query",
+        "redaction",
+        "cbp-hq",
+        "ofo nail targeting ctr",
+        "tecsid",
+        "lookout query"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00037747",
+            "similarity": 0.538,
+            "index": 24,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037209",
+      "summary": "A CBP (Customs and Border Protection) inquiry was initiated regarding record P3O92965500A01, pertaining to Ghislaine Maxwell. The query originated from the Person Lookout Query system, conducted by TASPD, on December 13, 2019, at 09:22:08 EST from the CIS-WASH DC location.",
+      "timestamp": "2019-12-13T00:00:00",
+      "timestamp_raw": "December 13, 2019",
+      "keywords": [
+        "efta00037209",
+        "cbp",
+        "query hit",
+        "p3o92965500a01",
+        "maxwell",
+        "gislaire maxwell",
+        "person lookout query",
+        "tecsid",
+        "taspd",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00036974",
+            "similarity": 0.538,
+            "index": 28,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037205",
+      "summary": "On January 24, 2020, at 16:07:19 EST, a query related to record P3O92965500A01 (Ghislaine Maxwell, JFK Airport, Term 4) was accessed by the user TASPD. The query originated from the Person Lookout Query service.",
+      "timestamp": "2020-01-24T00:00:00",
+      "timestamp_raw": "January 24, 2020",
+      "keywords": [
+        "efta00037205",
+        "maxwell",
+        "gislaeine",
+        "p3o92965500a01",
+        "query",
+        "person lookout",
+        "tecsid",
+        "new york",
+        "jfk airport",
+        "fbi"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037206",
+      "summary": "On February 2, 2020, at 9:24:31 AM EST, a query related to record P3O92965500A01 (Ghislaine Maxwell, JFK Airport, Term 4) was accessed by the user TASPD. The query originated from Person Lookout Query and was initiated by the FBI.",
+      "timestamp": "2020-02-02T00:00:00",
+      "timestamp_raw": "February 2, 2020",
+      "keywords": [
+        "efta00037206",
+        "maxwell",
+        "gislaire",
+        "p3o92965500a01",
+        "query",
+        "redaction",
+        "person lookout query",
+        "tecsid",
+        "new york",
+        "jfk airport"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00037204",
+            "similarity": 0.667,
+            "index": 13,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037202",
+            "similarity": 0.538,
+            "index": 14,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00036985",
+            "similarity": 0.538,
+            "index": 27,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037204",
+      "summary": "On February 24, 2020, at 13:38:51 EST, a query was initiated using Person Lookout Query with criteria TECSID: P3O92965500A01. The record viewed was for Ghislaine Maxwell, originating from the TASPD consumer request and accessed at JFK Airport, Terminal 4, New York.",
+      "timestamp": "2020-02-24T00:00:00",
+      "timestamp_raw": "February 24, 2020",
+      "keywords": [
+        "efta00037204",
+        "maxwell",
+        "gislaire",
+        "query",
+        "p3o92965500a01",
+        "person lookout query",
+        "tecsid",
+        "new york",
+        "jfk airport",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037206",
+            "similarity": 0.667,
+            "index": 12,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00036985",
+            "similarity": 0.667,
+            "index": 27,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037202",
+      "summary": "On June 22, 2020, at 18:17:26 EDT, a CBP user accessed record P3O92965500A01 for Ghislaine Maxwell at JFK Airport, Terminal 4, via the Person Lookout Query. The query originated from TASPD, and the requestor was also TASPD.",
+      "timestamp": "2020-06-22T00:00:00",
+      "timestamp_raw": "June 22, 2020",
+      "keywords": [
+        "efta00037202",
+        "maxwell",
+        "gislaire",
+        "cbp",
+        "jfk airport",
+        "query",
+        "redaction",
+        "person lookout query",
+        "taspd",
+        "tecsid"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037206",
+            "similarity": 0.538,
+            "index": 12,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00036985",
+            "similarity": 0.538,
+            "index": 27,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037194",
+      "summary": "A query was initiated on record P3O92965500A01, pertaining to Ghislaine Maxwell, on July 6, 2020, at 16:31:08 EDT. The query originated from the Person Lookout Query service, conducted by TASPD, and was accessed from CIS-WASH DC and CIS HQ FDNS.",
+      "timestamp": "2020-07-06T00:00:00",
+      "timestamp_raw": "July 6, 2020",
+      "keywords": [
+        "efta00037194",
+        "p3o92965500a01",
+        "maxwell",
+        "gislaire",
+        "query",
+        "person lookout",
+        "taspd",
+        "tecsid",
+        "redaction",
+        "cis-wash dc"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037191",
+      "summary": "A query was conducted on record EFTA00037191 involving consumer Ghislaine Maxwell, accessed on July 19, 2020, at 22:01:13 EDT from the ICE-SAVANNAH, RAC location via the Person Lookout Query service, utilizing TECSID query criteria. The query was initiated by TASPD and sent to [REDACTED] from [REDACTED].",
+      "timestamp": "2020-07-19T00:00:00",
+      "timestamp_raw": "July 19, 2020",
+      "keywords": [
+        "efta00037191",
+        "maxwell",
+        "gislaire",
+        "query",
+        "tecsid",
+        "person lookout",
+        "ice-savannah",
+        "rac",
+        "redaction analysis",
+        "taspd"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037190",
+      "summary": "On September 4, 2020, at 10:35:20 EDT, a user from TASPD accessed record P3N06596100A01, pertaining to Jeffrey Epstein, through a Person Lookout Query. The query originated from the CBP (Customs and Border Protection) and was conducted at HQ-NEWINGTON.",
+      "timestamp": "2020-09-04T00:00:00",
+      "timestamp_raw": "September 4, 2020",
+      "keywords": [
+        "efta00037190",
+        "redaction analysis",
+        "cbp",
+        "epstein",
+        "jeffrey",
+        "p3n06596100a01",
+        "query",
+        "person lookout query",
+        "taspd",
+        "tecsid"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037713",
+            "similarity": 0.538,
+            "index": 8,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037715",
+            "similarity": 0.538,
+            "index": 6,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037721",
+            "similarity": 0.538,
+            "index": 3,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00037189",
+            "similarity": 0.538,
+            "index": 18,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00036981",
+            "similarity": 0.667,
+            "index": 19,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00036978",
+            "similarity": 0.667,
+            "index": 20,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037189",
+      "summary": "On November 22, 2020, at 17:17:31 EST, CBP personnel at the CBP-FT Lauderdale International Apt T4 viewed record P3N06596100A01, pertaining to Jeffrey Epstein, originating from a Person Lookout Query. The query was initiated by TASPD and used TECSID P3N06596100A01 as the criteria.",
+      "timestamp": "2020-11-22T00:00:00",
+      "timestamp_raw": "November 22, 2020",
+      "keywords": [
+        "efta00037189",
+        "cbp",
+        "epstein",
+        "jeffrey",
+        "query",
+        "p3n06596100a01",
+        "taspd",
+        "redaction analysis",
+        "est",
+        "ft lauderdale"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037190",
+            "similarity": 0.538,
+            "index": 17,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00036978",
+            "similarity": 0.667,
+            "index": 20,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00036979",
+            "similarity": 0.667,
+            "index": 23,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00036981",
+      "summary": "On March 9, 2021, at 11:30:09 AM EST, a CBP user from the Person Lookout Query accessed record P3N06596100A01, pertaining to Jeffrey Epstein’s information, from the CBP-Reston Nail Targeting Center. The query originated from TASPD and used the TECSID P3N06596100A01 as criteria.",
+      "timestamp": "2021-03-09T00:00:00",
+      "timestamp_raw": "March 9, 2021",
+      "keywords": [
+        "efta00036981",
+        "cbp",
+        "epstein",
+        "jeffrey",
+        "query",
+        "redaction",
+        "taspd",
+        "person lookout query",
+        "tecsid",
+        "p3n06596100a01"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037190",
+            "similarity": 0.667,
+            "index": 17,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037715",
+            "similarity": 0.667,
+            "index": 6,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037721",
+            "similarity": 0.667,
+            "index": 3,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00036978",
+            "similarity": 0.538,
+            "index": 20,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00036977",
+            "similarity": 0.538,
+            "index": 21,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00036979",
+            "similarity": 0.538,
+            "index": 23,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00036978",
+      "summary": "On March 9, 2021, at 12:34:19 EST, CBP user from the Nail Targeting Center (CBP-RESTON) accessed record P3N06596100A01, pertaining to Jeffrey Epstein (MI:), via a Person Lookout Query initiated by TASPD. The query criteria were TECSID: P3N06596100A01.",
+      "timestamp": "2021-03-09T00:00:00",
+      "timestamp_raw": "March 9, 2021",
+      "keywords": [
+        "efta00036978",
+        "cbp",
+        "epstein",
+        "jeffrey",
+        "query",
+        "p3n06596100a01",
+        "redaction analysis",
+        "taspd",
+        "person lookout query",
+        "est"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00036981",
+            "similarity": 0.538,
+            "index": 19,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037189",
+            "similarity": 0.667,
+            "index": 18,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037190",
+            "similarity": 0.667,
+            "index": 17,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00036979",
+            "similarity": 0.818,
+            "index": 23,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00036977",
+      "summary": "On March 9, 2021, at 12:50:09 EST, CBP personnel at the CBP-RESTON, NAIL TARGETING CTR viewed record P3N06596100A01, pertaining to Jeffrey Epstein, MI: . The query originated from the Person Lookout Query, with Consumer and Requestor identified as TASPD.",
+      "timestamp": "2021-03-09T00:00:00",
+      "timestamp_raw": "March 9, 2021",
+      "keywords": [
+        "efta00036977",
+        "cbp",
+        "epstein",
+        "jeffrey",
+        "query",
+        "p3n06596100a01",
+        "taspd",
+        "redaction",
+        "lookout query",
+        "reston"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00036981",
+            "similarity": 0.538,
+            "index": 19,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037715",
+            "similarity": 0.538,
+            "index": 6,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00037747",
+            "similarity": 0.667,
+            "index": 24,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00036980",
+      "summary": "On March 9, 2021, at 11:17:30 EST, Ghislaine Maxwell was accessed through a query by TASPD at the CBP-RESTON Nail Targeting Center using the TECSID: EFTA00036980 criteria. The access was initiated by the Person Lookout Query service.",
+      "timestamp": "2021-03-09T00:00:00",
+      "timestamp_raw": "March 9, 2021",
+      "keywords": [
+        "efta00036980",
+        "maxwell",
+        "gislaire",
+        "taspd",
+        "cbp-reston",
+        "nail targeting ctr",
+        "query",
+        "redaction analysis",
+        "tecsid",
+        "person lookout query"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00036985",
+            "similarity": 0.538,
+            "index": 27,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00036979",
+      "summary": "On March 9, 2021, at 12:32 PM EST, a CBP user accessed record P3N06596100A01, pertaining to Jeffrey Epstein, via a Person Lookout Query originating from TASPD. The access occurred at the CBP-Reston Nail Targeting Center. The query criteria used were TECSID: P3N06596100A01.",
+      "timestamp": "2021-03-09T00:00:00",
+      "timestamp_raw": "March 9, 2021",
+      "keywords": [
+        "efta00036979",
+        "cbp",
+        "p3n06596100a01",
+        "epstein",
+        "jeffrey",
+        "taspd",
+        "redaction analysis",
+        "query",
+        "person lookout query",
+        "est"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00036978",
+            "similarity": 0.818,
+            "index": 20,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00036981",
+            "similarity": 0.538,
+            "index": 19,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037189",
+            "similarity": 0.667,
+            "index": 18,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037747",
+      "summary": "On March 16, 2021, at 12:30:51 EDT, the CBP-Reston Nail Targeting Center viewed record P3N06596100A01, pertaining to Jeffrey Epstein, through a Person Lookout Query initiated by TASPD. The query criteria used were TECSID: P3N06596100A01.",
+      "timestamp": "2021-03-16T00:00:00",
+      "timestamp_raw": "March 16, 2021",
+      "keywords": [
+        "efta00037747",
+        "cbp",
+        "epstein",
+        "jeffrey",
+        "taspd",
+        "query",
+        "redaction",
+        "p3n06596100a01",
+        "tecsid",
+        "lookout query"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00036977",
+            "similarity": 0.667,
+            "index": 21,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00036981",
+            "similarity": 0.667,
+            "index": 19,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037190",
+            "similarity": 0.538,
+            "index": 17,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00036984",
+            "similarity": 0.538,
+            "index": 26,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037746",
+      "summary": "On April 2, 2021, at 3:04 PM EDT, a user named Ghislaine Maxwell accessed record EFTA00037746 through a Person Lookout Query initiated by TASPD. The access occurred at CBP-HQ, OFO NAIL TARGETING CTR, using TECSID criteria.",
+      "timestamp": "2021-04-02T00:00:00",
+      "timestamp_raw": "April 2, 2021",
+      "keywords": [
+        "efta00037746",
+        "maxwell",
+        "gislaire",
+        "taspd",
+        "cbp-hq",
+        "ofo nail targeting ctr",
+        "query",
+        "redaction",
+        "external email",
+        "tecsid"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036984",
+      "summary": "On June 30, 2021, at 14:42:49 EDT, CBP personnel accessed record P3N06596100A01, pertaining to Jeffrey Epstein (MI:), from the CBP-BUFFALO, PEACE BRIDGE location. The access was initiated through a Person Lookout Query, originating from TASPD, with the query criteria TECSID: P3N06596100A01.  The email was sent from donotreply@cbp.dhs.gov.",
+      "timestamp": "2021-06-30T00:00:00",
+      "timestamp_raw": "June 30, 2021",
+      "keywords": [
+        "efta00036984",
+        "cbp",
+        "epstein",
+        "jeffrey",
+        "query",
+        "p3n06596100a01",
+        "taspd",
+        "tecsid",
+        "buffalo",
+        "peace bridge"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037747",
+            "similarity": 0.538,
+            "index": 24,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00036981",
+            "similarity": 0.538,
+            "index": 19,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037190",
+            "similarity": 0.538,
+            "index": 17,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036985",
+      "summary": "On July 29, 2021, at 8:44 PM EDT, a user from TASPD accessed a record (P3O92965500A01) for Ghislaine Maxwell at JFK Airport, Terminal 4, New York. The access was initiated through the Person Lookout Query system using the TECSID P3O92965500A01.",
+      "timestamp": "2021-07-29T00:00:00",
+      "timestamp_raw": "July 29, 2021",
+      "keywords": [
+        "efta00036985",
+        "maxwell",
+        "gislaire",
+        "redaction analysis",
+        "query",
+        "p3o92965500a01",
+        "person lookout query",
+        "tecsid",
+        "jfk airport",
+        "taspd"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00036980",
+            "similarity": 0.538,
+            "index": 22,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037202",
+            "similarity": 0.538,
+            "index": 14,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037204",
+            "similarity": 0.667,
+            "index": 13,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036974",
+      "summary": "On March 4, 2025, at 6:19 PM EST, a user from TASPD accessed record P3O92965500A01 (Ghislaine Mi Maxwell) through the Person Lookout Query system at ICE-TALLAHASSEE, RAC. The query originated from donotreply@cbp.dhs.gov.",
+      "timestamp": "2025-03-04T00:00:00",
+      "timestamp_raw": "March 4, 2025",
+      "keywords": [
+        "efta00036974",
+        "cbp",
+        "person lookout query",
+        "redaction analysis",
+        "p3o92965500a01",
+        "gislaire maxwell",
+        "taspd",
+        "tecsid",
+        "ice-tallahassee",
+        "query"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037209",
+            "similarity": 0.538,
+            "index": 10,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    }
+  ]
+}

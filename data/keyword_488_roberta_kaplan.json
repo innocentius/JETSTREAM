@@ -1,0 +1,1146 @@
+{
+  "keyword": "roberta kaplan",
+  "count": 25,
+  "keyword_match_count": 25,
+  "content_match_count": 7,
+  "total_files": 32,
+  "timeline": [
+    {
+      "file_id": "EFTA00027912",
+      "summary": "The documents detail discussions surrounding a proposed compensation program for Epstein victims, spearheaded by Jordy Feldman, Ken Feinberg, and Camille Biros. Roberta Kaplan, representing a group of victims, expresses concerns that the Estate’s involvement—particularly the selection of the decision-makers—renders the program non-independent and insufficient to meet the needs of the plaintiffs. Kaplan proposes adding a fourth administrator chosen by the plaintiffs to ensure a truly independent process. Jordy Feldman responds, emphasizing the program’s voluntary and independent nature, outlining the drafting of a proposed protocol and inviting Kaplan’s input.  Magistrate Judge Freeman has instructed the parties to engage in good-faith discussions regarding the program's development, with a deadline of January 10, 2019, for an update.  The core issue revolves around ensuring the victims' voices and interests are adequately represented within the settlement process.",
+      "timestamp": "2019-01-10T00:00:00",
+      "timestamp_raw": "January 10, 2019",
+      "keywords": [
+        "epstein victims",
+        "compensation program",
+        "settlement",
+        "claims resolution",
+        "litigation",
+        "plaintiffs",
+        "estate",
+        "administrators",
+        "negotiation",
+        "judge freeman",
+        "sexual abuse",
+        "jeffrey epstein"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026681",
+      "summary": "Roberta Kaplan, representing a client, contacted multiple individuals, including Jenna Dabbs and Alexandra Elenowitz-Hess, regarding the Crime Victims' Rights Act (18 U.S.C. 3771(a)(4)) in the case of *U.S. v. Epstein*. Kaplan offered to have her client heard at a bail hearing and proposed various methods of communication, such as a submission or inclusion in a bail submission. She suggested a brief call to discuss the matter, noting her team’s travel schedule. An Assistant U.S. Attorney from the Southern District of New York sent a follow-up email emphasizing the confidential nature of the communication.",
+      "timestamp": "2019-07-10T00:00:00",
+      "timestamp_raw": "July 10, 2019",
+      "keywords": [
+        "epstein",
+        "victims' rights",
+        "bail hearing",
+        "crime victims' rights act",
+        "18 u.s.c. 3771",
+        "roberta kaplan",
+        "conlon",
+        "submissions",
+        "legal privilege"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00026677",
+            "similarity": 0.5,
+            "index": 3,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028355",
+            "similarity": 0.5,
+            "index": 5,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00026674",
+            "similarity": 0.6,
+            "index": 8,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00030276",
+      "summary": "An Assistant U.S. Attorney from the Southern District of New York contacted Roberta Kaplan and a team at Kaplan Hecker & Fink LLP regarding the bail hearing in *U.S. v. Epstein*. The Attorney informed the recipients that, under 18 U.S.C. 3771(a)(4) of the Crime Victims' Rights Act, the victim has the right to be reasonably heard at certain public proceedings, including those involving release. They offered to discuss this with the team and potentially include a submission or representation regarding the victim’s desired input in the bail hearing. The email also contained a standard confidentiality notice.",
+      "timestamp": "2019-07-11T00:00:00",
+      "timestamp_raw": "11 Jul 2019",
+      "keywords": [
+        "efta00030276",
+        "victims' rights",
+        "bail hearing",
+        "crime victims' rights act",
+        "18 u.s.c. 3771",
+        "roberta kaplan",
+        "u.s. v. epstein",
+        "southern district of new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00028421",
+            "similarity": 0.5,
+            "index": 4,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028355",
+            "similarity": 0.545,
+            "index": 5,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00026674",
+            "similarity": 0.5,
+            "index": 8,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00026677",
+      "summary": "An Assistant U.S. Attorney in the Southern District of New York sent an email regarding the U.S. v. Epstein case (19 Cr. 490). The email discussed the Crime Victims’ Rights Act (18 U.S.C. 3771(a)(4)) and the victim’s right to be reasonably heard at bail hearings. The Attorney offered to discuss with the recipients whether the client wished to submit a statement or representation for inclusion in the bail submission, emphasizing it was voluntary. The Attorney proposed a brief call to discuss this further, noting their limited availability due to team travel.",
+      "timestamp": "2019-07-11T00:00:00",
+      "timestamp_raw": "11 Jul 2019",
+      "keywords": [
+        "epstein",
+        "victims' rights",
+        "crime victims' rights act",
+        "bail hearing",
+        "roberta kaplan",
+        "u.s. attorney",
+        "18 u.s.c. 3771",
+        "submission",
+        "criminal proceedings"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00026681",
+            "similarity": 0.5,
+            "index": 1,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00028355",
+            "similarity": 0.636,
+            "index": 5,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00026683",
+            "similarity": 0.545,
+            "index": 6,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028354",
+            "similarity": 0.583,
+            "index": 7,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00028421",
+      "summary": "An Assistant U.S. Attorney from the Southern District of New York contacted Roberta Kaplan, Jenna Dabbs, and Alexandra Elenowitz-Hess regarding the bail hearing in *U.S. v. Epstein*. The Attorney explained that under 18 U.S.C. 3771(a)(4) of the Crime Victims’ Rights Act, victims have the right to be reasonably heard at certain public proceedings, including those involving release decisions. The Attorney offered to discuss whether the clients wished to submit information or representations for inclusion in the bail submission, noting their intention to vigorously oppose bail. A brief call was proposed for the following day to discuss this matter.",
+      "timestamp": "2019-07-11T00:00:00",
+      "timestamp_raw": "11 Jul 2019",
+      "keywords": [
+        "victims' rights",
+        "crime victims' rights act",
+        "bail hearing",
+        "18 u.s.c. 3771",
+        "u.s. attorney",
+        "release",
+        "southern district of new york",
+        "roberta kaplan",
+        "jenna dabbs",
+        "alexandra elenowitz-hess"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00030276",
+            "similarity": 0.5,
+            "index": 2,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00028355",
+            "similarity": 0.583,
+            "index": 5,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00026683",
+            "similarity": 0.636,
+            "index": 6,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00014324",
+            "similarity": 0.727,
+            "index": 9,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00028355",
+      "summary": "An Assistant U.S. Attorney from the Southern District of New York contacted Roberta Kaplan and others involved in the Epstein case regarding the Crime Victims' Rights Act (18 U.S.C. 3771(a)(4)). The Attorney offered to discuss with the victims (Kaplan, Dabbs, Elenowitz-Hess) the possibility of them being heard at a bail hearing and potentially submitting information for inclusion in a bail submission. The Attorney indicated their availability for a brief call to discuss this further, emphasizing that it was a voluntary offer and not a requirement. The email included a standard disclaimer regarding confidential information.",
+      "timestamp": "2019-07-11T00:00:00",
+      "timestamp_raw": "11 Jul 2019",
+      "keywords": [
+        "epstein",
+        "victims' rights",
+        "crime victims' rights act",
+        "bail hearing",
+        "roberta kaplan",
+        "u.s. attorney",
+        "southern district of new york",
+        "redaction analysis",
+        "18 u.s.c. 3771"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00028421",
+            "similarity": 0.583,
+            "index": 4,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00026677",
+            "similarity": 0.636,
+            "index": 3,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00030276",
+            "similarity": 0.545,
+            "index": 2,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00026683",
+            "similarity": 0.545,
+            "index": 6,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028354",
+            "similarity": 0.583,
+            "index": 7,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00026674",
+            "similarity": 0.6,
+            "index": 8,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00026683",
+      "summary": "An email chain discusses the Crime Victims’ Rights Act (18 U.S.C. 3771(a)(4)) in the case of *U.S. v. Epstein*. An Assistant U.S. Attorney is contacting individuals, including Roberta Kaplan, to explore whether the victims involved in the case would like to be heard at a bail hearing and to discuss including their input in the bail submission. The email emphasizes the victims’ right to be reasonably heard and offers to discuss the matter further. A standard confidentiality disclaimer is included.",
+      "timestamp": "2019-07-11T00:00:00",
+      "timestamp_raw": "11 Jul 2019",
+      "keywords": [
+        "epstein",
+        "victims' rights",
+        "crime victims' rights act",
+        "bail hearing",
+        "u.s. attorney",
+        "roberta kaplan",
+        "jenna dabbs",
+        "alexandra elenowitz-hess"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00028355",
+            "similarity": 0.545,
+            "index": 5,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028421",
+            "similarity": 0.636,
+            "index": 4,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00026677",
+            "similarity": 0.545,
+            "index": 3,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00028354",
+            "similarity": 0.5,
+            "index": 7,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00026674",
+            "similarity": 0.5,
+            "index": 8,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00014324",
+            "similarity": 0.889,
+            "index": 9,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00028354",
+      "summary": "An Assistant U.S. Attorney from the Southern District of New York contacted Roberta Kaplan, Jenna Dabbs, and Alexandra Elenowitz-Hess regarding the bail hearing in *U.S. v. Epstein*. The Attorney cited 18 U.S.C. 3771(a)(4) of the Crime Victims’ Rights Act, noting the victims’ right to be reasonably heard at public proceedings, particularly those involving release. They offered to include any victim input – through submission, representation in the bail submission, or discussion – and suggested a brief call to discuss this option. The Attorney indicated they would be available for a call the following day.",
+      "timestamp": "2019-07-11T00:00:00",
+      "timestamp_raw": "11 Jul 2019",
+      "keywords": [
+        "epstein",
+        "victims' rights",
+        "crime victims' rights act",
+        "bail hearing",
+        "roberta kaplan",
+        "u.s. attorney",
+        "southern district of new york",
+        "18 u.s.c. 3771(a)(4)",
+        "submission",
+        "proceedings"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00026683",
+            "similarity": 0.5,
+            "index": 6,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028355",
+            "similarity": 0.583,
+            "index": 5,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00026677",
+            "similarity": 0.583,
+            "index": 3,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026674",
+      "summary": "An email exchange occurred between various parties, including Roberta Kaplan (representing the victim), Alexandra Elenowitz-Hess, and Assistant U.S. Attorneys, concerning the bail hearing for Ghassan al-Epstein. The U.S. Attorney’s office, seeking to comply with the Crime Victims’ Rights Act (18 U.S.C. 3771(a)(4)), reached out to Kaplan to offer the victim the opportunity to be heard at the bail hearing, suggesting options like a submission or inclusion in the bail argument. The Assistant U.S. Attorney proposed a brief call to discuss this opportunity.",
+      "timestamp": "2019-07-11T00:00:00",
+      "timestamp_raw": "11 Jul 2019",
+      "keywords": [
+        "epstein",
+        "victims' rights",
+        "bail hearing",
+        "crime victims' rights act",
+        "roberta kaplan",
+        "u.s. v.",
+        "18 u.s.c. 3771"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00026683",
+            "similarity": 0.5,
+            "index": 6,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028355",
+            "similarity": 0.6,
+            "index": 5,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00026677",
+            "similarity": 0.6,
+            "index": 3,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00014324",
+            "similarity": 0.6,
+            "index": 9,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00014324",
+      "summary": "The document is a series of emails regarding the bail hearing for Ghislaine Maxwell’s case (U.S. v. Epstein). It involves communication between Roberta Kaplan (representing the victim), Jenna Dabbs, Alexandra Elenowitz-Hess, and an Assistant U.S. Attorney regarding the victim's rights under the Crime Victims' Rights Act. The Assistant U.S. Attorney offers to discuss options for the victim to be heard at the bail hearing, including submitting information or a representation, but emphasizes that it’s not a requirement. The emails suggest a desire to accommodate the victim’s rights while also maintaining flexibility regarding timing and participation.",
+      "timestamp": "2019-07-12T00:00:00",
+      "timestamp_raw": "12 Jul 2019",
+      "keywords": [
+        "epstein",
+        "victims' rights",
+        "bail hearing",
+        "roberta kaplan",
+        "crime victims' rights act",
+        "u.s. attorney",
+        "18 u.s.c. 3771",
+        "jenna dabbs",
+        "alexandra elenowitz-hess"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00026674",
+            "similarity": 0.6,
+            "index": 8,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00026683",
+            "similarity": 0.889,
+            "index": 6,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00028355",
+            "similarity": 0.636,
+            "index": 5,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028471",
+      "summary": "Roberta Kaplan, of Kaplan Hecker & Fink LLP, filed a response to two letters from Defendants in the case *Doe v. Indyke, et al., 1:19-cv-08673-KPF* on November 5, 2019. Kyla Magun, an associate at the firm, sent the response as an attachment to Judge Failla. The response addressed ECF 19 and 20.",
+      "timestamp": "2019-11-05T00:00:00",
+      "timestamp_raw": "November 5, 2019",
+      "keywords": [
+        "efta00028471",
+        "roberta kaplan",
+        "doe v. indyke",
+        "1:19-cv-08673-kpf",
+        "plaintiffs response",
+        "letter from r. kaplan",
+        "ecf 21",
+        "november 5",
+        "2019",
+        "jane doe",
+        "judge failla"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027881",
+      "summary": "The document consists of email exchanges between legal counsel regarding the estate of Jeffrey Epstein. Roberta Kaplan and Kaplan Hecker & Fink LLP are involved, along with Bennet Moskowitz of sanders, Andrew Villacastin of Boies Schiller Flexner LLP, Sigrid McCawley, Josh Schiller, Laura Starr, and others.  Attached documents include a letter from Moskowitz to S. McCawley regarding the estate and a separate communication from Villacastin to Moskowitz.  The emails pertain to legal matters related to the estate of Jeffrey Epstein.",
+      "timestamp": "2019-12-03T00:00:00",
+      "timestamp_raw": "December 3, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "roberta kaplan",
+        "estate",
+        "moskowitz",
+        "villacastin",
+        "andrew",
+        "bsfllp",
+        "litigation",
+        "redaction",
+        "legal"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021001",
+      "summary": "The document consists of email exchanges related to the estate of Jeffrey Epstein. Key individuals involved include Roberta Kaplan, Bennet Moskowitz, Andrew Villacastin, Sigrid McCawley, Julie Fink, Jordan Merson, and others associated with Boies Schiller Flexner LLP. The emails primarily involve the distribution of a letter concerning the estate and reference attachments related to the matter. There are redactions present in the document.",
+      "timestamp": "2019-12-10T00:00:00",
+      "timestamp_raw": "December 10, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "roberta kaplan",
+        "ben moskowitz",
+        "andrew villacastin",
+        "boies schiller flexner",
+        "redaction",
+        "legal",
+        "estate",
+        "litigation"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030438",
+      "summary": "Roberta Kaplan emailed Alex Conlon and inquired about a transcript of a conference, specifically noting Judge Failla’s reference to a potential “millions upon millions of dollars” claim and Robbie’s observation regarding the sole beneficiary of Mr. Epstein’s estate being his brother. Kaplan requested clarification on the estate’s communications regarding beneficiaries in relation to the will, trust, and estate. Alex Conlon attached the transcript to his email.",
+      "timestamp": "2019-12-12T00:00:00",
+      "timestamp_raw": "December 12, 2019",
+      "keywords": [
+        "efta00030438",
+        "alex conlon",
+        "roberta kaplan",
+        "transcript",
+        "conference",
+        "judge failla",
+        "mr. epstein",
+        "estate",
+        "trust",
+        "beneficiary"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019570",
+      "summary": "*   Alex Conlon sent a transcript of a conference appearance by Robbie (likely Robbie Kaplan) before Judge Freeman. *   The transcript reveals Robbie stated Mark Epstein is the beneficiary of the estate. *   Roberta Kaplan requested a prior transcript from Judge Freeman and found the Feinberg draft protocol unsatisfactory. *   A discussion arose regarding the identification of Mr. Epstein’s brother as the sole beneficiary, with questions about the estate’s representation concerning beneficiaries (will, trust, estate). *   Judge Failla’s questioning included assumptions of potential large punitive damages.",
+      "timestamp": "2019-12-13T00:00:00",
+      "timestamp_raw": "December 13, 2019",
+      "keywords": [
+        "epstein",
+        "mark",
+        "estate",
+        "beneficiary",
+        "transcript",
+        "judge freeman",
+        "feinberg",
+        "usvi",
+        "robbie",
+        "kaplan hecker & fink"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030439",
+      "summary": "On December 13, 2019, Kate Doniger, representing Kaplan Hecker & Fink LLP, sent a transcript from a conference to Alex Conlon and Roberta Kaplan. Attached were a draft protocol from Feinberg & Co., two documents filed by the Estate in the USVI, and a request for an immediate hearing regarding claims. Roberta Kaplan (Robbie) requested Alex to verify a transcript point regarding potential punitive damages and inquired about the estate’s identification of Mr. Epstein’s brother as the sole beneficiary, seeking clarification on discussions surrounding the will, trust, and estate. Alex Conlon then sent the transcript to the recipients.",
+      "timestamp": "2019-12-13T00:00:00",
+      "timestamp_raw": "December 13, 2019",
+      "keywords": [
+        "transcript",
+        "epstein",
+        "kaplan",
+        "feinberg",
+        "conference",
+        "protocol",
+        "claims",
+        "estate",
+        "beneficiary",
+        "motion",
+        "judge failla"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00019559",
+            "similarity": 0.5,
+            "index": 16,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00019559",
+      "summary": "Roberta Kaplan received a transcript of a conference discussion regarding a case, likely involving a beneficiary named Epstein. Bennet Moskowitz stated that Judge Failla believed a claim for “millions upon millions of dollars” existed. A draft protocol from Feinberg was deemed unfavorable. A question was raised about the estate’s representation regarding the sole beneficiary’s brother, with a request for clarification regarding discussions relating to the will, trust, or estate. The email also included standard legal disclaimers regarding confidential information.",
+      "timestamp": "2019-12-13T00:00:00",
+      "timestamp_raw": "December 13, 2019",
+      "keywords": [
+        "kaplan",
+        "transcript",
+        "conference",
+        "feinberg",
+        "epstein",
+        "failla",
+        "beneficiary",
+        "estate",
+        "trust",
+        "redaction"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00030439",
+            "similarity": 0.5,
+            "index": 15,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019565",
+      "summary": "This document outlines discussions surrounding a proposed compensation program for victims of Jeffrey Epstein, initiated by Jordy Feldman, Ken Feinberg, and Camille Biros. Initially, the team proposes a non-adversarial, independent program, aiming to treat victims with dignity and avoid litigation. However, Roberta Kaplan’s firm, Kaplan Hecker & Fink, expresses concerns about the Estate's control and proposes adding a plaintiff-selected administrator to ensure independence and fairness. Subsequent exchanges detail the proposed protocol, emphasizing the voluntary nature of the program and the team's desire for input from Kaplan’s firm before finalization.  The document highlights differing views on the program’s design, particularly regarding the selection of administrators and the level of control exerted by the Estate, with the plaintiffs’ counsel advocating for greater autonomy and safeguards for the victims.",
+      "timestamp": "2019-12-14T00:00:00",
+      "timestamp_raw": "December 14, 2019",
+      "keywords": [
+        "epstein",
+        "victims",
+        "compensation",
+        "program",
+        "kaplan",
+        "doniger",
+        "feldman",
+        "claims",
+        "resolution",
+        "protocol",
+        "settlement"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014418",
+      "summary": "Alexandra Conlon, representing Kaplan, Ilecker & Fink LLP, sent a Touhy letter and supporting exhibit to Roberta Kaplan regarding a request for documents from the Department of Justice concerning Jeffrey Epstein’s estate. The letter was initiated by an Assistant United States Attorney from the Southern District of New York, who had received a prior request from Kaplan. Both parties expressed interest in discussing the request further.",
+      "timestamp": "2020-02-26T00:00:00",
+      "timestamp_raw": "26 Feb 2020",
+      "keywords": [
+        "jeffrey epstein",
+        "litigation",
+        "department of justice",
+        "roberta kaplan",
+        "touhy letter",
+        "united states attorney",
+        "southern district of new york",
+        "redaction analysis",
+        "efta00014418"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023290",
+      "summary": "Roberta Kaplan of Kaplan Hecker & Fink LLP received a request for information regarding Jeffrey Epstein’s estate from Alexandra Conlon, representing the Assistant United States Attorney for the Southern District of New York. Kaplan forwarded the request, including a Touhy letter and supporting exhibit, to the DOJ. The Assistant U.S. Attorney attached a letter requesting information and offered to discuss the request further.  Both communications contained standard disclaimers regarding confidential and privileged information.",
+      "timestamp": "2020-02-28T00:00:00",
+      "timestamp_raw": "28 Feb 2020",
+      "keywords": [
+        "roberta kaplan",
+        "jeffrey epstein",
+        "justice department",
+        "litigation",
+        "touhy letter",
+        "usanys",
+        "alexandra conlon",
+        "kate l. doniger",
+        "email",
+        "request for information"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00025345",
+            "similarity": 0.538,
+            "index": 26,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00010460",
+      "summary": "Kate Doniger of Kaplan I Lecker & Fink LLP communicated with Roberta Kaplan and Alexandra Conlon regarding a request for information relating to Jeffrey Epstein’s estate. The request included a Touhy letter and supporting exhibit submitted to the Department of Justice.  Kaplan responded, offering to discuss the request and scheduling a time to talk. The email chain included standard disclaimers regarding confidential and privileged communications.",
+      "timestamp": "2020-04-14T00:00:00",
+      "timestamp_raw": "14 Apr 2020",
+      "keywords": [
+        "jeffrey epstein",
+        "kate doniger",
+        "roberta kaplan",
+        "united states department of justice",
+        "litigation",
+        "request for information",
+        "touhy letter",
+        "litigation against estate",
+        "legal privilege"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00010432",
+            "similarity": 0.5,
+            "index": 21,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00010432",
+      "summary": "On April 15, 2020, Kate L. Doniger (Kaplan Hecker & Fink LLP) contacted [REDACTED] (USANYS) regarding a request for information related to Jeffrey Epstein.  Alexandra Conlon, also representing Kaplan Hecker & Fink LLP, responded on February 25, 2020, sending a Touhy letter and supporting exhibit to the Department of Justice requesting documents related to the ongoing litigation against the Epstein estate.  AUSA [REDACTED] (USANYS) sent a letter on January 6, 2020, acknowledging receipt of the request and offering to discuss it.  Doniger indicated she did not require further information at that time, anticipating an update early the following week.",
+      "timestamp": "2020-04-15T00:00:00",
+      "timestamp_raw": "April 15, 2020",
+      "keywords": [
+        "jeffrey epstein",
+        "kate doniger",
+        "roberta kaplan",
+        "usanys",
+        "doj",
+        "litigation",
+        "request for information",
+        "touhy letter",
+        "kaplan hecker & fink llp"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00010460",
+            "similarity": 0.5,
+            "index": 20,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00030319",
+            "similarity": 0.583,
+            "index": 22,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00010437",
+            "similarity": 0.583,
+            "index": 24,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00025345",
+            "similarity": 0.583,
+            "index": 26,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00030319",
+      "summary": "*   [REDACTED] initially responded with a statement that they would contact the recipient regarding the request. *   Alexandra Conlon (on behalf of Roberta Kaplan) sent a Touhy letter to the Department of Justice requesting documents in connection with ongoing litigation against Epstein’s estate. *   A USANYS Assistant United States Attorney sent an initial letter related to the request, advising recipients to contact them for discussion. *   All communications contained standard disclaimers regarding confidential and privileged information.",
+      "timestamp": "2020-04-15T00:00:00",
+      "timestamp_raw": "15 Apr 2020",
+      "keywords": [
+        "jeffrey epstein",
+        "kate doniger",
+        "roberta kaplan",
+        "usanys",
+        "doj",
+        "litigation",
+        "request",
+        "documents",
+        "touhy letter",
+        "alexandra conlon"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00010432",
+            "similarity": 0.583,
+            "index": 21,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00010437",
+            "similarity": 0.818,
+            "index": 24,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00025495",
+            "similarity": 0.538,
+            "index": 25,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00025345",
+            "similarity": 0.667,
+            "index": 26,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00010435",
+      "summary": "On April 21, 2020, the U.S. Department of Justice (DOJ) sent documents to Roberta Kaplan regarding a request for information related to Jeffrey Epstein and Jane Doe in Doe v. Estate of Jeffrey E. Epstein. The documents include reports of grand jury subpoena service on Jane Doe (DO.1_001-007), a biographical report of Jane Doe with redactions (DO.1_010-076), reports of contact between Jane Doe and the FBI (DO.1_077-087), electronic search results from Epstein’s New York residence (DO.1_081-087), and a document retrieved from discarded trash in Palm Beach (DO.1_088-091). The DOJ stated that its response was governed by the Touhy regulations.",
+      "timestamp": "2020-04-21T00:00:00",
+      "timestamp_raw": "April 21, 2020",
+      "keywords": [
+        "jeffrey epstein",
+        "jane doe",
+        "united states department of justice",
+        "grand jury subpoena",
+        "federal bureau of investigation",
+        "touhy regulations",
+        "electronic search",
+        "new york residence",
+        "doe v. estate of jeffrey e. epstein"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010437",
+      "summary": "Doniger (from Kaplan Hecker & Fink LLP) sent a document to multiple parties regarding a request for information related to Jeffrey Epstein. *   The initial request was prompted by a Touhy letter and supporting exhibit sent by the Department of Justice to Roberta Kaplan. *   There was an exchange of emails between Doniger, Kaplan, and Conlon discussing the request and potential next steps, including a possible call to discuss the matter. *   The document contained a password for accessing the file. *   The communications indicate ongoing litigation related to Epstein's estate.",
+      "timestamp": "2020-04-22T00:00:00",
+      "timestamp_raw": "22 Apr 2020",
+      "keywords": [
+        "jeffrey epstein",
+        "kate doniger",
+        "roberta kaplan",
+        "usanys",
+        "litigation",
+        "documents",
+        "request",
+        "estate",
+        "doj",
+        "touhy letter"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00030319",
+            "similarity": 0.818,
+            "index": 22,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00010432",
+            "similarity": 0.583,
+            "index": 21,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00025495",
+            "similarity": 0.538,
+            "index": 25,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00025345",
+            "similarity": 0.538,
+            "index": 26,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00025349",
+            "similarity": 0.667,
+            "index": 27,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00025495",
+      "summary": "Kate Doniger of Kaplan I lecker & Fink LLP is responding to a request for information regarding Jeffrey Epstein, initiated by the US Attorney’s Office for the Southern District of New York. The initial request involved a letter and documents seeking information related to Epstein’s estate. Subsequent communications involve updates, scheduling inquiries, and confirmation that no further information is needed. AUSA contacted Roberta Kaplan and Alexandra Conlon to forward the request. The communication includes standard legal disclaimers regarding confidential and protected information.",
+      "timestamp": "2020-04-30T00:00:00",
+      "timestamp_raw": "30 Apr 2020",
+      "keywords": [
+        "jeffrey epstein",
+        "kate doniger",
+        "roberta kaplan",
+        "usanys",
+        "redaction",
+        "documents",
+        "legal",
+        "litigation",
+        "doj",
+        "correspondence"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00010437",
+            "similarity": 0.538,
+            "index": 24,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00030319",
+            "similarity": 0.538,
+            "index": 22,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00025349",
+            "similarity": 0.538,
+            "index": 27,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00025345",
+      "summary": "On April 30, 2020, Kate L. Doniger (Kaplan I Lecker & Fink LLP) contacted USANYS regarding a request for information relating to Jeffrey Epstein.  Attached were a letter responding to the request and a set of documents, with a separate password to be sent.  Prior communications show follow-up inquiries from April 15th and April 14th, seeking a discussion and updates.  On February 27th, a Touhy letter and supporting exhibit were sent requesting documents from the Department of Justice.  On February 25th, Alexandra Conlon sent the Touhy letter on behalf of Roberta Kaplan.  Finally, on January 6th, an Assistant US Attorney sent the initial letter requesting information. All communications contained standard disclaimers regarding confidential information.",
+      "timestamp": "2020-04-30T00:00:00",
+      "timestamp_raw": "April 30, 2020",
+      "keywords": [
+        "jeffrey epstein",
+        "kate doniger",
+        "roberta kaplan",
+        "alexandra conlon",
+        "usanys",
+        "documents",
+        "request for information",
+        "litigation",
+        "touhy letter",
+        "department of justice"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00010437",
+            "similarity": 0.538,
+            "index": 24,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00030319",
+            "similarity": 0.667,
+            "index": 22,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00010432",
+            "similarity": 0.583,
+            "index": 21,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00025349",
+            "similarity": 0.538,
+            "index": 27,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00014352",
+            "similarity": 0.545,
+            "index": 29,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00025349",
+      "summary": "The document consists of email exchanges between Kate Doniger of Kaplan I Lecker & Fink LLP and various individuals, including USANYS attorneys, regarding a request for information related to Jeffrey Epstein. Initially, Doniger seeks a call to discuss the request and subsequently sends attached documents (a letter and supporting exhibit) responding to the request. AUSA Alex Conlon sends a Touhy letter requesting documents from the Department of Justice. Throughout the exchanges, there are repeated offers to discuss the information and concerns about the timeline of the request. Several redactions are noted throughout the document.",
+      "timestamp": "2020-04-30T00:00:00",
+      "timestamp_raw": "30 Apr 2020",
+      "keywords": [
+        "jeffrey epstein",
+        "kate doniger",
+        "roberta kaplan",
+        "usanys",
+        "documents",
+        "request",
+        "litigation",
+        "ausa",
+        "touhy letter",
+        "redaction"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00025345",
+            "similarity": 0.538,
+            "index": 26,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00025495",
+            "similarity": 0.538,
+            "index": 25,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00010437",
+            "similarity": 0.667,
+            "index": 24,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023176",
+      "summary": "Roberta Kaplan is in a call with Kate Doniger regarding an investigation into Jeffrey Epstein. An Assistant U.S. Attorney from the Southern District of New York requests a five-minute phone call from Roberta Kaplan, potentially with additional attendees, to ask a quick question. The email includes a standard disclaimer regarding confidential and privileged communications.",
+      "timestamp": "2020-05-21T00:00:00",
+      "timestamp_raw": "21 May 2020",
+      "keywords": [
+        "epstein investigation",
+        "roberta kaplan",
+        "u.s. attorney",
+        "southern district of new york",
+        "redaction analysis",
+        "kate doniger",
+        "assistant u.s. attorney"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014352",
+      "summary": "On May 26, 2020, Roberta Kaplan (through Alexandra Conlon) sent a request for information related to Jeffrey Epstein, attaching a letter and a document file (encrypted). Kate Doniger responded on April 15th, acknowledging the request and stating an update would be provided early the following week. On April 14th, Doniger followed up, inquiring about the request’s progress and offering a call. On February 27th, a US Attorney contacted Kaplan to provide a Touhy letter and supporting exhibit requesting documents from the Department of Justice. Finally, on January 6th, the US Attorney sent the initial request to Kaplan. All communications involved multiple parties including USANYS, Kaplan Becker & Fink LLP, and the Southern District of New York.",
+      "timestamp": "2020-05-26T00:00:00",
+      "timestamp_raw": "May 26, 2020",
+      "keywords": [
+        "jeffrey epstein",
+        "roberta kaplan",
+        "kate doniger",
+        "united states justice department",
+        "documents",
+        "request for information",
+        "litigation"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00025345",
+            "similarity": 0.545,
+            "index": 26,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030529",
+      "summary": "On November 4, 2020, Neil (liIIM) responded to Dawn Hughes regarding an offer to provide expert testimony as a clinical and forensic psychologist in the trial of *United States v. Ghislaine Maxwell*. The trial was scheduled for July 12, 2021, in the Southern District of New York. Dawn Hughes had attached her CV and standard engagement agreement for review and offered a call to discuss availability the following day or the week after.",
+      "timestamp": "2020-11-04T00:00:00",
+      "timestamp_raw": "November 4, 2020",
+      "keywords": [
+        "efta00030529",
+        "efta00030530",
+        "dawn hughes",
+        "roberta kaplan",
+        "expert testimony",
+        "ghislaine maxwell",
+        "united states v.",
+        "trial",
+        "forensic psychologist",
+        "clinical psychologist"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027883",
+      "summary": "Alex Conlon sent a transcript of a conference related to the case Doe v. Indyke et al. (19-cv-8673) to Roberta Kaplan C. The transcript was described as being from yesterday’s conference and was attached to the email.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "transcript",
+        "conference",
+        "alex conlon",
+        "robbie",
+        "doe v. indyke",
+        "legal privilege",
+        "attorney-client work product",
+        "efta00027883"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    }
+  ]
+}

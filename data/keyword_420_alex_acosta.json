@@ -1,0 +1,1241 @@
+{
+  "keyword": "alex acosta",
+  "count": 31,
+  "keyword_match_count": 31,
+  "content_match_count": 22,
+  "total_files": 53,
+  "timeline": [
+    {
+      "file_id": "EFTA00013494",
+      "summary": "On September 6, 2007, an Assistant U.S. Attorney (USAFLS) communicated with Alex Acosta (USAFLS) regarding plea negotiations for Jeffrey Epstein. The discussion involved a proposed 371 conspiracy charge with a Rule 11 plea agreement, a potential non-prosecution agreement, and concerns about a drop-dead date for acceptance/rejection, victim approval, and Epstein’s potential self-surrender. A Palm Beach Police Chief contacted Junior regarding media coverage and victim consultation regarding the proposed deal. The attorney was preparing a Rule 11 plea agreement and awaiting term sheet and guidelines calculations.",
+      "timestamp": "2007-09-06T00:00:00",
+      "timestamp_raw": "September 6, 2007",
+      "keywords": [
+        "epstein",
+        "plea agreement",
+        "rule 11",
+        "federal plea",
+        "information",
+        "conspiracy",
+        "non-prosecution agreement",
+        "september 25th",
+        "victims",
+        "self-surrender"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013485",
+      "summary": "The document records an event titled \"Epstein Case\" that occurred on September 7, 2007, from 18:00:00 to 19:00:00 +0000 at the West Palm Beach Office, organized by Alex Acosta (USAFLS). The event is classified as X-PERSONAL, created on April 4, 2015, and modified on July 22, 2015. EFTA00013485 was an attendee.",
+      "timestamp": "2007-09-07T00:00:00",
+      "timestamp_raw": "September 7, 2007",
+      "keywords": [
+        "epstein case",
+        "redaction analysis",
+        "acosta",
+        "west palm beach",
+        "2007-09-07",
+        "efta00013485"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00013472",
+            "similarity": 0.625,
+            "index": 2,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00013472",
+      "summary": "The document records an event titled “Epstein Case” that occurred on September 7, 2007, from 18:00:00 to 19:00:00 +0000 at the West Palm Beach Office, organized by Alex Acosta (USAFLS). The event was classified as X-PERSONAL, created on March 27, 2015, and modified on July 22, 2015. The attendee is identified as EFTA00013472 with a priority level of 5.",
+      "timestamp": "2007-09-07T00:00:00",
+      "timestamp_raw": "September 7, 2007",
+      "keywords": [
+        "epstein case",
+        "redaction analysis",
+        "acosta",
+        "west palm beach",
+        "2007-09-07",
+        "efta00013472",
+        "x-personal"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00013485",
+            "similarity": 0.625,
+            "index": 1,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013743",
+      "summary": "Alex Acosta (USAFLS), Gerald Lefcourt, Jack Goldberger, and Barry Kirscher are meeting today, September 12, 2007, at 1:30 PM to discuss a proposed resolution concerning Jeffrey Epstein.",
+      "timestamp": "2007-09-12T00:00:00",
+      "timestamp_raw": "September 12, 2007",
+      "keywords": [
+        "epstein",
+        "barry kirscher",
+        "resolution",
+        "alex acosta",
+        "gerald lefcourt",
+        "jack goldberger",
+        "efta00013743"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013609",
+      "summary": "On September 14, 2007, Alex Acosta, an Assistant U.S. Attorney, sent an email regarding the Epstein documents, including a proposed plea agreement and information related to charges against 1512 and 113. He indicated he would be unavailable for the rest of the day but could be contacted via email over the weekend. The email also referenced two associated files: \"Information charging 1512 and 113.wpd\" and \"OLY Plea Agreement v4 1512 and 113 violations.wpd\".",
+      "timestamp": "2007-09-14T00:00:00",
+      "timestamp_raw": "September 14, 2007",
+      "keywords": [
+        "epstein documents",
+        "redaction analysis",
+        "efta00013609",
+        "alex acosta",
+        "usafls",
+        "plea agreement",
+        "doj",
+        "florida",
+        "1512",
+        "113"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014169",
+      "summary": "A conference call regarding Jeffrey Epstein was held on 2007-09-27 from 19:45:00 to 20:00:00 at Alex Acosta’s office, organized by Alex Acosta (USAFLS). The event was marked as X-PERSONAL and generated record EFTA00014169. It was last modified on 2010-11-11.",
+      "timestamp": "2007-09-27T00:00:00",
+      "timestamp_raw": "2007-09-27",
+      "keywords": [
+        "epstein",
+        "conference call",
+        "acosta",
+        "alex",
+        "usafls",
+        "2007",
+        "redaction analysis",
+        "personal",
+        "event",
+        "date"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013467",
+      "summary": "A conference call regarding Jeffrey Epstein occurred on September 27, 2007, from 19:45 to 20:00 at Alex’s Office, organized by Alex Acosta (USAFLS). The event was classified as X-PERSONAL, created on March 27, 2015, and last modified on July 22, 2015. The event identifier is EFTA00013467.",
+      "timestamp": "2007-09-27T00:00:00",
+      "timestamp_raw": "September 27, 2007",
+      "keywords": [
+        "epstein",
+        "conference call",
+        "acosta",
+        "alex",
+        "usafls",
+        "redaction",
+        "2007-09-27",
+        "2015-03-27",
+        "personal",
+        "efta00013467"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013695",
+      "summary": "On October 15, 2007, Alex Acosta (USAFLS) received a forwarded email from “USAFLS” regarding a proposed letter to Judge Davis concerning Jeffrey Epstein. The email chain originated with \"[REDACTED]\" (USAFLS) who prepared the letter and requested feedback. The purpose was to finalize the list of victims to include in the letter, with Acosta intending to confirm the final number with the sender via phone. An attached document, \"071015 Special Master Letter.wpd,\" was also included.",
+      "timestamp": "2007-10-15T00:00:00",
+      "timestamp_raw": "October 15, 2007",
+      "keywords": [
+        "epstein",
+        "usafls",
+        "judge davis",
+        "letter",
+        "victims",
+        "redaction",
+        "alex acosta",
+        "goodlink",
+        "071015_specia i_master_letter",
+        "u.s. attorney"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013696",
+      "summary": "On October 18, 2007, Jay Lefkowitz discussed the change of plea date for Mr. Epstein with Alex Acosta and Florida counsel. The plea was initially scheduled for a different date but was moved to November 20th due to availability concerns. Lefkowitz sought confirmation that this date change wouldn’t impact Epstein’s sentence commencement. Acosta had previously advised against dictating a schedule to the state.",
+      "timestamp": "2007-10-18T00:00:00",
+      "timestamp_raw": "October 18, 2007",
+      "keywords": [
+        "efta00013696",
+        "jay lefkowitz",
+        "epstein",
+        "plea",
+        "date",
+        "november 20",
+        "usafls",
+        "alex acosta",
+        "change of plea",
+        "florida counsel",
+        "state's attorney"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013503",
+      "summary": "This document is a redacted email exchange concerning the plea date for Jeffrey Epstein. On October 18, 2007, Jay Lefkowitz (USAFLS) consulted with Alex Acosta (USAFLS) and others regarding Epstein’s plea date, initially aiming for November 20th. Lefkowitz had a witness in another case and confirmed the date with Epstein’s counsel after coordinating with the state’s attorney and the court. The exchange involved confirmations and approvals from multiple parties regarding the chosen date.",
+      "timestamp": "2007-10-18T00:00:00",
+      "timestamp_raw": "October 18, 2007",
+      "keywords": [
+        "epstein",
+        "plea date",
+        "november 20",
+        "usafls",
+        "jay lefkowitz",
+        "alex acosta",
+        "florida counsel",
+        "witness"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013515",
+      "summary": "They had initially intended to have Judge Davis represent the women involved but now were attempting to revise a letter to the special master. Lefkowitz expressed concerns about the proposed language, specifically regarding Judge Davis’s role, the request for a large law firm to handle litigation, the statutory settlement limit, and the potential for discovery. Acosta made concessions, removing paragraph 4 from the letter, including a footnote about the 150k limit, and adding a new paragraph regarding testing victim claims. The goal was to conclude the letter by October 23, 2007, with a deal.",
+      "timestamp": "2007-10-22T00:00:00",
+      "timestamp_raw": "October 22, 2007",
+      "keywords": [
+        "epstein",
+        "lefkowitz",
+        "usafls",
+        "judge davis",
+        "settlement",
+        "lawyer",
+        "agreement",
+        "redaction",
+        "claims",
+        "victims"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013508",
+      "summary": "On October 22, 2007, Jay Lefkowitz (USAFLS) sent a draft letter to Judge Davis regarding a settlement with Mr. Epstein. Concerns were raised about the draft's language, specifically regarding Judge Davis's role as a representative, the request for a large law firm to handle litigation, and the stated statutory limit. Alex Acosta (USAFLS) and Ori Inal made concessions, removing paragraph 4 from page 3, adding a footnote regarding the 150k limit, and revising paragraph 4 to include criteria about experience litigating against large firms. A deadline of COB on October 23, 2007, was set to finalize the agreement.",
+      "timestamp": "2007-10-22T00:00:00",
+      "timestamp_raw": "October 22, 2007",
+      "keywords": [
+        "epstein",
+        "settlement",
+        "judge davis",
+        "lawyer",
+        "litigation",
+        "agreement",
+        "usafls",
+        "concerns",
+        "revisions",
+        "negotiations"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013619",
+      "summary": "*   **Disagreement over Legal Representation:** There is a disagreement about whether Judge Davis should directly represent the women involved. *   **Proposed Changes to Letter:** Alex Acosta and Jay Lefkowitz propose changes to a letter intended for the Special Master, including removing paragraph 4, adding a footnote regarding the statutory limit, and revising language about discovery and attorney fees. *   **Concerns Raised by Lefkowitz:** Jay Lefkowitz expresses concerns about the proposed language, specifically regarding the request for a large law firm and the lack of clarity about discovery. *   **Deadline for Agreement:** Alex Acosta sets a deadline (COB Tuesday, October 23, 2007) for a decision on the revised letter.",
+      "timestamp": "2007-10-23T00:00:00",
+      "timestamp_raw": "October 23, 2007",
+      "keywords": [
+        "epstein",
+        "usafls",
+        "judge davis",
+        "lawyer",
+        "settlement",
+        "agreement",
+        "redacted",
+        "alex acosta",
+        "jay lefkowitz",
+        "statutory limit",
+        "discovery"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013749",
+      "summary": "On October 23, 2007, Jay Letkowitz communicated with [REDACTED] regarding a letter to Judge Davis. Letkowitz stated he couldn’t send an email that night and would consult with Alex Acosta in the morning. He requested a conversation about the letter and mentioned receiving signatures for an addendum to a contract, intending to send it the following day. The communication was flagged as confidential by Kirkland & Ellis LLP.",
+      "timestamp": "2007-10-23T00:00:00",
+      "timestamp_raw": "October 23, 2007",
+      "keywords": [
+        "epstein",
+        "jayletkowitz",
+        "acosta",
+        "alex (usaf' s)",
+        "redaction",
+        "contract",
+        "judge davis",
+        "kirkland & ellis",
+        "email",
+        "communication"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013622",
+      "summary": "On October 24, 2007, Alex Acosta (USAFLS) sent a letter, titled “Epstein - Letter to Judge Davis,” to Jay Lefkowitz. The letter, attached as “071015_Specia I_Master_LetterS.wpd,” was the latest and hopefully final version regarding correspondence with Judge Davis.",
+      "timestamp": "2007-10-24T00:00:00",
+      "timestamp_raw": "October 24, 2007",
+      "keywords": [
+        "efta00013622",
+        "epstein",
+        "judge davis",
+        "usafls",
+        "letter",
+        "jay lefkowitz",
+        "alex acosta",
+        "2007",
+        "redaction analysis",
+        "correspondence"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00013518",
+            "similarity": 0.538,
+            "index": 16,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00013612",
+      "summary": "Jay Lefkowitz proposed edits to a paragraph within a Non-Prosecution Agreement regarding the selection of an attorney representative for victims. The original paragraph outlined the U.S.'s right to assign this responsibility to an independent third-party, subject to Epstein’s counsel’s approval. Lefkowitz suggested modifying it to state the U.S. “will assign” the responsibility, aiming for a judge (like Davis) to select the attorney. He also clarified that Epstein would pay the attorney’s fees but not costs of contested litigation. The Addendum was subsequently agreed upon by Jeffrey Epstein, Alexander Acosta, and legal counsel, solidifying these changes to the Non-Prosecution Agreement.",
+      "timestamp": "2007-11-12T00:00:00",
+      "timestamp_raw": "12 Oct 2007",
+      "keywords": [
+        "epstein",
+        "jeffrey",
+        "usafls",
+        "non-prosecution agreement",
+        "attorney representative",
+        "settlement",
+        "litigation",
+        "redaction",
+        "jay lefkowitz",
+        "alex acosta"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013518",
+      "summary": "A communication between [REDACTED] and Jay Lefkowitz regarding a revised letter and addendum related to a case involving Jeffrey Epstein. The addendum had paragraphs renumbered from A, B, and C to 7A, 7B, and 7C. The sender requests Lefkowitz’s approval of the addendum, execution, PDF delivery, and subsequent FedEx delivery of the original document to be sent to Judge Davis.",
+      "timestamp": "2007-11-24T00:00:00",
+      "timestamp_raw": "24 Oct 2007",
+      "keywords": [
+        "epstein",
+        "addendum",
+        "letter",
+        "judge davis",
+        "doj",
+        "redaction",
+        "alex acosta",
+        "usafls",
+        "jay lefkowitz",
+        "2007"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00013622",
+            "similarity": 0.538,
+            "index": 14,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013711",
+      "summary": "On December 4, 2007, an Assistant U.S. Attorney (USAFLS) sent an email to Alex Acosta (USAFLS) regarding information about Jeffrey Epstein. The email included the note that Jack Goldberger’s first name is Jack and informed Acosta that Epstein’s plane was in West Palm Beach, arriving and departing later that day. The Assistant U.S. Attorney requested that fax or email copies of any final correspondence be sent to them.",
+      "timestamp": "2007-12-04T00:00:00",
+      "timestamp_raw": "December 4, 2007",
+      "keywords": [
+        "epstein",
+        "goldberger",
+        "usafls",
+        "fax",
+        "email",
+        "west palm beach",
+        "plane",
+        "u.s. attorney",
+        "2007",
+        "redacted analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013763",
+      "summary": "Alex Acosta, an Assistant U.S. Attorney, exchanged emails regarding a response to inquiries about Jeffrey Epstein. He requested revising a letter and considered shortening it to simply inform recipients of deadlines. He reported sending out a previous email and expressed frustration with the silence of the involved lawyers.",
+      "timestamp": "2007-12-06T00:00:00",
+      "timestamp_raw": "December 06, 2007",
+      "keywords": [
+        "epstein",
+        "acosta",
+        "alex",
+        "u.s. attorney",
+        "doj",
+        "redaction",
+        "letter",
+        "deadlines",
+        "lawyers",
+        "usafls"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013715",
+      "summary": "An email was sent from an Assistant U.S. Attorney to Alex Acosta at the DOI on December 10, 2007, regarding a New York Magazine article featuring Jeffrey Epstein. The email included a link to the article: http://nymag.corninews/features/41826/.",
+      "timestamp": "2007-12-10T00:00:00",
+      "timestamp_raw": "December 10, 2007",
+      "keywords": [
+        "epstein",
+        "new york magazine",
+        "redaction analysis",
+        "efta00013715",
+        "alex acosta",
+        "doi",
+        "2007",
+        "florida",
+        "us attorney"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013536",
+      "summary": "On December 11, 2007, EFTA00013536 was initiated due to a request for a de novo review of evidence related to a proposed indictment, likely concerning Jeffrey Epstein. The sender requested copies of 302s, state GJ reports, and interview transcripts, along with other investigative information, to be provided as quickly as possible.",
+      "timestamp": "2007-12-11T00:00:00",
+      "timestamp_raw": "December 11, 2007",
+      "keywords": [
+        "epstein",
+        "redaction",
+        "indictment",
+        "kirkland & ellis",
+        "evidence",
+        "transcripts",
+        "investigation",
+        "copies",
+        "doj",
+        "alex acosta"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013488",
+      "summary": "An event titled \"Epstein Pre-Meet\" occurred on December 14, 2007, from 17:15:00 to 17:45:00 GMT. Alex Acosta (USAFLS) organized the meeting at his office, classified as X-PERSONAL. Attendees included <AVillafana@usa.doj.gov> (USAFLS) and EFTA00013488.",
+      "timestamp": "2007-12-14T00:00:00",
+      "timestamp_raw": "December 14, 2007",
+      "keywords": [
+        "epstein",
+        "redaction analysis",
+        "efta00013488",
+        "alex acosta",
+        "usafls",
+        "2007-12-14",
+        "pre-meet",
+        "personal",
+        "doj",
+        "date created"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013721",
+      "summary": "Jay Lefkowitz sent an email to Alex Acosta on January 30, 2008, regarding a $50 million civil lawsuit filed against Jeff Sloman’s former law firm against Epstein. The lawsuit involves the father and stepmother of a redacted individual. Lefkowitz indicates a planned deposition process will commence soon. The email contains a standard confidentiality notice from Kirkland & Ellis LLP.",
+      "timestamp": "2008-01-30T00:00:00",
+      "timestamp_raw": "January 30, 2008",
+      "keywords": [
+        "efta00013721",
+        "alex acosta",
+        "usafls",
+        "jeff sloman",
+        "epstein",
+        "jay lefkowitz",
+        "kirkland & ellis",
+        "redaction analysis",
+        "indictment",
+        "civil lawsuit"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013774",
+      "summary": "An Assistant U.S. Attorney was conducting interviews with three girls related to Jeffrey Epstein’s case. One girl experienced severe emotional distress, requiring multiple interruptions and ultimately halting the interview. The second girl expressed frustration regarding a 18-month deal and desired Epstein’s imprisonment over financial restitution. The FBI’s victim-witness coordinator was present and arranged counseling for the girls. Four more girls were scheduled to be interviewed the following day.",
+      "timestamp": "2008-02-01T00:00:00",
+      "timestamp_raw": "01 Feb 2008",
+      "keywords": [
+        "epstein",
+        "usafls",
+        "victim-witness",
+        "counseling",
+        "restitution",
+        "girls",
+        "interviews",
+        "fbi",
+        "alex acosta",
+        "2008"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013723",
+      "summary": "A U.S. Attorney sent an email to Alex Acosta and others regarding a Palm Beach Post editorial about Jeffrey Epstein’s attempt to purchase his way out of prosecution. The editor of the Palm Beach Post authored the editorial. The U.S. Attorney anticipates having the final indictment package completed by Thursday or Friday.",
+      "timestamp": "2008-02-13T00:00:00",
+      "timestamp_raw": "13 Feb 2008",
+      "keywords": [
+        "efta00013723",
+        "epstein",
+        "prosecution",
+        "palm beach post",
+        "editorial",
+        "doj",
+        "acosta",
+        "alex",
+        "indictment",
+        "2008"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013679",
+      "summary": "This document is an email correspondence regarding the non-prosecution agreement for Jeffrey Epstein, dated April 11, 2008. Attachments include the non-prosecution agreement, a document dated December 19, 2007, and an addendum. The email is sent from [REDACTED] to Alex Acosta and others at the USAFLS.",
+      "timestamp": "2008-04-11T00:00:00",
+      "timestamp_raw": "April 11, 2008",
+      "keywords": [
+        "epstein",
+        "redaction",
+        "agreement",
+        "doj",
+        "usafls",
+        "acosta",
+        "alex",
+        "non-prosecution",
+        "2008",
+        "pdf"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013602",
+      "summary": "On June 20, 2008, Alex Acosta received emails containing documents related to a case involving John Roth, Jay Lefkowitz, Ken Starr, and Stephanie Thacker. The documents included a Principal Submission, a Summary of Misconduct, a Response to FAUSA Letter, and a Response to CEOS’s Letter by S. Thacker. Kenneth Star and Jay Lefkowitz of Kirkland & Ellis LLP requested a meeting to discuss the matter. John Roth advised waiting until Monday to contact Lefkowitz.",
+      "timestamp": "2008-06-20T00:00:00",
+      "timestamp_raw": "June 20, 2008",
+      "keywords": [
+        "epstein",
+        "lefkowitz",
+        "starr",
+        "ken starr",
+        "usafls",
+        "redaction analysis",
+        "kirkland & ellis",
+        "jay lefkowitz",
+        "john roth",
+        "stephanie thacker"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013554",
+      "summary": "A June 23, 2008 email was sent from the ODAG to Ken Starr, Jay Lefkowitz, and Kenneth Starr, along with Alex Acosta (USAFLS), containing a letter regarding the Jeffrey Epstein matter. The email included an attachment named scan0001.pclf.",
+      "timestamp": "2008-06-23T00:00:00",
+      "timestamp_raw": "June 23, 2008",
+      "keywords": [
+        "epstein",
+        "redaction",
+        "efta00013554",
+        "starr",
+        "ken",
+        "jay lefkowitz",
+        "kenneth starr",
+        "usafls",
+        "odag",
+        "fyi"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013678",
+      "summary": "Alex Acosta (USAFLS) forwarded an email regarding Jeffrey Epstein’s guilty plea in state court to multiple recipients, including an Assistant U.S. Attorney, Mona. The email chain expresses gratitude for support and highlights the significant result obtained as “truly exceptional” and beneficial to the victims.",
+      "timestamp": "2008-06-30T00:00:00",
+      "timestamp_raw": "30 Jun 2008",
+      "keywords": [
+        "epstein",
+        "guilty",
+        "plea",
+        "usafls",
+        "acosta",
+        "redaction",
+        "florida",
+        "west palm beach",
+        "2008",
+        "support"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013922",
+      "summary": "On July 8, 2008, Alex Acosta (USAFLS) forwarded a victim notification letter dated November 28, 2007, from an Assistant U.S. Attorney to Jay Lefkowitz. The letter was originally sent by an unnamed individual to forward a notification regarding the Epstein case.",
+      "timestamp": "2008-07-08T00:00:00",
+      "timestamp_raw": "July 8, 2008",
+      "keywords": [
+        "epstein",
+        "victim notification letter",
+        "alex acosta",
+        "usafls",
+        "jay lefkowitz",
+        "2007",
+        "2008",
+        "redaction",
+        "defense",
+        "florida"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013557",
+      "summary": "Alex Acosta received a fax from Jack Goldberger on July 8, 2008, stating that Goldberger is out of the office and will respond to a previous fax the following day. The fax is identified as EFTA00013557.",
+      "timestamp": "2008-07-08T00:00:00",
+      "timestamp_raw": "July 8, 2008",
+      "keywords": [
+        "efta00013557",
+        "alex acosta",
+        "jack goldberger",
+        "epstein",
+        "fax",
+        "doj",
+        "usa",
+        "letter",
+        "response",
+        "2008"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013558",
+      "summary": "An email was sent from \"RECIPIENT\" to Assistant U.S. Attorney EFTA00013558, subject to “Just got back from Epstein hearing,” on July 11, 2008. The sender and recipient are identified as \"Acosta, Alex (USAFLS).\" The email indicates a need to discuss the matter.",
+      "timestamp": "2008-07-11T00:00:00",
+      "timestamp_raw": "July 11, 2008",
+      "keywords": [
+        "epstein hearing",
+        "redacted",
+        "efta00013558",
+        "usa",
+        "alex acosta",
+        "u.s. attorney",
+        "2008",
+        "fls",
+        "recipient",
+        "2025-12-24"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013676",
+      "summary": "Alex Acosta (AAcosta@usa.doj.gov) sent an urgent email dated July 11, 2008, to an unknown recipient regarding “ust got ac c romEpstein searing.” The email is associated with document EFTA00013676.",
+      "timestamp": "2008-07-11T00:00:00",
+      "timestamp_raw": "July 11, 2008",
+      "keywords": [
+        "efta00013676",
+        "acosta",
+        "alex",
+        "epstein",
+        "redaction",
+        "doj",
+        "usa",
+        "2008",
+        "urgent",
+        "prosecution"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013559",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] with the subject “Emailing: webmmkepstein0715.htm” on July 15, 2008. The email included a link to a Palm Beach Daily News report regarding Jeffrey Epstein and attached the report itself, identified as EFTA00013559.",
+      "timestamp": "2008-07-15T00:00:00",
+      "timestamp_raw": "July 15, 2008",
+      "keywords": [
+        "efta00013559",
+        "alex acosta",
+        "doj",
+        "email",
+        "palm beach daily news",
+        "epstein",
+        "redaction",
+        "webmmkepstein0715.htm",
+        "2008",
+        "2025"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013604",
+      "summary": "Alex Acosta (USAFLS) sent an email dated July 17, 2008, regarding Epstein’s court filings, labeled as EFTA00013604.",
+      "timestamp": "2008-07-17T00:00:00",
+      "timestamp_raw": "July 17, 2008",
+      "keywords": [
+        "epstein",
+        "court filings",
+        "usafls",
+        "doj",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014116",
+      "summary": "Alex Acosta (USAFLS) received a letter from Brad Edwards (USAFLS) regarding a letter from Brad Edwards. The letter detailed Edwards’ willingness for Epstein to admit guilt in state court and be incarcerated, while also requesting agreement on the deferral of prosecution agreement and the lack of consultation with the victims. Acosta believed the victims were not consulted due to the Crime Victims Rights Act not applying and the confidentiality provision not being binding until a formal agreement was reached in September 2007. Acosta intended to inform Edwards that the agreement could not be produced due to the confidentiality provision and would then assess if Edwards still desired a meeting.",
+      "timestamp": "2008-08-02T00:00:00",
+      "timestamp_raw": "02 Aug 2008",
+      "keywords": [
+        "efta00014116",
+        "alex acosta",
+        "usafls",
+        "brad edwards",
+        "epstein",
+        "victims",
+        "confidentiality",
+        "prosecution agreement",
+        "fbi",
+        "crime victims rights act"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013674",
+      "summary": "Alex Acosta (USAFLS) received and read a reply brief from Tein in the civil litigation concerning Jeffrey Epstein.",
+      "timestamp": "2008-08-12T00:00:00",
+      "timestamp_raw": "12 Aug 2008",
+      "keywords": [
+        "efta00013674",
+        "tein's reply brief",
+        "epstein",
+        "civil litigation",
+        "usafls",
+        "doj",
+        "alex acosta",
+        "2008"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013672",
+      "summary": "Alex Acosta (USAFLS) sent an email titled \"Read: Jeffrey Epstein\" on August 26, 2008, to an unknown recipient (Ii). The email was marked as “Normal” importance.",
+      "timestamp": "2008-08-26T00:00:00",
+      "timestamp_raw": "August 26, 2008",
+      "keywords": [
+        "jeffrey epstein",
+        "efta00013672",
+        "alex acosta",
+        "usafls",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00013671",
+            "similarity": 0.5,
+            "index": 39,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00014065",
+      "summary": "Emails dated September 17, 2008, detail discussions regarding a sealed non-prosecution agreement in the Jeffrey Epstein case.  Individuals within the USAFLS (United States Attorneys Federal Litigation Support) are involved in coordinating communication with Assistant U.S. Attorney Alex Acosta and legal counsel, Bryce Albu of Reeder & Reeder P.A., who represents The Palm Beach Daily News.  The emails concern the status of the agreement, its sealing by a judge, and a request from Albu to understand the agreement’s nature and the basis for its sealing to advise their client.  Ann Marano is tasked with notifying Jack Goldberger about the pending filing of the agreement’s remaining parts and the unsealing issue.",
+      "timestamp": "2008-09-17T00:00:00",
+      "timestamp_raw": "September 17, 2008",
+      "keywords": [
+        "jeffrey epstein",
+        "non-prosecution agreement",
+        "sealing",
+        "usafls",
+        "state v.",
+        "agreement",
+        "barry krischer",
+        "rolando garcia",
+        "alex acosta",
+        "judge",
+        "federal"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013671",
+      "summary": "Alex Acosta (USAFLS) forwarded an email regarding the case of *State v. Jeffrey Epstein* on September 17, 2008.",
+      "timestamp": "2008-09-17T00:00:00",
+      "timestamp_raw": "September 17, 2008",
+      "keywords": [
+        "efta00013671",
+        "jeffrey epstein",
+        "redaction analysis",
+        "state v.",
+        "alex acosta",
+        "usafls",
+        "2008"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00013672",
+            "similarity": 0.5,
+            "index": 37,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013833",
+      "summary": "On November 3, 2008, an individual (identified as “I”) communicated with a Florida Bar Ethics Counsel regarding the Epstein matter. The Counsel stated they would issue a “non-opinion” letter regarding victim notification obligations under federal law. The Counsel also indicated that solicitation rules did not apply due to the Office not soliciting employment from victims. The Counsel refused to provide information regarding Mr. Josefsberg’s inquiry, citing confidentiality rules. The sender planned to await responses from Josefsberg and Ezell before finalizing letters and inquired about the Doe v. United States case status.",
+      "timestamp": "2008-11-03T00:00:00",
+      "timestamp_raw": "November 3, 2008",
+      "keywords": [
+        "florida bar",
+        "ethics counsel",
+        "epstein",
+        "victim notification",
+        "solicitation rules",
+        "josefsberg",
+        "doe v. united states",
+        "united states attorney",
+        "alex acosta",
+        "katherine w. ezell"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013593",
+      "summary": "An email was sent from Alex Acosta ([AAcosta@usa.doj.gov]) to an unknown recipient on November 21, 2008, regarding Jeffrey Epstein. The email is labeled as “Read” and has a normal importance level.",
+      "timestamp": "2008-11-21T00:00:00",
+      "timestamp_raw": "November 21, 2008",
+      "keywords": [
+        "epstein",
+        "redaction analysis",
+        "efta00013593",
+        "alex acosta",
+        "doj",
+        "2008",
+        "usa",
+        "file",
+        "pdf"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013594",
+      "summary": "Alex Acosta, a representative of USAFLS, sent an email stating he “shouldn’t be part of the Epstein emails” due to “obvious reasons.” The email was sent on November 23, 2008.",
+      "timestamp": "2008-11-23T00:00:00",
+      "timestamp_raw": "November 23, 2008",
+      "keywords": [
+        "epstein",
+        "redaction",
+        "emails",
+        "usafls",
+        "acosta",
+        "2008"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020711",
+      "summary": "This document is a privilege log related to a lawsuit against the United States, specifically concerning the case of Jane Doe v. United States (Case 9:08-cv-80736-KAM). It contains emails exchanged between various individuals, including Marie Villafaita, Matt Menchel, Jeff Sloman, Alex Acosta, and others, primarily between November 2006 and May 2007. These emails pertain to the investigation and prosecution of Glenn Edward Epstein, focusing on witness contacts, plea negotiations, indictment preparation, and efforts to secure a non-prosecution agreement.  The emails demonstrate a range of activities, including gathering information, advising on legal strategy, communicating with victims, and coordinating with the FBI and other government agencies. Many of the emails assert work product, deliberative process, and investigative privileges, seeking to protect the confidentiality of these discussions. The documents demonstrate significant effort on the part of the prosecution to finalize the case and secure a favorable outcome with Epstein.",
+      "timestamp": "2015-06-23T00:00:00",
+      "timestamp_raw": "06/23/2015",
+      "keywords": [
+        "marie villafalia",
+        "epstein",
+        "plea negotiations",
+        "work product",
+        "investigative privilege",
+        "doj",
+        "grand jury",
+        "emails",
+        "non-prosecution agreement",
+        "victims",
+        "witness",
+        "2422(b)",
+        "jay lefkowitz",
+        "ceos",
+        "united states",
+        "indictment"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015719",
+      "summary": "The Department of Justice initiated an investigation into Secretary of Labor Alex Acosta’s involvement in negotiating a plea deal for Jeffrey Epstein. The probe was prompted by a request from Senator Ben Sasse following a series of Miami Herald articles detailing the DOJ’s collaboration with Epstein’s defense attorneys in securing a lenient 2008 plea deal. The Office of Professional Responsibility will lead the investigation into potential professional misconduct by Department attorneys regarding the resolution of the Epstein criminal matter.",
+      "timestamp": "2019-02-06T00:00:00",
+      "timestamp_raw": "06 Feb 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "plea deal",
+        "justice department",
+        "alex acosta",
+        "miami herald",
+        "investigation",
+        "professional misconduct",
+        "doj",
+        "stephen e. boyd",
+        "sen. ben sasse"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014454",
+      "summary": "U.S. Secretary of Labor Alex Acosta defended his handling of a nonprosecution deal with Jeffrey Epstein during a House Committee on Education and Labor hearing, addressing criticism regarding potential mishandling of workplace law violations. The hearing also covered questions about the Department of Labor’s budget, regulatory initiatives, including a proposed overhaul of white-collar overtime exemption regulations (raising concerns about the Obama-era regulation), and a collaboration with the SEC on a new fiduciary rule. Acosta defended the DOJ’s position on the Epstein case, highlighted the appeal of the Obama-era overtime rule, and acknowledged the Supreme Court’s Janus decision. He also stated the administration’s position on the federal minimum wage.",
+      "timestamp": "2019-05-02T00:00:00",
+      "timestamp_raw": "02 May 2019",
+      "keywords": [
+        "alex acosta",
+        "jeffrey epstein",
+        "labor committee",
+        "department of labor",
+        "overtime exemption",
+        "sec fiduciary rule",
+        "minimum wage",
+        "crime victims' rights act",
+        "virginia foxx",
+        "janus v. afscme"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030231",
+      "summary": "Federal prosecutors argued that Jeffrey Epstein victims were not entitled to reopen the criminal case or receive an apology, despite a court ruling that prosecutors violated the Crime Victims Rights Act (CVRA) when they signed a nonprosecution agreement. The government proposed a meeting with victims to discuss the reasoning behind the resolution and offered to facilitate a public court proceeding for statements. They argued that the CVRA’s purpose is to give victims a voice, not to dictate prosecutorial decisions. The court had previously ruled in favor of the victims, finding that the government failed to notify them of the nonprosecution agreement and that the government’s actions were “particularly problematic.” The victims’ legal team expressed disappointment with the government’s response, criticizing it as lacking accountability.",
+      "timestamp": "2019-06-26T00:00:00",
+      "timestamp_raw": "26 Jun 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "nonprosecution agreement",
+        "crime victims rights act",
+        "victims",
+        "prosecution",
+        "alex acosta",
+        "law360",
+        "civil settlement",
+        "sexual offenders",
+        "florida"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037799",
+      "summary": "*   **Initial Investigations (2005-2007):** The FBI and West Palm Beach Police investigated Epstein starting in 2005, involving interviews with approximately 35 victims, a search of his Florida residence, and analysis of records. *   **Non-Prosecution Agreement (2008):** Epstein pleaded guilty to soliciting prostitution and received a 18-month sentence, a deal that drew significant media attention due to Alex Acosta's involvement. *   **New York Investigation (2018):** The SDNY opened an investigation into Epstein’s activities in New York, confirmed by his long-standing connections and residence there. *   **Victim Accounts:** Victims, primarily between ages 14-17, reported Epstein’s abuse involving masturbation, fondling, and direct genital contact, with payments of $200-$300 per session. He recruited additional girls through recruiters. Locations included New York City, Florida, USVI, and New Mexico. *   **Ongoing Efforts:** The NYO is coordinating interviews with co-conspirators and victims, pursuing seizure of Epstein’s residences (valued at approximately $100M), and planning a press conference with a victim tip line.",
+      "timestamp": "2019-07-02T00:00:00",
+      "timestamp_raw": "July 2, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "sex trafficking",
+        "human trafficking",
+        "arrest",
+        "manhattan",
+        "florida",
+        "victims",
+        "prosecution agreement",
+        "new york city",
+        "recruiter"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018398",
+      "summary": "Attorney General Bill Barr decided not to recuse himself from the federal criminal prosecution of Jeffrey Epstein. However, he did recuse himself from a Justice Department internal probe into former Labor Secretary Alex Acosta’s involvement in approving a non-prosecution deal with Epstein. Barr’s recusal stemmed from his prior association with the law firm Kirkland & Ellis, which had represented Epstein. The prosecution involves allegations of Epstein sexually abusing underage girls from 2002-2005.",
+      "timestamp": "2019-07-09T00:00:00",
+      "timestamp_raw": "09 Jul 2019",
+      "keywords": [
+        "bill barr",
+        "jeffrey epstein",
+        "child sex prosecution",
+        "attorney general",
+        "recuse",
+        "justice department",
+        "kirkland & ellis",
+        "alex acosta",
+        "u.s. attorney's office",
+        "southern district of new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018174",
+      "summary": "Gail Collins’ opinion column discusses Secretary of Labor Alexander Acosta’s handling of the Jeffrey Epstein case. Acosta defended his role in overseeing the prosecution, arguing that the lenient punishment he negotiated was “good” and that the victims were “scared and traumatized.” The piece highlights Trump’s defense of Acosta, contrasting it with previous administrations’ apologies and highlighting Trump’s past comments about Epstein. It criticizes Acosta’s actions regarding protecting vulnerable individuals from trafficking and questions his competence, suggesting a general ineptitude within the Trump administration’s cabinet.",
+      "timestamp": "2019-07-11T00:00:00",
+      "timestamp_raw": "11 Jul 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "donald trump",
+        "alex acosta",
+        "labor secretary",
+        "sex trafficking",
+        "u.s. soccer",
+        "trump administration"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018182",
+      "summary": "Alex Acosta, the U.S. Labor Secretary under President Trump, resigned on July 12, 2019, due to pressure surrounding the Jeffrey Epstein case. The email originated from [REDACTED] to [REDACTED] and was sent via iPhone. A CNBC article confirms the resignation related to the Epstein case.",
+      "timestamp": "2019-07-12T00:00:00",
+      "timestamp_raw": "July 12, 2019",
+      "keywords": [
+        "trump",
+        "acosta",
+        "epstein",
+        "resignation",
+        "labor secretary",
+        "jeffrey epstein case",
+        "cnbc",
+        "2019",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030071",
+      "summary": "Gail Collins’ opinion piece discusses Secretary of Labor Alex Acosta’s handling of the Jeffrey Epstein case. Acosta initially presented a lenient plea deal for Epstein, which involved only 13 months in prison. The case was then transferred to federal prosecutors in New York. Trump has defended Acosta, focusing on the economy, while critics express outrage over Acosta’s actions and perceived lack of oversight regarding sex trafficking and worker protections. The piece highlights Trump’s obliviousness to the severity of the situation and the general dissatisfaction with Acosta’s performance.",
+      "timestamp": "2019-11-18T00:00:00",
+      "timestamp_raw": "18 Oct 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "donald trump",
+        "alex acosta",
+        "sex trafficking",
+        "new york prosecutors",
+        "u.s. women's soccer",
+        "trump administration",
+        "victims",
+        "legal prosecution"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027846",
+      "summary": "Peter Brightbill, a former prosecutor, congratulates Geoff Berman and his team on the indictment of Ghislaine Maxwell. He expresses concern about Maxwell’s safety at the MCC, citing perceived security issues and past problems within the Bureau of Prisons, referencing Jeffrey Epstein’s death. He recommends enhanced security measures for Maxwell, including isolation, 24/7 surveillance, and constant monitoring by federal Marshals. He also references past criticism of Alex Acosta’s handling of the Epstein case and expresses hope for justice for the victims.",
+      "timestamp": "2020-07-02T00:00:00",
+      "timestamp_raw": "02 Jul 2020",
+      "keywords": [
+        "efta00027846",
+        "maxwell",
+        "epstein",
+        "mcc",
+        "prosecution",
+        "crime",
+        "apprehension",
+        "bop",
+        "justice",
+        "victims"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    }
+  ]
+}

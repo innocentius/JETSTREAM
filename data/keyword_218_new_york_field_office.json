@@ -1,0 +1,4582 @@
+{
+  "keyword": "new york field office",
+  "count": 27,
+  "keyword_match_count": 27,
+  "content_match_count": 149,
+  "total_files": 176,
+  "timeline": [
+    {
+      "file_id": "EFTA00037697",
+      "summary": "An FBI Forensic Accountant at the New York Field Office is investigating property ownership linked to Ghislaine Maxwell. Communications detail a potential property value of $4,950,000 sold by an LLC on July 6, 2000, to an unknown buyer. The initial investigation indicates the property was previously owned by an LLC and potentially partially or fully owned by Ghislaine Maxwell. The investigator requests further information including purchase and sale dates, prices, and previous owners from various real estate databases (ACRIS).",
+      "timestamp": "2000-07-06T00:00:00",
+      "timestamp_raw": "July 6, 2000",
+      "keywords": [
+        "ghislaine maxwell",
+        "fbi",
+        "forensic accountant",
+        "property",
+        "llc",
+        "sale",
+        "purchase",
+        "redaction",
+        "efta00037697",
+        "squad c-40"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038972",
+      "summary": "An FBI Special Agent from the New York Field Office (Child Exploitation/Human Trafficking) is requesting assistance from the United States Attorney’s Office, Southern District of New York, regarding handwritten interview notes for Testifying Witness 3500. Two sets of notes, dated August 17, 2006, and August 15, 2006, were located in FAA-AMOC flight records and MM13 folders. The Assistant United States Attorney followed up on an earlier email requesting confirmation of the notes’ existence as materials are prepared for a Monday deadline.",
+      "timestamp": "2006-08-17T00:00:00",
+      "timestamp_raw": "August 17, 2006",
+      "keywords": [
+        "fbi",
+        "human trafficking",
+        "child exploitation",
+        "testifying witness",
+        "notes",
+        "faa-amoc",
+        "united states attorney",
+        "new york",
+        "email",
+        "redaction"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00038835",
+            "similarity": 0.667,
+            "index": 2,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038835",
+      "summary": "An FBI Special Agent from the New York Field Office (Child Exploitation/Human Trafficking) is requesting assistance in locating handwritten interview notes related to “Testifying Witness 3500.” The notes pertain to interviews conducted on August 17, 2006, and August 15, 2006. The notes were initially located in MM13, specifically within the “Flight Records FAA-AMOC” and ‘’ folders. An Assistant United States Attorney is involved in preparing materials for a Monday deadline.",
+      "timestamp": "2006-08-17T00:00:00",
+      "timestamp_raw": "August 17, 2006",
+      "keywords": [
+        "efta00038835",
+        "fbi",
+        "testifying witness",
+        "human trafficking",
+        "notes",
+        "interviews",
+        "faa-amoc",
+        "redaction",
+        "united states attorney",
+        "new york"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038972",
+            "similarity": 0.667,
+            "index": 1,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023480",
+      "summary": "An email chain discusses obtaining documents and notes related to a testifying witness’s interviews. Specifically, the Assistant U.S. Attorney requests copies of notes and documents provided during an interview on August 22, 2006, and an interview on August 15, 2006, concerning Jeffrey Epstein’s residence. A Special Agent from the FBI New York Field Office provides attached documents (31E-MM-108062-GJ-1A4.pdf) and notes related to the case.",
+      "timestamp": "2006-08-22T00:00:00",
+      "timestamp_raw": "August 22, 2006",
+      "keywords": [
+        "efta00023480",
+        "fbi",
+        "epstein",
+        "human trafficking",
+        "testifying witness",
+        "notes",
+        "documents",
+        "2006",
+        "8/15/06",
+        "8/22/06"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010344",
+      "summary": "This document is a summary of Jeffrey Epstein’s travel from January 1, 2015, to April 21, 2019, provided by an FBI Special Agent from the New York field office, focusing on human trafficking investigations. The document includes attachments detailing the travel information.",
+      "timestamp": "2015-01-01T00:00:00",
+      "timestamp_raw": "January 1, 2015",
+      "keywords": [
+        "epstein",
+        "travel",
+        "fbi",
+        "redaction",
+        "trafficking",
+        "2015",
+        "2019",
+        "new york",
+        "summary",
+        "efta00010344"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00009977",
+      "summary": "On December 5, 2018, an Assistant Special Agent in Charge from the New York Field Office discussed a sealed Federal indictment related to Jeffrey Epstein with colleagues. A meeting was scheduled for December 6, 2018, to discuss next steps following the discussion.  On November 30, 2018, an Assistant United States Attorney proposed a call to determine a plan of action regarding information gathered on the Epstein matter, suggesting times of 3:00 or 3:30 PM. An article from the Miami Herald detailing a financial fraud case involving Epstein was shared.",
+      "timestamp": "2018-12-05T00:00:00",
+      "timestamp_raw": "December 5, 2018",
+      "keywords": [
+        "efta00009977",
+        "jeffrey epstein",
+        "indictment",
+        "fraud",
+        "case agents",
+        "new york field office",
+        "cnn",
+        "miami herald",
+        "trafficking",
+        "assistant special agent",
+        "united states attorney"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037295",
+      "summary": "Sean requested concurrence to release the Epstein investigation case file (EFTA00037295) to a third-party vendor for scanning, cataloging, and indexing, at the request of the USAO SDNY. The decision is based on previous instances where similar files were scanned by outside vendors, including those related to U.S. v. Chambers, U.S. v. Adelglass, U.S. v. Ng Lap Se, U.S. v. Tortora, U.S. v. Ashrof Ho, U.S. v. Goldbrene, U.S. v. Vargas, U.S. v. Krupkin, and U.S. v. Cruz. The vendor selection process involves a limited number of organizations with confidentiality agreements. The desired workflow involves receiving the documents, having them scanned by the vendor, and then sending them back to Miami or the New York field office.",
+      "timestamp": "2019-06-12T00:00:00",
+      "timestamp_raw": "12 Jun 2019",
+      "keywords": [
+        "epstein investigation",
+        "records management",
+        "fbi",
+        "vendor",
+        "scanning",
+        "digital format",
+        "documents",
+        "case file",
+        "sdny",
+        "usao"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037367",
+      "summary": "An FBI Special Agent from the New York field office (FBI NY) transmitted an \"Ops Order\" regarding Operation Epstein, including two PDF documents: Epstein_Op_Order.pdf and Epstein_Op_Order_2.pdf, to [REDACTED]. The order originated from [REDACTED] and was dated July 3, 2019. The subject pertains to human trafficking and is classified as “Normal” importance.",
+      "timestamp": "2019-07-03T00:00:00",
+      "timestamp_raw": "July 3, 2019",
+      "keywords": [
+        "efta00037367",
+        "fbi",
+        "ops order",
+        "epstein",
+        "trafficking",
+        "redaction",
+        "new york",
+        "human trafficking",
+        "pdf",
+        "order"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032703",
+      "summary": "This email, dated July 10, 2019, is a hotline update from the FBI New York field office (SSA) to an unidentified recipient (NY) also within the FBI. The email includes an attached Excel file named HOTLINE_TRACICER_9PM_7.9.2019.xlsx. The email originates from [REDACTED] and is copied to [REDACTED].",
+      "timestamp": "2019-07-10T00:00:00",
+      "timestamp_raw": "July 10, 2019",
+      "keywords": [
+        "efta00032703",
+        "fbi",
+        "hotline",
+        "redaction",
+        "ny",
+        "tracicer",
+        "2019",
+        "update",
+        "surveillance",
+        "analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025521",
+      "summary": "The document is a record of communication regarding the investigation of financial documents related to Jeffrey Epstein, involving the FBI’s New York field office (N. (NY) (FBI)) and a contractor, Andy Hamilton. Key points include: *   Scheduling a call between FBI agents and Alison [REDACTED] and [REDACTED] to discuss the documents. *   A forensic accountant, Lubin, is being brought in to assist. *   Hamilton was instructed to burn specific folders to a disc and deliver it to Special Agent Amanda Young by 11:30 AM for a scheduled conference or via a security pickup. *   The subject of the communications is the “USvEpstein-2018R01618 InvestigationVI 2018 SDNY” investigation.",
+      "timestamp": "2019-07-23T00:00:00",
+      "timestamp_raw": "23 Jul 2019",
+      "keywords": [
+        "fbi",
+        "epstein",
+        "financial documents",
+        "redaction",
+        "investigation",
+        "subpoenas",
+        "new york",
+        "forensic accountant",
+        "u.s. attorney"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037291",
+      "summary": "Emails between individuals at the FBI’s New York Field Office (Criminal - Branch C) and CNN regarding a potential victim of Jeffrey Epstein’s crimes. The victim, identified as Mirna Alsharif, claims she was sexually assaulted by Epstein and Ghislaine Maxwell in 1996 and reported the assault to the FBI in 1996. The emails discuss verification of a document related to this claim, referencing a Miami Herald report and Alsharif’s affidavit. A separate email from a “MAC” at the New York Field Office inquires about the victim’s connection to Sentinel and a 2006-2007 investigation.",
+      "timestamp": "2019-07-29T00:00:00",
+      "timestamp_raw": "29 Jul 2019",
+      "keywords": [
+        "cnn",
+        "jeffrey epstein",
+        "sexual assault",
+        "fbi",
+        "ghislaine maxwell",
+        "new york",
+        "1996",
+        "affidavit",
+        "victim",
+        "modeling"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00037287",
+            "similarity": 1.0,
+            "index": 11,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00037289",
+            "similarity": 0.667,
+            "index": 12,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037287",
+      "summary": "An FBI New York agent received an email from CNN regarding a potential victim of Jeffrey Epstein, who reported a 1996 sexual assault and her then-15-year-old sister's molestation. The agent forwarded the email to colleagues, including SSA and the New York Field Office Criminal Branch, requesting verification of a document related to the alleged assault. The CNN contact, Mima Alsharif, provided details about the victim's claims, including her employment by Epstein and observations of “school-age girls” at his mansion.",
+      "timestamp": "2019-07-29T00:00:00",
+      "timestamp_raw": "29 Jul 2019",
+      "keywords": [
+        "fbi",
+        "cnn",
+        "jeffrey epstein",
+        "sexual assault",
+        "ghislaine maxwell",
+        "new york",
+        "1996",
+        "affidavit",
+        "victim",
+        "modeling"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037291",
+            "similarity": 1.0,
+            "index": 10,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00037289",
+            "similarity": 0.667,
+            "index": 12,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037289",
+      "summary": "An email chain discusses a CNN report regarding a potential sexual assault case involving Jeffrey Epstein and a victim. The victim, identified as Mirna Alsharif, claims she was sexually assaulted by Epstein and his companion Ghislaine Maxwell in 1996 and reported the assault to the FBI in 1996. The email exchange involves individuals from the FBI New York Field Office (Criminal Branch C), the FBI NY Division, and CNN, with requests to verify the document’s existence and investigate the claims. References are made to a 2006-2007 investigation and a Sentinel database search.",
+      "timestamp": "2019-07-29T00:00:00",
+      "timestamp_raw": "29 Jul 2019",
+      "keywords": [
+        "cnn",
+        "jeffrey epstein",
+        "fbi",
+        "sexual assault",
+        "investigation",
+        "maxwell",
+        "new york",
+        "victim",
+        "affidavit",
+        "1996"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037287",
+            "similarity": 0.667,
+            "index": 11,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037291",
+            "similarity": 0.667,
+            "index": 10,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037399",
+      "summary": "An FBI agent in the New York Field Office’s Criminal – Branch C desk initiated a Special Case Number (SCN) regarding the Jeffrey Epstein investigation on August 1, 2019. The SCN requires weekly situation reports detailing updates across several investigative areas: victim interviews, digital analysis, financial analysis (including specific bank and brokerage firm investigations), forfeiture, public corruption, and significant events like searches. The agent requested collaboration with SDNY, Squad C-XX, and outside vendor XXXXX. A conference call was scheduled with M, and consideration was given to involving CEOS and CP due to a victim’s statement involving potential child exploitation. The A/SC is briefing the DAD and the agent is coordinating with CEOU for personnel support.",
+      "timestamp": "2019-08-01T00:00:00",
+      "timestamp_raw": "August 1, 2019",
+      "keywords": [
+        "epstein case",
+        "fbi",
+        "redaction analysis",
+        "victim interviews",
+        "digital analysis",
+        "financial analysis",
+        "forfeiture",
+        "public corruption",
+        "scn",
+        "conference call"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00037398",
+            "similarity": 0.818,
+            "index": 15,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037900",
+      "summary": "A lead investigator for Hope for Justice, Inc. received a referral regarding allegations of sex trafficking from a woman (DOB unknown) who reported being trafficked multiple times, beginning at age 5 and continuing until age 30. The initial reports detail instances of confinement, sexual exploitation, and abuse involving multiple individuals, including a man in his 30s with a wheelchair, and others. The victim recalls being taken to Florida and subsequently the U.S. Virgin Islands. She describes a seemingly normal life with outward appearances of attending school and participating in activities, but with secretive and exploitative behaviors. The investigator believes the case warrants forwarding to the FBI’s New York Field Office due to the nature of the allegations. Additional information includes details about the victim's family and known locations of individuals involved.",
+      "timestamp": "2019-08-01T00:00:00",
+      "timestamp_raw": "August 1, 2019",
+      "keywords": [
+        "sex trafficking",
+        "slavery",
+        "investigation",
+        "hope for justice",
+        "nashville",
+        "tn",
+        "sexual exploitation",
+        "victim",
+        "allegations",
+        "fbi"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037398",
+      "summary": "An FBI agent from the New York Field Office’s Criminal – Branch C desk initiated a Special Case Number (SCN) for the Epstein investigation on August 1, 2019. The SCN requires weekly situation reports detailing updates across multiple investigative facets: victim interviews, digital analysis, financial analysis (specifically referencing SDNY, Squad C-XX, and vendor XXXXX), forfeiture, public corruption, and significant events, including the search of Epstein’s island. A conference call was scheduled with M and CEOS to discuss a recent victim’s statement regarding alleged abuse and potential evidence for a CP affidavit. The A/SC is briefing the DAD and the team is exploring bringing in personnel from CEOU.",
+      "timestamp": "2019-08-01T00:00:00",
+      "timestamp_raw": "August 1, 2019",
+      "keywords": [
+        "epstein case",
+        "fbi",
+        "redaction analysis",
+        "financial analysis",
+        "victim interviews",
+        "digital analysis",
+        "forfeiture",
+        "public corruption",
+        "scn",
+        "weekly report"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037399",
+            "similarity": 0.818,
+            "index": 13,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018976",
+      "summary": "An email chain discusses documents related to inmate suicide watch and psychological observation within a correctional facility, specifically concerning Jeffrey Epstein. The email details questions asked of Lt. Doctor, including inquiries about head count logs, Epstein’s last cellmate (Tartaglione), the requirement for cellmates, and who assigns them. Epstein’s file indicates he did not require a cellmate and that Tartaglione was his cellmate during a previous suicide attempt. The emails originate from the U.S. Department of Justice, Office of the Inspector General, New York Field Office.",
+      "timestamp": "2019-08-11T00:00:00",
+      "timestamp_raw": "11 Aug 2019",
+      "keywords": [
+        "epstein",
+        "suicide watch",
+        "psychological observation",
+        "cellmate",
+        "bop",
+        "shu",
+        "logs",
+        "lt. doctor",
+        "tartaglione",
+        "fbi"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013186",
+      "summary": "An email was sent from the U.S. Department of Justice, Office of the Inspector General, New York Field Office (Special Agent in Charge) to SANYS (USANYS) regarding the “Epstein Matter” in MCC NY. The email requests a brief discussion about planned interviews, as the sender was unavailable and provided their cell phone contact information.",
+      "timestamp": "2019-08-12T00:00:00",
+      "timestamp_raw": "12 Aug 2019",
+      "keywords": [
+        "efta00013186",
+        "mcc ny",
+        "epstein matter",
+        "sanys",
+        "usanys",
+        "iim",
+        "oig",
+        "redaction analysis",
+        "u.s. department of justice",
+        "new york"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019066",
+      "summary": "An email was sent from the U.S. Department of Justice, Office of the Inspector General, New York Field Office to the OIG regarding the Epstein matter. The email requests a brief discussion about planned interviews, as the recipient, (OIG), was unable to reach the sender.  The email includes contact information for the Special Agent in Charge and the office address.",
+      "timestamp": "2019-08-12T00:00:00",
+      "timestamp_raw": "12 Aug 2019",
+      "keywords": [
+        "efta00019066",
+        "usanys",
+        "oig",
+        "epstein",
+        "new york",
+        "interviews",
+        "august 12",
+        "2019",
+        "redaction",
+        "doj",
+        "cell phone"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019862",
+      "summary": "This document is a record of an FBI conference call regarding Jeffrey Epstein’s “Accepted” update, initiated by [REDACTED] and involving the New York field office and the USANYS office. The call occurred on August 13, 2019.",
+      "timestamp": "2019-08-13T00:00:00",
+      "timestamp_raw": "August 13, 2019",
+      "keywords": [
+        "epstein",
+        "redaction",
+        "efta00019862",
+        "fbi",
+        "conference call",
+        "update",
+        "2019",
+        "usanys"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027101",
+      "summary": "On August 13, 2019, an email was sent from an FBI OIG New York Field Office contact to another recipient containing commissary records and an official BOP photo of Jeffrey Epstein, labeled \"Epstein's TruView.\" The attached documents detailed three transactions where Epstein received money from three different individuals. The email was forwarded by an individual identified as [REDACTED].",
+      "timestamp": "2019-08-13T00:00:00",
+      "timestamp_raw": "August 13, 2019",
+      "keywords": [
+        "epstein",
+        "truview",
+        "commissary records",
+        "bop",
+        "fbi",
+        "oig",
+        "usanys",
+        "transactions",
+        "money",
+        "redacted"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027930",
+      "summary": "The email chain discusses obtaining information related to an investigation, likely involving Jeffrey Epstein. The U.S. Department of Justice, specifically the Office of the Inspector General’s New York Field Office, requests ambulance reports and physical descriptions (height and weight) from MCC.  It also outlines a schedule for voluntary interviews with various individuals, including an OPS Lt., Internal staff, Control staff, and an Assistant United States Attorney, all working on the 8th and 9th of August with specified shifts.  The emails are exchanged between multiple individuals and departments.",
+      "timestamp": "2019-08-13T00:00:00",
+      "timestamp_raw": "13 Aug 2019",
+      "keywords": [
+        "epstein",
+        "u.s. department of justice",
+        "redaction",
+        "interviews",
+        "mcc",
+        "ocme",
+        "ambulance reports",
+        "physical descriptions",
+        "height",
+        "weight",
+        "new york"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00027106",
+            "similarity": 0.538,
+            "index": 23,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037264",
+      "summary": "This document is a sitreps (situation reports) regarding Jeffrey Epstein, generated on August 13, 2019, from the FBI New York field office. The reports include versions from morning and afternoon observations, labeled EFTA00037264.",
+      "timestamp": "2019-08-13T00:00:00",
+      "timestamp_raw": "August 13, 2019",
+      "keywords": [
+        "epstein",
+        "efta00037264",
+        "fbi",
+        "sitrep",
+        "2019",
+        "documents"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027106",
+      "summary": "The U.S. Department of Justice, Office of the Inspector General’s New York Field Office is requesting ambulance reports and physical descriptions (height and weight) from the Office of the Chief Medical Examiner (OCME). They also want to schedule voluntary interviews with the following individuals: OPS Lt. (8/10 12-8 Internal), Internal (8/10 12-8 Internal), Control (8/9 4-12 Internal), Control (8/9 4-12 Internal), Control (8/9 2-10 Internal). The request originates from an Assistant United States Attorney in the Southern District of New York.",
+      "timestamp": "2019-08-13T00:00:00",
+      "timestamp_raw": "13 Aug 2019",
+      "keywords": [
+        "epstein",
+        "justice",
+        "interviews",
+        "ocme",
+        "ambulance reports",
+        "physical descriptions",
+        "u.s. department of justice",
+        "new york",
+        "southern district of new york"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00027930",
+            "similarity": 0.538,
+            "index": 21,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016323",
+      "summary": "An FBI Forensic Accountant from the New York Field Office is reviewing Maxwell’s credit card accounts, specifically a CapitalOne/SAKS card (account number redacted).  The attached Experian report from August 2019 shows the card had a zero balance as of August 15, 2019, with the last payment made in May 2019. A summary of Maxwell’s credit cards is being prepared and will be sent out either today or tomorrow.",
+      "timestamp": "2019-08-15T00:00:00",
+      "timestamp_raw": "August 15, 2019",
+      "keywords": [
+        "experian",
+        "credit card",
+        "capitalone",
+        "saks",
+        "maxwell",
+        "fbi",
+        "forensic accountant",
+        "account number",
+        "2019",
+        "summary"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020166",
+      "summary": "A Forensic Accountant at the FBI New York Field Office is requesting subpoenas from Wells Fargo, CITI, MoneyGram, Western Union, and Experian. Attached riders are provided for the subpoenas, which the Forensic Accountant will serve. Recipients are instructed to use specific contact information for the FBI and to forward results electronically to 26 Federal Plaza, New York, NY 10278.",
+      "timestamp": "2019-08-15T00:00:00",
+      "timestamp_raw": "15 Aug 2019",
+      "keywords": [
+        "subpoenas",
+        "wells fargo",
+        "citi",
+        "moneygram",
+        "western union",
+        "experian",
+        "fbi",
+        "forensic accountant",
+        "investigation",
+        "electronic format"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00019959",
+            "similarity": 0.538,
+            "index": 26,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00019959",
+      "summary": "A subpoena request was sent from the Assistant United States Attorney, Southern District of New York, to various financial institutions – Wells Fargo, Citibank, MoneyGram, Western Union, and Experian – on August 16, 2019. The subpoenas were to be prepared and returned by the FBI Forensic Accountant, with specific text to be included. The FBI Special Agent was designated as the point of contact for the FBI’s investigation, and the results were to be submitted electronically to the FBI New York Field Office.",
+      "timestamp": "2019-08-16T00:00:00",
+      "timestamp_raw": "August 16, 2019",
+      "keywords": [
+        "subpoenas",
+        "fbi",
+        "wells fargo",
+        "citibank",
+        "moneygram",
+        "western union",
+        "experian",
+        "redaction analysis",
+        "forensic accountant",
+        "new york"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00020166",
+            "similarity": 0.538,
+            "index": 25,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019321",
+      "summary": "An email chain discusses a question from HQ regarding Epstein’s prison calls while detained. The question asks if the Southern District of New York (SDNY) had any requirements to memorialize these calls and if those requirements were followed, in addition to Bureau of Prisons (BOP) policies. The email was sent from the Office of the Inspector General, New York Field Office to a USANYS contact.",
+      "timestamp": "2019-08-16T00:00:00",
+      "timestamp_raw": "16 Aug 2019",
+      "keywords": [
+        "epstein",
+        "prison calls",
+        "redacted",
+        "usanys",
+        "oig",
+        "sdny",
+        "bop",
+        "prosecutors",
+        "case",
+        "phone calls"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031007",
+      "summary": "The OIG New York Field Office is investigating a question regarding the handling of phone calls made by Jeffrey Epstein at MCC. The core of the inquiry revolves around whether the Bureau of Prisons (BOP) was required to document Epstein’s calls beyond standard BOP policy, specifically if the SDNY prosecutors or Judge required detailed logging, recording, or monitoring of those conversations. The investigation stemmed from a request for clarification about whether SDNY prosecutors needed to maintain a log of Epstein’s calls at MCC, referencing the term “memorialize phone calls.” Redactions obscure the identities of individuals and organizations involved.",
+      "timestamp": "2019-08-17T00:00:00",
+      "timestamp_raw": "17 Aug 2019",
+      "keywords": [
+        "bop",
+        "sdny",
+        "ig",
+        "epstein",
+        "phone calls",
+        "requests",
+        "directives",
+        "court orders",
+        "recording",
+        "memorialize"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027177",
+      "summary": "An email chain discusses a case (EFTA00027177) and requests assistance with briefing materials. One party suggests providing a timeline and video review notes, while another expresses feeling overwhelmed by the case’s information volume and asks for existing PowerPoint materials. An email request is sent to the U.S. Department of Justice, Office of the Inspector General, New York Field Office for emails related to EFTA00027178.",
+      "timestamp": "2019-08-17T00:00:00",
+      "timestamp_raw": "17 Aug 2019",
+      "keywords": [
+        "efta00027177",
+        "timeline",
+        "briefing materials",
+        "video review",
+        "internet search history",
+        "emails",
+        "enforcement",
+        "investigation",
+        "u.s. department of justice",
+        "new york"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031011",
+      "summary": "A request was made by the U.S. Department of Justice’s Office of the Inspector General (NY Field Office) to provide full names and dates of birth for BOP employee EFTA00031011. The request was submitted on August 19, 2019, and aimed to assist an ongoing investigation. HEM agreed to provide the information. EFTA00031012 is also mentioned.",
+      "timestamp": "2019-08-19T00:00:00",
+      "timestamp_raw": "August 19, 2019",
+      "keywords": [
+        "efta00031011",
+        "epstein",
+        "u.s. department of justice",
+        "office of the inspector general",
+        "bop",
+        "redaction analysis",
+        "assistance request",
+        "violent crimes",
+        "dates of birth",
+        "new york field office"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037227",
+      "summary": "An FBI communication, dated August 25, 2019, concerns a call involving Jeffrey Epstein. The communication, sent from the New York Field Office’s Criminal - Branch C desk to multiple individuals including “ale” and various FBI CID units, indicates a desire to share “call in details” and a plan to discuss the matter further tomorrow. The document is identified as EFTA00037227.",
+      "timestamp": "2019-08-25T00:00:00",
+      "timestamp_raw": "August 25, 2019",
+      "keywords": [
+        "epstein",
+        "fbi",
+        "call",
+        "redaction",
+        "details",
+        "cid",
+        "ny",
+        "ssa",
+        "efta00037227"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00037496",
+            "similarity": 0.583,
+            "index": 34,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037542",
+            "similarity": 0.583,
+            "index": 35,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037224",
+      "summary": "*   **Evidence Collection:** A cell phone obtained from the deceased is being processed. Agents are serving subpoenas at a hotel in the Bronx, NY. *   **Reporting Protocols:** FBI leadership is directing a shift to daily updates via conference calls, driven by DOJ requests.  Agents are instructed to proactively manage media reporting, focus on co-conspirator investigations, and provide general updates if significant findings aren’t present. Specific guidance includes avoiding naming interview subjects unless there’s significant information and being mindful of information being escalated to higher levels. *   **Case Coordination:** Multiple FBI squads (C-19, C2, and C4) are collaborating on aspects of the case, particularly concerning drug/sex offenses and potential charges.  The teams are coordinating to investigate co-conspirators, analyze phone data, and plan for a hearing on victims.",
+      "timestamp": "2019-08-26T00:00:00",
+      "timestamp_raw": "26 Aug 2019",
+      "keywords": [
+        "epstein",
+        "fbi",
+        "new york",
+        "subpoenas",
+        "phone",
+        "investigation",
+        "co-conspirators",
+        "c19",
+        "c2",
+        "maxwell",
+        "doj",
+        "color of law"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037492",
+      "summary": "On August 26, 2019, the FBI New York (SSA) forwarded a message regarding a call involving Jeffrey Epstein. The message detailed the use of the VCAC Bridge Line for a daily 15:30 call and requested distribution to relevant individuals. The email chain included contacts from the FBI’s CID and ASAC teams within the New York Field Office, Criminal - Branch C. EFTA00037492 and EFTA00037493 are file identifiers.",
+      "timestamp": "2019-08-26T00:00:00",
+      "timestamp_raw": "August 26, 2019",
+      "keywords": [
+        "epstein",
+        "fbi",
+        "ny",
+        "vcac",
+        "bridge line",
+        "call details",
+        "redaction",
+        "ssa",
+        "asac",
+        "criminal"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00037542",
+            "similarity": 0.538,
+            "index": 35,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037496",
+      "summary": "An FBI representative from NY CART will be on a call regarding details of a call involving Jeffrey Epstein. The request was made to include an OTD POC, NY CART POC, SAC, ASAC VC/VCAC, SSA VC, A/SSA VC, SSA VCAC, SSA PC, SSA CR, and MAC from the New York Field Office’s Criminal – Branch C desk.  The call was scheduled for August 26, 2019.",
+      "timestamp": "2019-08-26T00:00:00",
+      "timestamp_raw": "August 26, 2019",
+      "keywords": [
+        "epstein",
+        "fbi",
+        "ny",
+        "cart",
+        "call",
+        "redaction",
+        "sac",
+        "ssa",
+        "vc",
+        "details"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037227",
+            "similarity": 0.583,
+            "index": 31,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00037542",
+            "similarity": 0.538,
+            "index": 35,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037542",
+      "summary": "An FBI agent (NY) sent an email chain regarding a call detailing information about Jeffrey Epstein. The call was scheduled to utilize the VCAC Bridge Line (EFTA00037542) and was intended for multiple FBI personnel, including those in CID, SSA, and various ASAC and SSA roles within the New York Field Office’s Criminal - Branch C desk. The email chain confirms the call's purpose and instructs recipients to forward the information to others involved.",
+      "timestamp": "2019-08-29T00:00:00",
+      "timestamp_raw": "29 Aug 2019",
+      "keywords": [
+        "epstein",
+        "fbi",
+        "redaction",
+        "call",
+        "ny",
+        "vcac",
+        "bridge line",
+        "ssa",
+        "details",
+        "efta00037542"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037496",
+            "similarity": 0.538,
+            "index": 34,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037492",
+            "similarity": 0.538,
+            "index": 33,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037227",
+            "similarity": 0.583,
+            "index": 31,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00009957",
+      "summary": "A draft document, “DRAFT 302,” concerning the FBI New York Field Office Violent Crimes Task Force and case EFTA00009957, was sent from [REDACTED] to [REDACTED] with CCs to [REDACTED]. An attachment, “DRAFT.pdf” (containing an interview), is included. The email was sent on August 30, 2019.",
+      "timestamp": "2019-08-30T00:00:00",
+      "timestamp_raw": "August 30, 2019",
+      "keywords": [
+        "efta00009957",
+        "fbi",
+        "violent crimes",
+        "task force",
+        "draft 302",
+        "redaction",
+        "interview",
+        "new york field office",
+        "2019",
+        "august"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00009961",
+      "summary": "An email was sent from “=.11=MMII” to [REDACTED] on August 30, 2019, with the subject “302” and attachments, finalized for the Special Agent FBI New York Field Office Violent Crimes Task Force, concerning case file EFTA00009961.",
+      "timestamp": "2019-08-30T00:00:00",
+      "timestamp_raw": "August 30, 2019",
+      "keywords": [
+        "efta00009961",
+        "fbi",
+        "new york field office",
+        "violent crimes task force",
+        "redaction",
+        "analysis",
+        "2019",
+        "2025",
+        "pdf",
+        "agent"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031679",
+      "summary": "An email was sent from the FBI New York Field Office Violent Crimes Task Force (Special Agent) to [REDACTED] and [REDACTED], with CC to [REDACTED], regarding the uploaded files from FBINET to UNET. The email included a document named “Interview_of - DRAFT.pdf” and “DRAFT 302 of.” The case reference is EFTA00031679.",
+      "timestamp": "2019-08-30T00:00:00",
+      "timestamp_raw": "30 Aug 2019",
+      "keywords": [
+        "fbi",
+        "new york field office",
+        "violent crimes task force",
+        "fbinet",
+        "unet",
+        "redaction analysis",
+        "upload",
+        "files",
+        "interview",
+        "efta00031679"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018549",
+      "summary": "This email, dated August 30, 2019, is from an FBI Special Agent with the Violent Crimes Task Force at the New York Field Office regarding case EFTA00018549 ( Jimenez 302). It references a finalized inmate record for Jimenez 302.",
+      "timestamp": "2019-08-30T00:00:00",
+      "timestamp_raw": "August 30, 2019",
+      "keywords": [
+        "fbi",
+        "new york field office",
+        "violent crimes task force",
+        "jimenez",
+        "efta00018549",
+        "redaction",
+        "inmate",
+        "pdf",
+        "2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032422",
+      "summary": "This document is a finalized 302 notification, generated on August 30, 2019, regarding case file EFTA00032422. It originates from the FBI New York Field Office Violent Crimes Task Force and is sent to [REDACTED] and [REDACTED], with a copy to [REDACTED]. The attachment, 302.pdf, contains further details.",
+      "timestamp": "2019-08-30T00:00:00",
+      "timestamp_raw": "August 30, 2019",
+      "keywords": [
+        "efta00032422",
+        "fbi",
+        "redaction",
+        "302",
+        "violent crimes",
+        "task force",
+        "new york",
+        "usanys",
+        "oig",
+        "august 2019"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031678",
+      "summary": "This document is a finalized 302 form, originating from an FBI Special Agent in the New York Field Office, sent to [REDACTED] and [REDACTED]. It includes CCs to “M,” and discusses uncertainty regarding a matter related to EFTA00031678. Attachments include a PDF from the NY, FBI, OIG, NY (QUA), and CA.",
+      "timestamp": "2019-08-30T00:00:00",
+      "timestamp_raw": "30 Aug 2019",
+      "keywords": [
+        "efta00031678",
+        "fbi",
+        "redaction",
+        "usanys",
+        "new york",
+        "2019",
+        "302",
+        "agent",
+        "pdf",
+        "oig"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037840",
+      "summary": "A former chief of the Palm Beach Police Department, during the investigation of Jeffrey Epstein, contacted the New York Field Office case agent via Global Security Advisors. He claims to have information relevant to the investigation, citing contact through the DOJ Office of Professional Responsibility, and requests a call to share this information. The email contains a standard confidentiality notice.",
+      "timestamp": "2019-09-14T00:00:00",
+      "timestamp_raw": "14 Sep 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "palm beach police department",
+        "doj",
+        "fbi",
+        "case agent",
+        "coconspirators",
+        "investigation",
+        "email",
+        "global security advisors",
+        "confidential"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037842",
+      "summary": "An email chain discusses assisting victims related to the Epstein case in Los Angeles. The initial email requests assistance with transportation for Wednesday due to a lack of coverage for a boat accident case. A subsequent email confirms upcoming victim interviews with the Case Agent and AUSA in LA on Wednesday and Thursday, involving previously requested assistance from the New York Field Office (EFTA00037842).",
+      "timestamp": "2019-09-17T00:00:00",
+      "timestamp_raw": "17 Sep 2019",
+      "keywords": [
+        "epstein victims",
+        "la",
+        "victims",
+        "interviews",
+        "transportation",
+        "case agents",
+        "ausa",
+        "ventura",
+        "sb boat accident",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00017785",
+      "summary": "This document is a finalized 302, sent from the FBI New York Field Office Violent Crimes Task Force to [REDACTED] and [REDACTED], with copies to [REDACTED], [REDACTED], and [REDACTED]. It pertains to case EFTA00017785.",
+      "timestamp": "2019-09-18T00:00:00",
+      "timestamp_raw": "18 Sep 2019",
+      "keywords": [
+        "efta00017785",
+        "redaction analysis",
+        "fbi",
+        "violent crimes task force",
+        "302",
+        "new york",
+        "oig",
+        "usanys",
+        "september 2019"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00017783",
+      "summary": "This document is a finalized 302 from the FBI New York Field Office’s Violent Crimes Task Force, case file EFTA00017783, sent to [REDACTED] and copied to the OIG. The email originates from the FBI and details the case.",
+      "timestamp": "2019-09-18T00:00:00",
+      "timestamp_raw": "18 Sep 2019",
+      "keywords": [
+        "efta00017783",
+        "fbi",
+        "redaction analysis",
+        "violent crimes",
+        "task force",
+        "ny",
+        "usanys",
+        "oig",
+        "302",
+        "september 2019"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013214",
+      "summary": "A timeline report analyzing digital forensic reports from two computers retrieved from the SHU was created by the U.S. Department of Justice Office of the Inspector General, New York Field Office. The report was generated in response to a negative assessment of computer activity and a request for copies of documents accessed by Thomas during his shift.",
+      "timestamp": "2019-09-25T00:00:00",
+      "timestamp_raw": "25 Sep 2019",
+      "keywords": [
+        "computer report",
+        "digital forensic",
+        "timeline",
+        "doj oig",
+        "cyber",
+        "shu",
+        "u.s. department of justice",
+        "new york",
+        "thomas",
+        "efta00013214"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038181",
+      "summary": "FBI Victim Services Division, Unit Chief, contacted [REDACTED] via email on September 26, 2019, requesting information regarding a list of Epstein victims. The request included attempts to secure attorneys for the case. The email chain originated from a Victim Specialist in the New York Field Office (EFTA00038181).",
+      "timestamp": "2019-09-26T00:00:00",
+      "timestamp_raw": "September 26, 2019",
+      "keywords": [
+        "fbi",
+        "victim services division",
+        "epstein",
+        "victim list",
+        "attorneys",
+        "redaction",
+        "new york field office",
+        "mmamie",
+        "case support unit"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038184",
+      "summary": "An email was sent on September 26, 2019, from a Victim Specialist in the New York Field Office (EFTA00038184) to an unidentified individual regarding a meeting for victims of Jeffrey Epstein. The email included contact information and indicated an invitation was forthcoming.",
+      "timestamp": "2019-09-26T00:00:00",
+      "timestamp_raw": "September 26, 2019",
+      "keywords": [
+        "fbi",
+        "epstein",
+        "victims",
+        "meeting",
+        "new york",
+        "email",
+        "contact",
+        "redaction",
+        "analysis",
+        "2019"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019744",
+      "summary": "An Assistant United States Attorney sent a subpoena (attached as 2019-10-07_subpoena_tolapdf) to [REDACTED] requesting a subpoena for CapitalOne regarding a specific matter. The subpoena should include provided text and utilize an account number found by [REDACTED]. The Forensic Accountant at the FBI New York Field Office (26 Federal Plaza, NYC, NY 10278) was to forward results electronically to the Special Agent Federal Bureau of Investigation.",
+      "timestamp": "2019-11-07T00:00:00",
+      "timestamp_raw": "07 Oct 2019",
+      "keywords": [
+        "subpoena",
+        "capitalone",
+        "fbi",
+        "forensic accountant",
+        "new york",
+        "rider",
+        "redacted",
+        "united states attorney",
+        "investigation",
+        "electronic format"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037689",
+      "summary": "An email was sent from an FBI Forensic Accountant at the New York Field Office (EFTA00037689) to an unidentified recipient regarding “Clear & Accurint Rpts.” An attachment named “Clear_Rpt.pdf” was included.",
+      "timestamp": "2019-11-21T00:00:00",
+      "timestamp_raw": "21 Oct 2019",
+      "keywords": [
+        "efta00037689",
+        "redaction analysis",
+        "clear rpt",
+        "forensic accountant",
+        "fbi",
+        "nyc",
+        "imi"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023535",
+      "summary": "The Dal OIG Cyber team analyzed a BOP device and found one discussion of Jeffrey Epstein in a text exchange. The report is attached to an email from March 4, 2020, from the U.S. Department of Justice, Office of the Inspector General, New York Field Office to an unidentified recipient.",
+      "timestamp": "2020-03-04T00:00:00",
+      "timestamp_raw": "March 4, 2020",
+      "keywords": [
+        "efta00023535",
+        "redaction analysis",
+        "cyber",
+        "epstein",
+        "bop",
+        "text exchange",
+        "u.s. department of justice",
+        "office of the inspector general",
+        "new york field office",
+        "cyber rofe"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00017952",
+      "summary": "An FBI Special Agent from the New York Field Office’s Violent Crimes Task Force sent a 302 form regarding seized hard drives associated with DVR 2 to an individual at [REDACTED] on March 9, 2020. The email included a PDF attachment detailing the seizure and referenced prior email correspondence concerning the DVRs and video system.",
+      "timestamp": "2020-03-09T00:00:00",
+      "timestamp_raw": "March 9, 2020",
+      "keywords": [
+        "efta00017952",
+        "fbi",
+        "seized hard drives",
+        "dvr",
+        "302",
+        "redaction",
+        "violent crimes task force",
+        "mcc",
+        "video system",
+        "email"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00017949",
+      "summary": "On March 9, 2020, an FBI Special Agent from the New York Field Office reported that priority cameras from dvrl had completed downloading. A contractor was installing a replacement system, with the expectation of new cameras recording by that night. The A7 Agent and a BOP employee would remain to oversee the tech’s work, and the agent planned to secure the room with evidence tape upon completion. Video was to be staged on opwan and ttk for review and transcoding, and the DVR was scheduled for shutdown and collection the following day.",
+      "timestamp": "2020-03-09T00:00:00",
+      "timestamp_raw": "March 9, 2020",
+      "keywords": [
+        "fbi",
+        "cameras",
+        "dvr",
+        "contractor",
+        "mxu",
+        "a7 agent",
+        "bop",
+        "evidence tape",
+        "transcode",
+        "ttk"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00017948",
+      "summary": "On March 9, 2020, the FBI New York Field Office’s Violent Crimes Task Force received an update from the Digital Forensic Analysis Unit (DFAU) regarding DVR 1. DFAU obtained the password from the MCC Contractor and is currently reviewing the data. DVR 2, covering the MCC SHU, is not running and the MCC Contractor is scheduled to begin working with DFAU in the OTD Lab the following day.",
+      "timestamp": "2020-03-09T00:00:00",
+      "timestamp_raw": "March 9, 2020",
+      "keywords": [
+        "fbi",
+        "dvr",
+        "digital forensic analysis unit",
+        "dfau",
+        "mcc",
+        "contractor",
+        "update",
+        "violent crimes task force",
+        "new york",
+        "data"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025128",
+      "summary": "A forensic accountant at the FBI New York Field Office received a subpoena tracker from an unidentified sender on June 2, 2020. The tracker, attached to an email, only contained subpoenas served by the FBI and excluded the Epstein Deutsche Bank production. The sender proposed setting up a Dal virtual drive for shared access.",
+      "timestamp": "2020-06-02T00:00:00",
+      "timestamp_raw": "June 2, 2020",
+      "keywords": [
+        "epstein",
+        "subpoena",
+        "fbi",
+        "deutsche bank",
+        "production",
+        "tracker",
+        "virtual drive",
+        "forensic accountant",
+        "redaction",
+        "new york"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00023538",
+            "similarity": 0.818,
+            "index": 56,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00023538",
+      "summary": "A forensic accountant from the FBI New York Field Office sent a subpoena tracker (Epstein_Subpoena_Tracker V6.1.20.xlsx) to an individual, including information on subpoenas served by the FBI. The tracker excludes the Epstein-Deutsche Bank production. The accountant offered to provide missing productions and discussed the possibility of a shared Dal virtual drive.",
+      "timestamp": "2020-06-02T00:00:00",
+      "timestamp_raw": "02 Jun 2020",
+      "keywords": [
+        "epstein",
+        "subpoena",
+        "tracker",
+        "fbi",
+        "deutsche bank",
+        "production",
+        "forensic accountant",
+        "virtual drive",
+        "dal",
+        "new york"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00025128",
+            "similarity": 0.818,
+            "index": 55,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016316",
+      "summary": "An FBI Forensic Accountant at the New York Field Office is requesting access to USAfx. The request stems from an inability to locate subpoena returns previously provided by a U.S. Attorney’s Office paralegal specialist in SDNY, who previously sent returns on discs. The paralegal specialist is asking for the returns to be uploaded to USAfx.",
+      "timestamp": "2020-06-10T00:00:00",
+      "timestamp_raw": "10 Jun 2020",
+      "keywords": [
+        "epstein",
+        "subpoena",
+        "tracker",
+        "usafx",
+        "forensic accountant",
+        "fbi",
+        "ny",
+        "bank subpoenas",
+        "returns",
+        "sdny"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037701",
+      "summary": "On June 16, 2020, Ori (from the FBI New York Field Office, EFTA00037701) requested Mark to serve a subpoena related to a CITI account belonging to Maxwell. The subpoena was sent by a Forensic Accountant at the FBI New York Field Office.",
+      "timestamp": "2020-06-16T00:00:00",
+      "timestamp_raw": "June 16, 2020",
+      "keywords": [
+        "fbi",
+        "citi account",
+        "subpoena",
+        "citibank",
+        "maxwell",
+        "forensic accountant",
+        "redaction",
+        "efta00037701"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037700",
+      "summary": "An FBI Forensic Accountant from the New York Field Office sent an email to [REDACTED] and [REDACTED] regarding a CITI account belonging to Maxwell ([REDACTED]). The email included the reference number EFTA00037700. A PDF attachment named UBSTERRAMAR00000582.pdf was included.",
+      "timestamp": "2020-06-16T00:00:00",
+      "timestamp_raw": "16 Jun 2020",
+      "keywords": [
+        "citi account",
+        "maxwell",
+        "fbi",
+        "forensic accountant",
+        "efta00037700",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037707",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] on June 17, 2020, regarding the upload of three JP Morgan Chase productions related to Maxwell and Best to the DOJ file sharing site. The email was sent from the FBI New York Field Office, specifically EFTA00037707.",
+      "timestamp": "2020-06-17T00:00:00",
+      "timestamp_raw": "June 17, 2020",
+      "keywords": [
+        "efta00037707",
+        "jp morgan chase",
+        "maxwell",
+        "fbi",
+        "forensic accountant",
+        "doj",
+        "file sharing",
+        "redaction",
+        "new york",
+        "2020"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037947",
+      "summary": "An FBI Special Agent from the New York field office (NY) contacted Ms. [REDACTED] regarding the Epstein case. The Agent was contacted by another FBI agent who had been instructed to reach out to Ms. [REDACTED] by Attorney Sigrid McCawley. The Agent offered availability for discussion starting 10 AM the following day and throughout the following week.",
+      "timestamp": "2020-06-18T00:00:00",
+      "timestamp_raw": "18 Jun 2020",
+      "keywords": [
+        "epstein case",
+        "fbi",
+        "redaction analysis",
+        "human trafficking",
+        "child exploitation",
+        "sigrid mccawley",
+        "new york",
+        "availability",
+        "correspondence",
+        "efta00037947"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016343",
+      "summary": "An FBI agent (“a”) contacted Amex regarding a credit card associated with Maxwell, noting a discrepancy between Amex account numbering conventions (accounts starting with 37 versus the provided 34). The agent inquired about returns from the card, given the last statement date of 12/18/19. A Forensic Accountant (FBI New York Field Office) responded with an attached draft analysis of Maxwell’s credit cards for discussion purposes, subject to change.",
+      "timestamp": "2020-06-29T00:00:00",
+      "timestamp_raw": "29 Jun 2020",
+      "keywords": [
+        "efta00016343",
+        "maxwell's credit cards",
+        "amex",
+        "returns",
+        "credit cards",
+        "fbi",
+        "forensic accountant",
+        "financial productions",
+        "analysis",
+        "37"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037957",
+      "summary": "This email discusses a case, “Maxwell Catch up Case number 031E-NY-3027571,” involving Scott Borgerson (Maxwell’s boyfriend). Attached files include data from T-Mobile and AT&T showing common calls with her lawyer, boyfriend, sister, and Brian Yurasits. Two Excel files contain historical search data and pivot tables with latitude and longitude information. The email also adds three individuals to “espa files” and includes photographic evidence (receipt from Scott Borgerson’s credit card) and a copy of a report titled “New H.” The email indicates involvement of the NYPD TFO and an Administrative Specialist at the FBI-New York Field Office.",
+      "timestamp": "2020-06-30T00:00:00",
+      "timestamp_raw": "30 Jun 2020",
+      "keywords": [
+        "efta00037957",
+        "maxwell",
+        "nypd",
+        "tmobile",
+        "att",
+        "gps warrants",
+        "data analysis",
+        "case number",
+        "credit card",
+        "brian yurasits"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038589",
+      "summary": "A forensic accountant at the FBI New York Field Office sent an email to recipients containing IRA statements for Maxwell UBS accounts from June 30, 2020, to December 31, 2019. The email included an attached PDF document named “Mawell_UBS_IRA_Acct_Stmt_6-30-20_and_12-31-19.pdf”.",
+      "timestamp": "2020-06-30T00:00:00",
+      "timestamp_raw": "June 30, 2020",
+      "keywords": [
+        "ira",
+        "maxwell",
+        "ubs",
+        "stmt",
+        "forensic accountant",
+        "fbi",
+        "new york",
+        "redaction",
+        "2020",
+        "2019"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037922",
+      "summary": "Emails between Edwards Pittinger LLC (a trial attorney) and the FBI New York Field Office regarding scheduling consultations with victims related to the Epstein case. One email discusses availability for consultations early next week. Another email from the FBI requests confirmation of Monday, June 29th for speaking with specific victims, and inquires about obtaining verification of interviews (302s or similar). There are redactions throughout the documents.",
+      "timestamp": "2020-06-30T00:00:00",
+      "timestamp_raw": "30 Jun 2020",
+      "keywords": [
+        "epstein victims",
+        "redaction analysis",
+        "edwards pottinger llc",
+        "fbi new york",
+        "trial attorney",
+        "human trafficking",
+        "scheduling",
+        "verification",
+        "florida",
+        "victim"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037702",
+      "summary": "A forensic accountant at the FBI New York Field Office prepared an analysis of account numbers related to “Maxwell” within AMEX production. The analysis identifies three account relationships: ELLMAX LLC/GMAXWELL (last statement September 2016), G MAXWELL (current account with specified last six digits), and THEODORE W WAITT (Maxwell had a sub-account with a last statement in September 2010). The draft analysis is for discussion purposes only and subject to change.",
+      "timestamp": "2020-07-01T00:00:00",
+      "timestamp_raw": "01 Jul 2020",
+      "keywords": [
+        "efta00037702",
+        "maxwell",
+        "amex",
+        "account",
+        "analysis",
+        "redaction",
+        "fbi",
+        "forensic accountant",
+        "ellmax llc",
+        "theodore w waitt"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037704",
+      "summary": "A defense memo was sent from [REDACTED] to [REDACTED] on July 10, 2020, regarding child exploitation/human trafficking, handled by the FBI New York Field Office's Child Exploitation/Human Trafficking unit. The memo is attached as 2020-07-10,_Maxwell,_defense_memorandum.pdf.",
+      "timestamp": "2020-07-10T00:00:00",
+      "timestamp_raw": "July 10, 2020",
+      "keywords": [
+        "efta00037704",
+        "defense memo",
+        "human trafficking",
+        "child exploitation",
+        "fbi",
+        "maxwell",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037705",
+      "summary": "An FBI Forensic Accountant at the New York Field Office sent an analysis of Maxwell’s accounts as of 6/30/20 to Ori, requesting updates incorporating information from UBS. The analysis is a draft for discussion purposes and is subject to change, pending further information from UBS regarding the funding of the Montpelier Trust and its expenditures.",
+      "timestamp": "2020-07-10T00:00:00",
+      "timestamp_raw": "10 Jul 2020",
+      "keywords": [
+        "efta00037705",
+        "maxwell",
+        "ubs",
+        "montpelier trust",
+        "expenditures",
+        "account balances",
+        "forensic accountant",
+        "fbi",
+        "redaction",
+        "analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00038016",
+            "similarity": 0.538,
+            "index": 71,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038006",
+      "summary": "Emails exchanged between an FBI agent (New York Field Office, Child Exploitation/Human Trafficking) and Edwards Pottinger LLC (425 North Andrews Ave, Suite 2, Fort Lauderdale, FL) regarding scheduling interviews with two unnamed victims related to the Epstein case. The core discussion revolves around finding mutually agreeable times for interviews, with delays attributed to coordinating with the victims and scheduling conflicts. Offers for interviews are extended throughout the week, primarily focusing on early next week. Requests are made to verify the interviews through forms like 302s.",
+      "timestamp": "2020-07-13T00:00:00",
+      "timestamp_raw": "13 Jul 2020",
+      "keywords": [
+        "epstein victims",
+        "fbi new york field office",
+        "child exploitation",
+        "human trafficking",
+        "edwards pottinger llc",
+        "interviews",
+        "scheduling",
+        "victims",
+        "fort lauderdale",
+        "florida"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014966",
+      "summary": "Emails between FBI agents in the New York Field Office (NYFO) and a NYO CART Coordinator discuss granting access to the Epstein evidence review (“JE evidence”) to an individual referred to as “SOS” and previously granted access via CAIR. A request is made to update SOS’s CAIR access due to her belief that it is no longer current. The emails detail inquiries about access and confirmations of access being provided.",
+      "timestamp": "2020-07-13T00:00:00",
+      "timestamp_raw": "July 13, 2020",
+      "keywords": [
+        "cart",
+        "fbi",
+        "ny",
+        "epstein",
+        "evidence",
+        "access",
+        "cair",
+        "review",
+        "trafficking",
+        "human"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038016",
+      "summary": "Ori will update an analysis of Maxwell’s 6/30/20 account balances and send it to the recipient. The recipient, [REDACTED], requested an update incorporating information from UBS, specifically regarding the funding and expenditures of the Montpelier Trust. A draft analysis, attached by [REDACTED], was provided for discussion purposes and is subject to change. The update will be performed by a Forensic Accountant from the FBI New York Field Office (EFTA00038017).",
+      "timestamp": "2020-07-13T00:00:00",
+      "timestamp_raw": "13 Jul 2020",
+      "keywords": [
+        "maxwell",
+        "account balances",
+        "ubs",
+        "montpelier trust",
+        "expenditures",
+        "funding",
+        "redaction analysis",
+        "fbi",
+        "forensic accountant",
+        "6/30/20"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037705",
+            "similarity": 0.538,
+            "index": 68,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024475",
+      "summary": "An FBI Special Agent from the New York Field Office (EFTA00024475) sent a communication to [REDACTED] regarding documentation of phone number and last call made by Jeffrey Epstein. The communication included an \"Initial Review of Records.pdf\" attachment.",
+      "timestamp": "2020-07-14T00:00:00",
+      "timestamp_raw": "14 Jul 2020",
+      "keywords": [
+        "fbi",
+        "epstein",
+        "phone number",
+        "redacted",
+        "usanys",
+        "violent crimes task force",
+        "records",
+        "review",
+        "new york field office",
+        "2020"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020666",
+      "summary": "On July 14, 2020, the USANYS contractor (SANYS) received a communication from the FBI regarding the “InReEpsteinDeath” case file. The FBI was gathering documentation, including 302s, and suggested a folder titled “InReEpsteinDeath” for shared access. A special agent from the FBI New York Field Office provided a file containing information about Jeffrey Epstein’s phone number and last call.",
+      "timestamp": "2020-07-14T00:00:00",
+      "timestamp_raw": "July 14, 2020",
+      "keywords": [
+        "fbi",
+        "case file",
+        "epstein",
+        "usanys",
+        "sanys",
+        "redaction",
+        "discovery",
+        "302s",
+        "phone number",
+        "contractor"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038040",
+      "summary": "An email was sent on July 14, 2020, regarding a \"GM conference\" from the FBI New York Field Office, Child Exploitation/Human Trafficking unit (EFTA00038040). The email included a scheduling order document (2020.07.09_Scheduling_Orderpdf).",
+      "timestamp": "2020-07-14T00:00:00",
+      "timestamp_raw": "July 14, 2020",
+      "keywords": [
+        "efta00038040",
+        "gm conference",
+        "fbi",
+        "child exploitation",
+        "human trafficking",
+        "scheduling",
+        "conference"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028772",
+      "summary": "On July 14, 2020, an FBI agent from the New York Field Office (NY) contacted another party regarding a case file (EFTA00028772) containing information about phone numbers and last calls made by Jeffrey Epstein, documented by Mike. The initial contact was from an individual at USANYS.",
+      "timestamp": "2020-07-14T00:00:00",
+      "timestamp_raw": "July 14, 2020",
+      "keywords": [
+        "epstein",
+        "fbi",
+        "phone number",
+        "call",
+        "case file",
+        "redacted",
+        "ny",
+        "usanys",
+        "302",
+        "mike"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00028773",
+            "similarity": 0.538,
+            "index": 77,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00020665",
+      "summary": "A communication chain involving the USANYS, NY (OGA), FBI (NY), and FBI Violent Crimes Task Force (New York Field Office) discusses a 302 record concerning phone number and last call information related to Jeffrey Epstein, documented by Mike. The email exchange originates on July 14, 2020, with the FBI offering to provide additional materials.",
+      "timestamp": "2020-07-14T00:00:00",
+      "timestamp_raw": "July 14, 2020",
+      "keywords": [
+        "efta00020665",
+        "epstein",
+        "fbi",
+        "ny",
+        "usanys",
+        "phone number",
+        "redaction",
+        "case file",
+        "violent crimes task force",
+        "initial review"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00028773",
+            "similarity": 0.667,
+            "index": 77,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00028773",
+      "summary": "On July 14, 2020, an FBI agent from the New York Field Office (NY) contacted a USANYS contact regarding a 302 case and the phone number associated with Jeffrey Epstein’s last call. The email chain details the agent’s intention to investigate the matter and offer assistance.",
+      "timestamp": "2020-07-14T00:00:00",
+      "timestamp_raw": "July 14, 2020",
+      "keywords": [
+        "efta00028773",
+        "epstein",
+        "fbi",
+        "usanys",
+        "redaction",
+        "phone number",
+        "case file",
+        "violent crimes task force",
+        "302",
+        "ny"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00020665",
+            "similarity": 0.667,
+            "index": 76,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028772",
+            "similarity": 0.538,
+            "index": 75,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037997",
+      "summary": "The document consists of email exchanges between FBI agents and Edwards Pottinger LLC regarding scheduling interviews with victims related to the Epstein case. The emails discuss availability for interviews, primarily focusing on securing slots between July 9th and June 29th, 2020. There are repeated requests to coordinate times and confirm the availability of the victims. The emails involve coordination between the FBI New York Field Office (Child Exploitation/Human Trafficking) and Edwards Pottinger LLC, a legal firm. Several communications mention a need for verification of the victims' interviews (e.g., 302 forms).",
+      "timestamp": "2020-07-15T00:00:00",
+      "timestamp_raw": "15 Jul 2020",
+      "keywords": [
+        "epstein victims",
+        "fbi",
+        "edwards pottinger",
+        "child exploitation",
+        "human trafficking",
+        "interviews",
+        "scheduling",
+        "florida",
+        "redaction"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024478",
+      "summary": "An email exchange discusses a reported Epstein victim claim received by a Special Agent with the Diplomatic Security Service (DSS) – New York Field Office. The agent forwarded information to another individual, citing a call from the State Department. The email indicates coordination efforts regarding the next steps in the investigation. The email is marked as UNCLASSIFIED.",
+      "timestamp": "2020-07-16T00:00:00",
+      "timestamp_raw": "16 Jul 2020",
+      "keywords": [
+        "epstein",
+        "dss",
+        "redaction",
+        "usanys",
+        "state department",
+        "victim",
+        "coordination",
+        "email",
+        "security",
+        "cell"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038041",
+      "summary": "An email was sent from a Special Agent with the FBI New York Field Office (Child Exploitation/Human Trafficking) to multiple recipients regarding a taint review. The email attached search terms (“Epstein_Priv_terms.docx”) and indicated the agent would be available via phone for questions, with assistance from a partner detective, Det., also available.",
+      "timestamp": "2020-07-16T00:00:00",
+      "timestamp_raw": "16 Jul 2020",
+      "keywords": [
+        "taint review",
+        "search terms",
+        "fbi",
+        "epstein",
+        "child exploitation",
+        "human trafficking",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032091",
+      "summary": "This document, originating from the FBI New York Field Office Violent Crimes Task Force, is titled EFTA00032091 and pertains to an investigation involving the USANYS. It includes a zip file named Part_3.zip and was sent on July 23, 2020, to multiple recipients including [REDACTED] and [REDACTED].  Three redactions are present within the document.",
+      "timestamp": "2020-07-23T00:00:00",
+      "timestamp_raw": "July 23, 2020",
+      "keywords": [
+        "efta00032091",
+        "fbi",
+        "violent crimes",
+        "task force",
+        "redaction analysis",
+        "usanys",
+        "2020",
+        "2025",
+        "aiimmie"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025401",
+      "summary": "An FBI Violent Crimes Task Force Special Agent from the New York Field Office sent an email to [REDACTED] on July 23, 2020, regarding case file EFTA00025401. The email included an attachment named Part_4.zip. The email originated from NY [REDACTED]@[REDACTED] (SANYS, USANYS, USANYS) and identified the sender as a \"Contractor.\"",
+      "timestamp": "2020-07-23T00:00:00",
+      "timestamp_raw": "July 23, 2020",
+      "keywords": [
+        "efta00025401",
+        "redaction analysis",
+        "fbi",
+        "violent crimes task force",
+        "new york",
+        "2020",
+        "contractor",
+        "efta"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015849",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] on July 24, 2020, regarding case file EFTA00015849. The email included an attachment named “Part_9.zip” and was sent by the FBI New York Field Office, Violent Crimes Task Force. The sender is identified as a Special Agent with contact information including a desk and cell number.",
+      "timestamp": "2020-07-24T00:00:00",
+      "timestamp_raw": "July 24, 2020",
+      "keywords": [
+        "efta00015849",
+        "fbi",
+        "redaction",
+        "violent crimes",
+        "task force",
+        "ny",
+        "contract",
+        "usanys",
+        "2020",
+        "july"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025442",
+      "summary": "An email chain discusses a sign posted in the SHU at MCC during interviews with employees related to Jeffrey Epstein. The email originated from the U.S. Department of Justice, Office of the Inspector General, New York Field Office, and specifically asks if anyone recalled an employee mentioning the sign and if any prior inquiries were made regarding it. A production of records from the BOP was recently received as part of FOIA litigation, including the attached document.",
+      "timestamp": "2020-07-27T00:00:00",
+      "timestamp_raw": "27 Jul 2020",
+      "keywords": [
+        "efta00025442",
+        "fbi",
+        "shu",
+        "epstein",
+        "sign",
+        "bop",
+        "foia",
+        "litigation",
+        "mcc",
+        "records"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021758",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] and [REDACTED] requesting that Will save and track interview notes from the FBI New York Field Office regarding Child Exploitation and Human Trafficking. The notes, titled “interview notes180754.pdf,” are attached to the email. The email reference is EFTA00021758.",
+      "timestamp": "2020-07-27T00:00:00",
+      "timestamp_raw": "July 27, 2020",
+      "keywords": [
+        "efta00021758",
+        "interview notes",
+        "fbi",
+        "new york",
+        "trafficking",
+        "child exploitation",
+        "redaction",
+        "tracker",
+        "epstein",
+        "will"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020777",
+      "summary": "Email correspondence regarding the saving and tracking of interview notes from the FBI New York Field Office (Child Exploitation/Human Trafficking) related to case EFTA00020777. The notes were sent to an Epstein share drive and added to a tracker.",
+      "timestamp": "2020-07-28T00:00:00",
+      "timestamp_raw": "28 Jul 2020",
+      "keywords": [
+        "interview notes",
+        "redaction",
+        "fbi",
+        "new york field office",
+        "child exploitation",
+        "human trafficking",
+        "tracker",
+        "epstein share drive",
+        "save",
+        "notes"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037974",
+      "summary": "On July 29, 2020, the FBI New York Field Office (specifically the Child Exploitation/Human Trafficking and Public Corruption squads) requested assistance from other FBI offices, including the NY office, regarding the Epstein/Maxwell investigation. Squad C-20 within the VCAC/HT unit was seeking volunteers due to a significant volume of evidence and a project with a turnaround time of end of August. A supervisor expressed understanding and willingness to assist pending SSA approval. A request for details on time commitment and activity was sent, and a subsequent email outlined the investigation’s scope and requested visibility from relevant agents.",
+      "timestamp": "2020-07-29T00:00:00",
+      "timestamp_raw": "July 29, 2020",
+      "keywords": [
+        "fbi",
+        "c-20",
+        "epstein",
+        "maxwell",
+        "human trafficking",
+        "child exploitation",
+        "investigation",
+        "time commitment",
+        "new york",
+        "request for assistance"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00037977",
+            "similarity": 0.667,
+            "index": 88,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037977",
+      "summary": "On July 29, 2020, the FBI New York Field Office’s Child Exploitation/Human Trafficking unit (Squad C-20) requested assistance regarding the ongoing Epstein/Maxwell investigation. An initial email circulated requesting availability from individuals to discuss the case and contact the SA and SSA. A subsequent email reiterated the request for assistance and included contact information for the FBI New York Field Office.",
+      "timestamp": "2020-07-29T00:00:00",
+      "timestamp_raw": "July 29, 2020",
+      "keywords": [
+        "fbi",
+        "new york",
+        "c-20",
+        "epstein",
+        "maxwell",
+        "human trafficking",
+        "child exploitation",
+        "redaction",
+        "investigation",
+        "ssa"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037974",
+            "similarity": 0.667,
+            "index": 87,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037972",
+      "summary": "An FBI Special Agent (SA) from the New York Field Office (Child Exploitation/Human Trafficking) is seeking volunteers to assist with the Epstein/Maxwell investigation. The SA is requesting assistance with prepping evidence, organizing discovery, reviewing items, and listening to recordings.  A potential volunteer expressed interest on July 29, 2020, offering availability for phone conversations and discussing how to fulfill SOG shifts. The Squad C-20 (VCAC/HT) is specifically involved and highlighted the case's high profile nature.",
+      "timestamp": "2020-07-29T00:00:00",
+      "timestamp_raw": "July 29, 2020",
+      "keywords": [
+        "fbi",
+        "volunteer",
+        "investigation",
+        "sog",
+        "evidence",
+        "discovery",
+        "maxwell",
+        "epstein",
+        "trafficking",
+        "child exploitation"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00038043",
+            "similarity": 0.667,
+            "index": 90,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038043",
+      "summary": "An FBI Special Agent (SA) from the New York Field Office (Child Exploitation/Human Trafficking) is seeking volunteers to assist with the Epstein/Maxwell investigation. The SA is requesting assistance with prepping evidence, organizing discovery, reviewing items, and listening to recordings. Several individuals expressed interest, including those from the TD (FBI), NY (FBI), and SOG. A specific time for a conversation was offered for Monday. The investigation involves Squad C-20 (VCAC/HT).",
+      "timestamp": "2020-08-01T00:00:00",
+      "timestamp_raw": "01 Aug 2020",
+      "keywords": [
+        "fbi",
+        "volunteer",
+        "investigation",
+        "evidence",
+        "discovery",
+        "recordings",
+        "sog",
+        "epstein",
+        "maxwell",
+        "human trafficking"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037972",
+            "similarity": 0.667,
+            "index": 89,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026741",
+      "summary": "This document details the exchange of discovery materials related to an FBI investigation, likely involving child exploitation and human trafficking, overseen by the US Attorney’s office in the Southern District of New York. Key elements include: *   **Initial Delivery:** A box of media (VHS tapes, cassette tapes, microcassettes, and newspaper articles) provided by Reiter, accompanied by a thumbdrive with a spreadsheet detailing included items. *   **Ongoing Redaction:** The FBI is actively redacting sensitive materials from the discovered media. *   **Requests for Additional Materials:** The US Attorney’s office requests further items, including transcript discs, paper evidence, FBI files, and digital scans without post-it notes. Specifically, they seek copies of grand jury transcripts, returns for warrants, and detailed logs of image scans (particularly concerning potentially sensitive images). *   **Technical Challenges:** The team faces issues with the scanned materials, including discrepancies between versions with and without post-it notes, and a large volume of images requiring review and redaction. *   **Coordination:** Multiple parties – the FBI New York Field Office, NYPD detectives, and the US Attorney’s office – are involved in coordinating the collection, review, and redaction process.",
+      "timestamp": "2020-08-20T00:00:00",
+      "timestamp_raw": "20 Aug 2020",
+      "keywords": [
+        "redaction",
+        "analysis",
+        "media",
+        "vhs",
+        "cassette",
+        "microcassettes",
+        "thumbdrive",
+        "spreadsheet",
+        "evidence",
+        "scans",
+        "fbi",
+        "redactions",
+        "disks",
+        "images",
+        "copies",
+        "time"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037968",
+      "summary": "*   The OPR forwarded the report in two parts due to its size, requesting confidentiality. *   The agent was tasked with assessing whether the report’s content would impact the FBI’s 7A stance. *   Multiple individuals (including a Unit Chief and others within the FBI and OPR) were involved in the distribution and review of the document. *   There was a deadline of this Friday for a response to the OPR regarding the report's potential impact.",
+      "timestamp": "2020-09-15T00:00:00",
+      "timestamp_raw": "15 Sep 2020",
+      "keywords": [
+        "fbi",
+        "usdoj",
+        "opr",
+        "child exploitation",
+        "human trafficking",
+        "epstein investigation",
+        "7a stance",
+        "confidentiality",
+        "litigation support",
+        "redaction"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037964",
+      "summary": "*   The OPR report was requested for review to assess its potential impact on the FBI’s 7A stance. *   Multiple individuals (Special Agents, Government Information Specialists, Unit Chiefs, and Counsel) were involved in the review process, with deadlines set for responses (primarily by Friday, September 18th). *   The report was initially sent in parts due to its size, and all communications related to the review were to be treated with confidentiality.",
+      "timestamp": "2020-09-16T00:00:00",
+      "timestamp_raw": "16 Sep 2020",
+      "keywords": [
+        "usdoj",
+        "opr",
+        "fbi",
+        "epstein",
+        "investigation",
+        "review",
+        "7a",
+        "report",
+        "trafficking",
+        "human trafficking"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038018",
+      "summary": "A Special Agent from the FBI New York Field Office requested approval for international travel within the next month to interview an important witness in the Epstein/Maxwell investigation. The travel was initially planned in March but was postponed due to COVID-19. The agent also inquired about the process for obtaining IOD approval for the travel.",
+      "timestamp": "2020-09-24T00:00:00",
+      "timestamp_raw": "24 Sep 2020",
+      "keywords": [
+        "efta00038018",
+        "international travel",
+        "epstein/maxwell",
+        "witness",
+        "covid",
+        "iod approval",
+        "fbi",
+        "new york field office",
+        "human trafficking",
+        "travel request"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038107",
+      "summary": "On October 1, 2020, an FBI Special Agent from the New York Field Office requested assistance to find two volunteers for a Maxwell investigation. The investigation involves presenting digital evidence (a laptop and hard drive) to Maxwell and her defense team at MDC, potentially requiring several hours of waiting. The request was sent to agents to identify individuals willing to assist with this task.",
+      "timestamp": "2020-10-01T00:00:00",
+      "timestamp_raw": "October 1, 2020",
+      "keywords": [
+        "fbi",
+        "maxwell investigation",
+        "volunteers",
+        "discovery",
+        "mdc",
+        "digital evidence",
+        "laptop",
+        "hard drive",
+        "agents",
+        "assistance"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038026",
+      "summary": "On October 20, 2020, the FBI New York Field Office (NY) requested assistance for the Maxwell investigation (C-20). Specifically, they needed one agent to assist with reviewing digital evidence (a laptop and hard drive) at the Miami-Dade Correctional Facility (MDC) with Maxwell and her defense team on Friday, October 23, 2020, from 8:00 AM to 3:00 PM.  A previous request for two agents was delayed due to defense counsel availability.  Another FBI agent (SI) was already assisting and another agent (s) was unavailable.  The request originated from a forwarded email detailing the need for a volunteer to support the investigation.",
+      "timestamp": "2020-10-20T00:00:00",
+      "timestamp_raw": "October 20, 2020",
+      "keywords": [
+        "efta00038026",
+        "fbi",
+        "maxwell",
+        "mdc",
+        "discovery",
+        "defense counsel",
+        "human trafficking",
+        "agent",
+        "laptop",
+        "evidence"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00038020",
+            "similarity": 0.538,
+            "index": 97,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038020",
+      "summary": "On October 20, 2020, an email request was sent from the FBI New York Field Office, Child Exploitation/Human Trafficking unit, to solicit assistance for the Maxwell investigation. The request involves providing digital evidence (laptop and hard drive) to Maxwell and her attorneys at the MDC for review. Two FBI agents were requested to assist from Friday, October 23, 2020, between 8:00 AM and 3:00 PM, due to scheduling conflicts involving defense counsel. A follow-up email, sent on October 1, 2020, reiterated the request from NYPD Squad C-20, specifying a potential timeframe of Wednesday or Thursday next week.",
+      "timestamp": "2020-10-20T00:00:00",
+      "timestamp_raw": "October 20, 2020",
+      "keywords": [
+        "fbi",
+        "maxwell",
+        "c-20",
+        "investigation",
+        "discovery",
+        "mdc",
+        "human trafficking",
+        "agent",
+        "laptop",
+        "hard drive"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038026",
+            "similarity": 0.538,
+            "index": 96,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00038210",
+            "similarity": 0.538,
+            "index": 98,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038210",
+      "summary": "On November 4, 2020, the FBI New York Field Office (Special Agent, Child Exploitation/Human Trafficking) received a request from Squad C-20 for assistance with the Maxwell investigation. Two FBI agents were requested to volunteer on November 6, 2020, from 8:00 am to 3:00 pm to present digital evidence (laptop and hard drive) to Maxwell and her defense team at MDC.",
+      "timestamp": "2020-11-04T00:00:00",
+      "timestamp_raw": "November 4, 2020",
+      "keywords": [
+        "fbi",
+        "c-20",
+        "maxwell",
+        "investigation",
+        "human trafficking",
+        "child exploitation",
+        "digital evidence",
+        "laptop",
+        "hard drive",
+        "redacted"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038020",
+            "similarity": 0.538,
+            "index": 97,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019117",
+      "summary": "On November 6, 2020, an FBI agent (NY) was coordinating a visit to the MDC (Metropolitan Detention Center) for Ghislaine Maxwell and her attorney to review the contents of a laptop. The purpose of the visit was to occur between 9:15 AM and 3:00 PM. An Assistant United States Attorney from the Southern District of New York and a Special Agent from the FBI New York Field Office were copied for support. The FBI agent provided instructions for accessing the visitor entrance and contacting MDC legal counsel.",
+      "timestamp": "2020-11-06T00:00:00",
+      "timestamp_raw": "November 6, 2020",
+      "keywords": [
+        "fbi",
+        "maxwell",
+        "mdc",
+        "ghislaine maxwell",
+        "fbi",
+        "new york",
+        "legal counsel",
+        "visit",
+        "agent",
+        "redaction"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038197",
+      "summary": "An email chain discusses a meeting at MDC to show a laptop (case number 50D-NY-3027571). A Special Agent from the FBI New York Field Office has informed two individuals, SA and SA, about the meeting time (9:15am – 3pm). The Agent requests the case number and file number to log the event. A previous email confirms the laptop was collected and would be returned next week.",
+      "timestamp": "2020-12-10T00:00:00",
+      "timestamp_raw": "10 Nov 2020",
+      "keywords": [
+        "efta00038197",
+        "mdc",
+        "fbi",
+        "case number",
+        "laptop",
+        "redaction",
+        "november 6",
+        "2020",
+        "special agent",
+        "child exploitation",
+        "human trafficking"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00038199",
+            "similarity": 0.692,
+            "index": 101,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038199",
+      "summary": "Ib informed the sender that he would be unavailable tomorrow. A previous email thread indicates that a laptop was delivered to MDC, and a Special Agent from the FBI New York Field Office was to assist with its pickup. The case number is 50D-NY-3027571. The Agent had instructed SA to give the computer to the recipients next week and requested the case and file numbers for logging.",
+      "timestamp": "2020-12-10T00:00:00",
+      "timestamp_raw": "10 Nov 2020",
+      "keywords": [
+        "efta00038199",
+        "mdc",
+        "fbi",
+        "laptop",
+        "case number",
+        "redaction",
+        "november 6",
+        "2020",
+        "maurene",
+        "special agent",
+        "human trafficking"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038197",
+            "similarity": 0.692,
+            "index": 100,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038555",
+      "summary": "An FBI Special Agent from the New York Field Office contacted another FBI agent regarding a former Epstein victim who has resurfaced. The victim is seeking a trauma-focused therapist and the agent requested suggestions for nearby office locations. The initial contact occurred on February 2, 2021, with follow-up emails exchanged discussing the situation and the agent’s availability for a chat.",
+      "timestamp": "2021-02-02T00:00:00",
+      "timestamp_raw": "February 2, 2021",
+      "keywords": [
+        "epstein",
+        "victim",
+        "fbi",
+        "new york",
+        "trauma",
+        "therapist",
+        "redaction",
+        "miniidn",
+        "2021",
+        "february"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00038524",
+            "similarity": 0.583,
+            "index": 116,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038533",
+      "summary": "This document is a series of FBI communications (dated February 2, 2021 – February 24, 2021) regarding an interview with a victim of Jeffrey Epstein. The communications involve coordinating logistics (time, location) for the interview, primarily between Special Agents at the FBI New York Field Office and an unidentified individual (\"She\"). There’s discussion about scheduling the interview, a trauma-focused therapist referral, and potential locations for the interview. Several pieces of information have been redacted.",
+      "timestamp": "2021-02-02T00:00:00",
+      "timestamp_raw": "February 2, 2021",
+      "keywords": [
+        "fbi",
+        "epstein",
+        "victim",
+        "interview",
+        "trafficking",
+        "new york",
+        "therapist",
+        "forensic",
+        "coordination",
+        "redaction"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00038544",
+            "similarity": 0.538,
+            "index": 110,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038551",
+            "similarity": 0.538,
+            "index": 111,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038524",
+            "similarity": 0.727,
+            "index": 116,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038536",
+      "summary": "Multiple FBI agents in the New York Field Office were coordinating a meeting with an Epstein victim. Communications occurred between February 3, 2021, and February 23, 2021, regarding scheduling an interview and potentially a trauma-focused therapist. Discussions included logistical details such as travel distance and available time slots. The meeting was related to a child exploitation/human trafficking investigation. Redactions were present throughout the document.",
+      "timestamp": "2021-02-03T00:00:00",
+      "timestamp_raw": "February 3, 2021",
+      "keywords": [
+        "epstein",
+        "victim",
+        "fbi",
+        "new york field office",
+        "child exploitation",
+        "human trafficking",
+        "interview",
+        "trauma",
+        "forensic interviews",
+        "redaction"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00038546",
+            "similarity": 0.667,
+            "index": 109,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038527",
+            "similarity": 0.538,
+            "index": 115,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038553",
+      "summary": "An FBI Special Agent from the New York Field Office (NY) is requesting contact with an FBI agent (DN) regarding a resurfaced Epstein victim. The NY agent needs information about potential trauma-focused therapists and office locations near the victim’s location. The DN agent is on their way to an FBI office 7 hours away and offers to discuss the situation. The initial email chain involves multiple FBI agents discussing the victim’s needs and coordinating a potential interview.",
+      "timestamp": "2021-02-03T00:00:00",
+      "timestamp_raw": "03 Feb 2021",
+      "keywords": [
+        "epstein",
+        "victim",
+        "fbi",
+        "trafficking",
+        "human trafficking",
+        "forensic interviews",
+        "new york",
+        "trauma",
+        "therapist",
+        "efta00038553"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00038556",
+            "similarity": 0.538,
+            "index": 106,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038546",
+            "similarity": 0.538,
+            "index": 109,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038544",
+            "similarity": 0.667,
+            "index": 110,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038556",
+      "summary": "On February 3, 2021, an FBI agent contacted another agent regarding a case involving an Epstein victim who has resurfaced and requires a trauma-focused therapist. The agent requested information about potential therapist locations near the victim’s location. Communication occurred between multiple FBI offices (New York Field Office, DN, and MIMMIE) regarding this case.",
+      "timestamp": "2021-02-03T00:00:00",
+      "timestamp_raw": "February 3, 2021",
+      "keywords": [
+        "epstein",
+        "victim",
+        "fbi",
+        "forensic interviews",
+        "trauma",
+        "therapist",
+        "new york",
+        "redacted",
+        "mimmie",
+        "touch base"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038553",
+            "similarity": 0.538,
+            "index": 105,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00038544",
+            "similarity": 0.538,
+            "index": 110,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038551",
+            "similarity": 0.538,
+            "index": 111,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038549",
+      "summary": "The document consists of email exchanges between FBI agents (DN, FBI, NY) regarding a case involving EFTA00038549 and E. Mayne, a victim of Jeffrey Epstein. Discussions center around coordinating a call with the individual, arranging interviews, and identifying potential therapist locations near her. One agent, a Special Agent from the New York Field Office, has previously provided information to E. Mayne and is attempting to facilitate further contact and assessment.",
+      "timestamp": "2021-02-03T00:00:00",
+      "timestamp_raw": "03 Feb 2021",
+      "keywords": [
+        "epstein victim",
+        "fbi",
+        "new york",
+        "trafficking",
+        "forensic interviews",
+        "trauma",
+        "therapist",
+        "efta00038549",
+        "e. mayne",
+        "redaction"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038538",
+      "summary": "The initial contact occurred on February 3, 2021, with discussions about scheduling and potential locations. A video conference was being planned to discuss details and logistics. The FBI New York Field Office is involved, along with agents from the DN (likely a specific FBI division) and another agent named M. Mayne. The agent coordinating the meeting is attempting to locate a suitable office near the victim’s current location.",
+      "timestamp": "2021-02-03T00:00:00",
+      "timestamp_raw": "February 3, 2021",
+      "keywords": [
+        "epstein",
+        "fbi",
+        "new york",
+        "trafficking",
+        "video conference",
+        "interview",
+        "therapist",
+        "child exploitation",
+        "trauma focused",
+        "efta00038538"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038546",
+      "summary": "An FBI Special Agent from the New York Field Office is coordinating an interview with a victim of Jeffrey Epstein. The agent is attempting to contact a colleague, SA (presumably from the office), to discuss the interview details and potential locations for the interview given the victim’s location. There are multiple emails exchanged regarding scheduling the interview and identifying suitable interview locations. The victim has resurfaced and requires a trauma-focused therapist.",
+      "timestamp": "2021-02-19T00:00:00",
+      "timestamp_raw": "19 Feb 2021",
+      "keywords": [
+        "epstein",
+        "victim",
+        "fbi",
+        "new york field office",
+        "trauma",
+        "interview",
+        "human trafficking",
+        "forensic interviews",
+        "therapist",
+        "efta00038546"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038553",
+            "similarity": 0.538,
+            "index": 105,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038536",
+            "similarity": 0.667,
+            "index": 104,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00038544",
+            "similarity": 0.538,
+            "index": 110,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038551",
+            "similarity": 0.538,
+            "index": 111,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038527",
+            "similarity": 0.538,
+            "index": 115,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038544",
+      "summary": "An FBI agent (Jacksonl@fbi.gov) in the New York Field Office is attempting to contact a previously contacted individual regarding an Epstein victim who has resurfaced and requires a trauma-focused therapist. The agent is coordinating with another FBI agent (Mayne) and requesting suggestions for nearby office locations to conduct an interview. Communication includes scheduling availability for a discussion and referencing case file EFTA00038544 and EFTA00038545.",
+      "timestamp": "2021-02-19T00:00:00",
+      "timestamp_raw": "19 Feb 2021",
+      "keywords": [
+        "fbi",
+        "epstein",
+        "victim",
+        "trafficking",
+        "interview",
+        "new york",
+        "forensic interviews",
+        "therapist",
+        "trauma",
+        "efta00038544"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038546",
+            "similarity": 0.538,
+            "index": 109,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038556",
+            "similarity": 0.538,
+            "index": 106,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038553",
+            "similarity": 0.667,
+            "index": 105,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00038551",
+            "similarity": 0.818,
+            "index": 111,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00038524",
+            "similarity": 0.727,
+            "index": 116,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038551",
+      "summary": "An FBI Special Agent from the New York Field Office is requesting an interview with a previously contacted individual regarding an Epstein victim. The agent is seeking to conduct a trauma-focused interview and is inquiring about potential interview locations near the victim’s current location. Correspondence includes discussions about scheduling the interview for Tuesday or Wednesday, and a request for the agent to contact another FBI agent, SA, for details on the needed information.",
+      "timestamp": "2021-02-19T00:00:00",
+      "timestamp_raw": "19 Feb 2021",
+      "keywords": [
+        "epstein",
+        "victim",
+        "fbi",
+        "interview",
+        "trafficking",
+        "forensic interviews",
+        "new york",
+        "trauma",
+        "therapist",
+        "efta00038551"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038544",
+            "similarity": 0.818,
+            "index": 110,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00038546",
+            "similarity": 0.538,
+            "index": 109,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038556",
+            "similarity": 0.538,
+            "index": 106,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00038524",
+            "similarity": 0.727,
+            "index": 116,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038543",
+      "summary": "An FBI Special Agent from the New York Field Office is requesting details regarding an individual’s full name, date of birth (DOB), and case number from a Durango RA (EFTA00038543). The request is related to a case involving child exploitation/human trafficking and a potential NCIC search.",
+      "timestamp": "2021-02-22T00:00:00",
+      "timestamp_raw": "22 Feb 2021",
+      "keywords": [
+        "fbi",
+        "child exploitation",
+        "human trafficking",
+        "ncic",
+        "durango",
+        "case number",
+        "redaction",
+        "dob",
+        "arrest",
+        "vs"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038541",
+      "summary": "FBI agents are coordinating a meeting with a victim of Jeffrey Epstein. Initial communication involved scheduling an interview for February 23, 2021, with the individual, who had previously provided information to the FBI. One agent is assisting with forensic interviews and suggesting contact with another agent in the New York Field Office. There is discussion about the victim’s need for a trauma-focused therapist and seeking recommendations for nearby office locations.",
+      "timestamp": "2021-02-23T00:00:00",
+      "timestamp_raw": "February 23, 2021",
+      "keywords": [
+        "epstein victim",
+        "fbi",
+        "interviews",
+        "trauma",
+        "human trafficking",
+        "forensic interviews",
+        "new york field office",
+        "contact",
+        "therapist",
+        "efta00038541"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00038527",
+            "similarity": 0.538,
+            "index": 115,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00021381",
+      "summary": "On February 25, 2021, an FBI Special Agent from the New York Field Office requested contact with a woman named S., a former client of an attorney who believed she was a victim of Jeffrey Epstein. The agent received a call from S., who stated she had been in contact with an NYPD detective and an attorney who hadn't contacted prosecutors or case agents. She had previously been represented by an attorney for purposes of the Victim Fund. The agent advised following up with S. within the next week. This occurred in the context of previous attempts to contact multiple Epstein victims represented by the same attorney, who had been unresponsive.",
+      "timestamp": "2021-02-25T00:00:00",
+      "timestamp_raw": "February 25, 2021",
+      "keywords": [
+        "epstein",
+        "victim",
+        "fbi",
+        "nypd",
+        "jeffrey epstein",
+        "victim fund",
+        "interview",
+        "investigation",
+        "contact",
+        "screening"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038527",
+      "summary": "Communication occurred via email and text messages between February 23rd and February 3rd, 2021. The woman had contacted them regarding a potential trauma-focused therapy appointment.  The agents were attempting to schedule an interview and inquire about suitable therapist locations near her current location. There are redactions present in the document.",
+      "timestamp": "2021-02-26T00:00:00",
+      "timestamp_raw": "26 Feb 2021",
+      "keywords": [
+        "epstein victim",
+        "fbi",
+        "new york field office",
+        "interview",
+        "trauma",
+        "human trafficking",
+        "forensic interviews",
+        "therapist",
+        "coordination",
+        "redaction"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038541",
+            "similarity": 0.538,
+            "index": 113,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038546",
+            "similarity": 0.538,
+            "index": 109,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038536",
+            "similarity": 0.538,
+            "index": 104,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038524",
+      "summary": "This document is an FBI communication chain (dated February 2021) concerning a female individual (\"Epstein victim\") who had previously contacted the FBI. The communication details scheduling an interview, primarily involving coordination between FBI agents in the New York Field Office and another agent (identified as DN). The individual was seeking a trauma-focused therapist and the FBI was attempting to arrange an interview at a convenient location, considering travel distance from the agent’s station. Redactions are present throughout the document.",
+      "timestamp": "2021-02-26T00:00:00",
+      "timestamp_raw": "26 Feb 2021",
+      "keywords": [
+        "fbi",
+        "epstein",
+        "victim",
+        "interview",
+        "trauma",
+        "therapist",
+        "new york",
+        "trafficking",
+        "redaction"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038551",
+            "similarity": 0.727,
+            "index": 111,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00038544",
+            "similarity": 0.727,
+            "index": 110,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00038553",
+            "similarity": 0.583,
+            "index": 105,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038586",
+      "summary": "An FBI Special Agent from the New York Field Office communicated with an individual regarding information related to Jeffrey Epstein and Ghislaine Maxwell. The individual provided details including dates of employment with Epstein (1991-1998), interactions with Ghislaine Maxwell, and claims of massaging Prince Andrew. The individual’s biographical information includes a birthdate between 1967 and 1969, origin in Minneapolis, and employment at a New York City yoga studio as of December 2018.",
+      "timestamp": "2021-03-19T00:00:00",
+      "timestamp_raw": "19 Mar 2021",
+      "keywords": [
+        "efta00038586",
+        "child exploitation",
+        "human trafficking",
+        "jeffrey epstein",
+        "ghislaine maxwell",
+        "fbi",
+        "new york field office",
+        "pilates studio",
+        "martha's vineyard",
+        "1991-1998"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029231",
+      "summary": "On April 7, 2021, an FBI Special Agent from the New York Field Office dropped off a CD containing files related to Maxwell to a contractor. The contractor was experiencing issues uploading a specific folder (“18 1-14”) and requested a replacement. Subsequent communication involved troubleshooting the corrupted folder, exploring alternative methods of transfer (USAfx), and coordinating with IT. The contractor reported four of five folders successfully uploaded, with the final folder proving problematic. The overall goal was to transfer the files to the Epstein share.",
+      "timestamp": "2021-04-07T00:00:00",
+      "timestamp_raw": "April 7, 2021",
+      "keywords": [
+        "fbi",
+        "maxwell",
+        "cd",
+        "usafx",
+        "redaction",
+        "files",
+        "disk",
+        "contractor",
+        "new york",
+        "email"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00032646",
+            "similarity": 0.667,
+            "index": 119,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00032646",
+      "summary": "This document is a chain of emails regarding the transfer of files from a CD related to the Maxwell investigation (EFTA00032646). The FBI agent (Special Agent FBI New York Field Office) initially provided a CD containing files to a contractor (USANYS). There were initial difficulties with uploading the files, particularly with a specific folder (“18 1-14”) due to potential corruption.  The contractor attempted to resolve the issue by contacting IT and the FBI for assistance. Ultimately, the files were successfully transferred to a shared drive via USAfx, though one folder needed to be re-copied and resubmitted.",
+      "timestamp": "2021-04-07T00:00:00",
+      "timestamp_raw": "07 Apr 2021",
+      "keywords": [
+        "cd",
+        "maxwell",
+        "fbi",
+        "usafx",
+        "folder",
+        "files",
+        "redaction",
+        "email",
+        "upload",
+        "disk"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00029231",
+            "similarity": 0.667,
+            "index": 118,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038581",
+      "summary": "An FBI Special Agent from the New York Field Office is following up on a request for physical evidence related to Case 72. The agent received an email from another agent requesting an update on the evidence’s status and was informed that the agent was occupied with other tasks and upcoming travel. The initial email thread discusses the status of reviewing Maxwell letters and briefings.",
+      "timestamp": "2021-04-08T00:00:00",
+      "timestamp_raw": "08 Apr 2021",
+      "keywords": [
+        "fbi",
+        "evidence",
+        "physical evidence",
+        "case",
+        "72 case",
+        "email",
+        "redaction",
+        "new york field office",
+        "maxwell",
+        "transit"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038561",
+      "summary": "The document details a coordinated FBI investigation involving the “C-20” team assisting with the review of evidence related to the Maxwell case. Key elements include: *   **Initial Coordination:** Emails exchanged between FBI agents in the New York Field Office (NYFO) discussing a call to logistics regarding support for the case. *   **Logistics & Schedule:** The review will occur April 13-15, 2021, from 9:00 AM to 4:30 PM at 500 Pearl Street. Marshals will produce Maxwell, and FBI agents with handcuff keys will monitor her. *   **Roles & Responsibilities:** Agents will assist with evidence review, escorting Maxwell, and coordinating with the AUSA and defense team. SOS (another FBI agent) will be available for consultation. *   **Resource Allocation:** A list of available FBI agents is provided, with requests for two or three agents per day. Proffer rooms are reserved for the review.",
+      "timestamp": "2021-04-09T00:00:00",
+      "timestamp_raw": "09 Apr 2021",
+      "keywords": [
+        "fbi",
+        "new york",
+        "maxwell",
+        "evidence",
+        "review",
+        "agent",
+        "case",
+        "500 pearl street",
+        "custody",
+        "handcuff key",
+        "trafficking",
+        "proffer",
+        "ausa"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038560",
+      "summary": "On April 15, 2021, the FBI New York Field Office requested assistance (C-20 request) to support a review of evidence involving Maxwell and her defense team at 500 Pearl Street. Squad C-20 needed two or three agents to assist from April 13th to 15th, from 9:00 AM to 4:30 PM daily. The FBI agents would monitor Maxwell, who would be produced by Marshals, and provide custody. Three proffer rooms were reserved for evidence review, private defense meetings, and a break area.",
+      "timestamp": "2021-04-15T00:00:00",
+      "timestamp_raw": "April 15, 2021",
+      "keywords": [
+        "fbi",
+        "maxwell",
+        "evidence review",
+        "proffer room",
+        "agents",
+        "defense team",
+        "500 pearl street",
+        "marshals",
+        "handcuff key",
+        "inmate monitoring"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038692",
+      "summary": "An FBI Forensic Accountant from the New York Field Office sent an email on June 25, 2021, to an unknown recipient (identified by the email address “”) with an attachment titled “3.30.2007_Email_Re_FTC_Ownership.pdf.” The email indicated further FTC documents were forthcoming.",
+      "timestamp": "2021-06-25T00:00:00",
+      "timestamp_raw": "June 25, 2021",
+      "keywords": [
+        "ftc",
+        "redaction",
+        "email",
+        "fbi",
+        "forensic accountant",
+        "new york field office"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038694",
+      "summary": "An email exchange occurred between individuals regarding travel to Florida for trial preparation related to the Maxwell trial. The preparation involved multiple witnesses and was conducted by the FBI New York Field Office, specifically the Child Exploitation Human Trafficking Desk (EFTA00038694). The travel dates were Sunday to Thursday.",
+      "timestamp": "2021-07-09T00:00:00",
+      "timestamp_raw": "09 Jul 2021",
+      "keywords": [
+        "maxwell trial",
+        "florida",
+        "travel",
+        "fbi",
+        "child exploitation",
+        "human trafficking",
+        "redaction",
+        "efta00038694"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038689",
+      "summary": "A subpoena was issued by the FBI New York Field Office on July 13, 2021, from [REDACTED] to [REDACTED]. The subpoena is attached as 2021.07.13_Court_Subpoena_.",
+      "timestamp": "2021-07-13T00:00:00",
+      "timestamp_raw": "July 13, 2021",
+      "keywords": [
+        "efta00038689",
+        "subpoena",
+        "fbi",
+        "redaction",
+        "2021",
+        "july",
+        "court",
+        "new york",
+        "field office"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010138",
+      "summary": "An FBI Special Agent from the New York Field Office (USANYS), specializing in Child Exploitation and Human Trafficking, sent a request for a subpoena to the Registry of Vital Records and Statistics in Dorchester, Massachusetts, regarding a birth certificate. The request was sent on July 19, 2021, to assist with an investigation.",
+      "timestamp": "2021-07-19T00:00:00",
+      "timestamp_raw": "July 19, 2021",
+      "keywords": [
+        "birth certificate",
+        "massachusetts",
+        "subpoena",
+        "fbi",
+        "registry of vital records",
+        "human trafficking",
+        "child exploitation",
+        "dorchester",
+        "ml",
+        "2021"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031977",
+      "summary": "On July 28, 2021, an email exchange occurred between individuals associated with (USANYS) regarding phone numbers related to case EFTA00031977. An AT&T and T-Mobile subpoena was attached, originating from the FBI New York Field Office’s Child Exploitation/Human Trafficking Desk. One party apologized for a draft email not being sent, providing the requested phone numbers.",
+      "timestamp": "2021-07-28T00:00:00",
+      "timestamp_raw": "July 28, 2021",
+      "keywords": [
+        "efta00031977",
+        "subpoenas",
+        "at&t",
+        "t-mobile",
+        "phone numbers",
+        "redaction",
+        "usanys",
+        "fbi",
+        "child exploitation",
+        "human trafficking"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00022346",
+      "summary": "On August 3, 2021, an individual ([REDACTED]) requested that another individual ([REDACTED]) save and place birth certificates (ertificate_l.pdf; Birth_Certificate_Identified_and_obtained.pdf) into production folders for a subpoena return and a discovery production. The FBI New York Field Office, Child Exploitation/Human Trafficking desk (EFTA00022346) was involved.",
+      "timestamp": "2021-08-03T00:00:00",
+      "timestamp_raw": "August 3, 2021",
+      "keywords": [
+        "birth certificate",
+        "fbi",
+        "redaction",
+        "production",
+        "discovery",
+        "subpoena",
+        "child exploitation",
+        "human trafficking",
+        "efta00022346"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030456",
+      "summary": "An email exchange between individuals at the U.S. Department of Justice’s Office of the Inspector General’s New York Field Office regarding a proffer, specifically an attorney proffer related to a call from a Special Agent concerning Jeffrey Epstein on August 9th. The email requests notes or a 302 from the “SHIT” and includes attachments of a proffer document and images.",
+      "timestamp": "2021-08-13T00:00:00",
+      "timestamp_raw": "13 Aug 2021",
+      "keywords": [
+        "redaction",
+        "proffer",
+        "attorney",
+        "epstein",
+        "doj",
+        "notes",
+        "302",
+        "august 9th",
+        "special agent",
+        "u.s. department of justice"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00017998",
+      "summary": "A series of emails between individuals, including Special Agents from the U.S. Department of Justice’s Office of the Inspector General – New York Field Office, discussing a call regarding the Epstein case. The emails propose times for a conversation and include requests to speak with an SSA representative. Inline images (image00 1 jpg; image002.jpg; image005.jpg) were attached to one of the emails.",
+      "timestamp": "2021-09-20T00:00:00",
+      "timestamp_raw": "20 Sep 2021",
+      "keywords": [
+        "efta00017998",
+        "call",
+        "redaction",
+        "u.s. department of justice",
+        "ssa",
+        "epstein",
+        "new york",
+        "september 2021",
+        "agent",
+        "image"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00011349",
+      "summary": "On September 22, 2021, a series of emails were exchanged regarding an investigation, likely concerning the Epstein case. One individual requested a meeting at 1:30 PM that day.  Another individual proposed a general conversation regarding the Epstein case. A subsequent email on September 20, 2021, confirmed a meeting was being arranged.  Finally, an email on September 16, 2021, initiated the conversation, requesting a discussion with SSA representatives.  Following this, a response indicated that criminal charges were not intended to be pursued based on current information.",
+      "timestamp": "2021-09-22T00:00:00",
+      "timestamp_raw": "September 22, 2021",
+      "keywords": [
+        "efta00011349",
+        "criminal charges",
+        "public corruption",
+        "interviews",
+        "u.s. department of justice",
+        "new york field office",
+        "epstein case",
+        "ssa",
+        "call",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013395",
+      "summary": "A request was made from the FBI (New York Field Office, Child Exploitation/Human Trafficking) to (USANYS) [Contractor-1] to retrieve 44 files listed in an attached spreadsheet. The files, originally associated with witness interviews, were needed for comparison against existing 3500 material to meet an upcoming production deadline. The request specified needing the file dates of origin rather than the interview dates, and preferred delivery via USAfx or a physical hard drive. A follow-up email clarified the request and offered assistance with questions. Attached to the emails was a spreadsheet listing the files and their corresponding disks.",
+      "timestamp": "2021-09-29T00:00:00",
+      "timestamp_raw": "29 Sep 2021",
+      "keywords": [
+        "efta00013395",
+        "fbi",
+        "nypd",
+        "31e-mm-108062",
+        "witness interviews",
+        "redaction",
+        "files",
+        "spreadsheet",
+        "3500 project",
+        "dates"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035807",
+      "summary": "On October 1, 2021, the U.S. Department of Justice OIG’s New York Field Office received documents and communications from SigNet Technologies regarding a camera system upgrade at the Metropolitan Correctional Center in New York (MCC New York). The materials include a GSA contract from September 21, 2018, emails concerning IP addresses, service requests (dated February 28, 2019 - September 20, 2019), and a confirmation regarding camera gear delivery and an explanation of a RAID failure on August 8, 2019.",
+      "timestamp": "2021-10-01T00:00:00",
+      "timestamp_raw": "October 1, 2021",
+      "keywords": [
+        "justice department",
+        "signet technologies",
+        "camera system",
+        "metropolitan correctional center",
+        "new york",
+        "upgrade",
+        "failure",
+        "raid",
+        "bop",
+        "contracts"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038847",
+      "summary": "On October 5, 2021, an FBI New York Field Office email was forwarded regarding potential testifying witnesses in a case involving child exploitation and human trafficking. The email, originating from an Assistant United States Attorney with the Southern District of New York, requested the recipient run rap sheets on the witnesses and obtain them by Wednesday or Thursday. EFTA00038848 is also referenced.",
+      "timestamp": "2021-10-05T00:00:00",
+      "timestamp_raw": "October 5, 2021",
+      "keywords": [
+        "efta00038847",
+        "fbi",
+        "witnesses",
+        "human trafficking",
+        "child exploitation",
+        "rap sheets",
+        "united states attorney",
+        "new york",
+        "october 2021",
+        "email"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015155",
+      "summary": "On October 6, 2021, the FBI’s New York field office (NYFBINYOO) and the New York State Division of Criminal Justice Services provided information related to record EFTA00015155 in response to a request. The record can be accessed through the Interstate Identification Index via an NCIC transaction. The identification data was last updated on 2016/10/24. Michael C. Green, Executive Deputy Commissioner of the NYS Division of Criminal Justice Services, oversaw the response.",
+      "timestamp": "2021-10-06T00:00:00",
+      "timestamp_raw": "October 6, 2021",
+      "keywords": [
+        "fbi",
+        "new york",
+        "criminal justice services",
+        "identification data",
+        "ncic",
+        "record",
+        "albany",
+        "michael c. green",
+        "redaction analysis",
+        "response"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015087",
+      "summary": "On October 6, 2021, the FBI’s New York field office (NYFBINYUU) responded to an inquiry regarding record EFTA00015087. The response states that the records can be obtained through the Interstate Identification Index using an NCIC transaction. Michael C. Green, Executive Deputy Commissioner of the NYS Division of Criminal Justice Services, provided the information.",
+      "timestamp": "2021-10-06T00:00:00",
+      "timestamp_raw": "October 6, 2021",
+      "keywords": [
+        "fbi",
+        "new york",
+        "criminal justice services",
+        "ncic",
+        "record search",
+        "investigation",
+        "ori",
+        "albany",
+        "michael c. green",
+        "request"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029227",
+      "summary": "On October 7, 2021, a forensic accountant with the FBI New York Field Office sent account opening, signature, and KYC documents related to two accounts associated with Ghislaine Maxwell to another recipient. The documents, including a June 2007 statement, were uploaded to the DOJ USA File Exchange site. On October 6, 2021, the recipient requested additional account statements covering several months to view balances. On October 4, 2021, the accountant initially provided the attached documents as a follow-up to a prior conversation about Maxwell’s involvement with Epstein accounts.",
+      "timestamp": "2021-10-07T00:00:00",
+      "timestamp_raw": "October 7, 2021",
+      "keywords": [
+        "epstein accounts",
+        "ghislaine maxwell",
+        "account statements",
+        "kyc",
+        "fbi",
+        "doj",
+        "redaction analysis",
+        "jpm-sdny",
+        "usanys"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021664",
+      "summary": "On October 7, 2021, a forensic accountant with the FBI New York Field Office sent documents related to Epstein accounts to FBI agents in New York. The documents included account statements, removal memos requesting the removal of Ghislaine Maxwell from various accounts (Hyperion Air, Jeffery Epstein, NES LLC), and access instructions to a DOJ USA File Exchange folder.  A follow-up email on October 6, 2021, requested account statements for a few months after the documents were executed.  EFTA00021665 was the file identifier.",
+      "timestamp": "2021-10-07T00:00:00",
+      "timestamp_raw": "October 7, 2021",
+      "keywords": [
+        "epstein account documents",
+        "ghislaine maxwell",
+        "fbi",
+        "doj",
+        "redaction",
+        "accounts",
+        "removal memos",
+        "hyperion air",
+        "nes llc",
+        "kycs"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029200",
+      "summary": "An FBI Forensic Accountant from the New York Field Office sent documents related to Jeffrey Epstein and Ghislaine Maxwell accounts to an unknown recipient. The documents included PDFs detailing accounts named JEJE, Jeffety Epstein, and Hyperion. The email indicates a follow-up to a previous conversation about these accounts.",
+      "timestamp": "2021-11-04T00:00:00",
+      "timestamp_raw": "04 Oct 2021",
+      "keywords": [
+        "epstein",
+        "ghislaine maxwell",
+        "account",
+        "documents",
+        "forensic accountant",
+        "fbi",
+        "redaction",
+        "jeje",
+        "jeffety_epstein"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038948",
+      "summary": "An email chain discusses obtaining tracking spreadsheets related to FBI tiplines/hotlines for Maxwell and Epstein.  The sender requests updated spreadsheets from the FBI New York Field Office, citing previous versions from last summer.  Attachments are included in one of the emails.  The email thread involves multiple individuals, including FBI Special Agents and DOJ contractors.",
+      "timestamp": "2021-11-05T00:00:00",
+      "timestamp_raw": "05 Oct 2021",
+      "keywords": [
+        "fbi",
+        "new york field office",
+        "hotline tracking spreadsheets",
+        "human trafficking",
+        "child exploitation",
+        "redaction",
+        "email",
+        "spreadsheets",
+        "maxwell",
+        "epstein"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038946",
+      "summary": "An individual (EFTA00038947) requested updated tracking spreadsheets for tiplines/hotlines related to Maxwell and Epstein cases from the FBI New York Field Office (USANYS). The request included spreadsheets from last summer and a USAfx folder containing emails for SDNY leads.  Several individuals responded, including [REDACTED], [REDACTED], and [REDACTED], offering assistance or attaching relevant files. One individual (EFTA00038946) had previously sent spreadsheets and requested further updates.",
+      "timestamp": "2021-11-05T00:00:00",
+      "timestamp_raw": "05 Oct 2021",
+      "keywords": [
+        "hotline tracking spreadsheets",
+        "maxwell",
+        "epstein",
+        "fbi",
+        "usafx",
+        "sdny",
+        "contracts",
+        "due diligence",
+        "email",
+        "redaction"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015030",
+      "summary": "An FBI Forensic Accountant from the New York Field Office (EFTA00015030) requested additional account statements (balances) following the initial submission of documents related to Ghislaine Maxwell’s accounts. The initial documents were compiled by the Forensic Accountant as a follow-up to a previous conversation.",
+      "timestamp": "2021-11-06T00:00:00",
+      "timestamp_raw": "06 Oct 2021",
+      "keywords": [
+        "epstein",
+        "accounts",
+        "documents",
+        "redaction",
+        "fbi",
+        "ghislaine maxwell",
+        "forensic accountant",
+        "new york",
+        "statements",
+        "balance"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015031",
+      "summary": "An email chain discusses a zipped file named “DiscoveryExport_-_AF_&_ADG.” The initial email from [REDACTED] (USANYS) requests confirmation that the attachment opens and asks for a link to upload it to USAfx. A subsequent email from [REDACTED] (USANYS) reports the zip file is empty and suggests resending it or setting up USAfx access. The email chain originates from the FBI New York Field Office, Child Exploitation/Human Trafficking Desk, and includes the case file EFTA00015031.",
+      "timestamp": "2021-11-06T00:00:00",
+      "timestamp_raw": "06 Oct 2021",
+      "keywords": [
+        "efta00015031",
+        "af",
+        "adg",
+        "usafx",
+        "fbi",
+        "redaction",
+        "email",
+        "zip",
+        "contractor",
+        "human trafficking"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029172",
+      "summary": "An individual ([REDACTED]) sent documents related to Epstein accounts to the FBI New York Field Office (Forensic Accountant) via the DOJ USA File Exchange site. The documents included removal requests for Ghislaine Maxwell from Hyperion Air, Jeffery Epstein, and JEGE accounts, as well as a removal memo for NES LLC. The recipient ([REDACTED] – NY FBI) requested additional account statements for a few months after the documents were executed, specifically asking for balances. The initial sender ([REDACTED]) had already uploaded documents and granted access to the folder.",
+      "timestamp": "2021-11-07T00:00:00",
+      "timestamp_raw": "07 Oct 2021",
+      "keywords": [
+        "epstein",
+        "accounts",
+        "ghislaine maxwell",
+        "removal",
+        "documents",
+        "doj",
+        "fbi",
+        "hyperion air",
+        "nes llc",
+        "forensic accountant"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015137",
+      "summary": "An FBI Forensic Accountant at the New York Field Office forwarded account statements (EFTA00015137 and EFTA00015138) related to Ghislaine Maxwell’s accounts to an FBI contractor (USANYS) and an FBI agent (NY) for review. The contractor was asked to save the documents on a shared location and was granted access. The FBI agent requested additional account statements from several months after the initial documents were executed to view balances in connection with the Epstein accounts.",
+      "timestamp": "2021-11-07T00:00:00",
+      "timestamp_raw": "07 Oct 2021",
+      "keywords": [
+        "epstein account documents",
+        "redaction analysis",
+        "efta00015137",
+        "usanys",
+        "fbi",
+        "forensic accountant",
+        "ghislaine maxwell",
+        "account statements",
+        "dal usa file exchange",
+        "nyc"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038862",
+      "summary": "An FBI Special Agent from the New York Field Office (Child Exploitation/Human Trafficking) forwarded a civilian complaint to an Assistant United States Attorney at the Southern District of New York. The complaint was received on November 10, 2021, and the subject is EFTA00038862.",
+      "timestamp": "2021-11-10T00:00:00",
+      "timestamp_raw": "November 10, 2021",
+      "keywords": [
+        "fbi",
+        "civilian complaint",
+        "human trafficking",
+        "child exploitation",
+        "new york",
+        "fba",
+        "united states attorney",
+        "complaint",
+        "trafficking",
+        "efta00038862"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038859",
+      "summary": "An email was sent from an individual (identified only as \"[REDACTED]\") to the FBI New York Field Office’s Child Exploitation/Human Trafficking desk (EFTA00038859) on November 16, 2021, requesting an updated exhibit list. The sender was departing their position at the SDNY and was transitioning the case to a paralegal, Mia. The email expresses appreciation for the recipient's hard work on the case.",
+      "timestamp": "2021-11-16T00:00:00",
+      "timestamp_raw": "November 16, 2021",
+      "keywords": [
+        "efta00038859",
+        "exhibit list",
+        "fbi",
+        "case",
+        "email",
+        "redaction",
+        "maxwell",
+        "us",
+        "defense",
+        "human trafficking"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014980",
+      "summary": "On November 28, 2021, an FBI agent from the New York Field Office sent emails containing photographs related to child exploitation/human trafficking to [REDACTED]. The emails included five attachments: photo 1.jpg, Photo 2.jpg, Photo 3.jpg, Photo 5.jpg, and the email header information for the exchange. The document is identified as EFTA00014980.",
+      "timestamp": "2021-11-28T00:00:00",
+      "timestamp_raw": "November 28, 2021",
+      "keywords": [
+        "efta00014980",
+        "fbi",
+        "ny",
+        "redaction",
+        "photos",
+        "child exploitation",
+        "human trafficking",
+        "outlook",
+        "mail",
+        "trafficking"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038878",
+      "summary": "The FBI New York field office received notification from the FAA regarding inadvertently released historical flight data for Jeffrey Epstein’s aircraft (N9081E, N9091E, N212JE, and N120JE). The FAA had previously withheld this data due to an FBI criminal investigation (50D). An FOIA request from Angela Wang was denied twice due to exemption 7A. Subsequent release of data from the TFMS repository included the aforementioned aircraft records, prompting the FAA to implement measures to prevent future release of this specific data.",
+      "timestamp": "2021-12-01T00:00:00",
+      "timestamp_raw": "December 1, 2021",
+      "keywords": [
+        "jeffrey epstein",
+        "foia requests",
+        "fbi",
+        "faa",
+        "flight data",
+        "n9081e",
+        "n9091e",
+        "n212je",
+        "n120je",
+        "tfms"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038876",
+      "summary": "The FBI New York Field Office’s Child Exploitation/Human Trafficking Special Agent received an email from the FAA Information Management Division regarding FOIA requests for historical flight data of Jeffrey Epstein’s aircraft (N908JE, N909JE, N212JE, and N120JE). The FAA had previously withheld this data due to an FBI criminal investigation. An FAA FOIA release inadvertently included these flight records, prompting the FAA to implement measures to redact similar requests moving forward, specifically regarding the Traffic Flow Management System (TFMS) repository.",
+      "timestamp": "2021-12-01T00:00:00",
+      "timestamp_raw": "December 1, 2021",
+      "keywords": [
+        "jeffrey epstein",
+        "faa",
+        "foia",
+        "flight data",
+        "n908je",
+        "tfms",
+        "fbi",
+        "angela wang",
+        "redaction",
+        "criminal investigation"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038983",
+      "summary": "This email, dated December 13, 2021, concerns “Witnesses” related to a case investigated by the FBI New York Field Office’s Child Exploitation/Human Trafficking Desk (EFTA00038983). The email includes details about the case and attachments labeled “Special Agen.”",
+      "timestamp": "2021-12-13T00:00:00",
+      "timestamp_raw": "December 13, 2021",
+      "keywords": [
+        "efta00038983",
+        "witnesses",
+        "fbi",
+        "new york field office",
+        "child exploitation",
+        "human trafficking",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038979",
+      "summary": "An email was sent from the FBI New York Field Office (Child Exploitation Human Trafficking Desk: EFTA00038979) to [REDACTED] and [REDACTED], with a copy to [REDACTED], regarding “Witnesses.” An attached document titled “work up” was included. The email was sent on December 13, 2021.",
+      "timestamp": "2021-12-13T00:00:00",
+      "timestamp_raw": "December 13, 2021",
+      "keywords": [
+        "efta00038979",
+        "witnesses",
+        "fbi",
+        "child exploitation",
+        "human trafficking",
+        "redaction",
+        "new york field office",
+        "december 13",
+        "2021"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038952",
+      "summary": "An email was sent from a Forensic Accountant at the FBI New York Field Office to an unidentified recipient regarding research. The email is dated December 14, 2021, and includes an attachment named “31000201353855_transcript.pdf” and references case file EFTA00038952.",
+      "timestamp": "2021-12-14T00:00:00",
+      "timestamp_raw": "December 14, 2021",
+      "keywords": [
+        "efta00038952",
+        "forensic accountant",
+        "fbi",
+        "research",
+        "redaction",
+        "transcript",
+        "new york",
+        "2021",
+        "2025",
+        "analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038860",
+      "summary": "An individual (identified as EFTA00038860) is requesting subscriber records from AT&T. They have previously received phone records but not subscriber information and are following up via email. A subpoena has been issued by the FBI New York Field Office (Child Exploitation/Human Trafficking) seeking assistance and a warrant. A CAST Program Analyst from the FBI HQ/New York Field Office is involved and provided a link to request CAST assistance. Another individual (identified as EFTA00038861) is requesting a warrant to investigate the situation.",
+      "timestamp": "2021-12-16T00:00:00",
+      "timestamp_raw": "16 Nov 2021",
+      "keywords": [
+        "at&t",
+        "subpoena",
+        "fbi",
+        "subscriber records",
+        "contact",
+        "warrants",
+        "cast",
+        "cell analysis",
+        "human trafficking",
+        "new york"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010143",
+      "summary": "This document is an FBI New York Field Office Special Agent memo regarding a Federal Trial Subpoena (EFTA00010143) related to child exploitation and human trafficking. The memo includes email correspondence and was generated on December 24, 2021.",
+      "timestamp": "2021-12-24T00:00:00",
+      "timestamp_raw": "December 24, 2021",
+      "keywords": [
+        "efta00010143",
+        "fbi",
+        "child exploitation",
+        "human trafficking",
+        "subpoena",
+        "federal",
+        "email",
+        "2021",
+        "new york",
+        "investigation"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035811",
+      "summary": "The U.S. Department of Justice, Office of the Inspector General, New York Field Office, is requesting the complete medical examiner’s report and associated documentation related to the death investigation of Jeffrey Epstein, an inmate at the Metropolitan Correctional Center New York. This includes notes, reports, photos, evidence, x-rays, and any other relevant materials. The request is to be mailed to or emailed to the specified address.",
+      "timestamp": "2022-02-28T00:00:00",
+      "timestamp_raw": "February 28, 2022",
+      "keywords": [
+        "justice",
+        "inspector general",
+        "medical examiner",
+        "jeffrey epstein",
+        "bureau of prisons",
+        "new york",
+        "investigation",
+        "cause of death",
+        "documentation",
+        "u.s. department of justice"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038882",
+      "summary": "An FBI Special Agent from the New York Field Office (NY) received an email nominating them for the WIFLE award for their work on Maxwell and other cases. The sender, [REDACTED], requested the recipient’s date of birth and the last four digits of their social security number before 9 am on April 12, 2022, to forward the information to supervisors.",
+      "timestamp": "2022-04-12T00:00:00",
+      "timestamp_raw": "April 12, 2022",
+      "keywords": [
+        "fbi",
+        "human trafficking",
+        "wifle",
+        "social security number",
+        "dob",
+        "maxwell",
+        "sony",
+        "email",
+        "redaction",
+        "award"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038971",
+      "summary": "An invoice from the FBI New York Field Office, Child Exploitation/Human Trafficking desk (EFTA00038971), was sent from [REDACTED] to an unknown recipient. The invoice is attached as FBI INVOICE_6-24-22_U.S._V._MAXWELL.pdf and dated June 24, 2022.",
+      "timestamp": "2022-06-24T00:00:00",
+      "timestamp_raw": "June 24, 2022",
+      "keywords": [
+        "efta00038971",
+        "fbi",
+        "invoice",
+        "redaction",
+        "maxwell",
+        "child exploitation",
+        "human trafficking",
+        "new york field office",
+        "u.s.v.",
+        "2022"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038965",
+      "summary": "Emails detail the progress of an award application related to the Epstein/Maxwell case. A Special Agent from the FBI New York Field Office is following up on a concurrence form for a submission to NYPD. Updates are provided regarding information received from [REDACTED] (USANYS) and the attachment of an updated concurrence form. The sender, an Assistant U.S. Attorney, is requesting personal information (DOB, SSN last four digits, GS scale, and prior awards) from the recipient to complete the nomination for a Director’s Award.",
+      "timestamp": "2022-06-29T00:00:00",
+      "timestamp_raw": "29 Jun 2022",
+      "keywords": [
+        "fbi",
+        "award application",
+        "concurrence form",
+        "nypd",
+        "epstein",
+        "maxwell",
+        "doj",
+        "litigation team",
+        "victim recognition",
+        "u.s. attorney"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035805",
+      "summary": "On December 6, 2022, the U.S. Department of Justice Office of the Inspector General’s New York Field Office received a case closing communication from the FBI regarding their investigation into the death of Federal Bureau of Prison inmate Jeffrey Epstein. The FBI determined there was no criminality related to Epstein’s death and closed the case (90A-NY-3151227) on December 5, 2022. An electronic communication detailing the case closing was attached.",
+      "timestamp": "2022-12-06T00:00:00",
+      "timestamp_raw": "December 6, 2022",
+      "keywords": [
+        "efta00035805",
+        "jeffrey epstein",
+        "fbi",
+        "bop",
+        "case closing",
+        "investigation",
+        "death",
+        "new york field office",
+        "oig",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00039011",
+      "summary": "Daniel Ruzumna, representing the estate of Jeffrey Epstein, contacted Special Agent Ruzumna at the FBI New York Field Office regarding a potential discovery of child pornography within approximately 1,100 videos recovered from Epstein’s emails.  The estate was responding to document production requests related to settlements and subpoenas. During a review, a video surfaced containing potentially illegal content, prompting the immediate halt of the review.  The estate contacted the FBI and acknowledged the involvement of co-counsel from Hughes Hubbard & Reed, seeking guidance and confirming protocols were in place to protect reviewers. The video’s origin involved a convicted child pornography offender and two topless women. The documents involved the processing of the videos by a document collection vendor without review.",
+      "timestamp": "2023-04-19T00:00:00",
+      "timestamp_raw": "19 Apr 2023",
+      "keywords": [
+        "epstein estate",
+        "child exploitation",
+        "human trafficking",
+        "fbi",
+        "csam",
+        "video review",
+        "settlement",
+        "litigation",
+        "u.s. virgin islands",
+        "judge jed rakoff",
+        "hughes hubbard & reed"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00039019",
+            "similarity": 0.5,
+            "index": 162,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00039014",
+            "similarity": 0.533,
+            "index": 163,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00039008",
+            "similarity": 0.538,
+            "index": 164,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00039019",
+      "summary": "An FBI Special Agent from the New York Field Office contacted Daniel Ruzumna regarding a potential discovery of Child Sexual Abuse Material (CSAM) related to the Estate of Jeffrey Epstein. Ruzumna, representing one of the co-executors of the estate alongside Hughes Hubbard & Reed, was reviewing approximately 1,100 videos pulled from Epstein’s emails and files. During a review, a video surfaced potentially containing child pornography, linked to a convicted child pornography offender and topless women.  Due to this, the review was halted, and Ruzumna requested guidance from the FBI. The video was processed by a document collection vendor without review, and no downloads occurred to law firm servers.",
+      "timestamp": "2023-04-19T00:00:00",
+      "timestamp_raw": "19 Apr 2023",
+      "keywords": [
+        "epstein estate",
+        "csam",
+        "child pornography",
+        "fbi",
+        "litigation",
+        "settlement",
+        "videos",
+        "hughes hubbard & reed",
+        "daniel ruzumna",
+        "u.s. virgin islands"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00039011",
+            "similarity": 0.5,
+            "index": 161,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00039014",
+      "summary": "*   The review is prompted by a potential discovery of child pornography within the videos. *   A video containing topless women was identified by Hughes Hubbard & Reed co-counsel, linked to an individual convicted of child pornography offenses. *   The review was halted, and contact was made with the FBI New York Field Office. *   The estate is responding to document requests related to settlements and subpoenas. *   The videos were processed by a document collection vendor without full review.",
+      "timestamp": "2023-04-19T00:00:00",
+      "timestamp_raw": "19 Apr 2023",
+      "keywords": [
+        "epstein estate",
+        "csam",
+        "child exploitation",
+        "fbi",
+        "documents",
+        "litigation",
+        "settlement",
+        "videos",
+        "jeffrey epstein",
+        "u.s. virgin islands",
+        "sdny",
+        "judge jed rakoff"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00039011",
+            "similarity": 0.533,
+            "index": 161,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00039008",
+      "summary": "Hilary McDonnell (Hughes Hubbard & Reed LLP) scheduled a meeting with Daniel Ruzumna (Patterson Belknap Webb & Tyler LLP) regarding the Epstein Estate and a potential discovery of child pornography within 1,100 videos. Ruzumna contacted the FBI New York Field Office after a video surfaced during a review, potentially containing CSAM and referencing a prior conviction for a similar offense. The Estate’s co-executors were reviewing the videos as part of document production obligations related to settlements and litigation. A protocol was established with involved parties for handling potentially illegal material. The review was halted, and Ruzumna requested guidance from the FBI. The communication involved multiple individuals including FBI Special Agents, attorneys from Hughes Hubbard & Reed, and other legal counsel.",
+      "timestamp": "2023-04-20T00:00:00",
+      "timestamp_raw": "20 Apr 2023",
+      "keywords": [
+        "epstein estate",
+        "fbi",
+        "child exploitation",
+        "hughes hubbard & reed",
+        "document review",
+        "settlement",
+        "csam",
+        "video",
+        "litigation"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00039011",
+            "similarity": 0.538,
+            "index": 161,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00039004",
+      "summary": "*   **Discovery of Potentially Child Pornographic Video:** During a review of approximately 1,100 videos, a video containing a convicted child pornography offender and topless women was identified. *   **Protocol Established:** A protocol was established with involved parties to protect reviewers during the document review process. *   **Suspension of Review & Request for Guidance:** The review was halted, and Ruzumna requests guidance from the FBI regarding the potentially sensitive material. *   **Data Handling Concerns:** Ruzumna expresses concerns about the processing of the videos by a third-party vendor and the lack of downloads to firm servers. *   **Legal Representation:** Both Ruzumna and McDonnell represent co-executors of the estate, with McDonnell’s firm providing legal support in related litigation.",
+      "timestamp": "2023-04-20T00:00:00",
+      "timestamp_raw": "20 Apr 2023",
+      "keywords": [
+        "epstein estate",
+        "fbi",
+        "child exploitation",
+        "human trafficking",
+        "mcdonnell",
+        "hilary",
+        "daniel ruzumna",
+        "hughes hubbard & reed",
+        "settlement",
+        "u.s. virgin islands",
+        "sdny litigation",
+        "video review",
+        "child pornography"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00039011",
+            "similarity": 0.5,
+            "index": 161,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038647",
+      "summary": "An FBI Special Agent from the New York Field Office (Child Exploitation/Human Trafficking) received an email referencing a file (EFTA00038647) and Jeffrey Epstein. The Agent was contacted by a Detective who had cc’d him regarding the file. The Agent stated he would review the file and provide information, acknowledging he was not in the office at the time of the initial email.",
+      "timestamp": "2024-03-06T00:00:00",
+      "timestamp_raw": "06 Mar 2024",
+      "keywords": [
+        "fbi",
+        "new york field office",
+        "child exploitation",
+        "human trafficking",
+        "redaction analysis",
+        "email",
+        "jeffrey epstein",
+        "detective",
+        "special victims division",
+        "efta00038647"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038678",
+      "summary": "Two FBI agents, a Special Agent from the FBI New York Field Office (Child Exploitation/Human Trafficking Desk) and a Victim Specialist from the FBI New York Division, are involved in a separate Human Trafficking (HT) case. A victim in this HT case contacted the Victim Specialist after receiving a message referencing a victim from the Epstein case. Gloria Allred represented the Epstein victim and controlled communication with individuals, requiring all interactions to go through her. The Special Agent provided Gloria Allred with victim resource information and was unable to directly contact the Epstein victim due to her refusal to share contact details.",
+      "timestamp": "2024-12-15T00:00:00",
+      "timestamp_raw": "15 Nov 2024",
+      "keywords": [
+        "epstein",
+        "victim",
+        "fbi",
+        "new york",
+        "human trafficking",
+        "gloria allred",
+        "ht case",
+        "contact information",
+        "redaction",
+        "resources"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037829",
+      "summary": "On July 29, 2025, an FBI agent (BA) from the FBI’s New York field office (NY) replied to a comment within a PowerPoint presentation titled “Epstein PPT - EM.” The email originated from the FBI’s use of Microsoft 365 and included references to case file EFTA00037829 and EFTA00037830.",
+      "timestamp": "2025-07-29T00:00:00",
+      "timestamp_raw": "July 29, 2025",
+      "keywords": [
+        "efta00037829",
+        "fbi",
+        "epstein",
+        "ppt",
+        "em",
+        "redaction",
+        "microsoft 365",
+        "notification",
+        "office",
+        "2025"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010471",
+      "summary": "As of July X, 2019, Jeffrey Epstein was arrested on charges of sex trafficking and sex trafficking conspiracy. He is accused of sexually exploiting and abusing dozens of minor girls, primarily between 2002-2005, at residences in New York City and Palm Beach, Florida. Victims, typically between 14 and nearly three times Epstein’s age, were recruited through Epstein’s employees and victim recruiters, often receiving cash payments. These activities involved nude or partially nude massages and direct or indirect sexual acts. The FBI is seeking information from anyone who has been victimized or has knowledge of Epstein’s alleged illegal behavior, encouraging them to contact 1-800-CALL-FBI.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "jeffrey epstein",
+        "sex trafficking",
+        "child sexual exploitation",
+        "fbi",
+        "new york field office",
+        "victims",
+        "arrest",
+        "investigation",
+        "florida",
+        "new york city"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035803",
+      "summary": "The U.S. Department of Justice’s Office of the Inspector General (OIG) interviewed Reid Weingarten, Senior Counsel to the Inspector General for the U.S. Department of Justice Office of General Counsel, regarding deceased Federal Bureau of Prisons inmate Jeffrey Epstein. Weingarten stated that Epstein’s estate is asserting attorney-client privilege and refuses to be interviewed by the OIG.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00035803",
+        "jeffrey epstein",
+        "reid weingarten",
+        "attorney client privilege",
+        "u.s. department of justice",
+        "oig",
+        "steptoe & johnson llp",
+        "federal bureau of prisons",
+        "memorandum of investigation",
+        "new york field office"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010462",
+      "summary": "A draft analysis of a 2019 tax return (attached as 2019_Tax_Retum_Analysis_V1_12-11-20.pdf) was sent from the FBI New York Field Office to an unidentified recipient. The email requests a time for a call to discuss the analysis, originating from a Forensic Accountant. The file identifier is EFTA00010462.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00010462",
+        "tax return",
+        "analysis",
+        "2019",
+        "forensic accountant",
+        "fbi",
+        "new york",
+        "redaction",
+        "draft",
+        "time"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030019",
+      "summary": "Emails discuss the production of travel records related to Jeffrey Epstein and Maxwell, originating from the US Attorney’s Office (USANYS), the FBI (specifically the New York Field Office), and CBP. Files were saved in a “CBP — CONFIDENTIAL” folder and referenced as originating from 1/1/1990-4/5/2021.  The records included multiple sets due to differing last names and included names such as Maxwell, Epstein, and a name redacted as “MM.”  The FBI was awaiting results from FDRs sent to the UK regarding travel records for these individuals.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "travel records",
+        "cbp",
+        "redaction",
+        "fbi",
+        "usanys",
+        "production",
+        "discovery",
+        "maxwell",
+        "epstein",
+        "uk",
+        "1990s"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016463",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] and [REDACTED] regarding digital evidence related to child exploitation and trafficking (EFTA00016463). The email attached a spreadsheet (\"MM-108062 Evidencen\") and an original spreadsheet (\"MM-108062_Miami_Evidenceinventory.xlsx\") detailing digital items found in Miami. The email included a reference to the FBI New York Field Office’s Child Exploitation and Trafficking unit.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "digital evidence",
+        "miami",
+        "evidence inventory",
+        "fbi",
+        "redaction",
+        "efta00016463",
+        "spreadsheet",
+        "child exploitation",
+        "trafficking"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029601",
+      "summary": "This document is a Curriculum Vitae for an FBI Computer Analysis Response Team (CART) expert witness. The individual has over 15 years of experience as a Computer Forensic Examiner, starting in 2005 with the FBI New York Field Office. Their experience includes analyzing over 1000 pieces of computer media in over 300 cases, conducting search warrant operations, and providing expert testimony in Federal Court.  Prior to the FBI, they held various roles in programming and data administration at Viecore, Inc. and Erisco, Inc. They possess advanced educational qualifications including a Master’s in Digital Forensics and Cyber Security and a Bachelor’s in Business and Computer Science.  The CV details extensive forensic training and certifications across multiple tools and platforms, including EnCase, FTK, Cellebrite, and various mobile forensics techniques, highlighting ongoing professional development and specialized skills.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "fbi",
+        "computer forensics",
+        "digital forensics",
+        "cyber security",
+        "evidence analysis",
+        "search warrant",
+        "data recovery",
+        "windows forensics",
+        "mobile forensics",
+        "macintosh forensics",
+        "encase",
+        "ftk",
+        "iacis",
+        "certifications",
+        "training"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038594",
+      "summary": "A draft analysis of 2019, 2018, and 2017 tax returns was prepared by a Forensic Accountant at the FBI New York Field Office. The analysis includes two attached documents: “2019_2018_2017_Tax_Return_Analysis_V1_12-13-20.pdf” and “Cohen_and_Gresser_Page_9_Schedule_V2.pdf,” intended for discussion purposes. The case reference is EFTA00038594.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00038594",
+        "tax returns",
+        "analysis",
+        "2019",
+        "2018",
+        "2017",
+        "forensic accountant",
+        "fbi",
+        "redaction",
+        "discussion"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    }
+  ]
+}

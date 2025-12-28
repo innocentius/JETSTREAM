@@ -1,0 +1,1350 @@
+{
+  "keyword": "account number",
+  "count": 25,
+  "keyword_match_count": 25,
+  "content_match_count": 25,
+  "total_files": 50,
+  "timeline": [
+    {
+      "file_id": "EFTA00024636",
+      "summary": "The invoice includes transportation charges ($365.66) and special handling charges ($34.66).  The payment was due August 29, 2000.  The invoice details various shipments including airbills, recipient types (shipper, recipient, third party), and associated charges. There's an error noted regarding an incorrect recipient address.  Page 2 contains a redacted name and address.",
+      "timestamp": "2000-08-14T00:00:00",
+      "timestamp_raw": "August 14, 2000",
+      "keywords": [
+        "fedex",
+        "invoice",
+        "account number",
+        "transportation charges",
+        "shipping address",
+        "payment",
+        "fuel surcharge",
+        "recipient",
+        "address",
+        "2000",
+        "charges",
+        "efta00024636"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00024648",
+            "similarity": 0.533,
+            "index": 1,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00024648",
+      "summary": "Invoice No: 5-678-61193 Invoice Date: December 25, 2000 Account Number: 11442081h Total Charges: $284.88 Payment Due Date: January 9, 2001 Shipping Details: Shipper: J Epstein 8 Co Inc, Package Type: Customer Packaging, Weight: 3.0 to 1.4 kgs, Delivered: December 18, 2000 Transportation Charges: $264.31 (Shipper) and $28.12 (Recipient) Special Handling Charges: $20.57 (Shipper) and $11.12 (Recipient) Fuel Surcharge: $11.02 Operating Schedule: Closed December 25, 26, 31, and January 1. Normal service resumes January 2.",
+      "timestamp": "2000-12-25T00:00:00",
+      "timestamp_raw": "December 25, 2000",
+      "keywords": [
+        "fedex",
+        "invoice",
+        "payment",
+        "account number",
+        "transportation charges",
+        "shipping",
+        "december 25",
+        "2000",
+        "fuel surcharge",
+        "delivery",
+        "charges"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00024636",
+            "similarity": 0.533,
+            "index": 0,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024613",
+      "summary": "Invoice Number: 5-722-84226 Invoice Date: February 19, 2001 Account Number: 1144.2081.6 Total Charges: $290.39 Discount: $36.82 Due Date: March 6, 2001 Shipper: Jeffrey E Epstein Tracking ID: 826749812788 Package Details: FedEx Pak, Zone 8, 2.0 lbs, 0.9 kgs Shipping Charges: Transportation Charges: $914.10, Special Handling Charges: $21.07 Payment Summary: Two payment types listed – Shipper (Total: $272.61) and Third Party (Total: $25.74) Total Airbills: 16",
+      "timestamp": "2001-02-19T00:00:00",
+      "timestamp_raw": "February 19, 2001",
+      "keywords": [
+        "fedex",
+        "invoice",
+        "account number",
+        "billing address",
+        "transportation charges",
+        "discount",
+        "payment",
+        "shipping",
+        "jeffrey epstein",
+        "february 19",
+        "2001"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015183",
+      "summary": "Account Number: 0 79961-00-1 Account holder: JEFFREY EPSTEIN Period: September 01, 2002 - September 30, 2002 Bank: JPMorgan Chase Bank Transactions include: *   A wire transfer of $1,000,000.00 to Palm Beach Natl Bk 8 Tr Co, FAO Jeffrey Epstein, dated September 16, 2002 (Misc. Disbursement). *   A sale of $5,000,000.00 J.P. MORGAN TAX FREE MONEY MARKET FUND, Institution Class (Fund 840), through J.P.Morgan Securities Inc, dated September 18, 2002. *   A wire transfer of $5,000,000.00 to Palm Beach Natl Bk 8 Tr Co, FAO Ghislaine Maxwell, dated September 18, 2002 (Misc. Disbursement).",
+      "timestamp": "2002-09-01T00:00:00",
+      "timestamp_raw": "September 01, 2002",
+      "keywords": [
+        "jeffrey epstein",
+        "jpmorgan chase",
+        "palm beach natl bk",
+        "wire transfer",
+        "fund",
+        "money market",
+        "j.p. morgan securities",
+        "account number",
+        "sale",
+        "confidential treatment"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014685",
+      "summary": "This document is an asset account portfolio statement for Jeffrey Epstein’s JPMorgan Chase Bank account from September 1, 2002, to September 30, 2002. It details cash and short-term investments, including the JP Morgan Tax-Free Money Market and Premier Class Sweep Fund, with associated income, accrued interest, and trade activity (purchases and sales). The statement highlights a predominantly cash-based portfolio (100%) and provides a summary of income, including taxable interest and U.S. tax-exempt dividends. It also includes information about account transactions, account officers, and a request for confidential treatment. Notably, it references correspondence and transfers to Palm Beach National Bank and includes disclaimers regarding investment risk and fund details.",
+      "timestamp": "2002-09-01T00:00:00",
+      "timestamp_raw": "September 1, 2002",
+      "keywords": [
+        "jpmorgan chase",
+        "account number",
+        "portfolio",
+        "asset account",
+        "september",
+        "trade activity",
+        "cash and short term",
+        "income summary",
+        "taxable interest",
+        "efta00014685"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030852",
+      "summary": "The invoice details charges including base discounts, special handling, and fuel surcharges, totaling $304.34. The shipment involved 11 airbills, with varying package types and weights, delivered to an address in New York. The invoice includes tracking information and remittance advice, specifying a due date of October 29, 2002. There are several adjustment requests (FAXED to a specific number) related to potential discrepancies in the shipment. The document includes a variety of FedEx service code definitions and explanations for various charge codes used. The invoice highlights the use of various service types, including FedEx Express, Ground, and Home Delivery, with details on the associated costs and parameters for each.",
+      "timestamp": "2002-10-14T00:00:00",
+      "timestamp_raw": "October 14, 2002",
+      "keywords": [
+        "invoice number",
+        "account number",
+        "fedex",
+        "transportation charges",
+        "discount",
+        "fuel surcharge",
+        "adjustment request",
+        "remittance advice",
+        "tracking no.",
+        "payment due"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014718",
+      "summary": "*   **Billing Cycle:** The billing cycle ran from July 13th to August 12th, 2003. *   **Monthly Charges:** The total monthly charges were $1,533.48 (including a National Plan of $199.99 and a local plan of $39.99) *   **Roaming Charges:** The total roaming charges were $85.92. *   **Other Charges:** The total included other charges like taxes, regulatory fees (including 29.75 for \"CONNECT CALLS\") amounting to $82.25. *   **Details:** The bill includes a breakdown of charges, with calls made to locations in the United States (Washington, DC, Virginia, New York, Maryland, Florida, Georgia, California, etc.) and international locations (UK, France, Italy, Puerto Rico, San Juan, etc.). *   **Call Characteristics:** Notes include \"Call Waiting,\" “Long Distance Service Billed Separately,\" and \"Automatic Dropped Call Credit.\" *   **Redactions:** The document contains redactions, likely to protect sensitive information.",
+      "timestamp": "2003-08-14T00:00:00",
+      "timestamp_raw": "AUG 14, 2003",
+      "keywords": [
+        "at&t",
+        "wireless",
+        "billing",
+        "charges",
+        "account",
+        "payment",
+        "roaming",
+        "rates",
+        "monthly",
+        "subscription",
+        "service",
+        "coverage",
+        "long distance",
+        "taxes",
+        "italy",
+        "france",
+        "spain",
+        "uk",
+        "data",
+        "messages",
+        "text",
+        "service plan"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014767",
+      "summary": "*   **Monthly Charges (October 14, 2003):** The total monthly service charges were $453.71, including a $39.99 national plan, $19.99A and a $9.99 for messages. *   **Roaming Charges:** There were roaming charges of $108.33. *   **Other Charges:**  Includes $113.93 in other charges. *   **Total Amount Due:** The total amount due was $453.71. *   **Detailed Charges:** The invoice lists numerous calls to and from various locations (New York, Miami, Washington, etc.) with associated minutes and charges.  Some calls are categorized as \"Connect\" or \"USVI.\" *   **Messaging Charges:** A total of $1.90 were charged for messages. **Note:** The document appears to be an invoice or statement for a mobile phone service, detailing monthly charges, roaming expenses, and usage information.",
+      "timestamp": "2003-10-14T00:00:00",
+      "timestamp_raw": "October 14, 2003",
+      "keywords": [
+        "at&t",
+        "wireless",
+        "billing",
+        "charges",
+        "account",
+        "monthly",
+        "payments",
+        "roaming",
+        "usvi",
+        "rates",
+        "taxes",
+        "airtime",
+        "long distance",
+        "incoming",
+        "outgoing",
+        "subscription",
+        "rates",
+        "charges",
+        "rates",
+        "charges",
+        "rates",
+        "rates",
+        "charges",
+        "subscription",
+        "rates",
+        "charges"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024627",
+      "summary": "The invoice is for transportation charges related to a shipment, with discounts applied, resulting in a final charge of $591.99. Key details include: *   **Billing Address:** FedEx P.O. Box 1140, Memphis, TN 36101-1140. *   **Account Number:** 1144-2081-6. *   **Payment Due Date:** November 11, 2003. *   **Shipment Details:** The shipment involved a standard overnight package, transported under service code 017 (Domestic).  The original number of shipments was 11, with 12 total shipments, and includes a fuel surcharge (0.60%) and a potential weather-related adjustment (thunderstorm). *   **Payment Advice:** The invoice provides a remittance advice section with the payment amount and account number for easy processing. *   **Adjustment Request Form:**  A form is included for requesting adjustments, with a detailed explanation required for each adjustment. *   **Service Codes:**  A table lists various FedEx Ground service codes and their associated charges. The document also includes a note stating that FedEx Ground accounts have been transferred to FedEx Express. It also includes a section regarding changing the billing address.",
+      "timestamp": "2003-10-27T00:00:00",
+      "timestamp_raw": "October 27, 2003",
+      "keywords": [
+        "fedex",
+        "invoice",
+        "shipping address",
+        "account number",
+        "transportation charges",
+        "discounts",
+        "remittance advice",
+        "adjustment request",
+        "rate",
+        "payment due",
+        "tracking number"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020310",
+      "summary": "The invoice totals $594.99 for transportation charges, including a base discount and special handling charges.  It details 12 shipments, broken down by shipper (Shipper) and third party (Third Party) types, with associated details like package weight, dimensions, and service types (e.g., FedEx Priority Overnight).  The invoice includes a fuel surcharge applied to all shipments.  Several individual shipment details are provided, outlining pickup/drop-off dates, tracking numbers, and specific charges for each shipment.  The invoice requires payment by November 11, 2003, and includes remittance information. The document also contains a section detailing the various FedEx Ground service codes.  A redaction exists on page 2, obscuring information.",
+      "timestamp": "2003-10-27T00:00:00",
+      "timestamp_raw": "October 27, 2003",
+      "keywords": [
+        "fedex",
+        "invoice",
+        "shipping address",
+        "account number",
+        "charges",
+        "discounts",
+        "transportation",
+        "adjustment",
+        "rates",
+        "payor",
+        "tracking number",
+        "fuel surcharge",
+        "remittance advice"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00022489",
+      "summary": "Okay, here’s a factual summary of the provided AT&T Wireless invoice, without any introductory or concluding remarks: **Account Details:** *   Account Name: JEFFREY E EPSTEIN *   Account Number: 0043811863 *   Invoice Date: May 05, 2004 *   Current Monthly Charges: $403.56 *   Previous Balance: $0.00 *   Payments Received: $0.00 *   Adjustments: $0.00 **Current Monthly Charges Breakdown:** *   Subscriber Adjustments: $0.00 *   Monthly Service: $186.68 *   Monthly Usage: $168.91 *   Taxes, Surcharges & Regulatory Fees: $60.96 **Total Amount Due: $403.56** **Roaming Charges:** *   As of April 18th, all domestic US data roaming charges are eliminated for eligible plans. **Other Notes:** *   Recurring Electronic Fund Transfer (REFT) is offered; involves automatic deductions. *   The invoice highlights the importance of driving safely with wireless devices. *   Account details (service number, account number) are clearly presented. *   A warning is included that early termination fees apply for contract cancellations. *   The invoice details voice usage and data usage (inclusive minutes, megabytes). *   There are several local tax charges. *   Includes a section detailing the current activity including calls to and from, rates, and descriptions. **Data Usage Details:** *   KB and MB Usage details listed for various data types. **Important Information** *   Total charges due upon receipt and an early termination fee of up to $200 if service is canceled before contract end.",
+      "timestamp": "2004-05-05T00:00:00",
+      "timestamp_raw": "May 05, 2004",
+      "keywords": [
+        "at&t wireless",
+        "jeffrey epstein",
+        "account 0043811863",
+        "monthly charges",
+        "data roaming",
+        "reft",
+        "billing cycle",
+        "taxes",
+        "regulatory fees",
+        "voice usage",
+        "text messaging",
+        "data usage",
+        "local tax"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030763",
+      "summary": "A declaration was made under 28 U.S.C. § 1746 by a custodian of records, (name of declarant), regarding records provided to law enforcement by the Business (name of business). The records consist of an AT&T Wireless invoice dated May 5, 2004, for account number 0043811863 in the name of Jeffrey E. Epstein. The declarant certifies that the records meet the requirements of Rules 902(11) and 803(6) of the Federal Rules of Evidence, specifically that they were made at or near the time of events, kept in the course of regular business activity, and made as a regular business practice. The definition of \"record\" as used in the document includes various forms of documentation.",
+      "timestamp": "2004-05-05T00:00:00",
+      "timestamp_raw": "May 5, 2004",
+      "keywords": [
+        "custodian of records",
+        "efta00030763",
+        "united states citizen",
+        "federal rules of evidence",
+        "records",
+        "investigation",
+        "prosecution",
+        "at&t wireless",
+        "jeffrey epstein",
+        "28 u.s.c. § 1746"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00008599",
+      "summary": "This redacted document pertains to the United States v. Jeffrey Epstein case, specifically related to financial and communication records. It includes: *   **Addresses:** Lists addresses in New York, Palm Beach, and Florida associated with Epstein. *   **Communication Messages:** Contains multiple \"IMPORTANT MESSAGE\" slips with varying dates and times, offering instructions like “PLEASE CALL,” “RUSH,” and “RETURNED YOUR CALL.” These messages appear to be urgent requests or notifications. *   **Phone Call Logs:** Provides detailed records of phone calls made by Epstein on January 3 and September 16, 2004, including dates, times, duration, and destination locations (e.g., Boynton Beach, FL, New York, NY). *   **Flight Manifest:** Includes a passenger manifest from a September 16, 2004, flight, detailing passenger names, flight details, and origin/destination information. *   **Financial Information:** Contains redacted details of a financial liability party, including name, address, and account information. *   **Identifiers:** Includes various IDs, such as driver’s license numbers, phone numbers and account numbers. The document is heavily redacted, with significant portions of text and data removed.",
+      "timestamp": "2004-09-16T00:00:00",
+      "timestamp_raw": "September 16, 2004",
+      "keywords": [
+        "united states",
+        "jeffrey epstein",
+        "efta00008599",
+        "gm_glsdny",
+        "gm_gj_sdny",
+        "palm beach",
+        "new york",
+        "florida",
+        "2019",
+        "2025",
+        "10 east 71st street",
+        "calls",
+        "phone",
+        "message"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00007824",
+      "summary": "*   **Pay Periods:** The documents cover several pay periods between 2005 and 2006, including: *   5/14/2005 - 5/27/2005 *   3/05/2006 - 0/1.04201 *   4/30/2005 - 5/13/2005 *   2/19/2005 - 4/01/2005 *   June 15, 2005 - July 15, 2005 *   **Earnings & Deductions:** Epstein’s salary was $2,115.39 per pay period.  Various deductions included FICA, FED HT, and NH Pay. There were also regular deposits to the bank. *   **Checks and Deposits:** The statements detail specific checks written and deposits made during these periods, including deposit amounts ($1,602.90 to the bank) and dates. *   **Colonial Bank Communications:** Included promotional material and contact information for Colonial Bank. **Personal Information:** *   **Jeffrey Epstein:** Address (358 El Brillo Way, Palm Beach, FL 33480) and Social Security Number are listed. *   **Marital Status:** Single *   **Bank Statements:** The documents represent statements issued by Colonial Bank. **Note:** Several pages are partially redacted and contain printed statements from Colonial Bank about account activity, terms and conditions, and privacy policies.",
+      "timestamp": "2005-06-15T00:00:00",
+      "timestamp_raw": "June 15, 2005",
+      "keywords": [
+        "jeffrey epstein",
+        "payroll",
+        "earnings statement",
+        "taxes",
+        "deductions",
+        "fica",
+        "fed wt",
+        "salary",
+        "bank",
+        "palm beach",
+        "account number",
+        "deposits",
+        "payments",
+        "pay period",
+        "social security number"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00007501",
+      "summary": "Okay, here’s the factual content summary of the provided text, without any introductory or concluding remarks: *   **Account Information:** Account Number and Customer Service Number (1-800-937-8997) *   **Dates:** The records cover dates from August 20, 2005, to December 20, 2005 and January 21, 2006. *   **Detailed Call Logs:** A series of call logs are provided, detailing: *   Destination Numbers *   Call Times *   Call Types (Airtime, Toll, etc.) *   Call Minutes *   **Airtime & Toll Charges:** Detailed charges for Airtime and Toll calls are listed. *   **Messaging Charges:** A breakdown of charges for Text Messages, including a VM & Fax line item. *   **Monthly Service Charges:** The monthly service charges are listed as $6.99 *   **Other Charges:** Includes Government Fees and Taxes (Federal Excise Tax, State Communication Service Tax, County 911, and Regulatory Programs Fee). *   **Total Charges:** The total charges are listed as $32.32 *   **Multiple Usage Records** There are multiple separate records for data and usage charges and services from December 2005, ending December 21, 2006.",
+      "timestamp": "2005-08-20T00:00:00",
+      "timestamp_raw": "August 20, 2005",
+      "keywords": [
+        "airtime",
+        "long distance",
+        "international charges",
+        "miami",
+        "queens",
+        "new york",
+        "calls",
+        "minutes",
+        "toll charges",
+        "data/fax",
+        "mobile2mobile",
+        "voicemail",
+        "messaging charges",
+        "account number",
+        "customer service number",
+        "billing",
+        "charges",
+        "rates"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00006687",
+            "similarity": 0.52,
+            "index": 19,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00007401",
+      "summary": "It details charges for calls, data, and messaging services provided by a telecom company. **Key Details:** *   **Service Provider:** The bill is for a service from a company named “TeleComm.” *   **Usage Categories:** The bill breaks down charges into categories including: *   Free Minutes *   Text Messages (1,000) *   Long Distance Charges *   Data Charges *   **Dates and Destinations:** The bill lists numerous calls made to various destinations (cities and regions), including Miami, New York, and others, over a period of approximately 7 months. *   **Total Charges:** The total charges for the period is $32.76. **Note:** This summary is based solely on the provided text. It does not contain any supporting details or values.",
+      "timestamp": "2005-08-20T00:00:00",
+      "timestamp_raw": "August 20, 2005",
+      "keywords": [
+        "account number",
+        "charges",
+        "miami",
+        "fl",
+        "new york",
+        "ny",
+        "long distance",
+        "international charges",
+        "airtime",
+        "text message",
+        "billing",
+        "rates",
+        "tariffs",
+        "monthly service",
+        "data/fax",
+        "voice mail",
+        "mobile",
+        "call forwarding",
+        "conference call",
+        "call waiting",
+        "call types",
+        "phone calls",
+        "data charges",
+        "voice charges."
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00009988",
+      "summary": "This document, labeled “Exhibit C - EFTA00009988.pdf,” is an invoice generated on September 23, 2005, for an unspecified amount. The invoice details numerous accounts (identified by numbers like 0-008-75783, 1-510-70083, etc.) and dates spanning from 1999 to 2005. The invoice references multiple transactions and accounts associated with the same account number 229207504 and uses a variety of account numbers beginning with 1-5xx, 3-xxx, and 4-xxx. There are also some accounts starting with 5-xxx and 7-xxx. The document appears to be a record of financial transactions, likely related to a business or organization, containing various account numbers and dates.",
+      "timestamp": "2005-09-23T00:00:00",
+      "timestamp_raw": "September 23, 2005",
+      "keywords": [
+        "invoice #",
+        "date",
+        "acct #",
+        "efta00009988",
+        "2005",
+        "2003",
+        "2004",
+        "2000",
+        "2001",
+        "2002",
+        "229207504",
+        "114420816"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00006387",
+      "summary": "It includes a breakdown of calls by destination, time, and call type (e.g., local airtime, long distance, international), along with the charges associated with each call.  The data covers messaging charges and premium services (like ringtones) and is presented in a tabular format, illustrating the total charges for each call.",
+      "timestamp": "2006-07-21T00:00:00",
+      "timestamp_raw": "July 21, 2006",
+      "keywords": [
+        "here's a list of keywords extracted from the text",
+        "relevant for search and analysis:",
+        "*   airtime",
+        "*   long distance",
+        "*   international charges",
+        "*   customer service number",
+        "*   account number",
+        "*   minutes",
+        "*   toll charges",
+        "*   calls",
+        "*   billing",
+        "*   rates",
+        "*   charges",
+        "*   sms (short message service)",
+        "*   messaging",
+        "*   mobile",
+        "*   data/fax",
+        "*   rates",
+        "*   tariff"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00006487",
+      "summary": "Okay, here’s a concise summary of the provided text: This document details a customer's mobile phone usage data from September 21 and 21, 2006.  It includes detailed records of calls made (local airtime, long distance, and international charges), including the destination, time, type of call, minutes used, and toll charges. The data is organized by account number, customer service number, and provides a breakdown of charges related to airtime, tolls, and overall usage.  It lists a series of call types and destinations throughout the specified dates.",
+      "timestamp": "2006-08-21T00:00:00",
+      "timestamp_raw": "Aug 21, 2006",
+      "keywords": [
+        "here’s a list of at most 10 keywords extracted from the text",
+        "useful for search and analysis",
+        "along with the requested formatting:",
+        "airtime",
+        "charges",
+        "minutes",
+        "billing",
+        "data",
+        "international",
+        "calls",
+        "service",
+        "payments",
+        "phone"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00006687",
+      "summary": "Here’s a concise summary of the provided text: This document details the call usage for a customer account (1-800-937-8997) over a period of time, primarily from November 21, 2006, to December 21, 2006.  It lists individual calls with information such as the destination number, call type (e.g., Long Distance, Local Airtime), the duration of each call (minutes), and charges associated with each call. There are included details about services subscribed to, including voicemail and value bundles. The document includes total charges for the period and charges for specific messaging services.",
+      "timestamp": "2006-11-21T00:00:00",
+      "timestamp_raw": "November 21, 2006",
+      "keywords": [
+        "here's a comma-separated list of keywords based on the provided text",
+        "focusing on those most relevant for search and analysis:",
+        "airtime",
+        "long distance",
+        "international charges",
+        "customer service number",
+        "billing",
+        "minutes",
+        "calls",
+        "destination",
+        "numbers",
+        "phone usage",
+        "account number",
+        "data/fax",
+        "voicemail",
+        "mobile2mobile",
+        "wireless",
+        "telco",
+        "rates",
+        "charges"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00007501",
+            "similarity": 0.52,
+            "index": 14,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00007253",
+      "summary": "*   **Subscriber Information (Redacted):** The document contains redacted information for a subscriber named [REDACTED], including their account name, date of birth (N/A), social security number (N/A), address, and phone numbers. *   **Account Details:** The subscriber’s account number is listed, along with account establishment date (11/30/2004), service plan (MONTHLY - BUSINESS), and current status (CANCELLED) with a disconnect date of 12/9/2004. *   **Call Detail Records:** The document states that call detail records are provided on subsequent pages and are currently being compiled. *   **Contact Information:** Contact information for Ronald Witt, Law Enforcement Relations, is provided.",
+      "timestamp": "2007-02-16T00:00:00",
+      "timestamp_raw": "February 16, 2007",
+      "keywords": [
+        "t-mobile",
+        "law enforcement",
+        "subpoena",
+        "account number",
+        "subscriber",
+        "call detail records",
+        "imsi",
+        "data",
+        "brooklyn",
+        "ny",
+        "2007",
+        "fbi",
+        "redaction"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00007301",
+      "summary": "It details a customer’s account details (Account Number, Name, DOB, Address, IMSI), call detail records (CDR) for a period from December 2003 to December 2004, and associated charges. The CDRs list calls made with varying durations, airtime usage, and toll charges to different destinations. The document also includes a summary of billing information including monthly service charges and messaging charges. It appears to be part of a legal case involving the subscriber’s mobile phone activity.",
+      "timestamp": "2007-03-23T00:00:00",
+      "timestamp_raw": "March 23, 2007",
+      "keywords": [
+        "here's a list of 10 keywords extracted from the text",
+        "suitable for search and analysis",
+        "presented as a comma-separated list:",
+        "t-mobile",
+        "subscriber account",
+        "call detail records",
+        "billing",
+        "data usage",
+        "account service",
+        "location",
+        "miami",
+        "charges",
+        "tracking"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016542",
+      "summary": "*   **Account Details:** The account includes multiple accounts labeled RMA Domestic and MIA Domestic. *   **Client Information:** Ghislaine Maxwell’s personal information is provided, including her citizenship (United States), marital status (Single), date of birth, contact information, and employment details (TerraMar Project). *   **Net Worth:** Her net worth ranges from $10,000,000 AND ABOVE, with an annual income range of $200,000 - $499,999. *   **Investment Information:** Maxwell’s investment history includes 20 years of investment accounts with no holdings in equities, bonds, or futures. *   **Disclosure of Beneficial Ownership:** The document requires the obtaining and recording of information to identify each person or entity opening an account. *   **Margin Agreement:** The account has a margin agreement in place. *   **Cost Basis Method:** The account uses a First In, First Out (FIFO) cost basis method. *   **Features and Services:** The account includes Premier RMA/BSA and Visa Credit features. *   **Risk Profile:** The account risk profile is defined as Moderately High Risk. *   **Sweep Account Election:** The primary sweep fund is UBS Bank Sweep Program. *   **U.S. Political Affiliation:** Maxwell has indicated that she does not derive a substantial amount of her income/wealth from a country outside the United States, nor does she hold any positions with political affiliations. *   **Credit Report:** UBS is required to obtain a credit report for the account holder.",
+      "timestamp": "2014-02-12T00:00:00",
+      "timestamp_raw": "02/12/2014",
+      "keywords": [
+        "efta00016542",
+        "ghislaine maxwell",
+        "account number",
+        "rma domestic",
+        "client relationship agreement",
+        "signature requirement",
+        "sdny_gm_00274191",
+        "mia domestic",
+        "ubs",
+        "investment accounts",
+        "sweep options",
+        "financial advisor",
+        "credit card",
+        "margin",
+        "beneficial ownership",
+        "personal information",
+        "net worth",
+        "investment information",
+        "investment objectives",
+        "tax-free fund",
+        "e-delivery"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020685",
+      "summary": "*   Parvin Moyne provided wire transfer details including dates, amounts, recipient names (JP Morgan, Aviloop LLC, and others), and routing/account numbers for several transactions: *   1/28/2015 - $50,000 to JP Morgan *   4/22/2015 - $50,000 to JP Morgan *   9/24/2015 - $23,625.44 to JP Morgan *   11/30/2018 - $100,000 to Aviloop LLC *   12/3/2018 - $250,000 to Bank of America *   Andrew Stemmer requested further information, specifically the receiving bank names and account numbers, for these transactions, and was unable to locate the information himself. *   The email includes reference to case numbers 2021929, 2021539, 1385874, 1339985, and 1462811.",
+      "timestamp": "2015-01-28T00:00:00",
+      "timestamp_raw": "1/28/2015",
+      "keywords": [
+        "efta00020685",
+        "wire transfers",
+        "jp morgan",
+        "aviloop llc",
+        "deutsche bank",
+        "payments",
+        "accounts",
+        "bank of america",
+        "td bank",
+        "2015",
+        "2018"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00022367",
+      "summary": "and managed by Scott Stackmanalyie Casriel. It’s a Business Services Account with account number AelP7CCC6132590416. *   **Balance Sheet (April 29, 2016):** The account balance was $6,627.90, with $0.00 in cash and money balances, $0.00 in cash alternatives, and $0.00 in equities, fixed income, or commodities. *   **Investment Return (April 29, 2016):**  The account generated $1.19 in dividend and interest income, with a change in market value of $0.54. *   **Key Transactions (April 29, 2016):**  There were no deposits or withdrawals. *   **Loan Activity:** The account held a $2,005 loan balance on March 31st, which was paid off on April 28th, resulting in zero balance. Interest charges of $0.56 were incurred on March 31st, and $0.14 were earned on April 6th. *   **Sweep Options:** The account utilizes two sweep options - UBS Bank USA and UBS AG - for managing funds. *   **Tax Information:** Interest and dividend income are taxable, with details provided for US tax reporting purposes. *   **Other Information:** The account uses a FIFO (First In, First Out) method for cost basis calculations, and the account holder has identified \"Current income & capital appreciation\" as their primary investment objective with a moderate risk profile.",
+      "timestamp": "2016-04-29T00:00:00",
+      "timestamp_raw": "April 29, 2016",
+      "keywords": [
+        "ubs",
+        "financial services",
+        "account",
+        "assets",
+        "liabilities",
+        "investment return",
+        "dividends",
+        "interest",
+        "116 llc",
+        "account number",
+        "investment objectives",
+        "risk profile",
+        "loan summary",
+        "bank usa",
+        "sweep options"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00022407",
+      "summary": "**Important Notes:** *   The statement includes details about the FIFO (First-In, First-Out) investment method. *   Tax reporting information is provided, noting that certain income may be exempt from US and Puerto Rico income taxes. **Additional Details:** *   The statement tracks account value over time (Dec 2014 – May 2016) and displays sources of account growth, including net deposits and withdrawals, and investment returns. *   Cash activity is monitored throughout the month, including deposits, withdrawals, and reinvestments. *   The statement provides index performance data (S&P 500, Russell 3000, MSCI Europe, etc.) and interest rates. *   SIPC (Securities Investor Protection Corporation) coverage is mentioned.",
+      "timestamp": "2016-05-31T00:00:00",
+      "timestamp_raw": "May 31, 2016",
+      "keywords": [
+        "ubs",
+        "account",
+        "financial advisor",
+        "investment",
+        "assets",
+        "liabilities",
+        "statement",
+        "returns",
+        "allocation",
+        "dividends",
+        "interest",
+        "cash",
+        "equities",
+        "fixed income",
+        "money market funds",
+        "sipc",
+        "transaction"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00022415",
+      "summary": "*   **Fixed Income:** $3,527,934.55 (22.58% of total) – Primarily through Putnam Short Duration Income Fund. *   **Equities:** $0.00 (0% of total) *   **Other:** $0.00 (0% of total) **Performance & Transactions (July 2016):** *   **Net Deposits/Withdrawals:** $59,438.89 *   **Dividend & Interest Income:** $6,459.79 (July) / $32,525.64 (Year-to-Date) – Earned from UBS Select Prime Institutional Fund and Putnam Short Duration Income Fund. *   **Change in Market Value:** $3,510.38 (July) / $7,017.74 (Year-to-Date) *   **Key Expenses:**  A withdrawal of $500,000.00 was made to Haddon, Morgan and Foreman, AT WELLS FARGO BANK, NA on July 5th. **Important Notes:** *   The account utilizes a FIFO (First-In, First-Out) cost basis. *   Tax reporting information is provided, noting potential US and Puerto Rico tax implications for dividends and interest. *   The account has a sweep option (UBS Bank USA Deposit Account) with an Annual Percentage Yield (APY) of 0.00%. *   The account included details on the investment objectives, risk profile, and instructions.",
+      "timestamp": "2016-07-29T00:00:00",
+      "timestamp_raw": "Jul 29, 2016",
+      "keywords": [
+        "ubs",
+        "resource management account",
+        "ghislaine maxwell",
+        "account number",
+        "investment return",
+        "dividends",
+        "interest",
+        "assets",
+        "liabilities",
+        "account balance sheet"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016084",
+      "summary": "This document is a signature page and related account information for an Angara Trust account (EFTA00016084) held at UBS. Key details include: *   **Account Details:** The trust is an irrevocable trust established in 2016, with Ghislaine Maxwell as the grantor. *   **Client Information:**  It gathers information about the client’s personal details, net worth, investment experience, and knowledge. *   **Investment Profile:** The client's investment profile is defined as “Aggressive,” seeking a combination of income and capital appreciation. *   **Legal Disclosures:** Standard legal disclosures are included regarding account verification and information requirements.",
+      "timestamp": "2016-11-07T00:00:00",
+      "timestamp_raw": "11/07/2016",
+      "keywords": [
+        "trust",
+        "angara trust",
+        "ghislaine maxwell",
+        "account number",
+        "client relationship agreement",
+        "investment information",
+        "net worth",
+        "assets",
+        "ubs",
+        "irrevocable trust",
+        "us trust"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00022423",
+      "summary": "*   **Account Number:** 029023575 *   **Total Assets (November 30, 2016):** $1,468,134.79 *   **Total Liabilities:** $0.00 *   **Value of Account:** $1,468,134.79 *   **Financial Advisor:** Scott Stackniawlyle Casriel **Investment Details (November 30, 2016):** *   **Asset Allocation:** Primarily cash alternatives ($1,468,134.79) with minimal holdings in equities, fixed income, commodities, and other asset classes. *   **Index Tracking:** The account tracks the S&P 500, Russell 3000, MSCI Europe, and Barclays Aggregate Bond Index. *   **Interest Rates (November 30, 2016):** 3-month Treasury bills at 0.48%, One-month LIBOR at 0.62%. *   **Dividend & Interest Income:** $7,390.76 (Dividend) + $0.83 (Interest) = $7,391.59 **Financial Activity (November 2016):** *   **Deposits:** Primarily through transfers from various entities totaling $11,570.91. *   **Withdrawals:**  A large withdrawal of $14,250,000.00, and $18,961.67 in investments bought. *   **Reinvestments:** Dividend and interest reinvested. *   **Cash Flow:** Net cash flow is $0.00 at the end of the month. **Other Information:** *   The account uses a FIFO (First-In, First-Out) method for selling assets. *   SIPC insurance applies to money market sweep fund holdings. *   The statement includes tax information regarding dividend and interest income.",
+      "timestamp": "2016-11-30T00:00:00",
+      "timestamp_raw": "November 30, 2016",
+      "keywords": [
+        "ubs",
+        "financial services",
+        "account",
+        "ghislaine maxwell",
+        "investment",
+        "assets",
+        "liabilities",
+        "resource management account",
+        "november 2016",
+        "money market funds",
+        "dividends",
+        "interest income",
+        "value of account",
+        "account number",
+        "investment return"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00022383",
+            "similarity": 0.529,
+            "index": 29,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00022383",
+      "summary": "and held for GHISLAINE MAXWELL (Friendly Account: Indiv.V49920008) with account number 029023572.  It’s advised by SCOTT STACKMANLYLE CASRIEL. *   **Asset Value:** The total account value at the end of November 30, 2016, was $577.18. *   **Asset Allocation:** All assets are currently held as cash and money balances (100.00%). *   **Investment Performance:**  The account experienced a significant change in market value of -$43,874.36, primarily driven by investment withdrawals. Year-to-date returns vary across index investments (S&P 500, Russell 3000, MSCI Europe). *   **Withdrawals & Fees:** A total of $793,113.46 was withdrawn from the account, primarily in fees. *   **Income:** Dividend and interest income was minimal ($823.01). *   **Sweep Account:** The account utilizes an UBS Bank USA Deposit Account as a sweep option. *   **Tax Information:**  The statement notes that interest and dividend income may be tax-exempt depending on the account holder’s tax situation.",
+      "timestamp": "2016-11-30T00:00:00",
+      "timestamp_raw": "November 30, 2016",
+      "keywords": [
+        "ubs",
+        "account",
+        "ghislaine maxwell",
+        "investment",
+        "resource management account",
+        "november 2016",
+        "assets",
+        "liabilities",
+        "value of account",
+        "financial advisor",
+        "scott stackmanlyle casriel"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00022423",
+            "similarity": 0.529,
+            "index": 28,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00022377",
+      "summary": "*   **Investment Returns:** Dividend and interest income totaled $19,599.47, with a change in market value of $37,554.42. *   **Deposits & Withdrawals:** There were no deposits but withdrawals totaling $411,814.80. *   **Index Performance:** The S&P 500, Russell 3000, and MSCI Europe indices showed positive returns. *   **Interest Rates:** 3-month Treasury bills were at 0.48%, and one-month LIBOR was at 0.62%. **Other Information:** *   The account uses a FIFO (First-In, First-Out) cost basis method. *   Tax information is provided, noting that some dividend and interest income may be tax-exempt depending on the account holder’s residency. *   The account includes a UBS Bank USA Deposit Account with an annual percentage yield (APY) of 0.00%. *   The statement includes a cash activity summary and details regarding fees, transfers, and other transactions. **Note:** The document has six pages.",
+      "timestamp": "2016-12-30T00:00:00",
+      "timestamp_raw": "Nov 30, 2016",
+      "keywords": [
+        "ubs",
+        "financial services",
+        "account",
+        "ghislaine maxwell",
+        "rma",
+        "investment",
+        "assets",
+        "liabilities",
+        "dividend",
+        "interest",
+        "exchange"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020584",
+      "summary": "and JPMorgan Private Bank. As of June 29, 2017, the account balance was $121,241.53. The summary details deposits, withdrawals (checks), electronic transfers, interest earned, and an annual percentage yield of 2.33%. It includes a record of numerous transactions including transfers from NES LLC and CWB TRANSFER, along with a significant Fedwire transfer of $7,400,000.00 from Jeffrey Epstein. The document also includes important information regarding errors, dispute resolution, and relevant legal confidentiality requests.",
+      "timestamp": "2017-06-29T00:00:00",
+      "timestamp_raw": "June 29, 2017",
+      "keywords": [
+        "efta00020584",
+        "ghislaine maxwell",
+        "jpmorgan",
+        "premier checking",
+        "deposit accounts",
+        "morgan premier banking",
+        "accounts",
+        "balance",
+        "transfers",
+        "interest paid"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024311",
+      "summary": "Roberts, and Scott Borgerson. *   **Grantors:** Ghislaine Maxwell. *   **Account Address:** Boston, MA 02210-2698 *   **Account Title:** Montpelier Trust **Client Information:** *   **Clients:** Jeffrey W. Roberts, Scott Borgerson, Christine Yvonne Malina-Maxwell (Ghislaine Maxwell) *   **Citizenship:** Primarily U.S. citizens. *   **Investment Knowledge:** Clients generally report strong investment knowledge, with varying levels of experience. *   **Net Worth:** Ranges from $200,000 - $499,999, $10,000,000 AND ABOVE, and $10,000,000 AND ABOVE. **Investment Details:** *   **Sweep Accounts:** The account utilizes a sweep program to deposit funds into UBS Bank USA. *   **Margin:** Margin privileges are available (subject to terms outlined in the agreement). *   **Investment Objective:** Capital appreciation with moderate risk. *   **Investment Types:** Individual stocks, equities, bonds, and futures are possible. **Disclosure & Legal:** *   **FATCA Compliance:** The account is subject to FATCA (Foreign Account Tax Compliance Act) reporting. *   **Arbitration Clause:** The agreement includes a mandatory arbitration clause. *   **Privacy:** Client information is protected and shared within UBS for service purposes. **Important Note:** This summary focuses on the factual data within the document. It does not address the potential implications or context surrounding the individuals and entities involved.",
+      "timestamp": "2018-11-14T00:00:00",
+      "timestamp_raw": "11/14/2018",
+      "keywords": [
+        "trust",
+        "montpelier trust",
+        "account number",
+        "client relationship agreement",
+        "ubs",
+        "investment",
+        "net worth",
+        "christine malina-maxwell",
+        "jeffrey roberts",
+        "scott borgerson",
+        "ghislaine maxwell",
+        "trust information",
+        "tax identification number",
+        "margin",
+        "efta00024311",
+        "investment information",
+        "personal information",
+        "date established"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016323",
+      "summary": "An FBI Forensic Accountant from the New York Field Office is reviewing Maxwell’s credit card accounts, specifically a CapitalOne/SAKS card (account number redacted).  The attached Experian report from August 2019 shows the card had a zero balance as of August 15, 2019, with the last payment made in May 2019. A summary of Maxwell’s credit cards is being prepared and will be sent out either today or tomorrow.",
+      "timestamp": "2019-08-15T00:00:00",
+      "timestamp_raw": "August 15, 2019",
+      "keywords": [
+        "experian",
+        "credit card",
+        "capitalone",
+        "saks",
+        "maxwell",
+        "fbi",
+        "forensic accountant",
+        "account number",
+        "2019",
+        "summary"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016324",
+      "summary": "Attorney Geoffrey S. Berman, to Experian Information Solutions, Inc. requesting specific credit reports and related data for Ghislaine Maxwell (DOB: 1961, SSN redacted). The subpoena, dated August 16, 2019, is part of an ongoing investigation and seeks information regarding Maxwell’s accounts and credit inquiries from institutions including Bank of America, UBS Bank USA, and American Express.  The request includes details like account numbers, balances, payment histories, and inquiry dates.  The subpoena stipulates that if the records are produced by the return date (August 30, 2019), personal appearance may not be required, and a declaration of custodian of records must be submitted. Failure to comply with the subpoena constitutes contempt of court. A sample credit profile from Experian is also included, detailing accounts and inquiries related to Maxwell.",
+      "timestamp": "2019-08-16T00:00:00",
+      "timestamp_raw": "August 16, 2019",
+      "keywords": [
+        "experian",
+        "subpoena",
+        "grand jury",
+        "credit reports",
+        "fraud alerts",
+        "ghislaine maxwell",
+        "ssn",
+        "united states attorney",
+        "records",
+        "declaration of custodian of records",
+        "18 u.s.c. § 1591",
+        "1594(c)",
+        "2422(b)",
+        "371"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019744",
+      "summary": "An Assistant United States Attorney sent a subpoena (attached as 2019-10-07_subpoena_tolapdf) to [REDACTED] requesting a subpoena for CapitalOne regarding a specific matter. The subpoena should include provided text and utilize an account number found by [REDACTED]. The Forensic Accountant at the FBI New York Field Office (26 Federal Plaza, NYC, NY 10278) was to forward results electronically to the Special Agent Federal Bureau of Investigation.",
+      "timestamp": "2019-11-07T00:00:00",
+      "timestamp_raw": "07 Oct 2019",
+      "keywords": [
+        "subpoena",
+        "capitalone",
+        "fbi",
+        "forensic accountant",
+        "new york",
+        "rider",
+        "redacted",
+        "united states attorney",
+        "investigation",
+        "electronic format"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038404",
+      "summary": "The email chain discusses a “Keep Open Letter” for USAA bank. It involves requesting information about Ghislaine Maxwell, Scott Borgerson, and their USAA account number. Mandy, an FBI Special Agent, is coordinating with Alex and James C. Castafio (Manager of AML Investigations and Compliance) to send the letter.  EFTA00038404 and EFTA00038405 are identified as case numbers.",
+      "timestamp": "2020-03-02T00:00:00",
+      "timestamp_raw": "02 Mar 2020",
+      "keywords": [
+        "usaa",
+        "ghislaine maxwell",
+        "ssn",
+        "fbi",
+        "redaction",
+        "keep open letter",
+        "aml investigations",
+        "compliance",
+        "mandy",
+        "james c. castafio"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00017139",
+      "summary": "The document is an AT&T subscriber information record (EFTA00017139.pdf) dated June 17, 2020. It details four different subscriber accounts: *   **Account 1:**  SCOTT BORGERSON, active since 03/13/2004, with multiple contact details redacted. *   **Account 2:** G MAX, active since 09/17/2016, with multiple contact details redacted. *   **Account 3:** NOAH BORGERSON, active since 09/20/2019, with multiple contact details redacted. *   **Account 4:** G WIFI, active since 01/22/2010, with multiple contact details redacted. *   **Account 5:** SCOTT G BORGERSON, active since 07/22/2007, with multiple contact details redacted. Each account includes billing party information, account status, payment type (Postpaid), and a status change history.  All personal identifying information (SSN, TaxID, FEIN, phone numbers, email addresses) is redacted. The records include dealer information and service start dates.",
+      "timestamp": "2020-06-17T00:00:00",
+      "timestamp_raw": "June 17, 2020",
+      "keywords": [
+        "at&t",
+        "subscriber information",
+        "wireless",
+        "account number",
+        "scott borgerson",
+        "billing party",
+        "payment type",
+        "service start date"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016343",
+      "summary": "An FBI agent (“a”) contacted Amex regarding a credit card associated with Maxwell, noting a discrepancy between Amex account numbering conventions (accounts starting with 37 versus the provided 34). The agent inquired about returns from the card, given the last statement date of 12/18/19. A Forensic Accountant (FBI New York Field Office) responded with an attached draft analysis of Maxwell’s credit cards for discussion purposes, subject to change.",
+      "timestamp": "2020-06-29T00:00:00",
+      "timestamp_raw": "29 Jun 2020",
+      "keywords": [
+        "efta00016343",
+        "maxwell's credit cards",
+        "amex",
+        "returns",
+        "credit cards",
+        "fbi",
+        "forensic accountant",
+        "financial productions",
+        "analysis",
+        "37"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038590",
+      "summary": "The account number is Y1 23697. *   **Financial Advisor:** Scott Stackmayle Casriel is the assigned financial advisor. *   **Account Value (as of June 30, 2020 & January 31, 2020):** The account value was $59,039.62 on June 30, 2020, and $59,030.64 on January 31, 2020. *   **Asset and Liability Status:**  Assets are valued at $0.00 and liabilities are also $0.00. *   **Investment Return & Income (2020):** The investment return was 57.0% in 2019. Dividend and interest income totaled $8.98 (May 2020) and $2.64 (January 2020). *   **Tracking & Security:**  The document includes standard warnings about fraud prevention and encourages regular statement review and obtaining a free credit report.",
+      "timestamp": "2020-06-30T00:00:00",
+      "timestamp_raw": "June 30, 2020",
+      "keywords": [
+        "ubs",
+        "ghislaine maxwell ira",
+        "retirement account",
+        "individual retirement account",
+        "investment return",
+        "assets",
+        "liabilities",
+        "financial advisor",
+        "statement",
+        "credit report"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037702",
+      "summary": "A forensic accountant at the FBI New York Field Office prepared an analysis of account numbers related to “Maxwell” within AMEX production. The analysis identifies three account relationships: ELLMAX LLC/GMAXWELL (last statement September 2016), G MAXWELL (current account with specified last six digits), and THEODORE W WAITT (Maxwell had a sub-account with a last statement in September 2010). The draft analysis is for discussion purposes only and subject to change.",
+      "timestamp": "2020-07-01T00:00:00",
+      "timestamp_raw": "01 Jul 2020",
+      "keywords": [
+        "efta00037702",
+        "maxwell",
+        "amex",
+        "account",
+        "analysis",
+        "redaction",
+        "fbi",
+        "forensic accountant",
+        "ellmax llc",
+        "theodore w waitt"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031230",
+      "summary": "An Assistant United States Attorney from the Southern District of New York (SDNY) sent an email regarding a subpoena served on UBS related to an ongoing investigation, referred to as “SDNY investigation.” The email requests expedited production of materials and includes contact information for the attorney and a colleague, Mr. Ryan. The subpoena’s scope regarding the Angara trust is unclear, as it doesn't explicitly list the trust by name and lacks account numbers.",
+      "timestamp": "2020-07-08T00:00:00",
+      "timestamp_raw": "08 Jul 2020",
+      "keywords": [
+        "ubs",
+        "subpoena",
+        "sdny",
+        "investigation",
+        "angara trust",
+        "compliance",
+        "materials",
+        "production",
+        "united states attorney",
+        "new york"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024449",
+      "summary": "On July 10, 2020, a response letter was sent in relation to a Grand Jury Subpoena issued to Gbislaine Maxwell. The letter, from a legal representative, enclosed a WinZip file containing account records and account statements (Account Number XX X5I72) in response to the June 29, 2020 subpoena. The sender requests confidentiality and advance notice of any disclosure decisions regarding the documents. The document identifies the legal entity as a subsidiary of NM and includes the case number EFTA00024449.",
+      "timestamp": "2020-07-10T00:00:00",
+      "timestamp_raw": "July 10, 2020",
+      "keywords": [
+        "grand jury subpoena",
+        "gbislaine maxwell",
+        "account records",
+        "documents",
+        "confidentiality",
+        "legal proceeding",
+        "winzip",
+        "password",
+        "disclosure",
+        "efta00024449"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019051",
+      "summary": "Attorney’s Office for the Southern District of New York are involved in a search for records related to Ghislaine Maxwell and Jeffrey Epstein. *   The initial request involves locating a FedEx account number and shipment data from 2007-2020. *   A spreadsheet containing shipment data from 2007-2020 is being provided. *   The search involves identifying a records custodian who could testify in a trial for Ghislaine Maxwell (scheduled in New York in November). *   A subpoena was issued to FedEx in February 2008, with Tracy Ferrara as the point of contact. *   The goal is to find relevant documents for potential use as evidence. *   There is an attempt to engage a paralegal to prepare an affidavit or potentially testify at trial.",
+      "timestamp": "2021-08-05T00:00:00",
+      "timestamp_raw": "05 Aug 2021",
+      "keywords": [
+        "fedex",
+        "account number",
+        "subpoena",
+        "ghislaine maxwell",
+        "jeffrey epstein",
+        "records custodian",
+        "trial",
+        "affidavit",
+        "memphis",
+        "tn",
+        "usanys",
+        "2007-2020"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016038",
+      "summary": "This document is a redaction analysis for account number EFTA00016038, belonging to Ghislaine Maxwell. It details her account information, including account type (RMA Domestic - Sole Owner), personal details (name, citizenship, date of birth, contact information, employment, and net worth), and investment details. It outlines requirements for account opening, including verification of information and disclosures related to affiliated securities firms. The document also specifies an aggressive risk profile for this particular account, aiming for high returns through a combination of income and capital appreciation investments.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "ghislaine maxwell",
+        "account number",
+        "rma",
+        "client relationship agreement",
+        "personal information",
+        "citizenship",
+        "united states",
+        "date of birth",
+        "single",
+        "residential address",
+        "net worth",
+        "investment information",
+        "ubs",
+        "affiliations",
+        "u.s federal law",
+        "social security number"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015176",
+      "summary": "at Morgan Guaranty Trust Company of New York, as of October 31, 1999. It details the portfolio’s cash holdings (primarily short-term investments) and trade activity from October 1-31, 1999, including purchases and a sale of J P MORGAN INSTITUTIONAL PRIME MONEY and MARKET FUND securities.  The report outlines currency conversion rates, provides a summary by maturity, and includes instructions for contacting JPMorgan in case of issues with electronic transfers or statements. The document emphasizes the confidential nature of the information and provides contact details for assistance.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00015176",
+        "morgan guaranty trust",
+        "gift processing",
+        "securities gifts",
+        "account number",
+        "asset account portfolio",
+        "jpmorgan",
+        "chase",
+        "redaction analysis",
+        "financial trust company"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020592",
+      "summary": "The account (Primary Account Number 262-000-PB) held a business checking account with a starting balance of $32,133.42. Throughout June 2017, there were numerous deposits and withdrawals, including transfers from internal funds, checks paid to various companies (NC: SIKORSKY AIRCRAFT CORP, ENO BELL HELICOPTER TEXTRON), and fees. The ending balance was $201,056.71.  The document also contains important information regarding account terms, FDIC insurance, and procedures for reporting errors or inquiries about transactions. It highlights the absence of fees for this statement period and provides contact information for assistance.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "air ghislaine inc",
+        "jpmorgan private bank",
+        "deposit accounts",
+        "business checking",
+        "account number",
+        "transfers",
+        "checks",
+        "balance",
+        "relationship banking",
+        "electronic funds transfers"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021997",
+      "summary": "This document is a redacted JPMorgan account application form, likely for a \"CITADEL\" account type. It contains account numbers (EFTA00021997 – 22013), details about the account holder (name, address, etc.), and various sections requesting information about the account type, authorized signers, and payment preferences (check imaging). It includes multiple pages with redundant data and appears to be a form related to a banking service offered by JPMorgan Chase.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "jpmorgan",
+        "account",
+        "citadel",
+        "efta00021997",
+        "account numbers",
+        "form type",
+        "doc code",
+        "box number",
+        "194"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00022366",
+      "summary": "This document outlines terms and agreements related to an UBS client account. It includes a signature page acknowledging the Client Relationship Agreement and Margin Agreement, detailing UBS’s role in holding securities as collateral for margin loans. The agreement applies to all accounts, with exceptions for specific account types (e.g., certain retirement accounts). Electronic delivery of agreements and disclosures is confirmed, with contact information for UBS advisors provided. The document also references a predispute arbitration clause within the Client Relationship Agreement. Finally, it lists several account numbers associated with RMA Domestic accounts.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "ubs",
+        "margin agreement",
+        "client relationship agreement",
+        "accounts",
+        "securities",
+        "margin calls",
+        "arbitration",
+        "disclosures",
+        "e-mail",
+        "account disclosures"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037703",
+      "summary": "The document is a redaction analysis for account EFTA00037703, detailing account information including account names, sub-account names, account numbers, periods of account addition/change, Bates numbers, references, and comments. Specific accounts include: *   ELLMAX LLC (G Maxwell, various dates with Amex accounts: 000008, 000468, 000526, 000849, 000922, 001078, 001192, 001258, 001336, 001558) *   JENNIFER TURNER (G Maxwell, various dates with Amex accounts: 000526, 000849, 000922, 001078, 001192, 001258, 001336, 001558) *   THEODORE W WAITT (Various dates with Amex accounts: 001772, 001828, 002070) Several comments indicate the last statement with specific individuals included (e.g., September 2010 for Maxwell and Turner).",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "account",
+        "number",
+        "sub account",
+        "account",
+        "maxwell",
+        "ellmax llc",
+        "jane turner",
+        "bates number",
+        "period",
+        "statement"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    }
+  ]
+}

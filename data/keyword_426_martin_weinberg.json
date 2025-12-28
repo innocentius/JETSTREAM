@@ -1,0 +1,1311 @@
+{
+  "keyword": "martin weinberg",
+  "count": 32,
+  "keyword_match_count": 32,
+  "content_match_count": 18,
+  "total_files": 50,
+  "timeline": [
+    {
+      "file_id": "EFTA00033663",
+      "summary": "Martin Weinberg, on behalf of the Epstein family, requested the preservation and production of all documents, records, and evidence related to Jeffrey Epstein’s imprisonment, detention, and death at the Metropolitan Correctional Center (MCC) from July 6, 2019, onward, particularly concerning the July 23rd incident and August 10th death. This included requests for video footage, employee records, communication logs, medical records, physical evidence, and interviews. A notification of Epstein’s death was subsequently sent by the MCC.",
+      "timestamp": "2019-07-06T00:00:00",
+      "timestamp_raw": "July 6, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "mcc",
+        "suicide",
+        "detention",
+        "records",
+        "documents",
+        "investigations",
+        "death",
+        "august 10",
+        "2019",
+        "fbi",
+        "usms",
+        "mental health",
+        "cell",
+        "evidence"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00034607",
+            "similarity": 0.611,
+            "index": 1,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019067",
+            "similarity": 0.647,
+            "index": 32,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034607",
+      "summary": "A family member, Martin Weinberg, has requested the preservation and production of all documents, records, videos, and other information related to Jeffrey Epstein’s imprisonment, detention, and death at the Metropolitan Correctional Center (MCC) in New York. This includes materials from July 6, 2019, onward, specifically focusing on the events surrounding the July 23, 2019, attempted suicide and his death on August 10, 2019. The request covers data from various entities including the MCC, Warden, legal counsel, USMS, FBI, Inspector General, USAO, and any relevant state or city agencies. Specific items sought include video recordings, duty logs, observations, photographs, electronic communications, mental health records, medical records, physical evidence, and any notes found in Epstein’s cell. A separate email from a BOP Supervisory Staff Attorney provides official notification of Epstein’s passing and indicates an ongoing investigation.",
+      "timestamp": "2019-07-06T00:00:00",
+      "timestamp_raw": "July 6, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "mcc",
+        "suicide",
+        "detention",
+        "records",
+        "documents",
+        "preservation",
+        "investigation",
+        "death",
+        "august 10",
+        "2019",
+        "9th floor",
+        "cell",
+        "mental health"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00033663",
+            "similarity": 0.611,
+            "index": 0,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00019067",
+            "similarity": 0.688,
+            "index": 32,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00033578",
+      "summary": "On July 7, 2019, an individual contacted another regarding Jeffrey Epstein’s arrest and detention at MCC. Martin Weinberg, an attorney in good standing in Massachusetts, was representing Epstein and had visited him at MCC before being denied access. The sender expressed concern about Epstein’s lack of access to his attorney and attempted to facilitate a meeting between Weinberg and Epstein. The communication involved multiple email exchanges referencing the situation and Weinberg's prior representation of Epstein.",
+      "timestamp": "2019-07-07T00:00:00",
+      "timestamp_raw": "July 7, 2019",
+      "keywords": [
+        "martin weinberg",
+        "jeffrey epstein",
+        "attorney",
+        "massachusetts",
+        "usanys",
+        "indictment",
+        "mcc",
+        "counsel",
+        "defendant",
+        "arrest"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00035547",
+            "similarity": 0.818,
+            "index": 3,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00035549",
+            "similarity": 0.538,
+            "index": 10,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035547",
+      "summary": "An email chain discusses the detention of Jeffrey Epstein and concerns about his attorney, Martin Weinberg, being denied access to him at the Metropolitan Correctional Center (MCC). Weinberg previously represented Epstein and had been in contact regarding an upcoming indictment. A sender inquired about the possibility of allowing Weinberg to meet with Epstein that evening due to the attorney being prohibited from visiting because he is from out-of-state. The sender provided Weinberg’s contact information.",
+      "timestamp": "2019-07-07T00:00:00",
+      "timestamp_raw": "07 Jul 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "martin weinberg",
+        "attorney",
+        "massachusetts",
+        "counsel",
+        "arrest",
+        "indictment",
+        "mcc",
+        "legal representation",
+        "usanys"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00033578",
+            "similarity": 0.818,
+            "index": 2,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030161",
+      "summary": "On July 7, 2019, Martin Weinberg informed [REDACTED] that the indictment in the U.S. v. Jeffrey Epstein case was expected to be unsealed and assigned to a district judge around 9:15 a.m. the following morning. Weinberg offered to contact [REDACTED] after Epstein met with him.  [REDACTED] confirmed receipt of the indictment and noted awareness of potential privilege issues related to the search conducted at Epstein’s residence, stating a warrant and inventory would be delivered. Weinberg sent a follow-up email on July 6th, attaching the indictment and providing contact information for the Assistant U.S. Attorneys involved.",
+      "timestamp": "2019-07-07T00:00:00",
+      "timestamp_raw": "July 7, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "u.s. v.",
+        "martin weinberg",
+        "indictment",
+        "reid weingarten",
+        "bail",
+        "detention",
+        "judge",
+        "ausas",
+        "search warrant"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00015599",
+            "similarity": 0.636,
+            "index": 8,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00015602",
+            "similarity": 0.583,
+            "index": 15,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035024",
+      "summary": "On July 7, 2019, a U.S. Department of Justice officer (Lieutenant) contacted a Metropolitan Correctional Center Captain to verify that Martin Weinberg, an attorney in good standing in Massachusetts, was permitted to visit Jeffrey Epstein. The communication was part of a discussion regarding counsel having difficulty meeting with a client.",
+      "timestamp": "2019-07-07T00:00:00",
+      "timestamp_raw": "July 7, 2019",
+      "keywords": [
+        "efta00035024",
+        "martin weinberg",
+        "jeffrey epstein",
+        "u.s department of justice",
+        "metropolitan correctional center",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035025",
+      "summary": "On July 7, 2019, a Department of Justice representative contacted the Metropolitan Correctional Center to verify that Martin Weinberg, an attorney, is authorized to visit Jeffrey Epstein and is in good standing in Massachusetts.",
+      "timestamp": "2019-07-07T00:00:00",
+      "timestamp_raw": "July 7, 2019",
+      "keywords": [
+        "efta00035025",
+        "jeffrey epstein",
+        "martin weinberg",
+        "attorney",
+        "department of justice",
+        "metropolitan correctional center",
+        "new york",
+        "confidential",
+        "sdny",
+        "verification"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030169",
+      "summary": "An individual contacted another person regarding difficulties in meeting with Jeffrey Epstein, who was arrested and detained at MCC. Martin Weinberg, Epstein’s attorney, was initially denied access to him at MCC due to being from out-of-state. The sender requested assistance in resolving this issue to allow Weinberg to meet with Epstein that evening. Contact information for Weinberg and the sender were provided.",
+      "timestamp": "2019-07-07T00:00:00",
+      "timestamp_raw": "07 Jul 2019",
+      "keywords": [
+        "efta00030169",
+        "jeffrey epstein",
+        "martin weinberg",
+        "mcc",
+        "attorney",
+        "counsel",
+        "client",
+        "indictment",
+        "presentment",
+        "redacted"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015599",
+      "summary": "On July 7, 2019, Marty (likely a prosecutor) informed Martin Weinberg that the indictment in the U.S. v. Jeffrey Epstein case was expected to be unsealed and assigned to a district judge around 9:15 a.m. the following morning. Marty offered to contact Weinberg or preferred contacts if needed, particularly regarding a potential consent to detention without prejudice. Weinberg subsequently emailed the indictment to Marty, anticipating Epstein’s presentation at the U.S. District Court at 500 Pearl Street on Monday following interviews by Pretrial Services and presentation to a judge. Contact information for the involved Assistant U.S. Attorneys (AUSAs) was provided.",
+      "timestamp": "2019-07-07T00:00:00",
+      "timestamp_raw": "July 7, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "u.s. v.",
+        "martin weinberg",
+        "indictment",
+        "warrant",
+        "bail",
+        "detention",
+        "ausas"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00030161",
+            "similarity": 0.636,
+            "index": 4,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00015602",
+            "similarity": 0.7,
+            "index": 15,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00015567",
+      "summary": "Martin G. Weinberg requested a copy of the sealed Indictment of Mr. Epstein, any warrants for searches of Epstein’s residence or property, and resulting inventories. He specifically requested that the contents of any seized documents, devices, computers, or phones be protected until he could discuss protecting privileged communications with legal representation. The email originated from “a” to Weinberg on July 7, 2019.",
+      "timestamp": "2019-07-07T00:00:00",
+      "timestamp_raw": "July 7, 2019",
+      "keywords": [
+        "efta00015567",
+        "epstein",
+        "indictment",
+        "warrant",
+        "search",
+        "confidential",
+        "redaction",
+        "martin weinberg",
+        "attorneys",
+        "documents"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035549",
+      "summary": "On July 7, 2019, an individual reported that Jeffrey Epstein, a defendant, was arrested and detained at MCC. Martin Weinberg, Epstein’s attorney, had previously been in contact with the defendant and was attempting to meet with him at MCC prior to a planned indictment. However, Weinberg was denied access due to his out-of-state status. The sender sought to understand how to facilitate this meeting and offered to discuss the situation or contacted Weinberg directly.",
+      "timestamp": "2019-07-07T00:00:00",
+      "timestamp_raw": "July 7, 2019",
+      "keywords": [
+        "epstein",
+        "weinberg",
+        "massachusetts",
+        "attorney",
+        "jeffrey epstein",
+        "mcc",
+        "indictment",
+        "defendant",
+        "legal",
+        "counsel"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00033578",
+            "similarity": 0.538,
+            "index": 2,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028383",
+      "summary": "An email from Martin Weinberg, an Assistant U.S. Attorney for the Southern District of New York, to [REDACTED] regarding contact information for Jeffrey Epstein’s defense attorney. The email includes Weinberg’s office, cell, and email addresses.",
+      "timestamp": "2019-07-07T00:00:00",
+      "timestamp_raw": "07 Jul 2019",
+      "keywords": [
+        "epstein",
+        "weinberg",
+        "redaction",
+        "u.s. attorney",
+        "southern district",
+        "new york",
+        "contact info",
+        "defense attorney",
+        "2019",
+        "efta00028383"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00033579",
+      "summary": "On July 7, 2019, it was verified that Martin Weinberg is a licensed attorney in Massachusetts and permitted to visit Jeffrey Epstein. This information is classified as CONFIDENTIAL and associated with case SDNY_00008746 and EFTA00033579.",
+      "timestamp": "2019-07-07T00:00:00",
+      "timestamp_raw": "July 7, 2019",
+      "keywords": [
+        "weinberg",
+        "epstein",
+        "jeffrey epstein",
+        "attorney",
+        "metropolitan correctional center",
+        "ny",
+        "visit",
+        "confidential",
+        "sdny",
+        "efta00033579"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026635",
+      "summary": "On July 8, 2019, EFTA00026635 received a communication regarding the presentation of Jeffrey Epstein in the case of United States v. Epstein (19 Cr. 490). The sender anticipates the indictment will be unsealed tomorrow morning and is offering assistance to the recipient with any relevant information. Jeffrey Epstein is represented by Martin Weinberg and Reid Weingarten.",
+      "timestamp": "2019-07-08T00:00:00",
+      "timestamp_raw": "July 8, 2019",
+      "keywords": [
+        "epstein",
+        "jeffrey",
+        "redaction",
+        "united states v.",
+        "indictment",
+        "martin weinberg",
+        "reid weingarten",
+        "presentment",
+        "legal",
+        "email"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030226",
+      "summary": "On July 8, 2019, an email chain discusses the unsealing of the indictment in United States v. Epstein (19 Cr. 490) concerning Jeffrey Epstein. A redaction request (EFTA00030226.pdf) was sent to Judge Pitman to unseal the documents and a meeting was scheduled for 9:15 AM. Counsel for Epstein, Martin Weinberg and Reid Weingarten, were involved. The expectation was that the indictment would be unsealed first thing the following morning and a copy would be provided.",
+      "timestamp": "2019-07-08T00:00:00",
+      "timestamp_raw": "July 8, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "unsealing",
+        "united states v. epstein",
+        "martin weinberg",
+        "reid weingarten",
+        "judge pitman",
+        "indictment",
+        "report",
+        "legal",
+        "email",
+        "2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015602",
+      "summary": "Martin Weinberg was following up on the unsealing of the indictment in the U.S. v. Jeffrey Epstein case. He was informed that the indictment would be available around 9:15 AM on July 8, 2019, and Epstein would be presented to the court on Monday.  Weinberg was coordinating with AUSAs regarding the case and was aware of potential privilege issues related to a search conducted at Epstein’s residence. Contact information for the AUSAs was provided.  There was discussion about Epstein potentially consenting to detention without prejudice.",
+      "timestamp": "2019-07-08T00:00:00",
+      "timestamp_raw": "July 8, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "u.s. v.",
+        "martin weinberg",
+        "indictment",
+        "warrant",
+        "ausas",
+        "detention",
+        "bail argument",
+        "judge"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00015599",
+            "similarity": 0.7,
+            "index": 8,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00030161",
+            "similarity": 0.583,
+            "index": 4,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032972",
+      "summary": "Marc Fernich sent a government memorandum regarding the detention of Jeffrey Epstein to Martin Weinberg and copied Judge Pitman’s chambers and Judge Berman’s chambers. The memorandum was attached to an email sent in advance of an expected bail argument in U.S. v. Epstein, 19 Cr. 490 (RMB), presented by Judge Berman.",
+      "timestamp": "2019-07-08T00:00:00",
+      "timestamp_raw": "08 Jul 2019",
+      "keywords": [
+        "epstein",
+        "bail memorandum",
+        "u.s. v.",
+        "government",
+        "marc fernich",
+        "judge pitman",
+        "judge berman",
+        "redaction analysis",
+        "efta00032972",
+        "southern district of new york"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028313",
+      "summary": "This email chain discusses the legal representation of Jeffrey Epstein, specifically referencing Martin Weinberg Law and Steptoe & Johnson LLP. An Assistant United States Attorney from the Southern District of New York provided links to the websites of these law firms. The email is dated July 8, 2019.",
+      "timestamp": "2019-07-08T00:00:00",
+      "timestamp_raw": "July 8, 2019",
+      "keywords": [
+        "epstein",
+        "attorneys",
+        "martin weinberg law",
+        "steptoe & johnson",
+        "reid weingarten",
+        "united states attorney",
+        "southern district of new york",
+        "redaction analysis",
+        "efta00028313"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035669",
+      "summary": "On July 8, 2019, Captain from the Metropolitan Correctional Center verified that Martin Weinberg, an attorney in good standing in Massachusetts, is permitted to visit Jeffrey Epstein. The email chain discusses counsel difficulty meeting with a client and references redaction analysis EFTA00035669.",
+      "timestamp": "2019-07-08T00:00:00",
+      "timestamp_raw": "July 8, 2019",
+      "keywords": [
+        "epstein",
+        "weinberg",
+        "attorney",
+        "massachusetts",
+        "visit",
+        "redacted",
+        "counsel",
+        "metropolitan correctional center",
+        "2019",
+        "efta00035669"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015606",
+      "summary": "Pitman in the Southern District of New York on July 8, 2019. The charges against Epstein are two counts: sex trafficking conspiracy (18 U.S.C. § 371) and the substantive offense of sex trafficking (18 U.S.C. § 1591). The government, represented by Geoffrey S. Berman and Reid Weingarten, is seeking detention due to Epstein’s alleged risk of flight and danger presented by his conduct, including alleged exploitation of underage girls and potential witness tampering. Epstein is represented by attorneys Martin Weinberg and Reid Weingarten.  The judge informed Epstein of his rights, and the parties discussed the charges, the government’s desire for detention, and the scheduling of a detention hearing for Thursday, July 11th. Key points include the government’s arguments focusing on Epstein’s wealth, mobility, and past conduct (specifically, the Florida investigation and nonprosecution agreement), and the defense’s assertion that the charges relate to an older period of conduct and questioning the scope of the nonprosecution agreement. The case is being considered in light of a potential statute of limitations issue and concerns about the victims involved.",
+      "timestamp": "2019-07-08T00:00:00",
+      "timestamp_raw": "July 8, 2019",
+      "keywords": [
+        "efta00015606",
+        "jeffrey epstein",
+        "united states",
+        "sex trafficking",
+        "bail",
+        "detention",
+        "indictment",
+        "government",
+        "defense counsel",
+        "pretrial services",
+        "florida",
+        "nonprosecution agreement",
+        "victims",
+        "trafficking minors"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015661",
+      "summary": "This document records Jeffrey Epstein’s initial appearance in the Southern District of New York on July 8, 2019, following his arrest on July 6, 2019. United States Attorney Geoffrey Berman and defense attorneys Reid Weingarten, Martin Weinberg, and Marc Fernich appeared on behalf of the prosecution and defendant, respectively. Epstein is charged with two counts: sex trafficking conspiracy and the substantive offense of sex trafficking, allegedly involving the sexual abuse of underage girls at his residences in New York and Florida. The court explained Epstein’s rights as a defendant, and the government sought detention pending trial, citing significant risk of flight and danger due to Epstein’s wealth, international travel, and previous offenses. The defense argued that the charges were based on old conduct and that the non-prosecution agreement in Florida was not applicable, requesting a continuance to present their case. The court scheduled a detention hearing for July 11, 2019, at 2:00 PM, and ordered Epstein to be detained.",
+      "timestamp": "2019-07-08T00:00:00",
+      "timestamp_raw": "July 8, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "united states",
+        "sex trafficking",
+        "defendant",
+        "united states attorney",
+        "bail",
+        "detention",
+        "florida",
+        "prosecution",
+        "victims",
+        "nonprosecution agreement",
+        "charges",
+        "indictment",
+        "fbi",
+        "nypd",
+        "magistrate judge",
+        "united states code"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030184",
+      "summary": "The email chain discusses the attorneys representing Jeffrey Epstein. The original email asks for information about Epstein’s attorneys, and the response lists Martin Weinberg, Reid Weingarten, and Marc Fernich as the attorneys who have appeared for him. The email also provides contact information for the U.S. Attorney's Office for the Southern District of New York.",
+      "timestamp": "2019-07-10T00:00:00",
+      "timestamp_raw": "10 Jul 2019",
+      "keywords": [
+        "epstein",
+        "attorneys",
+        "martin weinberg",
+        "reid weingarten",
+        "marc fernich",
+        "u.s. attorney's office",
+        "southern district of new york",
+        "redaction analysis",
+        "email",
+        "legal"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028334",
+      "summary": "A subpoena was issued on July 11, 2019, requesting recordings of Jeffrey Epstein’s phone calls, excluding those involving attorneys. Simultaneously, a written request was made for Jeffrey Epstein’s email correspondence from July 6, 2019, through July 11, 2019, excluding emails exchanged with Marc Fernich, Martin Weinberg, and Reid Weingarten. The subpoena’s return date was set for July 12, 2019.",
+      "timestamp": "2019-07-11T00:00:00",
+      "timestamp_raw": "July 11, 2019",
+      "keywords": [
+        "epstein",
+        "subpoena",
+        "emails",
+        "jeffrey epstein",
+        "redaction",
+        "july 2019",
+        "attorney",
+        "marc fernich",
+        "martin weinberg",
+        "reid weingarten"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020766",
+      "summary": "Martin Weinberg, attorney for the defense in the case *U.S. v. Epstein*, requested a copy of records obtained from Institution 1, specifically financial records, to be produced as part of Rule 16 discovery and not as a public filing. A government attorney responded with a copy of the government’s detention memo and exhibits filed that afternoon in support of the government's position regarding Epstein’s bail. The request focused on a one-month period surrounding the time of two wire transfers.",
+      "timestamp": "2019-07-13T00:00:00",
+      "timestamp_raw": "13 Jul 2019",
+      "keywords": [
+        "weinberg",
+        "epstein",
+        "u.s. v.",
+        "discovery",
+        "records",
+        "bail",
+        "wire transfers",
+        "rule 16",
+        "financial information",
+        "martin weinberg"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030260",
+      "summary": "Martin G. Weinberg, Esq., requested a copy of records obtained from Institution 1 for the U.S. v. Epstein case, requesting they be provided as discovery rather than a public filing.  A U.S. Attorney attached the Government's reply and exhibits in support of the detention memo and opposition to the defendant's motion for bail to Judge Berman.  Communication occurred between Weinberg, Reid Weingarten, and the Assistant U.S. Attorney regarding the discovery process.",
+      "timestamp": "2019-07-14T00:00:00",
+      "timestamp_raw": "14 Jul 2019",
+      "keywords": [
+        "epstein",
+        "u.s. v.",
+        "government bail",
+        "rule 16 discovery",
+        "martin weinberg",
+        "reid weingarten",
+        "institution 1",
+        "financial information",
+        "southern district of new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021426",
+      "summary": "Martin Weinberg requested confirmation regarding excluding speedy trial time until Thursday. He also asked for information about a passport provided for a client (likely Epstein) and whether the client had been a citizen or legal permanent resident of any country other than the United States. The Assistant U.S. Attorney responded with “Thank you.” and indicated they could address new passport information appropriately.",
+      "timestamp": "2019-07-15T00:00:00",
+      "timestamp_raw": "15 Jul 2019",
+      "keywords": [
+        "bail topics",
+        "martin weinberg",
+        "reid",
+        "epstein",
+        "passport",
+        "pretrial",
+        "speedy trial",
+        "u.s. attorney",
+        "citizen",
+        "legal permanent resident"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021425",
+      "summary": "The United States Attorney for the Southern District of New York is requesting Judge Richard M. Berman to exclude speedy trial time between July 15, 2019, and July 18, 2019, in the case of *United States v. Jeffrey Epstein*. This request is made with the consent of the defense counsel (Martin Weinberg and Reid Weingarten) and is based on 18 U.S.C. § 3161(h)(7)(A) and (B) in the interests of justice.",
+      "timestamp": "2019-07-15T00:00:00",
+      "timestamp_raw": "July 15, 2019",
+      "keywords": [
+        "united states",
+        "jeffrey epstein",
+        "speedy trial",
+        "richard m. berman",
+        "united states attorney",
+        "southern district of new york",
+        "18 u.s.c. § 3161",
+        "redaction",
+        "case 1:19-cr-00490-rmb",
+        "efta00021425"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021416",
+      "summary": "An Assistant U.S. Attorney from the Southern District of New York is requesting information regarding Benjamin Epstein’s passport and any prior citizenship or legal permanent residency status outside of the United States. This request was initiated by Martin G. Weinberg and Reid Weingarten, and follows a previous email exchange concerning bail topics.",
+      "timestamp": "2019-07-16T00:00:00",
+      "timestamp_raw": "16 Jul 2019",
+      "keywords": [
+        "bail",
+        "epstein",
+        "passport",
+        "citizen",
+        "resident",
+        "united states",
+        "legal permanent resident",
+        "redaction",
+        "martin weinberg",
+        "u.s. attorney"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021402",
+      "summary": "*   Martin Weinberg is coordinating the retrieval of seized items from Jeffrey Epstein’s arrest, including cash, personal effects, and electronic devices. *   Marc Fernich is requesting assistance in obtaining these items due to difficulties contacting the case agent, Special Agent. *   The case agent, initially expected to return the items, is unavailable. *   Fernich is instructed to contact the case agent directly to arrange for possession of the items. *   A government memorandum regarding detention in the Epstein case is being shared with relevant parties.",
+      "timestamp": "2019-07-16T00:00:00",
+      "timestamp_raw": "16 Jul 2019",
+      "keywords": [
+        "epstein",
+        "seizure",
+        "bail",
+        "arrest",
+        "agents",
+        "phone",
+        "cash",
+        "evidence",
+        "marc fernich",
+        "martin weinberg"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014607",
+      "summary": "Martin Weinberg inquired about the availability of the original documents related to the U.S. v. Epstein case (19 Cr. 490 (RMB)). Mike, an Assistant United States Attorney from the Southern District of New York, attached photographs and stated that pages 6 and 7 were blank and unphotographed.",
+      "timestamp": "2019-07-17T00:00:00",
+      "timestamp_raw": "17 Jul 2019",
+      "keywords": [
+        "epstein",
+        "u.s. v.",
+        "redaction",
+        "photographs",
+        "martin weinberg",
+        "southern district of new york",
+        "mike",
+        "passport photographs"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030616",
+      "summary": "On July 19, 2019, Martin Weinberg proposed a call to discuss case management issues, a protective order, and discovery rollout related to the US v. Epstein case.  He suggested Tuesday, and the recipient responded that afternoon was preferable. The email thread originated from [REDACTED] to ealS>.",
+      "timestamp": "2019-07-19T00:00:00",
+      "timestamp_raw": "July 19, 2019",
+      "keywords": [
+        "epstein",
+        "us v epstein",
+        "redaction",
+        "call",
+        "schedule",
+        "martin weinberg",
+        "protective order",
+        "discovery",
+        "case management"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00021635",
+            "similarity": 0.5,
+            "index": 31,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00021635",
+      "summary": "On July 19, 2019, Martin Weinberg contacted [REDACTED] and [REDACTED] regarding the US v. Epstein case. Weinberg proposed a call for Tuesday to discuss case management issues, a protective order, and discovery rollout. [REDACTED] responded with a similar proposal for a call on Tuesday.",
+      "timestamp": "2019-07-19T00:00:00",
+      "timestamp_raw": "July 19, 2019",
+      "keywords": [
+        "epstein",
+        "us v",
+        "redaction",
+        "martin weinberg",
+        "protective order",
+        "discovery"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00030616",
+            "similarity": 0.5,
+            "index": 30,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019067",
+      "summary": "Martin Weinberg, attorney for Jeffrey Epstein’s family, is requesting the preservation and production of all documents and records related to Epstein’s imprisonment, detention, and death at the Metropolitan Correctional Center (MCC). This includes videos, records of personnel, observations, medical records, communications, physical evidence, and inmate logs from July 23, 2019, through August 10, 2019. The request is prompted by the circumstances surrounding Epstein’s death and subsequent investigation, including an attempted suicide and the involvement of the US Attorney’s Office for the Southern District of New York (SDNY) and the FBI.  Two emails detail ongoing communication and updates regarding the investigations from BOP officials and the Attorney General.",
+      "timestamp": "2019-07-23T00:00:00",
+      "timestamp_raw": "July 23, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "mcc",
+        "detention",
+        "death",
+        "investigation",
+        "records",
+        "documents",
+        "suicide",
+        "august 10",
+        "2019",
+        "evidence",
+        "communications",
+        "mental health"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034607",
+            "similarity": 0.688,
+            "index": 1,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033663",
+            "similarity": 0.647,
+            "index": 0,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030518",
+      "summary": "On July 25, 2019, individuals within the Epstein defense team (Martin G. Weinberg, Reid Weingarten, Michael Miller) were coordinating efforts to produce materials related to the US v. Epstein case. Andy was involved in the goal of producing the materials before a conference. Martin Weinberg intended to sign a Protective Order and requested information regarding the discovery's format and expected delivery.",
+      "timestamp": "2019-07-25T00:00:00",
+      "timestamp_raw": "July 25, 2019",
+      "keywords": [
+        "epstein",
+        "us v epstein",
+        "protective order",
+        "discovery",
+        "conference",
+        "martin g. weinberg",
+        "andy",
+        "maurene",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021662",
+      "summary": "Martin G. Weinberg requested that his team expedite the provision of search warrants, affidavits, and returns related to the US v. Epstein case. Ori inal Messa e responded, stating that an initial electronic discovery production (in native formats like PDFs and JPEGs) would be made no later than Tuesday. Weinberg anticipated a responsive letter by Monday morning, seeking information about the timing and format of the discovery production given the Protective Order and Steptoe IT’s preparation needs.",
+      "timestamp": "2019-07-26T00:00:00",
+      "timestamp_raw": "26 Jul 2019",
+      "keywords": [
+        "epstein",
+        "discovery",
+        "warrants",
+        "affidavits",
+        "production",
+        "protective order",
+        "electronic discovery",
+        "pdfs",
+        "jpegs",
+        "martin weinberg"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014534",
+      "summary": "The Assistant United States Attorney for the Southern District of New York is requesting drives from recipients (including Michael Miller, Martin Weinberg, Reid, and Marc Fernich) to load approximately 12 GB of discovery data. Drives should be delivered to the office address or brought to a conference. A separate hard drive is requested for Mr. Epstein to review the discovery at the MCC.",
+      "timestamp": "2019-07-30T00:00:00",
+      "timestamp_raw": "30 Jul 2019",
+      "keywords": [
+        "discovery",
+        "production",
+        "data",
+        "drive",
+        "hard drive",
+        "electronic copy",
+        "mcc",
+        "united states attorney",
+        "new york",
+        "michael miller"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030516",
+      "summary": "Martin Weinberg, an Assistant United States Attorney for the Southern District of New York, sent an email to counsel regarding the production of discovery in the case 19 Cr. 490 (RMB). The discovery, including a letter from Michael Miller, was loaded onto a drive and available for pickup at the U.S. Attorney's office. Weinberg offered assistance if there were any difficulties accessing the discovery.",
+      "timestamp": "2019-07-31T00:00:00",
+      "timestamp_raw": "31 Jul 2019",
+      "keywords": [
+        "discovery",
+        "production",
+        "michael miller",
+        "envelope",
+        "united states attorney",
+        "southern district of new york",
+        "19 cr. 490",
+        "rmb",
+        "redaction",
+        "martin weinberg"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00014581",
+            "similarity": 0.667,
+            "index": 37,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00014581",
+      "summary": "The Assistant United States Attorney for the Southern District of New York sent an email to Marc Femich, Martin Weinberg, Reid, and Michael Miller, providing access to the Government’s first discovery production related to 19 Cr. 490 (RMB). The production, consisting of materials linked to Michael Miller, was loaded onto a drive and ready for pickup at the U.S. Attorney’s office. An accompanying discovery and disclosure letter was also attached.",
+      "timestamp": "2019-07-31T00:00:00",
+      "timestamp_raw": "31 Jul 2019",
+      "keywords": [
+        "discovery",
+        "production",
+        "michael miller",
+        "united states attorney",
+        "southern district of new york",
+        "epstein",
+        "19 cr. 490",
+        "rmb",
+        "runner",
+        "envelope"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00030516",
+            "similarity": 0.667,
+            "index": 36,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020937",
+      "summary": "Martin Weinberg, Esq., contacted Reid Weingarten and Marty to discuss preservation requests related to the US v. Epstein case. He requested clarification on whether he needed to proactively request preservation from the US Attorney’s Office (AUSA) in SD Fla or if the request would be forwarded by Weingarten’s team. Weinberg anticipated a delay in responding due to travel and suggested sending a follow-up letter focusing on notifying other DOJ districts. Weingarten responded, acknowledging the delay and offering to incorporate the letter into their response.",
+      "timestamp": "2019-08-01T00:00:00",
+      "timestamp_raw": "01 Aug 2019",
+      "keywords": [
+        "epstein",
+        "preservation requests",
+        "us v epstein",
+        "martin weinberg",
+        "doj",
+        "ausai",
+        "documents"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029734",
+      "summary": "On August 7, 2019, Martin G. Weinberg contacted Michael Miller regarding a response to letters sent on July 26 and August 1 seeking preservation of records related to the US v. Epstein case. Weinberg requested Miller advise relevant parties, including US Attorneys in Georgia and CEOS, of the preservation request due on September 13. The expected response timeline was extended slightly due to a follow-up letter received on August 1, with an initial goal of a response by tomorrow (August 9th) or no later than Monday.",
+      "timestamp": "2019-08-07T00:00:00",
+      "timestamp_raw": "August 7, 2019",
+      "keywords": [
+        "epstein",
+        "us v epstein",
+        "martin weinberg",
+        "preservation",
+        "response",
+        "ausa",
+        "discovery",
+        "records",
+        "july 26",
+        "august 1"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019411",
+      "summary": "*   **Request:** They are formally requesting documents and records from the U.S. Department of Justice related to Jeffrey Epstein’s death at the Metropolitan Correctional Center (MCC) in New York. *   **Specific Requests:** The request includes protocols for inmate deaths, video recordings of entrances/exits and hallways, entry/exit logs, and logs of guards on duty, covering the period from August 9, 2019, to August 10, 2019. *   **Context of Death:** Epstein died in custody at the MCC on August 10, 2019, initially appearing as a suicide, prompting an FBI investigation and concern from Attorney General William P. Barr regarding irregularities. *   **Investigation:** The legal team intends to conduct their own investigation into the circumstances surrounding his death.",
+      "timestamp": "2019-08-09T00:00:00",
+      "timestamp_raw": "August 9, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "mcc",
+        "fbi",
+        "u.s. department of justice",
+        "inmate deaths",
+        "metropolitan correctional center",
+        "28 c.f.r.",
+        "requested evidence",
+        "suicide",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019765",
+      "summary": "Michael Miller received an email from [REDACTED] regarding the ongoing investigation into Jeffrey Epstein’s death, initiated by the Attorney General and including an FBI investigation. The email included a press release from the Bureau of Prisons (BOP) summarizing available information, noting ongoing investigations and a lack of updates regarding the cause of death and Mr. Epstein’s observations. Reid Weingarten and Martin G. Weinberg were also copied on the communications.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "10 Aug 2019",
+      "keywords": [
+        "epstein",
+        "us v",
+        "fbi",
+        "attorney general",
+        "redaction",
+        "mike miller",
+        "martin weinberg",
+        "reid weingarten",
+        "bop",
+        "death investigation"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027858",
+      "summary": "On August 10, 2019, Michael Miller inquired about arranging a pathologist for Jeffrey Epstein’s autopsy, specifically requesting a delay due to Epstein’s legal counsel’s demand.  Martin Weinberg responded, acknowledging the request and noting a potential autopsy for the following morning.  A third party sent a brief update confirming no further updates were expected that day and expressing hope for thorough investigations. The email chain pertains to the investigation into Epstein’s death.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "epstein",
+        "autopsy",
+        "pathologist",
+        "us v",
+        "michael miller",
+        "martin weinberg",
+        "redaction analysis",
+        "efta00027858"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00018974",
+            "similarity": 0.5,
+            "index": 43,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00018974",
+      "summary": "An email chain discusses Jeffrey Epstein’s autopsy. Michael Miller requested a pathologist be present for the autopsy, aiming for it to be delayed until Tuesday to allow for arrangements. Marty Weinberg forwarded a message from Miller requesting an investigation into Epstein’s death and inquiring about delaying the autopsy. IM sent a brief note stating they wouldn’t have further updates that day and anticipated continued contact regarding the investigation.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "10 Aug 2019",
+      "keywords": [
+        "epstein",
+        "autopsy",
+        "pathologist",
+        "us v epstein",
+        "jeffrey epstein",
+        "investigation",
+        "usanys",
+        "michael miller",
+        "martin weinberg",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00027858",
+            "similarity": 0.5,
+            "index": 42,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029741",
+      "summary": "An email was sent forwarding correspondence regarding the US v. Epstein case. The email directs Michael Miller to copy Martin Weinberg and Reid Weingarten as legal counsel for notifications, providing their email addresses.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "10 Aug 2019",
+      "keywords": [
+        "epstein",
+        "us v",
+        "weinberg",
+        "weingarten",
+        "redaction",
+        "legal",
+        "martin weinberg",
+        "reid weingarten",
+        "email",
+        "correspondence"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024359",
+      "summary": "Martin Weinberg sent emails to Mike, Marty, and Reid regarding the investigation into Jeffrey Epstein’s death.  A letter from the Warden was sent to Mike, detailing ongoing investigations initiated by the Attorney General.  Additional information regarding the cause of death and observation status was lacking but would be provided if obtained.  A press release from the Bureau of Prisons (BOP) was attached, confirming an FBI investigation into the death was underway and expected to be rigorous.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "10 Aug 2019",
+      "keywords": [
+        "epstein",
+        "weinberg",
+        "fbi",
+        "investigations",
+        "death",
+        "us v epstein",
+        "bop",
+        "martin weinberg",
+        "reid",
+        "michael miller"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034372",
+      "summary": "On August 12, 2019, Warden Lamine N’Diaye of the Metropolitan Correctional Center (MCC) New York responded to Judge Richard M. Berman’s inquiry about investigations related to an incident involving Jeffrey Epstein on or about July 23, 2019. N’Diaye confirmed that an internal investigation was completed, but the FBI and OIG investigations would include the incident. He stated he could not disclose information about the prior investigation due to its confidential nature. Counsel for Jeffrey Epstein, Martin Weinberg, is also included in the correspondence.",
+      "timestamp": "2019-08-12T00:00:00",
+      "timestamp_raw": "August 12, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "united states department of justice",
+        "federal bureau of prisons",
+        "metropolitan correctional center",
+        "richard m. berman",
+        "fbi",
+        "oig",
+        "august 12",
+        "2019",
+        "internal investigation",
+        "july 23",
+        "2019"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027975",
+      "summary": "On August 14, 2019, Martin G. Weinberg contacted individuals involved in the investigation into Jeffrey Epstein’s death, requesting contact information for Epstein’s defense counsel, Reid Weingarten, and Stacey Richman (representing Mark Epstein). Weinberg specifically requested assurance that seized computers and documents would not be accessed by the “case team” without establishing a taint team and protection protocols due to attorney-client and work product privilege. He also inquired about the timing of potential motions to dismiss the indictment and any delays in the investigation. Weinberg offered to provide a list of attorneys to a taint prosecutor upon identification.",
+      "timestamp": "2019-08-14T00:00:00",
+      "timestamp_raw": "August 14, 2019",
+      "keywords": [
+        "epstein",
+        "us v epstein",
+        "mark epstein",
+        "stacey richman",
+        "martin weinberg",
+        "investigation",
+        "emails",
+        "privilege",
+        "defense counsel",
+        "death"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014337",
+      "summary": "Martin Weinberg and his colleagues (Alex and Mike) are authorized to discuss potential civil forfeiture issues with the recipient. They were available for a discussion at 9:30 AM the following morning and requested a dial-in. The email chain is related to the case “US v Epstein.”",
+      "timestamp": "2019-08-14T00:00:00",
+      "timestamp_raw": "14 Aug 2019",
+      "keywords": [
+        "epstein",
+        "civil forfeiture",
+        "martin weinberg",
+        "us",
+        "dial-in",
+        "authorization",
+        "boston",
+        "ma",
+        "legal discussion"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010421",
+      "summary": "A letter motion for an order of nolle prosequi was sent by the Assistant U.S. Attorney for the Southern District of New York to Judge Berman’s chambers in the case of *U.S. v. Epstein* (19 Cr. 490 (RMB)). The letter, attached with a proposed order, was submitted following a previous discussion and was copied to defense counsel, Martin Weinberg and Michael Miller.",
+      "timestamp": "2019-08-19T00:00:00",
+      "timestamp_raw": "19 Aug 2019",
+      "keywords": [
+        "epstein",
+        "u.s. v.",
+        "nolle prosequi",
+        "motion",
+        "order",
+        "southern district of new york",
+        "judge berman",
+        "redaction analysis",
+        "19 cr. 490",
+        "rmb"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    }
+  ]
+}

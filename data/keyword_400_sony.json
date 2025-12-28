@@ -1,0 +1,1360 @@
+{
+  "keyword": "sony",
+  "count": 33,
+  "keyword_match_count": 33,
+  "content_match_count": 24,
+  "total_files": 57,
+  "timeline": [
+    {
+      "file_id": "EFTA00029921",
+      "summary": "*   **Collection Date:** The items were collected on August 28, 2006, at 8:00 AM. *   **Location:** The items were seized from a location in Palm Beach, FL (E03707388 - ECR8, Barcode E4229235). *   **Storage:** Currently held in New York (NY - NEW YORK). *   **Chain of Custody:** The document details a series of accepted and relinquished custody transfers, involving multiple individuals and agencies, primarily within the FBI. Specific names and reasons for transfers are redacted. *   **Retention:** The evidence has no retention period defined. *   **Acquisition Event:** The items were migrated on 2006-08-28.",
+      "timestamp": "2006-08-28T00:00:00",
+      "timestamp_raw": "August 28, 2006",
+      "keywords": [
+        "vhs tape",
+        "surveillance",
+        "dvd-r",
+        "subpoena",
+        "palm beach",
+        "florida",
+        "evidence",
+        "chain of custody",
+        "seizure",
+        "fd-1087",
+        "fbi"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013496",
+      "summary": "On September 11, 2007, an Assistant U.S. Attorney (USAFLS) communicated via email with multiple individuals, including Sony, regarding a request to hold a hearing on Epstein’s motion to quash. The hearing was initially proposed for the following morning, but the sender inquired about postponing it.  The email chain involved individuals within the USAFLS and referenced Judge Marra and Epstein.",
+      "timestamp": "2007-09-11T00:00:00",
+      "timestamp_raw": "September 11, 2007",
+      "keywords": [
+        "efta00013496",
+        "judge marra",
+        "epstein",
+        "usafls",
+        "redaction",
+        "hearing",
+        "motion to quash",
+        "sony",
+        "crd",
+        "urgent"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013716",
+      "summary": "On December 10, 2007, an Assistant U.S. Attorney from the USAFLS (redacted) sent an email to Lanna Belohlavek regarding information requested about Jeffrey Epstein. The email indicated a planned conversation about the facts and provided contact information for the USAFLS office in West Palm Beach, Florida.",
+      "timestamp": "2007-12-10T00:00:00",
+      "timestamp_raw": "December 10, 2007",
+      "keywords": [
+        "epstein",
+        "usafls",
+        "lanna belohlavek",
+        "sony",
+        "redaction",
+        "u.s. attorney",
+        "west palm beach",
+        "jeffrey epstein",
+        "2007",
+        "delay"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013967",
+      "summary": "An FBI email, dated June 13, 2008, from the FBI to [REDACTED] regarding a conference call concerning Jeffrey Epstein, with Sony expressing urgency. The email subject line is “Epstein”.",
+      "timestamp": "2008-06-13T00:00:00",
+      "timestamp_raw": "June 13, 2008",
+      "keywords": [
+        "epstein",
+        "fbi",
+        "efta00013967",
+        "redaction",
+        "sony",
+        "usafls"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00013874",
+            "similarity": 0.714,
+            "index": 4,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00013874",
+      "summary": "On June 13, 2008, an FBI agent contacted a USAFLS representative regarding a conference call related to Jeffrey Epstein. The agent reported the call went well and that Sony needed to proceed urgently. The agent indicated they would follow up with a phone call.",
+      "timestamp": "2008-06-13T00:00:00",
+      "timestamp_raw": "June 13, 2008",
+      "keywords": [
+        "epstein",
+        "fbi",
+        "usafls",
+        "redaction",
+        "sony",
+        "conference call"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00013967",
+            "similarity": 0.714,
+            "index": 3,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013665",
+      "summary": "On July 21, 2008, an Assistant U.S. Attorney (USAFLS) sent an email chain regarding a New York Post article. The email chain involved discussions about a letter sent to Tein and Goldberger, a scanned document (80717_Tein_Goldberger_Ltr.pdf), and the article’s URL.  The sender repeatedly confirmed the letter was completed and sent to the recipients. The email addresses involved include USAFLS, [REDACTED], Tein, and Goldberger.",
+      "timestamp": "2008-07-21T00:00:00",
+      "timestamp_raw": "July 21, 2008",
+      "keywords": [
+        "efta00013665",
+        "usafls",
+        "new york post",
+        "tein goldberger",
+        "sony",
+        "epstein",
+        "redaction analysis",
+        "assistant u.s. attorney",
+        "west palm beach",
+        "florida"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013605",
+      "summary": "Alan Dershowitz contacted Sony to express his continued focus on legal matters following his departure from Miami Beach. He had recently argued an appeal in New York and debated the Middle East at Georgetown. He appreciated Sony’s offer to advise the sheriff regarding Epstein’s sentence, but requested to postpone further discussion.",
+      "timestamp": "2009-03-27T00:00:00",
+      "timestamp_raw": "27 Mar 2009",
+      "keywords": [
+        "dershowitz",
+        "epstein",
+        "miami beach",
+        "ny",
+        "georgetown",
+        "sheriff",
+        "appeal",
+        "mideast",
+        "sentence",
+        "redaction"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031378",
+      "summary": "This redacted document appears to be a series of emails related to an ongoing investigation, likely involving child exploitation and human trafficking. Participants, including FBI agents (N. from NY), a US Attorney, and individuals involved in court proceedings (Sony, Detective), coordinate meeting times and discuss the sharing of case files (CDs or drives). Scheduling conflicts and logistical issues (childcare, proffer schedules) are a recurring theme. A central goal is to gather and review documents related to the case, with a planned meeting to discuss the information.",
+      "timestamp": "2018-12-06T00:00:00",
+      "timestamp_raw": "December 6, 2018",
+      "keywords": [
+        "investigation",
+        "fbi",
+        "new york",
+        "child exploitation",
+        "human trafficking",
+        "proffer",
+        "cd",
+        "meeting",
+        "sony",
+        "trafficking"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00009976",
+      "summary": "An email chain discusses an investigation related to the Jeffrey Epstein sex trafficking case and accusations in Miami Herald articles. Individuals are coordinating to add further investigations and confirm the availability of resources (specifically, a download - d/l) for the case. A link to the Miami Herald article is included.",
+      "timestamp": "2018-12-30T00:00:00",
+      "timestamp_raw": "Nov 30, 2018",
+      "keywords": [
+        "jeffrey epstein",
+        "sex trafficking",
+        "miami herald",
+        "redaction",
+        "investigation",
+        "case",
+        "accusations",
+        "sony",
+        "email",
+        "2018"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030218",
+      "summary": "On March 20, 2019, an Assistant United States Attorney from the Southern District of New York requested the email containing the search warrant affidavit and order for the Epstein residence from an individual with the alias “Ma, (MM) (FBI).” This request stemmed from an inability to locate the documents within previously reviewed materials related to the Epstein investigation. A follow-up email from “EMM, (MM) (FBI)” on March 21, 2019, indicated they were unavailable and would send the documents the following morning. A subsequent reply from “j II [REDACTED]” confirmed they would email the documents.",
+      "timestamp": "2019-03-20T00:00:00",
+      "timestamp_raw": "March 20, 2019",
+      "keywords": [
+        "epstein",
+        "redaction",
+        "fbi",
+        "search warrant",
+        "affidavit",
+        "residence",
+        "sony",
+        "united states attorney",
+        "southern district of new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016962",
+      "summary": "An email chain discusses a call from the SDNY regarding a criminal matter involving Jeff Epstein. A First Assistant in the Middle District of Florida provided information. The Crim Chief in SONY inquired about FBI evidence gathered in the SDNY Epstein investigation, specifically a reluctance from the Miami FBI to share 6E materials without a 6E letter. The sender questioned whether their office should provide the go-ahead or letter due to recusal from the underlying case and requested contact information for the AUSA handling the old criminal case to potentially direct SDNY to them.",
+      "timestamp": "2019-04-17T00:00:00",
+      "timestamp_raw": "17 Apr 2019",
+      "keywords": [
+        "efta00016962",
+        "sdny",
+        "fbi",
+        "grand jury",
+        "mdfl",
+        "miami fbi",
+        "recusal",
+        "criminal matter",
+        "jeff epstein",
+        "ausa"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013276",
+      "summary": "On April 24, 2019, individuals discussed a meeting that “went well” and covered a significant amount of ground. They offered to brief someone “tomorrow” and provided updates regarding preferred meeting times (930 or 10) and their departure. The exchange was initiated by a series of emails between individuals using iPhones.",
+      "timestamp": "2019-04-24T00:00:00",
+      "timestamp_raw": "April 24, 2019",
+      "keywords": [
+        "epstein",
+        "redaction",
+        "sony",
+        "update",
+        "930",
+        "10",
+        "phone",
+        "april 24",
+        "2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020691",
+      "summary": "An FBI New York Special Agent, part of the VCACIHuman Trafficking unit, sent an email attachment titled “Epstein’s travel from 1.1.2015 to 4.21.19” as a PDF summary. The email thread discusses requests for a Word version of the document and confirms it is a web-based program that exports to PDF.",
+      "timestamp": "2019-04-25T00:00:00",
+      "timestamp_raw": "25 Apr 2019",
+      "keywords": [
+        "epstein travel",
+        "redaction analysis",
+        "pdf",
+        "sony",
+        "word",
+        "fbi",
+        "new york",
+        "vcaci",
+        "human trafficking",
+        "efta00020691"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019729",
+      "summary": "On July 11, 2019, the FBI executed a search warrant at 9 East 71st Street, New York, in connection with Jeffrey Epstein child sex trafficking. During the search, agents collected a variety of electronic devices, including a silver Apple desktop computer, multiple Seagate Path/100 hard drives, USB flash drives (including Data Traveler 4GB and Mentor Media 32GB), and several CDs/DVDs. Additionally, they seized a Dell Precision Tower 5810 computer, a Sony Vaio laptop, an Olympus recorder, an Apple iPad and associated accessories, and various other computers and storage devices, totaling 45 devices. These items were found across various rooms of the residence, including rooms A, FF, GG, II, NN, O, V, and U.",
+      "timestamp": "2019-07-11T00:00:00",
+      "timestamp_raw": "July 11, 2019",
+      "keywords": [
+        "fbi",
+        "search warrant",
+        "new york",
+        "computer",
+        "hard drive",
+        "data",
+        "jeffrey epstein",
+        "trafficking",
+        "seizure",
+        "devices",
+        "apple",
+        "seagate",
+        "usb"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028541",
+      "summary": "Alex Conlon contacted Jenna Dabbs regarding a forfeiture issue related to a case involving Jeffrey Epstein. Jenna Dabbs responded expressing concern about the potential continuation of a Sony investigation, a civil forfeiture proceeding, and possible criminal prosecutions. She also acknowledged the team’s professional and compassionate handling of the case, referencing a previous experience with a defendant’s suicide. The email includes a disclaimer regarding confidential and privileged information.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "10 Aug 2019",
+      "keywords": [
+        "epstein",
+        "forfeiture",
+        "civil forfeiture",
+        "criminal prosecution",
+        "sony",
+        "kaplan hecker",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019949",
+      "summary": "An email was sent from IJSANYS to Mlar regarding the news of Jeffrey Epstein’s death. The sender expresses sympathy, referencing a previous suicide of a securities fraud defendant three years prior and offering support to the recipient.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "10 Aug 2019",
+      "keywords": [
+        "epstein",
+        "redaction",
+        "suicide",
+        "securities fraud",
+        "sony",
+        "ijsanys",
+        "harm",
+        "job"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024498",
+      "summary": "An FBI/NYPD Violent Crimes Task Force Supervisory Special Agent is communicating with [REDACTED] regarding assistance with an investigation titled \"Epstein.\" The agent is directing inquiries to the AUSA team and providing contact information for the primary point of contact, who is copied on the email: [REDACTED]. The communication expresses appreciation for the team’s immediate assistance on a Saturday.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "10 Aug 2019",
+      "keywords": [
+        "epstein",
+        "fbi",
+        "nypd",
+        "violent crimes task force",
+        "ausa",
+        "sony",
+        "redaction",
+        "contact",
+        "assistance",
+        "team"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00011512",
+      "summary": "An email chain discusses potential legal representation for a possible girlfriend of Jeffrey Epstein. Maurice Secarz, an attorney, is identified as the contact. FBI Supervisory Special Agent from the Violent Crimes Task Force is coordinating efforts with SONY and the AUSA team, requesting assistance and providing contact information. The emails detail communication between individuals regarding the case on August 10, 2019.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "epstein",
+        "fbi",
+        "nypd",
+        "violent crimes task force",
+        "ausa",
+        "maurice secarz",
+        "redaction analysis",
+        "attorney",
+        "contact info",
+        "sony"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031705",
+      "summary": "Nick Allen, a journalist with The Daily Telegraph, is contacting an individual regarding an inquiry into Prince Andrew and Ghislaine Maxwell. He seeks confirmation, on background, of whether the individual intends to question Prince Andrew and if Ghislaine Maxwell is cooperating with authorities, based on a report in the New York Post.",
+      "timestamp": "2019-08-11T00:00:00",
+      "timestamp_raw": "11 Aug 2019",
+      "keywords": [
+        "epstein enquiry",
+        "ghislaine maxwell",
+        "prince andrew",
+        "sony",
+        "daily telegraph",
+        "journalist",
+        "redaction",
+        "authorities",
+        "british citizens",
+        "nick allen"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00013181",
+            "similarity": 0.538,
+            "index": 19,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00013181",
+      "summary": "On August 11, 2019, Nick Allen of the Daily Telegraph contacted an individual (“Miss Sony”) requesting information regarding whether they wished to question Prince Andrew about Ghislaine Maxwell and her cooperation with authorities. The message was sent from an iPhone and included a redacted email chain. A subsequent email from the Telegraph Media Group Limited included standard legal disclaimers regarding confidential and privileged content.",
+      "timestamp": "2019-08-11T00:00:00",
+      "timestamp_raw": "August 11, 2019",
+      "keywords": [
+        "epstein enquiry",
+        "ghislaine maxwell",
+        "prince andrew",
+        "daily telegraph",
+        "nick allen",
+        "usanys",
+        "redaction analysis",
+        "maxwell",
+        "authorities",
+        "sony"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00031705",
+            "similarity": 0.538,
+            "index": 18,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032501",
+      "summary": "An email chain discusses a situation involving the SEC, the death of an individual (\"he strangled himself\"), and concerns about Jeffrey Epstein's financial activities. One individual apologizes for a \"ping\" and expresses frustration with the SEC’s handling of a case. Another individual inquired about confirming whether records showed the deceased investing other people’s money.",
+      "timestamp": "2019-08-16T00:00:00",
+      "timestamp_raw": "16 Aug 2019",
+      "keywords": [
+        "sec",
+        "epstein",
+        "ia case",
+        "records",
+        "investment",
+        "email",
+        "sony",
+        "priority",
+        "ping",
+        "redacted"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00019320",
+            "similarity": 0.538,
+            "index": 21,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00019320",
+      "summary": "An email chain discusses a potential investigation related to Jeffrey Epstein, referencing a previous conversation and a subsequent death. One individual apologizes for a “ping” and expresses concern about the SEC’s handling of a case (“sec”). Another individual mentions confirming the absence of records indicating Epstein’s investment activity.",
+      "timestamp": "2019-08-16T00:00:00",
+      "timestamp_raw": "16 Aug 2019",
+      "keywords": [
+        "sec",
+        "epstein",
+        "ia case",
+        "redaction",
+        "email",
+        "usanys",
+        "sony",
+        "records",
+        "investing",
+        "ping"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00032501",
+            "similarity": 0.538,
+            "index": 20,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00033566",
+      "summary": "On August 19, 2019, a U.S. Passport (P) was issued to Sony Oxman under the passport number EFTA00033566. The passport is issued by the U.S. Customs and Border Protection, Department of Homeland Security. The passport is for the United States of America, issued to a male individual born in USA. The document is marked as “For Official Use Only / Law Enforcement Sensitive.”",
+      "timestamp": "2019-08-19T00:00:00",
+      "timestamp_raw": "August 19, 2019",
+      "keywords": [
+        "us passport",
+        "customs and border protection",
+        "homeland security",
+        "passport status",
+        "issue date",
+        "expiration date",
+        "usa",
+        "nationality",
+        "personal information",
+        "efta00033566"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028194",
+      "summary": "An email exchange occurred between a Deputy United States Attorney from the Southern District of New York and Sony regarding a request for a report on the “DB part of Epstein case.” The original request was misdirected, and Sony acknowledged the error. The Deputy U.S. Attorney was seeking clarification on whether the report would be part of an existing DB SAR investigation or a separate one.",
+      "timestamp": "2019-09-17T00:00:00",
+      "timestamp_raw": "17 Sep 2019",
+      "keywords": [
+        "epstein case",
+        "db",
+        "umr",
+        "kushner",
+        "usanys",
+        "request",
+        "sony",
+        "redaction",
+        "report",
+        "united states attorney's office"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031457",
+      "summary": "An individual ([REDACTED]) contacted Sony regarding a potential interview related to a forthcoming four-part Netflix series about Jeffrey Epstein. The series has been in development for 18 months and is set to release in a few months. The individual ([REDACTED]) had previously attempted to connect with the recipient but was unable to do so. They offered availability for a discussion between now and noon or after 6pm tonight, or tomorrow morning or after lunch. The series focuses on backward-looking interviews.",
+      "timestamp": "2019-11-16T00:00:00",
+      "timestamp_raw": "16 Oct 2019",
+      "keywords": [
+        "epstein",
+        "netflix",
+        "series",
+        "interview",
+        "press office",
+        "trial",
+        "nashville",
+        "september 15",
+        "2019",
+        "october 16",
+        "2019",
+        "redaction"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035752",
+      "summary": "This document is an Import Form created by the FBI, Case ID #90A-NY-3151227, related to a death investigation involving Jeffrey Epstein. The form, dated December 13, 2019, was provided by the OIG SA and includes OIG Waiver Forms and references to documents SONY_00017816 and EFTA00035752. The form indicates UNSUB(S) and Jeffrey Epstein as the victim.",
+      "timestamp": "2019-12-13T00:00:00",
+      "timestamp_raw": "December 13, 2019",
+      "keywords": [
+        "fbi",
+        "investigation",
+        "jeffrey epstein",
+        "oig",
+        "waiver forms",
+        "death investigation",
+        "case id",
+        "2019",
+        "ssa",
+        "oig sa"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025082",
+      "summary": "On February 13, 2020, Kadhim Shubber from the Financial Times contacted Sony seeking information regarding the DOJ’s communication of information to the UK FCA about Jes Staley’s relationship with Jeffrey Epstein. Sony declined to provide guidance or comment. The email chain discusses an ongoing investigation by the FCA and PRA into Staley’s statements.",
+      "timestamp": "2020-02-13T00:00:00",
+      "timestamp_raw": "February 13, 2020",
+      "keywords": [
+        "epstein",
+        "staley",
+        "fca",
+        "doj",
+        "barclays",
+        "investigation",
+        "uk",
+        "financial times",
+        "redaction",
+        "query"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025186",
+      "summary": "An email exchange occurred between Gloria Allred (of Allred, Maroko & Goldberg) and an Assistant United States Attorney from the Southern District of New York. The U.S. Attorney requested a call with the SONY Epstein team to provide an update and discuss Allred’s clients. Allred responded positively, offering times for the call (3 P.M. or 4 P.M. EST). The email also included contact information for Allred’s firm and a note regarding the confidential nature of the communication.",
+      "timestamp": "2020-03-26T00:00:00",
+      "timestamp_raw": "26 Mar 2020",
+      "keywords": [
+        "gloria allred",
+        "efta00025186",
+        "sony epstein",
+        "united states attorney",
+        "call this week",
+        "redaction analysis",
+        "los angeles",
+        "new york",
+        "march 2020",
+        "legal"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023132",
+      "summary": "Gloria Allred (Allred, Maroko & Goldberg) communicated via email regarding a call with the SONY Epstein team. The initial contact was initiated by the SONY Epstein team requesting a call to provide an update and discuss clients. Allred confirmed her availability for a call, suggesting either 3:00 PM or 4:00 PM EST on March 26th or 27th. The SONY Epstein team provided a conference line (dial-in code: 933571) and offered to send a Zoom number. The communications involved multiple redactions of sender and recipient information.",
+      "timestamp": "2020-03-26T00:00:00",
+      "timestamp_raw": "26 Mar 2020",
+      "keywords": [
+        "gloria allred",
+        "los angeles",
+        "litigation",
+        "zoom",
+        "conference call",
+        "march 2020",
+        "sony epstein",
+        "united states attorney"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024259",
+      "summary": "Gloria Allred is coordinating a call with an unidentified “SONY Epstein team” regarding updates and client discussions. Initial communication occurred on March 31, 2020, with the team proposing times of 3:00 PM EST or 4:00 PM EST for the call. The team provided a conference line (933571). Subsequent emails continued to solidify the time for the call, primarily focusing on scheduling flexibility. The team also inquired about client feedback from last week. Allred responded with offers to send a Zoom number or conference number, and ultimately confirmed a time of 3:00 PM EST for the call. The communication involved multiple parties and included information about Allred's firm and awards, as well as a standard legal confidentiality disclaimer.",
+      "timestamp": "2020-03-31T00:00:00",
+      "timestamp_raw": "March 31, 2020",
+      "keywords": [
+        "gloria allred",
+        "call",
+        "conference",
+        "time",
+        "number",
+        "los angeles",
+        "3:00 pm est",
+        "zoom",
+        "redaction",
+        "united states attorney"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028346",
+      "summary": "Virgin Islands. *   The investigation includes examining Epstein’s jail calls and custodial materials, potentially issued through grand jury subpoenas. *   Communication occurs between Nate (Assistant U.S. Attorney, District of the Virgin Islands) and Geoffrey Berman (USANYS) to coordinate efforts and identify a contact person within Sony. *   The FBI and IRS-CI are also participating in the investigation. *   The initial inquiry was prompted by a USVI-based FBI and IRS-CI team opening an investigation into the estate and bank.",
+      "timestamp": "2020-04-01T00:00:00",
+      "timestamp_raw": "01 Apr 2020",
+      "keywords": [
+        "jeffrey epstein",
+        "usvi",
+        "southern country international bank",
+        "usanys",
+        "subpoenas",
+        "investigation",
+        "fbi",
+        "irs-ci",
+        "united states attorney",
+        "virgin islands"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037454",
+      "summary": "Emails discuss a Mutual Legal Assistance Treaty (MLAT) being sent to Prince Andrew related to investigations involving Jeffrey Epstein and Erik Nygard. The MLAT was initially requested from the UK and subsequently sent by the Office. A finalized version of the MLAT was attached and discussed, with recommendations against public announcements until a witness declines a voluntary interview. Updates regarding the delivery process were provided by multiple individuals, including SONY and ALATs in London.",
+      "timestamp": "2020-04-16T00:00:00",
+      "timestamp_raw": "16 Apr 2020",
+      "keywords": [
+        "efta00037454",
+        "material witness pa",
+        "mlat",
+        "prince andrew",
+        "epstein",
+        "nygard",
+        "investigations",
+        "uk",
+        "interview",
+        "home office"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021771",
+      "summary": "On April 23, 2020, a request was made to obtain a hard drive containing all returns related to the Epstein case. The request was submitted by a paralegal specialist (EFTA00021771) to Hamilton, a contractor. A Sony employee (MI) was coordinating a handover of a case role. An individual ([REDACTED]) was restricted from attaching a hard drive to a computer system holding financial productions and was consulting with a special agent. The United States Attorney's Office, Southern District of New York (EFTA00021772) is involved.",
+      "timestamp": "2020-04-23T00:00:00",
+      "timestamp_raw": "April 23, 2020",
+      "keywords": [
+        "epstein",
+        "sony",
+        "hard drive",
+        "returns",
+        "financial productions",
+        "contractor",
+        "paralegal",
+        "efta00021771",
+        "efta00021772",
+        "united states attorney"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00017028",
+      "summary": "The provided text is a series of emails discussing the receipt and processing of data seized during FBI searches related to Jeffrey Epstein. Initially, the FBI planned to simply provide raw data to a vendor for processing, aiming for efficiency and avoiding previous delays. However, concerns arose about the volume of data (potentially terabytes) and the lack of a clear plan for data transfer and processing. Multiple parties requested a more structured approach, including a spreadsheet detailing devices, data dumps, and review status. There were difficulties identifying previously received data, leading to confusion regarding what was new and what had been processed. The need for a coordinated effort to track the data and ensure accurate review was repeatedly emphasized, with suggestions of using vendors like Kroll or BRG to streamline the process. There were delays attributed to Sony’s network issues and questions about the timeline for receiving the complete data set.",
+      "timestamp": "2020-05-12T00:00:00",
+      "timestamp_raw": "12 May 2020",
+      "keywords": [
+        "data",
+        "fbi",
+        "processing",
+        "vendor",
+        "data size",
+        "relativity",
+        "raw data",
+        "search warrant",
+        "documents",
+        "efficiency",
+        "remote working"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031312",
+      "summary": "Emails dated June 1, 2020, and May 29, 2020, discuss a new Netflix documentary about Jeffrey Epstein. One individual expresses frustration with the documentary’s pacing and a perceived lack of courage in the final statement, noting a reference to avoiding a lawsuit. Another individual shares their initial thoughts, finding the pacing tedious and anticipating a longer series. A third person reports having watched the entire documentary and forwarded their notes to the team. Discussions involve the potential impact of an anniversary event and renewed public interest.",
+      "timestamp": "2020-06-01T00:00:00",
+      "timestamp_raw": "June 1, 2020",
+      "keywords": [
+        "epstein",
+        "netflix",
+        "sony",
+        "graydon carter",
+        "lawsuit",
+        "covid",
+        "observations",
+        "pacing",
+        "reviews",
+        "public safety"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029810",
+      "summary": "On June 29, 2020, individuals at the U.S. Attorney’s Office for the Southern District of New York (USANYS) were discussing a legal matter related to “Epstein,” likely referring to Jeffrey Epstein. Discussions involved seeking a new court order to facilitate disclosure, citing privacy concerns, potential protective orders, and the need to notify parties involved in trust agreements. An earlier order suggested a “further order of the court” was necessary.  The communications involved multiple individuals and organizations including Sony and the Department of Justice.",
+      "timestamp": "2020-06-29T00:00:00",
+      "timestamp_raw": "June 29, 2020",
+      "keywords": [
+        "epstein",
+        "redaction",
+        "order",
+        "usanys",
+        "privacy",
+        "protective orders",
+        "trust agreements",
+        "court",
+        "disclosure",
+        "doj"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00017734",
+      "summary": "Ghislaine Maxwell was arrested in New Hampshire on July 2, 2020, on an indictment charging her with facilitating Jeffrey Epstein’s abuse of minors. The presentment will not occur in SONY or SDNY, and the sender is notifying the recipient of any issues.",
+      "timestamp": "2020-07-02T00:00:00",
+      "timestamp_raw": "July 2, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "jeffrey epstein",
+        "arrest",
+        "indictment",
+        "abuse",
+        "minors",
+        "new hampshire",
+        "sdny",
+        "united states attorney's office",
+        "efta00017734"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037256",
+      "summary": "Mark L. Epstein reported receiving emails indicating someone had hacked into his accounts.  He received emails from “R O” detailing concerns about Jeffrey’s girlfriend’s arrest, threats against Mark, and information about Mark's brother's financial situation and alleged inappropriate behavior involving underage girls.  Attachments included PDFs labeled “RE-_JE_2.pdf” and “RE-_JE.pdf”.",
+      "timestamp": "2020-07-03T00:00:00",
+      "timestamp_raw": "03 Jul 2020",
+      "keywords": [
+        "email hacking",
+        "password change",
+        "jeffrey",
+        "mark epstein",
+        "protonmail",
+        "redacted",
+        "arrest",
+        "sony",
+        "underage girls"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037248",
+      "summary": "FBI-New York C-19 Violent Crimes Task Force sent a communication regarding the closure of an investigation related to a changed password. This communication was forwarded to Hagan. An individual identified as “R O” sent emails indicating multiple individuals were involved, including Jeffrey’s girlfriend’s arrest and a threat directed at another person. Another email referenced unusual communications to Jeffrey, including a message stating “bare caused them pain,” and noted Mark’s involvement with women and his brother’s diminished wealth.",
+      "timestamp": "2020-07-07T00:00:00",
+      "timestamp_raw": "07 Jul 2020",
+      "keywords": [
+        "fbi",
+        "redaction",
+        "password",
+        "jeffrey",
+        "investigation",
+        "arrest",
+        "email",
+        "sony",
+        "r o",
+        "protonmail"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031217",
+      "summary": "This document pertains to the handling of materials related to the Epstein evidence, specifically tracking digital drives (NYC identifiers) containing data. The primary concern revolves around discrepancies between provided spreadsheets and received materials, including missing files (NYC027913), duplicate folders (NYC024328, NYC024366, NYC024392), and a significant number of zero-byte files (approximately 71,000) discovered by the vendor.  Several individuals are involved in the process – including Sony, Mi, and the original sender – attempting to reconcile the data, address delays in hardware recovery (specifically regarding physically failed drives), and determine the status of pending items. There are ongoing efforts to obtain additional materials and investigate the root cause of the zero-byte files.",
+      "timestamp": "2020-08-04T00:00:00",
+      "timestamp_raw": "04 Aug 2020",
+      "keywords": [
+        "nyc024328",
+        "nyc024369",
+        "nyc024369_1",
+        "nyc024372",
+        "nyc024384",
+        "relativity",
+        "thumb drive",
+        "nyc027913",
+        "zero byte files",
+        "data recovery"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010955",
+      "summary": "This document is a collection of press clippings from August 11, 2020, concerning various news stories. The clippings include articles from Fox News, The Sun, CNN, Cheat Sheet, Wirecard, Bloomberg, WSJ, Vanity Fair, US News & World Report, The Washington Post, and the Washington Examiner. The stories cover topics such as Ghislaine Maxwell, Jeffrey Epstein, Tekashi 69, Wirecard’s financial issues, William Barr and Black Lives Matter, Turkey’s Halkbank, and Michael Flynn’s case. The clippings were sent from [REDACTED] to [REDACTED] with CC’d recipients listed as [REDACTED].",
+      "timestamp": "2020-08-11T00:00:00",
+      "timestamp_raw": "August 11, 2020",
+      "keywords": [
+        "sony",
+        "clippings",
+        "august 11",
+        "2020",
+        "maxwell",
+        "ghislaine maxwell",
+        "wirecard",
+        "jeffrey epstein",
+        "black lives matter",
+        "vanit fair",
+        "fox news",
+        "us news & world report"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037488",
+      "summary": "An email was sent from SSA Squad C-20 regarding a C20 WSAR update to Sony. The email discusses Crimes Against Children/Human Trafficking and originates from an unspecified sender. An attached document, C-20 SAR 8-14-2020.docx, is referenced. The email was sent on August 13, 2020.",
+      "timestamp": "2020-08-13T00:00:00",
+      "timestamp_raw": "August 13, 2020",
+      "keywords": [
+        "efta00037488",
+        "c20 wsar",
+        "redaction analysis",
+        "sar",
+        "ssa",
+        "crimes against children",
+        "human trafficking",
+        "sony",
+        "mobile",
+        "squad c-20"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023547",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] on September 21, 2020, detailing a preliminary index of materials related to EFTA00023547. The attached file, \"Maxwell_Project_Inventory_List.xlsx,\" contained this index. The sender is identified as a Paralegal Specialist at the U.S. Attorney's Office I SONY.",
+      "timestamp": "2020-09-21T00:00:00",
+      "timestamp_raw": "September 21, 2020",
+      "keywords": [
+        "efta00023547",
+        "redaction analysis",
+        "scanning project",
+        "index",
+        "paralegal",
+        "u.s. attorney's office",
+        "sony",
+        "maxwell project inventory list",
+        "preliminary"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010289",
+      "summary": "Linda Singer received an email from an unknown sender on October 2, 2020, regarding an accepted call with the Department of Justice regarding the Sony investigation involving Jeffrey Epstein. The email is labeled EFTA00010289.",
+      "timestamp": "2020-10-02T00:00:00",
+      "timestamp_raw": "October 2, 2020",
+      "keywords": [
+        "efta00010289",
+        "epstein",
+        "doj",
+        "sony",
+        "investigation",
+        "singer",
+        "linda",
+        "call",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028661",
+      "summary": "This email, dated October 7, 2020, transmits news clips related to a shooting involving Taylor Swift’s property (referred to as “Tribeco Home”) and other related news stories. The clips include links to articles from the New York Post, Insider, Matters of Interest, Politico, Spectrum, FOX News, NPR, Bloomberg, The Daily News, and various online sources. The email originates from “[REDACTED]” to the “Chiefs” and includes multiple CC and BCC recipients. The subject line is “SONY NEWS CLIPS. OCTOBER 7. 2020.”",
+      "timestamp": "2020-10-07T00:00:00",
+      "timestamp_raw": "October 7, 2020",
+      "keywords": [
+        "efta00028661",
+        "sony news clips",
+        "october 7 2020",
+        "maxwell",
+        "sdny press clippings",
+        "chiefs",
+        "npr",
+        "bloomberg",
+        "fox",
+        "nypost"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029143",
+      "summary": "An email was sent on October 22, 2020, from an unknown sender to an unknown recipient, subject to a call with Sony regarding a discovery and an Epstein investigation. The email is attached as EFTA00029143.",
+      "timestamp": "2020-10-22T00:00:00",
+      "timestamp_raw": "October 22, 2020",
+      "keywords": [
+        "efta00029143",
+        "sony",
+        "discovery",
+        "epstein",
+        "investigation",
+        "external email",
+        "call",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00009917",
+      "summary": "This document is a press clipping collection related to Sony news clips from Monday, November 16, 2020. It includes references to Maxwell, ASCNEWS, a New York Post article about Jeffrey Epstein, and the file identifier EFTA00009917.  Two redactions are noted on page 1.",
+      "timestamp": "2020-11-16T00:00:00",
+      "timestamp_raw": "November 16, 2020",
+      "keywords": [
+        "sony",
+        "news clips",
+        "sdny",
+        "press clippings",
+        "maxwell",
+        "ascnews",
+        "epstein",
+        "trial",
+        "ny post",
+        "reduction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028688",
+      "summary": "The email chain discusses a significant delay in the processing of data for the US v. Epstein case. Approximately 1.2 million records are being imaged and processed by PAE, with FedEx involvement. The initial deadline of November 9th is now considered unachievable. The team is concerned about the impact on discovery timelines and potential issues with Judge Nathan. Hard drives containing productions (SDNYPROD008-013) are being sent to Sony via FedEx. An update is expected early next week, potentially requiring a broader explanation to the court.",
+      "timestamp": "2020-11-30T00:00:00",
+      "timestamp_raw": "30 Oct 2020",
+      "keywords": [
+        "efta00028688",
+        "relativity",
+        "pae",
+        "fedex",
+        "data processing",
+        "discovery",
+        "deadline",
+        "november 9",
+        "records",
+        "production"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019137",
+      "summary": "A communication chain discusses the processing of data, specifically six hard drives (SDNYPROD008-014) containing approximately 1.2 million records, being sent via FedEx to Sony. The data is currently being imaged and marked, with an initial target completion date of November 9th deemed unlikely. A revised estimate suggests completion by Tuesday with a clearer timeline following.  Nick Koontz, a Lead E-Discovery Analyst, is following up on the situation and offering to answer questions and facilitate a call between the parties. The email chain emphasizes the sensitive nature of the information and includes standard disclaimer language.",
+      "timestamp": "2020-11-30T00:00:00",
+      "timestamp_raw": "30 Oct 2020",
+      "keywords": [
+        "efta00019137",
+        "redaction analysis",
+        "pae",
+        "fedex",
+        "november 9",
+        "data imaging",
+        "records",
+        "production",
+        "usanys",
+        "sdnyprod"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019207",
+      "summary": "Attorney’s Office, SONY. The laptop was intended to be delivered to the Metropolitan Correctional Center (MDC). Initial communication involved confirming the order, addressing the laptop to the Warden, and discussing its configuration. Concerns arose regarding whether the laptop could store Maxwell’s discovery data and whether its electronic components should be removed. The laptop was ultimately delivered on November 9th, 2020, with its Wi-Fi and other connectivity features disabled and a password sticker applied. The email chain outlines the steps taken to prepare the laptop for delivery and address logistical questions.",
+      "timestamp": "2020-12-10T00:00:00",
+      "timestamp_raw": "10 Nov 2020",
+      "keywords": [
+        "laptop",
+        "amazon",
+        "warden",
+        "metropolitan correctional center",
+        "mdc",
+        "discovery",
+        "password",
+        "hp pavilion",
+        "electronics",
+        "email",
+        "order"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013372",
+      "summary": "The U.S. Attorney's Office I SONY is notifying counsel (sam@samgregory.com, gam@samgregory.com, Lloyd Epstein) regarding the second discovery production in the case of *U.S. v. Robert Adams*, case number 20 Cr. 494 (PGG). The production materials are available on the USAfx secure file-sharing website and do not require a password.",
+      "timestamp": "2020-12-14T00:00:00",
+      "timestamp_raw": "14 Nov 2020",
+      "keywords": [
+        "u.s. v. robert adams",
+        "discovery production",
+        "usafx",
+        "government",
+        "legal",
+        "correspondence",
+        "file-sharing",
+        "paralegal",
+        "sony",
+        "new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018986",
+      "summary": "An email chain discusses locating a list of all Jeffrey Epstein-related FOIA lawsuits handled by the Civil Division of the Southern District of New York. One individual is tasked with finding this list, potentially involving a SONY case against the FBI, and suggests contacting Judge Engelmayer and the civil clerk.  The original sender is an Assistant United States Attorney from the Southern District of New York.",
+      "timestamp": "2021-03-12T00:00:00",
+      "timestamp_raw": "12 Mar 2021",
+      "keywords": [
+        "jeffrey epstein",
+        "foia",
+        "civil division",
+        "fbi",
+        "litigation",
+        "redaction",
+        "usanys",
+        "judge engelmayer",
+        "discovery",
+        "lawsuits"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038882",
+      "summary": "An FBI Special Agent from the New York Field Office (NY) received an email nominating them for the WIFLE award for their work on Maxwell and other cases. The sender, [REDACTED], requested the recipient’s date of birth and the last four digits of their social security number before 9 am on April 12, 2022, to forward the information to supervisors.",
+      "timestamp": "2022-04-12T00:00:00",
+      "timestamp_raw": "April 12, 2022",
+      "keywords": [
+        "fbi",
+        "human trafficking",
+        "wifle",
+        "social security number",
+        "dob",
+        "maxwell",
+        "sony",
+        "email",
+        "redaction",
+        "award"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00007643",
+      "summary": "The document, identified as EFTA00007643.pdf, contains scanned items described as: “3 mi,occ,,, -tnees”, “;5 /m47”, “of”, “micro tips”, “microcassette”, and “SONY MICROCASSEITE”.  It includes notes regarding storage precautions – specifically avoiding storing items near magnets, wet, hot, or dusty environments, and breaking safety tabs for erasure.  Several pages contain repeated notes about these precautions. There are also references to \"AMOS\" and \"Meeting Memo\".",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00007643",
+        "scan",
+        "evidence",
+        "microcasseite",
+        "notes",
+        "safety",
+        "magnets",
+        "description",
+        "item",
+        "sony"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038465",
+      "summary": "The document details a collection of electronic devices and media, organized by serial numbers and quantities. It includes: *   **Computers & Accessories:** Silver and gray Apple desktops and laptops, HP, Dell, MSI, Lenovo, and Toshiba computers, keyboards, mice, USB drives (including Data Traveler, Mentor Media, and EMTEC models), SD cards, and adapters. *   **Storage Devices:** Seagate Hard Drives (various capacities), Apple Backup Plus Portable Drive, and a 1TB Seagate Barracuda drive. *   **Cameras & Recorders:** Sony cameras, Olympus recorders, a Radio Shack recorder, and an iPod Shuffle. *   **Networking Equipment:** Unifi Cloud Key and Unifi Video NVR. *   **Mobile Devices:** iPhones (including IMEI number 357201093322785), iPads (various models and serial numbers), and an iPod shuffle. *   **Media:** Assorted CDs and discs. The items are grouped under the reference codes EFTA00038465 through EFTA00038469.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "usb drives",
+        "hard drives",
+        "apple",
+        "ipad",
+        "mac",
+        "computer",
+        "iphone",
+        "cd's",
+        "seagate",
+        "sony",
+        "camera",
+        "laptop",
+        "samsung",
+        "data traveler",
+        "black",
+        "silver",
+        "grey",
+        "keyboard",
+        "mouse",
+        "usb adapter"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00007714",
+      "summary": "The document is a redaction analysis related to EFTA00007714.pdf. It details digitized documents and photographs, including items such as a microscope and a Sony MC-90 camera.  Negatives and media were not captured. A police case file with evidence is included, referencing the Palm Beach Police Department and Property #05. The suspect is identified as “cps +e /h Jc PR”, and officer/date information is recorded. One item was marked as “WAS NOT SCANNED” – \"/01, 0 ,fisst-rr, x3\".",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00007714",
+        "redaction analysis",
+        "digitized",
+        "photographs",
+        "police",
+        "evidence",
+        "palm beach",
+        "dl-02 media",
+        "microscopy",
+        "microfilm"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035753",
+      "summary": "This document is an unofficial FBI import form, Case ID #90A-NY-3151227, related to a death investigation involving Jeffrey Epstein. It was generated on December 27, 2025, and includes waiver forms provided by the OIG SA, specifically referencing SONY_00017817 and EFTA00035753. The form indicates the subject is UNSUB(S), Jeffrey Epstein (victim), and the date of the investigation is December 13, 2019.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "fbi",
+        "investigation",
+        "death",
+        "waiver forms",
+        "oig",
+        "jeffrey epstein",
+        "victim",
+        "form",
+        "other",
+        "unclassified"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    }
+  ]
+}

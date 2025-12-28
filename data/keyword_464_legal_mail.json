@@ -1,0 +1,1181 @@
+{
+  "keyword": "legal mail",
+  "count": 39,
+  "keyword_match_count": 39,
+  "content_match_count": 1,
+  "total_files": 40,
+  "timeline": [
+    {
+      "file_id": "EFTA00036322",
+      "summary": "A correctional treatment specialist at the Metropolitan Correctional Center New York is receiving requests from an inmate, EFTA00036322, regarding legal mail and legal calls. The specialist is unsure of the appropriate recipient for the legal mail request due to the lack of a property officer. Several inmates in SHU 11-south are also requesting a visit with the specialist.",
+      "timestamp": "2019-08-12T00:00:00",
+      "timestamp_raw": "12 Aug 2019",
+      "keywords": [
+        "legal mail",
+        "inmate",
+        "prison",
+        "requests",
+        "legal call",
+        "bureau of prisons",
+        "metropolitan correctional center",
+        "shu",
+        "justice department",
+        "efta00036322"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024992",
+      "summary": "Bobbi Sternheim, an attorney, is requesting urgent assistance in delivering time-sensitive legal mail to Ghislaine Maxwell. She sent express mail containing documents for review over the weekend, emphasizing the need for delivery by Friday due to a court-ordered filing deadline. She also requested access to a government-provided laptop computer for Maxwell to review the discovery documents. A Covid-19 notice indicates the office is operating remotely via email and fax. There were redactions on pages 2 and 3.",
+      "timestamp": "2021-01-15T00:00:00",
+      "timestamp_raw": "15 Jan 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "legal mail",
+        "time-sensitive documents",
+        "vtc",
+        "bobbi sternheim",
+        "court-ordered filing deadline",
+        "laptop computer",
+        "discovery documents"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030880",
+      "summary": "Bobbi C. Sternheim, an attorney, is urgently requesting assistance in delivering time-sensitive legal mail to Ghislaine Maxwell. The mail, intended for review over the weekend, was delivered to Maxwell's location but she hadn't received it. Sternheim is requesting permission to have the Legal Department handle the delivery and also requests access to a government-provided laptop for Maxwell to review the discovery documents. Sternheim notes a closure of her office due to COVID-19 and advises using email or fax for communication.",
+      "timestamp": "2021-01-15T00:00:00",
+      "timestamp_raw": "15 Jan 2021",
+      "keywords": [
+        "bobbi sternheim",
+        "maxwell",
+        "legal mail",
+        "express mailing",
+        "covid-19",
+        "vtc",
+        "discovery documents"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025015",
+      "summary": "Bobbi Sternheim, an attorney, is communicating regarding the delivery of time-sensitive documents to Ghislaine Maxwell. Sternheim is concerned about delays in mail delivery due to BOP policies and the lack of visitor access, preventing hand delivery. She proposes hand-delivering the mail directly to the MDC legal mail box for Ms. Maxwell. Sternheim also confirms a schedule of video teleconferences (VTCs) for Tuesday through Friday from 12:30 PM to 3:30 PM.",
+      "timestamp": "2021-01-21T00:00:00",
+      "timestamp_raw": "21 Jan 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "bobbi sternheim",
+        "mail processing",
+        "legal mail",
+        "time-sensitive documents",
+        "mdc",
+        "vtcs",
+        "express mail",
+        "inmates",
+        "confidential"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00030847",
+            "similarity": 0.583,
+            "index": 4,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00030847",
+      "summary": "Bobbi Sternheim requested expedited delivery of legal mail to Ghislaine Maxwell via hand-delivery to the MDC legal mail box. The sender explained that BOP policies required mail processing before delivery to inmates, and due to visitation restrictions, hand delivery was not permitted. A confirmation email from Bobbi Sternheim confirmed scheduled Virtual Technology Consultations (VTCs) for Tuesdays through Fridays from 12:30 PM to 3:30 PM.",
+      "timestamp": "2021-01-21T00:00:00",
+      "timestamp_raw": "21 Jan 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "bobbi sternheim",
+        "mail processing",
+        "bop policies",
+        "legal mail",
+        "mdc",
+        "time-sensitive documents",
+        "delivery",
+        "vtcs"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00025015",
+            "similarity": 0.583,
+            "index": 3,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028161",
+      "summary": "On February 2, 2021, an Assistant United States Attorney (USA) from the Southern District of New York sent an email to update the court regarding Maxwell’s case. Judge Nathan denied a motion to vacate an order regarding Maxwell’s access to a laptop. The USA requested a call to discuss an update letter due Friday, February 5th, covering topics including discovery access, legal mail access, legal email access, communication with legal counsel, and search frequency. The email attached a document outlining these specific areas for update.",
+      "timestamp": "2021-02-02T00:00:00",
+      "timestamp_raw": "February 2, 2021",
+      "keywords": [
+        "maxwell",
+        "court",
+        "order",
+        "laptop",
+        "access",
+        "judge nathan",
+        "united states attorney",
+        "criminal justice",
+        "confinement",
+        "legal mail"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015129",
+      "summary": "On October 7, 2021, Bobbi Sternheim sent multiple emails regarding the delayed delivery of legal mail to Ghislaine Maxwell. Sternheim repeatedly expressed concern that Maxwell had not received mail deposited in the MDC legal mailbox on October 2nd, noting that another client had received their mail. Sternheim threatened to file an order to show cause if the mail wasn't received by 9:30 AM on October 7th, emphasizing the urgency due to Maxwell’s upcoming trial on November 29th. Sternheim’s communications included updates on mail delivery and requests for immediate responses.",
+      "timestamp": "2021-10-07T00:00:00",
+      "timestamp_raw": "October 7, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "bobbi c. sternheim",
+        "legal mail",
+        "mdc",
+        "court",
+        "trial",
+        "efta00015129",
+        "10/7/2021",
+        "10/2",
+        "november 29th"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027753",
+      "summary": "The U.S. Attorney for the Southern District of New York responded to a court order regarding the delivery of legal mail to Ghislaine Maxwell at the Metropolitan Detention Center (MDC). Standard procedure dictates legal mail is delivered within one business day of receipt at the MDC, involving warehouse processing, logging, and authorization before delivery to the inmate. Due to the high volume of inmates (1,700) and the legal department's responsibilities, expedited delivery for Maxwell’s mail is not practicable. A hard drive containing court disclosures was delivered via FedEx on October 11, 2021, but a subsequent institutional emergency delayed delivery on October 13, 2021, which was personally delivered by legal counsel on October 14, 2021. The court rejected Maxwell’s request for a specific delivery order, but expects mail to be delivered within one business day going forward.",
+      "timestamp": "2021-10-11T00:00:00",
+      "timestamp_raw": "October 11, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "metropolitan detention center",
+        "legal mail",
+        "united states department of justice",
+        "delivery protocols",
+        "mdc",
+        "court order"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029301",
+      "summary": "On October 14, 2021, Bobbi Sternheim’s Law Offices filed a courtesy copy of an ECF filing related to U.S. v. Maxwell S2 (20 Cr. 330 (AJN)) to multiple recipients including [REDACTED], Christian Everdell, Laura Menninger, and Jeff Pagliuca. The filing was sent from [REDACTED] to fla(USANYS) (USANYS).",
+      "timestamp": "2021-10-14T00:00:00",
+      "timestamp_raw": "October 14, 2021",
+      "keywords": [
+        "efta00029301",
+        "u.s. v. maxwell",
+        "bobbi sternheim",
+        "legal mail",
+        "redaction analysis",
+        "ecf filing",
+        "usanys",
+        "20 cr. 330 (ajn)",
+        "correspondence",
+        "law offices"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027749",
+      "summary": "v. Maxwell S2 20 Cr. 330 (MN).” *   A draft response letter was prepared and needs review by MDC (likely a specific legal team or department) and Sophia. *   There’s a request to discuss specific language regarding Judge Nathan’s deadlines. *   The team is seeking clarification on a complex issue related to delivered materials and the defense’s footnote 1. *   They’ve contacted the BOP (Bureau of Prisons) to schedule a call. *   Bobbi Sternheim filed a courtesy copy of the ECF filing. *   There's a deadline of 5 PM on October 15, 2021, for the response.",
+      "timestamp": "2021-10-15T00:00:00",
+      "timestamp_raw": "October 15, 2021",
+      "keywords": [
+        "u.s. v. maxwell",
+        "nathan",
+        "deadlines",
+        "bop",
+        "mdc",
+        "legal mail",
+        "sternheim",
+        "ecf filing"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00031202",
+            "similarity": 0.667,
+            "index": 12,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00031200",
+            "similarity": 0.545,
+            "index": 26,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00032797",
+      "summary": "On October 15, 2021, Bobbi Sternheim sent a response to a case, U.S. v. Maxwell S2 20 Cr. 330 (AJN), attaching a defense’s letter reply and a judge’s decision. The judge’s decision stated an expectation that defendants in pre-trial postures like GM will receive legal mail within one business day, allowing for renewal of the request if delays occur. Sternheim also provided a courtesy copy of the ECF filing and updated her contact information.",
+      "timestamp": "2021-10-15T00:00:00",
+      "timestamp_raw": "October 15, 2021",
+      "keywords": [
+        "u.s. v. maxwell",
+        "legal mail",
+        "defense reply",
+        "judge nathan",
+        "gm",
+        "efta00032797",
+        "bobbi sternheim",
+        "redaction analysis",
+        "court filing",
+        "delay"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016725",
+      "summary": "On October 15, 2021, Alison J. Nathan, United States District Judge for the Southern District of New York, issued an order requiring the Government to respond to Ghislaine Maxwell’s letter concerning the delivery of her legal mail at MDC. The response was to be provided by October 15, 2021, at 5:00 p.m.",
+      "timestamp": "2021-10-15T00:00:00",
+      "timestamp_raw": "October 15, 2021",
+      "keywords": [
+        "efta00016725",
+        "ghislaine maxwell",
+        "united states district court",
+        "order",
+        "legal mail",
+        "mdc",
+        "government",
+        "october 15",
+        "2021",
+        "alison j. nathan",
+        "criminal case"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00023461",
+            "similarity": 0.5,
+            "index": 20,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00031202",
+      "summary": "On October 15, 2021, an email chain discusses a response to a U.S. v. Maxwell case (20 Cr. 330). A draft response with highlighted language was prepared and intended for review by the MDC.  There was discussion about deleting specific sentences and avoiding engagement with a defense footnote regarding material volumes. Judge Nathan ordered a response by 5 PM that day. Bobbi Sternheim filed a courtesy copy of the ECF filing that evening. A letter was being sent to the court regarding legal mail.",
+      "timestamp": "2021-10-15T00:00:00",
+      "timestamp_raw": "October 15, 2021",
+      "keywords": [
+        "u.s. v. maxwell",
+        "nathan",
+        "deadlines",
+        "legal mail",
+        "bop",
+        "ecf filing",
+        "bobbi sternheim"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00027749",
+            "similarity": 0.667,
+            "index": 9,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00031200",
+            "similarity": 0.6,
+            "index": 26,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00016729",
+      "summary": "A letter drafted by the Assistant United States Attorney for the Southern District of New York regarding a legal matter involving Maxwell is being sent to Judge Nathan. The letter, attached as “2021-10-15 GM letter re MDC legal mail v3.docx,” incorporates a discussion with “M” and requests review for accuracy before a 5 PM deadline. Another email from the Assistant United States Attorney indicates that Maxwell’s counsel filed the letter and prompted a request for a call to discuss the matter.",
+      "timestamp": "2021-10-15T00:00:00",
+      "timestamp_raw": "2021-10-15",
+      "keywords": [
+        "efta00016729",
+        "maxwell",
+        "letter",
+        "judge nathan",
+        "mdc legal",
+        "inmate mail",
+        "united states attorney",
+        "southern district of new york",
+        "5 pm",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024228",
+      "summary": "On October 27, 2021, Bobbi C. Sternheim emailed regarding deliveries to Ghislaine Maxwell, noting that documents were picked up on October 15th and 18th and delivered to Maxwell. Sternheim also reported that HEPA filters were not operating in the designated visiting room and requested future visits occur in the larger corner room due to camera positioning issues. Furthermore, legal mail sent to the MDC had not been picked up and Sternheim requested an explanation and delivery timeline.",
+      "timestamp": "2021-10-27T00:00:00",
+      "timestamp_raw": "October 27, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "bobbi sternheim",
+        "mdc",
+        "legal mail",
+        "camera",
+        "hepa filters",
+        "tracking information",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00023213",
+            "similarity": 0.5,
+            "index": 28,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00023118",
+            "similarity": 0.636,
+            "index": 29,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00023481",
+            "similarity": 0.667,
+            "index": 30,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00028100",
+      "summary": "On October 29, 2021, Bobbi C. Sternheim emailed Isabel Maxwell regarding legal mail for Ghislaine Maxwell that remained “Available for Pickup” at the USPO after more than a week. Sternheim’s email threatened to file an order to show cause if immediate confirmation of the mail’s status was not received.  A separate email from Leah Saffian, Inc., reiterated the confidentiality of the information and warned against unauthorized use or distribution. EFTA00028101 was also referenced.",
+      "timestamp": "2021-10-29T00:00:00",
+      "timestamp_raw": "October 29, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "legal mail",
+        "uspo",
+        "bobbi c. sternheim",
+        "redaction analysis",
+        "efta00028100",
+        "leah saffian",
+        "court",
+        "mdc"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00016259",
+            "similarity": 0.5,
+            "index": 19,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00025167",
+      "summary": "Bobbi Sternheim sent an urgent email to [REDACTED] regarding legal mail for Ghislaine Maxwell, tracking numbers EJ6994364O3US, EJ69943643.5US, EJ699436427US, and EJ699436413US. The mail was listed as “Available for Pickup” at a USPS facility in Brooklyn, NY, but hadn’t been retrieved by MDC as of October 29, 2021. Sternheim threatened legal action (filing an order to show cause) if a response wasn't received immediately. A separate email from Isabel Maxwell, paralegal at Leah Saffian, Inc., confirms receipt of the tracking information and provides contact details.",
+      "timestamp": "2021-10-29T00:00:00",
+      "timestamp_raw": "October 29, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "urgent",
+        "legal mail",
+        "tracking number",
+        "uspo",
+        "bobbi c. sternheim",
+        "leah saffian",
+        "isabel maxwell",
+        "court",
+        "delivery"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00016259",
+            "similarity": 0.9,
+            "index": 19,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00023458",
+      "summary": "On October 29, 2021, Bobbi C. Sternheim emailed Isabel Maxwell, a paralegal at Leah Saffian, Inc., regarding four items of legal mail for Ghislaine Maxwell that were listed as \"Available for Pickup\" by the US Post Office but had not been retrieved by MDC. Sternheim’s email warned of potential legal action (an order to show cause) if a response wasn’t received immediately. The email included standard legal disclaimers regarding confidential and privileged information. EFTA00023459 was also included.",
+      "timestamp": "2021-10-29T00:00:00",
+      "timestamp_raw": "October 29, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "legal mail",
+        "u.s. postal service",
+        "bobbi c. sternheim",
+        "leah saffian",
+        "inc.",
+        "order to show cause",
+        "court",
+        "redaction analysis",
+        "efta00023458"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016262",
+      "summary": "Bobbi Sternheim emailed Isabel Maxwell regarding legal mail intended for Ghislaine Maxwell. As of October 29, 2021, four items listed as “Available for Pickup” by the US Postal Office had not been retrieved or received by MDC. Sternheim demanded immediate confirmation of the items’ status, threatening a court order if a response was not received that day. Both emails included standard legal disclaimers regarding confidential and privileged information.",
+      "timestamp": "2021-10-29T00:00:00",
+      "timestamp_raw": "October 29, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "urgent",
+        "legal mail",
+        "bobbi sternheim",
+        "mdc",
+        "court",
+        "leah saffian",
+        "isabel maxwell",
+        "efta00016262"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00016259",
+            "similarity": 0.5,
+            "index": 19,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00016259",
+      "summary": "Bobbi C. Sternheim sent an urgent email to [REDACTED] regarding legal mail for Ghislaine Maxwell. As of October 29, 2021, four items were listed as “Available for Pickup” at a Brooklyn, NY address, but had not been retrieved by MDC. Sternheim demanded immediate confirmation of the status and warned of potential court action if a response wasn’t received. Tracking numbers EJ699436400OS, EJ699436435US, EJ699436427US, and EJ699436413US were associated with the mail. Isabel Maxwell, a paralegal for Leah Saffian, Inc., responded with information about the tracking and delivery status.",
+      "timestamp": "2021-10-29T00:00:00",
+      "timestamp_raw": "October 29, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "urgent",
+        "legal mail",
+        "tracking number",
+        "bobbi c. sternheim",
+        "uspo",
+        "court",
+        "isabel maxwell",
+        "leah saffian"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00016262",
+            "similarity": 0.5,
+            "index": 18,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00025167",
+            "similarity": 0.9,
+            "index": 16,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00028100",
+            "similarity": 0.5,
+            "index": 15,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023461",
+      "summary": "The court received a letter from Ghislaine Maxwell regarding mail delivery at MDC. The government is ordered to respond by November 2, 2021, at 12:00 p.m.",
+      "timestamp": "2021-11-02T00:00:00",
+      "timestamp_raw": "November 2, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states district court",
+        "southern district of new york",
+        "order",
+        "mdc",
+        "legal mail",
+        "government",
+        "alison j. nathan",
+        "20-cr-330",
+        "electronic filed"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00016725",
+            "similarity": 0.5,
+            "index": 11,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016201",
+      "summary": "A document titled \"2021-11-01_GMJetter re_MDC_Iegal_mail_v3.docx\" was sent on November 2, 2021, at 13:14:14 +0000, with the subject \": ma: sen as wee.\" The document references EFTA00016201 and EFTA00016202. It’s a legal mail version.",
+      "timestamp": "2021-11-02T00:00:00",
+      "timestamp_raw": "November 2, 2021",
+      "keywords": [
+        "efta00016201",
+        "efta00016202",
+        "legal mail",
+        "2021-11-01",
+        "gmjetter",
+        "mdc",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026692",
+      "summary": "Bobbi Sternheim, an attorney, is concerned about the delayed delivery of legal mail to Ghislaine Maxwell, citing multiple instances of missing mail deposited in legal mailboxes. He suspects foul play by the MDC (likely a corrections facility) and claims the Warden is aware of the issue. He requests a response and threatens to file an order to show cause with the court if the mail is not delivered promptly, particularly as Maxwell’s trial is approaching. He also complains about inadequate meeting conditions, a diet discrepancy, and a lack of cooperation from facility staff.",
+      "timestamp": "2021-11-10T00:00:00",
+      "timestamp_raw": "10 Oct 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "mdc",
+        "legal mail",
+        "bobbi sternheim",
+        "u.s. post office",
+        "court",
+        "warden",
+        "maxwell trial"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00025278",
+            "similarity": 0.7,
+            "index": 23,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00025278",
+      "summary": "Bobbi Sternheim, an attorney, is concerned about the delayed delivery of legal mail to Ghislaine Maxwell. He reports that the mail, placed in a legal mailbox on multiple occasions, was not delivered and was eventually received with issues, including a mis-coded postage sticker and a cramped, unsuitable room for legal visits. Sternheim accuses the MDC (likely a detention facility) of potential cover-ups and procedural errors, including denying a larger room for meetings and providing Maxwell with an improper diet. He threatens to file an order to show cause with the court if the mail isn’t delivered and expresses frustration with the MDC's handling of the case, anticipating issues will be brought to the court’s attention.",
+      "timestamp": "2021-11-10T00:00:00",
+      "timestamp_raw": "10 Oct 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "mdc",
+        "legal mail",
+        "u.s. post office",
+        "bobbi sternheim",
+        "court",
+        "warden",
+        "covid",
+        "bologna sandwich"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00026692",
+            "similarity": 0.7,
+            "index": 22,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025282",
+      "summary": "A lawyer, Bobbi C. Sternheim, is expressing concern and frustration regarding the delayed delivery of legal mail to Ghislaine Maxwell while she is incarcerated. He reports that mail placed in a legal mailbox on multiple occasions has not been delivered to her, and that she has received inappropriate food (no-flesh diet) and experienced issues with room assignments and access to resources (e.g., camera focus, Warden access). Sternheim suspects foul play by the MDC (likely a corrections facility) and threatens to file an order to show cause with the court if the issue isn't resolved promptly, citing the upcoming trial date. He highlights the negative impact of these delays on Maxwell's ability to prepare for trial.",
+      "timestamp": "2021-11-10T00:00:00",
+      "timestamp_raw": "10 Oct 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "mdc",
+        "legal mail",
+        "court",
+        "warden",
+        "post office",
+        "email",
+        "redaction",
+        "maxwell",
+        "trial"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028097",
+      "summary": "Bobbi Sternheim, representing Ghislaine Maxwell, is tracking four legal mailboxes (EJ699436413US, EJ699436427US, EJ699436400US, and EJ699436435US) awaiting pickup in Brooklyn, NY. The boxes were scheduled for delivery on October 16, 28, and November 14, 2021, respectively. The email details the USPS tracking information and requests notification upon retrieval and delivery to Ms. Maxwell.",
+      "timestamp": "2021-11-14T00:00:00",
+      "timestamp_raw": "November 14, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "legal mail",
+        "bobbi sternheim",
+        "usps tracking",
+        "efta00028097",
+        "october 2021",
+        "brooklyn ny",
+        "pick up",
+        "legal documents"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031200",
+      "summary": "*   An email chain discusses a response to a legal matter, “U.S. v. Maxwell S2 20 Cr. 330 (AJN).” *   A draft response is being prepared and needs to be sent to the MDC for review. *   There’s a discussion about Judge Nathan’s deadlines and a need to clarify language regarding them. *   The defense’s footnote regarding material volume is being approached cautiously. *   A letter filed by Bobbi Sternheim is being shared for informational purposes. *   Efforts are underway to contact the Bureau of Prisons (BOP) for a call.",
+      "timestamp": "2021-11-15T00:00:00",
+      "timestamp_raw": "15 Oct 2021",
+      "keywords": [
+        "maxwell",
+        "u.s. v.",
+        "nathan",
+        "deadlines",
+        "mdc",
+        "legal mail",
+        "bobbi sternheim",
+        "bop",
+        "ecf filing"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00031202",
+            "similarity": 0.6,
+            "index": 12,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00027749",
+            "similarity": 0.545,
+            "index": 9,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031199",
+      "summary": "An Assistant United States Attorney from the Southern District of New York is requesting a call to discuss a letter filed by Maxwell’s counsel regarding inmate mail. The response is required by 5:00 PM.",
+      "timestamp": "2021-11-15T00:00:00",
+      "timestamp_raw": "15 Oct 2021",
+      "keywords": [
+        "inmate mail",
+        "maxwell",
+        "legal mail",
+        "united states attorney",
+        "southern district of new york",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023213",
+      "summary": "Bobbi Sternheim reported during an in-person visit with Ghislaine Maxwell that HEPA filters were not operational in the designated visiting room and that legal mail was not being picked up by the Metropolitan Detention Center (MDC). She requested future visits be conducted in the larger corner room due to the camera positioning issue. Two tracking numbers were provided for undelivered mail: EJ699436435US and EJ699436400US, both scheduled for pickup on October 15 and 19, 2021, respectively. Sternheim also provided her updated contact information: EFTA00023213.",
+      "timestamp": "2021-11-26T00:00:00",
+      "timestamp_raw": "26 Oct 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "bobbi sternheim",
+        "hepa filters",
+        "mdc",
+        "legal mail",
+        "tracking number",
+        "camera",
+        "visiting room",
+        "email address",
+        "efta00023213"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00024228",
+            "similarity": 0.5,
+            "index": 14,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00023118",
+            "similarity": 0.538,
+            "index": 29,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00025142",
+            "similarity": 0.545,
+            "index": 31,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00023118",
+      "summary": "Bobbi C. Sternheim, an attorney, emailed regarding concerns about visits with Ghislaine Maxwell at the MDC. She reported that HEPA filters were not operational in the designated visiting room and that the camera was repositioned to focus on that room. She requested future visits occur in the larger corner room. Additionally, she noted that legal mail sent to the MDC had not been picked up and requested an explanation and update on its delivery. The email chain includes communication with Christian Everdell and references external inquiries about Maxwell's legal mail.",
+      "timestamp": "2021-11-27T00:00:00",
+      "timestamp_raw": "27 Oct 2021",
+      "keywords": [
+        "bobbi sternheim",
+        "ghislaine maxwell",
+        "legal mail",
+        "mdc",
+        "camera",
+        "visiting room",
+        "hepa filters",
+        "tracking information",
+        "email",
+        "redaction"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00023213",
+            "similarity": 0.538,
+            "index": 28,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00024228",
+            "similarity": 0.636,
+            "index": 14,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00023481",
+            "similarity": 0.545,
+            "index": 30,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00025142",
+            "similarity": 0.7,
+            "index": 31,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00023481",
+      "summary": "Bobbi Sternheim, an attorney, is emailing regarding legal matters involving Ghislaine Maxwell. She is requesting a response by 10:00 AM Wednesday regarding Maxwell’s legal mail that hasn’t been picked up at the MDC. She also reports that HEPA filters were not operating in the designated visiting room during a recent visit and requests future visits occur in the larger corner room. She provides her updated contact information and reiterates the confidentiality of the communications.",
+      "timestamp": "2021-11-27T00:00:00",
+      "timestamp_raw": "27 Oct 2021",
+      "keywords": [
+        "bobbi sternheim",
+        "ghislaine maxwell",
+        "legal mail",
+        "mdc",
+        "camera",
+        "new york",
+        "tracking information"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00023118",
+            "similarity": 0.545,
+            "index": 29,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00024228",
+            "similarity": 0.667,
+            "index": 14,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00025142",
+            "similarity": 0.75,
+            "index": 31,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00025142",
+      "summary": "Bobbi Sternheim is following up on legal mail delivery to Ghislaine Maxwell at the MDC, noting that it has not been picked up. She requests an explanation and an update on when Maxwell will receive the mail. Sternheim also reports that during a visit, the designated visiting room with HEPA filters was not used, and she is requesting future visits be conducted in the larger corner room, citing the camera positioning issue as the previous denial’s justification. Tracking information for the mail is attached.",
+      "timestamp": "2021-11-27T00:00:00",
+      "timestamp_raw": "27 Oct 2021",
+      "keywords": [
+        "bobbi sternheim",
+        "ghislaine maxwell",
+        "legal mail",
+        "mdc",
+        "hepa filters",
+        "camera",
+        "tracking information"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00023481",
+            "similarity": 0.75,
+            "index": 30,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00023118",
+            "similarity": 0.7,
+            "index": 29,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00023213",
+            "similarity": 0.545,
+            "index": 28,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028204",
+      "summary": "A draft of two letters regarding MDC legal mail and transportation to the courthouse are attached to an email. The Assistant United States Attorney requests edits or assistance to improve the letters to avoid needing to write additional ones. The email is from the United States Attorney's Office, Southern District of New York.",
+      "timestamp": "2021-12-06T00:00:00",
+      "timestamp_raw": "06 Nov 2021",
+      "keywords": [
+        "bop letters",
+        "redaction",
+        "legal mail",
+        "transportation",
+        "united states attorney",
+        "southern district of new york",
+        "edits",
+        "correspondence",
+        "mdc",
+        "letters"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00033896",
+      "summary": "This document is an observation log from a psychological assessment of an inmate, likely within a correctional facility. It details the procedures and items allowed during the observation, including clothing restrictions (primarily a suicide smock and blanket), and outlines the monitoring of the inmate's eating and liquid consumption. The log tracks the dates and times of the observation, records the inmate’s registration number, and includes a chart for monitoring the inmate’s meals and fluid intake. It emphasizes the need for staff to return the log upon completion of the observation. The document is part of a series (referenced by EFTA00033896 and other identifiers) and is marked as confidential.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "observation",
+        "suicide watch",
+        "psych observation",
+        "efta00033896",
+        "inmate",
+        "registration",
+        "eating/shower chart",
+        "clothes",
+        "blankets",
+        "smock",
+        "blanket",
+        "meals",
+        "liquids",
+        "observation ended",
+        "regular clothes",
+        "safety pen",
+        "paper",
+        "legal mail",
+        "sw blanket",
+        "sw mat",
+        "name",
+        "observation started"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00009676",
+      "summary": "It outlines procedures for legal visiting, attorney-client communication, and releasing information, including handling legal mail and subpoenas.  Specific rules are detailed regarding inmate counts, identification requirements for attorneys and legal representatives, and restrictions on phone calls. The guide also addresses special housing unit procedures, administrative remedies, and the process for designating inmates for court-ordered studies or medical evaluations. It emphasizes security protocols and adherence to Bureau of Prisons regulations.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "attorney",
+        "visitation",
+        "telephone",
+        "legal mail",
+        "inmate",
+        "rules",
+        "security",
+        "identification",
+        "policy",
+        "pre-trial detention",
+        "release of information",
+        "special housing unit",
+        "fax",
+        "fax number"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00033966",
+      "summary": "It outlines specific rules and procedures for the observation, including permitted items (clothing, toiletries, reading material), the use of specialized bedding, and detailed charting of the inmate's meals and liquid intake. The document includes sections for recording the inmate's eating habits (checking boxes for meal consumption), and instructions for documenting liquid consumption. It also contains general observation notes and references to SDNY facility codes.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "suicide watch",
+        "psych observation",
+        "eating/shower chart",
+        "inmate",
+        "observation",
+        "clothes",
+        "toothbrush",
+        "newspaper",
+        "books",
+        "blanket",
+        "mattress",
+        "legal mail",
+        "food",
+        "liquids",
+        "safety"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00034379",
+            "similarity": 0.556,
+            "index": 37,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035074",
+      "summary": "It specifies permitted items (clothing, hygiene products, reading materials) and requires the inmate to use a specific blanket and mattress. The inmate’s eating and liquid consumption are tracked via a chart, with checkboxes indicating whether the inmate actually consumed the offered food or drinks.  A significant portion of the document appears to contain nonsensical, seemingly random text, possibly representing a failed translation or data corruption. The final pages document observations made on June 17, 1976, including details on the inmate's activity, medical interventions, and attempts to engage the inmate.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "observation",
+        "suicide watch",
+        "psych observation",
+        "eating/shower chart",
+        "items allowed",
+        "safety toothbrush",
+        "safety pen",
+        "legal mail",
+        "sw blanket",
+        "inmate"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034379",
+      "summary": "This document is a set of instructions and observations related to a psychiatric observation or suicide watch period for an inmate, Erk. It outlines specific rules for the inmate’s environment, including allowed items, bedding requirements, and a detailed eating and shower chart to track his activities. The document includes a registration number (4-1631X-(1)5t/) and multiple reference codes (SDNY_00010876, SDNY_00010877, SDNY_00010880, SDNY_00010883, SDNY_00010885, SDNY_00010886, SDNY_00010887, SDNY_00010888) and EFTA numbers (EFTA00034379, EFTA00034380, EFTA00034381, EFTA00034382, EFTA00034383, EFTA00034384, EFTA00034385, EFTA00034386, EFTA00034387, EFTA00034388, EFTA00034389, EFTA00034390, EFTA00034391) for tracking and record-keeping. The primary purpose is to monitor the inmate’s well-being and ensure adherence to safety protocols.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "suicide watch",
+        "psych observation",
+        "eating/shower chart",
+        "inmate",
+        "registration",
+        "clothes",
+        "safety toothbrush",
+        "newspaper",
+        "observation",
+        "blanket",
+        "mattress",
+        "psychology",
+        "legal mail"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00033966",
+            "similarity": 0.556,
+            "index": 35,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00033747",
+      "summary": "It details the observation of an inmate (identified as “Paa-ae-”) on December 27, 2025, likely related to suicide watch or psychological evaluation. The observation includes restrictions on allowed items (clothing, personal effects), a detailed eating/shower chart to track the inmate’s consumption and hygiene, and a section for documenting any observations made during the session. The report emphasizes confidentiality and the requirement to return the log to psychology after the observation. The document’s purpose is to record and monitor an inmate’s behavior and needs while under psychological observation.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "observation",
+        "efa00033747",
+        "inmate",
+        "suicide watch",
+        "psych observation",
+        "eating chart",
+        "liquids",
+        "shower",
+        "clothes",
+        "safety",
+        "toothbrush",
+        "newspaper",
+        "magazine",
+        "books",
+        "pen",
+        "paper",
+        "legal mail",
+        "blanket",
+        "smock",
+        "suicide blanket",
+        "registration number",
+        "observation started",
+        "observation ended",
+        "confidential"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00033715",
+      "summary": "This document is an observation log related to a prisoner, identified as EFTA00033715, likely within a correctional facility. It details the observation process, including permitted items, security measures (suicide watch), and a chart for recording the inmate’s eating and liquid consumption. The log tracks whether the inmate ate his meals and drinks, and includes a section for recording the date and time of the observation.  It also contains a detailed eating/shower chart, focusing on the prisoner’s intake. There are redactions on page 28, indicating sensitive information was removed.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "redaction",
+        "analysis",
+        "inmate",
+        "observation",
+        "suicide watch",
+        "psych observation",
+        "eating chart",
+        "liquids",
+        "shower",
+        "clothing",
+        "blanket",
+        "safety pen",
+        "toothbrush",
+        "newspaper",
+        "magazine",
+        "books",
+        "legal mail",
+        "registration number",
+        "efta00033715",
+        "sdny"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    }
+  ]
+}

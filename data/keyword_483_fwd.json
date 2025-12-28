@@ -1,0 +1,821 @@
+{
+  "keyword": "fwd",
+  "count": 30,
+  "keyword_match_count": 30,
+  "content_match_count": 5,
+  "total_files": 35,
+  "timeline": [
+    {
+      "file_id": "EFTA00029285",
+      "summary": "Email correspondence between individuals at “USANYS” regarding an update titled “PC Unit — Short Form Update.1.4.19.docx,” attached to a document labeled EFTA00029285. The update included attachments and was sent on January 4, 2019.",
+      "timestamp": "2019-01-04T00:00:00",
+      "timestamp_raw": "January 4, 2019",
+      "keywords": [
+        "efta00029285",
+        "pc unit",
+        "update",
+        "short form",
+        "usanys",
+        "2019",
+        "2025",
+        "analysis",
+        "fwd",
+        "docx"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030228",
+      "summary": "An email chain discusses a document named EFTA00030228, originating from “REDACTED” and sent to “REDACTED”. One email, dated July 9, 2019, refers to a previous conference (“first one”) and requests an email upon receipt of the document. The document is labeled “epstein”.",
+      "timestamp": "2019-07-09T00:00:00",
+      "timestamp_raw": "July 9, 2019",
+      "keywords": [
+        "efta00030228",
+        "epstein",
+        "redaction",
+        "analysis",
+        "conference",
+        "july 9",
+        "2019",
+        "goretti moya",
+        "email",
+        "fwd"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00015605",
+            "similarity": 0.538,
+            "index": 2,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00015605",
+      "summary": "An email was sent from Goretti Moya to multiple recipients on July 9, 2019, concerning “epstein.” The email included attachments: j782epsC.pdf and ATT00001.htm. The email referenced a similar communication from a second conference.",
+      "timestamp": "2019-07-09T00:00:00",
+      "timestamp_raw": "July 9, 2019",
+      "keywords": [
+        "efta00015605",
+        "epstein",
+        "redaction",
+        "conference",
+        "goretti moya",
+        "pdf",
+        "2019",
+        "july",
+        "fwd",
+        "email"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00030228",
+            "similarity": 0.538,
+            "index": 1,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029522",
+      "summary": "Geoffrey Berman sent an email to Jean James on July 12, 2019, regarding a forwarded email titled \"VIDEO CHILD SEX TRAFFICKING - JEFFREY EPSTEIN CONNECTIONS\" (EFTA00029522). The email was marked as “Normal” importance.",
+      "timestamp": "2019-07-12T00:00:00",
+      "timestamp_raw": "July 12, 2019",
+      "keywords": [
+        "epstein",
+        "trafficking",
+        "child",
+        "sex",
+        "efta00029522",
+        "jeffrey",
+        "video",
+        "fwd",
+        "jean james"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018393",
+      "summary": "On July 24, 2019, a message was sent from USANYS to USANYS regarding a planned NBC 4 story about Jeffrey Epstein, detailing a potential narrative of an attack or self-harm attempt. The sender declined to comment and did not confirm the information.",
+      "timestamp": "2019-07-24T00:00:00",
+      "timestamp_raw": "July 24, 2019",
+      "keywords": [
+        "epstein",
+        "usanys",
+        "redaction",
+        "nbc",
+        "story",
+        "attacked",
+        "self-harm",
+        "2019",
+        "july",
+        "fwd"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020625",
+      "summary": "On July 25, 2019, an email was sent reporting that NBC 4 would run a story about Jeffrey Epstein, detailing that he was either attacked or attempted to hurt himself. The sender declined to comment and did not confirm anything.",
+      "timestamp": "2019-07-25T00:00:00",
+      "timestamp_raw": "July 25, 2019",
+      "keywords": [
+        "epstein",
+        "nbc",
+        "report",
+        "comment",
+        "attacked",
+        "self-harm",
+        "discussion",
+        "fwd",
+        "2019",
+        "2025"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035351",
+      "summary": "An email chain, dated July 26, 2019, discusses case file #76318-054 involving “I/M Epstein.” One redaction is present.",
+      "timestamp": "2019-07-26T00:00:00",
+      "timestamp_raw": "July 26, 2019",
+      "keywords": [
+        "efta00035351",
+        "redaction",
+        "epstein",
+        "i/m",
+        "2019",
+        "fwd",
+        "re",
+        "pdf"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034216",
+      "summary": "This document is a memo, dated July 30, 2019, from [REDACTED] to [REDACTED] regarding case EFTA00034216. The memo is classified as CONFIDENTIAL and includes reference to SDNY_000 10537. It was sent from a Verizon Samsung Galaxy smartphone.",
+      "timestamp": "2019-07-30T00:00:00",
+      "timestamp_raw": "July 30, 2019",
+      "keywords": [
+        "efta00034216",
+        "redaction analysis",
+        "memo",
+        "confidential",
+        "sdny",
+        "verizon",
+        "samsung",
+        "2019",
+        "2025",
+        "fwd"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00033697",
+            "similarity": 0.538,
+            "index": 15,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00036964",
+      "summary": "An email exchange occurred between SI and Associate Warden (AW) regarding leave for the week of August 19-23, 2019. SI requested the time off to celebrate their 22-year marriage anniversary. The email also included a request to identify coverage for SI’s absence.",
+      "timestamp": "2019-08-05T00:00:00",
+      "timestamp_raw": "05 Aug 2019",
+      "keywords": [
+        "leave",
+        "august 19-23",
+        "2019",
+        "marriage anniversary",
+        "warden",
+        "fwd",
+        "request"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036961",
+      "summary": "On August 5, 2019, CDR requested time off from August 19-23, 2019, citing his 22-year marriage anniversary. A discussion ensued regarding coverage for someone, likely Mr. , and a request was made for him to be present in all capacities. The email chain highlights a request for leave and an inquiry about coverage responsibilities.",
+      "timestamp": "2019-08-05T00:00:00",
+      "timestamp_raw": "August 5, 2019",
+      "keywords": [
+        "leave",
+        "redaction",
+        "associate warden",
+        "mcc new york",
+        "august 19-23",
+        "2019",
+        "marriage anniversary",
+        "cdr",
+        "fwd"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036915",
+      "summary": "An email was sent from [REDACTED] at bop.gov to [REDACTED] at thbop.gov with the subject \"Assurance Statement\" on August 8, 2019. The email included attachments: TEXT.htm and Assurance_Statement.pdf, related to EFTA00036915.",
+      "timestamp": "2019-08-08T00:00:00",
+      "timestamp_raw": "August 8, 2019",
+      "keywords": [
+        "efta00036915",
+        "assurance statement",
+        "redaction",
+        "bop.gov",
+        "mcc new york",
+        "2019",
+        "pdf",
+        "august",
+        "attachment",
+        "fwd"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036683",
+      "summary": "An email was sent from [REDACTED] to an unknown recipient regarding Jeffrey Epstein. The email includes an attachment named “Epstein.eml” and states that the warden of NYM was not aware of any requests for suicide watch for Epstein from his attorneys.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "10 Aug 2019",
+      "keywords": [
+        "epstein",
+        "redaction",
+        "efta00036683",
+        "nym",
+        "attorneys",
+        "suicide watch",
+        "fwd",
+        "2019",
+        "verizon",
+        "samsung"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035475",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] on August 10, 2019, regarding a timeline labeled “NYM Time Line” (EFTA00035475). The email was forwarded from Vcrizon via a Samsung Galaxy smartphone. Two redactions are present on page 1.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "efta00035475",
+        "nym time line",
+        "redaction",
+        "fwd",
+        "samsung",
+        "vcrizon",
+        "2019",
+        "2025",
+        "analysis",
+        "time line"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00035064",
+            "similarity": 0.538,
+            "index": 13,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035064",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] on August 10, 2019, regarding “MCC Epstein” (EFTA00035064). The email was forwarded by [REDACTED] via a Samsung Galaxy smartphone, and included correspondence from [REDACTED].",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "efta00035064",
+        "mcc epstein",
+        "redaction",
+        "analysis",
+        "fwd",
+        "samsung",
+        "vcrizon",
+        "2019",
+        "2025",
+        "metadata"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035475",
+            "similarity": 0.538,
+            "index": 12,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034501",
+      "summary": "This document is a draft notification, “Draft Notification,” attached to an email sent on August 10, 2019, at 5:13:13 PM. The email is addressed to and from redacted individuals, and the notification is marked as confidential and related to case SDNY_000 11159 and file EFTA00034501. It was intended for the Judge.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "efta00034501",
+        "redaction",
+        "notification",
+        "draft",
+        "judge",
+        "sdny",
+        "2019",
+        "confidential",
+        "text.htm",
+        "fwd"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00033697",
+      "summary": "This document is a forwarded email chain concerning “MCC Epstein.” The email originated on August 10, 2019, from [REDACTED] to [REDACTED], with a subject line of “MCC Epstein.” The email is marked as CONFIDENTIAL and associated with case number SDNY_00009136 and file EFTA00033697.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "efta00033697",
+        "mcc epstein",
+        "redaction",
+        "confidential",
+        "sdny",
+        "2019",
+        "2025",
+        "verizon",
+        "samsung",
+        "fwd"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034216",
+            "similarity": 0.538,
+            "index": 7,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036681",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] with the subject “Fwd: Draft Notification” on August 10, 2019. The email included a file named TEXT.htm and requested a review and feedback on a draft notification (EFTA00036681). The email was sent from a Samsung Galaxy smartphone.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "efta00036681",
+        "redaction",
+        "notification",
+        "draft",
+        "review",
+        "concerns",
+        "samsung",
+        "vcrizon",
+        "2019",
+        "august"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034363",
+      "summary": "On August 11, 2019, the Federal Bureau of Prisons (BOP) responded to a request from CBS News regarding Jeffrey Epstein’s time in custody. Matt Pieper, a CBS News Radio Anchor/Correspondent, inquired about whether Epstein was on suicide watch. The BOP’s Office of Public Affairs provided the Attorney General’s statement and declined to offer further comment on the matter.",
+      "timestamp": "2019-08-11T00:00:00",
+      "timestamp_raw": "August 11, 2019",
+      "keywords": [
+        "epstein",
+        "jeffrey",
+        "bureau of prisons",
+        "cbs news",
+        "suicide watch",
+        "attorney general",
+        "redaction",
+        "public affairs",
+        "fwd",
+        "request"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035442",
+      "summary": "On August 11, 2019, the Bureau of Prisons’ Office of Public Affairs, via Matt Pieper, responded to a request from CBS News regarding Jeffrey Epstein’s death. The BOP provided the Attorney General’s statement on the matter and declined to offer further comment, including confirmation of whether Epstein was on suicide watch. The communication was part of an exchange between the BOP and Matt Pieper, a radio anchor/correspondent for CBS News.",
+      "timestamp": "2019-08-11T00:00:00",
+      "timestamp_raw": "August 11, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "suicide watch",
+        "cbs news",
+        "bureau of prisons",
+        "attorney general",
+        "matt pieper",
+        "public affairs",
+        "redaction analysis",
+        "william barr",
+        "fwd"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036656",
+      "summary": "An email was sent from a Regional Director (Northeast Re in) to [REDACTED] on August 12, 2019, regarding a roster attached as TEXT.htm, 2019 08 11 13 01 45.pdf, and labeled “8/9/19 roster.” The email referenced document EFTA00036656.",
+      "timestamp": "2019-08-12T00:00:00",
+      "timestamp_raw": "August 12, 2019",
+      "keywords": [
+        "efta00036656",
+        "roster",
+        "redaction",
+        "august 2019",
+        "regional director",
+        "northeast re",
+        "pdf",
+        "attachments",
+        "fwd"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035478",
+      "summary": "On August 12, 2019, an email was sent regarding a chronological log concerning Jeffrey Epstein, with an attached file named TEXT.htm. Staff observed Epstein during his initial watch period from 1:40am to 7am on July 23rd, with three subsequent emails planned.",
+      "timestamp": "2019-08-12T00:00:00",
+      "timestamp_raw": "August 12, 2019",
+      "keywords": [
+        "epstein",
+        "chronological log",
+        "fwd",
+        "sw",
+        "july 23",
+        "staff",
+        "emails",
+        "efta00035478",
+        "text.htm"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035449",
+      "summary": "An email chain discusses a response from the New York State Department of Corrections to a letter from Judge Richard M. Berman regarding Jeffrey Epstein’s case (19 cr 490). The email includes attachments of the Warden's response and Judge Berman’s letter.",
+      "timestamp": "2019-08-12T00:00:00",
+      "timestamp_raw": "12 Aug 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "richard m. berman",
+        "warden",
+        "new york",
+        "uscourts",
+        "clc new york",
+        "metropolitan correctional center",
+        "letter",
+        "response",
+        "fwd"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035491",
+      "summary": "An email was sent on August 12, 2019, requesting the gathering of information related to \"Psychological Reconstruction\" under the subject \"Fwd: Psychological Reconstruction\" and referencing file EFTA00035491. The email included a text file named TEXT.htm and an unnamed attachment.",
+      "timestamp": "2019-08-12T00:00:00",
+      "timestamp_raw": "August 12, 2019",
+      "keywords": [
+        "re-examination",
+        "psychological reconstruction",
+        "efta00035491",
+        "text",
+        "redaction"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036568",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] regarding “BOP q,” thanking [REDACTED] Co. for provided information and stating that the remaining information would be delivered the following day. The email included a copy of EFTA00036568.",
+      "timestamp": "2019-08-13T00:00:00",
+      "timestamp_raw": "13 Aug 2019",
+      "keywords": [
+        "efta00036568",
+        "redaction",
+        "bop",
+        "cob",
+        "august 2019",
+        "email",
+        "fwd",
+        "redacted",
+        "analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036616",
+      "summary": "An email was sent from an unknown sender to an unknown recipient regarding a memo titled “MDC Brooklyn and MCC New York.” The email included a forwarded message from a Vcrizon, Samsung Galaxy smartphone, with the subject “Fwd: MDC Brooklyn and MCC New York Memo.” The email was sent on August 16, 2019, at 17:22:30 +0000. There were four redactions on page 1.",
+      "timestamp": "2019-08-16T00:00:00",
+      "timestamp_raw": "August 16, 2019",
+      "keywords": [
+        "efta00036616",
+        "redaction analysis",
+        "hrmd",
+        "samsung",
+        "mdc brooklyn",
+        "mcc new york",
+        "memo",
+        "fwd"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013173",
+      "summary": "An email was sent on September 27, 2019, from an Assistant United States Attorney of the Southern District of New York to multiple recipients. The email included an attached document titled \"MCC Pros Memo v10.htm\" for review. The email’s subject was “MCC Pros Memo.”",
+      "timestamp": "2019-09-27T00:00:00",
+      "timestamp_raw": "September 27, 2019",
+      "keywords": [
+        "efta00013173",
+        "redaction analysis",
+        "mcc pros memo",
+        "united states attorney",
+        "southern district of new york",
+        "fwd",
+        "september 27 2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020442",
+      "summary": "An email was sent on December 1, 2019, forwarding an article from The New York Times regarding David Boies Pottinger’s involvement with Jeffrey Epstein and videos related to blackmail and a “Hot List.” The email’s subject line was “Fwd: Jeffrey Epstein, Blackmail and a Lucrative ‘Hot List’ - The New York Times.”",
+      "timestamp": "2019-12-01T00:00:00",
+      "timestamp_raw": "December 1, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "blackmail",
+        "new york times",
+        "redaction",
+        "efta00020442"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024753",
+      "summary": "The New York Times published an article on February 4, 2020, titled “Jeffrey Epstein’s Mystery Bank Came Alive After His Death.” The article reported that Southern Country International received millions of dollars from Jeffrey Epstein’s estate following his death. The email was forwarded from USANYS to [REDACTED].",
+      "timestamp": "2020-02-04T00:00:00",
+      "timestamp_raw": "February 4, 2020",
+      "keywords": [
+        "jeffrey epstein",
+        "nytimes",
+        "southern country international",
+        "bank",
+        "estate",
+        "redaction",
+        "fwd",
+        "usanys",
+        "2020",
+        "mystery"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031554",
+      "summary": "A message was sent on July 2, 2020, regarding a search warrant related to premises. The message references paragraph 15 of a document (SDNY_Premises_Search_Warrant_Bundleirevised.pdf) which defines the subject premises. The sender was attempting to access the information from their phone.",
+      "timestamp": "2020-07-02T00:00:00",
+      "timestamp_raw": "July 2, 2020",
+      "keywords": [
+        "premises",
+        "search warrant",
+        "sdny",
+        "efta00031554",
+        "2020",
+        "paragraph",
+        "fwd",
+        "revision"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032482",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] on October 9, 2020, regarding case EFTA00032482. The email included attachments related to court calendars and documents from both the USANYS and SANYS divisions.",
+      "timestamp": "2020-10-09T00:00:00",
+      "timestamp_raw": "October 9, 2020",
+      "keywords": [
+        "efta00032482",
+        "redaction analysis",
+        "fwd",
+        "october 2020",
+        "usanys",
+        "sanys",
+        "mht",
+        "calendar"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023317",
+      "summary": "An email was forwarded from an unknown sender to multiple recipients, including [REDACTED], [REDACTED], and [REDACTED]. The email subject was “Follow-up” and contained a message identified as “Fwd_Follow-up.msg”. The email originated on October 16, 2020, at 20:33:10 GMT. The message itself contained the subject “w : o ow-u”.",
+      "timestamp": "2020-10-16T00:00:00",
+      "timestamp_raw": "October 16, 2020",
+      "keywords": [
+        "efta00023317",
+        "redaction",
+        "analysis",
+        "follow-up",
+        "message",
+        "october 2020"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038287",
+      "summary": "An email was forwarded from [REDACTED] to [REDACTED] on October 22, 2020, regarding a call with SDNY concerning discovery and the Epstein investigation. The email was marked as FYI and contained an unnamed attachment labeled \"EFTA00038287\".",
+      "timestamp": "2020-10-22T00:00:00",
+      "timestamp_raw": "October 22, 2020",
+      "keywords": [
+        "efta00038287",
+        "discovery",
+        "epstein",
+        "sdny",
+        "redaction",
+        "external email",
+        "investigation",
+        "2020",
+        "2025",
+        "fwd"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027872",
+      "summary": "An email was forwarded from “M=e” to an Assistant United States Attorney for the Southern District of New York regarding case file EFTA00027872. The email includes a PDF attachment named “native.pdf”.",
+      "timestamp": "2021-08-26T00:00:00",
+      "timestamp_raw": "26 Aug 2021",
+      "keywords": [
+        "efta00027872",
+        "redaction analysis",
+        "usanys",
+        "usgme00444198",
+        "fwd",
+        "assistant united states attorney",
+        "southern district of new york",
+        "2021",
+        "2025",
+        "almliff"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029578",
+      "summary": "Two emails were sent on November 10, 2021, regarding the US v. Maxwell trial. One email forwards a transcript of the trial’s proceedings, and the other is an external communication about the same trial. Attachments include transcripts.",
+      "timestamp": "2021-11-10T00:00:00",
+      "timestamp_raw": "November 10, 2021",
+      "keywords": [
+        "maxwell trial",
+        "redaction analysis",
+        "us v maxwell",
+        "transcript",
+        "efta00029578",
+        "november 10 2021",
+        "fwd",
+        "contractor"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032598",
+      "summary": "An email chain discusses a confidential letter from a client (EFTA00032598). The email originated from [REDACTED] and was forwarded to [REDACTED] with the subject \"Fwd: [EXTERNAL] Letter from Client.\" An attached PDF document, “PRIVATE AND CONFIDENTIAL_2.pdf,” containing the client’s letter is referenced.",
+      "timestamp": "2021-12-19T00:00:00",
+      "timestamp_raw": "19 Nov 2021",
+      "keywords": [
+        "redaction",
+        "analysis",
+        "client",
+        "letter",
+        "confidential",
+        "communication",
+        "ntw",
+        "efta00032598",
+        "pdf",
+        "fw"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    }
+  ]
+}

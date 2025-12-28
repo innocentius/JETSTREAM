@@ -1,0 +1,1650 @@
+{
+  "keyword": "ausas",
+  "count": 45,
+  "keyword_match_count": 45,
+  "content_match_count": 19,
+  "total_files": 64,
+  "timeline": [
+    {
+      "file_id": "EFTA00018757",
+      "summary": "Efforts were undertaken to determine the number of times Jane Doe was interviewed during the Florida investigation. AUSA reviews of FBI files identified a single interview on or about August 7, 2007 with Florida FBI agents. Keyword searches of AUSA email inboxes and inquiries with Jane Doe yielded no additional interview records. Jane Doe could not recall whether she met with the FBI agents once or twice, and suggested that undocumented follow-up interviews might have occurred if new statements were made. AUSA is awaiting a response from a contact regarding SDFL’s awareness of any additional interviews.",
+      "timestamp": "2007-08-07T00:00:00",
+      "timestamp_raw": "August 7, 2007",
+      "keywords": [
+        "efta00018757",
+        "florida investigation",
+        "fbi",
+        "interviews",
+        "relativity",
+        "ausas",
+        "jane doe",
+        "sdfl",
+        "august 7",
+        "2007",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019176",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] on January 26, 2010, regarding press coverage concerning the “Stolen Globe/Epstein” operation. The email included a Palm Beach Post article and suggested scheduling meetings with the AUSAs in California and New Mexico. An attached PDF, “ex-epstein-worker-faces.pdf”, is also referenced.",
+      "timestamp": "2010-01-26T00:00:00",
+      "timestamp_raw": "January 26, 2010",
+      "keywords": [
+        "efta00019176",
+        "epstein",
+        "globe",
+        "press coverage",
+        "plaintiffs",
+        "ausas",
+        "attorneys",
+        "redaction analysis",
+        "palm beach post",
+        "ex-epstein-worker"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019178",
+      "summary": "An email exchange discusses the “Stolen Globe/Epstein” operation and the involvement of Assistant U.S. Attorneys (AUSAs) in multiple districts. Recommendations include AUSAs from New Mexico and New York. One sender expresses concerns about potential leaks and suggests a meeting with AUSAs in California and New Mexico. The email exchange involves individuals from USAFLS and plaintiffs' attorneys.",
+      "timestamp": "2010-01-28T00:00:00",
+      "timestamp_raw": "28 Jan 2010",
+      "keywords": [
+        "efta00019178",
+        "ausas",
+        "new mexico",
+        "new york",
+        "epstein",
+        "globe",
+        "investigation",
+        "plaintiff attorneys",
+        "usafls",
+        "press coverage"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019518",
+      "summary": "An email chain discusses obtaining RSA tokens for access to Relativity, a web-based mass-document management system. A form needs to be completed and sent to a recipient for RSA token issuance. A Relativity database is being set up for the U.S. v. Epstein case, specifically requesting the upload of PDF files from the “USvEpstein-awestigation FBI materials” folder (reports, FOIA documents) while excluding files from a subfolder. There's an expectation of receiving a large volume of case files and a need for agent access to avoid delays. A privilege review isn't anticipated for the initial materials.",
+      "timestamp": "2019-01-11T00:00:00",
+      "timestamp_raw": "11 Jan 2019",
+      "keywords": [
+        "relativity",
+        "rsa token",
+        "fbi",
+        "u.s. v. epstein",
+        "ausas",
+        "database",
+        "documents",
+        "access",
+        "case files",
+        "privilege review"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00013438",
+            "similarity": 0.538,
+            "index": 4,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00013438",
+      "summary": "On January 14, 2019, an Assistant U.S. Attorney from the Southern District of New York requested the upload of PDF files from the EFTA00013438 folder to Relativity for review by AUSAs in the U.S. v. Eastern case. The request specified that files within the main folder should be uploaded, excluding files within a subfolder titled “Files combined and manifest.” The Assistant U.S. Attorney anticipated receiving a large volume of case files and wanted to establish a Relativity database to expedite the review process, noting that privilege review wasn’t initially needed for the specified materials.",
+      "timestamp": "2019-01-14T00:00:00",
+      "timestamp_raw": "January 14, 2019",
+      "keywords": [
+        "relativity",
+        "access",
+        "documents",
+        "efta00013438",
+        "fbi",
+        "case files",
+        "privilege review",
+        "u.s. v. eastern",
+        "database",
+        "review"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00019518",
+            "similarity": 0.538,
+            "index": 3,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032510",
+      "summary": "An Assistant U.S. Attorney from the New York AUS office is contacting an individual to discuss deconfliction and potential collaboration regarding the Jeffrey Epstein investigation in the Southern District of New York. The contact was initiated by the AUS Attorney and they are open to scheduling a conversation this week.",
+      "timestamp": "2019-02-12T00:00:00",
+      "timestamp_raw": "12 Feb 2019",
+      "keywords": [
+        "epstein",
+        "ausas",
+        "sdny",
+        "investigation",
+        "deconfliction",
+        "sid",
+        "u.s. attorney",
+        "jeffrey epstein",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027700",
+      "summary": "On March 1, 2019, an individual (aa) received a response to an inquiry about an Epstein investigation from the Public Corruption Unit of the U.S. Attorney’s Office for the Southern District of New York. The unit’s Deputy Chief introduced himself and offered a call for the following day or Monday. A previous email chain initiated on February 28, 2019, involved a request for a phone call around 1:30/2 p.m. regarding the investigation.",
+      "timestamp": "2019-03-01T00:00:00",
+      "timestamp_raw": "March 1, 2019",
+      "keywords": [
+        "epstein",
+        "redaction",
+        "usanys",
+        "southern district of new york",
+        "public corruption unit",
+        "ausas",
+        "phone call",
+        "meeting",
+        "2019",
+        "2025"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00027046",
+            "similarity": 0.667,
+            "index": 7,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00027046",
+      "summary": "On March 1, 2019, the Public Corruption Unit of the U.S. Attorney’s Office for the Southern District of New York contacted individuals regarding an investigation related to Jeffrey Epstein. One individual responded with availability for a call at 1:30 PM. Another individual, a Deputy Chief, initiated the contact, introducing the unit and inquiring about a call time the following day or Monday. The email chain includes redacted names and email addresses.",
+      "timestamp": "2019-03-01T00:00:00",
+      "timestamp_raw": "March 1, 2019",
+      "keywords": [
+        "epstein",
+        "redaction",
+        "u.s. attorney",
+        "southern district of new york",
+        "public corruption unit",
+        "ausas",
+        "phone call",
+        "2019",
+        "2025",
+        "efta00027046"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00027700",
+            "similarity": 0.667,
+            "index": 6,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021150",
+      "summary": "The email transmits the Child Exploitation & Porn Update Report III for Project Safe Childhood. It requests that Chiefs and Project Safe Childhood Coordinators remind assigned AUSAs to update their cases related to EFTA00021150.",
+      "timestamp": "2019-04-05T00:00:00",
+      "timestamp_raw": "05 Apr 2019",
+      "keywords": [
+        "child exploitation",
+        "porn",
+        "report",
+        "project safe childhood",
+        "ausa",
+        "cases",
+        "redaction",
+        "update",
+        "doj",
+        "efta00021150"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00028708",
+            "similarity": 0.727,
+            "index": 45,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00009931",
+      "summary": "On May 17, 2019, Assistant U.S. Attorneys from the Southern District of New York contacted FBI New York (SSA and Squad C-20) regarding the Epstein investigation. They requested examples of cases where a vendor handled document scanning, cataloguing, and indexing, due to concerns about their office managing this process. The FBI responded, suggesting a call early the following week to discuss the most productive way to provide this information. EFTA00009931 is the document identifier.",
+      "timestamp": "2019-05-17T00:00:00",
+      "timestamp_raw": "May 17, 2019",
+      "keywords": [
+        "epstein investigation",
+        "redaction analysis",
+        "ssa",
+        "fbi new york",
+        "ausas",
+        "vendor",
+        "scanning",
+        "cataloguing",
+        "indexing",
+        "southern district of new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027744",
+      "summary": "On May 21, 2019, Alex Conlon communicated with [REDACTED] regarding an SDNY investigation and planned interviews. [REDACTED] confirmed a meeting for Thursday at 4:30 PM with a colleague who would be available to take notes and potentially act as a witness. [REDACTED] requested contact information to facilitate communication with individuals being interviewed and indicated a desire to cover topics including Giglio issues and Epstein’s conduct with a specific individual.  A follow-up email on May 14, 2019, reiterated the meeting details and requested a future meeting before June, anticipating more complex discussions.",
+      "timestamp": "2019-05-21T00:00:00",
+      "timestamp_raw": "May 21, 2019",
+      "keywords": [
+        "sdny investigation",
+        "alex conlon",
+        "meeting",
+        "attorney",
+        "witness",
+        "notes",
+        "contact information",
+        "phone calls",
+        "ausas",
+        "gillespie",
+        "epstein"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021266",
+      "summary": "The email outlines a relatively quiet legal week commencing June 29, 2019, due to the holiday. Key events include: trials for Ahuja and the first day for AUSAs with a swearing-in ceremony and a Matos verdict report. A drone exercise briefing is scheduled with Sarcone. Specific meetings are planned for Tuesday regarding securities mismarking at Premium Point Investments and an Epstein indictment, followed by Ernesto Lopez sentencing for drug-related offenses. Wednesday features pipeline meetings. Thursday is designated as EFTA00021266. Finally, the sender is considering replacements for the trial training program organizers.",
+      "timestamp": "2019-06-29T00:00:00",
+      "timestamp_raw": "June 29, 2019",
+      "keywords": [
+        "drone exercise",
+        "efta00021266",
+        "trials",
+        "ausas",
+        "sentencing",
+        "narcotics",
+        "securites mismarking",
+        "judge failla",
+        "judge cote",
+        "eric"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030161",
+      "summary": "On July 7, 2019, Martin Weinberg informed [REDACTED] that the indictment in the U.S. v. Jeffrey Epstein case was expected to be unsealed and assigned to a district judge around 9:15 a.m. the following morning. Weinberg offered to contact [REDACTED] after Epstein met with him.  [REDACTED] confirmed receipt of the indictment and noted awareness of potential privilege issues related to the search conducted at Epstein’s residence, stating a warrant and inventory would be delivered. Weinberg sent a follow-up email on July 6th, attaching the indictment and providing contact information for the Assistant U.S. Attorneys involved.",
+      "timestamp": "2019-07-07T00:00:00",
+      "timestamp_raw": "July 7, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "u.s. v.",
+        "martin weinberg",
+        "indictment",
+        "reid weingarten",
+        "bail",
+        "detention",
+        "judge",
+        "ausas",
+        "search warrant"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00015599",
+            "similarity": 0.636,
+            "index": 13,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00015602",
+            "similarity": 0.583,
+            "index": 14,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00015599",
+      "summary": "On July 7, 2019, Marty (likely a prosecutor) informed Martin Weinberg that the indictment in the U.S. v. Jeffrey Epstein case was expected to be unsealed and assigned to a district judge around 9:15 a.m. the following morning. Marty offered to contact Weinberg or preferred contacts if needed, particularly regarding a potential consent to detention without prejudice. Weinberg subsequently emailed the indictment to Marty, anticipating Epstein’s presentation at the U.S. District Court at 500 Pearl Street on Monday following interviews by Pretrial Services and presentation to a judge. Contact information for the involved Assistant U.S. Attorneys (AUSAs) was provided.",
+      "timestamp": "2019-07-07T00:00:00",
+      "timestamp_raw": "July 7, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "u.s. v.",
+        "martin weinberg",
+        "indictment",
+        "warrant",
+        "bail",
+        "detention",
+        "ausas"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00030161",
+            "similarity": 0.636,
+            "index": 12,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00015602",
+            "similarity": 0.7,
+            "index": 14,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00015602",
+      "summary": "Martin Weinberg was following up on the unsealing of the indictment in the U.S. v. Jeffrey Epstein case. He was informed that the indictment would be available around 9:15 AM on July 8, 2019, and Epstein would be presented to the court on Monday.  Weinberg was coordinating with AUSAs regarding the case and was aware of potential privilege issues related to a search conducted at Epstein’s residence. Contact information for the AUSAs was provided.  There was discussion about Epstein potentially consenting to detention without prejudice.",
+      "timestamp": "2019-07-08T00:00:00",
+      "timestamp_raw": "July 8, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "u.s. v.",
+        "martin weinberg",
+        "indictment",
+        "warrant",
+        "ausas",
+        "detention",
+        "bail argument",
+        "judge"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00015599",
+            "similarity": 0.7,
+            "index": 13,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00030161",
+            "similarity": 0.583,
+            "index": 12,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032698",
+      "summary": "A United States Attorney from the Southern District of New York sent an email regarding a status conference in the case of USA v. Epstein (Case 1:19-cr-00490-RMB). The conference occurred on July 8, 2019, with Jeffrey Epstein, his attorneys (Weinberg, Weingarten, and Fernich), AUSAs, and US Pretrial Officers present. A bail submission is due on July 11, 2019, a government reply is due on July 12, 2019, and a bail hearing is scheduled for July 15, 2019. Speedy trial time is excluded from July 8 to July 15 due to 18 USC 3161(h)(7)(A) and (B). An electronic filing notice was sent to multiple email addresses.",
+      "timestamp": "2019-07-08T00:00:00",
+      "timestamp_raw": "July 8, 2019",
+      "keywords": [
+        "epstein",
+        "usa v. epstein",
+        "case 1:19-cr-00490-rmb",
+        "status conference",
+        "united states attorney",
+        "southern district of new york",
+        "bail hearing",
+        "judge richard m. berman",
+        "transcript",
+        "18 usc 3161"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029737",
+      "summary": "On August 10, 2019, a U.S. Attorney’s Office representative is receiving updates regarding the death of federal inmate Jeffrey Epstein. Counsel for Epstein is demanding basic information regarding the time and cause of death, expressing frustration that the U.S. Attorney’s Office has less information than the press. A BOP representative reports Epstein passed away after a suicide attempt and is being taken to the hospital by ambulance. The BOP will provide further updates as available. The representative indicates they will be out of the office on vacation until August 12th and directs urgent matters to other AUSAs or AUSP.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "epstein",
+        "u.s. attorney's office",
+        "bop",
+        "death",
+        "suicide attempt",
+        "federal inmate",
+        "redaction",
+        "report",
+        "august 10",
+        "2019"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024346",
+      "summary": "An automatic reply email was sent from [REDACTED] to [REDACTED] on August 10, 2019, regarding an update related to Epstein. The sender stated they would be out of the office on vacation until August 12th and that responses to emails may be delayed. Contact information for other AUSAs and AUSh related to case EFTA00024346 was provided.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "efta00024346",
+        "epstein",
+        "automatic reply",
+        "redaction",
+        "ausa",
+        "august 12th",
+        "case",
+        "aush",
+        "vacation",
+        "update"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020127",
+      "summary": "Bruce Barket, of Barket Epstein, is responding to an email regarding questioning of Mr. Tartaglione related to an investigation into Jeffrey Epstein’s death. He directs the recipient to forward the email to relevant US Attorneys and clarifies that Tartaglione should not be questioned without his prior knowledge and consent, and he provides his contact information to investigators. Three redactions are present in the document.",
+      "timestamp": "2019-08-12T00:00:00",
+      "timestamp_raw": "12 Aug 2019",
+      "keywords": [
+        "bruce barket",
+        "epstein",
+        "tartaglione",
+        "investigation",
+        "suicide",
+        "ausas",
+        "fbi",
+        "ig",
+        "redaction analysis",
+        "efta00020127"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036390",
+      "summary": "On August 14, 2019, the Metropolitan Correctional Center, New York, announced a tour for representatives from the Department of Justice and the SDNY USA0 on August 15, 2019, at 10:00 a.m. Attendees included the Principal Deputy Attorney General, Advisor at AG’s office, Geoffrey Berman, several Deputy US Attorneys, Chief of the Criminal Division, SDNY, Counsel to the US Attorney, Chief of the Public Corruption Unit, SDNY, and multiple AUSAs. The Supervisory Attorney requested notification of attendees’ arrival.",
+      "timestamp": "2019-08-14T00:00:00",
+      "timestamp_raw": "August 14, 2019",
+      "keywords": [
+        "united states government",
+        "memorandum",
+        "metropolitan correctional center",
+        "new york",
+        "department of justice",
+        "sdny",
+        "tour",
+        "august 15",
+        "2019",
+        "geoffrey berman",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020176",
+      "summary": "The records (BSA IDs) were initially requested and circulated for review by Ori inal, who then directed others to pull and circulate them.  A FinCEN Assistant Chief Counsel confirmed receipt of the records and requested further relevant SAR information.  Communication involved coordinating with the Intelligence Division and the United States Attorney's Office (Southern District of New York), with one individual highlighting information FinCEN had seen. The entire exchange involves a request to share potentially relevant FinCEN records for analysis.",
+      "timestamp": "2019-08-16T00:00:00",
+      "timestamp_raw": "16 Aug 2019",
+      "keywords": [
+        "fincen",
+        "epstein",
+        "records",
+        "sar",
+        "redaction",
+        "financial crimes",
+        "money laundering",
+        "transnational criminal enterprises",
+        "united states attorney",
+        "ausas"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028193",
+      "summary": "An email was sent requesting travel arrangements for an Epstein victim to fly from Palm Beach, FL to New York City (SDNY) on September 12, 2019. The purpose of the trip is to meet with AUSAs and agents at 5pm. Accommodation is required for one night at a hotel in NYC, with a return flight to Palm Beach scheduled for September 13, 2019. The email includes the victim’s full name, date of birth, and email address.",
+      "timestamp": "2019-09-12T00:00:00",
+      "timestamp_raw": "September 12, 2019",
+      "keywords": [
+        "efta00028193",
+        "travel",
+        "booking",
+        "epstein",
+        "victim",
+        "usao funds",
+        "palm beach",
+        "new york",
+        "9/12",
+        "9/13"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00015296",
+            "similarity": 0.538,
+            "index": 22,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00015296",
+      "summary": "An email chain discusses booking travel for an Epstein victim to fly from Palm Beach, FL to New York City (SDNY) on September 12, 2019. The travel includes a hotel stay in NYC for one night, September 12th, and a return flight to Palm Beach on September 13, 2019. The purpose of the trip is for the victim to meet with AUSAs and agents at 5pm on September 12th. The email includes details like the victim's full name, date of birth, flight information, and hotel requirements.",
+      "timestamp": "2019-09-12T00:00:00",
+      "timestamp_raw": "September 12, 2019",
+      "keywords": [
+        "efta00015296",
+        "travel",
+        "booking",
+        "airfare",
+        "hotel",
+        "epstein",
+        "usao funds",
+        "palm beach",
+        "new york",
+        "9/12"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00028193",
+            "similarity": 0.538,
+            "index": 21,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015290",
+      "summary": "Matthew L. Schwartz emailed regarding a time-sensitive, but not urgent, forfeiture question related to the Epstein case. He requested a discussion with AUSAs, who were identified as the appropriate team, within the next few days. The email was sent on October 14, 2019.",
+      "timestamp": "2019-10-14T00:00:00",
+      "timestamp_raw": "October 14, 2019",
+      "keywords": [
+        "efta00015290",
+        "forfeiture",
+        "epstein",
+        "ausas",
+        "matthew l. schwartz",
+        "ice",
+        "redaction",
+        "question",
+        "victims",
+        "email"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029730",
+      "summary": "Matthew L. Schwartz is coordinating calls regarding a “forfeiture question” related to the Epstein case. He contacted [REDACTED] and [REDACTED] on October 14th and 15th, 2019, offering times for a brief discussion: 4:00 PM, 9:30 AM the following day, or between 11:00 AM and 1:00 PM the following day. He clarified that the question doesn’t relate to his firm’s representation of victims and directed inquiries to the AUSAs involved in the Epstein case.",
+      "timestamp": "2019-11-15T00:00:00",
+      "timestamp_raw": "15 Oct 2019",
+      "keywords": [
+        "forfeiture",
+        "matthew schwartz",
+        "epstein",
+        "ausa",
+        "redaction",
+        "call",
+        "october 15",
+        "2019",
+        "email",
+        "time-sensitive"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00021341",
+            "similarity": 0.7,
+            "index": 25,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00021341",
+      "summary": "Matthew L. Schwartz is discussing a forfeiture question related to the Epstein case with multiple individuals. He initially offered to speak between 4:30 PM and 9:30 AM the following morning.  A colleague suggested 4:30 PM as a suitable time. Schwartz had previously emailed to inquire if anyone had time for a brief discussion regarding the forfeiture question within the next few days, noting the involvement of AUSAs. The email chain includes confirmations of availability and a reference to the recipient's firm’s lack of involvement with victim representation. A PDF document (2019.10.15 Letter re Hyperion Air) is attached.",
+      "timestamp": "2019-11-15T00:00:00",
+      "timestamp_raw": "15 Oct 2019",
+      "keywords": [
+        "forfeiture",
+        "matthew schwartz",
+        "epstein",
+        "ausa",
+        "email",
+        "october 15",
+        "2019"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00029730",
+            "similarity": 0.7,
+            "index": 24,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028461",
+      "summary": "Gloria Allred is representing a new alleged victim of Jeffrey Epstein who is willing to travel to New York to participate in a victim meeting on October 23rd. Initial communication involves coordinating logistics with the Assistant United States Attorney (AUSAs) for the Southern District of New York and the FBI Victim Services. The AUSAs propose various meeting times and locations (FBI office, Allred’s office, or a conference call) due to scheduling constraints and the victim’s travel plans. There are repeated requests for information about the victim's identity and travel details. The victim’s willingness to reschedule and the planned departure for D.C. are also discussed, leading to a final cancellation of the meeting. Redactions are present throughout the document, obscuring specific details.",
+      "timestamp": "2019-11-23T00:00:00",
+      "timestamp_raw": "23 Oct 2019",
+      "keywords": [
+        "epstein",
+        "victim",
+        "new york",
+        "gloria allred",
+        "fbi",
+        "scheduling",
+        "travel",
+        "conference call",
+        "23 october",
+        "victim meeting"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021290",
+      "summary": "A discussion occurred regarding victim impact statements related to the Jeffrey Epstein case. Seventeen victims were present at a hearing, with 17 speaking directly and 7 having statements read for them. One individual recalled a possible instance of a victim missing a flight, but no specific details were available regarding those who wanted to attend but couldn't. The Petitioner in an appeal to the 11th Circuit argued that not all victims were given sufficient notice and opportunity to speak at the hearing, citing a similar hearing in SDNY. The request was made to determine the number of victims contacted, those who traveled and spoke, and those who desired to speak but were unable due to timing or notice.",
+      "timestamp": "2019-11-30T00:00:00",
+      "timestamp_raw": "30 Oct 2019",
+      "keywords": [
+        "epstein victims",
+        "victim impact statements",
+        "usanys",
+        "ausas",
+        "hearing",
+        "transcripts",
+        "11th circuit",
+        "cvra",
+        "notice",
+        "timing",
+        "statements"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00031395",
+            "similarity": 0.571,
+            "index": 28,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00031395",
+      "summary": "A series of emails discuss questions related to victim impact statements in the Epstein case. Seventeen victims attended a hearing and spoke or had statements read for them, with an additional seven participating remotely. One victim group raised concerns regarding insufficient notice and travel limitations preventing some victims from speaking at the hearing. An appeal was filed alleging insufficient opportunity for victims to participate due to lack of notice and travel restrictions. The request seeks information on the number of victims contacted, those who attended in person, and those unable to attend due to notice/timing.",
+      "timestamp": "2019-11-30T00:00:00",
+      "timestamp_raw": "30 Oct 2019",
+      "keywords": [
+        "epstein",
+        "victim impact statements",
+        "ausas",
+        "11th circuit",
+        "cvra",
+        "hearing",
+        "transcripts",
+        "notice",
+        "travel",
+        "usanys",
+        "odag"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00021290",
+            "similarity": 0.571,
+            "index": 27,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035750",
+      "summary": "On December 4, 2019, AUSAs, along with a DIG SA, interviewed EMPLOYEE 32 (Jeffrey Epstein) regarding institutional counts performed at MCC. This interview was documented in an email sent to investigating agents. The case ID is 90A-NY-3151227.",
+      "timestamp": "2019-12-04T00:00:00",
+      "timestamp_raw": "December 4, 2019",
+      "keywords": [
+        "fbi",
+        "email",
+        "investigation",
+        "victim",
+        "death",
+        "interview",
+        "institutional counts",
+        "mcc",
+        "jeffrey epstein",
+        "ausas"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021766",
+      "summary": "Bruce Barket, representing Barket Epstein Kearon Aldea & LoTurco, LLP, is corresponding with Aida Leisenring and others regarding discovery requests related to the Tartaglione case. Key points include: *   A request for the taint team to contact them regarding a review of a cell phone, specifically concerning hand-held videos from July 23rd. *   An inquiry regarding the inconsistent accounts of surveillance video and a request for further inquiries. *   A request for a hearing regarding the disappearance of surveillance video. *   MCC offers access to a makeshift rope for inspection, with restrictions on photography. *   BOP has forensic reports of Tartaglione’s cellphone and SIM card, which will be reviewed by a walled-off team of AUSAs to identify privileged materials. *   BOP states no other pictures or videos were taken from inside the cell, and a letter with video evidence is forthcoming for review at the office.",
+      "timestamp": "2020-01-09T00:00:00",
+      "timestamp_raw": "09 Jan 2020",
+      "keywords": [
+        "bruce barket",
+        "discovery requests",
+        "surveillance video",
+        "cell phone",
+        "tartaglione",
+        "bop",
+        "mcc",
+        "ausa",
+        "july 23",
+        "videos",
+        "forensic reports"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031721",
+      "summary": "An email request is being submitted for travel to Stockholm, Sweden, for an Assistant U.S. Attorney and two other individuals (AUSAs S and S) by the U.S. Attorney’s Office for the Southern District of New York. The request includes an ECC package (ECC_package_2.3.2.20.pdf) and instructions for the traveler to determine the Point of Contact (POC), check for visa requirements via the State Department’s website, and submit the visa request package to EOUSA-RMP Travel at least 15 business days prior to departure to allow sufficient time for State Dept. authorization and foreign government processing. The delay in submission is due to a recently confirmed witness interview date.",
+      "timestamp": "2020-01-24T00:00:00",
+      "timestamp_raw": "24 Jan 2020",
+      "keywords": [
+        "ecc package",
+        "visa",
+        "travel",
+        "eousa",
+        "rmp",
+        "sweden",
+        "ausas",
+        "state dept",
+        "travel authorization"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028291",
+      "summary": "An email was sent from EFTA00028291 to [REDACTED] regarding updates to a child exploitation/sex crimes case. The email attached a report (“Child_Exploitation_Pom_Update_Report_III_(005).pdf”) and requested a meeting to update the information within the LIONS system. The updates were marked on a paper copy.",
+      "timestamp": "2020-02-20T00:00:00",
+      "timestamp_raw": "20 Feb 2020",
+      "keywords": [
+        "child exploitation",
+        "sex crimes",
+        "redaction analysis",
+        "efta00028291",
+        "case updates",
+        "ausas",
+        "lions",
+        "2020",
+        "pdf",
+        "report"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023779",
+      "summary": "An automatic reply email was sent on March 11, 2020, regarding Freedom of Information Act (FOIA) requests related to Jeffrey Epstein. The sender is on trial before Judge Paul A. Engelmayer and anticipates delayed responses, advising urgent matters be directed to other Assistant U.S. Attorneys (AUSAs). The case is identified as EFTA00023779.",
+      "timestamp": "2020-03-11T00:00:00",
+      "timestamp_raw": "March 11, 2020",
+      "keywords": [
+        "epstein",
+        "foia",
+        "redaction",
+        "engelmayer",
+        "ausa",
+        "trial",
+        "emails",
+        "urgent",
+        "2020",
+        "efta00023779"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030309",
+      "summary": "The US Attorney’s office has provided several data dumps (over 1.4 million documents), but the data is severely disorganized and lacks crucial metadata. Specifically, the files are not linked to their originating devices, making it impossible to track the full scope of the collection or efficiently review the materials. Attempts to establish a system for tracking the data have been met with delays and unanswered emails. There are concerns about duplicated files and an inability to determine which items are complete versus partial. Multiple parties involved (including CART, Relativity users, and the US Attorney’s office) express frustration with the lack of organization and request a coordinated meeting to address the issues and establish a clear process for reviewing the data. The team is struggling to determine what data has been previously provided, whether files are full or partial, and what devices are associated with the data.",
+      "timestamp": "2020-04-04T00:00:00",
+      "timestamp_raw": "04 Apr 2020",
+      "keywords": [
+        "epstein",
+        "search warrant",
+        "documents",
+        "relativity",
+        "taint screen",
+        "ausas",
+        "agents",
+        "devices",
+        "files",
+        "review",
+        "data",
+        "organization",
+        "organization",
+        "network",
+        "computers",
+        "hard drives",
+        "mac",
+        "files",
+        "distribution",
+        "timelines"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038432",
+      "summary": "FBI New York’s VCAC/Human Trafficking unit contacted an individual regarding potential sightings of Ghislaine Maxwell in Manchester. The individual stated they had been informed by a detective about Maxwell’s presence in town prior to the FBI’s contact. The FBI requested more detailed information about the sightings, including frequency, location, and recent dates. The initial response was to hold off due to uncertainty surrounding a grand jury and to keep the recipient updated.",
+      "timestamp": "2020-04-21T00:00:00",
+      "timestamp_raw": "21 Apr 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "fbi",
+        "manchester",
+        "sightings",
+        "pd",
+        "arrest",
+        "ausas",
+        "trafficking",
+        "grand jury",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028771",
+      "summary": "Ghislaine Maxwell was indicted in United States v. Ghislaine Maxwell (20 Cr. 330 (AJN)). She was arrested in New Hampshire on July 2, 2020, at approximately 8:30 am and is expected to appear before a United States Magistrate Judge in the District of New Hampshire this afternoon. The government intends to seek her detention and anticipates requesting an appeal if denied in New Hampshire. An initial conference date is requested from Judge Nathan.",
+      "timestamp": "2020-07-02T00:00:00",
+      "timestamp_raw": "July 2, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states v.",
+        "nathan chambers",
+        "indictment",
+        "detention",
+        "government",
+        "new hampshire",
+        "magistrate judge",
+        "ausas",
+        "conference date"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026999",
+      "summary": "On July 7, 2020, an email was sent acknowledging recent high-profile legal cases (Novartis settlement and Ghislaine Maxwell arrest) while also recognizing the ongoing, less publicized work of the team. Specifically, it thanked staff for taking on new gun cases, handling litigation related to incarceration during the Covid-19 pandemic, and acknowledged the contributions of AUSAs, paralegals, and staff. The email expressed appreciation for their continued efforts and wished them safety.",
+      "timestamp": "2020-07-07T00:00:00",
+      "timestamp_raw": "July 7, 2020",
+      "keywords": [
+        "community",
+        "novartis",
+        "ghislaine maxwell",
+        "civil settlement",
+        "litigation",
+        "incarceration",
+        "violence",
+        "ausas",
+        "paralegals",
+        "covid era"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023013",
+      "summary": "An individual requested a copy of Jeffrey Epstein’s final suicide reconstruction report to provide to the AUSAs. Multiple individuals confirmed they did not possess the report, with one stating it was likely located in Central Office. A leadership chain was activated to escalate the request, and updates were provided that the report was being processed. One individual suggested forwarding the request directly to the OIG.",
+      "timestamp": "2020-09-08T00:00:00",
+      "timestamp_raw": "08 Sep 2020",
+      "keywords": [
+        "suicide reconstruction report",
+        "epstein",
+        "ausas",
+        "request",
+        "central office",
+        "oig",
+        "efta00023013",
+        "report access",
+        "leadership chain",
+        "legal proceedings"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031095",
+      "summary": "Specifically, cases Epstein and 377 Union Street are receiving excessive attention, monopolizing PAE resources. *   **Data Loading Delays:** Data uploads to Relativity are experiencing delays, particularly with large datasets like 377 Union Street (5 HDs of mixed data). Duplicate data and disorganized files are contributing to the issue. *   **Multiple \"Hot\" Cases:** PAE is managing several high-priority cases concurrently, including We Build the Wall, Epstein, PPI, Keefe v US FD, US v Jai, and 377 Union Street. *   **Communication Challenges:** There's frustration regarding the communication process, with lengthy response times from PAE and difficulty in obtaining clear timelines. *   **Deadline Pressure:** The team is under pressure to meet court deadlines, particularly the 25th of the month production requirement. *   **Impact on AUSAs:** The delays are negatively impacting the ability of Assistant US Attorneys to access their evidence and conduct investigations.",
+      "timestamp": "2020-11-14T00:00:00",
+      "timestamp_raw": "14 Oct 2020",
+      "keywords": [
+        "pae",
+        "litigation",
+        "priority",
+        "data",
+        "relativity",
+        "epstein",
+        "377 union street",
+        "timeline",
+        "requests",
+        "ausas",
+        "deadlines"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038272",
+      "summary": "*   **Goal:** The review is intended to be completed by next Friday. *   **Devices:** Ten devices are being reviewed, identified by codes like “NY-3027571” and associated with NYC locations. *   **Team Structure:**  A team is being assembled with members from the USAO and FBI. The FBI initially will review a subset of devices (listed on Page 3). *   **Protocol:** A review protocol has been established, requiring reviewers to familiarize themselves with the search warrant, affidavit, and Maxwell indictment. *   **Communication:** Regular updates and coordination are planned through email and scheduled calls.",
+      "timestamp": "2020-11-22T00:00:00",
+      "timestamp_raw": "22 Oct 2020",
+      "keywords": [
+        "epstein",
+        "image/video files",
+        "device review",
+        "maxwell",
+        "warrant",
+        "ausas",
+        "cair",
+        "fbi",
+        "usao",
+        "devices"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00038290",
+            "similarity": 0.5,
+            "index": 41,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038290",
+      "summary": "This document pertains to the redaction analysis of electronic devices related to Jeffrey Epstein and Ghislaine Maxwell. A review protocol was established involving multiple individuals and teams (AUSAs, FBI, and USAO) to examine image and video files from ten devices: NYC024355, NYC024323, NYC024326, NYC024334, NYC024368, NYC024394, NYC024390, NYC027908, NYC027910, NYC024363.  The initial focus was for the FBI to review specific devices (listed above), while the USAO would coordinate with the teams. A 3:30 PM meeting time was proposed for initial coordination. The protocol required reviewers to familiarize themselves with the warrant and supporting affidavit and included the Maxwell indictment. Device locations were organized into folders for ease of access.",
+      "timestamp": "2020-11-22T00:00:00",
+      "timestamp_raw": "22 Oct 2020",
+      "keywords": [
+        "epstein",
+        "image/video file review",
+        "devices",
+        "ausas",
+        "cair",
+        "nyc0243xx",
+        "protocol",
+        "fbi",
+        "maxwell",
+        "warrant",
+        "affidavits"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038272",
+            "similarity": 0.5,
+            "index": 40,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038306",
+      "summary": "*   The review involves examining 10 specific devices: NY-3027571_Safe, NYCO24334, NYCO24355, NYCO24323, NYCO24326, NYCO24334, NYCO24368, NYCO24394, NYCO24390, NYCO27908, NYCO27910, and NY-3027571_MAC, NYCO24363. *   The review includes a significant number of images and videos. *   A protocol has been established for the review, including designated folders and a deadline for completion (by next Friday). *   The AUSAs and FBI have requested a call to discuss the review and answer questions. *   The initial focus for the FBI team is a subset of the devices listed above. *   The individuals are coordinating to ensure access to the case files and to track the progress of the device review.",
+      "timestamp": "2020-11-22T00:00:00",
+      "timestamp_raw": "22 Oct 2020",
+      "keywords": [
+        "epstein",
+        "devices",
+        "review",
+        "images",
+        "videos",
+        "warrants",
+        "fbi",
+        "usao",
+        "cair",
+        "protocol",
+        "maxwell",
+        "nyco243xx",
+        "efta00038306"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018098",
+      "summary": "An email exchange discusses a “discovery letter in Maxwell.” One party ([REDACTED]) requests the final version of a letter outlining materials to be gathered from other agencies, intended for reference by other Assistant U.S. Attorneys (AUSAs). The email chain originates from the United States Attorney's Office, Southern District of New York.",
+      "timestamp": "2020-12-03T00:00:00",
+      "timestamp_raw": "03 Nov 2020",
+      "keywords": [
+        "discovery letter",
+        "maxwell",
+        "ausas",
+        "united states attorney",
+        "southern district of new york",
+        "redacted",
+        "agencies",
+        "letter",
+        "example",
+        "filing"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013348",
+      "summary": "On January 4, 2021, an email was sent from [REDACTED] to [REDACTED] regarding a request from the incoming administration’s transition team for a list of significant, publicly filed cases. The request asked all FAUSAs, Criminal Chiefs, and Civil Chiefs to submit information about their top two criminal cases and one civil case, including case name, docket number, description of charges/claims, current status, and a link to the most recent press release. The attached document, \"Publicly_Filed_SDNY_Cases_for_Transition.docx\", contained write-ups of three cases and was intended to be sent to the EOUSA paralegal by January 5, 2021.",
+      "timestamp": "2021-01-04T00:00:00",
+      "timestamp_raw": "January 4, 2021",
+      "keywords": [
+        "transition team",
+        "cases",
+        "criminal",
+        "civil",
+        "docket",
+        "significant",
+        "public",
+        "filings",
+        "united states department of justice",
+        "eousa"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028708",
+      "summary": "The attached report, “Child Exploitation & Porn Update Report III,” was sent from NYSReportServer@usa.doj.gov to MMan on February 25, 2021. It pertains to Project Safe Childhood and requests that Chiefs and Project Safe Childhood Coordinators remind assigned AUSAs to update their cases. The report is identified as EFTA00028708.",
+      "timestamp": "2021-02-25T00:00:00",
+      "timestamp_raw": "February 25, 2021",
+      "keywords": [
+        "child exploitation",
+        "porn",
+        "report",
+        "project safe childhood",
+        "ausa",
+        "cases",
+        "update",
+        "doj",
+        "efta00028708"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00021150",
+            "similarity": 0.727,
+            "index": 8,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027378",
+      "summary": "On April 6, 2021, discussions occurred regarding the production of Ghislaine Maxwell for a review of physical evidence held by the FBI. The review was planned to take place at 500 Pearl Street, with the initial date set for April 13th, extending through April 16th, potentially into the following week depending on the duration of the review. Multiple individuals, including FBI representatives and Assistant United States Attorneys, were involved in coordinating the logistics of Maxwell’s production and the evidence review.",
+      "timestamp": "2021-04-06T00:00:00",
+      "timestamp_raw": "April 6, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "fbi",
+        "ausas",
+        "500 pearl street",
+        "evidence review",
+        "usms",
+        "april 13",
+        "2021",
+        "production",
+        "marshals"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038579",
+      "summary": "On April 8, 2021, an FBI Special Agent requested assistance with a review of evidence involving Maxwell, her defense team, and an Assistant U.S. Attorney (AUSA) at 500 Pearl Street from April 13-15. The request involved coordinating at least two FBI agents (one with a handcuff key) to monitor Maxwell, who would be produced by Marshals, throughout the review process. Three proffer rooms were reserved for evidence review, private defense meetings, and a break area.  The review would begin at 9:30 AM daily and continue throughout the day.",
+      "timestamp": "2021-04-08T00:00:00",
+      "timestamp_raw": "April 8, 2021",
+      "keywords": [
+        "fbi",
+        "maxwell",
+        "evidence review",
+        "proffer room",
+        "agents",
+        "defense team",
+        "500 pearl street",
+        "april 13",
+        "handcuff key",
+        "ausas"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038575",
+      "summary": "On April 8, 2021, an FBI Special Agent in New York sent an email to coordinate a review of evidence related to a case, likely involving Maxwell and potentially related to GM evidence. The review would take place at 500 Pearl Street courthouse with planned daily sessions beginning April 13, 2021, involving the FBI, defense counsel, Marshals, and Assistant U.S. Attorneys (AUSAs). Three annotated spreadsheets detailing the evidence were attached. Additionally, a separate review involving defense team members traveling to the Bronx warehouse to examine evidence not being produced at 500 Pearl Street was scheduled for April 12, 2021, with associated logistics and monitoring.",
+      "timestamp": "2021-04-08T00:00:00",
+      "timestamp_raw": "April 8, 2021",
+      "keywords": [
+        "efta00038575",
+        "evidence review",
+        "500 pearl street",
+        "fbi",
+        "defense team",
+        "logistics",
+        "proffer room",
+        "ausa",
+        "bronx warehouse",
+        "maxwell"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00009890",
+      "summary": "This document concerns redaction discussions related to pretrial disclosures in the case of *US v. Maxwell*. The government and defense are negotiating redactions to several reply briefs and exhibits, primarily due to the Protective Order designating information as \"Confidential.\" Key points include: *   **Redaction Proposals:** The defense proposes filing briefs and exhibits without redactions, arguing that the “Confidential” designation doesn’t justify them. The government, conversely, seeks to redact information related to AUSAs, accusers, and third parties to protect privacy. *   **Specific Redactions:** Redactions are proposed for names of AUSAs and accusers in Reply Brief 3, and for exhibits filed under seal. The government also argues against redaction of language referencing the Indictment in Reply Brief 5. *   **Exhibit A:** The government wants Exhibit A to remain sealed, while the defense initially proposed filing it publicly with redactions. *   **Court Orders:** The discussions are influenced by a court order (Dkt. 203) requiring docketing of joint letters or proposed redactions by April 19, 2021. *   **Scheduling a Conference:** Counsel are coordinating a call to formally discuss the disclosures, deadlines and redaction proposals.",
+      "timestamp": "2021-04-19T00:00:00",
+      "timestamp_raw": "April 19, 2021",
+      "keywords": [
+        "redactions",
+        "redactions",
+        "confidential",
+        "protective order",
+        "exhibits",
+        "briefs",
+        "ausas",
+        "accusers",
+        "docket",
+        "seal",
+        "disclosure",
+        "privacy"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029866",
+      "summary": "On July 12, 2021, a witness prepared testimony for trial regarding interactions with JE. The witness stated she was approximately 16 when invited to JE’s house, visiting roughly once or twice a month for two months before transitioning to biweekly and then weekly visits. During the relationship with M, the witness had a job and did not spend every moment with him. The witness estimates she received between $200 and $300 after each massage at JE’s house. The witness couldn’t identify the origin of a woman’s accent, believing it was European but not French. The witness denies being addicted to cocaine or crack and believes JE lied about her whereabouts and fidelity. The witness currently uses marijuana daily for anxiety.",
+      "timestamp": "2021-07-12T00:00:00",
+      "timestamp_raw": "July 12, 2021",
+      "keywords": [
+        "efta00029866",
+        "ausas",
+        "sa",
+        "det.",
+        "prep",
+        "recollections",
+        "je's house",
+        "massage",
+        "cocaine",
+        "marijuana"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029872",
+      "summary": "On July 12, 2021, a witness (S) provided information regarding the investigation of EFTA00029872. S recalled viewing an S video from October 20, 2005, from the vicinity of a residence, and vaguely remembers photographing the scene and observing an open computer tower inside the house. S reviewed PBPD property receipts indicating evidence was pulled and returned to a houseman. S confirmed the practice of photographing evidence on brown paper with scales and item numbers, recognizing her handwriting on associated post-it notes. S identified message pads resembling those used in the search and stated she bagged and supervised the evidence team.",
+      "timestamp": "2021-07-12T00:00:00",
+      "timestamp_raw": "July 12, 2021",
+      "keywords": [
+        "efta00029872",
+        "ausas",
+        "pbpd",
+        "evidence",
+        "photographs",
+        "video",
+        "post-it notes",
+        "handwriting",
+        "search",
+        "recovery"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029868",
+      "summary": "On July 13, 2021, prepared testimony for trial regarding EFTA00029868 included recollections of evidence seized on October 20, 2005, from 358 El Brillo Way. This included message pads and a “twin torpedoes sex toy.” Photographs of these items were deemed accurate depictions of the scene. All seized evidence was subsequently handed over to the evidence collection team and transported to the Pembroke Beach Police Department (PBPD).",
+      "timestamp": "2021-07-13T00:00:00",
+      "timestamp_raw": "July 13, 2021",
+      "keywords": [
+        "efta00029868",
+        "redaction analysis",
+        "ausas",
+        "message pads",
+        "twin torpedoes",
+        "crime scene",
+        "evidence",
+        "pbpd",
+        "358 el brillo way",
+        "october 20",
+        "2005"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029867",
+      "summary": "On July 13, 2021, prepared testimony was created for trial regarding a case involving individuals (AUSAs, SA, Det., Prep) and GM. Key recollections included: a memory of driving a white car, differing recollections about GM’s hair length, receiving approximately $300 from JE for visits, knowledge of JE’s employees using her mother’s phone number, GM requesting a cellphone, occasional friends driving her to JE’s with payment, receiving the “Massage for Dummies” book in FedEx packages, an estimate of her age when GM saw her nude, a belief that JE instructed her to massage a specific individual, SH’s physical abuse, a recent period of sobriety, a lack of memory regarding a 2007 FBI interview, and an inability to sue GM due to participation in the victim compensation fund.",
+      "timestamp": "2021-07-13T00:00:00",
+      "timestamp_raw": "July 13, 2021",
+      "keywords": [
+        "ausas",
+        "sa",
+        "det.",
+        "prep",
+        "gm",
+        "je's",
+        "massage",
+        "victim compensation fund",
+        "fbi",
+        "recollections"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029869",
+      "summary": "On July 13, 2021, a woman (referred to as “E”) provided testimony for trial preparation, detailing recollections related to Jeffrey Epstein and subsequent events. She recalls being invited to travel to an island, remembers her son showing her pictures of gargoyles taken at a Palm Beach property, and estimates she was traveling to Palm Beach for work for approximately two and a half years. E reports numerous phone calls related to work in Palm Beach from two male voices (one a car service driver and another sending a car) and two female voices, one named “Giselle Maxine” with an accent, who called multiple times and was described as having an unpleasant tone. She interpreted the female caller’s statements about a party as a request for party preparations. E states she did not realize she had been sexually abused by Epstein until 2007. She admits to obtaining cocaine from a Palm Beach house, and recounts conversations with U and IE regarding her activities and their sons. She last spoke with IE recently when he asked her for money.",
+      "timestamp": "2021-07-13T00:00:00",
+      "timestamp_raw": "July 13, 2021",
+      "keywords": [
+        "efta00029869",
+        "jeffrey epstein",
+        "palm beach",
+        "medications",
+        "ausas",
+        "giselle maxine",
+        "cocaine",
+        "sexual abuse",
+        "fbi",
+        "recollections"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029871",
+      "summary": "On July 15, 2021, evidence related to a search of 358 El Brillo Way was prepared for trial testimony. This included an authenticated map, video, and photographs of the property from October 20, 2005, with exceptions for opened drawers/boxes, PBPD property receipts, and a seized green massage table. All seized items were transferred to the PBPD office and subsequently to the FBI agent on August 28, 2006.",
+      "timestamp": "2021-07-15T00:00:00",
+      "timestamp_raw": "July 15, 2021",
+      "keywords": [
+        "efta00029871",
+        "ausas",
+        "sa",
+        "prep",
+        "el brillo way",
+        "october 20",
+        "2005",
+        "pbpd",
+        "fbi",
+        "evidence",
+        "search"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016716",
+      "summary": "On October 13, 2021, Bobbi C. Sternheim sent an email to multiple recipients regarding the delivery of a hard drive to Ghislaine Maxwell at the MDC. The hard drive was to be sent via FedEx and immediately given to Maxwell upon arrival. Sternheim requested confirmation upon arrival and provided her updated contact information. The email contained a standard confidentiality disclaimer.",
+      "timestamp": "2021-10-13T00:00:00",
+      "timestamp_raw": "October 13, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "efta00016716",
+        "ausas",
+        "hard drives",
+        "delivery",
+        "bobbi c. sternheim",
+        "federal express",
+        "mdc",
+        "maxwell",
+        "redaction"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038833",
+      "summary": "An email exchange occurred between a contractor (“I=E,” USANYS) and the FBI (NY Field Office, Child Exploitation/Human Trafficking) regarding “hotline tracking spreadsheets.” The contractor requested updated spreadsheets for Maxwell and Epstein’s tiplines, citing outdated FBI copies from last summer. The contractor had previously uploaded email tips from SDNY and created a USAfx folder for uploads. Several individuals were involved in the communication, including [REDACTED] and Kimberly. A phone call was offered to discuss the spreadsheets further.",
+      "timestamp": "2021-11-08T00:00:00",
+      "timestamp_raw": "08 Oct 2021",
+      "keywords": [
+        "hotline tracking spreadsheets",
+        "fbi",
+        "usanys",
+        "contractor",
+        "email tips",
+        "sdny",
+        "maxwell",
+        "epstein",
+        "ausas",
+        "redaction"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00038837",
+            "similarity": 0.818,
+            "index": 58,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038837",
+      "summary": "An email exchange occurred between multiple individuals, primarily contractors associated with the USANYS (likely the FBI), regarding updated tracking spreadsheets for tiplines and hotlines related to Maxwell and Epstein cases. One individual (a) requested updated spreadsheets from another contractor ([REDACTED]) that were last updated in the summer of 2021. The contractor ([REDACTED]) provided two attachments, and requested a call to discuss the spreadsheets.",
+      "timestamp": "2021-11-08T00:00:00",
+      "timestamp_raw": "08 Oct 2021",
+      "keywords": [
+        "hotline tracking spreadsheets",
+        "fbi",
+        "ausas",
+        "maxwell",
+        "epstein",
+        "email tips",
+        "usafx",
+        "usanys",
+        "contractor",
+        "redaction"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038833",
+            "similarity": 0.818,
+            "index": 57,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029696",
+      "summary": "In October 2005, Detective MI was involved solely in the search of Jeffrey Epstein’s residence. He drafted the only report documenting this search. The AUSA emailed TM a copy of the report for recollection confirmation, which TM reviewed and confirmed he recalled searching the identified rooms with MI. MI does not recall specific items seized during the search and believes photographs would not improve his recollection.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00029696",
+        "vtc",
+        "ausas",
+        "epstein",
+        "search",
+        "report",
+        "det.",
+        "ausa",
+        "tm",
+        "residence",
+        "recollection"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021173",
+      "summary": "Last week included a $678 million civil settlement with Novartis and the arrest of GELANE Maxwell. The office also celebrated internal achievements such as taking on new gun cases, handling increased FOIA litigation, and preparing responses to compassionate release motions. Appreciation was expressed for AUSAs, paralegals, and staff for their daily work.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "novartis",
+        "kickbacks",
+        "gelane maxwell",
+        "epstein",
+        "civil settlement",
+        "gun cases",
+        "foia litigation",
+        "release motions",
+        "ausas",
+        "paralegals"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030961",
+      "summary": "The Office is implementing changes to its discovery and disclosure practices to improve effectiveness. Key measures include: establishing a standing Disclosure Committee with co-chairs, creating a Technology Working Group, requiring unit chiefs to provide training for new AUSAs on subject-matter-specific discovery issues, conducting agency case file reviews, requiring prosecution memos to address discovery and defense theories, establishing case transition planning procedures for AUSAs leaving senior units, and requiring SAUSAs to complete DOJ and SDNY discovery training. These changes are intended to be adopted Office-wide and will be supported by guidance from the Disclosure Committee.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "discovery",
+        "disclosure",
+        "ausas",
+        "training",
+        "unit chiefs",
+        "committee",
+        "technology",
+        "case reviews",
+        "prosecution memos",
+        "doj training"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026622",
+      "summary": "The Public Corruption Unit, comprised of 20 AUSAs, prosecuted a wide range of corruption cases in 2019. Locally, they charged NYPD officers with theft and fraud, a Brooklyn Supreme Court Justice with obstructing a federal investigation, and correctional officers with abuse of power and falsifying records related to inmate deaths. Nationally, the unit pursued campaign finance violations involving Lev Parnas and Igor Fruman, prosecuted a fraudulent PAC operator, and brought extortion charges against Michael Avenatti related to Nike and Stephanie Clifford (“Stormy Daniels”). Additionally, they pursued sex trafficking charges against Jeffrey Epstein, and investigated corruption within college basketball, including bribery charges against defendants attempting to pay university coaches.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "public corruption unit",
+        "campaign finance",
+        "extortion",
+        "fraud",
+        "correctional officers",
+        "jeffrey epstein",
+        "michael avenatti",
+        "new york city",
+        "federal investigation",
+        "bribery"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025171",
+      "summary": "The Public Corruption Unit within the AUSAs handled numerous cases involving abuse of power by local and national officials. These cases included: *   **Traditional Corruption:** Excessive force involving a mentally disturbed homeless victim, bribery involving NYPD officers accepting gun licenses, and obstructing a federal investigation. *   **High-Profile Cases:** Charges against Lev Parnas and Igor Fruman (campaign finance), Michael Avenatti (extortion and fraud), Jeffrey Epstein (sex trafficking), Stephen Calk (bank bribery), and Natalie Mayflower Sours Edwards (leak of suspicious activity reports). *   **Financial Fraud:** Cases involving fraudulent PACs, wire fraud schemes targeting political donations, and restitution/forfeiture orders. *   **2019 Cases:** Extortion charges against Michael Avenatti (Nike), charges against Jeffrey Epstein (sex trafficking), and prosecutions related to college basketball bribery.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "corruption",
+        "public corruption unit",
+        "law enforcement",
+        "federal correctional officers",
+        "campaign finance",
+        "michael avenatti",
+        "jeffrey epstein",
+        "extortion",
+        "fraud",
+        "wire fraud"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    }
+  ]
+}

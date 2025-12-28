@@ -1,0 +1,2318 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+    <title>JETSTREAM - Jeffrey Epstein Timeline Search, Tracking, Relationship Exploration and Analysis, and Mapping tool</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --primary-color: #2563eb;
+            --secondary-color: #1e40af;
+            --accent-color: #3b82f6;
+            --text-dark: #1f2937;
+            --text-light: #6b7280;
+            --bg-light: #f9fafb;
+            --bg-white: #ffffff;
+            --border-color: #e5e7eb;
+            --success-color: #10b981;
+            --warning-color: #f59e0b;
+            --gradient-start: #667eea;
+            --gradient-end: #764ba2;
+        }
+
+        [data-theme="dark"] {
+            --primary-color: #60a5fa;
+            --secondary-color: #3b82f6;
+            --accent-color: #93c5fd;
+            --text-dark: #f3f4f6;
+            --text-light: #9ca3af;
+            --bg-light: #1f2937;
+            --bg-white: #111827;
+            --border-color: #374151;
+            --success-color: #34d399;
+            --warning-color: #fbbf24;
+            --gradient-start: #1e293b;
+            --gradient-end: #0f172a;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: linear-gradient(135deg, var(--gradient-start) 0%, var(--gradient-end) 100%);
+            min-height: 100vh;
+            color: var(--text-dark);
+            padding: 20px;
+            transition: background 0.3s ease;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        /* Header */
+        header {
+            background: var(--bg-white);
+            border-radius: 20px;
+            padding: 30px 40px;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            color: var(--primary-color);
+            margin-bottom: 10px;
+            font-weight: 700;
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            flex-wrap: wrap;
+        }
+
+        h1 .acronym {
+            background: linear-gradient(135deg, var(--primary-color), var(--accent-color));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            font-weight: 800;
+        }
+
+        .subtitle {
+            color: var(--text-light);
+            font-size: 0.95rem;
+            line-height: 1.5;
+        }
+
+        .stats {
+            display: flex;
+            gap: 30px;
+            margin-top: 20px;
+            flex-wrap: wrap;
+        }
+
+        .stat {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .stat-icon {
+            width: 40px;
+            height: 40px;
+            background: linear-gradient(135deg, var(--primary-color), var(--accent-color));
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-weight: bold;
+            font-size: 1.2rem;
+        }
+
+        /* Dark mode toggle */
+        .theme-toggle {
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            width: 60px;
+            height: 60px;
+            background: var(--bg-white);
+            border-radius: 50%;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            font-size: 1.5rem;
+            transition: all 0.3s;
+            z-index: 1000;
+            border: 3px solid var(--border-color);
+        }
+
+        .theme-toggle:hover {
+            transform: scale(1.1) rotate(20deg);
+            box-shadow: 0 6px 30px rgba(0, 0, 0, 0.3);
+        }
+
+        .theme-toggle:active {
+            transform: scale(0.95);
+        }
+
+        .stat-text {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .stat-value {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: var(--text-dark);
+        }
+
+        .stat-label {
+            font-size: 0.875rem;
+            color: var(--text-light);
+        }
+
+        /* Main Content */
+        .main-content {
+            display: grid;
+            grid-template-columns: 350px 1fr;
+            gap: 30px;
+            align-items: start;
+        }
+
+        /* Sidebar */
+        .sidebar {
+            background: var(--bg-white);
+            border-radius: 20px;
+            padding: 25px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+            position: sticky;
+            top: 20px;
+            max-height: calc(100vh - 40px);
+            overflow-y: auto;
+        }
+
+        .sidebar h2 {
+            font-size: 1.5rem;
+            margin-bottom: 20px;
+            color: var(--text-dark);
+        }
+
+        /* Tabs */
+        .tabs {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 8px;
+            margin-bottom: 20px;
+            padding-bottom: 15px;
+            border-bottom: 2px solid var(--border-color);
+        }
+
+        .tab {
+            padding: 12px 8px;
+            background: transparent;
+            border: none;
+            color: var(--text-light);
+            cursor: pointer;
+            font-size: 0.85rem;
+            font-weight: 600;
+            border-bottom: 3px solid transparent;
+            transition: all 0.3s;
+            border-radius: 8px;
+            text-align: center;
+        }
+
+        .tab:hover {
+            color: var(--primary-color);
+            background: var(--bg-light);
+        }
+
+        .tab.active {
+            color: var(--primary-color);
+            background: rgba(37, 99, 235, 0.1);
+            border-bottom-color: var(--primary-color);
+        }
+
+        .tab-content {
+            display: none;
+        }
+
+        .tab-content.active {
+            display: block;
+        }
+
+        .search-box {
+            position: relative;
+            margin-bottom: 20px;
+        }
+
+        .search-box input {
+            width: 100%;
+            padding: 12px 40px 12px 15px;
+            border: 2px solid var(--border-color);
+            border-radius: 12px;
+            font-size: 0.95rem;
+            transition: all 0.3s;
+        }
+
+        .search-box input:focus {
+            outline: none;
+            border-color: var(--primary-color);
+            box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.1);
+        }
+
+        .search-icon {
+            position: absolute;
+            right: 15px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: var(--text-light);
+        }
+
+        .keyword-list {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+
+        .keyword-item {
+            padding: 12px 15px;
+            background: var(--bg-light);
+            border-radius: 10px;
+            cursor: pointer;
+            transition: all 0.3s;
+            border: 2px solid transparent;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .keyword-item:hover {
+            background: var(--accent-color);
+            color: white;
+            transform: translateX(5px);
+        }
+
+        .keyword-item.active {
+            background: var(--primary-color);
+            color: white;
+            border-color: var(--secondary-color);
+        }
+
+        .keyword-name {
+            font-weight: 500;
+            flex: 1;
+        }
+
+        .keyword-count {
+            background: rgba(255, 255, 255, 0.2);
+            padding: 2px 8px;
+            border-radius: 20px;
+            font-size: 0.875rem;
+            font-weight: 600;
+        }
+
+        .keyword-item:hover .keyword-count,
+        .keyword-item.active .keyword-count {
+            background: rgba(255, 255, 255, 0.3);
+        }
+
+        /* Year list */
+        .year-list {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+
+        .year-item {
+            padding: 12px 15px;
+            background: var(--bg-light);
+            border-radius: 10px;
+            cursor: pointer;
+            transition: all 0.3s;
+            border: 2px solid transparent;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .year-item:hover {
+            background: var(--accent-color);
+            color: white;
+            transform: translateX(5px);
+        }
+
+        .year-item.active {
+            background: var(--primary-color);
+            color: white;
+            border-color: var(--secondary-color);
+        }
+
+        .year-name {
+            font-weight: 600;
+            font-size: 1.1rem;
+        }
+
+        .year-count {
+            background: rgba(255, 255, 255, 0.2);
+            padding: 2px 8px;
+            border-radius: 20px;
+            font-size: 0.875rem;
+            font-weight: 600;
+        }
+
+        .year-item:hover .year-count,
+        .year-item.active .year-count {
+            background: rgba(255, 255, 255, 0.3);
+        }
+
+        /* Content Area */
+        .content {
+            background: var(--bg-white);
+            border-radius: 20px;
+            padding: 35px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+            min-height: 600px;
+        }
+
+        .loading {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 400px;
+            gap: 20px;
+        }
+
+        .spinner {
+            width: 50px;
+            height: 50px;
+            border: 4px solid var(--border-color);
+            border-top-color: var(--primary-color);
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.3; }
+        }
+
+        .welcome {
+            text-align: center;
+            padding: 60px 20px;
+        }
+
+        .welcome-icon {
+            font-size: 4rem;
+            margin-bottom: 20px;
+        }
+
+        .welcome h2 {
+            font-size: 2rem;
+            margin-bottom: 15px;
+            color: var(--text-dark);
+        }
+
+        .welcome p {
+            color: var(--text-light);
+            font-size: 1.1rem;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        /* Timeline */
+        .timeline-header {
+            margin-bottom: 30px;
+            padding-bottom: 20px;
+            border-bottom: 2px solid var(--border-color);
+        }
+
+        .timeline-header h2 {
+            font-size: 2rem;
+            color: var(--primary-color);
+            margin-bottom: 10px;
+        }
+
+        .timeline-stats {
+            display: flex;
+            gap: 20px;
+            color: var(--text-light);
+            font-size: 0.95rem;
+        }
+
+        .timeline-stats span {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+
+        .timeline {
+            position: relative;
+            padding-left: 40px;
+        }
+
+        .timeline::before {
+            content: '';
+            position: absolute;
+            left: 10px;
+            top: 0;
+            bottom: 0;
+            width: 3px;
+            background: linear-gradient(to bottom, var(--primary-color), var(--accent-color));
+        }
+
+        .timeline-item {
+            position: relative;
+            margin-bottom: 30px;
+            animation: slideIn 0.5s ease-out;
+        }
+
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes pulse {
+            0%, 100% {
+                box-shadow: 0 0 0 0 rgba(37, 99, 235, 0.7);
+            }
+            50% {
+                box-shadow: 0 0 0 20px rgba(37, 99, 235, 0);
+            }
+        }
+
+        .timeline-item::before {
+            content: '';
+            position: absolute;
+            left: -34px;
+            top: 0;
+            width: 15px;
+            height: 15px;
+            background: var(--primary-color);
+            border: 3px solid white;
+            border-radius: 50%;
+            box-shadow: 0 0 0 3px var(--primary-color);
+        }
+
+        .timeline-card {
+            background: var(--bg-light);
+            border-radius: 15px;
+            padding: 20px;
+            transition: all 0.3s;
+            border: 2px solid transparent;
+        }
+
+        .timeline-card:hover {
+            border-color: var(--primary-color);
+            box-shadow: 0 5px 20px rgba(37, 99, 235, 0.1);
+            transform: translateY(-2px);
+        }
+
+        .timeline-date {
+            display: inline-block;
+            background: var(--primary-color);
+            color: white;
+            padding: 5px 15px;
+            border-radius: 20px;
+            font-size: 0.875rem;
+            font-weight: 600;
+            margin-bottom: 12px;
+        }
+
+        .timeline-file {
+            font-family: 'Courier New', monospace;
+            font-size: 0.875rem;
+            color: var(--text-light);
+            margin-bottom: 10px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .match-badge {
+            display: inline-block;
+            padding: 4px 12px;
+            border-radius: 12px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            white-space: nowrap;
+            max-width: 150px;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            flex-shrink: 0;
+            color: white;
+        }
+
+        .match-badge.keyword {
+            background: linear-gradient(135deg, var(--primary-color), var(--accent-color));
+        }
+
+        .match-badge.innertext {
+            background: linear-gradient(135deg, #10b981, #059669);
+        }
+
+        .timeline-summary {
+            color: var(--text-dark);
+            line-height: 1.6;
+            margin-bottom: 15px;
+        }
+
+        .timeline-summary strong {
+            font-weight: 700;
+            color: var(--primary-color);
+        }
+
+        .timeline-summary em {
+            font-style: italic;
+            color: var(--text-light);
+        }
+
+        .timeline-summary code {
+            background: var(--bg-light);
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-family: 'Courier New', monospace;
+            font-size: 0.9em;
+        }
+
+        .timeline-summary ul, .timeline-summary ol {
+            margin: 10px 0 10px 20px;
+        }
+
+        .timeline-summary li {
+            margin: 5px 0;
+        }
+
+        .timeline-summary a {
+            color: var(--primary-color);
+            text-decoration: underline;
+        }
+
+        /* Keyword highlighting */
+        .keyword-highlight {
+            background: linear-gradient(135deg, rgba(37, 99, 235, 0.2), rgba(59, 130, 246, 0.2));
+            padding: 2px 4px;
+            border-radius: 3px;
+            font-weight: 600;
+            color: var(--primary-color);
+            border-bottom: 2px solid var(--primary-color);
+        }
+
+        [data-theme="dark"] .keyword-highlight {
+            background: linear-gradient(135deg, rgba(96, 165, 250, 0.3), rgba(147, 197, 253, 0.3));
+            color: var(--accent-color);
+            border-bottom-color: var(--accent-color);
+        }
+
+        .timeline-keywords {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+
+        .tag {
+            background: white;
+            color: var(--primary-color);
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            border: 1px solid var(--border-color);
+            transition: all 0.3s;
+        }
+
+        .tag.highlighted {
+            background: linear-gradient(135deg, var(--primary-color), var(--accent-color));
+            color: white;
+            border-color: var(--primary-color);
+            font-weight: 700;
+            transform: scale(1.05);
+        }
+
+        .no-date {
+            background: var(--warning-color);
+        }
+
+        /* Document Relationships */
+        .timeline-relationships {
+            margin-top: 15px;
+            padding-top: 15px;
+            border-top: 1px solid var(--border-color);
+        }
+
+        .relationships-header {
+            font-size: 0.85rem;
+            font-weight: 600;
+            color: var(--text-light);
+            margin-bottom: 10px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .relationships-section {
+            margin-bottom: 12px;
+        }
+
+        .relationships-section:last-child {
+            margin-bottom: 0;
+        }
+
+        .relationship-label {
+            font-size: 0.75rem;
+            font-weight: 600;
+            color: var(--text-light);
+            margin-bottom: 6px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .relationship-links {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+        }
+
+        .relationship-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            padding: 6px 12px;
+            border-radius: 8px;
+            font-size: 0.8rem;
+            font-weight: 500;
+            text-decoration: none;
+            transition: all 0.3s;
+            cursor: pointer;
+            border: 2px solid;
+        }
+
+        .relationship-link:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+        }
+
+        /* Highly Relevant (70%+) - Red */
+        .relationship-link.highly_relevant {
+            background: linear-gradient(135deg, #ef4444, #dc2626);
+            color: white;
+            border-color: #dc2626;
+        }
+
+        .relationship-link.highly_relevant:hover {
+            background: linear-gradient(135deg, #dc2626, #b91c1c);
+            box-shadow: 0 4px 12px rgba(220, 38, 38, 0.4);
+        }
+
+        /* Relevant (50-70%) - Orange */
+        .relationship-link.relevant {
+            background: linear-gradient(135deg, #f97316, #ea580c);
+            color: white;
+            border-color: #ea580c;
+        }
+
+        .relationship-link.relevant:hover {
+            background: linear-gradient(135deg, #ea580c, #c2410c);
+            box-shadow: 0 4px 12px rgba(234, 88, 12, 0.4);
+        }
+
+        /* Somewhat Relevant (30-50%) - Yellow */
+        .relationship-link.somewhat_relevant {
+            background: linear-gradient(135deg, #fbbf24, #f59e0b);
+            color: #78350f;
+            border-color: #f59e0b;
+        }
+
+        .relationship-link.somewhat_relevant:hover {
+            background: linear-gradient(135deg, #f59e0b, #d97706);
+            box-shadow: 0 4px 12px rgba(245, 158, 11, 0.4);
+        }
+
+        /* Low Relevance (<30%) - Gray */
+        .relationship-link.low_relevance {
+            background: linear-gradient(135deg, #9ca3af, #6b7280);
+            color: white;
+            border-color: #6b7280;
+        }
+
+        .relationship-link.low_relevance:hover {
+            background: linear-gradient(135deg, #6b7280, #4b5563);
+            box-shadow: 0 4px 12px rgba(107, 114, 128, 0.4);
+        }
+
+        .similarity-score {
+            font-size: 0.7rem;
+            opacity: 0.9;
+            font-weight: 700;
+        }
+
+        .relationship-icon {
+            font-size: 1rem;
+        }
+
+        /* Dark theme adjustments */
+        [data-theme="dark"] .relationship-link.somewhat_relevant {
+            color: #fef3c7;
+        }
+
+        /* Responsive */
+        @media (max-width: 1024px) {
+            .main-content {
+                grid-template-columns: 1fr;
+            }
+
+            .sidebar {
+                position: static;
+                max-height: none;
+            }
+
+            h1 {
+                font-size: 2rem;
+            }
+        }
+
+        @media (max-width: 640px) {
+            body {
+                padding: 10px;
+            }
+
+            header {
+                padding: 20px;
+            }
+
+            h1 {
+                font-size: 1.75rem;
+            }
+
+            .stats {
+                gap: 15px;
+            }
+
+            .content {
+                padding: 20px;
+            }
+
+            .timeline {
+                padding-left: 30px;
+            }
+
+            .tab {
+                font-size: 0.8rem;
+                padding: 10px 6px;
+            }
+        }
+
+        /* Scrollbar */
+        ::-webkit-scrollbar {
+            width: 8px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background: var(--bg-light);
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: var(--primary-color);
+            border-radius: 4px;
+        }
+
+        ::-webkit-scrollbar-thumb:hover {
+            background: var(--secondary-color);
+        }
+
+        .error {
+            background: #fee;
+            border: 2px solid #fcc;
+            color: #c33;
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+        }
+
+        [data-theme="dark"] .error {
+            background: #4c1d1d;
+            border-color: #7f1d1d;
+            color: #fca5a5;
+        }
+
+        /* Disclaimer */
+        .disclaimer {
+            background: var(--bg-white);
+            border-radius: 20px;
+            padding: 30px;
+            margin-top: 30px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+        }
+
+        .disclaimer h3 {
+            color: var(--primary-color);
+            font-size: 1.5rem;
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .disclaimer-section {
+            margin-bottom: 20px;
+            padding: 15px;
+            background: var(--bg-light);
+            border-radius: 12px;
+            border-left: 4px solid var(--primary-color);
+        }
+
+        .disclaimer-section h4 {
+            color: var(--text-dark);
+            font-size: 1.1rem;
+            margin-bottom: 10px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .disclaimer-section p {
+            color: var(--text-light);
+            line-height: 1.6;
+            margin-bottom: 10px;
+        }
+
+        .disclaimer-section strong {
+            color: var(--text-dark);
+        }
+
+        .disclaimer-section a {
+            color: var(--primary-color);
+            text-decoration: none;
+            font-weight: 600;
+        }
+
+        .disclaimer-section a:hover {
+            text-decoration: underline;
+        }
+
+        .license-badge {
+            display: inline-block;
+            background: var(--primary-color);
+            color: white;
+            padding: 5px 12px;
+            border-radius: 20px;
+            font-size: 0.875rem;
+            font-weight: 600;
+            margin-top: 5px;
+        }
+
+        .warning-box {
+            background: rgba(245, 158, 11, 0.1);
+            border: 2px solid var(--warning-color);
+            border-radius: 10px;
+            padding: 15px;
+            margin-top: 10px;
+        }
+
+        .warning-box p {
+            color: var(--text-dark);
+            margin: 0;
+        }
+
+        /* Smooth transitions for theme change */
+        * {
+            transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+        }
+
+        /* Network Graph Styles */
+        #networkContainer {
+            width: 100%;
+            height: 700px;
+            position: relative;
+            border: 2px solid var(--border-color);
+            border-radius: 15px;
+            overflow: hidden;
+            background: var(--bg-light);
+        }
+
+        #networkCanvas {
+            width: 100%;
+            height: 100%;
+            cursor: grab;
+        }
+
+        #networkCanvas:active {
+            cursor: grabbing;
+        }
+
+        .network-tooltip {
+            position: absolute;
+            background: rgba(0, 0, 0, 0.9);
+            color: white;
+            padding: 10px 15px;
+            border-radius: 8px;
+            font-size: 0.85rem;
+            pointer-events: none;
+            z-index: 1000;
+            opacity: 0;
+            transition: opacity 0.2s;
+            max-width: 300px;
+        }
+
+        .network-tooltip.visible {
+            opacity: 1;
+        }
+
+        .network-info {
+            background: var(--bg-light);
+            padding: 15px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            border-left: 4px solid var(--primary-color);
+        }
+
+        .network-legend {
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+            margin-top: 10px;
+        }
+
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 0.85rem;
+            color: var(--text-light);
+        }
+
+        .legend-circle {
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header>
+            <h1>
+                <span>🚀</span>
+                <span class="acronym">JETSTREAM</span>
+            </h1>
+            <p class="subtitle">
+                <strong>J</strong>effrey <strong>E</strong>pstein <strong>T</strong>imeline <strong>S</strong>earch, 
+                <strong>T</strong>racking, <strong>R</strong>elationship <strong>E</strong>xploration and 
+                <strong>A</strong>nalysis, and <strong>M</strong>apping tool
+            </p>
+            <div class="stats" id="stats">
+                <!-- Stats will be loaded here -->
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <div class="main-content">
+            <!-- Sidebar -->
+            <aside class="sidebar">
+                <div class="tabs">
+                    <button class="tab active" onclick="switchTab('keywords')">📑 Keywords</button>
+                    <button class="tab" onclick="switchTab('years')">📅 Years</button>
+                    <button class="tab" onclick="switchTab('network')">🕸️ Network</button>
+                    <button class="tab" onclick="switchTab('about')">ℹ️ About</button>
+                </div>
+
+                <!-- Keywords Tab -->
+                <div class="tab-content active" id="keywordsTab">
+                    <div class="search-box">
+                        <input type="text" id="searchInput" placeholder="Search keywords...">
+                        <span class="search-icon">🔍</span>
+                    </div>
+                    <div class="keyword-list" id="keywordList">
+                        <!-- Keywords will be loaded here -->
+                    </div>
+                </div>
+
+                <!-- Years Tab -->
+                <div class="tab-content" id="yearsTab">
+                    <div class="year-list" id="yearList">
+                        <!-- Years will be loaded here -->
+                    </div>
+                </div>
+
+                <!-- Network Tab -->
+                <div class="tab-content" id="networkTab">
+                    <div style="padding: 10px;">
+                        <h3 style="color: var(--primary-color); margin-bottom: 15px; font-size: 1.1rem;">Network Settings</h3>
+                        
+                        <div style="margin-bottom: 15px;">
+                            <label style="display: block; color: var(--text-light); font-size: 0.85rem; margin-bottom: 5px;">
+                                Min. Keyword Count
+                            </label>
+                            <input type="range" id="minCount" min="10" max="100" value="30" 
+                                   style="width: 100%;" onchange="updateNetworkSettings()">
+                            <span id="minCountValue" style="color: var(--text-light); font-size: 0.8rem;">30</span>
+                        </div>
+                        
+                        <div style="margin-bottom: 15px;">
+                            <label style="display: block; color: var(--text-light); font-size: 0.85rem; margin-bottom: 5px;">
+                                Min. Shared Documents
+                            </label>
+                            <input type="range" id="connectionStrength" min="1" max="20" value="3" 
+                                   style="width: 100%;" onchange="updateNetworkSettings()">
+                            <span id="connectionStrengthValue" style="color: var(--text-light); font-size: 0.8rem;">3</span>
+                        </div>
+                        
+                        <div style="margin-bottom: 15px;">
+                            <label style="display: block; color: var(--text-light); font-size: 0.85rem; margin-bottom: 5px;">
+                                Max. Keywords
+                            </label>
+                            <input type="range" id="maxNodes" min="20" max="100" value="50" 
+                                   style="width: 100%;" onchange="updateNetworkSettings()">
+                            <span id="maxNodesValue" style="color: var(--text-light); font-size: 0.8rem;">50</span>
+                        </div>
+                        
+                        <button onclick="generateNetwork()" 
+                                style="width: 100%; padding: 10px; background: var(--primary-color); color: white; border: none; border-radius: 8px; cursor: pointer; font-weight: 600; font-size: 0.9rem; margin-top: 10px;">
+                            🔄 Regenerate Network
+                        </button>
+                        
+                        <div id="networkStatus" style="margin-top: 10px; text-align: center; color: var(--text-light); font-size: 0.85rem; display: none;">
+                            <span style="display: inline-block; width: 8px; height: 8px; background: var(--success-color); border-radius: 50%; margin-right: 5px; animation: pulse 1.5s ease-in-out infinite;"></span>
+                            <span>Network stabilizing...</span>
+                        </div>
+                        
+                        <div style="margin-top: 15px; padding: 10px; background: rgba(37, 99, 235, 0.1); border-left: 3px solid var(--primary-color); border-radius: 5px;">
+                            <p style="color: var(--text-dark); font-size: 0.8rem; line-height: 1.5; margin: 0;">
+                                💡 <strong>Tip:</strong> Hover over nodes to see connections. Click and drag to explore. Larger nodes = more occurrences.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- About Tab -->
+                <div class="tab-content" id="aboutTab">
+                    <div style="padding: 10px;">
+                        <h3 style="color: var(--primary-color); margin-bottom: 15px; font-size: 1.2rem;">About JETSTREAM</h3>
+                        <p style="color: var(--text-light); font-size: 0.9rem; line-height: 1.6; margin-bottom: 15px;">
+                            <strong>Jeffrey Epstein Timeline Search, Tracking, Relationship Exploration and Analysis, and Mapping tool</strong> is a comprehensive document analysis and visualization tool for exploring the epstein file repository.
+                        </p>
+                        <p style="color: var(--text-light); font-size: 0.9rem; line-height: 1.6;" id="aboutStats">
+                            📊 <strong>Loading...</strong><br>
+                            🔑 <strong>Loading...</strong><br>
+                            📅 <strong>2000-2025</strong> timeline
+                        </p>
+                        <div style="margin-top: 15px; padding: 10px; background: rgba(245, 158, 11, 0.1); border-left: 3px solid var(--warning-color); border-radius: 5px;">
+                            <p style="color: var(--text-dark); font-size: 0.85rem; line-height: 1.5; margin: 0;">
+                                ⚠️ <strong>Note:</strong> This dataset includes only text-based documents from volumes 0001-0008. Photos and videos are not included.
+                            </p>
+                        </div>
+                        <div style="margin-top: 20px; padding-top: 15px; border-top: 2px solid var(--border-color);">
+                            <p style="color: var(--text-light); font-size: 0.85rem; text-align: center;">
+                                <a href="#" onclick="showDisclaimerInMain(); return false;" style="color: var(--primary-color); text-decoration: none; font-weight: 600;">
+                                    📜 View Full Disclaimer
+                                </a>
+                            </p>
+                        </div>
+                        
+                        <!-- Changelog Section -->
+                        <div style="margin-top: 25px; padding-top: 20px; border-top: 2px solid var(--border-color);">
+                            <h4 style="color: var(--primary-color); margin-bottom: 15px; font-size: 1rem; display: flex; align-items: center; gap: 8px;">
+                                📝 Changelog
+                            </h4>
+                            
+                            <!-- Version 1.1.2 -->
+                            <div style="margin-bottom: 20px; padding: 12px; background: var(--bg-light); border-radius: 8px; border-left: 3px solid #10b981;">
+                                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+                                    <strong style="color: var(--text-dark); font-size: 0.9rem;">Version 1.1.2</strong>
+                                    <span style="color: var(--text-light); font-size: 0.8rem;">Dec 28, 2025</span>
+                                </div>
+                                <ul style="color: var(--text-light); font-size: 0.85rem; line-height: 1.6; margin: 0; padding-left: 20px;">
+                                    <li><strong>Expanded Dataset:</strong> Increased from 7,248 to 10,777 documents (48% increase)</li>
+                                    <li><strong>More Keywords:</strong> Grew from 346 to 498 keywords tracked (44% increase)</li>
+                                    <li><strong>Enhanced Coverage:</strong> Now includes 22,545 total unique keywords discovered across all documents</li>
+                                    <li><strong>Improved Accuracy:</strong> Reprocessed entire dataset with refined extraction algorithms</li>
+                                    <li><strong>Timeline Enrichment:</strong> 9,555 documents now have timestamps (88.7% coverage)</li>
+                                </ul>
+                            </div>
+                            
+                            <!-- Version 1.1.1 -->
+                            <div style="margin-bottom: 20px; padding: 12px; background: var(--bg-light); border-radius: 8px; border-left: 3px solid #ef4444;">
+                                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+                                    <strong style="color: var(--text-dark); font-size: 0.9rem;">Version 1.1.1</strong>
+                                    <span style="color: var(--text-light); font-size: 0.8rem;">Dec 27, 2025</span>
+                                </div>
+                                <ul style="color: var(--text-light); font-size: 0.85rem; line-height: 1.6; margin: 0; padding-left: 20px;">
+                                    <li><strong>Document Relationships:</strong> Added intelligent relationship discovery system using Jaccard similarity</li>
+                                    <li><strong>Related Documents Display:</strong> Each document now shows up to 3 most relevant previous and next documents</li>
+                                    <li><strong>Color-Coded Badges:</strong> Relationships are color-coded by similarity - Red (70%+), Orange (50-70%), Yellow (30-50%), Gray (&lt;30%)</li>
+                                    <li><strong>Interactive Navigation:</strong> Click relationship badges to instantly jump to related documents with smooth scrolling</li>
+                                    <li><strong>Pulse Highlights:</strong> Target documents flash when navigated to via relationships</li>
+                                    <li><strong>Directed Graph Structure:</strong> 80,327 relationships discovered across 116,127 documents forming an explorable network</li>
+                                    <li><strong>Statistics:</strong> 19.5% of documents have relationships, averaging 0.69 relationships per document</li>
+                                    <li><strong>Zero Performance Impact:</strong> All relationships pre-calculated during analysis phase</li>
+                                </ul>
+                            </div>
+                            
+                            <!-- Version 1.1 -->
+                            <div style="margin-bottom: 20px; padding: 12px; background: var(--bg-light); border-radius: 8px; border-left: 3px solid var(--success-color);">
+                                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+                                    <strong style="color: var(--text-dark); font-size: 0.9rem;">Version 1.1</strong>
+                                    <span style="color: var(--text-light); font-size: 0.8rem;">Dec 26, 2025</span>
+                                </div>
+                                <ul style="color: var(--text-light); font-size: 0.85rem; line-height: 1.6; margin: 0; padding-left: 20px;">
+                                    <li><strong>Network Graph Clustering:</strong> Keywords now form natural clusters based on shared document counts</li>
+                                    <li><strong>Dramatic Edge Scaling:</strong> Line thickness ranges from 0.5px to 8px, clearly showing connection strength</li>
+                                    <li><strong>Graph Stabilization:</strong> Network settles within 2-3 seconds instead of constantly moving</li>
+                                    <li><strong>Real Document Connections:</strong> Graph edges now represent actual shared document counts (not estimated similarity)</li>
+                                    <li><strong>Summary Cleaning:</strong> Removed redundant "Here's a summary" prefixes from document summaries</li>
+                                    <li><strong>Visual Improvements:</strong> Added stabilization indicator, improved legend, better physics</li>
+                                </ul>
+                            </div>
+                            
+                            <!-- Version 1.0 -->
+                            <div style="padding: 12px; background: var(--bg-light); border-radius: 8px; border-left: 3px solid var(--primary-color);">
+                                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+                                    <strong style="color: var(--text-dark); font-size: 0.9rem;">Version 1.0</strong>
+                                    <span style="color: var(--text-light); font-size: 0.8rem;">Initial Release</span>
+                                </div>
+                                <ul style="color: var(--text-light); font-size: 0.85rem; line-height: 1.6; margin: 0; padding-left: 20px;">
+                                    <li>Processed 7,248 documents from files</li>
+                                    <li>Extracted and analyzed 346 keywords with 25+ occurrences</li>
+                                    <li>Built chronological timelines (2000-2025)</li>
+                                    <li>Interactive keyword search and filtering</li>
+                                    <li>Timeline by year view</li>
+                                    <li>Basic network visualization</li>
+                                    <li>Dark/light theme support</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </aside>
+
+            <!-- Content Area -->
+            <main class="content" id="content">
+                <div class="welcome">
+                    <div class="welcome-icon">🚀</div>
+                    <h2>Welcome to JETSTREAM</h2>
+                    <p><strong>Jeffrey Epstein Timeline Search, Tracking, Relationship Exploration and Analysis, and Mapping tool</strong></p>
+                    <p>Select a keyword from the sidebar to explore the document timeline. Each document is organized chronologically from 2000 to 2025.</p>
+                </div>
+            </main>
+        </div>
+
+        <!-- Disclaimer (initially hidden) -->
+        <div class="disclaimer" id="disclaimerSection" style="display: none;">
+            <h3>⚠️ Important Disclaimers</h3>
+
+            <div class="disclaimer-section">
+                <h4>📜 1. License & Usage Terms</h4>
+                <p>
+                    This website and its content are licensed under 
+                    <span class="license-badge">CC BY-NC-SA 4.0</span>
+                </p>
+                <p>
+                    <strong>You are free to:</strong> Share and adapt this material for non-commercial purposes with proper attribution.
+                </p>
+                <div class="warning-box">
+                    <p>
+                        <strong>⛔ PROHIBITED:</strong> Mass media organizations (including but not limited to WSJ, Fox News, ABC News, CNN, NYT, BBC, etc.) are explicitly prohibited from using this material.
+                    </p>
+                    <p style="margin-top: 8px;">
+                        <em>Reason:</em> Analyzing these files and making the truth public should have been their job. This project is an individual with a 1000 dollar machine spending three days vibe coding, and with concerns of correctness, it is wise for mass media to refrain from directly using these contents to not mislead the public. These organizations should use their own personals to analyze these files. However, browsing through the summaries to find interesting files are allowed.
+                    </p>
+                </div>
+            </div>
+
+            <div class="disclaimer-section">
+                <h4>🤖 2. AI-Generated Content & Accuracy</h4>
+                <p>
+                    <strong>This website was built with:</strong>
+                </p>
+                <ul style="margin-left: 20px; color: var(--text-light);">
+                    <li>LLM: <strong>Claude Sonnet 4.5</strong> (website & analysis program)</li>
+                    <li>Agent IDE: <strong><a href="https://www.cladlabs.ai/" target="_blank">ChadIDE</a></strong></li>
+                    <li>Extraction: <strong>Gemma 3 4B</strong> (summaries & keywords)</li>
+                </ul>
+                <div class="warning-box">
+                    <p>
+                        <strong>⚠️ ACCURACY NOTICE:</strong> Summaries and keywords are AI-generated. Errors WILL occur. We are NOT responsible for any inaccuracies or errors in these results.
+                    </p>
+                    <p style="margin-top: 8px;">
+                        <strong>Always verify information independently.</strong>
+                    </p>
+                </div>
+            </div>
+
+            <div class="disclaimer-section">
+                <h4>📊 3. Dataset Scope & Limitations</h4>
+                <div class="warning-box">
+                    <p>
+                        <strong>⚠️ PARTIAL DATASET:</strong> This website includes only text-based documents from FBI release volumes <strong>0001-0008</strong>.
+                    </p>
+                    <p style="margin-top: 8px;">
+                        <strong>Not included:</strong> Photos, videos, and documents from volumes 0009 and beyond are not part of this analysis.
+                    </p>
+                </div>
+                <p style="margin-top: 10px;">
+                    This represents a subset of the total released materials. Additional volumes may contain important information not reflected in this visualization.
+                </p>
+            </div>
+
+            <div class="disclaimer-section">
+                <h4>📂 4. Original Files & Verification</h4>
+                <p>
+                    <strong>Users are strongly encouraged to read the original files.</strong>
+                </p>
+                <p>
+                    All original documents are backed up and available on Telegram:
+                </p>
+                <p style="margin-top: 10px;">
+                    <strong>📱 Telegram Channel:</strong> 
+                    <a href="https://t.me/JEFile" target="_blank" rel="noopener noreferrer">t.me/JEFile</a>
+                </p>
+                <p style="margin-top: 10px; font-style: italic;">
+                    The summaries provided here are for reference only. When in doubt, consult the original documents.
+                </p>
+            </div>
+
+            <div style="margin-top: 20px; padding: 15px; background: var(--bg-light); border-radius: 10px; text-align: center;">
+                <p style="color: var(--text-light); margin: 0; font-size: 0.9rem;">
+                    By using this website, you acknowledge that you have read and agree to these terms.
+                </p>
+            </div>
+        </div>
+
+        <!-- Theme Toggle Button -->
+        <div class="theme-toggle" onclick="toggleTheme()" title="Toggle Dark Mode">
+            <span id="themeIcon">🌙</span>
+        </div>
+    </div>
+
+    <script>
+        // JETSTREAM v1.1.2 - Expanded Dataset - Dec 28, 2025
+        // Theme management
+        function toggleTheme() {
+            const html = document.documentElement;
+            const currentTheme = html.getAttribute('data-theme');
+            const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+            
+            html.setAttribute('data-theme', newTheme);
+            localStorage.setItem('theme', newTheme);
+            
+            // Update icon
+            document.getElementById('themeIcon').textContent = newTheme === 'dark' ? '☀️' : '🌙';
+        }
+
+        // Load saved theme
+        function loadTheme() {
+            const savedTheme = localStorage.getItem('theme') || 'light';
+            document.documentElement.setAttribute('data-theme', savedTheme);
+            document.getElementById('themeIcon').textContent = savedTheme === 'dark' ? '☀️' : '🌙';
+        }
+
+        // Initialize theme on load
+        loadTheme();
+        // Global data
+        let indexData = null;
+        let allKeywords = [];
+        let currentKeyword = null;
+        let timelineByYearData = null;
+        let currentMode = 'keywords'; // 'keywords' or 'years'
+
+        // Load index data
+        async function loadIndex() {
+            try {
+                const response = await fetch('data/index.json');
+                indexData = await response.json();
+                allKeywords = indexData.top_keywords;
+                displayStats();
+                displayKeywords(allKeywords);
+                displayYears();
+            } catch (error) {
+                console.error('Error loading index:', error);
+                document.getElementById('content').innerHTML = '<div class="error">Error loading data. Please ensure the data files are in the correct location.</div>';
+            }
+        }
+
+        // Display statistics
+        function displayStats() {
+            const stats = document.getElementById('stats');
+            stats.innerHTML = `
+                <div class="stat">
+                    <div class="stat-icon">📄</div>
+                    <div class="stat-text">
+                        <div class="stat-value">${indexData.metadata.total_files.toLocaleString()}</div>
+                        <div class="stat-label">Total Files</div>
+                    </div>
+                </div>
+                <div class="stat">
+                    <div class="stat-icon">🔑</div>
+                    <div class="stat-text">
+                        <div class="stat-value">${indexData.metadata.total_keywords.toLocaleString()}</div>
+                        <div class="stat-label">Keywords Found</div>
+                    </div>
+                </div>
+                <div class="stat">
+                    <div class="stat-icon">⭐</div>
+                    <div class="stat-text">
+                        <div class="stat-value">${indexData.metadata.keywords_included || indexData.metadata.top_n}</div>
+                        <div class="stat-label">Keywords (${indexData.metadata.min_occurrences || 25}+ hits)</div>
+                    </div>
+                </div>
+                <div class="stat">
+                    <div class="stat-icon">📅</div>
+                    <div class="stat-text">
+                        <div class="stat-value">2000-2025</div>
+                        <div class="stat-label">Date Range</div>
+                    </div>
+                </div>
+            `;
+            
+            // Also update About tab stats
+            const aboutStats = document.getElementById('aboutStats');
+            if (aboutStats) {
+                aboutStats.innerHTML = `
+                    📊 <strong>${indexData.metadata.total_files.toLocaleString()} files</strong> analyzed<br>
+                    🔑 <strong>${indexData.metadata.keywords_included || indexData.metadata.top_n} keywords</strong> tracked (${indexData.metadata.min_occurrences || 25}+ hits)<br>
+                    📅 <strong>2000-2025</strong> timeline
+                `;
+            }
+        }
+
+        // Display keywords
+        function displayKeywords(keywords) {
+            const list = document.getElementById('keywordList');
+            list.innerHTML = keywords.map((kw, index) => `
+                <div class="keyword-item" data-keyword="${escapeHtml(kw.keyword)}">
+                    <span class="keyword-name">${escapeHtml(kw.keyword)}</span>
+                    <span class="keyword-count">${kw.total_files || kw.count}</span>
+                </div>
+            `).join('');
+            
+            // Add click event listeners after rendering
+            const items = list.querySelectorAll('.keyword-item');
+            items.forEach(item => {
+                item.addEventListener('click', () => {
+                    const keywordName = item.getAttribute('data-keyword');
+                    selectKeywordByName(keywordName);
+                });
+            });
+        }
+
+        // Switch tabs
+        function switchTab(tab) {
+            currentMode = tab;
+            
+            // Update tab buttons
+            document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+            document.querySelectorAll('.tab-content').forEach(tc => tc.classList.remove('active'));
+            
+            const tabs = document.querySelectorAll('.tab');
+            if (tab === 'keywords') {
+                tabs[0].classList.add('active');
+                document.getElementById('keywordsTab').classList.add('active');
+                // Show welcome screen
+                document.getElementById('content').innerHTML = `
+                    <div class="welcome">
+                        <div class="welcome-icon">📊</div>
+                        <h2>Select a Keyword</h2>
+                        <p>Choose a keyword from the list to explore its timeline.</p>
+                    </div>
+                `;
+            } else if (tab === 'years') {
+                tabs[1].classList.add('active');
+                document.getElementById('yearsTab').classList.add('active');
+                // Show welcome screen
+                document.getElementById('content').innerHTML = `
+                    <div class="welcome">
+                        <div class="welcome-icon">📅</div>
+                        <h2>Select a Year</h2>
+                        <p>Choose a year to see all documents from that time period.</p>
+                    </div>
+                `;
+            } else if (tab === 'network') {
+                tabs[2].classList.add('active');
+                document.getElementById('networkTab').classList.add('active');
+                // Show network visualization
+                showNetworkVisualization();
+            } else if (tab === 'about') {
+                tabs[3].classList.add('active');
+                document.getElementById('aboutTab').classList.add('active');
+                // Show disclaimer in main content
+                showDisclaimerInMain();
+            }
+        }
+
+        // Show disclaimer in main content area
+        function showDisclaimerInMain() {
+            const disclaimerHTML = document.getElementById('disclaimerSection').innerHTML;
+            document.getElementById('content').innerHTML = `
+                <div style="max-width: 900px; margin: 0 auto;">
+                    ${disclaimerHTML}
+                </div>
+            `;
+            // Switch to about tab if not already there
+            if (currentMode !== 'about') {
+                switchTab('about');
+            }
+        }
+
+        // Display years
+        function displayYears() {
+            if (!indexData.timeline_by_year) return;
+            
+            const list = document.getElementById('yearList');
+            const years = indexData.timeline_by_year.years.sort((a, b) => b - a); // Newest first
+            
+            // Load timeline data to get counts per year
+            fetch('data/timeline_by_year.json')
+                .then(res => res.json())
+                .then(data => {
+                    timelineByYearData = data;
+                    list.innerHTML = years.map(year => `
+                        <div class="year-item" onclick="selectYear(${year})">
+                            <span class="year-name">📅 ${year}</span>
+                            <span class="year-count">${data[year] ? data[year].length : 0}</span>
+                        </div>
+                    `).join('');
+                });
+        }
+
+        // Select year
+        async function selectYear(year) {
+            // Update active state
+            document.querySelectorAll('.year-item').forEach(item => {
+                item.classList.remove('active');
+            });
+            event.target.closest('.year-item')?.classList.add('active');
+
+            // Show loading
+            document.getElementById('content').innerHTML = `
+                <div class="loading">
+                    <div class="spinner"></div>
+                    <p>Loading documents from ${year}...</p>
+                </div>
+            `;
+
+            // Display timeline
+            if (timelineByYearData && timelineByYearData[year]) {
+                displayYearTimeline(year, timelineByYearData[year]);
+            }
+        }
+
+        // Display year timeline
+        function displayYearTimeline(year, entries) {
+            let html = `
+                <div class="timeline-header">
+                    <h2>📅 ${year}</h2>
+                    <div class="timeline-stats">
+                        <span>📄 ${entries.length} documents</span>
+                    </div>
+                </div>
+                <div class="timeline">
+            `;
+
+            entries.forEach(entry => {
+                html += createTimelineItem(entry, false, null);
+            });
+
+            html += '</div>';
+            document.getElementById('content').innerHTML = html;
+        }
+
+        // Search keywords
+        document.addEventListener('DOMContentLoaded', () => {
+            const searchInput = document.getElementById('searchInput');
+            searchInput.addEventListener('input', (e) => {
+                const query = e.target.value.toLowerCase();
+                const filtered = allKeywords.filter(kw => 
+                    kw.keyword.toLowerCase().includes(query)
+                );
+                displayKeywords(filtered);
+            });
+        });
+
+        // Select keyword by index (used for click events)
+        async function selectKeywordByIndex(index) {
+            await selectKeyword(index);
+        }
+
+        // Select keyword by name (used after search)
+        async function selectKeywordByName(keywordName) {
+            // Find the keyword in allKeywords
+            const index = allKeywords.findIndex(kw => kw.keyword === keywordName);
+            if (index === -1) {
+                console.error('Keyword not found:', keywordName);
+                return;
+            }
+            
+            await selectKeyword(index);
+        }
+
+        // Select keyword by index
+        async function selectKeyword(index) {
+            const keyword = allKeywords[index];
+            currentKeyword = keyword;
+
+            // Update active state using keyword name
+            document.querySelectorAll('.keyword-item').forEach(item => {
+                item.classList.remove('active');
+            });
+            // Find and activate the item with matching keyword
+            document.querySelectorAll('.keyword-item').forEach(item => {
+                if (item.getAttribute('data-keyword') === keyword.keyword) {
+                    item.classList.add('active');
+                }
+            });
+
+            // Show loading
+            document.getElementById('content').innerHTML = `
+                <div class="loading">
+                    <div class="spinner"></div>
+                    <p>Loading timeline for "${escapeHtml(keyword.keyword)}"...</p>
+                </div>
+            `;
+
+            // Load keyword data
+            try {
+                const filename = `keyword_${String(index + 1).padStart(3, '0')}_${sanitizeFilename(keyword.keyword)}.json`;
+                const response = await fetch(`data/${filename}`);
+                const data = await response.json();
+                displayTimeline(data);
+            } catch (error) {
+                console.error('Error loading keyword data:', error);
+                document.getElementById('content').innerHTML = '<div class="error">Error loading timeline data.</div>';
+            }
+        }
+
+        // Display timeline
+        function displayTimeline(data) {
+            const entriesWithDates = data.timeline.filter(e => e.timestamp);
+            const entriesWithoutDates = data.timeline.filter(e => !e.timestamp);
+            
+            // Use the counts from data rather than filtering timeline
+            const keywordMatches = data.keyword_match_count || data.timeline.filter(e => e.match_type === 'keyword').length;
+            const contentMatches = data.content_match_count || data.timeline.filter(e => e.match_type === 'content').length;
+
+            let html = `
+                <div class="timeline-header">
+                    <h2>${escapeHtml(data.keyword)}</h2>
+                    <div class="timeline-stats">
+                        <span>📊 ${data.count} keyword occurrences</span>
+                        <span>🔑 ${keywordMatches} keyword matches</span>
+                        <span>📝 ${contentMatches} content matches</span>
+                        <span>📅 ${entriesWithDates.length} with dates</span>
+                    </div>
+                </div>
+                <div class="timeline">
+            `;
+
+            // Entries with dates
+            entriesWithDates.forEach(entry => {
+                html += createTimelineItem(entry, false, data.keyword);
+            });
+
+            // Entries without dates
+            if (entriesWithoutDates.length > 0) {
+                html += `
+                    <div class="timeline-item">
+                        <div class="timeline-card">
+                            <div class="timeline-date no-date">📅 Undated Documents (${entriesWithoutDates.length})</div>
+                        </div>
+                    </div>
+                `;
+                entriesWithoutDates.slice(0, 10).forEach(entry => {
+                    html += createTimelineItem(entry, true, data.keyword);
+                });
+                if (entriesWithoutDates.length > 10) {
+                    html += `<p style="text-align: center; color: var(--text-light); margin-top: 20px;">... and ${entriesWithoutDates.length - 10} more undated documents</p>`;
+                }
+            }
+
+            html += '</div>';
+            document.getElementById('content').innerHTML = html;
+        }
+
+        // Simple markdown parser
+        function parseMarkdown(text) {
+            if (!text) return '';
+            
+            // Escape HTML first
+            let html = escapeHtml(text);
+            
+            // Bold: **text** or __text__
+            html = html.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+            html = html.replace(/__(.+?)__/g, '<strong>$1</strong>');
+            
+            // Italic: *text* or _text_
+            html = html.replace(/\*(.+?)\*/g, '<em>$1</em>');
+            html = html.replace(/_(.+?)_/g, '<em>$1</em>');
+            
+            // Code: `text`
+            html = html.replace(/`(.+?)`/g, '<code>$1</code>');
+            
+            // Links: [text](url)
+            html = html.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank" rel="noopener noreferrer">$1</a>');
+            
+            // Line breaks
+            html = html.replace(/\n/g, '<br>');
+            
+            // Lists (simple bullet points starting with * or -)
+            html = html.replace(/^[\*\-]\s+(.+)$/gm, '<li>$1</li>');
+            html = html.replace(/(<li>.*<\/li>)/s, '<ul>$1</ul>');
+            
+            return html;
+        }
+
+        // Highlight keyword in text
+        function highlightKeyword(text, keyword) {
+            if (!text || !keyword) return text;
+            
+            // Escape regex special characters in keyword
+            const escapedKeyword = keyword.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+            
+            // Create case-insensitive regex
+            const regex = new RegExp(`(${escapedKeyword})`, 'gi');
+            
+            // Replace with highlighted version
+            return text.replace(regex, '<mark class="keyword-highlight">$1</mark>');
+        }
+
+        // Create timeline item
+        function createTimelineItem(entry, noDate = false, searchKeyword = null) {
+            const keywords = entry.keywords.slice(0, 10); // Limit to 10 keywords
+            // Use consistent date format for display (from ISO timestamp)
+            const displayDate = entry.timestamp ? formatDate(entry.timestamp) : null;
+            
+            // Determine match type badge - check if match_type exists
+            const matchType = entry.match_type || 'keyword';
+            const matchBadgeText = matchType === 'content' ? '📝 Content Match' : '🔑 Keyword Match';
+            const matchBadgeClass = matchType === 'content' ? 'innertext' : 'keyword';
+            
+            // Debug logging
+            if (matchType === 'content') {
+                console.log('Content badge:', {
+                    file_id: entry.file_id,
+                    matchType: matchType,
+                    badgeText: matchBadgeText,
+                    badgeClass: matchBadgeClass
+                });
+            }
+            
+            // Parse markdown first, then highlight keyword
+            let summaryHtml = parseMarkdown(entry.summary);
+            if (searchKeyword) {
+                summaryHtml = highlightKeyword(summaryHtml, searchKeyword);
+            }
+            
+            // Highlight matching keywords in the keyword tags
+            const searchKeywordLower = searchKeyword ? searchKeyword.toLowerCase() : null;
+            const keywordTags = keywords.map(kw => {
+                const isMatch = searchKeywordLower && kw.toLowerCase() === searchKeywordLower;
+                return `<span class="tag ${isMatch ? 'highlighted' : ''}">${escapeHtml(kw)}</span>`;
+            }).join('');
+            
+            // Generate relationship links
+            const relationshipsHtml = createRelationshipsHtml(entry);
+            
+            return `
+                <div class="timeline-item" data-file-id="${escapeHtml(entry.file_id)}">
+                    <div class="timeline-card">
+                        ${displayDate ? `<div class="timeline-date">📅 ${displayDate}</div>` : ''}
+                        <div class="timeline-file">
+                            📄 ${escapeHtml(entry.file_id)}
+                            <span class="match-badge ${matchBadgeClass}">${matchBadgeText}</span>
+                        </div>
+                        <div class="timeline-summary">${summaryHtml}</div>
+                        <div class="timeline-keywords">
+                            ${keywordTags}
+                            ${entry.keywords.length > 10 ? `<span class="tag">+${entry.keywords.length - 10} more</span>` : ''}
+                        </div>
+                        ${relationshipsHtml}
+                    </div>
+                </div>
+            `;
+        }
+
+        // Create relationships HTML
+        function createRelationshipsHtml(entry) {
+            const relationships = entry.relationships;
+            if (!relationships || (!relationships.previous?.length && !relationships.next?.length)) {
+                return '';
+            }
+
+            let html = '<div class="timeline-relationships">';
+            html += '<div class="relationships-header">🔗 Related Documents</div>';
+
+            // Previous documents
+            if (relationships.previous && relationships.previous.length > 0) {
+                html += '<div class="relationships-section">';
+                html += '<div class="relationship-label">⬆️ Previous Related</div>';
+                html += '<div class="relationship-links">';
+                relationships.previous.forEach(rel => {
+                    const percentage = Math.round(rel.similarity * 100);
+                    html += `
+                        <a class="relationship-link ${rel.category}" 
+                           onclick="scrollToDocument('${rel.file_id}')" 
+                           title="Similarity: ${percentage}% - Click to view">
+                            <span class="relationship-icon">📄</span>
+                            <span>${escapeHtml(rel.file_id)}</span>
+                            <span class="similarity-score">${percentage}%</span>
+                        </a>
+                    `;
+                });
+                html += '</div></div>';
+            }
+
+            // Next documents
+            if (relationships.next && relationships.next.length > 0) {
+                html += '<div class="relationships-section">';
+                html += '<div class="relationship-label">⬇️ Next Related</div>';
+                html += '<div class="relationship-links">';
+                relationships.next.forEach(rel => {
+                    const percentage = Math.round(rel.similarity * 100);
+                    html += `
+                        <a class="relationship-link ${rel.category}" 
+                           onclick="scrollToDocument('${rel.file_id}')" 
+                           title="Similarity: ${percentage}% - Click to view">
+                            <span class="relationship-icon">📄</span>
+                            <span>${escapeHtml(rel.file_id)}</span>
+                            <span class="similarity-score">${percentage}%</span>
+                        </a>
+                    `;
+                });
+                html += '</div></div>';
+            }
+
+            html += '</div>';
+            return html;
+        }
+
+        // Scroll to a specific document in the timeline
+        function scrollToDocument(fileId) {
+            const element = document.querySelector(`[data-file-id="${fileId}"]`);
+            if (element) {
+                element.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                // Highlight the element briefly
+                element.style.animation = 'none';
+                setTimeout(() => {
+                    element.style.animation = 'pulse 1s ease-in-out';
+                }, 10);
+            }
+        }
+
+        // Utility functions
+        function sanitizeFilename(keyword) {
+            // Match Python sanitization logic exactly
+            let safe = keyword.toLowerCase();
+            safe = safe.replace(/\s+/g, '_');  // spaces to underscores
+            safe = safe.replace(/\//g, '_');   // forward slash
+            safe = safe.replace(/\\/g, '_');   // backslash
+            safe = safe.replace(/:/g, '_');    // colon
+            safe = safe.replace(/\*/g, '_');   // asterisk
+            safe = safe.replace(/\?/g, '_');   // question mark
+            safe = safe.replace(/"/g, '_');    // quotes
+            safe = safe.replace(/</g, '_');    // less than
+            safe = safe.replace(/>/g, '_');    // greater than
+            safe = safe.replace(/\|/g, '_');   // pipe
+            safe = safe.replace(/\./g, '_');   // period
+            // NOTE: hyphens are KEPT (not replaced)
+            return safe.substring(0, 50);
+        }
+
+        function formatDate(isoDate) {
+            try {
+                const date = new Date(isoDate);
+                // Format as: "Jan 15, 2020"
+                return date.toLocaleDateString('en-US', { 
+                    year: 'numeric', 
+                    month: 'short', 
+                    day: 'numeric' 
+                });
+            } catch (e) {
+                return isoDate;
+            }
+        }
+
+        function formatDateConsistent(isoDate) {
+            try {
+                const date = new Date(isoDate);
+                // Format as: "2020-01-15" for consistent sorting display
+                const year = date.getFullYear();
+                const month = String(date.getMonth() + 1).padStart(2, '0');
+                const day = String(date.getDate()).padStart(2, '0');
+                return `${year}-${month}-${day}`;
+            } catch (e) {
+                return isoDate;
+            }
+        }
+
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+
+        // Network Visualization
+        let networkData = null;
+        let canvas, ctx, tooltip;
+        let nodes = [];
+        let edges = [];
+        let dragNode = null;
+        let offsetX = 0, offsetY = 0;
+        let animationId = null;
+
+        function updateNetworkSettings() {
+            document.getElementById('minCountValue').textContent = document.getElementById('minCount').value;
+            document.getElementById('connectionStrengthValue').textContent = document.getElementById('connectionStrength').value;
+            document.getElementById('maxNodesValue').textContent = document.getElementById('maxNodes').value;
+        }
+
+        function showNetworkVisualization() {
+            if (!indexData || !indexData.top_keywords) {
+                document.getElementById('content').innerHTML = `
+                    <div class="loading">
+                        <div class="spinner"></div>
+                        <p>Loading data for network visualization...</p>
+                    </div>
+                `;
+                // Wait for data to load
+                setTimeout(showNetworkVisualization, 500);
+                return;
+            }
+            
+            document.getElementById('content').innerHTML = `
+                <div class="network-info">
+                    <h3 style="color: var(--primary-color); margin-bottom: 10px;">Keyword Connection Network</h3>
+                    <p style="color: var(--text-light); font-size: 0.9rem; margin-bottom: 10px;">
+                        This interactive network shows how keywords are connected by shared documents. 
+                        Keywords cluster together based on connection strength. <strong>Thicker lines = more shared documents</strong>, pulling keywords closer together.
+                    </p>
+                    <div class="network-legend">
+                        <div class="legend-item">
+                            <div class="legend-circle" style="background: #3b82f6; width: 20px; height: 20px;"></div>
+                            <span>Large node = High occurrence</span>
+                        </div>
+                        <div class="legend-item">
+                            <div class="legend-circle" style="background: #3b82f6; width: 10px; height: 10px;"></div>
+                            <span>Small node = Low occurrence</span>
+                        </div>
+                        <div class="legend-item">
+                            <div style="width: 40px; height: 1px; background: rgba(59, 130, 246, 0.3);"></div>
+                            <span>Thin line = Few shared docs (1-10)</span>
+                        </div>
+                        <div class="legend-item">
+                            <div style="width: 40px; height: 4px; background: rgba(59, 130, 246, 0.7);"></div>
+                            <span>Thick line = Many shared docs (50+)</span>
+                        </div>
+                    </div>
+                </div>
+                <div id="networkContainer">
+                    <canvas id="networkCanvas"></canvas>
+                </div>
+                <div class="network-tooltip" id="networkTooltip"></div>
+            `;
+            
+            setTimeout(() => {
+                initializeNetwork();
+                generateNetwork();
+            }, 100);
+        }
+
+        function initializeNetwork() {
+            canvas = document.getElementById('networkCanvas');
+            if (!canvas) {
+                console.error('Canvas element not found');
+                return;
+            }
+            
+            ctx = canvas.getContext('2d');
+            tooltip = document.getElementById('networkTooltip');
+            
+            const container = document.getElementById('networkContainer');
+            if (!container) {
+                console.error('Container element not found');
+                return;
+            }
+            
+            canvas.width = container.clientWidth;
+            canvas.height = container.clientHeight;
+            
+            console.log('Canvas initialized:', canvas.width, 'x', canvas.height);
+            
+            canvas.addEventListener('mousedown', handleMouseDown);
+            canvas.addEventListener('mousemove', handleMouseMove);
+            canvas.addEventListener('mouseup', handleMouseUp);
+            canvas.addEventListener('mouseleave', handleMouseLeave);
+        }
+
+        function generateNetwork() {
+            if (!indexData || !indexData.top_keywords) {
+                console.error('Index data not loaded yet');
+                return;
+            }
+            
+            if (animationId) cancelAnimationFrame(animationId);
+            
+            // Show status indicator
+            const statusEl = document.getElementById('networkStatus');
+            if (statusEl) {
+                statusEl.style.display = 'block';
+            }
+            
+            const minCount = parseInt(document.getElementById('minCount').value);
+            const connectionStrength = parseInt(document.getElementById('connectionStrength').value);
+            const maxNodes = parseInt(document.getElementById('maxNodes').value);
+            
+            console.log('Generating network with:', { minCount, connectionStrength, maxNodes, totalKeywords: indexData.top_keywords.length });
+            
+            const keywords = indexData.top_keywords
+                .filter(k => k.count >= minCount)
+                .slice(0, maxNodes);
+            
+            console.log('Filtered keywords:', keywords.length);
+            
+            // Use actual document connection data from index
+            const keywordConnections = indexData.keyword_connections || {};
+            
+            const coOccurrence = {};
+            keywords.forEach(k => { coOccurrence[k.keyword] = {}; });
+            
+            keywords.forEach((k1, i) => {
+                keywords.forEach((k2, j) => {
+                    if (i >= j) return;
+                    
+                    // Get the number of shared documents between these two keywords
+                    let sharedDocs = 0;
+                    if (keywordConnections[k1.keyword] && keywordConnections[k1.keyword][k2.keyword]) {
+                        sharedDocs = keywordConnections[k1.keyword][k2.keyword];
+                    } else if (keywordConnections[k2.keyword] && keywordConnections[k2.keyword][k1.keyword]) {
+                        sharedDocs = keywordConnections[k2.keyword][k1.keyword];
+                    }
+                    
+                    // Only create connection if they share documents and meet the threshold
+                    if (sharedDocs >= connectionStrength) {
+                        coOccurrence[k1.keyword][k2.keyword] = sharedDocs;
+                        coOccurrence[k2.keyword][k1.keyword] = sharedDocs;
+                    }
+                });
+            });
+            
+            const centerX = canvas.width / 2;
+            const centerY = canvas.height / 2;
+            const maxRadius = Math.min(canvas.width, canvas.height) * 0.35;
+            
+            // Create nodes with better initial spacing
+            nodes = keywords.map((k, i) => {
+                const angle = (i / keywords.length) * Math.PI * 2;
+                // Use circular layout with slight randomization
+                const radiusVariation = 0.8 + Math.random() * 0.4;
+                const radius = maxRadius * radiusVariation;
+                return {
+                    keyword: k.keyword,
+                    count: k.count,
+                    x: centerX + Math.cos(angle) * radius,
+                    y: centerY + Math.sin(angle) * radius,
+                    vx: 0,
+                    vy: 0,
+                    radius: Math.sqrt(k.count) * 2 + 5
+                };
+            });
+            
+            edges = [];
+            keywords.forEach((k1, i) => {
+                keywords.forEach((k2, j) => {
+                    if (i >= j) return;
+                    const strength = coOccurrence[k1.keyword][k2.keyword];
+                    if (strength) {
+                        edges.push({ source: i, target: j, strength: strength });
+                    }
+                });
+            });
+            
+            animateNetwork();
+        }
+
+        function calculateKeywordSimilarity(k1, k2, count1, count2) {
+            k1 = k1.toLowerCase();
+            k2 = k2.toLowerCase();
+            
+            const words1 = k1.split(/[\s_-]+/);
+            const words2 = k2.split(/[\s_-]+/);
+            
+            let sharedWords = 0;
+            words1.forEach(w1 => {
+                words2.forEach(w2 => {
+                    if (w1 === w2 && w1.length > 3) sharedWords++;
+                });
+            });
+            
+            const contains = k1.includes(k2) || k2.includes(k1);
+            const semantic = checkSemanticRelationship(k1, k2);
+            
+            let score = 0;
+            if (sharedWords > 0) score += sharedWords * 4;
+            if (contains) score += 5;
+            if (semantic) score += 3;
+            
+            const countRatio = Math.min(count1, count2) / Math.max(count1, count2);
+            score *= countRatio;
+            
+            return score;
+        }
+
+        function checkSemanticRelationship(k1, k2) {
+            const relatedGroups = [
+                ['epstein', 'jeffrey', 'maxwell', 'ghislaine'],
+                ['fbi', 'investigation', 'prosecutor', 'attorney', 'case', 'legal'],
+                ['victim', 'witness', 'testimony', 'interview'],
+                ['document', 'email', 'letter', 'file', 'records'],
+                ['court', 'trial', 'judge', 'hearing', 'litigation'],
+                ['florida', 'palm beach', 'new york', 'miami'],
+                ['abuse', 'trafficking', 'exploitation', 'sexual'],
+            ];
+            
+            for (const group of relatedGroups) {
+                const in1 = group.some(word => k1.includes(word));
+                const in2 = group.some(word => k2.includes(word));
+                if (in1 && in2) return true;
+            }
+            return false;
+        }
+
+        function animateNetwork() {
+            // Check if network has settled (all velocities are very small)
+            const maxVelocity = Math.max(...nodes.map(n => Math.abs(n.vx) + Math.abs(n.vy)));
+            
+            // Update status indicator
+            const statusEl = document.getElementById('networkStatus');
+            if (statusEl) {
+                if (maxVelocity < 0.01 && !dragNode) {
+                    statusEl.style.display = 'none';
+                } else {
+                    statusEl.style.display = 'block';
+                }
+            }
+            
+            // If settled and no node is being dragged, stop animating
+            if (maxVelocity < 0.01 && !dragNode) {
+                drawNetwork();
+                return; // Stop the animation loop
+            }
+            
+            const centerX = canvas.width / 2;
+            const centerY = canvas.height / 2;
+            
+            // Repulsion between all nodes (keeps them apart but allows clustering)
+            for (let i = 0; i < nodes.length; i++) {
+                for (let j = i + 1; j < nodes.length; j++) {
+                    const dx = nodes[j].x - nodes[i].x;
+                    const dy = nodes[j].y - nodes[i].y;
+                    const dist = Math.sqrt(dx * dx + dy * dy) || 1;
+                    
+                    // Stronger repulsion at close range, weaker at distance
+                    // This allows clusters to form while preventing overlap
+                    const minDist = nodes[i].radius + nodes[j].radius + 20;
+                    if (dist < minDist) {
+                        // Strong repulsion when too close
+                        const force = 500 / (dist * dist);
+                        nodes[i].vx -= (dx / dist) * force;
+                        nodes[i].vy -= (dy / dist) * force;
+                        nodes[j].vx += (dx / dist) * force;
+                        nodes[j].vy += (dy / dist) * force;
+                    } else {
+                        // Weak repulsion at normal distances - allows clustering
+                        const force = 100 / (dist * dist);
+                        nodes[i].vx -= (dx / dist) * force;
+                        nodes[i].vy -= (dy / dist) * force;
+                        nodes[j].vx += (dx / dist) * force;
+                        nodes[j].vy += (dy / dist) * force;
+                    }
+                }
+            }
+            
+            // Attraction along edges (pulls connected nodes together)
+            edges.forEach(edge => {
+                const source = nodes[edge.source];
+                const target = nodes[edge.target];
+                const dx = target.x - source.x;
+                const dy = target.y - source.y;
+                const dist = Math.sqrt(dx * dx + dy * dy) || 1;
+                
+                // Ideal distance inversely proportional to connection strength
+                // Strong connections (100+ docs) want to be closer (80px)
+                // Weak connections (1-10 docs) can be farther (200px)
+                const idealDistance = 200 - Math.min(edge.strength * 1.2, 120);
+                
+                // Force proportional to connection strength - creates clustering!
+                // More shared docs = stronger pull = tighter clusters
+                const force = (dist - idealDistance) * 0.01 * Math.sqrt(edge.strength);
+                
+                source.vx += (dx / dist) * force;
+                source.vy += (dy / dist) * force;
+                target.vx -= (dx / dist) * force;
+                target.vy -= (dy / dist) * force;
+            });
+            
+            // Apply forces and update positions
+            nodes.forEach(node => {
+                // Very weak center pull - allow clusters to form naturally
+                // Only prevents nodes from drifting too far off-screen
+                const dx = centerX - node.x;
+                const dy = centerY - node.y;
+                const distFromCenter = Math.sqrt(dx * dx + dy * dy);
+                
+                // Only pull toward center if getting too far away
+                if (distFromCenter > canvas.width * 0.4) {
+                    node.vx += dx * 0.00002;
+                    node.vy += dy * 0.00002;
+                }
+                
+                // Update position
+                node.x += node.vx;
+                node.y += node.vy;
+                
+                // Apply damping (friction) - higher value = more damping
+                node.vx *= 0.85; // Increased from 0.9 for faster settling
+                node.vy *= 0.85;
+                
+                // Keep within bounds
+                const margin = 50;
+                node.x = Math.max(margin, Math.min(canvas.width - margin, node.x));
+                node.y = Math.max(margin, Math.min(canvas.height - margin, node.y));
+            });
+            
+            drawNetwork();
+            animationId = requestAnimationFrame(animateNetwork);
+        }
+
+        function drawNetwork() {
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+            
+            // Find max strength for scaling
+            const maxStrength = Math.max(...edges.map(e => e.strength), 1);
+            
+            edges.forEach(edge => {
+                const source = nodes[edge.source];
+                const target = nodes[edge.target];
+                
+                ctx.beginPath();
+                ctx.moveTo(source.x, source.y);
+                ctx.lineTo(target.x, target.y);
+                
+                // More dramatic opacity scaling
+                // 1 doc = 0.15, 50 docs = 0.5, 100+ docs = 0.8
+                const normalizedStrength = edge.strength / maxStrength;
+                const opacity = 0.15 + (normalizedStrength * 0.65);
+                ctx.strokeStyle = `rgba(59, 130, 246, ${opacity})`;
+                
+                // More dramatic line width scaling using square root
+                // 1 doc = 0.5px, 10 docs = 2px, 50 docs = 4.5px, 100 docs = 6px, 200+ docs = 8px
+                const lineWidth = 0.5 + Math.sqrt(edge.strength) * 0.6;
+                ctx.lineWidth = Math.min(lineWidth, 8);
+                ctx.stroke();
+            });
+            
+            nodes.forEach(node => {
+                ctx.beginPath();
+                ctx.arc(node.x, node.y, node.radius, 0, Math.PI * 2);
+                ctx.fillStyle = '#3b82f6';
+                ctx.fill();
+                ctx.strokeStyle = '#1e40af';
+                ctx.lineWidth = 2;
+                ctx.stroke();
+                
+                ctx.fillStyle = '#1f2937';
+                ctx.font = `${Math.min(node.radius / 2 + 8, 12)}px Arial`;
+                ctx.textAlign = 'center';
+                ctx.textBaseline = 'middle';
+                const text = node.keyword.length > 15 ? node.keyword.substring(0, 15) + '...' : node.keyword;
+                ctx.fillText(text, node.x, node.y + node.radius + 15);
+            });
+        }
+
+        function handleMouseDown(e) {
+            const rect = canvas.getBoundingClientRect();
+            const x = e.clientX - rect.left;
+            const y = e.clientY - rect.top;
+            
+            dragNode = nodes.find(node => {
+                const dx = node.x - x;
+                const dy = node.y - y;
+                return Math.sqrt(dx * dx + dy * dy) <= node.radius;
+            });
+            
+            if (dragNode) {
+                offsetX = x - dragNode.x;
+                offsetY = y - dragNode.y;
+                // Restart animation when user starts dragging
+                if (!animationId) {
+                    animateNetwork();
+                }
+            }
+        }
+
+        function handleMouseMove(e) {
+            const rect = canvas.getBoundingClientRect();
+            const x = e.clientX - rect.left;
+            const y = e.clientY - rect.top;
+            
+            if (dragNode) {
+                dragNode.x = x - offsetX;
+                dragNode.y = y - offsetY;
+                dragNode.vx = 0;
+                dragNode.vy = 0;
+                // Keep drawing while dragging
+                drawNetwork();
+            } else {
+                const hoveredNode = nodes.find(node => {
+                    const dx = node.x - x;
+                    const dy = node.y - y;
+                    return Math.sqrt(dx * dx + dy * dy) <= node.radius;
+                });
+                
+                if (hoveredNode) {
+                    tooltip.innerHTML = `
+                        <strong>${hoveredNode.keyword}</strong><br>
+                        Count: ${hoveredNode.count.toLocaleString()}<br>
+                        Click to view details
+                    `;
+                    tooltip.style.left = (e.clientX + 10) + 'px';
+                    tooltip.style.top = (e.clientY + 10) + 'px';
+                    tooltip.classList.add('visible');
+                    canvas.style.cursor = 'pointer';
+                } else {
+                    tooltip.classList.remove('visible');
+                    canvas.style.cursor = 'grab';
+                }
+            }
+        }
+
+        function handleMouseUp(e) {
+            if (dragNode) {
+                const rect = canvas.getBoundingClientRect();
+                const x = e.clientX - rect.left;
+                const y = e.clientY - rect.top;
+                
+                const dx = dragNode.x - x;
+                const dy = dragNode.y - y;
+                const dist = Math.sqrt(dx * dx + dy * dy);
+                
+                if (dist < 5) {
+                    // It was a click, not a drag - load the keyword
+                    selectKeywordByName(dragNode.keyword);
+                    switchTab('keywords');
+                }
+            }
+            dragNode = null;
+        }
+
+        function handleMouseLeave() {
+            tooltip.classList.remove('visible');
+            dragNode = null;
+        }
+
+        // Initialize
+        loadIndex();
+    </script>
+</body>
+</html>

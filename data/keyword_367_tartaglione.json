@@ -1,0 +1,1744 @@
+{
+  "keyword": "tartaglione",
+  "count": 47,
+  "keyword_match_count": 47,
+  "content_match_count": 24,
+  "total_files": 71,
+  "timeline": [
+    {
+      "file_id": "EFTA00017095",
+      "summary": "This document is a legal filing by The New York Times Company and reporter Benjamin Weiser regarding the Government’s attempt to seal judicial records in the United States v. Tartaglione case. The Times argues that the records, pertaining to the transfer of defendant Nicholas Tartaglione from the Metropolitan Correctional Center (MCC), are subject to the common law and First Amendment rights of access. Specifically, the records detail Tartaglione’s claims of unsafe conditions at the MCC, stemming from interactions with former cellmate Jeffrey Epstein, and the Government’s subsequent response. The Times contends that these documents constitute “judicial documents” under Second Circuit jurisprudence—relevant to the judicial function, carrying a presumption of access, and possessing significant value for monitoring federal courts. The Times disputes the Government’s justification for sealing the records, asserting that disclosing information about BOP deliberations would not unduly influence inmate behavior or compromise law enforcement functions. They argue that the public interest in transparency regarding the judicial process, particularly in this high-profile case involving Epstein’s suicide, outweighs any potential concerns. The filing concludes by requesting that the Court deny the Government’s application to seal the documents.",
+      "timestamp": "2019-03-21T00:00:00",
+      "timestamp_raw": "Mar. 21, 2019",
+      "keywords": [
+        "new york times",
+        "united states v. tartaglione",
+        "access",
+        "first amendment",
+        "judicial documents",
+        "redaction",
+        "bop",
+        "criminal prosecution",
+        "detention",
+        "public right",
+        "criminal defense"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034639",
+      "summary": "On July 10, 2019, a Chief Psychologist at the Metropolitan Correctional Center inquired about whether Tartaglione was seen. The psychologist responded that he had seen him, was completing report writing, and was entering patient notes. They also discussed a potential POFU (Pre-Offense Follow-Up) for Epstein the following day due to a crisis. The communication included contact information for the office and a confidentiality designation.",
+      "timestamp": "2019-07-10T00:00:00",
+      "timestamp_raw": "July 10, 2019",
+      "keywords": [
+        "efta00034639",
+        "tartaglione",
+        "chief psychologist",
+        "u.s. department of justice",
+        "federal bureau of prisons",
+        "metropolitan correctional center",
+        "pofu",
+        "crisis",
+        "report writing"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034883",
+      "summary": "A request was sent on July 12, 2019, to ensure a legal visit for an inmate named Tartaglione occurs without problems. The recipient is identified as Lieutenant, and the sender is identified as [REDACTED]. The email emphasizes preparing the inmate for his attorney's arrival.",
+      "timestamp": "2019-07-12T00:00:00",
+      "timestamp_raw": "July 12, 2019",
+      "keywords": [
+        "efta00034883",
+        "redaction",
+        "legal visit",
+        "inmate",
+        "attorney",
+        "tartaglione",
+        "conditions",
+        "visits",
+        "confidential",
+        "sdny"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034725",
+      "summary": "A supervisory staff attorney at the Metropolitan Correctional Center (MCC) New York requested the preservation of video surveillance footage from July 22, 2019, at 11 PM to July 23, 2019, at 4 AM, specifically focusing on the SHU tier containing cell Z06-215 and the hallway outside Tartaglione’s cell. The request included footage from an hour before and after the specified timeframe, as well as any body camera footage of responding officers. The request was made in connection with an investigation into the Epstein incident.",
+      "timestamp": "2019-07-22T00:00:00",
+      "timestamp_raw": "July 22, 2019",
+      "keywords": [
+        "redaction analysis",
+        "preservation request",
+        "video surveillance",
+        "cell z06-215",
+        "tartaglione",
+        "epstein incident",
+        "july 22",
+        "2019",
+        "july 23",
+        "2019",
+        "new york",
+        "metropolitan correctional center"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00016910",
+            "similarity": 0.5,
+            "index": 4,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00016910",
+      "summary": "A request was made to preserve video footage from July 22, 2019, at 11 pm to July 23, 2019, at 4 am, specifically from the SHU tier containing cell Z06-215 and the hallway outside Tartaglione’s cell. The request included footage from July 22, 2019, at 11 pm to July 23, 2019, at 4 am, and body camera footage of responding officers if available. The request was submitted by someone at the Etropo 'tan Correctional Center and addressed to a Special Investigative Technician at the MCC New York. A subsequent page contains a standard confidentiality notice.",
+      "timestamp": "2019-07-22T00:00:00",
+      "timestamp_raw": "July 22, 2019",
+      "keywords": [
+        "preservation request",
+        "video footage",
+        "cell z06-215",
+        "shu",
+        "tartaglione",
+        "epstein incident",
+        "july 22",
+        "july 23",
+        "surveillance",
+        "new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034725",
+            "similarity": 0.5,
+            "index": 3,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034197",
+      "summary": "He was found attempting to hang himself, with a red neck and no abrasions. Staff responded, secured him, and placed him on suicide watch.  A second inmate, Nicholas Tartaglione (#78514-054), reported that Epstein had been harassed and threatened by him, alleging that Tartaglione had attempted to kill him. Epstein stated that he had informed his attorney about the threats. Medical staff examined Epstein and noted a circular erythema on his neck.  The incident involved multiple staff members and a series of observations and actions taken until a medical assessment could be conducted.",
+      "timestamp": "2019-07-23T00:00:00",
+      "timestamp_raw": "July 23, 2019",
+      "keywords": [
+        "inmate",
+        "suicide",
+        "attempt",
+        "epstein",
+        "jeffrey",
+        "tartaglione",
+        "nicholas",
+        "cell",
+        "restraints",
+        "threats",
+        "attorney",
+        "corrections"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015994",
+      "summary": "Tartaglione. *   A request was made for statements from Mr. Tartaglione given interviews conducted by the Bureau of Prisons (BOP) regarding Epstein’s attempted suicide on July 23, 2019. *   A zip folder containing statements attributed to Mr. Tartaglione (including those conveyed by Epstein to MCC staff) was provided. *   A request was made for all reports and video related to Epstein’s attempted suicide on July 22-23, 2019, but this request was denied, citing irrelevance and Rule 16. *   The Assistant United States Attorney stipulated that the request required a release from Touhy, a Touhy letter, and a subpoena. *   Barket Epstein Kearon Aldea & LoTurco, LLP is involved in the legal proceedings.",
+      "timestamp": "2019-07-23T00:00:00",
+      "timestamp_raw": "July 23, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "tartaglione",
+        "statements",
+        "mcc",
+        "suicide attempt",
+        "july 23",
+        "2019",
+        "reports",
+        "protective order",
+        "usanys",
+        "bruce barket"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00030557",
+            "similarity": 0.571,
+            "index": 33,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034181",
+      "summary": "The document consists of photo sheets related to a possible suicide attempt involving inmate Jeffrey Epstein (#76318-054) and, in later entries, inmate Nicholas Tartaglione (#78514-054). The incidents occurred on July 23, 2019, at 1:27 AM, as recorded by the Lieutenant's Office at the Metropolitan Correctional Center New York.  Photographs were taken in the Special Housing Unit.  The time of the second photo taken of Tartaglione was 2:25 AM on the same date. The sheets are classified as CONFIDENTIAL with the SDNY case numbers listed.",
+      "timestamp": "2019-07-23T00:00:00",
+      "timestamp_raw": "July 23, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "suicide attempt",
+        "metropolitan correctional center",
+        "new york",
+        "07/23/19",
+        "1:27 am",
+        "photograph",
+        "housing unit",
+        "cellmate",
+        "nicholas tartaglione"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020645",
+      "summary": "On July 23, 2019, at approximately 1:27 AM, an inmate, Jeffrey Epstein (#76318-054), attempted suicide in his cell at the Metropolitan Correctional Center in New York. Multiple officers responded to the alarm, finding Epstein in a fetal position with a makeshift noose around his neck. He exhibited erratic behavior, including attempting to stand and falling, and made statements about his cellmate, Nicholas Tartaglione (#78514-054), attempting to kill him and extorting money. Tartaglione reported feeling struck by something in his bunk and witnessed Epstein with a rope. Epstein claimed he’d informed his attorney about the threats. Medical staff assessed Epstein, finding a circular erythema on his neck, and he was placed on suicide watch. The incident involved multiple officers, a medical assessment, and documentation of the events by those present.",
+      "timestamp": "2019-07-23T00:00:00",
+      "timestamp_raw": "July 23, 2019",
+      "keywords": [
+        "suicide attempt",
+        "inmate",
+        "epstein",
+        "cell",
+        "restraints",
+        "staff",
+        "observation",
+        "ha-unit",
+        "new york",
+        "threat",
+        "nicholas tartaglione"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019348",
+      "summary": "*   **Incident Details:** Staff observed Epstein breathing heavily but responsive. He was restrained and medically examined, revealing a circular line of erythema at the base of his neck, friction marks, and a small erythema on his knee. He was placed on suicide watch. *   **Inmate Statements:** Epstein reported feeling extremely tired and stated that cellmate Nicholas Tartaglione was sleeping on the floor and had made threatening statements toward him. Tartaglione denied the allegations and stated that Epstein had been complaining and disruptive. *   **Medical Assessments:** Both Epstein and Tartaglione were medically assessed. Epstein showed the neck injuries and a minor knee injury. Tartaglione reported feeling well. *   **Further Investigation:** The investigation involved interviews with both inmates and staff, photographic documentation (including the rope), and a review of medical records. *   **Conclusion:**  Due to lack of evidence supporting Tartaglione's involvement, the investigation concluded without finding any evidence of an assault. **Note:** Much of the document contains redactions of sensitive information.",
+      "timestamp": "2019-07-23T00:00:00",
+      "timestamp_raw": "July 23, 2019",
+      "keywords": [
+        "inmate",
+        "jeffrey epstein",
+        "nicholas tartaglione",
+        "suicide",
+        "threat assessment",
+        "restraints",
+        "medical examination",
+        "neck injury",
+        "cellmate",
+        "shu",
+        "nym",
+        "investigation",
+        "handmade rope",
+        "mental health",
+        "behavioral observation"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020629",
+      "summary": "On July 23, 2019, at 1:27 AM, Jeffrey Epstein (#76318-054) was involved in a possible suicide attempt within the Special Housing Unit of the Metropolitan Correctional Center New York. Photographs were taken at 1:45 AM and 2:25 AM by Lieutenant personnel, documenting Epstein's situation. Additionally, Nicholas Tartaglione (#78514-054) was also involved in a possible suicide attempt (cellmate) and photographed at 2:25 AM and 2:55 AM by Lieutenant personnel.",
+      "timestamp": "2019-07-23T00:00:00",
+      "timestamp_raw": "July 23, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "suicide attempt",
+        "metropolitan correctional center",
+        "new york",
+        "07/23/19",
+        "76318-054",
+        "nicholas tartaglione",
+        "78514-054",
+        "special housing unit",
+        "photo sheet",
+        "lieutenant"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034035",
+      "summary": "He requested an immediate assessment and a legal visit for Tartaglione. Later, on July 27, 2019, Barket reported that Tartaglione had been checked on and his books swapped out by an unidentified individual. A staff member, Tracy Connor, contacted Barket regarding a reported NBC story alleging Tartaglione was questioned about a possible attack on Jeffrey Epstein within the Metropolitan Correctional Center. Connor requested Barket to confirm the story. The communication includes notes of concern about a potential leak of information and cautions against retaliation against Tartaglione.",
+      "timestamp": "2019-07-26T00:00:00",
+      "timestamp_raw": "July 26, 2019",
+      "keywords": [
+        "epstein",
+        "tartaglione",
+        "mental health",
+        "mcc",
+        "barket",
+        "jeffrey epstein",
+        "nicholas tartaglione",
+        "redaction"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016763",
+      "summary": "Jeffrey Epstein spent time in a windowless 8-by-8-foot cell at the Metropolitan Correctional Center in downtown Manhattan, formerly occupied by Nicholas Tartaglione, a retired police officer accused of murder. Epstein was denied house arrest and bail due to sex-trafficking charges. The cell was described as dark, disgusting, and infested with mice and insects. Other high-profile inmates housed at the facility include Joaquin \"El Chapo\" Guzman and Sayfullo Saipov. Concerns were raised regarding jail conditions, including rodent infestations, broken fixtures, and inadequate resources.",
+      "timestamp": "2019-07-28T00:00:00",
+      "timestamp_raw": "28 Jul 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "jail",
+        "sex trafficking",
+        "manhattan",
+        "metropolitan correctional center",
+        "inmate complaints",
+        "nicholas tartaglione",
+        "joaquin \"el chapo\" guzman",
+        "bruce barket"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021529",
+      "summary": "An attorney at CLC New York Metropolitan Correctional Center in New York is responding to an Assistant United States Attorney regarding the ongoing investigation into Jeffrey Epstein’s injuries. The investigation is described as nearing completion, with Epstein receiving an incident report for self-mutilation and a pending DHO hearing. Despite the original claims against Tartaglione being unfounded, the attorney plans to inform the court that the investigation remains ongoing until a final report is received.",
+      "timestamp": "2019-07-31T00:00:00",
+      "timestamp_raw": "31 Jul 2019",
+      "keywords": [
+        "epstein",
+        "investigation",
+        "report",
+        "court",
+        "mcc",
+        "tartaglione",
+        "injuries",
+        "berman",
+        "new york",
+        "united states attorney"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035473",
+      "summary": "On August 2, 2019, the Discipline Hearing Officer at FCI Fort Dix sent emails containing two DHO reports/packets related to hearings conducted on August 1, 2019. The reports included PDFs for Tartaglione, Epstein, and related documentation. The sender requested assistance with delivering the DHO Report to an inmate, updating delivery information in Sentry, and forwarding the packets to the Unit Team for filing in the Central File.",
+      "timestamp": "2019-08-02T00:00:00",
+      "timestamp_raw": "August 2, 2019",
+      "keywords": [
+        "dho reports",
+        "august 1",
+        "2019",
+        "discipline hearing officer",
+        "fci fort dix",
+        "efta00035473",
+        "tartaglione",
+        "epstein"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036082",
+      "summary": "Epstein arrived at the facility on July 6, 2019, and was initially placed in SHU with a cellmate, Nicholas Tartaglione. Over the following weeks, he underwent multiple psychology evaluations, risk assessments, and interactions with attorneys, often with inconsistencies in documentation, particularly regarding cell assignments tracked in SENTRY.  There were documented instances of misplaced SENTRY transactions and errors in records, including inaccurate inmate counts and missing documentation like intake screenings and 30-day psychology reviews.  On July 23, 2019, Epstein was found unresponsive in his cell, prompting a medical emergency and ultimately his death. The investigation into the incident was inconclusive. The review highlighted significant failures in basic correctional practices, including incomplete inmate counts, inconsistent documentation, and failures to adhere to established suicide prevention protocols. Recommendations were made regarding staff training, institutional processes, and oversight. The estimated cost associated with the incident was approximately $10,741.60.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "inmate epstein",
+        "mcc new york",
+        "sentry",
+        "shu",
+        "psychology",
+        "suicide",
+        "cellmate",
+        "tartaglione",
+        "risk assessment",
+        "mental health",
+        "court",
+        "medical assessment",
+        "overtime",
+        "corrections",
+        "suicide watch",
+        "incident"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018976",
+      "summary": "An email chain discusses documents related to inmate suicide watch and psychological observation within a correctional facility, specifically concerning Jeffrey Epstein. The email details questions asked of Lt. Doctor, including inquiries about head count logs, Epstein’s last cellmate (Tartaglione), the requirement for cellmates, and who assigns them. Epstein’s file indicates he did not require a cellmate and that Tartaglione was his cellmate during a previous suicide attempt. The emails originate from the U.S. Department of Justice, Office of the Inspector General, New York Field Office.",
+      "timestamp": "2019-08-11T00:00:00",
+      "timestamp_raw": "11 Aug 2019",
+      "keywords": [
+        "epstein",
+        "suicide watch",
+        "psychological observation",
+        "cellmate",
+        "bop",
+        "shu",
+        "logs",
+        "lt. doctor",
+        "tartaglione",
+        "fbi"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020127",
+      "summary": "Bruce Barket, of Barket Epstein, is responding to an email regarding questioning of Mr. Tartaglione related to an investigation into Jeffrey Epstein’s death. He directs the recipient to forward the email to relevant US Attorneys and clarifies that Tartaglione should not be questioned without his prior knowledge and consent, and he provides his contact information to investigators. Three redactions are present in the document.",
+      "timestamp": "2019-08-12T00:00:00",
+      "timestamp_raw": "12 Aug 2019",
+      "keywords": [
+        "bruce barket",
+        "epstein",
+        "tartaglione",
+        "investigation",
+        "suicide",
+        "ausas",
+        "fbi",
+        "ig",
+        "redaction analysis",
+        "efta00020127"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019986",
+      "summary": "On August 21, 2019, a staff attorney at the Metropolitan Correctional Center (MCC) New York investigated Tartaglione’s access to recreation and cell conditions. The facilities manager spoke with Tartaglione, who reported water leaking into his cell during long showers. A test run of the shower did not immediately reveal the leak, though the staff acknowledged the possibility of water damage over time. The staff also confirmed providing Tartaglione with three newspapers delivered on August 20th. An attached letter from Bruce Barket was being circulated for review and a call was scheduled.",
+      "timestamp": "2019-08-21T00:00:00",
+      "timestamp_raw": "August 21, 2019",
+      "keywords": [
+        "tartaglione",
+        "shu",
+        "epstein",
+        "recreation",
+        "shower",
+        "cell",
+        "leaks",
+        "water",
+        "newspapers",
+        "facilities manager"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020687",
+      "summary": "The New York Times Company and reporter Ben Weiser have joined The Post and Daily News in opposing the sealing of records related to the US v. Tartaglione case (16-cr-832). A letter from the NYT Company and Weiser was faxed to the court on September 10, 2019, regarding the unsealing request.",
+      "timestamp": "2019-09-10T00:00:00",
+      "timestamp_raw": "September 10, 2019",
+      "keywords": [
+        "efta00020687",
+        "tartaglione",
+        "us v.",
+        "unsealing",
+        "records",
+        "nyt",
+        "new york times",
+        "legal",
+        "case",
+        "sealing"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030707",
+      "summary": "Bruce Barket received a transmittal from Sumar Al-Amyn regarding the unsealing of records in the case *US v. Tartaglione, 16-cr-832*. The transmittal included a letter from the New York Times Company reporter Ben Weiser, sent to the court via fax, concerning the same case.",
+      "timestamp": "2019-09-10T00:00:00",
+      "timestamp_raw": "10 Sep 2019",
+      "keywords": [
+        "efta00030707",
+        "us v. tartaglione",
+        "redaction analysis",
+        "bruce barket",
+        "sumar al-amyn",
+        "new york times company",
+        "ben weiser",
+        "legal department",
+        "attorney client communication",
+        "unsealing of records"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00017094",
+      "summary": "A New York Times request, led by reporter Ben Weiser, was submitted to the court regarding the unsealing of records in the case *US v. Tartaglione, 16-cr-832*. The request was sent via fax by Al-Amyn Sumar of The New York Times Legal Department. The attached document is a letter from the New York Times Company supporting the unsealing request.",
+      "timestamp": "2019-09-10T00:00:00",
+      "timestamp_raw": "10 Sep 2019",
+      "keywords": [
+        "efta00017094",
+        "us v. tartaglione",
+        "redaction analysis",
+        "new york times",
+        "unsealing of records",
+        "ben weiser",
+        "legal department",
+        "case file",
+        "fax",
+        "correspondence"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030711",
+      "summary": "On September 16, 2019, multiple individuals discussed coordinating an interview related to Jeffrey Epstein. One person requested assistance with drafting suppression motions and needed time to prepare for California interviews. Another individual expressed willingness to handle the interview alone, suggesting it likely wouldn't require multiple people due to the nature of the information sought (identifying employees and gathering basic observations from Epstein’s house). A final individual apologized for a missed communication regarding the interview and requested to be excused due to a scheduling conflict. The interview’s purpose was to investigate Epstein’s house staff and gather preliminary information.",
+      "timestamp": "2019-09-16T00:00:00",
+      "timestamp_raw": "September 16, 2019",
+      "keywords": [
+        "efta00030711",
+        "redaction",
+        "suppression motions",
+        "tartaglione",
+        "interviews",
+        "california",
+        "names",
+        "epstein",
+        "new york",
+        "attorney"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00017108",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] with the subject “Excerpt.” The email, dated September 18, 2019, attached a document named “09172019ICMKTartaglioneExcerpt.pdf” containing two redactions. The sender expressed gratitude.",
+      "timestamp": "2019-09-18T00:00:00",
+      "timestamp_raw": "September 18, 2019",
+      "keywords": [
+        "efta00017108",
+        "redaction analysis",
+        "excerpt",
+        "icmktartaglione",
+        "2019",
+        "pdf",
+        "september",
+        "18",
+        "2019"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015932",
+      "summary": "Michael Bachrach forwarded an exchange regarding a request for statements from Mr. Tartaglione, potentially related to Jeffrey Epstein’s attempted suicide. The request was initially framed as a Rule 16 discovery request concerning the penalty phase. Bachrach paused pursuing the request with the MCC/BOP to avoid duplication. Bruce Barket responded, clarifying that the request was governed by specific procedures and would be fulfilled by the end of the week under the protective order, contingent on obtaining a release from the inmate (Touhy) and a subpoena. The Assistant US Attorney requested a release, letter, and subpoena for the request to be considered locally.",
+      "timestamp": "2019-11-19T00:00:00",
+      "timestamp_raw": "November 19, 2019",
+      "keywords": [
+        "tartaglione",
+        "rule 16",
+        "redaction",
+        "mcc/bop",
+        "foia",
+        "privacy act",
+        "touhy",
+        "statements",
+        "prison",
+        "suicide attempt"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031025",
+      "summary": "The charges include conspiracy to distribute cocaine, murder (with firearms), kidnapping, and using interstate commerce to further criminal activity. The indictment details a scheme where Tartaglione and accomplices lured, confined, and ultimately killed these individuals.  Key aspects include the use of false records to conceal the crimes, the involvement of correctional officers TOVA NOEL and MICHAEL THOMAS in the deception, and the discovery of Epstein's suicide as a consequence of the defendants' actions.",
+      "timestamp": "2019-11-19T00:00:00",
+      "timestamp_raw": "November 19, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "metropolitan correctional center (mcc)",
+        "foia",
+        "bop",
+        "homicide",
+        "conspiracy",
+        "narcotics trafficking",
+        "russell capone",
+        "noel",
+        "thomas",
+        "tartaglione",
+        "suicide",
+        "sentences"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015438",
+      "summary": "The charges include conspiracy to distribute cocaine, murder in furtherance of drug trafficking, kidnapping, and using interstate commerce to commit crimes.  The indictment details a series of events beginning around 2015, culminating in the deaths of the four men, which occurred in 2016.  The charges include intentionally killing the victims using firearms, conspiring to commit crimes, and using firearms in furtherance of those crimes.  The document also identifies the roles of correctional officers ToVa Noel and Michael Thomas who were involved in the events surrounding the deaths, specifically their false reporting of incidents.  The entire case revolves around a drug trafficking operation and the resulting violence.",
+      "timestamp": "2019-11-19T00:00:00",
+      "timestamp_raw": "November 19, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "metropolitan correctional center (mcc)",
+        "foia",
+        "russell capone",
+        "bop",
+        "homicide",
+        "drug trafficking",
+        "narcotics",
+        "18 u.s.c. § 371",
+        "tova noel",
+        "michael thomas",
+        "united states attorney",
+        "united states v. noel",
+        "united states v. tartaglione"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030560",
+      "summary": "An automatic reply email was sent from [REDACTED] to [REDACTED]@[REDACTED] on December 3, 2019, regarding case EFTA00030560. The sender indicated they would be out of the office until December 5, 2019 due to business travel and advised contacting the other AUSA for immediate assistance.",
+      "timestamp": "2019-12-03T00:00:00",
+      "timestamp_raw": "December 3, 2019",
+      "keywords": [
+        "efta00030560",
+        "tartaglione",
+        "epstein",
+        "automatic reply",
+        "redaction",
+        "ausa",
+        "december 5",
+        "2019",
+        "business travel",
+        "email",
+        "voicemail"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023226",
+      "summary": "On December 6, 2019, multiple individuals were discussing the Tartaglione/Epstein case. A request was made to compile witness statements regarding inmate notes from the SHU on the date of the attempted suicide, specifically to determine if inmates supported Tartaglione's claim that he saved Epstein’s life. This was flagged as potentially Brady material requiring review and potential disclosures. The US Attorney's Office was involved in the discussion, requesting a review of notes to assess potential disclosure obligations.",
+      "timestamp": "2019-12-06T00:00:00",
+      "timestamp_raw": "December 6, 2019",
+      "keywords": [
+        "tartaglione",
+        "epstein",
+        "inmate",
+        "witness statements",
+        "suicide",
+        "shu",
+        "brady",
+        "disclosures",
+        "narcotics unit",
+        "united states attorney"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019900",
+      "summary": "Aida Leisenring sent a preservation request on December 17, 2019, to Bruce Barket regarding video surveillance footage from July 22nd at 11 pm to July 23rd at 4 am, specifically focusing on the hallway outside Tartaglione’s cell during the early morning hours of July 23rd, related to an ongoing investigation. She also requested preservation of any body camera footage from responding officers.  Bruce Barket responded on July 25, 2019, confirming that staff had been instructed to preserve the video footage, noting that MCC staff do not have body cameras.  Both individuals included a standard confidentiality disclaimer in their communications.",
+      "timestamp": "2019-12-17T00:00:00",
+      "timestamp_raw": "December 17, 2019",
+      "keywords": [
+        "preservation request",
+        "video surveillance",
+        "aida leisenring",
+        "bruce barket",
+        "july 23",
+        "epstein incident",
+        "body cameras",
+        "efta00019900"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016909",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] regarding a subject named “Tartaglione,” dated December 19, 2019. The email included an attachment named “EFTA00016909.”",
+      "timestamp": "2019-12-19T00:00:00",
+      "timestamp_raw": "December 19, 2019",
+      "keywords": [
+        "tartaglione",
+        "redaction",
+        "analysis",
+        "efta00016909",
+        "email",
+        "preservation request"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00017955",
+      "summary": "On December 19, 2019, the U.S. Department of Justice, through the United States Attorney for the Southern District of New York, informed Judge Kenneth M. Karas about the defense’s request for video footage (the “Video”) from the Metropolitan Correctional Center (MCC) from July 22-23, 2019, related to the case *United States v. Nicholas Tartaglione*. The Government confirmed the video was preserved and is in the process of obtaining a copy to provide to defense counsel for review at the United States Attorney's Office.",
+      "timestamp": "2019-12-19T00:00:00",
+      "timestamp_raw": "December 19, 2019",
+      "keywords": [
+        "justice",
+        "united states department of justice",
+        "nicholas tartaglione",
+        "metropolitan correctional center",
+        "video",
+        "redaction",
+        "court",
+        "judge karas",
+        "southern district of new york",
+        "ecf"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015997",
+      "summary": "Tartaglione related to Jeffrey Epstein’s attempted suicide on July 22-23, 2019, as recorded by the Bureau of Prisons. *   The zip folder also includes reports of statements conveyed to MCC staff by Mr. Epstein. *   Bruce Barket’s office declined to produce materials related to Epstein’s attempted suicide, citing irrelevance and Rule 16. *   Barket’s office requested a release from Touhy, a letter, and a subpoena to facilitate the request. *   The request for statements was governed by FOIA/Privacy Act and Touhy regulations, necessitating legal authorization.",
+      "timestamp": "2019-12-22T00:00:00",
+      "timestamp_raw": "22 Nov 2019",
+      "keywords": [
+        "tartaglione",
+        "epstein",
+        "jeffrey",
+        "suicide",
+        "statements",
+        "mcc",
+        "bop",
+        "protective order",
+        "rule 16",
+        "july 23",
+        "2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00030557",
+            "similarity": 0.571,
+            "index": 33,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00030557",
+      "summary": "Tartaglione) regarding Jeffrey Epstein’s attempted suicide on July 22-23, 2019. *   The request includes reports of statements from Mr. Tartaglione conveyed to MCC staff by Mr. Epstein and any recordings of those statements. *   The request includes a zip folder containing these materials, marked as “sensitive” due to a protective order. *   The request specifically excludes materials related to Epstein’s attempted suicide on July 22-23, deeming them irrelevant. *   The request requires release from Touhy (inmate), a Touhy letter, and a subpoena to be considered. *   The communication involved multiple parties including Aida Leisenring, John Diaz, Kenneth J. Montgomery Esq, and Bruce Koffsky.",
+      "timestamp": "2019-12-23T00:00:00",
+      "timestamp_raw": "23 Nov 2019",
+      "keywords": [
+        "tartaglione",
+        "epstein",
+        "statements",
+        "mcc",
+        "july 23",
+        "2019",
+        "suicide",
+        "reports",
+        "protective order",
+        "usanys",
+        "efta00030557"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00015997",
+            "similarity": 0.571,
+            "index": 32,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00015994",
+            "similarity": 0.571,
+            "index": 6,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030552",
+      "summary": "Bruce Barket, representing the defense team, is requesting statements made by Tony Ricco (Mr. Tartaglione) during interviews conducted by the Bureau of Prisons (BOP) regarding Jeffrey Epstein’s attempted suicide on July 22-23, 2019. The US Attorney’s office is responding by offering a zip folder containing statements attributed to Mr. Tartaglione, including those conveyed to MCC staff by Mr. Epstein. They decline to produce materials related to Epstein’s attempted suicide, citing relevance and Rule 16. A discussion regarding a call time is initiated, ultimately settling on a Wednesday at 10:00 AM. The request is subject to protective order stipulations and requires compliance with FOIA/Privacy Act regulations, including inmate releases and subpoenas.",
+      "timestamp": "2019-12-25T00:00:00",
+      "timestamp_raw": "25 Nov 2019",
+      "keywords": [
+        "bruce barket",
+        "aida leisenring",
+        "kenneth montgomery",
+        "tartaglione",
+        "epstein",
+        "mcc",
+        "july 23",
+        "2019",
+        "suicide",
+        "statements",
+        "usanys",
+        "rule 16",
+        "foia",
+        "touhy"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029642",
+      "summary": "A communication thread discusses notes from a call with the defense team for EFTA00029642, involving individuals including Bruce B, Aida, Bruce K, Tony, and Michael. The communication includes offers to discuss the notes later on Wednesday, Friday, or Monday. EFTA00029643 is also referenced.",
+      "timestamp": "2019-12-27T00:00:00",
+      "timestamp_raw": "27 Nov 2019",
+      "keywords": [
+        "efta00029642",
+        "tartaglione",
+        "counsel",
+        "narcotics unit",
+        "call",
+        "defense team",
+        "bruce",
+        "aida",
+        "michael"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026545",
+      "summary": "On January 8, 2020, the U.S. Department of Justice, via the United States Attorney for the Southern District of New York, informed Judge Karas about an error regarding video footage requested in the case of United States v. Nicholas Tartaglione. Initially, the MCC claimed to have preserved video from July 22-23, 2019, outside Tartaglione’s cell. However, it was discovered that the MCC had mistakenly preserved video from an adjacent cell (Cell-2) instead of his correct cell (Cell-1). The original video footage requested no longer exists. Further investigation revealed that the MCC’s computer system incorrectly identified Tartaglione’s cell, and a DVR system containing potentially relevant footage suffered a system failure shortly after Jeffrey Epstein’s death, making recovery unlikely.",
+      "timestamp": "2020-01-08T00:00:00",
+      "timestamp_raw": "January 8, 2020",
+      "keywords": [
+        "nicholas tartaglione",
+        "metropolitan correctional center (mcc)",
+        "united states v.",
+        "jeffrey epstein",
+        "video footage",
+        "cell-1",
+        "tier dvr",
+        "fbi",
+        "shu"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032547",
+      "summary": "On January 8, 2020, the U.S. Department of Justice informed Judge Karas that the requested video footage from July 22-23, 2019, outside Nicholas Tartaglione’s cell at the Metropolitan Correctional Center (MCC) does not exist. Initially, the MCC preserved video based on a misidentification of Tartaglione’s cell as “Cell-1,” but later determined the footage was from “Cell-2” due to a system error.  The backup system also revealed the video was not present starting in August 2019. The government will provide video of the “Cell-2” tier for defense counsel review.",
+      "timestamp": "2020-01-08T00:00:00",
+      "timestamp_raw": "January 8, 2020",
+      "keywords": [
+        "nicholas tartaglione",
+        "metropolitan correctional center",
+        "mcc",
+        "united states v.",
+        "video footage",
+        "jeffrey epstein",
+        "cell-1",
+        "cell-2",
+        "united states attorney",
+        "kenneth m. karas"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021766",
+      "summary": "Bruce Barket, representing Barket Epstein Kearon Aldea & LoTurco, LLP, is corresponding with Aida Leisenring and others regarding discovery requests related to the Tartaglione case. Key points include: *   A request for the taint team to contact them regarding a review of a cell phone, specifically concerning hand-held videos from July 23rd. *   An inquiry regarding the inconsistent accounts of surveillance video and a request for further inquiries. *   A request for a hearing regarding the disappearance of surveillance video. *   MCC offers access to a makeshift rope for inspection, with restrictions on photography. *   BOP has forensic reports of Tartaglione’s cellphone and SIM card, which will be reviewed by a walled-off team of AUSAs to identify privileged materials. *   BOP states no other pictures or videos were taken from inside the cell, and a letter with video evidence is forthcoming for review at the office.",
+      "timestamp": "2020-01-09T00:00:00",
+      "timestamp_raw": "09 Jan 2020",
+      "keywords": [
+        "bruce barket",
+        "discovery requests",
+        "surveillance video",
+        "cell phone",
+        "tartaglione",
+        "bop",
+        "mcc",
+        "ausa",
+        "july 23",
+        "videos",
+        "forensic reports"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00017953",
+      "summary": "On January 9, 2020, the U.S. Department of Justice informed Judge Karas that the requested video footage from July 22-23, 2019, outside Nicholas Tartaglione’s cell at the Metropolitan Correctional Center (MCC) does not exist. Initially, the MCC erroneously preserved video from the adjacent Cell-2 instead of Cell-1 due to an error in the MCC’s computer system.  A subsequent review of the MCC’s backup system confirmed the video was missing and had not been updated since August 2019 due to technical errors. The Government intends to provide the video of Cell-2 for defense counsel’s review.",
+      "timestamp": "2020-01-09T00:00:00",
+      "timestamp_raw": "January 9, 2020",
+      "keywords": [
+        "nicholas tartaglione",
+        "metropolitan correctional center (mcc)",
+        "united states v.",
+        "kenneth m. karas",
+        "video footage",
+        "jeffrey epstein",
+        "criminal case",
+        "united states department of justice"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016973",
+      "summary": "Bruce Barket, attorney at Barket Epstein Kearon Aldea & LoTurco, LLP, is requesting to view physical evidence related to Jeffery Epstein’s attempted suicide in July 2020, while incarcerated with Frank Tartaglione. He is asking the recipient to arrange dates and times for the viewing and emphasizes the confidential nature of the communication.",
+      "timestamp": "2020-01-10T00:00:00",
+      "timestamp_raw": "10 Jan 2020",
+      "keywords": [
+        "efta00016973",
+        "jeffery epstein",
+        "suicide",
+        "evidence",
+        "tartaglione",
+        "viewing",
+        "bruce barket",
+        "redaction analysis",
+        "attorney client communication"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016736",
+      "summary": "The request is for the United States District Court to hold an evidentiary hearing to investigate the circumstances surrounding the loss of video surveillance footage from the Metropolitan Correctional Center (MCC) that allegedly captured the events of July 22-23, 2019, when Epstein attempted suicide in Tartaglione’s cell. Specifically, the defense argues: *   The footage would have been exculpatory, corroborating Tartaglione’s account of events. *   The Government’s explanation for the footage’s destruction is inadequate, lacking specificity and sworn testimony. *   The BOP, which held exclusive control of the footage, failed to preserve it despite a clear preservation request. *   The loss of the footage potentially impacts the punishment phase of a capital case, as it contains mitigating evidence related to Tartaglione’s actions. The defense seeks answers to questions about who destroyed the footage, the chain of responsibility, whether witnesses reviewed it, and whether the destruction was deliberate or due to negligence. They believe the loss constitutes a deprivation of a constitutional right to present mitigating evidence and is “chargeable to the state.”",
+      "timestamp": "2020-01-13T00:00:00",
+      "timestamp_raw": "January 13, 2020",
+      "keywords": [
+        "evidentiary hearing",
+        "video surveillance",
+        "nicholas tartaglione",
+        "jeffrey epstein",
+        "metropolitan correctional center",
+        "preservation request",
+        "destruction of evidence",
+        "exculpatory evidence",
+        "bad faith",
+        "bureau of prisons",
+        "sentencing",
+        "mitigating evidence",
+        "brady v. maryland",
+        "due process"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021768",
+      "summary": "A communication was sent from the United States Attorney’s Office, Southern District of New York, to [REDACTED] regarding the loss of a video featuring Frank Tartaglione (MCC). Bruce Barket filed a motion seeking a hearing about the loss, and the sender intends to oppose the motion, providing updates.",
+      "timestamp": "2020-01-14T00:00:00",
+      "timestamp_raw": "14 Jan 2020",
+      "keywords": [
+        "tartaglione",
+        "mcc video",
+        "bruce barket",
+        "hearing",
+        "united states attorney's office",
+        "southern district of new york",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016735",
+      "summary": "A motion was filed by Barket seeking a hearing regarding the MCC video. The United States Attorney's Office is preparing a response.",
+      "timestamp": "2020-01-14T00:00:00",
+      "timestamp_raw": "14 Jan 2020",
+      "keywords": [
+        "tartaglione",
+        "motion",
+        "hearing",
+        "mcc video",
+        "barket",
+        "response",
+        "united states attorney's office",
+        "narcotics unit",
+        "southern district of new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019063",
+      "summary": "Bruce Barket, an attorney, contacted a recipient to inform them that his trial date has been moved to March 3rd due to the Court denying his request for March 4th off to attend a status conference regarding Mr. Tartaglione and a “Curcio issue.” Barket inquired about requesting additional time for review and potential adjournment of the conference, suggesting that further action would likely focus on resolving the Curcio issue.",
+      "timestamp": "2020-02-24T00:00:00",
+      "timestamp_raw": "24 Feb 2020",
+      "keywords": [
+        "efta00019063",
+        "bruce barket",
+        "curcio",
+        "trial",
+        "march 3rd",
+        "edny",
+        "judge karas",
+        "attorney-client",
+        "transmittal",
+        "usanys"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018546",
+      "summary": "Bruce Barket contacted the US Department of Justice (DOJ) on February 25, 2020, to inform them that his trial had been moved to March 3rd due to a denied request for time off to attend a status conference regarding Mr. Tartaglione and a “Curcio issue.” He inquired about the DOJ’s intention to request additional time for review and potential adjournment of the conference, suggesting options including further requests or a judge’s intervention if needed. The email chain included responses from Margery and further contact information for Barket Epstein Kearon Aldea & LoTurco, LLP.",
+      "timestamp": "2020-02-25T00:00:00",
+      "timestamp_raw": "February 25, 2020",
+      "keywords": [
+        "bruce barket",
+        "trial",
+        "curcio",
+        "march 3rd",
+        "edny",
+        "adjournment",
+        "request",
+        "judge karas",
+        "barket epstein kearon aldea & loturco",
+        "efta00018546"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032314",
+      "summary": "Bruce Barket, an attorney with Barket Epstein Kearon Aldea & LoTurco, LLP, is involved in a legal case concerning Mr. Tartaglione. The trial date was initially set for February 25th, but was moved to March 3rd due to Barket requesting March 4th off. Barket inquired about continued review of materials and potential input from his firm. Margery responded that they would be in a better position to answer questions the following day and potentially request more time. Barket considered requesting a further adjournment if needed.",
+      "timestamp": "2020-02-26T00:00:00",
+      "timestamp_raw": "26 Feb 2020",
+      "keywords": [
+        "bruce barket",
+        "scheduling order",
+        "curcio issue",
+        "march 4th",
+        "usanys",
+        "doj",
+        "trial",
+        "documents",
+        "emails"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021988",
+      "summary": "Department of Justice, Southern District of New York, is responding to discovery requests from the defense team in the case of *United States v. Tova Noel and Michael Thomas* (No. 19 Cr. 830). *   The letter is dated March 14, 2020, and pertains to requests made by the defense regarding surveillance video and electronic evidence related to the defendants. *   The Government has already disclosed relevant information to the defense, including video files from July 23, 2019, and public filings related to another case (*United States v. Tartaglione*). *   Regarding Noel’s requests (No. 14-23), the Government is providing specific video file names and timestamps as a courtesy to aid the defense in reviewing discovery. *   Specifically, the Government points to video files CH0080_* from August 9 and 10, 2019, documenting specific instances related to Jeffrey Epstein’s presence and the defendants' computer usage. *   The Government reserves the right to present additional evidence at trial if deemed relevant.",
+      "timestamp": "2020-03-14T00:00:00",
+      "timestamp_raw": "March 14, 2020",
+      "keywords": [
+        "united states v. tova noel",
+        "michael thomas",
+        "discovery",
+        "surveillance video",
+        "mcc",
+        "august 9",
+        "2019",
+        "august 10",
+        "2019",
+        "jeffrey epstein",
+        "forensic examination",
+        "united states attorney"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021935",
+      "summary": "An email chain discusses new documents from BOP (Bureau of Prisons) regarding a case potentially involving Tartaglione.  The sender identifies specific document ranges and files (reports and disciplinary histories) within the BOP materials that should be redacted due to their potential impact on Tartaglione. These redacted documents include reports and records related to the July 23 incident and Epstein’s mental health. A recipient requests access to the draft documents for review and to pass along to another individual.",
+      "timestamp": "2020-07-24T00:00:00",
+      "timestamp_raw": "24 Jul 2020",
+      "keywords": [
+        "bop",
+        "efta00021935",
+        "tartaglione",
+        "declarations",
+        "july 23 incident",
+        "epstein",
+        "reports",
+        "disciplinary history",
+        "documents",
+        "narcotics"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024658",
+      "summary": "Documents related to the July 23rd incident and Epstein’s mental health, along with Tartaglione’s disciplinary history referencing that incident, should be withheld from [REDACTED]. Specifically, pages/sections 272-286, 517-539, etc., and documents labeled “All Dots” and “Assoc Warden” containing the specified ranges and references are to be redacted.",
+      "timestamp": "2020-07-24T00:00:00",
+      "timestamp_raw": "24 Jul 2020",
+      "keywords": [
+        "efta00024658",
+        "redaction analysis",
+        "bop",
+        "tartaglione",
+        "july 23 incident",
+        "epstein",
+        "disciplinary history",
+        "reports",
+        "southern district of new york",
+        "united states attorney's office"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031410",
+      "summary": "A letter regarding a delayed disclosure in the Tartaglione case was sent from the Co-Chief, Narcotics Unit of the United States Attorney’s Office, Southern District of New York, to [REDACTED]. The letter attached, titled \"2020.08.XX_Ietter_to_ICMKJe_Penalty_Phase_Brady_yl.docx\", outlines a draft letter to ICMKJe with a penalty phase discussion and proposes initiating a discussion with McEnany after receiving feedback.",
+      "timestamp": "2020-08-05T00:00:00",
+      "timestamp_raw": "05 Aug 2020",
+      "keywords": [
+        "delayed disclosure",
+        "tartaglione",
+        "penalty phase",
+        "brady",
+        "icmk",
+        "mcenany",
+        "narcotics unit",
+        "united states attorney's office",
+        "efta00031410"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015517",
+      "summary": "This document is a supplemental declaration submitted in support of the Federal Bureau of Prisons’ (BOP) motion for summary judgment in a case involving the incarceration of Jeffrey Epstein. Russell Capone, counsel to the Acting United States Attorney for the Southern District of New York, argues that the BOP’s withholding of records from the Office of the Inspector General (OIG) under Exemption 7(A) of the Freedom of Information Act (FOIA) is justified. Specifically, Capone asserts that releasing records related to Epstein’s incarceration at the Metropolitan Correctional Center (MCC) – including inmate rosters, staffing records, psychological notes, and log entries – would likely interfere with ongoing prosecutions of both Jeffrey Epstein and co-defendant Vincent Tartaglione. He argues this interference stems from the potential influence on witnesses’ testimony, the ability to shape juror perceptions, and the risk of fueling public speculation about Epstein’s death. He further contends that the information is inextricably linked to potentially exculpatory data, especially given the media coverage surrounding the case. Capone highlights the potential relevance of the withheld records to the penalty phase of Tartaglione’s case, emphasizing the need to protect the fairness of the jury selection process. Finally, he argues for the segregation of the records as a whole due to the intertwined nature of the information and the potential for misleading jurors.",
+      "timestamp": "2020-08-05T00:00:00",
+      "timestamp_raw": "August 5, 2020",
+      "keywords": [
+        "foia",
+        "exemption 7(a)",
+        "bureau of prisons",
+        "jeffrey epstein",
+        "metropolitan correctional center",
+        "noel prosecution",
+        "witness testimony",
+        "jury selection",
+        "records withholding",
+        "media coverage"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031018",
+      "summary": "This supplemental declaration, filed in support of the Bureau of Prisons’ motion for summary judgment, argues against the release of records related to Jeffrey Epstein’s incarceration at the Metropolitan Correctional Center (MCC). Russell Capone, counsel to the Acting U.S. Attorney, asserts that releasing these records – specifically those withheld under FOIA Exemption 7(A) – would likely interfere with ongoing criminal prosecutions involving Epstein and the individuals involved. The declaration focuses on four key categories of withheld records: inmate counts, staffing records, psychological notes, and BOP logs from August 9-10, 2019. Capone argues that disclosing these records, particularly in their entirety, could unduly influence witnesses’ testimony at trial, skew potential jurors’ perceptions, and exacerbate media speculation surrounding Epstein’s death. He contends that this interference is heightened by the ongoing Noel and Tartaglione prosecutions and the potential relevance of the information to a penalty phase in the Tartaglione case.  Ultimately, Capone argues that the records should remain withheld in their entirety to protect the integrity of the legal proceedings.",
+      "timestamp": "2020-08-05T00:00:00",
+      "timestamp_raw": "August 5, 2020",
+      "keywords": [
+        "foia",
+        "exemption 7(a)",
+        "bureau of prisons",
+        "jeffrey epstein",
+        "noel",
+        "witsec",
+        "witnesses",
+        "jury",
+        "prosecution",
+        "records",
+        "incarceration"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032123",
+      "summary": "Bruce Barket, attorney for Mr. Tartaglione, is requesting that he be released from quarantine and placed in a safe cell. Mr. Tartaglione was initially quarantined for over twice the allotted time and is now being given a “Hobson’s choice” of solitary confinement (SHU) or a cell with a potentially threatening cellmate. Prior to the quarantine, he had been relatively safe in a cell with a familiar cellmate, having previously been assaulted. Barket expresses concern that the MCC is prioritizing safety over his client’s well-being and previous assurances regarding cell return.",
+      "timestamp": "2020-09-01T00:00:00",
+      "timestamp_raw": "01 Sep 2020",
+      "keywords": [
+        "tartaglione",
+        "quarantine",
+        "shu",
+        "cellmate",
+        "safety",
+        "violence",
+        "mccl",
+        "barket epstein",
+        "legal",
+        "redacted"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029517",
+      "summary": "Emails discuss a person referred to as “Sarah Sacks” and a potential client.  One individual states that “Sarah Sacks” never filed a notice or communicated with them. Another mentions emails indicating a private investigator visited “Sarah Sacks’ client.” A question is posed regarding whether “Sarah Sacks” represents Jeffrey Epstein or Louis Tartaglione. The communications originate from individuals within the United States Attorney’s Office, Southern District of New York.",
+      "timestamp": "2020-11-08T00:00:00",
+      "timestamp_raw": "08 Oct 2020",
+      "keywords": [
+        "efta00029517",
+        "sarah sacks",
+        "foia",
+        "redaction",
+        "usanys",
+        "epstein",
+        "tartaglione",
+        "email",
+        "docket",
+        "client"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00009864",
+      "summary": "A request was made on December 9, 2020, to locate the BOP’s Psychological Reconstruction of Inmate Jeffrey Epstein and the MCC’s response for evaluation of discovery obligations related to the capital phase of Tartaglione’s trial. A follow-up was initiated on December 14, 2020, to determine the document’s location and obtain an email notification when available. The request originated from the Deputy Chief of the White Plains Division of the United States Attorney’s Office, Southern District of New York.",
+      "timestamp": "2020-12-09T00:00:00",
+      "timestamp_raw": "December 9, 2020",
+      "keywords": [
+        "tartaglione",
+        "epstein",
+        "jeffrey",
+        "bop",
+        "mcc",
+        "psychological reconstruction",
+        "discovery",
+        "trial",
+        "united states attorney",
+        "redaction"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024998",
+      "summary": "An email chain discusses a request from defense counsel for attorney visit logs and count slips containing the name “Tartaglione.” The request originates from the US Attorney’s Office, Southern District of New York, specifically involving the White Plains Division and a potential protective order.  A firewall counsel is being utilized to receive the documents to avoid direct access by the sender. A review of the protective order by counsel is pending to determine if modification by Judge Karas is needed before the documents are provided to defense counsel.",
+      "timestamp": "2021-01-09T00:00:00",
+      "timestamp_raw": "09 Jan 2021",
+      "keywords": [
+        "epstein",
+        "foia",
+        "attorney visit logs",
+        "count slips",
+        "protective order",
+        "tartaglione",
+        "white plains division",
+        "usanys",
+        "litigation",
+        "defense counsel"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00028142",
+            "similarity": 0.667,
+            "index": 57,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00028142",
+      "summary": "An email chain discusses a request from defense counsel in Tartaglione for attorney visit logs and count slips containing Tartaglione’s name. The United States Attorney’s Office is seeking firewall counsel to receive the documents from the sender to prevent the sender and another attorney from viewing them.  The firewall counsel will review the protective order and potentially seek a modification from Judge Karas.",
+      "timestamp": "2021-01-09T00:00:00",
+      "timestamp_raw": "09 Jan 2021",
+      "keywords": [
+        "epstein",
+        "foia",
+        "attorney visit logs",
+        "count slips",
+        "tartaglione",
+        "protective order",
+        "usanys",
+        "defense counsel",
+        "judge karas",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00024998",
+            "similarity": 0.667,
+            "index": 56,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00018558",
+            "similarity": 0.538,
+            "index": 58,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00018558",
+      "summary": "An email exchange discusses a request from defense counsel (Tartaglione) for attorney visit logs and count slips containing the name “Tartaglione.” The US Attorney’s Office (White Plains Division) is determining if these documents fall under a protective order and is identifying firewall counsel to receive the documents from the requester. The firewall counsel will review the protective order and potentially seek a modification from Judge Karas before forwarding the documents to defense counsel.",
+      "timestamp": "2021-01-09T00:00:00",
+      "timestamp_raw": "09 Jan 2021",
+      "keywords": [
+        "epstein",
+        "foia",
+        "protective order",
+        "tartaglione",
+        "usanys",
+        "documents",
+        "defense counsel",
+        "judge karas",
+        "redaction",
+        "visit logs"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00028142",
+            "similarity": 0.538,
+            "index": 57,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013271",
+      "summary": "An email discusses the provision of attorney visit logs and count slips containing Jeffrey Epstein’s name to defense counsel in the Tartaglione case. The United States Attorney’s Office, specifically the White Plains Division, is facilitating this by having firewall counsel receive the documents from the sender to prevent direct access by the Deputy Chief. Firewall counsel will review the protective order and potentially seek a modification from Judge Karas before transferring the documents to defense counsel.",
+      "timestamp": "2021-01-09T00:00:00",
+      "timestamp_raw": "09 Jan 2021",
+      "keywords": [
+        "epstein",
+        "visit logs",
+        "count slips",
+        "protective order",
+        "tartaglione",
+        "defense counsel",
+        "firewall counsel",
+        "judge karas",
+        "united states attorney's office",
+        "production"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025173",
+      "summary": "A correspondence occurred between an Assistant United States Attorney at 300 Quarropas Street, White Plains, NY 10601 and another individual (identified as USANYS) regarding a “Tartaglione Taint Team Question” associated with case file EFTA00025173. The email was sent on April 21, 2021, from an iPhone.",
+      "timestamp": "2021-04-21T00:00:00",
+      "timestamp_raw": "April 21, 2021",
+      "keywords": [
+        "efta00025173",
+        "tartaglione",
+        "usanys",
+        "redaction",
+        "us attorney",
+        "white plains",
+        "ny",
+        "almin",
+        "question",
+        "taint team"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027395",
+      "summary": "On April 28, 2021, an Assistant United States Attorney contacted reviewers regarding the redaction of Epstein FOIA documents. A request was made to expedite the review process, aiming for completion by the end of the day. One reviewer indicated they were swamped and would prioritize the task, aiming for completion by the end of the following business day. Another reviewer proposed a 2-day extension due to delays and requested a discussion about potentially seeking a further extension, contingent on PAE approval and the Times’s position. The Assistant United States Attorney inquired about a timeline for the Tartaglione review of the second half of the documents, seeking updates on completion.",
+      "timestamp": "2021-04-28T00:00:00",
+      "timestamp_raw": "April 28, 2021",
+      "keywords": [
+        "foia",
+        "epstein",
+        "redaction",
+        "extension",
+        "tartaglione",
+        "pae",
+        "bop",
+        "usanys",
+        "review",
+        "documents"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00022508",
+      "summary": "An Assistant United States Attorney is querying whether records related to Jeffrey Epstein, specifically documents from The New York Times, should be withheld due to a Tartaglione redaction. The attorney believes the records can be released without concerns related to Tartaglione.",
+      "timestamp": "2021-05-02T00:00:00",
+      "timestamp_raw": "02 May 2021",
+      "keywords": [
+        "epstein",
+        "foia",
+        "tartaglione",
+        "redaction",
+        "united states attorney",
+        "new york times",
+        "white plains",
+        "mi inien c=mmim",
+        "jason",
+        "maurene"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031611",
+      "summary": "Steven Kochevar (USANYS) inquired about a document marked as withheld in full due to Tartaglione concerns. He believed the document could be released without those concerns and attached a copy of the New York Times article related to the Epstein records. The email thread includes a response indicating acceptance of this assessment.",
+      "timestamp": "2021-05-02T00:00:00",
+      "timestamp_raw": "02 May 2021",
+      "keywords": [
+        "epstein",
+        "foia",
+        "tartaglione",
+        "redaction",
+        "new york times",
+        "usanys",
+        "kochevar",
+        "steven",
+        "wif",
+        "pdf"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029873",
+      "summary": "On July 27, 2021, the Deputy Chief of the White Plains Division of the United States Attorney's Office (Southern District of New York) sent an email to inquire about “MCC stuff” and the Epstein guards case, specifically as it relates to Tartaglione.",
+      "timestamp": "2021-07-27T00:00:00",
+      "timestamp_raw": "July 27, 2021",
+      "keywords": [
+        "efta00029873",
+        "mcc",
+        "epstein",
+        "tartaglione",
+        "white plains",
+        "united states attorney",
+        "quick question",
+        "case",
+        "guards"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00031970",
+            "similarity": 0.8,
+            "index": 65,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00031970",
+      "summary": "A request was sent on July 27, 2021, from the Deputy Chief of the White Plains Division of the United States Attorney’s Office, Southern District of New York, inquiring about “MCC stuff” and the Epstein guards case as it relates to Tartaglione.",
+      "timestamp": "2021-07-27T00:00:00",
+      "timestamp_raw": "July 27, 2021",
+      "keywords": [
+        "efta00031970",
+        "mcc",
+        "epstein",
+        "tartaglione",
+        "white plains",
+        "united states attorney",
+        "quick question",
+        "case",
+        "guards"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00029873",
+            "similarity": 0.8,
+            "index": 64,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031971",
+      "summary": "A request was sent from the Deputy Chief of the White Plains Division of the United States Attorney's Office to “I” to stamp documents related to “Epstein and BOP.” The documents require a Bates stamp and AEO/Sensitive Disclosure Material stamps, mirroring those applied to the July 23 Incident Report.",
+      "timestamp": "2021-07-27T00:00:00",
+      "timestamp_raw": "27 Jul 2021",
+      "keywords": [
+        "tartaglione",
+        "epstein",
+        "bop",
+        "bates stamp",
+        "aeo",
+        "sensitive disclosure material",
+        "documents",
+        "united states attorney's office",
+        "white plains",
+        "july 23 incident report"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00017109",
+      "summary": "This document is a transcript of a court hearing concerning redaction requests related to documents concerning Mr. Tartaglione’s housing within the Bureau of Prisons (BOP). Initially, the Court addressed a “Curcio issue” – a confidential matter involving counsel for Mr. Tartaglione, Ms. Sternheim. The primary focus shifted to the government’s request to seal letters regarding prison conditions, prison designation, and Mr. Tartaglione’s housing at the Metropolitan Correctional Center (MCC) and Medium Medium Correctional Facility (MDC). The government sought to seal letters dated August 23rd and 28th, arguing it protected BOP’s deliberative process and prevented inmates from manipulating housing assignments. The Court ultimately ruled that the letters *were* judicial documents due to their relevance to Mr. Tartaglione’s trial rights and the court’s oversight. The Court then rejected the government's argument to maintain the seal, ordering its unsealing due to a lack of demonstrated compelling interest and concerns about potential manipulation of security protocols. Finally, the court addressed concerns about a telephone seized from Mr. Tartaglione, and the government abandoned the effort to obtain a warrant for it. Counsel proposed a timeline for trial scheduling, pending further discussion with the government.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "curcio",
+        "tartaglione",
+        "housing",
+        "bop",
+        "prison conditions",
+        "redaction",
+        "sealing",
+        "correspondence",
+        "docket numbers",
+        "evidentiary standards",
+        "public access",
+        "first amendment",
+        "judicial documents",
+        "incarceration",
+        "surveillance"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016540",
+      "summary": "This email thread concerns a request for a document labeled “Tartaglione document,” identified as EFTA00016540. The email was sent from [REDACTED] to [REDACTED] with multiple CC and BCC recipients. The message-id is <5FD7A6F6020000DE000DFFA4@SMTPI.BOP.GOV>.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00016540",
+        "tartaglione",
+        "redaction",
+        "document request",
+        "2020",
+        "2025",
+        "message",
+        "bop",
+        "smtpi"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00009966",
+      "summary": "Nick Tartaglione, a former Briarcliff Manor cop facing a death penalty, insists he never harmed Jeffrey Epstein, whom he shared a cell with at the Metropolitan Correctional Center (MCC). Tartaglione claims he alerted jail staff to Epstein's first suicide attempt on July 23, 1919. Epstein ultimately hanged himself on August 10, 1919, prompting an investigation into the circumstances surrounding his death, including potential negligence by MCC staff. Tartaglione is seeking a transfer due to threats he received and the proximity of investigators to his situation. Tartaglione is also facing multiple murder charges related to the deaths of four men, discovered buried on his property.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "jeffrey epstein",
+        "nick tartaglione",
+        "metropolitan correctional center",
+        "suicide",
+        "investigation",
+        "sexual trafficking",
+        "briarcliff manor",
+        "cellmate",
+        "death penalty",
+        "law enforcement"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013272",
+      "summary": "The United States District Court for the Southern District of New York, under Judge Kenneth M. Karas, issued an order to the Bureau of Prisons (BOP) regarding Nicholas Tartaglione’s case (Case 7:16-cr-00832-KMK). The order prohibits the BOP from sharing original or copied written communications designated as “attorney work-product” sent by the defense team to BOP staff, or visitation logs related to “attorney visits” or “legal visits.” The BOP is also directed to disclose any existing communications and logs to Tartaglione if they are already in the government’s possession. The order applies regardless of Tartaglione’s facility location and maintains the prohibition if he is transferred to a non-BOP facility.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00013272",
+        "nicholas tartaglione",
+        "bop",
+        "federal rules of criminal procedure",
+        "attorney work-product",
+        "visitation logs",
+        "defense team",
+        "united states",
+        "criminal justice act",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    }
+  ]
+}

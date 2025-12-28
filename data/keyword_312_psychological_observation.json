@@ -1,0 +1,3161 @@
+{
+  "keyword": "psychological observation",
+  "count": 45,
+  "keyword_match_count": 45,
+  "content_match_count": 53,
+  "total_files": 98,
+  "timeline": [
+    {
+      "file_id": "EFTA00035330",
+      "summary": "The Metropolitan Correctional Center, New York, utilizes a procedural memorandum to manage inmates placed on Psychological Observation status, established July 20, 2005. This status applies to inmates exhibiting mental instability due to mental illness, personality disorders, medical issues, or drug effects, but without imminent suicidal ideation. Procedures involve a psychologist’s determination, continuous monitoring in a suicide watch area or designated cell, restricted items, detailed log entries every 15 minutes, and regular rounds by staff. Specific personnel (Psychologist, Operations Lieutenant, Health Services Staff, etc.) are notified upon placement or removal, and limitations exist regarding the number of inmates a staff member can monitor simultaneously.",
+      "timestamp": "2005-07-20T00:00:00",
+      "timestamp_raw": "July 20, 2005",
+      "keywords": [
+        "psychological observation",
+        "mcc new york",
+        "inmates",
+        "mental illness",
+        "suicide watch",
+        "psychological assessment",
+        "procedures",
+        "observation status",
+        "federal medical center",
+        "staff monitoring"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00033419",
+      "summary": "On July 2, 2019, a Metropolitan Correctional Center Lieutenant documented daily operations, including counts, inmate observations (psychological observations, administrative detentions), equipment checks, and security procedures.  Counts were conducted at 12:00 AM, 3:00 AM, 5:00 AM, 6:00 AM, and 10:00 AM.  Various inmate movements occurred, including transfers, returns, and administrative detentions.  Phone calls were monitored, including WITSEC inquiries.  The shift involved responding to alarms, conducting trash runs, and managing visitation. The counts varied throughout the shift, starting at 796, decreasing to 783, and then increasing to 788 before the shift ended.",
+      "timestamp": "2019-07-02T00:00:00",
+      "timestamp_raw": "July 2, 2019",
+      "keywords": [
+        "correctional center",
+        "count",
+        "inmates",
+        "psych obs",
+        "arrest",
+        "detention",
+        "fire alarm",
+        "nypd",
+        "phone check",
+        "restraint equipment",
+        "witsec",
+        "administrative detention"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035370",
+      "summary": "Mr. Epstein (Reg. 76318-054) was admitted to MCC New York on 7/6/2019 and placed in Special Housing. He was arraigned in court and will undergo a suicide risk assessment by Psychology. If Psychology is unavailable upon his return, he will be placed on Psychological Observation unless he reports suicidal ideation, in which case he will go on Suicide Watch. There have been media inquiries and staged media presence near the facility and courthouse.",
+      "timestamp": "2019-07-06T00:00:00",
+      "timestamp_raw": "7/6/2019",
+      "keywords": [
+        "efta00035370",
+        "epstein",
+        "mcc new york",
+        "suicide risk assessment",
+        "psychological observation",
+        "suicide watch",
+        "media inquiries",
+        "court arraignment",
+        "housing unit",
+        "psychology"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00034153",
+            "similarity": 0.5,
+            "index": 3,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034153",
+      "summary": "Inmate Epstein Reg. 76318-054 was admitted to MCC New York on 7/6/2019 and placed in Special Housing Unit. He was arraigned in court and will undergo a suicide risk assessment by Psychology. If Psychology is unavailable, he will be placed on Psychological Observation unless he reports suicidal ideation, in which case he will go on Suicide Watch. There have been media inquiries and staged media presence near the facility and courthouse.",
+      "timestamp": "2019-07-06T00:00:00",
+      "timestamp_raw": "7/6/2019",
+      "keywords": [
+        "efta00034153",
+        "mr. epstein",
+        "mcc new york",
+        "suicide risk assessment",
+        "psychological observation",
+        "suicide watch",
+        "media inquiries",
+        "court arraignment",
+        "psychological evaluation",
+        "housing unit",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035370",
+            "similarity": 0.5,
+            "index": 2,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035369",
+      "summary": "Jeffrey Epstein, registered as Reg. 76318-054, arrived at MCC New York on July 6, 2019, at 9:24 PM and was placed in Special Housing Unit. He was arraigned in court and will undergo a suicide risk assessment by Psychology. Depending on the assessment, he will either be placed on Psychological Observation or Suicide Watch. There were media inquiries and staging around the facility and courthouse.",
+      "timestamp": "2019-07-06T00:00:00",
+      "timestamp_raw": "July 6, 2019",
+      "keywords": [
+        "epstein",
+        "jeffrey",
+        "reg 76318-054",
+        "mcc new york",
+        "special housing unit",
+        "psychology",
+        "suicide watch",
+        "media",
+        "observation",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034434",
+      "summary": "Psychological observation occurred from July 7, 2019, at 6:00 PM to July 10, 2019, at 9:00 AM, utilizing an I/M companion. The observation was conducted under case number SDNY_000 10957 and EFTA00034434 and marked as CONFIDENTIAL.",
+      "timestamp": "2019-07-07T00:00:00",
+      "timestamp_raw": "July 7, 2019",
+      "keywords": [
+        "efta00034434",
+        "psych observation",
+        "i/m companion",
+        "sdny_000",
+        "7/8/19",
+        "7/10/19",
+        "confidential"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034819",
+      "summary": "Following a phone consultation with Central Office, the Associate Warden at MCC New York is recommending a suicide risk assessment for inmate Epstein upon his return from court due to his high-risk factors including media attention, sex offense charges, and potential negative court news. If psychology staff are unavailable, Epstein will be placed on Psychological Observation or Suicide Watch, and relevant staff have been instructed to immediately notify the psychology department.",
+      "timestamp": "2019-07-08T00:00:00",
+      "timestamp_raw": "7/8/2019",
+      "keywords": [
+        "suicide risk assessment",
+        "inmate",
+        "psychology",
+        "suicide watch",
+        "bop statistics",
+        "risk factors",
+        "court",
+        "psychologist",
+        "psychological observation",
+        "metropolitan correctional center"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00035668",
+            "similarity": 0.538,
+            "index": 7,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035632",
+            "similarity": 0.538,
+            "index": 8,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034147",
+            "similarity": 0.818,
+            "index": 9,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035668",
+      "summary": "A suicide risk assessment is recommended for inmate J. Epstein (76318054) upon his return from court due to factors including a high-profile case, sex offense charges, pre-trial status, and potential bad news. If psychology is unavailable, R&D staff and Lieutenants are to place him on Psychological Observation or Suicide Watch until an assessment can be conducted. Notifications are to be made to the on-call psychologist if he returns after duty hours.",
+      "timestamp": "2019-07-08T00:00:00",
+      "timestamp_raw": "08 Jul 2019",
+      "keywords": [
+        "inmate epstein",
+        "suicide risk assessment",
+        "psychology",
+        "bop statistics",
+        "court",
+        "risk factors",
+        "suicide watch",
+        "psychological observation",
+        "media attention",
+        "legal situation"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034819",
+            "similarity": 0.538,
+            "index": 6,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00035632",
+            "similarity": 0.667,
+            "index": 8,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034147",
+            "similarity": 0.538,
+            "index": 9,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034818",
+            "similarity": 0.538,
+            "index": 11,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035632",
+      "summary": "Due to a pending court case involving inmate J. Epstein (76318054), a suicide risk assessment is being recommended by the Associate Warden at MCC New York. Epstein has multiple risk factors, including a high-profile case, sex offense charges, and pre-trial status, as identified by BOP statistics. Upon his return from court, R&D staff and Lieutenants are to immediately notify the psychology department. If psychology is unavailable, on-call psychologists are to place Epstein on a watch status until an assessment can be conducted.",
+      "timestamp": "2019-07-08T00:00:00",
+      "timestamp_raw": "08 Jul 2019",
+      "keywords": [
+        "inmate epstein",
+        "suicide risk assessment",
+        "psychology",
+        "bop statistics",
+        "court",
+        "psychological observation",
+        "suicide watch",
+        "risk factors",
+        "federal bureau of prisons",
+        "doj"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035668",
+            "similarity": 0.667,
+            "index": 7,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034819",
+            "similarity": 0.538,
+            "index": 6,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00034147",
+            "similarity": 0.538,
+            "index": 9,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035633",
+            "similarity": 0.538,
+            "index": 10,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034818",
+            "similarity": 0.538,
+            "index": 11,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034147",
+      "summary": "Due to a high-risk situation involving inmate Epstein, the Metropolitan Correctional Center is recommending a suicide risk assessment upon his return from court. If he doesn’t report suicidal ideation, he will be placed on Psychological Observation. R&D staff and Lieutenants are instructed to immediately notify the psychology department upon his return, regardless of the time, until a thorough assessment is completed.",
+      "timestamp": "2019-07-08T00:00:00",
+      "timestamp_raw": "7/8/2019",
+      "keywords": [
+        "suicide risk assessment",
+        "inmate",
+        "psychology",
+        "suicide watch",
+        "bop statistics",
+        "risk factors",
+        "court",
+        "psychological observation",
+        "psychologist",
+        "dr. epstein"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035632",
+            "similarity": 0.538,
+            "index": 8,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035668",
+            "similarity": 0.538,
+            "index": 7,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034819",
+            "similarity": 0.818,
+            "index": 6,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035633",
+      "summary": "Due to a potential negative court outcome, the Associate Warden at MCC New York is recommending a suicide risk assessment for inmate Epstein upon his return from court. If psychology services are unavailable, Epstein will be placed on Psychological Observation or Suicide Watch if he reports suicidal ideation. R&D staff and Lieutenants are instructed to immediately notify the psychology department upon his return, regardless of the time, until an assessment can be conducted.",
+      "timestamp": "2019-07-08T00:00:00",
+      "timestamp_raw": "7/8/2019",
+      "keywords": [
+        "suicide risk assessment",
+        "inmate epstein",
+        "psychological observation",
+        "suicide watch",
+        "bop statistics",
+        "court proceedings",
+        "risk factors",
+        "psychology department",
+        "watch status",
+        "federal bureau of prisons"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035632",
+            "similarity": 0.538,
+            "index": 8,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034818",
+      "summary": "Following a phone conversation on July 8, 2019, the Associate Warden at MCC New York recommended a suicide risk assessment for inmate J. 76318054 (Epstein) upon his return from court due to factors including media attention, sex offense charges, pre-trial status, and a potential negative legal outcome. Staff were instructed to immediately notify the psychology department if Epstein returned from court, and to place him on a watch status until an assessment could be conducted.",
+      "timestamp": "2019-07-08T00:00:00",
+      "timestamp_raw": "July 8, 2019",
+      "keywords": [
+        "inmate epstein",
+        "suicide risk assessment",
+        "psychology",
+        "bop",
+        "court",
+        "risk factors",
+        "suicide watch",
+        "psychological observation",
+        "correctional center",
+        "notification"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035632",
+            "similarity": 0.538,
+            "index": 8,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035668",
+            "similarity": 0.538,
+            "index": 7,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034148",
+      "summary": "On July 8, 2019, the Associate Warden at MCC New York received a recommendation to conduct a suicide risk assessment on inmate J. Epstein (76318054) upon his return from court due to factors including sex offense charges, a high-profile case, and potential negative legal news. Staff were instructed to immediately notify the psychology department upon his return, and he was to be placed on psychological observation or suicide watch until an assessment could be conducted.",
+      "timestamp": "2019-07-08T00:00:00",
+      "timestamp_raw": "July 8, 2019",
+      "keywords": [
+        "inmate",
+        "epstein",
+        "suicide risk",
+        "assessment",
+        "psychology",
+        "bop",
+        "court",
+        "risk factors",
+        "watch status",
+        "psychological observation"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00034855",
+            "similarity": 0.667,
+            "index": 13,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034855",
+      "summary": "A suicide risk assessment is recommended for inmate J. 76318054 (Epstein) upon his return from court due to factors including media attention, sex offense charges, pre-trial status, and potential negative legal news. Staff are instructed to immediately notify the psychology department if he returns from court, and to place him on PSYCHOLOGICAL OBSERVATION or Suicide Watch until an assessment can be conducted.",
+      "timestamp": "2019-07-08T00:00:00",
+      "timestamp_raw": "7/8/2019",
+      "keywords": [
+        "inmate",
+        "epstein",
+        "suicide risk",
+        "psychological assessment",
+        "bop",
+        "psychology",
+        "court",
+        "risk factors",
+        "central office",
+        "watch status"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034148",
+            "similarity": 0.667,
+            "index": 12,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034860",
+      "summary": "On July 08, 2019, the Metropolitan Correctional Center (MCC) in New York reported daily activity. There were no significant incidents during the Morning Watch shift. The Day Watch shift noted a Fire Suppression System inoperative and initiated a fire watch. Staff shortages led to the vacating of Correctional assignments 10-South #2.  I/M Epstein #76318-054 was placed on Psychological Observation. New inmate admissions included Benjamin, Brown, Buchanan, Cabrera, Delacruz, Marshall, Ortiz, Quiroga, Roberson, and releases included Bignon, Delgado, Garcia, Kim, Mendoza, Pena, Reid, Richardson, Rivera, and Zamora.  A staff search was conducted due to missing reports and equipment. Leave utilized included various types such as furlough, annual leave, sick leave, and AWOL. Overtime was recorded for E-1, 60-Q (USM Medical), and other categories. The institution’s total population at the beginning of the morning shift was 790.",
+      "timestamp": "2019-07-08T00:00:00",
+      "timestamp_raw": "July 08, 2019",
+      "keywords": [
+        "metropolitan correctional center",
+        "inmates",
+        "fire suppression system",
+        "staff shortage",
+        "daily activity report",
+        "corrections",
+        "usms",
+        "psych obs",
+        "new admissions",
+        "released inmates",
+        "leave utilization",
+        "overtime"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018977",
+      "summary": "*   On July 9th, the watch was noted as “None.” *   On July 10th, Epstein was moved from Psychological Observation to the SHU. *   On July 23rd and 24th, Epstein was removed from Suicide Watch and stepped down to Psychological Observation. *   A Forensic Psychologist, LT, U.S. Public Health Service, was involved in the observation of Gebremariam (ID: 79792-007). *   All updates contained a disclaimer regarding sensitive information.",
+      "timestamp": "2019-07-09T00:00:00",
+      "timestamp_raw": "7/9/2019",
+      "keywords": [
+        "suicide watch",
+        "psych observation",
+        "epstein",
+        "76318-054",
+        "inmate",
+        "shu",
+        "psychological observation",
+        "forensic psychologist",
+        "bureau of prisons",
+        "redaction"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034674",
+      "summary": "On July 9, 2019, the Metropolitan Correctional Center in New York documented daily operations, including counts, inventory checks, and inmate movements. Lieutenant’s logs recorded events such as fire alarm issues, body alarm testing, phone checks, and inmate placements in Administrative Detention, particularly for inmate I/M Epstein due to a psychological observation. There were several counts conducted throughout the shifts, with varying inmate totals. Specific incidents included inmate transfers to local hospitals, court appearances, and a trash run.  No STG/High Alert or WITSEC inquiries were recorded.",
+      "timestamp": "2019-07-09T00:00:00",
+      "timestamp_raw": "July 9, 2019",
+      "keywords": [
+        "daily log",
+        "lieutenant",
+        "count",
+        "shu",
+        "psych obs",
+        "inmate",
+        "restraint equipment",
+        "nypd",
+        "fire alarm",
+        "administrative detention",
+        "visitation",
+        "usms",
+        "institution"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034867",
+      "summary": "On July 9, 2019, a report was submitted regarding a suicide watch and psychological observation. The subjects under observation were Epstein (#76318-054) and Gebremariam (#79792-007), with Gebremariam designated as forensic. The report was classified as confidential and associated with case number SDNY_00012728.",
+      "timestamp": "2019-07-09T00:00:00",
+      "timestamp_raw": "July 9, 2019",
+      "keywords": [
+        "suicide watch",
+        "psych observation",
+        "redaction analysis",
+        "efta00034867",
+        "epstein",
+        "gebremariam",
+        "forensic",
+        "sdny_00012728"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034875",
+      "summary": "On July 10, 2019, Inmate Epstein #76318-054 was removed from Psychological Observation and placed in the Special Housing Unit (SHU). There were no active Suicide Watches reported. The update was provided by Forensic Psychologist Samantha (Forensic) of the U.S. Department of Justice, Federal Bureau of Prisons, Metropolitan Correctional Center.",
+      "timestamp": "2019-07-10T00:00:00",
+      "timestamp_raw": "July 10, 2019",
+      "keywords": [
+        "inmate",
+        "suicide watch",
+        "psych observation",
+        "shu",
+        "forensic psychologist",
+        "u.s. public health service",
+        "federal bureau of prisons",
+        "metropolitan correctional center",
+        "redaction analysis",
+        "efta00034875"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00034110",
+            "similarity": 0.818,
+            "index": 19,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034110",
+      "summary": "Inmate Epstein #76318-054 was removed from Psychological Observation and placed in the Special Housing Unit (SHU) on July 10, 2019. There were no active Suicide Watches at that time. The update was provided by a Forensic Psychologist with the U.S. Public Health Service and the Federal Bureau of Prisons.",
+      "timestamp": "2019-07-10T00:00:00",
+      "timestamp_raw": "July 10, 2019",
+      "keywords": [
+        "inmate",
+        "suicide watch",
+        "psych observation",
+        "shu",
+        "forensic psychologist",
+        "u.s. public health service",
+        "federal bureau of prisons",
+        "metropolitan correctional center",
+        "efta00034110",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034875",
+            "similarity": 0.818,
+            "index": 18,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035528",
+      "summary": "A pharmacist at MCC New York, CAPT, U.S. Public Health Service, sent an email regarding inmate EFTA00035528, who is on Psychological Observation. The inmate reported not receiving his docusate sodium (Colace) medication (100mg) for a 30-day supply, which was last filled on 7/12/2019.",
+      "timestamp": "2019-07-12T00:00:00",
+      "timestamp_raw": "7/12/2019",
+      "keywords": [
+        "epstein",
+        "docusate sodium",
+        "colace",
+        "inmate",
+        "psychological observation",
+        "medication",
+        "public health service",
+        "redaction analysis",
+        "u.s. public health service",
+        "pharmacy"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00034656",
+            "similarity": 0.538,
+            "index": 28,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035545",
+            "similarity": 0.538,
+            "index": 29,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034714",
+      "summary": "He was previously on Suicide Watch. He is housed in the Special Housing Unit (SHU) and is scheduled to be reassessed tomorrow. He will likely return to the SHU with a specific inmate and may be cell-mates with inmate M. The Psychological Observation status indicates a temporary designation for an inmate experiencing mental status impairment or unpredictable behavior, not imminent suicidal ideation. He was initially requested into Protective Custody due to a publicized case involving the mailing of IEDs to prominent figures. Updates on his status, medical assessments, and attorney visits are being provided daily.",
+      "timestamp": "2019-07-24T00:00:00",
+      "timestamp_raw": "7/24/2019",
+      "keywords": [
+        "inmate epstein",
+        "shu",
+        "psychological observation",
+        "suicide watch",
+        "cell mate",
+        "self-mutilation",
+        "mental illness",
+        "psychological assessment",
+        "protective custody",
+        "tattooing"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00035589",
+            "similarity": 0.5,
+            "index": 33,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035635",
+            "similarity": 0.538,
+            "index": 34,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035592",
+            "similarity": 0.538,
+            "index": 45,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034657",
+      "summary": "A pharmacist (PharmD, MS, BCACP) at MCC New York is discussing a patient, an inmate on Psychological Observation, who hasn’t received his docusate sodium (Colace) medication. The pharmacist intends to either obtain the medication from a physician (MD) or directly ensure the inmate receives it, potentially through advising the Duty PA. The message highlights the importance of proper handling and disposal of sensitive information.",
+      "timestamp": "2019-07-24T00:00:00",
+      "timestamp_raw": "7/24/2019",
+      "keywords": [
+        "pharmacist",
+        "medication",
+        "rx",
+        "colace",
+        "docusate sodium",
+        "psychological observation",
+        "inmate",
+        "supply",
+        "new york",
+        "healthcare"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00035545",
+            "similarity": 0.538,
+            "index": 29,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033983",
+            "similarity": 0.538,
+            "index": 37,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035694",
+      "summary": "On July 24, 2019, the United States Government, MCC New York, instructed the Lieutenant’s Office to remove inmate Epstein (#76318-054) from Suicide Watch and place him on Psychological Observation.",
+      "timestamp": "2019-07-24T00:00:00",
+      "timestamp_raw": "July 24, 2019",
+      "keywords": [
+        "suicide watch",
+        "psychological observation",
+        "inmate",
+        "epstein",
+        "removal",
+        "united states government",
+        "memorandum",
+        "july 24",
+        "2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00033590",
+            "similarity": 0.636,
+            "index": 24,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034928",
+            "similarity": 0.636,
+            "index": 25,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034655",
+            "similarity": 0.636,
+            "index": 35,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00033590",
+      "summary": "On July 24, 2019, the United States Government, MCC New York, instructed the Lieutenant’s Office to remove inmate Epstein (#76318-054) from Suicide Watch and place him on Psychological Observation. The document is classified as CONFIDENTIAL and includes case number SDNY 00008782 and reference EFTA00033590.",
+      "timestamp": "2019-07-24T00:00:00",
+      "timestamp_raw": "July 24, 2019",
+      "keywords": [
+        "suicide watch",
+        "psychological observation",
+        "inmate",
+        "epstein",
+        "removal",
+        "united states government",
+        "memorandum",
+        "confidential",
+        "sdny"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035694",
+            "similarity": 0.636,
+            "index": 23,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00034928",
+            "similarity": 1.0,
+            "index": 25,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00034655",
+            "similarity": 1.0,
+            "index": 35,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034928",
+      "summary": "On July 24, 2019, the United States Government, specifically MCC New York, instructed the Lieutenant’s Office to remove inmate Epstein (#76318-054) from Suicide Watch and place him on Psychological Observation. The memorandum was classified as CONFIDENTIAL and referenced case number SDNY 00012898 and document EFTA00034928.",
+      "timestamp": "2019-07-24T00:00:00",
+      "timestamp_raw": "July 24, 2019",
+      "keywords": [
+        "suicide watch",
+        "psychological observation",
+        "inmate",
+        "epstein",
+        "united states government",
+        "memorandum",
+        "removal",
+        "confidential",
+        "sdny"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00033590",
+            "similarity": 1.0,
+            "index": 24,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00035694",
+            "similarity": 0.636,
+            "index": 23,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00034655",
+            "similarity": 1.0,
+            "index": 35,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035500",
+      "summary": "An inmate, identified as Epstein #76318-054, is currently on Psychological Observation and requests to receive his legal paperwork, which is permitted. The communication originates from a Forensic Psychologist within the U.S. Department of Justice’s Federal Bureau of Prisons, Metropolitan Correctional Center, and is directed to prison staff.",
+      "timestamp": "2019-07-24T00:00:00",
+      "timestamp_raw": "24 Jul 2019",
+      "keywords": [
+        "epstein",
+        "psychological observation",
+        "legal paperwork",
+        "forensic psychologist",
+        "u.s. department of justice",
+        "federal bureau of prisons",
+        "metropolitan correctional center",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035383",
+      "summary": "Dr. indicates he is likely to be found competent. *   He is being housed in the Special Housing Unit (SHU) and will be cellmated with inmate I. *   The inmate has a prior conviction for mailing improvised explosive devices to prominent Democratic figures, including Barack Obama, Joe Biden, Hillary Clinton, Cory Booker, and Kamala Harris. *   He requested Protective Custody and is currently in the SHU awaiting an attorney visit. *   The Psychological Observation status is a temporary designation for inmates experiencing mental impairment, not imminent suicidal behavior.",
+      "timestamp": "2019-07-24T00:00:00",
+      "timestamp_raw": "24 Jul 2019",
+      "keywords": [
+        "epstein",
+        "shu",
+        "psychological observation",
+        "suicide watch",
+        "self-mutilation",
+        "mental illness",
+        "inmate",
+        "protective custody",
+        "code 228",
+        "tattoos"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00035587",
+            "similarity": 0.667,
+            "index": 31,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035380",
+            "similarity": 0.667,
+            "index": 32,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035589",
+            "similarity": 0.615,
+            "index": 33,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034656",
+      "summary": "A pharmacist (PharmD) at MCC New York is responding to a report that an inmate on Psychological Observation has not received his docusate sodium (Colace) medication. The pharmacist confirms the medication was filled for a 30-day supply on 7/12 and offers to ensure the inmate receives it. The communication includes details about the inmate's case (EFTA00034656) and emphasizes the sensitive nature of the information.",
+      "timestamp": "2019-07-24T00:00:00",
+      "timestamp_raw": "7/24/2019",
+      "keywords": [
+        "inmate",
+        "medication",
+        "psychological observation",
+        "constipation",
+        "docusate sodium",
+        "colace",
+        "pharmacy",
+        "capt",
+        "u.s. public health service",
+        "mcc new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035528",
+            "similarity": 0.538,
+            "index": 20,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035545",
+      "summary": "On July 24, 2019, a CAPT in the U.S. Public Health Service, Chief Pharmacist at MCC New York, discussed an inmate’s lack of docusate sodium (Colace) medication. The inmate was on Psychological Observation and hadn’t received a 30-day supply filled on July 12th. The CAPT offered to contact the Duty PA to ensure medication delivery and inquired about the medication’s availability. The communication included standard security disclaimers regarding sensitive information.",
+      "timestamp": "2019-07-24T00:00:00",
+      "timestamp_raw": "July 24, 2019",
+      "keywords": [
+        "efta00035545",
+        "medication",
+        "rx",
+        "pharmacist",
+        "public health service",
+        "inmate",
+        "psychological observation",
+        "colace",
+        "docusate sodium",
+        "u.s. public health service"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034657",
+            "similarity": 0.538,
+            "index": 22,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035528",
+            "similarity": 0.538,
+            "index": 20,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00033983",
+            "similarity": 0.538,
+            "index": 37,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035382",
+      "summary": "An inmate, #76318-054 (Jeffrey Epstein), was removed from Suicide Watch and placed on Psychological Observation. He was escorted to Health Services for a follow-up assessment and will subsequently meet with his attorney. The Associate Warden of MCC New York is providing updates to the Regional Director of the Northeast Region.",
+      "timestamp": "2019-07-24T00:00:00",
+      "timestamp_raw": "24 Jul 2019",
+      "keywords": [
+        "epstein",
+        "inmate",
+        "suicide watch",
+        "psychological observation",
+        "health services",
+        "attorney conference",
+        "medical assessment",
+        "new york",
+        "efta00035382"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035587",
+      "summary": "Inmate Epstein (#76318-054) was removed from Suicide Watch and placed on Psychological Observation due to deteriorated mental status, including disorganized thinking and poor self-care. The Psychological Observation status is a temporary designation for inmates with mental health impairments who are not imminently suicidal. He was escorted to Health Services for an assessment and then to an Attorney Conference. He is currently being held in Special Housing Unit (SHU) with inmate I and has a pending incident report for Self-Mutilation. Epstein pleaded guilty to mailing improvised explosive devices to prominent Democratic figures, including Barack Obama, Hillary Clinton, and Cory Booker. The Associate Warden requested daily updates on the inmate’s status and activities.",
+      "timestamp": "2019-07-24T00:00:00",
+      "timestamp_raw": "24 Jul 2019",
+      "keywords": [
+        "epstein",
+        "psychological observation",
+        "shu",
+        "suicide watch",
+        "inmate",
+        "mental illness",
+        "self-mutilation",
+        "protective custody",
+        "barack obama",
+        "joe biden"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035383",
+            "similarity": 0.667,
+            "index": 27,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00035380",
+            "similarity": 0.667,
+            "index": 32,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035589",
+            "similarity": 0.5,
+            "index": 33,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035635",
+            "similarity": 0.538,
+            "index": 34,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035380",
+      "summary": "Inmate Epstein #76318-054 was removed from Suicide Watch and placed on Psychological Observation due to deterioration related to a mental illness, personality disorder, or drug intoxication. The Psychological Observation status is a temporary designation for inmates who are not imminently suicidal but exhibit unstable behavior due to impaired mental status. He was escorted to Health Services for an assessment and will meet with his attorney following. He is currently housed in the Special Housing Unit (SHU) with inmate I, stemming from a pending incident report for self-mutilation and a guilty plea to mailing improvised explosive devices to prominent Democratic figures, including Barack Obama, Hillary Clinton, and Cory Booker. The Regional Director requested daily updates on his status.",
+      "timestamp": "2019-07-24T00:00:00",
+      "timestamp_raw": "24 Jul 2019",
+      "keywords": [
+        "epstein",
+        "psychological observation",
+        "suicide watch",
+        "shu",
+        "inmate",
+        "mental illness",
+        "self-mutilation",
+        "protective custody",
+        "fbi",
+        "redaction"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035587",
+            "similarity": 0.667,
+            "index": 31,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035383",
+            "similarity": 0.667,
+            "index": 27,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00035589",
+            "similarity": 0.5,
+            "index": 33,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035635",
+            "similarity": 0.538,
+            "index": 34,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035585",
+            "similarity": 0.571,
+            "index": 38,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035589",
+      "summary": "He was previously on Suicide Watch. *   He is a pretrial inmate charged with mailing improvised explosive devices to prominent Democratic figures, including Barack Obama, Hillary Clinton, and Cory Booker. He is housed in the Special Housing Unit (SHU). *   He is being evaluated by the Chief Psychologist and will be reassessed tomorrow. *   He is scheduled to meet with his attorney following a health services assessment. *   He is currently housed in the SHU with inmate MI, who pleaded guilty to a related offense, and will be housed with inmates  and after attorney conference. *   The Psychological Observation status is a temporary designation for inmates experiencing mental instability due to impairment in mental status, rather than imminent suicidal ideation.",
+      "timestamp": "2019-07-24T00:00:00",
+      "timestamp_raw": "24 Jul 2019",
+      "keywords": [
+        "epstein",
+        "shu",
+        "psychological observation",
+        "suicide watch",
+        "tattooing",
+        "self-mutilation",
+        "code 228",
+        "mental illness",
+        "udc hearing",
+        "protective custody",
+        "inmate i"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035380",
+            "similarity": 0.5,
+            "index": 32,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035587",
+            "similarity": 0.5,
+            "index": 31,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035383",
+            "similarity": 0.615,
+            "index": 27,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00035640",
+            "similarity": 0.571,
+            "index": 43,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035592",
+            "similarity": 0.75,
+            "index": 45,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00034722",
+            "similarity": 0.692,
+            "index": 46,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035635",
+      "summary": "Inmate #76318-054 was placed on Psychological Observation due to deteriorating mental status, specifically exhibiting disorganized thinking, poor self-care, and an unpredictable behavior pattern. This observation occurred following a self-mutilation incident and a guilty plea to mailing improvised explosive devices to prominent Democratic figures, including former President Obama, Vice President Biden, and Secretary Clinton. He was previously on Suicide Watch and has been moved to Psychological Observation until tomorrow for reassessment. He is currently being evaluated at Health Services and will meet with his attorney following the assessment. He will be housed in the Special Housing Unit (SHU) with inmate I after his attorney visit.",
+      "timestamp": "2019-07-24T00:00:00",
+      "timestamp_raw": "7/24/2019",
+      "keywords": [
+        "inmate",
+        "psychological observation",
+        "suicide watch",
+        "shu",
+        "mental illness",
+        "self-mutilation",
+        "protective custody",
+        "federal medical center",
+        "cnn",
+        "inmate epstein"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035380",
+            "similarity": 0.538,
+            "index": 32,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035587",
+            "similarity": 0.538,
+            "index": 31,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035383",
+            "similarity": 0.538,
+            "index": 27,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00035585",
+            "similarity": 0.571,
+            "index": 38,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035592",
+            "similarity": 0.538,
+            "index": 45,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034655",
+      "summary": "On July 24, 2019, the United States Government, MCC New York, instructed the Lieutenant’s Office to remove inmate Epstein (#76318-054) from Suicide Watch and place him on Psychological Observation. The document is classified as Confidential and referenced case number SDNY 00011866 and file EFTA00034655.",
+      "timestamp": "2019-07-24T00:00:00",
+      "timestamp_raw": "July 24, 2019",
+      "keywords": [
+        "suicide watch",
+        "psychological observation",
+        "inmate",
+        "epstein",
+        "removal",
+        "united states government",
+        "memorandum",
+        "confidential",
+        "sdny"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034928",
+            "similarity": 1.0,
+            "index": 25,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00033590",
+            "similarity": 1.0,
+            "index": 24,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00035694",
+            "similarity": 0.636,
+            "index": 23,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00022509",
+      "summary": "On July 24, 2019, a Lieutenant within the U.S. Public Health Service and Federal Bureau of Prisons (Metropolitan Correctional Center) requested a change in observation status for inmate Epstein #76318-054. The request involved removing him from Suicide Watch and placing him on Psychological Observation, as documented in a memorandum from the MCC New York. A forensic report named “TEXT.htm” and a PDF file were attached to the communication.",
+      "timestamp": "2019-07-24T00:00:00",
+      "timestamp_raw": "July 24, 2019",
+      "keywords": [
+        "efta00022509",
+        "epstein",
+        "suicide watch",
+        "psychological observation",
+        "united states government",
+        "memorandum",
+        "mcc new york",
+        "forensic psychologist",
+        "u.s. public health service",
+        "bureau of prisons"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00033983",
+      "summary": "A Chief Pharmacist at MCC New York is coordinating to ensure an inmate receives docusate sodium (colace) for constipation, specifically a 30-day supply filled on 7/12. The pharmacist will contact a Registered Nurse (RN) and, if necessary, a Medical Doctor (MD) to obtain a new prescription. The pharmacist is also confirming the inmate is receiving the medication while on Psychological Observation.",
+      "timestamp": "2019-07-24T00:00:00",
+      "timestamp_raw": "7/24/2019",
+      "keywords": [
+        "pharmacist",
+        "medication",
+        "inmate",
+        "psychological observation",
+        "rx",
+        "colace",
+        "u.s. public health service",
+        "new york",
+        "confidential",
+        "sdny"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035545",
+            "similarity": 0.538,
+            "index": 29,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034657",
+            "similarity": 0.538,
+            "index": 22,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035585",
+      "summary": "Inmate Epstein (#76318-054) was placed on Psychological Observation due to a deterioration of mental status, including disorganized thinking and poor self-care, following a self-mutilation incident and drug intoxication/withdrawal. He was previously on Suicide Watch and has been escorted to Health Services for an assessment and will subsequently meet with his attorney. The Psychological Observation status is a temporary designation until the inmate stabilizes. The inmate pleaded guilty to mailing improvised explosive devices to prominent Democratic figures, including Barack Obama, Joe Biden, Hillary Clinton, Cory Booker, Kamala Harris, and CNN, and is currently in Special Housing Unit (SHU) due to requesting protective custody.",
+      "timestamp": "2019-07-24T00:00:00",
+      "timestamp_raw": "24 Jul 2019",
+      "keywords": [
+        "epstein",
+        "psychological observation",
+        "suicide watch",
+        "shu",
+        "inmate",
+        "mental illness",
+        "self-mutilation",
+        "protective custody",
+        "barack obama",
+        "joe biden",
+        "hillary clinton",
+        "cnn"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035635",
+            "similarity": 0.571,
+            "index": 34,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035380",
+            "similarity": 0.571,
+            "index": 32,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035587",
+            "similarity": 0.833,
+            "index": 31,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00035592",
+            "similarity": 0.571,
+            "index": 45,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034641",
+      "summary": "On July 24, 2019, at 11:24 AM, a Suicide Watch was initiated for inmate Epstein (#76318-054) at the Metropolitan Correctional Center in New York. A psychological observation was not conducted. The communication is classified as CONFIDENTIAL and pertains to the U.S. Department of Justice, Federal Bureau of Prisons, and U.S. Public Health Service.",
+      "timestamp": "2019-07-24T00:00:00",
+      "timestamp_raw": "July 24, 2019",
+      "keywords": [
+        "suicide watch",
+        "psych observation",
+        "forensic psychologist",
+        "u.s. public health service",
+        "federal bureau of prisons",
+        "metropolitan correctional center",
+        "efta00034641",
+        "confidential",
+        "sdny_00011827",
+        "epstein"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00034926",
+            "similarity": 0.538,
+            "index": 40,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034710",
+            "similarity": 0.667,
+            "index": 42,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034926",
+      "summary": "On July 24, 2019, at 11:24 AM, a Suicide Watch was initiated for inmate Epstein (#76318-054) at the Metropolitan Correctional Center in New York. A psychological observation was not conducted. The communication is classified as CONFIDENTIAL and pertains to EFTA00034926.",
+      "timestamp": "2019-07-24T00:00:00",
+      "timestamp_raw": "July 24, 2019",
+      "keywords": [
+        "suicide watch",
+        "psych observation",
+        "forensic psychologist",
+        "u.s. public health service",
+        "federal bureau of prisons",
+        "metropolitan correctional center",
+        "efta00034926",
+        "epstin",
+        "confidential",
+        "sdny"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034641",
+            "similarity": 0.538,
+            "index": 39,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00034710",
+            "similarity": 0.538,
+            "index": 42,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034713",
+      "summary": "Inmate Epstein #76318-054 was removed from Suicide Watch and placed on Psychological Observation after a Health Services assessment. He is scheduled to meet with his attorney following the assessment. The Associate Warden provided a status update to the Regional Director regarding the inmate’s movements and current observation status.",
+      "timestamp": "2019-07-24T00:00:00",
+      "timestamp_raw": "7/24/2019",
+      "keywords": [
+        "inmate",
+        "psychology observation",
+        "attorney",
+        "assessment",
+        "evaluation",
+        "medical",
+        "status",
+        "follow-up",
+        "suicide watch",
+        "new york"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034710",
+      "summary": "On July 24, 2019, at 11:24:32 AM, a suicide watch was initiated for inmate Epstein (#76318-054) at the Metropolitan Correctional Center in New York. There were no psychological observations recorded at that time. The communication is classified as CONFIDENTIAL and pertains to the U.S. Department of Justice, Federal Bureau of Prisons.",
+      "timestamp": "2019-07-24T00:00:00",
+      "timestamp_raw": "July 24, 2019",
+      "keywords": [
+        "suicide watch",
+        "psych observation",
+        "forensic psychologist",
+        "u.s. public health service",
+        "federal bureau of prisons",
+        "metropolitan correctional center",
+        "efta00034710",
+        "confidential",
+        "sdny_00012116",
+        "epstein"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034926",
+            "similarity": 0.538,
+            "index": 40,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034641",
+            "similarity": 0.667,
+            "index": 39,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035640",
+      "summary": "*   He has been placed on Psychological Observation due to exhibiting unstable behavior, including observed self-harm attempts (a makeshift noose) and refusal to go to general population. *   A psychologist assessed him and determined he would remain on Psychological Observation for another day. *   He is under investigation for a Code 228 (tattooing/self-mutilation) related to the noose incident. *   He is currently housed in the Special Housing Unit (SHU) and is being considered for cellmate with inmate MI. *   His case is linked to a previous incident involving the mailing of improvised explosive devices to prominent Democratic figures. *   He was previously on Suicide Watch but has been stepped down to Psychological Observation. *   Regular updates and assessments are being conducted by the Associate Warden and Regional Director.",
+      "timestamp": "2019-07-25T00:00:00",
+      "timestamp_raw": "07/25/2019",
+      "keywords": [
+        "epstein",
+        "psychological observation",
+        "shu",
+        "suicide watch",
+        "tattooing",
+        "self-mutilation",
+        "code 228",
+        "mental illness",
+        "inmate",
+        "new york",
+        "attorney"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035589",
+            "similarity": 0.571,
+            "index": 33,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035380",
+            "similarity": 0.5,
+            "index": 32,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035587",
+            "similarity": 0.5,
+            "index": 31,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00035592",
+            "similarity": 0.615,
+            "index": 45,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034722",
+            "similarity": 0.692,
+            "index": 46,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034741",
+            "similarity": 0.5,
+            "index": 47,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00025523",
+      "summary": "On July 25, 2019, an individual informed the sender (EFTA00025523) that Jeffrey Epstein was under psychological observation, resembling suicide watch but a less intense form. This observation provided temporary housing for inmates with mental health issues not involving suicidal ideation.",
+      "timestamp": "2019-07-25T00:00:00",
+      "timestamp_raw": "July 25, 2019",
+      "keywords": [
+        "epstein",
+        "suicide watch",
+        "redaction",
+        "psychological observation",
+        "mental health",
+        "housing",
+        "inmates",
+        "2019",
+        "efta00025523"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035592",
+      "summary": "*   He was initially assessed by a psychologist and remains on Psychological Observation for another day. *   A Code 228 (tattooing/self-mutilation) investigation is pending. *   He is being considered for cellmate placement with inmates , , and . *   The Psychological Observation status is defined as a temporary measure for inmates experiencing mental instability or impaired functioning, not imminent suicidal ideation. *   He is housed in the Special Housing Unit (SHU). *   His case is linked to a publicized incident involving the mailing of improvised explosive devices to prominent Democratic figures.",
+      "timestamp": "2019-07-25T00:00:00",
+      "timestamp_raw": "25 Jul 2019",
+      "keywords": [
+        "epstein",
+        "psychological observation",
+        "shu",
+        "suicide watch",
+        "inmate",
+        "tattooing",
+        "self-mutilation",
+        "mental illness",
+        "udc hearing",
+        "protective custody"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035640",
+            "similarity": 0.615,
+            "index": 43,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035585",
+            "similarity": 0.571,
+            "index": 38,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035635",
+            "similarity": 0.538,
+            "index": 34,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00034722",
+            "similarity": 0.75,
+            "index": 46,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00034741",
+            "similarity": 0.538,
+            "index": 47,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034722",
+      "summary": "*   He was initially on Suicide Watch and has been removed. *   A Code 228 (Tattooing or Self-Mutilation) is pending against him. *   He was observed with a makeshift noose around his neck, leading to the initial assessment. *   Dr. MI is conducting a Psychological Observation, which defines as an inmate’s deterioration due to mental illness, personality disorder, medical problems, or drug/withdrawal symptoms. *   He will be reassessed tomorrow and potentially returned to the Special Housing Unit (SHU) with cellmates inmate III and inmate . *   His Attorney visit is scheduled after a follow-up assessment at Health Services. *   The Regional Director is requesting daily updates on his status.",
+      "timestamp": "2019-07-25T00:00:00",
+      "timestamp_raw": "7/25/2019",
+      "keywords": [
+        "epstein",
+        "psychological observation",
+        "shu",
+        "suicide watch",
+        "tattooing",
+        "self-mutilation",
+        "inmate",
+        "code 228",
+        "mental illness",
+        "mcc new york",
+        "udc hearing"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035592",
+            "similarity": 0.75,
+            "index": 45,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00035640",
+            "similarity": 0.692,
+            "index": 43,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035589",
+            "similarity": 0.692,
+            "index": 33,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00034741",
+            "similarity": 0.5,
+            "index": 47,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034741",
+      "summary": "*   He was previously on Suicide Watch and is awaiting assessment and re-evaluation. *   A psychologist will assess him daily over the weekend and again on Monday. *   He is being considered for cellmate placement with inmate M, after reviewing other SHU inmates. *   Epstein is facing charges related to mailing improvised explosive devices to prominent figures, including former presidents and senators. *   His Psychological Observation status is defined as a temporary measure for inmates experiencing mental instability due to impaired mental status, not imminent suicidal ideation. *   The Associate Warden is providing daily updates and coordinating medical assessments and attorney visits.",
+      "timestamp": "2019-07-26T00:00:00",
+      "timestamp_raw": "7/26/2019",
+      "keywords": [
+        "epstein",
+        "psychological observation",
+        "shu",
+        "suicide watch",
+        "tattooing",
+        "self-mutilation",
+        "sex offender",
+        "cell mate",
+        "mental illness",
+        "psychological assessment"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034722",
+            "similarity": 0.5,
+            "index": 46,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035592",
+            "similarity": 0.538,
+            "index": 45,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035640",
+            "similarity": 0.5,
+            "index": 43,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035645",
+      "summary": "On July 26, 2019, the Associate Warden at MCC New York is concerned about a prisoner’s psychological observation (psych obs) status, specifically regarding a potential step-down from SW to psych obs. The Chief Psychologist is tasked with assessing the prisoner’s condition and notifying the RD (Regional Director). The Associate Warden intends to re-assess the prisoner after he completes showering and dressing to ensure the decision remains appropriate before an interview. The Chief Psychologist has received nominations for awards submitted by the Associate Warden.",
+      "timestamp": "2019-07-26T00:00:00",
+      "timestamp_raw": "July 26, 2019",
+      "keywords": [
+        "efta00035645",
+        "federal bureau of prisons",
+        "new york",
+        "psych obs",
+        "warden",
+        "psychologist",
+        "assessment",
+        "metro olitan correctional center",
+        "justice department",
+        "attorney visit"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034831",
+      "summary": "On July 26, 2019, the Chief Psychologist of the U.S. Department of Justice/Federal Bureau of Prisons at the Metropolitan Correctional Center New York is coordinating an assessment of an inmate (\"Epstein\") regarding psychological observation. The psychologist is concerned about a previous evaluation and wants to confirm the appropriateness of a decision to step the inmate down from psychological observation to solitary confinement (SW). The psychologist is repeatedly checking on the inmate’s status, requesting updates on the assessment, and ensuring the relevant Regional Director is notified.  Award nominations were also being checked to ensure they were received.",
+      "timestamp": "2019-07-26T00:00:00",
+      "timestamp_raw": "July 26, 2019",
+      "keywords": [
+        "efta00034831",
+        "psych obs",
+        "federal bureau of prisons",
+        "metropolitan correctional center",
+        "new york",
+        "assessment",
+        "psychologist",
+        "doj",
+        "rd",
+        "epstein"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00034739",
+            "similarity": 0.538,
+            "index": 50,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034739",
+      "summary": "On July 26, 2019, the Chief Psychologist at the Metropolitan Correctional Center in New York was communicating with the Associate Warden regarding Jeffrey Epstein’s psychological observation. The Chief Psychologist requested updates on Epstein’s assessment, specifically wanting to confirm his current status after concerns from Central Office about a potential downgrade from psych observation to SW. The Associate Warden reported on Epstein’s activities, including being in the shower, and assured the Chief Psychologist that he would revisit Epstein after he was ready. Additionally, the Chief Psychologist mentioned having received award nominations from the Associate Warden.",
+      "timestamp": "2019-07-26T00:00:00",
+      "timestamp_raw": "July 26, 2019",
+      "keywords": [
+        "psychologist",
+        "bureau of prisons",
+        "federal justice",
+        "warden",
+        "new york",
+        "assessment",
+        "psych obs",
+        "epstein",
+        "rd",
+        "metropolitan correctional center"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034831",
+            "similarity": 0.538,
+            "index": 49,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035266",
+      "summary": "Inmate #76318-054 reported feeling dehydrated due to increased legal visits (12 hours daily) and reduced water consumption. The email was sent on July 27, 2019, regarding a psychological observation.",
+      "timestamp": "2019-07-27T00:00:00",
+      "timestamp_raw": "July 27, 2019",
+      "keywords": [
+        "inmate",
+        "epstein",
+        "observation",
+        "legal visits",
+        "dehydration",
+        "redaction",
+        "pdf",
+        "2019",
+        "psychological",
+        "efta00035266"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034832",
+      "summary": "On July 27, 2019, an inmate (Epstein #76318-054) was under suicide watch and psychological observation. He reported feeling dehydrated due to limited bathroom breaks during his legal visit, anxiety about returning to SHU, and difficulty sleeping due to nighttime noise. An assessment was conducted by [REDACTED] on July 27th, and follow-up was scheduled for the next day before another legal visit.",
+      "timestamp": "2019-07-27T00:00:00",
+      "timestamp_raw": "July 27, 2019",
+      "keywords": [
+        "suicide watch",
+        "psych observation",
+        "inmate",
+        "legal visit",
+        "dehydration",
+        "shu",
+        "anxiety",
+        "noise",
+        "samsung galaxy",
+        "epstein"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00034040",
+            "similarity": 0.667,
+            "index": 54,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035313",
+            "similarity": 0.667,
+            "index": 55,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034747",
+      "summary": "On July 27, 2019, inmate Jeffrey Epstein was assessed by a psychologist prior to his attorney visit and will remain under psychological observation, with a subsequent assessment scheduled for the following day. The communication was sent from a correctional facility and referenced case files SDNY_000 12203 and EFTA00034747.",
+      "timestamp": "2019-07-27T00:00:00",
+      "timestamp_raw": "July 27, 2019",
+      "keywords": [
+        "epstein",
+        "psychologist",
+        "observation",
+        "attorney",
+        "redaction",
+        "assessment",
+        "sdny",
+        "verizon",
+        "samsung",
+        "2019"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00035603",
+            "similarity": 0.818,
+            "index": 56,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034040",
+      "summary": "On July 27, 2019, an inmate (Epstein #76318-054) was under suicide watch and psychological observation.  A staff member reported seeing the inmate before a legal visit and noted he appeared stable. The inmate expressed concerns about dehydration due to limited bathroom breaks during the legal visit, anxiety about returning to solitary confinement (SHU), and difficulty sleeping due to noise. Suicide watch status was none at the time of the observation.",
+      "timestamp": "2019-07-27T00:00:00",
+      "timestamp_raw": "July 27, 2019",
+      "keywords": [
+        "suicide watch",
+        "psych observation",
+        "inmate",
+        "legal visit",
+        "shu",
+        "dehydrated",
+        "anxiety",
+        "noise",
+        "samsung galaxy",
+        "efta00034040"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034832",
+            "similarity": 0.667,
+            "index": 52,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00035313",
+            "similarity": 0.538,
+            "index": 55,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035313",
+      "summary": "On July 27, 2019, an inmate (Epstein #76318-054) was under suicide watch and psychological observation. He reported feeling dehydrated due to limited bathroom breaks during his legal visit, anxiety about returning to SHU, and difficulty sleeping due to noise. A staff member assessed him prior to his legal visit and documented the observations.",
+      "timestamp": "2019-07-27T00:00:00",
+      "timestamp_raw": "July 27, 2019",
+      "keywords": [
+        "suicide watch",
+        "psych observation",
+        "inmate epstein",
+        "legal visit",
+        "shu",
+        "dehydration",
+        "anxiety",
+        "noise",
+        "samsung galaxy",
+        "efta00035313"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034040",
+            "similarity": 0.538,
+            "index": 54,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034832",
+            "similarity": 0.667,
+            "index": 52,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035603",
+      "summary": "On July 27, 2019, inmate Jeffrey Epstein was assessed by a psychologist prior to an attorney visit and will remain under psychological observation, with a follow-up assessment scheduled for the next day.",
+      "timestamp": "2019-07-27T00:00:00",
+      "timestamp_raw": "July 27, 2019",
+      "keywords": [
+        "epstein",
+        "psychologist",
+        "observation",
+        "attorney",
+        "redaction",
+        "assessment",
+        "verizon",
+        "samsung",
+        "galaxy",
+        "2019"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034747",
+            "similarity": 0.818,
+            "index": 53,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00033979",
+      "summary": "An inmate, identified as Epstein #76318-054, reported feeling dehydrated due to infrequent water consumption related to his daily legal visits (12 hours). The communication was sent on July 27, 2019, as a psychological observation.",
+      "timestamp": "2019-07-27T00:00:00",
+      "timestamp_raw": "July 27, 2019",
+      "keywords": [
+        "inmate",
+        "observation",
+        "legal visits",
+        "dehydrated",
+        "water",
+        "redaction",
+        "efta00033979"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034215",
+      "summary": "Dr. MI removed Inmate Epstein from psychological observation and is preparing a competency report. He has reported similar complaints regarding his mental state, as previously discussed. The document originates from the U.S. Department of Justice/Federal Bureau of Prisons at the Metropolitan Correctional Center.",
+      "timestamp": "2019-07-30T00:00:00",
+      "timestamp_raw": "7/30/2019",
+      "keywords": [
+        "inmate epstein",
+        "competency report",
+        "psychological observation",
+        "dr. mi",
+        "u.s. department of justice",
+        "federal bureau of prisons",
+        "metropolitan correctional center",
+        "redaction analysis",
+        "sdny_00010516",
+        "efta00034215"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00035393",
+            "similarity": 0.5,
+            "index": 79,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035391",
+      "summary": "A psychologist at the Metropolitan Correctional Center is working on an inmate’s competency report after removing him from psychological observation. The inmate, identified as Epstein, has been experiencing complaints about his confinement.",
+      "timestamp": "2019-07-30T00:00:00",
+      "timestamp_raw": "30 Jul 2019",
+      "keywords": [
+        "efta00035391",
+        "inmate epstein",
+        "redaction analysis",
+        "psychological observation",
+        "competency report",
+        "u.s. department of justice",
+        "federal bureau of prisons",
+        "confinement",
+        "complaints"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035609",
+      "summary": "On July 30, 2019, the Metropolitan Correctional Center (MCC) New York reported the following: *   A fire panel was inoperative during the morning watch shift. *   Inmate Epstein (#76318-054) was removed from psychological observation and housed in the Special Housing Unit (SHU) #3 due to staff shortages. *   SHU #4 remained unassigned due to staff shortages. *   There were no triple-bunked cells in the SHU. *   Several departments (SIS, Video Monitoring, Chapel, Education, Recreation, Safety, 2 & 3 Sallyports, Central Tool Room) were missing reports. *   A missing equipment inventory form was also noted. *   Staff utilized various types of leave including furloughs, annual leave, sick leave, overtime, and suspension. *   A total of 767 inmates were present at the beginning of the morning watch shift, broken down by unit.",
+      "timestamp": "2019-07-30T00:00:00",
+      "timestamp_raw": "July 30, 2019",
+      "keywords": [
+        "correctional center",
+        "inmates",
+        "staff shortage",
+        "fire panel",
+        "housing unit",
+        "usms",
+        "daily report",
+        "overtime"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034777",
+      "summary": "An update was sent on July 31, 2019, regarding inmate Epstein. He was moved from Psychological Observation to the Special Housing Unit and appeared before the Unit Discipline Committee due to a self-mutilation incident. He is awaiting a hearing before the Disciplinary Hearing Officer.",
+      "timestamp": "2019-07-31T00:00:00",
+      "timestamp_raw": "July 31, 2019",
+      "keywords": [
+        "epstein",
+        "redaction",
+        "psychological observation",
+        "special housing unit",
+        "self-mutilation",
+        "disciplinary hearing officer",
+        "incident report",
+        "hearing",
+        "confidental",
+        "sdny"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00033607",
+      "summary": "On August 3, 2019, the Metropolitan Correctional Center’s Lieutenant documented daily operations, including counts, inmate movements (specifically Melendez and Benjamin), and security checks. Key events included fire alarm issues, phone checks, body alarm testing, PREA announcements, and administrative detentions. Inmates were frequently placed in the Local Hospital and observed psychological observations. Throughout the shift, the Lieutenant transitioned between morning, day, and evening watches, managing inmate counts and responding to various incidents, including a hospital return for inmate Melendez. There were no recorded STG/High Alert phone calls or WITSEC inquiries.",
+      "timestamp": "2019-08-03T00:00:00",
+      "timestamp_raw": "August 3, 2019",
+      "keywords": [
+        "lieutenant",
+        "count",
+        "shu",
+        "hospital",
+        "usms",
+        "psych obs",
+        "detention",
+        "fire alarm",
+        "inventory",
+        "nypd",
+        "phone check",
+        "observation",
+        "administrative",
+        "visitation",
+        "inmates",
+        "restraint equipment"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036521",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] regarding a \"Suicide Watch\" (EFTA00036521). The email includes notes on psychological observations, a pending SHU bedspace request, and a thank you. There are two redactions present in the document.",
+      "timestamp": "2019-08-08T00:00:00",
+      "timestamp_raw": "08 Aug 2019",
+      "keywords": [
+        "efta00036521",
+        "suicide watch",
+        "redaction",
+        "observation",
+        "psyc",
+        "alio se",
+        "watc",
+        "shu bedspace"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036519",
+      "summary": "An inmate, identified as EFTA00036519, is being placed on Suicide Watch. Psychological observation is scheduled, with no current findings and a pending Suicide Evaluation Bedspace (SEW). The communication originates from [REDACTED] to [REDACTED] on August 8, 2019.",
+      "timestamp": "2019-08-08T00:00:00",
+      "timestamp_raw": "August 8, 2019",
+      "keywords": [
+        "suicide watch",
+        "inmate",
+        "observation",
+        "efta00036519",
+        "text.htm",
+        "august 2019"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036668",
+      "summary": "On August 9, 2019, the Supervisory Staff Attorney discussed Mr. Epstein’s requests with his attorneys, Mariel Colon and Michael Miller. Colon inquired about housing him in the Cadre, which was declined due to his pretrial status. Miller requested housing him alone in SHU, citing a prior suicide attempt/gesture, which was also denied. Neither attorney discussed a suicide watch or psychological observation.",
+      "timestamp": "2019-08-09T00:00:00",
+      "timestamp_raw": "August 9, 2019",
+      "keywords": [
+        "attorney",
+        "inmate",
+        "suicide",
+        "shu",
+        "conference",
+        "request",
+        "access",
+        "epstein",
+        "conversation",
+        "psychological observation"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035970",
+      "summary": "Department of Justice Office of the Inspector General into the custody, care, and supervision of Jeffrey Epstein at the Metropolitan Correctional Center in New York, specifically focusing on the period from August 9, 2019. The investigation was initiated due to concerns about Epstein’s cellmate situation and the handling of his transfer from suicide watch. Key findings include: *   **Cellmate Requirement:** Epstein was required to have a cellmate due to his psychological observation history. *   **Inmate 3’s Transfer:** Inmate 3, Epstein’s cellmate, was transferred from the facility on August 9, 2019, leaving Epstein without a designated cellmate. *   **Failure to Notify:** The Day Watch SHU Officer in Charge failed to immediately notify a supervisor about the need for a new cellmate, violating BOP standards and SHU Post Orders. They also offered inconsistent accounts regarding notifications made to other staff. *   **Lack of Cell Searches:** The officer failed to properly document cell searches, potentially missing opportunities to assess Epstein’s needs. There were concerns about an excessive amount of linens in his cell. *   **Inaccurate Count:** The 4:00 PM SHU count on August 9, 2019, was inaccurate due to a miscount of inmates, potentially hindering the realization that Inmate 3 was no longer present. *   **Draft Status:** The document is a draft and subject to revision, emphasizing the sensitivity of the information contained within. It’s marked for limited official use and strict confidentiality.",
+      "timestamp": "2019-08-09T00:00:00",
+      "timestamp_raw": "August 9, 2019",
+      "keywords": [
+        "limited official use",
+        "jeffrey epstein",
+        "metropolitan correctional center",
+        "shu",
+        "cellmate",
+        "investigation",
+        "review",
+        "department of justice",
+        "oig",
+        "psycholopy department"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036666",
+      "summary": "On August 9, 2019, a Supervisory Staff Attorney at the Metropolitan Correctional Center discussed inmate Jeffrey Epstein’s requests with his attorneys, Mariel Colon and Michael Miller. Colon inquired about housing Epstein in the Cadre due to his pretrial status, and Miller requested solitary confinement in SHU due to Epstein’s prior suicide attempt. The attorney stated neither attorney discussed suicide watch or psychological observation during the conversations.",
+      "timestamp": "2019-08-09T00:00:00",
+      "timestamp_raw": "August 9, 2019",
+      "keywords": [
+        "epstein",
+        "suicide",
+        "shu",
+        "attorney",
+        "water",
+        "conference",
+        "cadre",
+        "pretrial inmate",
+        "new york",
+        "metropolitan correctional center"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034496",
+      "summary": "On August 9, 2019, the author, a Supervisory Staff Attorney, discussed a pretrial inmate’s requests with his attorneys. The inmate requested access to water in the attorney conference room and inquired about housing in the Cadre, which was denied due to his pretrial status. He then requested to be housed alone in SHU, also denied due to a prior suicide attempt/gesture. Neither attorney raised concerns about a suicide watch or psychological observation.",
+      "timestamp": "2019-08-09T00:00:00",
+      "timestamp_raw": "August 9, 2019",
+      "keywords": [
+        "efta00034496",
+        "inmate",
+        "suicide attempt",
+        "attorney",
+        "shu",
+        "cadre",
+        "pretrial",
+        "conversation",
+        "correctional center",
+        "metropolitan correctional center"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034359",
+      "summary": "On August 11, 2019, the Metropolitan Correctional Center (MCC) in New York received a daily activity report from Lieutenant M/W Operations.  An inmate (I/M 115) was reported as injured in medical (I/M), requiring investigation.  There were no significant reports from the Day or Evening Watch shifts. Inmates were under observation for psychiatric issues, and there were no new admissions or releases.  Cell occupancy in the Special Housing Unit (SHU) was not triple-bunked.  Several departments requested attorney conferences.  Five staff members used annual leave, ten used sick leave, and two used compensatory time. Overtime hours were recorded, totaling 179.3 for E-1 overtime and 13.00 for E-1 comp time.  The institution’s total inmate count at the beginning of the morning watch shift was 756.",
+      "timestamp": "2019-08-11T00:00:00",
+      "timestamp_raw": "August 11, 2019",
+      "keywords": [
+        "metropolitan correctional center",
+        "daily activity report",
+        "lieutenant",
+        "inmates",
+        "psychological observation",
+        "attorney conference",
+        "new york",
+        "corrections",
+        "overtime",
+        "leave"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018976",
+      "summary": "An email chain discusses documents related to inmate suicide watch and psychological observation within a correctional facility, specifically concerning Jeffrey Epstein. The email details questions asked of Lt. Doctor, including inquiries about head count logs, Epstein’s last cellmate (Tartaglione), the requirement for cellmates, and who assigns them. Epstein’s file indicates he did not require a cellmate and that Tartaglione was his cellmate during a previous suicide attempt. The emails originate from the U.S. Department of Justice, Office of the Inspector General, New York Field Office.",
+      "timestamp": "2019-08-11T00:00:00",
+      "timestamp_raw": "11 Aug 2019",
+      "keywords": [
+        "epstein",
+        "suicide watch",
+        "psychological observation",
+        "cellmate",
+        "bop",
+        "shu",
+        "logs",
+        "lt. doctor",
+        "tartaglione",
+        "fbi"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00033924",
+      "summary": "This document is a psychological observation report concerning Jeffrey Edward Epstein (Reg. No. 73618-054) conducted between July 24th and July 30th, 1919. It utilized an “I/M companion” and later an “UM companion.” The report is labeled CONFIDENTIAL and associated with case number SDNY_00009646, and file EFTA00033924.",
+      "timestamp": "2019-08-12T00:00:00",
+      "timestamp_raw": "8/12/2019",
+      "keywords": [
+        "efta00033924",
+        "jeffrey edward epstein",
+        "psych observation",
+        "redaction analysis",
+        "2019",
+        "sdny_00009646",
+        "companion",
+        "companion utilized",
+        "text.htm",
+        "73618-054"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035071",
+      "summary": "An email exchange regarding a psychological observation of Jeffrey Edward Epstein (Reg. No. 73618-054) conducted between 7/8/19 6 pm and 7/10/19 at 9 am. One party sent emails with attachments (“TEXT.htm”) related to the observation, but the recipient reported receiving corrupted files with the error “document cannot be opened because it is corrupted or damaged.” The email chain includes correspondence between the Associate Warden of MCC New York and a recipient, [REDACTED], and Lamine N’Diaye <Indiaye@bop.gov>. The file identifier is EFTA00035071.",
+      "timestamp": "2019-08-12T00:00:00",
+      "timestamp_raw": "12 Aug 2019",
+      "keywords": [
+        "epstein",
+        "jeffrey edward",
+        "redaction analysis",
+        "psych observation",
+        "mcc new york",
+        "document corrupted",
+        "attachments",
+        "73618-054",
+        "efta00035071",
+        "bop.gov"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035073",
+      "summary": "This document pertains to Jeffrey Edward Epstein (Reg. No. 73618-054) and includes several related documents: a text file (TEXT.htm), psychological observation reports from July 8-30 and July 24-30, 2019, a social work chronological log from July 23 & 24, 19, a social work chronological log from July 23, 19, and correspondence from the Associate Warden at MCC New York regarding S/W and psych ops documents.",
+      "timestamp": "2019-08-12T00:00:00",
+      "timestamp_raw": "12 Aug 2019",
+      "keywords": [
+        "epstein",
+        "jeffrey edward",
+        "redaction analysis",
+        "s/w",
+        "psych ops",
+        "psychological operations",
+        "efta00035073",
+        "new york"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00033745",
+      "summary": "This document pertains to Jeffrey Edward Epstein, Registration No. 73618-054, and includes psychological observation reports from July 8th and 24th, 2019, along with chronological logs of Social Work activities from July 23rd and 24th, 19. It originates from the Associate Warden at MCC New York, referencing documents related to S/W and psych ops, and is classified as CONFIDENTIAL.",
+      "timestamp": "2019-08-12T00:00:00",
+      "timestamp_raw": "8/12/2019",
+      "keywords": [
+        "epstein",
+        "jeffrey edward",
+        "psych observation",
+        "sw chronological loci",
+        "psych ops",
+        "redaction analysis",
+        "efta00033745",
+        "confidental",
+        "sdny_00009216",
+        "mcc new york"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035725",
+      "summary": "On September 9, 2019, the Federal Bureau of Investigation received emails from mCc concerning suicide watch and psychological observation of Jeffrey Epstein, as part of a death investigation (Case ID: 90A-NY-3151227). The emails were provided by the Office of the Inspector General (OIG SA).",
+      "timestamp": "2019-09-09T00:00:00",
+      "timestamp_raw": "September 9, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "suicide watch",
+        "psychological observation",
+        "federal bureau of investigation",
+        "import form",
+        "emails",
+        "ssa",
+        "death investigation",
+        "oig",
+        "mcc"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036011",
+      "summary": "The Bureau of Prisons (BOP) is responding to an Office of Inspector General (OIG) report regarding Jeffrey Epstein’s custody at the Metropolitan Correctional Center in New York. The BOP acknowledges eight recommendations from the OIG report and outlines the steps they are taking to address them. These include: 1.  Implementing a process for assigning cellmates after suicide watch, with exceptions. 2.  Ensuring continued cellmate assignment for high-risk inmates recommended by psychologists. 3.  Evaluating and standardizing the process for obtaining approval for social/legal visits during suicide watch. 4.  Evaluating inmate whereabouts and wellbeing methods. 5.  Updating Lieutenant round procedures. 6.  Addressing staffing shortages through an automated tool and recruitment incentives. 7.  Improving cell search procedures through staff training. 8.  Enhancing security camera system policies to include regular functionality checks. The BOP states that RSD and CPD are collaborating on implementing these changes, with updates to the Correctional Services Procedures Manual planned.",
+      "timestamp": "2023-09-11T00:00:00",
+      "timestamp_raw": "September 11, 2023",
+      "keywords": [
+        "bop",
+        "suicide watch",
+        "cellmate",
+        "recommendations",
+        "bureau of prisons",
+        "security",
+        "risk assessment",
+        "psychological observation",
+        "visitation",
+        "staffing shortages"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035919",
+      "summary": "The Federal Bureau of Prisons (FBOP) is providing an update to the Office of the Inspector General (OIG) regarding its response to a 2023 OIG report investigating Jeffrey Epstein’s treatment at the Metropolitan Correctional Center in New York. Here’s a breakdown of the key points: *   **Overall Approach:** The FBOP is implementing changes across several areas to address the OIG’s recommendations, primarily through modifications to existing Program Statements rather than creating new guidance memorandums. *   **Cellmate Assignment (Recommendation 1):** The FBOP plans to implement a process for assigning cellmates after suicide or psychological observation, incorporating exemptions based on individual circumstances, but this is still under review. *   **High-Risk Inmates (Recommendation 2):** The FBOP is developing a policy to ensure continued cellmate placement for inmates at high suicide risk, using Program Statement 5321.09, and tracking this through a modified Unit Management and Inmate Program Review policy. *   **Social/Legal Visits (Recommendation 3):** The FBOP intends to incorporate guidance on this process into Program Statement 5324.08, Suicide Prevention Policy, instead of a separate memorandum. *   **Inmate Wellbeing & Whereabouts (Recommendation 4):** The FBOP is updating Program Statement 5500.14, Correctional Services Procedures Manual, to improve methods for accounting for inmate whereabouts and wellbeing. *   **Lieutenant N1 Lien Round Checks (Recommendation 5):** The FBOP is revising Program Statement 5500.14 to address this, utilizing a documented process overseen by the Captain, and relying on Daily Lieutenant Logs. *   **Staffing Shortages (Recommendation 6):** The FBOP is actively working to address shortages through incentives, hiring via Direct Hiring Authority, and collaborating with the Department of Justice and OPM on a nationwide salary rate, with data collection and analysis ongoing. *   **Security Camera Systems (Recommendation 8):** The FBOP has immediately implemented a joint memorandum and template system for monthly security camera reportings and verification. The FBOP notes that all revisions are subject to Union negotiation and potential changes.",
+      "timestamp": "2024-11-19T00:00:00",
+      "timestamp_raw": "November 19, 2024",
+      "keywords": [
+        "fbop",
+        "bureau of prisons",
+        "suicide watch",
+        "cellmate",
+        "recommendations",
+        "program statement",
+        "security",
+        "oversight",
+        "analysis",
+        "staffing"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032174",
+      "summary": "He was initially seen for a suicide risk assessment. He denied any history of mental health treatment, suicidal ideation, substance abuse, or self-harm.  The assessment found no acute psychopathology or current suicidal risk. He was classified as a CC1-MH inmate, indicating minimal functional impairment and no need for regular mental health intervention.  Recommendations included continued observation and placement in a suitable housing unit.  The overall acute and chronic suicide risk was deemed Low and Absent, respectively.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "suicide risk",
+        "assessment",
+        "inmate",
+        "epstein",
+        "trafficking",
+        "charges",
+        "psychological observation",
+        "risk factors",
+        "mental health",
+        "treatment"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035393",
+      "summary": "Dr. MI removed the individual (EFTA00035393) from psychological observation and is preparing a competency report. He has expressed complaints regarding his confinement, similar to previous reports shared with the sender.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "competency report",
+        "psychological observation",
+        "confinement",
+        "dr. mi",
+        "u.s. department of justice",
+        "federal bureau of prisons",
+        "metropolitan correctional center",
+        "efta00035393"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034215",
+            "similarity": 0.5,
+            "index": 58,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034941",
+      "summary": "A suicide watch is currently open for patient Epstein #76318-054. A psychological observation is also being conducted. The communication is classified as confidential and pertains to the SDNY case EFTA00034941.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "suicide watch",
+        "psych observation",
+        "redaction analysis",
+        "efta00034941",
+        "epstein",
+        "confidential"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00034922",
+            "similarity": 0.5,
+            "index": 82,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034033",
+            "similarity": 0.5,
+            "index": 84,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034932",
+            "similarity": 0.5,
+            "index": 92,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034049",
+      "summary": "There is a “Suicide Watch” with no psychological observations. There are two pending requests for SHU beds.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "suicide watch",
+        "observation",
+        "shu beds",
+        "confidential",
+        "sdny"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034922",
+      "summary": "Suicide Watch, identified as Epstein #76318-054, is under psychological observation with no reported findings. The document is marked CONFIDENTIAL and associated with case numbers SDNY_00012876 and EFTA00034922.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "suicide watch",
+        "epstein",
+        "psych observation",
+        "confidential",
+        "sdny_00012876",
+        "efta00034922"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034941",
+            "similarity": 0.5,
+            "index": 80,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00034033",
+            "similarity": 0.5,
+            "index": 84,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034932",
+            "similarity": 0.5,
+            "index": 92,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034940",
+            "similarity": 0.5,
+            "index": 93,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034435",
+      "summary": "It details the inmate’s observation period, including allowed items (clothing, toiletries, etc.), rules for the observation room, and a feeding/shower chart to track the inmate’s consumption of food and liquids.  The document also contains notes related to a potential suicide watch or psychological observation, including a redacted section likely containing related clinical information. It includes standard observation forms with sections for recording meals, liquid intake, and shower activity, with checkboxes to indicate if the inmate ate or drank. The record concludes with a shift summary indicating the end of the observation period.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efa00034435",
+        "observation",
+        "inmate",
+        "suicide watch",
+        "psychology",
+        "eating chart",
+        "liquid",
+        "shower",
+        "toothbrush",
+        "clothing",
+        "blanket",
+        "mattress",
+        "registration number",
+        "confinement",
+        "observation ended"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034033",
+      "summary": "Suicide Watch was initiated for Epstein #76318-054. Psychological observation was also noted. The document is classified as CONFIDENTIAL and includes case numbers SDNY_00009907 and EFTA00034033.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "suicide watch",
+        "psych observation",
+        "epstein",
+        "confidential",
+        "sdny_00009907",
+        "efta00034033"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034922",
+            "similarity": 0.5,
+            "index": 82,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034941",
+            "similarity": 0.5,
+            "index": 80,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00034932",
+            "similarity": 0.5,
+            "index": 92,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034940",
+            "similarity": 0.5,
+            "index": 93,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034020",
+            "similarity": 0.5,
+            "index": 97,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00033926",
+      "summary": "This document is an observation report related to a psychiatric or psychological assessment of an inmate (identified as \"PAA-AE\"). It details the inmate’s registration, the start and end dates of the observation, and allowed items (clothing, supplies, etc.). The report includes an eating/shower chart to track the inmate’s food and liquid consumption, and a section for recording any suicide watch or psychological observation notes. The document emphasizes confidentiality and specifies procedures for returning observation logs. It’s part of a series of records related to the inmate’s case.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "observation",
+        "inmate",
+        "suicide watch",
+        "psych observation",
+        "eating chart",
+        "liquids",
+        "shower",
+        "registration",
+        "clothes",
+        "toothbrush",
+        "newspaper",
+        "books",
+        "pen",
+        "paper",
+        "blanket",
+        "smock",
+        "hygiene",
+        "observation ended",
+        "observation started"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00033747",
+            "similarity": 0.654,
+            "index": 91,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00033966",
+      "summary": "It outlines specific rules and procedures for the observation, including permitted items (clothing, toiletries, reading material), the use of specialized bedding, and detailed charting of the inmate's meals and liquid intake. The document includes sections for recording the inmate's eating habits (checking boxes for meal consumption), and instructions for documenting liquid consumption. It also contains general observation notes and references to SDNY facility codes.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "suicide watch",
+        "psych observation",
+        "eating/shower chart",
+        "inmate",
+        "observation",
+        "clothes",
+        "toothbrush",
+        "newspaper",
+        "books",
+        "blanket",
+        "mattress",
+        "legal mail",
+        "food",
+        "liquids",
+        "safety"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035074",
+      "summary": "It specifies permitted items (clothing, hygiene products, reading materials) and requires the inmate to use a specific blanket and mattress. The inmate’s eating and liquid consumption are tracked via a chart, with checkboxes indicating whether the inmate actually consumed the offered food or drinks.  A significant portion of the document appears to contain nonsensical, seemingly random text, possibly representing a failed translation or data corruption. The final pages document observations made on June 17, 1976, including details on the inmate's activity, medical interventions, and attempts to engage the inmate.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "observation",
+        "suicide watch",
+        "psych observation",
+        "eating/shower chart",
+        "items allowed",
+        "safety toothbrush",
+        "safety pen",
+        "legal mail",
+        "sw blanket",
+        "inmate"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024366",
+      "summary": "The initial assessment, conducted by the Chief Psychologist, revealed a history of denying mental health treatment, substance abuse, and self-harm.  He denied suicidal ideation, intention, or plans.  His current mental status was alert, oriented, and cooperative. He exhibited normal psychomotor activity, general appearance, and mood.  Risk factors included the high-profile case and legal situation.  The assessment concluded with a low acute suicide risk and an absent chronic suicide risk, leading to a CARE1-MH classification (indicating minimal need for intervention). The final note reiterates the classification and recommends continued observation.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "suicide risk",
+        "assessment",
+        "inmate",
+        "epstein",
+        "nym",
+        "risk factors",
+        "sex offense",
+        "trafficking",
+        "court",
+        "observation",
+        "psychological",
+        "treatment",
+        "history",
+        "denial",
+        "protective factors",
+        "static risk",
+        "dynamic risk"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00033965",
+      "summary": "Psychological observations were conducted from July 8, 1919, at 6:00 PM to July 10, 1919, at 9:00 AM, utilizing an I/M companion. The observations were part of case SDNY_00009716 and document EFTA00033965, and are classified as CONFIDENTIAL.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "psych observation",
+        "efta00033965",
+        "sdny_00009716",
+        "i/m companion",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00033885",
+      "summary": "A psychological observation was conducted from July 8, 1919, at 6:00 PM to July 10, 1919, at 9:00 AM, utilizing an inmate companion. The observation occurred at the MCC New York facility, 150 Park Row, New York, NY 10007, under the supervision of Associate Warden SDNY_00009557, and was classified as confidential. The inmate's identifier is EFTA00033885.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00033885",
+        "psych observation",
+        "associate warden",
+        "mcc new york",
+        "confidential",
+        "sdny_00009557",
+        "7/8/19",
+        "7/10/19"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00033747",
+      "summary": "It details the observation of an inmate (identified as “Paa-ae-”) on December 27, 2025, likely related to suicide watch or psychological evaluation. The observation includes restrictions on allowed items (clothing, personal effects), a detailed eating/shower chart to track the inmate’s consumption and hygiene, and a section for documenting any observations made during the session. The report emphasizes confidentiality and the requirement to return the log to psychology after the observation. The document’s purpose is to record and monitor an inmate’s behavior and needs while under psychological observation.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "observation",
+        "efa00033747",
+        "inmate",
+        "suicide watch",
+        "psych observation",
+        "eating chart",
+        "liquids",
+        "shower",
+        "clothes",
+        "safety",
+        "toothbrush",
+        "newspaper",
+        "magazine",
+        "books",
+        "pen",
+        "paper",
+        "legal mail",
+        "blanket",
+        "smock",
+        "suicide blanket",
+        "registration number",
+        "observation started",
+        "observation ended",
+        "confidential"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00033926",
+            "similarity": 0.654,
+            "index": 85,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034932",
+      "summary": "Suicide Watch is being monitored for Epstein #76318-054. Psychological observation is also being conducted. The document is classified as CONFIDENTIAL and references case numbers SDNY_00012912 and EFTA00034932.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "suicide watch",
+        "psych observation",
+        "epstein",
+        "efta00034932",
+        "confidential",
+        "sdny_00012912"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034033",
+            "similarity": 0.5,
+            "index": 84,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034922",
+            "similarity": 0.5,
+            "index": 82,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034941",
+            "similarity": 0.5,
+            "index": 80,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00034940",
+            "similarity": 0.5,
+            "index": 93,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034020",
+            "similarity": 0.5,
+            "index": 97,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034940",
+      "summary": "Suicide Watch was initiated for Epstein #76318-054. Psychological observation was also conducted. The document is classified as CONFIDENTIAL and references case numbers SDNY_000 12929 and EFTA00034940.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "suicide watch",
+        "psych observation",
+        "epstein",
+        "confidential",
+        "sdny",
+        "efta00034940"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034932",
+            "similarity": 0.5,
+            "index": 92,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034033",
+            "similarity": 0.5,
+            "index": 84,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034922",
+            "similarity": 0.5,
+            "index": 82,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00034020",
+            "similarity": 0.5,
+            "index": 97,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00032162",
+      "summary": "He was initially seen on 07/27/2019 reporting anxiety related to past SHU experiences, memory issues, and concerns about his neck marks.  Subsequent entries (07/28-07/31) documented ongoing observation, including issues with sleep, numbness, a concerning incident with a toilet, and questions about his accommodations. The prison psychologist provided supportive interventions and coping strategies, including handouts and educating him on procedures.  A suicide risk assessment was conducted on 07/23/2019 (and repeated on 08/01/2019), finding a low overall risk with protective factors present. A final assessment on 08/08/2019 noted his general well-being and continued monitoring with weekly rounds and monthly SHU reviews.  He was initially flagged due to a concern about a string around his neck, but the source of the marks remains unclear.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "psychology",
+        "shu",
+        "inmate",
+        "jeffrey edward epstein",
+        "clinical intervention",
+        "mental status",
+        "suicidal ideation",
+        "psychosis",
+        "depression",
+        "coping strategies",
+        "nym"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035005",
+      "summary": "The document is titled “Suicide Watch” and indicates a psychological observation was made. It includes case identifiers SDNY_0001 3089 and EFTA00035005, and is marked as CONFIDENTIAL.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "suicide watch",
+        "observation",
+        "confidential",
+        "sdny_0001",
+        "efta00035005"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035087",
+      "summary": "It outlines specific procedures and guidelines for observing an inmate, including allowed items, safety protocols, and observation tracking. The inmate is on suicide watch or undergoing a psychological observation.  The log records the inmate’s eating and liquid consumption, and whether the inmate received a shower.  It utilizes a series of charts to systematically record these observations and monitor the inmate’s behavior and needs. The document emphasizes adherence to strict protocols to ensure the inmate’s safety and provide accurate observation data.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "observation",
+        "efta00035087",
+        "suicide watch",
+        "psych observation",
+        "eating/shower chart",
+        "registration",
+        "inmate",
+        "meals",
+        "liquids",
+        "observation started",
+        "blankets",
+        "mattress",
+        "clothes",
+        "safety toothbrush",
+        "newspaper",
+        "book",
+        "pen",
+        "toilet paper",
+        "mail"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034020",
+      "summary": "Suicide Watch, identified as Epstein #76318-054, is under psychological observation with no recorded observations. The document is classified as CONFIDENTIAL and involves case number SDNY_00009873 and file reference EFTA00034020.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "suicide watch",
+        "epstein",
+        "psych observation",
+        "confidential",
+        "sdny_00009873",
+        "efta00034020"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034940",
+            "similarity": 0.5,
+            "index": 93,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034932",
+            "similarity": 0.5,
+            "index": 92,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034033",
+            "similarity": 0.5,
+            "index": 84,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    }
+  ]
+}

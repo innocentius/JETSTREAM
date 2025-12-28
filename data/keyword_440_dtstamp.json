@@ -1,0 +1,1169 @@
+{
+  "keyword": "dtstamp",
+  "count": 30,
+  "keyword_match_count": 30,
+  "content_match_count": 18,
+  "total_files": 48,
+  "timeline": [
+    {
+      "file_id": "EFTA00013482",
+      "summary": "On June 13, 2008, at 2:00 PM, a call occurred between Epstein and John Roth, designated as event EFTA00013482. The event was categorized as “X-PERSONAL,” created on April 4, 2015, and modified on July 22, 2015, with a priority of 5.",
+      "timestamp": "2008-06-13T00:00:00",
+      "timestamp_raw": "June 13, 2008",
+      "keywords": [
+        "epstein",
+        "john roth",
+        "2008",
+        "redaction analysis",
+        "event",
+        "locationmdfc",
+        "personal",
+        "2015",
+        "dtstamp"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014183",
+      "summary": "A telephone conference was held on December 3, 2008, from 2:00 PM to 2:30 PM GMT (Eastern Time) in the organizer’s office regarding Jeffrey Epstein. The event was created on November 26, 2008, and last modified on October 2, 2022.",
+      "timestamp": "2008-12-03T00:00:00",
+      "timestamp_raw": "December 3, 2008",
+      "keywords": [
+        "epstein",
+        "telephone conference",
+        "2008-12-03",
+        "event",
+        "my office",
+        "x-personal",
+        "date created",
+        "date modified",
+        "dtstamp"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013491",
+      "summary": "Event: Epstein occurred on June 5, 2009, from 3:00 PM to 3:30 PM at an office location. It was marked as X-PERSONAL, created on April 4, 2015, and last modified on July 22, 2015.  Attendee EFTA00013491 was associated with the event.",
+      "timestamp": "2009-06-05T00:00:00",
+      "timestamp_raw": "June 5, 2009",
+      "keywords": [
+        "epstein",
+        "event",
+        "2009",
+        "2015",
+        "office",
+        "personal",
+        "date created",
+        "date modified",
+        "dtstamp",
+        "efta00013491"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019532",
+      "summary": "Event: Meet re: Epstein Investigation Start Date: 2018-12-06 21:30:00 +0000 End Date: 2018-12-06 22:30:00 +0000 Location: Conference Room 646 Class: X-PERSONAL Date Created: 2018-12-05 00:52:30 +0000 Date Modified: 2018-12-05 00:52:30 +0000 Priority: 5 DTSTAMP: 2018-12-05 00:37:27 +0000 Attendee: EFTA00019532",
+      "timestamp": "2018-12-06T00:00:00",
+      "timestamp_raw": "2018-12-06",
+      "keywords": [
+        "epstein investigation",
+        "efta00019532",
+        "conference room 646",
+        "2018-12-06",
+        "meet",
+        "x-personal",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031835",
+      "summary": "On 2019-01-11 from 16:00:00 to 16:30:00 GMT, there was an “Accepted: Epstein call” event. The organizer class was “X-PERSONAL”. The event was created on 2019-01-09 and last modified on the same date.  The priority was 5, and the DTSTAMP was 2019-01-09 15:29:04 +0000. The document identifier is EFTA00031835.",
+      "timestamp": "2019-01-11T00:00:00",
+      "timestamp_raw": "2019-01-11",
+      "keywords": [
+        "epstein",
+        "call",
+        "2019-01-11",
+        "efta00031835",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027956",
+      "summary": "On 2019-01-29 at 21:50:00 +0000, a meeting occurred with an individual regarding Jeffrey Epstein, categorized as “X-PERSONAL.” The organizer is unknown. The meeting lasted from 21:50:00 to 22:00:00 +0000, was created on 2019-01-29 21:09:00 +0000, and modified at the same time. It had a priority of 5 and a DTSTAMP of 2019-01-29 20:56:58 +0000. A reminder was set to display a message 15 minutes before the start.",
+      "timestamp": "2019-01-29T00:00:00",
+      "timestamp_raw": "2019-01-29",
+      "keywords": [
+        "epstein",
+        "meeting",
+        "2019-01-29",
+        "redaction analysis",
+        "efta00027956",
+        "personal",
+        "alarm",
+        "reminder",
+        "priority",
+        "dtstamp"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00009885",
+      "summary": "A phone call occurred on 2019-03-05 from 21:00:00 to 21:30:00 +0000 between (USAWS) and Geoff Epstein. The call was organized by (USAWS) [REDACTED] and [REDACTED], classified as X-PERSONAL, and created on 2019-03-05 16:17:55 +0000. It had a priority of 5 and a DTSTAMP of 2019-03-05 16:07:55 +0000. A reminder was set to display 15 minutes before the start.",
+      "timestamp": "2019-03-05T00:00:00",
+      "timestamp_raw": "2019-03-05",
+      "keywords": [
+        "efta00009885",
+        "call",
+        "geoff",
+        "epstein",
+        "2019-03-05",
+        "redaction",
+        "usaws",
+        "personal",
+        "event",
+        "reminder"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019553",
+      "summary": "On April 8, 2019, at 13:30:00 +0000, an event labeled “Accepted: Epstein pre-meet” occurred, lasting until 14:00:00 +0000. The event was classified as X-PERSONAL, had a priority of 5, and was attended by EFTA00019553. The event was created on April 7, 2019, and last modified on the same date.",
+      "timestamp": "2019-04-08T00:00:00",
+      "timestamp_raw": "April 8, 2019",
+      "keywords": [
+        "efta00019553",
+        "epstein",
+        "event",
+        "accepted",
+        "2019-04-08",
+        "x-personal",
+        "priority",
+        "date created",
+        "date modified",
+        "dtstamp"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021246",
+      "summary": "On July 1, 2019, at 7:30 PM, Jeffrey Epstein held a meeting with the FBI, organized by (USANYS) [REDACTED]. The meeting lasted from 8:30 PM to 9:30 PM. This event was classified as X-PERSONAL.",
+      "timestamp": "2019-07-01T00:00:00",
+      "timestamp_raw": "July 1, 2019",
+      "keywords": [
+        "epstein",
+        "fbi",
+        "meeting",
+        "2019-07-01",
+        "redaction",
+        "usanys",
+        "x-personal",
+        "date created",
+        "date modified",
+        "dtstamp"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030225",
+      "summary": "On 2019-07-09 from 14:00:00 to 14:30:00 GMT, there was an accepted counsel call (EFTA00030225) categorized as X-PERSONAL with a priority of 5. The call was created on 2019-07-08.",
+      "timestamp": "2019-07-09T00:00:00",
+      "timestamp_raw": "2019-07-09",
+      "keywords": [
+        "efta00030225",
+        "accepted",
+        "event",
+        "2019-07-09",
+        "organizer",
+        "class",
+        "personal",
+        "date created",
+        "date modified",
+        "dtstamp"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026644",
+      "summary": "On July 11, 2019, at 16:00:00 +0000, a bail submission related to the Epstein defense occurred at Berman. The event was classified as X-PERSONAL and created on July 8, 2019. A 15-minute reminder was scheduled to display before the start.",
+      "timestamp": "2019-07-11T00:00:00",
+      "timestamp_raw": "July 11, 2019",
+      "keywords": [
+        "epstein",
+        "bail submission",
+        "redaction",
+        "2019-07-11",
+        "berman",
+        "personal",
+        "x-personal",
+        "dtstamp",
+        "attendee",
+        "event"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030824",
+      "summary": "On July 12, 2019, at 21:00:00 +0000, a government response to a bail motion for Jeffrey Epstein occurred at Berman. The event was classified as X-PERSONAL, created on July 8, 2019, and had a priority of 5. A reminder message was scheduled to display 15 minutes before the start.",
+      "timestamp": "2019-07-12T00:00:00",
+      "timestamp_raw": "July 12, 2019",
+      "keywords": [
+        "epstein",
+        "bail motion",
+        "gov't reply",
+        "2019-07-12",
+        "berman",
+        "redaction",
+        "personal",
+        "event",
+        "dtstamp"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00026648",
+            "similarity": 0.636,
+            "index": 12,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00032983",
+            "similarity": 0.5,
+            "index": 13,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00026648",
+      "summary": "On July 12, 2019, at 21:00:00 +0000, a government response to an Epstein bail motion was accepted. The event occurred at Berman, classified as X-PERSONAL, and was created on July 10, 2019.",
+      "timestamp": "2019-07-12T00:00:00",
+      "timestamp_raw": "July 12, 2019",
+      "keywords": [
+        "epstein",
+        "bail motion",
+        "redaction",
+        "gov't reply",
+        "2019-07-12",
+        "berman",
+        "x-personal",
+        "dtstamp",
+        "efta00026648"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00030824",
+            "similarity": 0.636,
+            "index": 11,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00032983",
+            "similarity": 0.636,
+            "index": 13,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00032983",
+      "summary": "On July 12, 2019, at 21:00-21:30 +0000, a government response to a bail motion for Jeffrey Epstein was accepted at Berman. The event was classified as X-PERSONAL. The attendee is redacted.",
+      "timestamp": "2019-07-12T00:00:00",
+      "timestamp_raw": "July 12, 2019",
+      "keywords": [
+        "epstein",
+        "bail motion",
+        "gov't reply",
+        "berman",
+        "redacted",
+        "2019-07-12",
+        "x-personal",
+        "dtstamp",
+        "efta00032983"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00026648",
+            "similarity": 0.636,
+            "index": 12,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00030824",
+            "similarity": 0.5,
+            "index": 11,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037839",
+      "summary": "Event details for a conference titled “Jeffrey Epstein” were recorded on 2019-07-18 from 13:30:00 to 15:30:00 at Courtroom 17B, 500 Pearl. The event was classified as X-PERSONAL and created on 2019-07-15. The attendee is identified as EFTA00037839.",
+      "timestamp": "2019-07-18T00:00:00",
+      "timestamp_raw": "2019-07-18",
+      "keywords": [
+        "jeffrey epstein",
+        "conference",
+        "2019-07-18",
+        "courtroom",
+        "event",
+        "accepted",
+        "x-personal",
+        "date created",
+        "dtstamp",
+        "efta00037839"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020624",
+      "summary": "An event, titled “Epstein Meet,” occurred on 2019-07-25 from 14:30:00 to 15:00:00 +0000. The organizer was (USANYS). It took place in the First Floor Conference Room and was marked as X-PERSONAL. The event was created on 2019-07-24 and modified on the same date. A priority of 5 was assigned, and the DTSTAMP is 2019-07-24 21:11:52 +0000. A reminder was set to display a message 15 minutes before the start.",
+      "timestamp": "2019-07-25T00:00:00",
+      "timestamp_raw": "2019-07-25",
+      "keywords": [
+        "efta00020624",
+        "epstein",
+        "meet",
+        "2019-07-25",
+        "usanys",
+        "redaction analysis",
+        "conference room",
+        "event",
+        "reminder",
+        "personal"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020946",
+      "summary": "On July 31, 2019, from 3:00 PM to 4:00 PM GMT, EFTA00020946 attended an Epstein scheduling conference, classified as X-PERSONAL. The event was created on July 18, 2019, and has a priority of 5.",
+      "timestamp": "2019-07-31T00:00:00",
+      "timestamp_raw": "July 31, 2019",
+      "keywords": [
+        "epstein",
+        "conference",
+        "scheduling",
+        "2019",
+        "efta00020946",
+        "x-personal",
+        "date",
+        "priority",
+        "dtstamp"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00022526",
+            "similarity": 0.8,
+            "index": 17,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00022526",
+      "summary": "On 2019-07-31 from 15:00:00 to 16:00:00, EFTA00022526 attended an Epstein scheduling conference, classified as X-PERSONAL with a priority of 5. The event was created on 2019-07-18.",
+      "timestamp": "2019-07-31T00:00:00",
+      "timestamp_raw": "2019-07-31",
+      "keywords": [
+        "epstein",
+        "conference",
+        "scheduling",
+        "2019",
+        "efta00022526",
+        "x-personal",
+        "date",
+        "priority",
+        "dtstamp"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00020946",
+            "similarity": 0.8,
+            "index": 16,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024398",
+      "summary": "On 2019-08-13 from 13:30 to 14:00, there was an “Update Conference Call – Epstein” (Class: X-PERSONAL) attended by (USANYS) <I, EFTA00024398. The event was created on 2019-08-13 00:47:52 +0000 and last modified on the same date and time. It had a priority of 5 and a DTSTAMP of 2019-08-13 00:32:16 +0000.",
+      "timestamp": "2019-08-13T00:00:00",
+      "timestamp_raw": "2019-08-13",
+      "keywords": [
+        "efta00024398",
+        "epstein",
+        "conference call",
+        "update",
+        "2019-08-13",
+        "dial-in",
+        "x-personal",
+        "priority",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029729",
+      "summary": "On August 27, 2019, at 5:30 PM, an event occurred at the OCME (421 E. 26th St) related to Epstein records accepted by SDNY. The event was classified as X-PERSONAL, created on August 27, 2019 at 4:13 PM, and attended by OCME personnel.",
+      "timestamp": "2019-08-27T00:00:00",
+      "timestamp_raw": "August 27, 2019",
+      "keywords": [
+        "epstein",
+        "sdny",
+        "ocme",
+        "records",
+        "2019-08-27",
+        "event",
+        "redaction analysis",
+        "personal",
+        "x-personal",
+        "dtstamp"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019836",
+      "summary": "On September 10, 2019, Jason Mojica Proffer participated in a meeting (Class: X-PERSONAL) at 500 Pearl Street - Q, related to Jeffrey Epstein. The meeting lasted from 16:30:00 to 17:30:00. The event was created on December 13, 2019, with a priority of 5.",
+      "timestamp": "2019-09-10T00:00:00",
+      "timestamp_raw": "September 10, 2019",
+      "keywords": [
+        "jason mojica proffer",
+        "epstein",
+        "event",
+        "2019-09-10",
+        "redaction analysis",
+        "personal",
+        "q",
+        "attendee",
+        "dtstamp"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019875",
+      "summary": "On September 10, 2019, from 15:30:00 to 18:00:00 GMT, an event occurred at the WPB Hilton classified as X-PERSONAL. The event involved a proffer. The record was created on December 18, 2019, and last modified on the same date. The priority was 5, with a DTSTAMP of September 5, 2019.",
+      "timestamp": "2019-09-10T00:00:00",
+      "timestamp_raw": "September 10, 2019",
+      "keywords": [
+        "efta00019875",
+        "proffer",
+        "event",
+        "location",
+        "wpb hilton",
+        "2019-09-10",
+        "date created",
+        "date modified",
+        "priority",
+        "x-personal"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029357",
+      "summary": "On September 10, 2019, from 16:30 to 17:30, Jason Mojica underwent a proffer session (classified as X-PERSONAL) organized by (USANYS) at 500 Pearl Street - Q. The event was created on December 13, 2019, and the attendee is identified as EFTA00029357. The DTSTAMP is September 4, 2019.",
+      "timestamp": "2019-09-10T00:00:00",
+      "timestamp_raw": "September 10, 2019",
+      "keywords": [
+        "jason mojica",
+        "proffer",
+        "epstein",
+        "efta00029357",
+        "2019-09-10",
+        "redaction analysis",
+        "usanys",
+        "personal",
+        "event",
+        "date created"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032441",
+      "summary": "On September 17, 2019, at 2:00 PM, an event titled “Meet on Epstein” occurred with the classification of X-PERSONAL. Attendees included (USANYS) [REDACTED] and [REDACTED]. The event was created on September 17, 2019, at 8:33:55 AM and last modified at the same time. It was given a priority of 5 and a DTSTAMP of 2019-09-17 01:33:14 +0000. The document itself is identified as EFTA00032441.",
+      "timestamp": "2019-09-17T00:00:00",
+      "timestamp_raw": "September 17, 2019",
+      "keywords": [
+        "efta00032441",
+        "epstein",
+        "redaction",
+        "event",
+        "meet",
+        "2019-09-17",
+        "x-personal",
+        "usanys",
+        "priority",
+        "attendee"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037393",
+      "summary": "On October 2, 2019, at 17:00:00 GMT, a personal briefing titled \"Epstein Victim Briefings\" took place in the 290 9th Floor Conference Room. The event was created on September 26, 2019, and included a reminder to correct a time discrepancy (1:00 PM instead of 1:30 PM). The event was classified as “X-PERSONAL” and had a priority of 5.",
+      "timestamp": "2019-10-02T00:00:00",
+      "timestamp_raw": "October 2, 2019",
+      "keywords": [
+        "epstein",
+        "victim briefings",
+        "2019-10-02",
+        "conference room",
+        "event",
+        "reminder",
+        "personal",
+        "x-personal",
+        "dtstamp",
+        "efta00037393"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00037395",
+            "similarity": 0.583,
+            "index": 25,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037395",
+      "summary": "An event titled “Epstein Victim Briefings” took place on 2019-10-02 from 17:30:00 to 18:30:00 at 290 9th Floor Conference Room. It was created on 2019-09-26 and categorized as “X-PERSONAL” with a priority of 5. A reminder was scheduled to display a message 1 hour before the start.",
+      "timestamp": "2019-10-02T00:00:00",
+      "timestamp_raw": "2019-10-02",
+      "keywords": [
+        "epstein",
+        "victim briefings",
+        "2019",
+        "event",
+        "conference room",
+        "personal",
+        "reminder",
+        "dtstamp",
+        "efta00037395"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037393",
+            "similarity": 0.583,
+            "index": 24,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028123",
+      "summary": "On October 23, 2019, at 6:30 PM GMT, a Skype meeting occurred with Marc Weinstein and the Epstein estate. The meeting was classified as X-PERSONAL. The meeting was created on October 23, 2019, at 1:34 PM GMT and has a DTSTAMP of 1:20 PM GMT.",
+      "timestamp": "2019-10-23T00:00:00",
+      "timestamp_raw": "October 23, 2019",
+      "keywords": [
+        "efta00028123",
+        "epstein",
+        "weinstein",
+        "skype meeting",
+        "conference id",
+        "2019-10-23",
+        "redaction analysis",
+        "x-personal",
+        "event",
+        "estate"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023023",
+      "summary": "Mark Epstein attended a personal meeting on 2019-10-28 from 19:00:00 to 20:00:00 at location 645. The event was created on 2019-10-24 and has a priority of 5.",
+      "timestamp": "2019-10-28T00:00:00",
+      "timestamp_raw": "2019-10-28",
+      "keywords": [
+        "efta00023023",
+        "mark epstein",
+        "meeting",
+        "2019-10-28",
+        "event",
+        "x-personal",
+        "priority",
+        "date created",
+        "date modified",
+        "dtstamp"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00024302",
+            "similarity": 0.538,
+            "index": 28,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00024302",
+      "summary": "On November 25, 2019, from 15:00:00 to 16:00:00 GMT, Mark Epstein attended a personal meeting at 1 St. Andrews. The event was created on November 4, 2019, with a priority of 5.",
+      "timestamp": "2019-11-25T00:00:00",
+      "timestamp_raw": "November 25, 2019",
+      "keywords": [
+        "efta00024302",
+        "mark epstein",
+        "meeting",
+        "2019-11-25",
+        "1 st. andrews",
+        "x-personal",
+        "event",
+        "date created",
+        "date modified",
+        "dtstamp"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00023023",
+            "similarity": 0.538,
+            "index": 27,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025252",
+      "summary": "On December 2, 2019, at 3:30 PM GMT, Marc Weinstein (redacted) participated in a Skype meeting (Conference ID: 169 269 771) with the Epstein estate. The meeting was classified as X-PERSONAL and lasted from 3:30 PM to 4:00 PM GMT. The event was created on November 25, 2019.",
+      "timestamp": "2019-12-02T00:00:00",
+      "timestamp_raw": "December 2, 2019",
+      "keywords": [
+        "efta00025252",
+        "epstein estate",
+        "marc weinstein",
+        "skype meeting",
+        "redaction",
+        "2019-12-02",
+        "personal",
+        "conference id",
+        "priority",
+        "dtstamp"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016926",
+      "summary": "On December 4, 2019, from 19:00 to 22:00 GMT, an event titled “proffer (re abuse)” took place at Winston & Strawn offices. The event was classified as X-PERSONAL and had a priority of 5. The event was created on December 3, 2019, and associated with the identifier EFTA00016926. A reminder was set to display a message 15 minutes before the start.",
+      "timestamp": "2019-12-04T00:00:00",
+      "timestamp_raw": "December 4, 2019",
+      "keywords": [
+        "efta00016926",
+        "abuse",
+        "event",
+        "winston & strawn",
+        "2019-12-04",
+        "reminder",
+        "proffer",
+        "personal",
+        "x-personal",
+        "dtstamp"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029305",
+      "summary": "An event, titled \"Accepted: Epstein Team Meeting,\" occurred on December 9, 2019, from 20:30:00 to 21:00:00 GMT. The event was classified as X-PERSONAL. Attendees included (USANYS) [REDACTED] and [REDACTED]. The document was created on December 8, 2019, with a priority of 5 and a DTSTAMP of 2019-12-08 21:09:57 +0000.",
+      "timestamp": "2019-12-09T00:00:00",
+      "timestamp_raw": "December 9, 2019",
+      "keywords": [
+        "efta00029305",
+        "epstein team meeting",
+        "redaction",
+        "2019-12-09",
+        "x-personal",
+        "usanys",
+        "event",
+        "meeting",
+        "date",
+        "personal"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018902",
+      "summary": "A meeting titled “Brass Meeting on Epstein” occurred on December 10, 2019, from 18:00:00 to 19:00:00 GMT. The event was organized, classified as “X-PERSONAL,” and created on December 7, 2019. It had a priority of 5 and a DTSTAMP of December 6, 2019. A reminder was set to display a message 15 minutes before the start, and the file is designated as EFTA00018902.",
+      "timestamp": "2019-12-10T00:00:00",
+      "timestamp_raw": "December 10, 2019",
+      "keywords": [
+        "efta00018902",
+        "brass meeting",
+        "epstein",
+        "2019-12-10",
+        "event",
+        "redaction analysis",
+        "personal",
+        "reminder"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016757",
+      "summary": "On 2020-01-06 from 17:30:00 to 18:00:00, an event classified as “X-PERSONAL” occurred, identified as “Accepted: Epstein Meeting,” involving the individual EFTA00016757. The event was created on 2020-01-08 and has a priority of 5.",
+      "timestamp": "2020-01-06T00:00:00",
+      "timestamp_raw": "2020-01-06",
+      "keywords": [
+        "epstein",
+        "meeting",
+        "efta00016757",
+        "2020-01-06",
+        "x-personal",
+        "redaction analysis",
+        "event",
+        "date created",
+        "date modified",
+        "dtstamp"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028715",
+      "summary": "On 2020-01-06 from 17:30:00 to 18:00:00 +0000, an event occurred classified as X-PERSONAL titled “Accepted: Epstein Meeting.” Attendees included (USANYS) [REDACTED] and [REDACTED]. The event was created on 2020-01-08 and last modified on 2020-01-08. The priority was 5 and a DTSTAMP of 2020-01-06 16:30:40 +0000 was recorded.",
+      "timestamp": "2020-01-06T00:00:00",
+      "timestamp_raw": "2020-01-06",
+      "keywords": [
+        "efta00028715",
+        "epstein",
+        "meeting",
+        "2020-01-06",
+        "x-personal",
+        "redaction",
+        "usanys",
+        "event",
+        "priority",
+        "date"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031616",
+      "summary": "Event: Epstein T&E Meeting Start Date: 2020-01-10 16:30:00 +0000 End Date: 2020-01-10 17:30:00 +0000 Location: Office Class: X-PERSONAL Priority: 5 DTSTAMP: 2020-01-08 23:39:25 +0000 Attendee: EFTA00031616",
+      "timestamp": "2020-01-10T00:00:00",
+      "timestamp_raw": "2020-01-10",
+      "keywords": [
+        "efta00031616",
+        "epstein t&e",
+        "meeting",
+        "2020-01-10",
+        "accepted",
+        "office",
+        "x-personal",
+        "priority",
+        "dtstamp"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024254",
+      "summary": "An event titled “Accepted: Epstein Meeting” occurred on January 16, 2020, from 7:00 PM to 8:30 PM. The event was classified as X-PERSONAL and attended by (USANYS) and [REDACTED]. The document was created on January 11, 2020, and modified on the same date.  A DTSTAMP of January 10, 2020, is also recorded.",
+      "timestamp": "2020-01-16T00:00:00",
+      "timestamp_raw": "January 16, 2020",
+      "keywords": [
+        "epstein meeting",
+        "redaction",
+        "efta00024254",
+        "2020-01-16",
+        "x-personal",
+        "usanys",
+        "2020-01-11"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00022995",
+      "summary": "On February 4, 2020, at 6:30 PM GMT, there was a call with Jeffrey Epstein. The call lasted 30 minutes. The event was classified as “X-PERSONAL,” created on February 4, 2020, at 3:45 PM GMT, and had a priority of 5. A reminder was set to display a message 15 minutes before the call. The record identifier is EFTA00022995.",
+      "timestamp": "2020-02-04T00:00:00",
+      "timestamp_raw": "February 4, 2020",
+      "keywords": [
+        "epstein",
+        "call",
+        "2020-02-04",
+        "event",
+        "x-personal",
+        "redaction analysis",
+        "dtstamp",
+        "reminder",
+        "efta00022995"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018221",
+      "summary": "Event: Epstein was accepted. The event occurred on 2020-02-04 from 22:30:00 to 23:00:00, classified as X-PERSONAL. The record was created on 2020-02-04 at 04:16:15 with a priority of 5.  EFTA00018221 was the attendee.",
+      "timestamp": "2020-02-04T00:00:00",
+      "timestamp_raw": "2020-02-04",
+      "keywords": [
+        "epstein",
+        "event",
+        "accepted",
+        "2020-02-04",
+        "x-personal",
+        "redaction analysis",
+        "dtstamp",
+        "priority",
+        "attendee",
+        "efta00018221"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038400",
+      "summary": "David Rodgers conducted an interview on 2020-02-07 from 14:30:00 to 17:30:00 at location 1SA, classified as X-PERSONAL. The interview was created on 2020-02-03 and modified on 2020-02-07. It has a priority level of 5 and a DTSTAMP of 2020-02-05 02:23:55 +0000.",
+      "timestamp": "2020-02-07T00:00:00",
+      "timestamp_raw": "2020-02-07",
+      "keywords": [
+        "david rodgers",
+        "interview",
+        "2020-02-07",
+        "1sa",
+        "x-personal",
+        "efta00038400",
+        "event",
+        "date created",
+        "date modified",
+        "priority"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026871",
+      "summary": "On 2020-02-20, at 20:00:00 +0000, a call with counsel occurred lasting 30 minutes. The event was classified as X-PERSONAL and had a priority of 5.",
+      "timestamp": "2020-02-20T00:00:00",
+      "timestamp_raw": "2020-02-20",
+      "keywords": [
+        "efta00026871",
+        "call with counsel",
+        "2020-02-20",
+        "conference",
+        "x-personal",
+        "redaction analysis",
+        "event",
+        "date created",
+        "date modified",
+        "dtstamp"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026786",
+      "summary": "A call event occurred on 2020-02-20 from 20:00:00 to 20:30:00 +0000. The event was classified as “X-PERSONAL”, had a priority of 5, and was created and modified on 2020-02-24. A reminder was set to display a message 15 minutes before the start. The file identifier is EFTA00026786.",
+      "timestamp": "2020-02-20T00:00:00",
+      "timestamp_raw": "2020-02-20",
+      "keywords": [
+        "call",
+        "event",
+        "2020-02-20",
+        "redaction analysis",
+        "efta00026786",
+        "reminder",
+        "alarm",
+        "personal",
+        "date created",
+        "dtstamp"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032302",
+      "summary": "On February 25, 2020, at 16:30:00 +0000, the (USANYS) organizer conducted a personal event related to Epstein-related FOIA requests at their office. The event was created on February 25, 2020, at 07:22:37 +0000 and modified on the same date. The priority was set to 5, and the DTSTAMP was February 21, 2020, at 16:42:07 +0000. A reminder was scheduled to display 15 minutes before the start.",
+      "timestamp": "2020-02-25T00:00:00",
+      "timestamp_raw": "February 25, 2020",
+      "keywords": [
+        "epstein",
+        "foia",
+        "requests",
+        "2020",
+        "usanys",
+        "event",
+        "redaction analysis",
+        "personal",
+        "date created",
+        "dtstamp"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026603",
+      "summary": "On 2020-05-22 from 17:00:00 to 18:00:00 GMT, there was an “Accepted: Epstein Call” event (Class: X-PERSONAL) involving attendee EFTA00026603, located at 877-720-9282 - 8146826. The event was created on 2020-05-21 and last modified on 2020-05-21. The priority was 5 and the DTSTAMP is 2020-05-21 13:34:35 +0000.",
+      "timestamp": "2020-05-22T00:00:00",
+      "timestamp_raw": "2020-05-22",
+      "keywords": [
+        "epstein",
+        "call",
+        "2020",
+        "877-720-9282",
+        "8146826",
+        "x-personal",
+        "redaction analysis",
+        "event",
+        "date",
+        "attendee"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031305",
+      "summary": "On July 16, 2020, at 5:30 PM GMT, Marc Weinstein of Hughes Hubbard &amp; Birch (marc.weinstein@hugheshubbard.com) participated in a Skype meeting (Conference ID: 612 758 867) regarding the acceptance of Epstein’s New York property. The event was classified as “X-PERSONAL,” had a priority level of 5, and was created/modified on July 16, 2020. The DTSTAMP was July 16, 2020, 3:43 PM GMT.",
+      "timestamp": "2020-07-16T00:00:00",
+      "timestamp_raw": "July 16, 2020",
+      "keywords": [
+        "epstein",
+        "ny property",
+        "2020-07-16",
+        "marc weinstein",
+        "skype meeting",
+        "conference id",
+        "x-personal",
+        "redaction analysis",
+        "efta00031305"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038234",
+      "summary": "On October 23, 2020, at 3:00 PM UTC, there was an external email call with SDNY regarding discovery and the Epstein investigation. The call lasted 30 minutes. The event was classified as X-PERSONAL and created on October 22, 2020. It had a priority of 5 and a DTSTAMP of 2020-10-22 16:34:21 +0000.",
+      "timestamp": "2020-10-23T00:00:00",
+      "timestamp_raw": "October 23, 2020",
+      "keywords": [
+        "efta00038234",
+        "discovery",
+        "epstein investigation",
+        "sdny",
+        "external email",
+        "2020-10-23",
+        "call",
+        "personal",
+        "priority",
+        "reminder"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030075",
+      "summary": "An event, designated as “Accepted: Epstein/Maxwell FOIA,” occurred on 2021-03-10 from 22:00:00 to 22:30:00 GMT. The event was classified as X-PERSONAL, created on 2021-03-10 at 20:51:52 GMT, and modified at the same time. It had a priority of 5 and a DTSTAMP of 2021-03-10 20:20:27 GMT. The attendee was EFTA00030075.",
+      "timestamp": "2021-03-10T00:00:00",
+      "timestamp_raw": "2021-03-10",
+      "keywords": [
+        "efta00030075",
+        "epstein",
+        "maxwell",
+        "foia",
+        "redaction analysis",
+        "2021-03-10",
+        "x-personal",
+        "event",
+        "date created",
+        "date modified"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018020",
+      "summary": "On April 5, 2021, a call occurred between Andy Tomback and Marc Weinstein (Epstein estate) from 7:30 PM to 8:00 PM. The call was marked as X-PERSONAL and created on March 31, 2021. One attendee is redacted.",
+      "timestamp": "2021-04-05T00:00:00",
+      "timestamp_raw": "April 5, 2021",
+      "keywords": [
+        "efta00018020",
+        "redaction analysis",
+        "andy tomback",
+        "marc weinstein",
+        "epstein estate",
+        "2021-04-05",
+        "personal",
+        "x-personal",
+        "call",
+        "dtstamp"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    }
+  ]
+}

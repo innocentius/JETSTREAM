@@ -1,0 +1,2458 @@
+{
+  "keyword": "cohen & gresser llp",
+  "count": 49,
+  "keyword_match_count": 49,
+  "content_match_count": 39,
+  "total_files": 88,
+  "timeline": [
+    {
+      "file_id": "EFTA00020978",
+      "summary": "**Key Actions & Issues:** *   **Drive Delivery:** The US Attorney’s Office initially offered to deliver a 64GB drive containing requested files, anticipating a snowstorm delay. *   **Duplicate Production Concerns:** The US Attorney’s Office identified and flagged duplicate productions of ranges, requesting a third production. *   **FTP Link Request:** The defense team requested the documents be sent via FTP, but the requested ranges were too large. *   **Missing Bates Ranges:** The defense team identified missing Bates number ranges (SDNY\\_GM\\_00167911-00169735) and requested their reproduction via FTP. *   **Metadata Issues:** The defense team raised issues with metadata gaps in several DAT files related to PROD011 and PROD015. *   **Unredacted FBI Report Request:** The defense team requested an unredacted version of the FBI report dated December 6, 2006, relating to the cell-site simulator, as referenced in a Daily Beast article. *   **Grand Jury Subpoenas:** The defense team requested copies of the grand jury subpoenas and the date ranges for documents requested within them. *   **Document Provision:** The US Attorney’s Office provided a 4TB hard drive containing the discovery production, addressed the metadata issues, and provided the FBI report as requested. *   **Ongoing Communication:** The parties continue to communicate regarding outstanding issues, particularly concerning Bates ranges and metadata file corrections. **Redactions:** The text contains redactions across multiple pages, indicating sensitive information.",
+      "timestamp": "2006-12-06T00:00:00",
+      "timestamp_raw": "December 6, 2006",
+      "keywords": [
+        "discovery",
+        "ftp",
+        "redaction",
+        "bates",
+        "emails",
+        "attorney",
+        "usanys",
+        "cohengresser",
+        "maxwell",
+        "rodgers",
+        "metadata",
+        "cd",
+        "drive",
+        "subpoenas"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029100",
+      "summary": "*   **Core Argument:** Maxwell argues the U.S. Attorney's Office (USAO) misled Judge McMahon, who authorized the subpoena, by making false statements about contacts with Boies Schiller related to her case. Specifically, the government misrepresented the extent of these contacts, claiming they were solely about investigating Jeffrey Epstein and not Maxwell’s alleged trafficking activities. *   **Government Admission:** The government admits to significant contact with Boies Schiller, including a February 29, 2016 meeting, and subsequent email exchanges. However, they claim no wrongdoing occurred. *   **Evidence of Misconduct:** The document details evidence of this misconduct, including AUSA’s contemporaneous notes revealing discussions about Maxwell’s case, and the subsequent misleading statements made to Judge McMahon. *   **Request for Remedy:** Maxwell seeks to suppress the evidence obtained due to the government’s actions and to dismiss the counts based on the fraudulent representation. She also requests an evidentiary hearing to explore the circumstances of the government’s misleading conduct.",
+      "timestamp": "2016-02-29T00:00:00",
+      "timestamp_raw": "February 29, 2016",
+      "keywords": [
+        "ghislaine maxwell",
+        "due process",
+        "evidence",
+        "government misconduct",
+        "boies schiller",
+        "subpoena",
+        "suppression",
+        "counts five and six",
+        "fraud",
+        "perjury",
+        "united states attorney",
+        "criminal investigation",
+        "protective order",
+        "misrepresentation",
+        "discovery",
+        "confidentiality"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014916",
+      "summary": "Several email exchanges discuss Ghislaine Maxwell’s custody arrangements, primarily involving communication with attorneys Chris Everdell and Mark Cohen of Cohen & Gresser LLP and USMS supervision.  Requests are made to include these attorneys in authorized contacts.  Restrictions on Maxwell's communication are outlined, including observation watches, limited interaction with staff, and authorization of contact only after receiving a PIN from Lawrence Vogelman. A USMS directive detailing monitoring protocols and communication restrictions is also included.",
+      "timestamp": "2020-07-03T00:00:00",
+      "timestamp_raw": "03 Jul 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "custody",
+        "chris everdell",
+        "mark cohen",
+        "cohen & gresser llp",
+        "usms",
+        "legal counsel",
+        "phone contact",
+        "merrimack doc",
+        "observation watch"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00024543",
+            "similarity": 0.538,
+            "index": 3,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00024543",
+      "summary": "The document is a series of emails discussing the contact protocols for Ghislaine Maxwell while she is in US Marshals custody at Merrimack DOC. Key points include: *   Requests are made to add Cohen & Gresser LLP attorneys, Chris Everdell and Mark Cohen, to the list of individuals Maxwell is permitted to speak with. *   There are concerns about the \"touchy\" nature of one attorney (“he”) and the need for USMS approval for contact. *   Strict monitoring protocols are established regarding Maxwell’s communication, including observation watches, limited conversations, and documentation of all interactions. *   Lawrence Vogelman, Maxwell’s legal counsel, is authorized to provide a PIN for communication with her. *   US Marshals are instructed to maintain strict confidentiality regarding the case.",
+      "timestamp": "2020-07-03T00:00:00",
+      "timestamp_raw": "03 Jul 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "chris everdell",
+        "mark cohen",
+        "usms",
+        "legal counsel",
+        "attorney",
+        "cohen & gresser llp",
+        "custody",
+        "contact number",
+        "redaction"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00014916",
+            "similarity": 0.538,
+            "index": 2,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021769",
+      "summary": "On July 23, 2020, Christian Everdell sent an email with revised drafts of a Protective Order, including a redlined version and a clean copy, to multiple recipients. The email discusses incorporating points from a July 20th call and seeks government approval by 5 PM on July 24th. The email includes attachments of the revised Protective Order documents and images. The email also contains a confidentiality notice and a link to the firm’s privacy policy.",
+      "timestamp": "2020-07-23T00:00:00",
+      "timestamp_raw": "July 23, 2020",
+      "keywords": [
+        "protective order",
+        "redaction",
+        "discovery",
+        "government",
+        "defense",
+        "christian everdell",
+        "cohen & gresser llp",
+        "july 2020",
+        "revised draft"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021918",
+      "summary": "Chris from Cohen & Gresser LLP sent a revised draft of a protective order to Christian Everdell on July 25, 2020. The draft incorporates updates and edits discussed on July 20, 2020, and includes a redline version compared to the government’s original draft alongside a clean version. Chris requested feedback by 5pm the following day regarding the acceptability of the revised draft. The email also includes a confidentiality notice and a link to Cohen & Gresser LLP's privacy policy.",
+      "timestamp": "2020-07-25T00:00:00",
+      "timestamp_raw": "July 25, 2020",
+      "keywords": [
+        "protective order",
+        "redaction",
+        "chris",
+        "christian everdell",
+        "cohen & gresser llp",
+        "legal",
+        "draft",
+        "revision",
+        "government",
+        "july 2020"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021034",
+      "summary": "The U.S. Department of Justice, specifically Assistant U.S. Attorneys Damian Williams and their team, is producing materials related to the case *United States v. Ghislaine Maxwell* (20 Cr. 330). The production, identified by control numbers SDNY_GM_02775032 through SDNY_GM_02775072, includes JPMC records, phone records, and other records. All materials are marked “SUBJECT TO PROTECTIVE ORDER PARAGRAPHS 7, 8, 9, 10, 15, and 17” due to the July 31, 2020 Protective Order. An index of the materials is provided (EFTA00021034). The government intends to continue producing additional discoverable material as needed.",
+      "timestamp": "2020-07-31T00:00:00",
+      "timestamp_raw": "July 31, 2020",
+      "keywords": [
+        "united states v. ghislaine maxwell",
+        "justice",
+        "department of justice",
+        "sdny",
+        "protective order",
+        "cohen & gresser llp",
+        "haddon morgan",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031440",
+      "summary": "The United States Attorney’s Office for the Southern District of New York is producing discovery materials related to the case *United States v. Ghislaine Maxwell* (20 Cr. 330). The materials, stamped with control number SDNY_GM_02753398, consist of a photograph and are governed by a Protective Order dated July 31, 2020. The recipient counsel includes attorneys from Cohen & Gresser LLP, Haddon, Morgan and Foreman, P.C., and the Law Offices of Bobbi C. Stemheim. The Government states it will promptly produce additional discoverable material if needed and offers assistance with access.",
+      "timestamp": "2020-07-31T00:00:00",
+      "timestamp_raw": "July 31, 2020",
+      "keywords": [
+        "united states v. ghislaine maxwell",
+        "sdny",
+        "redaction analysis",
+        "protective order",
+        "cohen & gresser llp",
+        "haddon",
+        "morgan and foreman",
+        "p.c.",
+        "confidential",
+        "discovery materials"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00031437",
+            "similarity": 0.75,
+            "index": 8,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00010160",
+            "similarity": 0.538,
+            "index": 9,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019084",
+            "similarity": 0.692,
+            "index": 44,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00031437",
+      "summary": "The U.S. Department of Justice, specifically the United States Attorney for the Southern District of New York, is producing discovery materials related to the case *United States v. Ghislaine Maxwell* (20 Cr. 330 (MN)). The materials, stamped with control number SDNY_GM_02753398, include a photograph and are governed by a Protective Order dated July 31, 2020. The recipient counsel (Cohen & Gresser LLP, Haddon, Morgan and Foreman, P.C., and Law Offices of Bobbi C. Stemheim) are notified that the Government intends to continue producing discovery and to contact them if access is difficult.",
+      "timestamp": "2020-07-31T00:00:00",
+      "timestamp_raw": "July 31, 2020",
+      "keywords": [
+        "united states v. ghislaine maxwell",
+        "sdny",
+        "redaction analysis",
+        "protective order",
+        "cohen & gresser llp",
+        "haddon",
+        "morgan and foreman",
+        "confidential",
+        "discovery materials",
+        "united states attorney",
+        "efta00031437"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00031440",
+            "similarity": 0.75,
+            "index": 7,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00019084",
+            "similarity": 0.533,
+            "index": 44,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00024868",
+            "similarity": 0.538,
+            "index": 58,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00010160",
+      "summary": "The U.S. Department of Justice, specifically the United States Attorney for the Southern District of New York, is producing materials related to the case *United States v. Ghislaine Maxwell* (20 Cr. 330 (AJN)). The materials, identified by control numbers SDNY_GM_02771984 through SDNY_GM_02772261, include AT&T records, phone records, and photographs. All materials are marked “SUBJECT TO PROTECTIVE ORDER PARAGRAPHS 7, 8, 9, 10, 15, and 17” due to the July 31, 2020 Protective Order governing the case. The Department intends to continue producing additional discoverable materials as needed.",
+      "timestamp": "2020-07-31T00:00:00",
+      "timestamp_raw": "July 31, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states v.",
+        "department of justice",
+        "protective order",
+        "sdny",
+        "cohen & gresser llp",
+        "haddon",
+        "morgan and foreman",
+        "p.c.",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00031440",
+            "similarity": 0.538,
+            "index": 7,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00019084",
+            "similarity": 0.692,
+            "index": 44,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00024868",
+            "similarity": 0.583,
+            "index": 58,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00018578",
+      "summary": "Christian R. Everdell, an attorney for Ghislaine Maxwell, submitted an affidavit certifying that defense counsel conferred in good faith with Assistant U.S. Attorneys regarding a request for disclosure of the identities of Victims 1-3. The government declined this request, stating they would provide the information through Rule 16 discovery or Jencks Act material closer to trial. The affidavit was dated August 10, 2020.",
+      "timestamp": "2020-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states of america",
+        "criminal rule 16.1",
+        "victims",
+        "discovery",
+        "jencks act",
+        "affidavit",
+        "united states district court",
+        "cohen & gresser llp",
+        "20 cr. 330 (ajn)"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013222",
+      "summary": "Cohen & Gresser LLP expresses dissatisfaction with the government’s failure to provide Ms. Maxwell with readable discovery materials in the United States v. Ghislaine Maxwell case (20 Cr. 330). The government has repeatedly failed to meet discovery deadlines, offering solutions like a laptop computer for review and proposing to scan images for electronic production. Despite these attempts, the discovery materials remain unreadable, causing delays and hindering Ms. Maxwell’s ability to prepare her defense. The firm requests immediate provision of a verified, readable laptop, access to the seized images, and a scheduled review of the Highly Confidential documents within the MDC. A formal response from the government regarding the issues raised in the September 21, 2020 letter has not yet been received.",
+      "timestamp": "2020-09-21T00:00:00",
+      "timestamp_raw": "September 21, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states v.",
+        "discovery",
+        "redaction",
+        "mdc",
+        "epstein",
+        "images",
+        "confidential",
+        "government",
+        "legal",
+        "defense"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013225",
+      "summary": "**Discovery Access:** Maxwell has not fully received the government’s discovery materials, despite multiple deadlines and representations. Key files remain unreadable, including documents with .XLS and .EML extensions, and specific Bates numbers. Technological solutions proposed by the defense were not implemented. The government’s production of discovery has been significantly delayed and incomplete. **Confinement Conditions:** Maxwell’s confinement is considered excessively restrictive and unique, involving constant surveillance (including ceiling cameras and frequent manual searches), limited access to mail and commissary items, inadequate food provisions, and a lack of approved materials. She is subjected to intense scrutiny and restrictions without any disciplinary infractions. **Requests:** The legal team demands immediate action, including: *   Full access to all discovery materials. *   Review of “Highly Confidential” documents with defense counsel present. *   Improvement of Maxwell’s confinement conditions, specifically reducing surveillance, facilitating mail delivery, ensuring adequate nutrition, and allowing access to the commissary. **Urgency:** The firm stresses the urgency of the situation, warning that failure to address these issues promptly will necessitate seeking intervention from the court.",
+      "timestamp": "2020-09-21T00:00:00",
+      "timestamp_raw": "September 21, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "discovery",
+        "mdc",
+        "government",
+        "bop",
+        "confinement",
+        "access",
+        "review",
+        "conditions",
+        "files",
+        "unreadable",
+        "redaction",
+        "legal materials",
+        "surveillance",
+        "email",
+        "united states v.",
+        "protective order",
+        "inmate",
+        "commissary",
+        "mail",
+        "september 21",
+        "2020"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023705",
+      "summary": "An Assistant United States Attorney (USANYS) is processing approximately 40,000 non-nude images seized during FBI searches of Jeffrey Epstein’s residences in New York and the Virgin Islands. The USANYS offered Christian Everdell (Cohen & Gresser LLP) the opportunity to review the images themselves at FBI offices before they are loaded onto drives for review with his client, Maxwell. Logistics are being coordinated with the FBI to transport the files to the Metropolitan Detention Center (MDC) for a joint review, which is expected to take several days due to the large number of files.",
+      "timestamp": "2020-09-30T00:00:00",
+      "timestamp_raw": "30 Sep 2020",
+      "keywords": [
+        "fbi",
+        "epstein",
+        "images",
+        "production",
+        "non-nude",
+        "files",
+        "mdc",
+        "christian everdell",
+        "usanys",
+        "maxwell"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013220",
+      "summary": "An email was sent from Cohen & Gresser LLP to [REDACTED] regarding a letter received from Maxwell’s counsel concerning discovery. The letter included attachments: a letter from October 1, 2020, and a previous letter regarding prison conditions. The sender anticipated sending a draft response on Monday and requested a discussion with the recipient, inquiring about availability for a conversation before 1 pm or after 3 pm. A confidentiality notice was also included.",
+      "timestamp": "2020-10-01T00:00:00",
+      "timestamp_raw": "October 1, 2020",
+      "keywords": [
+        "efta00013220",
+        "letter",
+        "discovery",
+        "maxwell",
+        "government",
+        "prison conditions",
+        "cohen & gresser llp",
+        "response",
+        "confidentiality",
+        "email"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014585",
+      "summary": "A letter titled “2020.10.1_Letter_to_Government_re_Discovety.PDF” was sent from Christian Everdell of COHEN & GRESSER LLP to [REDACTED] on October 2, 2020, requesting a discussion. The letter was forwarded by [REDACTED]. A confidentiality notice is included, advising recipients that the email contents may be confidential and should not be reviewed, disseminated, or copied without permission.",
+      "timestamp": "2020-10-02T00:00:00",
+      "timestamp_raw": "October 2, 2020",
+      "keywords": [
+        "efta00014585",
+        "redaction analysis",
+        "letter",
+        "government",
+        "discovery",
+        "cohen & gresser llp",
+        "confidentiality",
+        "privacy",
+        "email",
+        "october 2020"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00011417",
+      "summary": "A letter, attached on October 13, 2020, was sent from Christian Everdell of Cohen & Gresser LLP to an unidentified recipient regarding Rule 16 and Brady Requests. The email included a confidentiality notice and a link to the firm’s privacy policy. The subject was \"FW: Letter.\"",
+      "timestamp": "2020-10-13T00:00:00",
+      "timestamp_raw": "October 13, 2020",
+      "keywords": [
+        "efta00011417",
+        "redaction analysis",
+        "letter",
+        "government",
+        "rule 16",
+        "brady requests",
+        "christian everdell",
+        "cohen & gresser llp",
+        "confidentiality",
+        "privacy policy"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023329",
+      "summary": "Ghislaine Maxwell’s legal team, Cohen & Gresser LLP, is opposing the government’s request to delay the disclosure of materials related to alleged victims of Jeffrey Epstein’s abuse. They argue the government’s request is improper for two reasons, based on Brady obligations. 1.  **Exculpatory Evidence:** The materials, detailing interviews with individuals who claim to have been abused by Epstein *after* 1997 (outside the scope of the indictment), are exculpatory evidence that contradicts the government's theory of Maxwell’s involvement as Epstein’s “madam.” Specifically, these witnesses don’t implicate Maxwell in the abuse and the government's reliance on the timing of the charges is flawed. 2.  **Lack of Good Cause for Delay:** The government’s attempt to delay disclosure due to concerns about jeopardizing an ongoing investigation is not sufficient. The team contends the government’s concerns are speculative, won’t deter witnesses, and don’t justify delaying the disclosure of material that is critical to Maxwell’s defense, particularly regarding potential perjury charges. They argue the government’s delay would be an attempt to suppress evidence that undermines their case. Essentially, the team demands immediate disclosure of the materials, citing Brady obligations and arguing the government’s delay is unjustified and prejudicial to Maxwell’s defense.",
+      "timestamp": "2020-10-14T00:00:00",
+      "timestamp_raw": "October 14, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "jeffrey epstein",
+        "sexual abuse",
+        "brady v. maryland",
+        "rule 16",
+        "perjury",
+        "exculpatory evidence",
+        "victims",
+        "disclosure",
+        "government",
+        "defense",
+        "investigation"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019897",
+      "summary": "On November 25, 2020, Christian Everdell of Cohen & Gresser LLP sent an email to Judge Nathan regarding a renewed bail motion in the case of *U.S. v. Ghislaine Maxwell* (20 Cr. 330). The email included a letter intended to be filed under seal and submitted to the court and all counsel, referencing Section 2(B) of Judge Nathan’s Individual Practices in Criminal Cases. The letter was attached and addressed to the court and legal representatives involved in the case.",
+      "timestamp": "2020-11-25T00:00:00",
+      "timestamp_raw": "November 25, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "bail motion",
+        "sealing",
+        "court",
+        "judge nathan",
+        "christian everdell",
+        "cohen & gresser llp",
+        "u.s. v.",
+        "criminal cases",
+        "confidentiality"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00015975",
+            "similarity": 0.5,
+            "index": 24,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019896",
+            "similarity": 0.818,
+            "index": 25,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00011253",
+            "similarity": 0.538,
+            "index": 81,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00017823",
+      "summary": "Ghislaine Maxwell’s legal team, Og Cohen & Gresser LLP, is seeking to file a renewed motion for bail under seal due to significant privacy concerns. They argue that releasing certain materials, including letters from her family and friends (potential sureties), a financial report, and analysis of government discovery, would expose her and these individuals to harassment and threats, citing documented social media attacks and the potential for intimidation. The team highlights a lower presumption of public access for pretrial bail submissions compared to trial exhibits, referencing previous court rulings (Lugosch and Sadr) that prioritize privacy interests, particularly when innocent third parties are involved. They request an in-camera conference to address these concerns and secure protection for the sensitive information. The government consents to the redaction and sealed filing of specific materials, but does not agree to an in-camera conference.",
+      "timestamp": "2020-11-25T00:00:00",
+      "timestamp_raw": "November 25, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "bail motion",
+        "protective order",
+        "confidentiality",
+        "sealing",
+        "surveillance",
+        "sureties",
+        "financial report",
+        "discovery materials",
+        "redaction"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031952",
+      "summary": "On December 4, 2020, Christian Everdell of Cohen & Gresser LLP sent a draft letter to Judge Nathan regarding a briefing schedule. The letter was attached as a .DOCX file. He requested confirmation from the recipient ([REDACTED]) that there were no comments before sending the letter within the hour. The email also included images and a confidentiality notice.",
+      "timestamp": "2020-12-04T00:00:00",
+      "timestamp_raw": "December 4, 2020",
+      "keywords": [
+        "efta00031952",
+        "briefing schedule",
+        "letter",
+        "judge nathan",
+        "christian everdell",
+        "cohen & gresser llp",
+        "confidentiality",
+        "privacy",
+        "usanys",
+        "email"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030756",
+      "summary": "On December 8, 2020, Christian R. Everdell of Cohen & Gresser LLP submitted a renewed bail motion and redacted exhibits (A-E) to Judge Nathan in the case of U.S. v. Ghislaine Maxwell (20 Cr. 330 (AJN)). The documents were filed under seal.",
+      "timestamp": "2020-12-08T00:00:00",
+      "timestamp_raw": "December 8, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "bail motion",
+        "exhibits",
+        "redaction",
+        "u.s. v.",
+        "christian r everdell",
+        "cohen & gresser llp",
+        "seal",
+        "legal documents"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019422",
+      "summary": "On December 16, 2020, the U.S. Department of Justice, via Acting United States Attorney Audrey Strauss, produced discovery materials related to the case *United States v. Ghislaine Maxwell* (20 Cr. 330). The materials, stamped with control numbers SDNY_GM_00274187 through SDNY_GM_0274302, were sent to counsel representing the defense (Cohen & Gresser LLP, Haddon, Morgan and Foreman, P.C., and Law Offices of Bobbi C. Stemheim). The production includes a PDF file named EFTA00019422, dated 06.20.2018, and a Bates number range. The letter notes the governing Protective Order and the Government's commitment to ongoing discovery.",
+      "timestamp": "2020-12-16T00:00:00",
+      "timestamp_raw": "December 16, 2020",
+      "keywords": [
+        "united states v. ghislaine maxwell",
+        "sdny",
+        "redaction analysis",
+        "protective order",
+        "ubs subpoena",
+        "christian everdell",
+        "cohen & gresser llp",
+        "audrey strauss"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00010133",
+            "similarity": 0.5,
+            "index": 71,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00019420",
+      "summary": "On December 16, 2020, the U.S. Department of Justice, via Acting United States Attorney Audrey Strauss, produced discovery materials related to the case *United States v. Ghislaine Maxwell* (20 Cr. 330). The materials, stamped with control numbers SDNY_GM_00274187 through SDNY_GM_0274303, were provided to counsel for the defense (Cohen & Gresser LLP, Haddon, Morgan and Foreman, P.C., and Law Offices of Bobbi C. Stemheim).  A PDF file, EFTA00019420, was produced, and the government states it will continue to produce additional discoverable material as needed.",
+      "timestamp": "2020-12-16T00:00:00",
+      "timestamp_raw": "December 16, 2020",
+      "keywords": [
+        "united states v. ghislaine maxwell",
+        "sdny",
+        "discovery",
+        "protective order",
+        "confidential",
+        "ubs subpoena",
+        "efta00019420",
+        "pdf",
+        "20 cr. 330 (mn)",
+        "audrey strauss"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015975",
+      "summary": "Christian Everdell of Cohen & Gresser LLP sent an email to Judge Nathan regarding a typographical error in a reply brief for the case *U.S. v. Ghislaine Maxwell* (20 Cr. 330). The email requested approval to correct the error on pages 1 and 8 of the memorandum.  He attached both the unredacted and redacted versions of the memorandum, along with exhibits A-B, to be filed under seal. The email also included a cover letter and confidentiality notices.",
+      "timestamp": "2020-12-18T00:00:00",
+      "timestamp_raw": "December 18, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "bail motion",
+        "redaction",
+        "memorandum",
+        "court",
+        "u.s. v.",
+        "christian everdell",
+        "cohen & gresser llp"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00019897",
+            "similarity": 0.5,
+            "index": 18,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00024021",
+            "similarity": 0.545,
+            "index": 41,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00011179",
+            "similarity": 0.5,
+            "index": 83,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00016768",
+            "similarity": 0.636,
+            "index": 84,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00019896",
+      "summary": "Christian Everdell of Cohen & Gresser LLP sent a letter, attached as a PDF, to Judge Nathan regarding the sealing of Ghislaine Maxwell’s renewed bail motion in the case U.S. v. Ghislaine Maxwell (20 Cr. 330 (MN)). The letter was to be filed under seal and submitted to the Court and all counsel according to Judge Nathan’s Individual Practices in Criminal Cases.",
+      "timestamp": "2020-12-25T00:00:00",
+      "timestamp_raw": "25 Nov 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "u.s. v.",
+        "bail motion",
+        "sealing",
+        "judge nathan",
+        "christian everdell",
+        "cohen & gresser llp",
+        "criminal cases",
+        "confidentiality",
+        "letter"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00019897",
+            "similarity": 0.818,
+            "index": 18,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00011253",
+            "similarity": 0.538,
+            "index": 81,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00030934",
+      "summary": "On December 28, 2020, Cohen & Gresser LLP, representing Ghislaine Maxwell, submitted a request to the United States Attorney's Office for a Bill of Particulars regarding the Superseding Indictment. They requested clarification of specific allegations within the indictment concerning interactions with Minor Victims 1-3 and Victims 2-3, including dates, locations, and details of alleged grooming, abuse, and involvement in “group sexualized massages.” Specifically, they requested full names and birthdates of the victims, detailed descriptions of activities, and the identification of any other individuals involved. They also sought clarification regarding the timeline of conspiracies charged in Counts One and Three, and details about alleged false statements made by Maxwell.",
+      "timestamp": "2020-12-28T00:00:00",
+      "timestamp_raw": "December 28, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "epstein",
+        "victims",
+        "sexual abuse",
+        "indictment",
+        "criminal procedure",
+        "particulars",
+        "grooming",
+        "massage",
+        "united states v. ghislaine maxwell"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021707",
+      "summary": "Maxwell. *   They are requesting a 4TB hard drive containing the complete discovery production, which is not yet ready. *   They are questioning the correlation of Bates numbers to subject devices in the discovery cover letters. *   They are requesting an unredacted FBI report and a log of redactions. *   They identify missing documents, including AT&T subscriber information and flight logs, and request their production. *   They point out metadata inconsistencies in the PROD011 and PROD015 production files. *   They request a copy of the government’s detailed index of documents. *   They are requesting copies of grand jury subpoenas and their associated date ranges. *   They inquire about the unsealing of a cell-site simulator affidavit referenced in a news article and requests confirmation of any related FOIA releases.",
+      "timestamp": "2021-01-07T00:00:00",
+      "timestamp_raw": "07 Jan 2021",
+      "keywords": [
+        "discovery",
+        "maxwell",
+        "fbi report",
+        "redaction",
+        "bates numbers",
+        "cd drive",
+        "hard drive",
+        "sdny_prod015",
+        "sdny_gm_00001015",
+        "subpoenas",
+        "metadata"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00021736",
+            "similarity": 0.643,
+            "index": 30,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00030941",
+      "summary": "Christian Everdell of Cohen & Gresser LLP sent an email to Bobbi C. Sternheim, Jeff Pagliuca, Laura Menninger, and Mark S. Cohen regarding a request for a Bill of Particulars. The email included an attachment: “2021-01-10 Leuer_Response_to_GM_Request_for_Bill_of Particularsfinal).pdf.” A confidentiality notice and privacy policy link were also included.",
+      "timestamp": "2021-01-10T00:00:00",
+      "timestamp_raw": "2021-01-10",
+      "keywords": [
+        "bill of particulars",
+        "christian everdell",
+        "cohen & gresser llp",
+        "request",
+        "legal",
+        "efta00030941",
+        "pdf",
+        "redaction",
+        "usanys"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00017873",
+      "summary": "United States of America v. Maxwell (Case Number: 21-58) was filed on January 12, 2021. Ghislaine Maxwell is the defendant, represented by Cohen & Gresser LLP and Bobbi C. Stemheim. On January 25, 2021, notices of appearance were filed by Cohen & Gresser LLP and Bobbi C. Stemheim. On January 26, 2021, a defective acknowledgment was addressed, followed by an acknowledgment and notice of appearance, and finally, information regarding Bobbi C. Sternheim as attorney for Maxwell was added, along with a Form B. The case is being handled by Assistant U.S. Attorney Christian Romeyn Everdell.",
+      "timestamp": "2021-01-12T00:00:00",
+      "timestamp_raw": "January 12, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states of america",
+        "appeal",
+        "court case",
+        "criminal defense",
+        "lexisnexis",
+        "cohen & gresser llp"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021736",
+      "summary": "The email chain details discovery requests from Cohen & Gresser LLP to the US government regarding the case involving Ghislaine Maxwell. Key requests include: *   Immediate delivery of a 4TB hard drive containing the full discovery production. *   Providing the CD data to Maxwell via a thumb drive or external CD drive. *   Correlating Bates numbers to SDNY_PROD015 and SDNY_PROD016 documents. *   Producing an unredacted FBI report and a log of redactions. *   Producing missing documents, specifically AT&T subscriber information and flight logs. *   Addressing metadata gaps in PROD011 and PROD015 DAT files. *   Providing detailed indices of document productions. *   Providing copies of grand jury subpoenas and requested date ranges. *   Confirmation regarding the unsealing of a cell-site simulator affidavit referenced in a Daily Beast article.",
+      "timestamp": "2021-01-16T00:00:00",
+      "timestamp_raw": "16 Jan 2021",
+      "keywords": [
+        "discovery",
+        "fbi report",
+        "redaction",
+        "bates numbers",
+        "cd",
+        "hard drive",
+        "maxwell",
+        "sdny_prod015",
+        "sdny_gm",
+        "subpoenas",
+        "metadata",
+        "foia"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00021707",
+            "similarity": 0.643,
+            "index": 27,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021019",
+      "summary": "Ghislaine Maxwell’s legal team filed a motion requesting a severance and separate trial for Counts Five and Six of the Superseding Indictment in the case against her, United States of America v. Ghislaine Maxwell (20 Cr. 330). The motion was submitted by attorneys from Haddon, Morgan & Forman P.C., Cohen & Gresser LLP, and Law Offices of Bobbi C. Stemheim, representing Maxwell.",
+      "timestamp": "2021-01-25T00:00:00",
+      "timestamp_raw": "January 25, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states v. ghislaine maxwell",
+        "notice of motion",
+        "severance",
+        "trial",
+        "superseding indictment",
+        "counts five and six",
+        "criminal defense",
+        "pretrial motion"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023047",
+      "summary": "Ghislaine Maxwell, through her legal counsel (Haddon. Morgan & Forman P.C. and Cohen & Gresser LLP), is filing a motion with the United States District Court for the Southern District of New York in the case *United States v. Ghislaine Maxwell* (20 Cr. 330). The motion requests the suppression of evidence obtained from a government subpoena to Boies Schiller and seeks to dismiss Counts Five and Six of the indictment. The motion is dated January 25, 2021.",
+      "timestamp": "2021-01-25T00:00:00",
+      "timestamp_raw": "January 25, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states v. ghislaine maxwell",
+        "due process",
+        "motion to suppress",
+        "dismiss counts",
+        "boies schiller",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021021",
+      "summary": "Ghislaine Maxwell, through her legal team (Haddon, Morgan & Forman P.C., Cohen & Gresser LLP, and Law Offices of Bobbi C. Stemheim), is filing a motion to dismiss Counts Five and Six of a superseding indictment. The motion argues that the alleged misstatements within those counts are not perjurious as a matter of law. The document was dated January 25, 2021, and was generated on December 25, 2025.",
+      "timestamp": "2021-01-25T00:00:00",
+      "timestamp_raw": "January 25, 2021",
+      "keywords": [
+        "efta00021021",
+        "ghislaine maxwell",
+        "united states v. ghislaine maxwell",
+        "notice of motion",
+        "dismissal",
+        "indictment",
+        "superceding indictment",
+        "pretrial motion",
+        "counts five",
+        "counts six",
+        "legal motion"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030888",
+      "summary": "It’s a record of communications between defense counsel (Cohen & Gresser LLP) and a contractor (\"USANYS\") regarding the production of discovery materials. Key points include: *   **Initial Production:** The contractor was tasked with producing discovery materials, including PROD011 and PROD015 files, along with re-bates stamped items. *   **CD Issues:** Initial CD productions were problematic, requiring the transfer of materials to thumb drives or external drives for delivery to Maxwell. *   **Metadata Discrepancies:** Significant issues arose with the metadata (.DAT) files for PROD011 and PROD015, with gaps identified and requests made for updated files. The 4th and 5th production file had overlapping numbers. *   **Discovery Requests & Concerns:** Counsel raised numerous discovery requests, including demands for an unredacted FBI report, a list correlating Bates numbers, and clarification of missing documents (AT&T records, flight logs). *   **Ongoing Issues:** There were ongoing concerns about the completeness of the production, specifically regarding Bates number accuracy and the identification of missing documents. Counsel pushed for the provision of a more detailed index. *   **Further Requests:** Counsel requested copies of grand jury subpoenas, information regarding the unsealing of documents, and clarification of the Daily Beast article referencing the cell-site simulator affidavit. The document represents a series of emails and related information attempting to address gaps and issues within the discovery process.",
+      "timestamp": "2021-01-27T00:00:00",
+      "timestamp_raw": "27 Jan 2021",
+      "keywords": [
+        "usanys",
+        "contractor",
+        "mdc",
+        "discovery requests",
+        "cd",
+        "prod011",
+        "prod015",
+        "dat files",
+        "redaction",
+        "bates numbers",
+        "ftp site",
+        "maxwell",
+        "defense counsel",
+        "fbi report",
+        "subpoena",
+        "metadata",
+        "cell-site simulator"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030069",
+      "summary": "On March 9, 2021, Laura Menninger sent a letter and attachments to Judge Nathan regarding objections to the government’s proposed redactions in the U.S. v. Ghislaine Maxwell case (20 Cr. 330). The attachments included Ms. Maxwell’s objections and her proposed redactions for pages 1-128 of a document. The correspondence involved multiple individuals and law firms, including Cohen & Gresser LLP, and referenced Rule 2(B) of the court’s individual rules.",
+      "timestamp": "2021-03-09T00:00:00",
+      "timestamp_raw": "March 9, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "redactions",
+        "u.s. v.",
+        "objections",
+        "government",
+        "motions",
+        "rule 2(b)",
+        "redacted"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019474",
+      "summary": "*   A legal team (Chris Everdell of Cohen & Gresser LLP) is proposing redactions to Exhibit 11 and their letter dated March 9, 2021, regarding redactions. *   The redactions are based on a court order (Judge Nathan’s) to redact portions of deposition transcripts and related documents that were originally filed in a defamation case and remain sealed. *   Specifically, they are requesting redactions to include “[Minor Victim-2]” on page 134 and to redact quotations/references from a document (Exhibit H) that is also under seal. *   The opposing legal team (EFTA00019475) initially questioned the need for the redactions but ultimately agrees to the proposed redactions, deferring to Chris’s decision on the redactions of Exhibit H. *   They are scheduling a meeting to discuss the redactions further.",
+      "timestamp": "2021-03-09T00:00:00",
+      "timestamp_raw": "March 9, 2021",
+      "keywords": [
+        "redaction",
+        "court",
+        "opposition",
+        "brief",
+        "exhibit 11",
+        "judge nathan",
+        "redactions",
+        "sealed",
+        "indictment",
+        "cover letter"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030090",
+      "summary": "On March 12, 2021, the United States Attorney’s Office for the Southern District of New York (SDNY) sent a revised discovery production to Cohen & Gresser LLP regarding the case *US v. Maxwell* (20 Cr. 330 (AJN)). The initial index in a previous cover letter incorrectly started at the wrong Bates number. The attached production relates to materials regarding victims not referenced in Indictment number S1 20 Cr. 330 (AJN), ordered by the court on November 18, 2020. The production was intended to be sent via FTP and a CD would also be provided for review.",
+      "timestamp": "2021-03-12T00:00:00",
+      "timestamp_raw": "March 12, 2021",
+      "keywords": [
+        "discovery production",
+        "us v. maxwell",
+        "ftp site",
+        "united states attorney's office",
+        "sdny",
+        "victim production",
+        "cohen & gresser llp",
+        "mark s. cohen",
+        "bobbi sternheim"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018988",
+      "summary": "On March 12, 2021, an Assistant United States Attorney from the Southern District of New York (USANYS) sent an email to Christian R. Everdell regarding the production of discovery in the case of *US v. Maxwell* (20 Cr. 330 (AJN)). The email detailed an error in the Bates range index (SDNY_GM_02742936 should be SDNY_GM_02742963) and requested a link for FTP production. The production involved materials related to victims not referenced in the indictment. A CD containing the production was also being sent to the MDC for review.",
+      "timestamp": "2021-03-12T00:00:00",
+      "timestamp_raw": "March 12, 2021",
+      "keywords": [
+        "us v. maxwell",
+        "discovery production",
+        "sdny_gm_02742936",
+        "sdny_gm_02742963",
+        "ftp",
+        "united states attorney",
+        "bobbi sternheim",
+        "cohen & gresser llp"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028925",
+      "summary": "On March 15, 2021, Cohen & Gresser LLP, representing Ghislaine Maxwell, filed reply memoranda in response to the Superseding Indictment. The memoranda cover motions related to dismissal of charges, suppression of evidence, and procedural issues including a motion for a bill of particulars. Due to the presence of “Confidential” discovery information, the firm intends to submit the memoranda via email with redacted and unredacted versions, pending court instruction. The firm is also considering filing some documents under seal.",
+      "timestamp": "2021-03-15T00:00:00",
+      "timestamp_raw": "March 15, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "motion to dismiss",
+        "superseding indictment",
+        "united states v.",
+        "breach of non-prosecution agreement",
+        "due process clause",
+        "sixth amendment",
+        "bill of particulars",
+        "protective order",
+        "redactions",
+        "evidence suppression"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028849",
+      "summary": "Christian Everdell of Cohen & Gresser LLP sent a filing to Judge Nathan regarding the U.S. v. Ghislaine Maxwell case (20 Cr. 330). The filing includes redacted and unredacted versions of Ms. Maxwell’s reply memoranda and accompanying exhibits in support of her pretrial motions, submitted pursuant to Rule 2(B) of the court’s rules. A redacted cover letter is being filed on the public docket.",
+      "timestamp": "2021-03-16T00:00:00",
+      "timestamp_raw": "16 Mar 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "u.s. v.",
+        "pretrial motion",
+        "reply memoranda",
+        "exhibits",
+        "redaction analysis",
+        "confidentiality",
+        "christian everdell",
+        "cohen & gresser llp",
+        "20 cr. 330"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00011253",
+            "similarity": 0.538,
+            "index": 81,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00024021",
+      "summary": "Christian Everdell of Cohen & Gresser LLP sent an email to Judge Nathan regarding the filing of redacted and unredacted versions of Ghislaine Maxwell’s reply memoranda and exhibits in support of her pretrial motions in the case U.S. v. Ghislaine Maxwell (20 Cr. 330). The attachments included a zip file containing the memoranda and exhibits, along with several image files. A redacted cover letter was filed on the public docket.",
+      "timestamp": "2021-03-16T00:00:00",
+      "timestamp_raw": "16 Mar 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "u.s. v.",
+        "pretrial motion",
+        "redaction",
+        "exhibits",
+        "motion reply",
+        "court",
+        "christian everdell",
+        "cohen & gresser llp"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00015975",
+            "similarity": 0.545,
+            "index": 24,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030108",
+      "summary": "On March 16, 2021, the U.S. Department of Justice, via Assistant United States Attorneys, produced discovery materials related to the case *United States v. Ghislaine Maxwell* (20 Cr. 330). The production included two documents: a Manifest of items seized by the FBI in Florida (SDNY_GM_02743101) and a Manifest of items seized by the FBI in New York (SDNY_GM_02743102). Both documents are stamped with control numbers and governed by a Protective Order in place since July 31, 2020. The Government states it will promptly produce additional discoverable materials if they become aware of them.",
+      "timestamp": "2021-03-16T00:00:00",
+      "timestamp_raw": "March 16, 2021",
+      "keywords": [
+        "efta00030108",
+        "ghislaine maxwell",
+        "united states v.",
+        "sdny",
+        "fbi",
+        "protective order",
+        "discovery materials",
+        "confidential",
+        "new york",
+        "cohen & gresser llp",
+        "united states attorney"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019029",
+      "summary": "An email exchange between Christian Everdell of Cohen & Gresser LLP and an unknown recipient regarding proposed redactions to Exhibit 11. The redactions, as outlined in Judge Nathan’s order, target quotations and references from a previously filed, sealed document (Exhibit H). The sender seeks confirmation from the recipient regarding whether the redactions should remain in place, deferring to the recipient's decision. Attached documents include proposed redactions and the original opposition brief.",
+      "timestamp": "2021-03-22T00:00:00",
+      "timestamp_raw": "22 Mar 2021",
+      "keywords": [
+        "redaction",
+        "exhibit 11",
+        "judge nathan",
+        "cover letter",
+        "redactions",
+        "meet and confer",
+        "civil docket",
+        "seal",
+        "quotations",
+        "cohen & gresser"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019084",
+      "summary": "On March 29, 2021, the U.S. Department of Justice, via Assistant United States Attorney Audrey Strauss, produced discovery materials related to the case *United States v. Ghislaine Maxwell* (20 Cr. 330 (AJN)). The materials, stamped with control numbers SDNY_GM_02743103 through SDNY_GM_02743292, were sent to counsel representing Ghislaine Maxwell – Christian Everdell, Mark Cohen, Laura Menninger, Jeffrey Pagliuca, and Bobbi Sternheim – and are governed by a Protective Order dated July 31, 2020. An index of the materials is included, detailing their Bates numbers and descriptions. The Government states it will promptly produce further discoverable material if needed.",
+      "timestamp": "2021-03-29T00:00:00",
+      "timestamp_raw": "March 29, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states v.",
+        "sdny",
+        "united states department of justice",
+        "protective order",
+        "discovery materials",
+        "confidential",
+        "redaction analysis",
+        "cohen & gresser llp",
+        "haddon",
+        "morgan and foreman",
+        "p.c."
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00010160",
+            "similarity": 0.692,
+            "index": 9,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00031437",
+            "similarity": 0.533,
+            "index": 8,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00031440",
+            "similarity": 0.692,
+            "index": 7,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00024868",
+            "similarity": 0.615,
+            "index": 58,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00020430",
+      "summary": "This document is a follow-up email chain between Christian Everdell (Cohen & Gresser LLP) and a USANYS Assistant United States Attorney regarding discovery materials produced in a case involving Jeffrey Epstein. The core issues raised are: *   **Hard Drive Delivery:** A request for a hard drive containing discovery materials for a client, Ms. Maxwell, has not been addressed. *   **Disk Readability:** Issues with Ms. Maxwell's prison computer preventing reading of disks sent previously, requiring alternative production methods. *   **Missing Attachments:** Over 109,000 emails produced without attachments, demanding their provision. *   **Metadata Issues:** Numerous files (photographs, electronic documents, audio/visual files) lack CART numbers and have inconsistent or delayed metadata dates (July 2020 or later), requesting metadata overlays and source identification. Specifically, gaps exist in production numbers (11/18-12/18), and there's confusion regarding the origin of files with inconsistent metadata. *   **Request for Clarification:** The sender seeks clarification on whether the 11/18-12/18 production gap was intentional. The email threads propose solutions, including providing a hard drive, offering to load files onto a drive, and requesting metadata overlays to address the inconsistencies and missing information.",
+      "timestamp": "2021-03-29T00:00:00",
+      "timestamp_raw": "29 Mar 2021",
+      "keywords": [
+        "discovery",
+        "metadata",
+        "epstein",
+        "fbi",
+        "cart",
+        "production",
+        "files",
+        "attachments",
+        "hard drive",
+        "prison",
+        "southern district of new york",
+        "cd",
+        "images",
+        "bates",
+        "metadata overlay"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00019595",
+            "similarity": 0.5,
+            "index": 46,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00019595",
+      "summary": "This redacted document details a discovery dispute between the Southern District of New York’s United States Attorney’s Office and a legal team (Cohen & Gresser LLP) regarding materials produced in the case involving Jeffrey Epstein. The core issues center around missing files, metadata discrepancies, and a gap in production numbers. Specifically, the US Attorney’s Office is requesting the delivery of a hard drive containing discovery materials to a client, Ms. Maxwell. They identify several problems with prior productions, including: *   Missing attachments from over 109,000 emails. *   Electronic documents with post-seizure creation dates and missing metadata. *   Photographs lacking CART numbers and with similar metadata issues. *   Audio/visual files with similar metadata issues, categorized by production set. *   A gap in the production numbers between November 18th and December 18th. The legal team responds with proposed solutions such as providing the hard drive, correcting the metadata issues, and investigating the production gap.  The correspondence highlights difficulties stemming from the handling and preservation of digital evidence, particularly concerning metadata and the origins of files.",
+      "timestamp": "2021-03-29T00:00:00",
+      "timestamp_raw": "29 Mar 2021",
+      "keywords": [
+        "usanys",
+        "discovery",
+        "metadata",
+        "files",
+        "fbi",
+        "epstein",
+        "cart",
+        "production",
+        "attachments",
+        "hard drive",
+        "mdc",
+        "litigation"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00020430",
+            "similarity": 0.5,
+            "index": 45,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019599",
+      "summary": "The U.S. Department of Justice, specifically the Southern District of New York, is responding to a request from legal counsel (Cohen & Gresser LLP, Haddon, Morgan & Foreman, P.C., and Bobbi Stemheim) regarding documents related to the Ghislaine Maxwell investigation. Specifically, the request included: *   Documents produced to Radar Online via FOIA. *   Any other FOIA requests pertaining to Jeffrey Epstein or Ghislaine Maxwell investigations. *   Materials reflecting the FBI-New York Office’s involvement in the USAO-SDFL investigation. The DOJ states they are not providing the requested materials due to: *   Lack of legal basis for the FOIA requests (Rule 16, etc.). *   FOIA’s purpose is public disclosure, not private litigation. *   The FBI has already made the Radar Online materials publicly available on its website. The DOJ is providing: *   Cover letters accompanying the Radar Online productions. *   Materials stamped with control numbers related to the Radar Online production. *   Materials stamped with control numbers related to the third request (FBI-New York involvement) as a courtesy. They also correct a factual error regarding the FBI’s Florida office being part of the prosecution team.",
+      "timestamp": "2021-03-29T00:00:00",
+      "timestamp_raw": "March 29, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "fbi",
+        "foia",
+        "radar online",
+        "discovery",
+        "united states v.",
+        "criminal investigation",
+        "southern district of new york",
+        "usao-sdfl"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019092",
+      "summary": "This redaction analysis document pertains to a legal case, likely a discovery dispute, involving the production of electronic evidence in the Maxwell case. The core issues revolve around discrepancies in metadata and missing information within large productions of documents, emails, photographs, and audio/visual files. Specifically, the sender requests the recipient to: *   Send a hard drive containing discovery materials to Ms. Maxwell. *   Provide missing attachments from over 109,000 emails. *   Produce a metadata overlay for documents with altered creation/modification dates (over 110,000 files). *   Supply CART numbers and metadata overlays for over 6,500 photographs and over 460 audio/visual files. *   Investigate a gap in production numbers between November 18th and December 18th. The communications are between Cohen & Gresser LLP (sending the request) and an unnamed contractor/party (\"USANYS\") receiving it, involving discussions, calendar invites, and attached documentation highlighting the specific deficiencies in the evidence production.",
+      "timestamp": "2021-03-30T00:00:00",
+      "timestamp_raw": "30 Mar 2021",
+      "keywords": [
+        "discovery",
+        "production",
+        "emails",
+        "hard drive",
+        "metadata",
+        "cart number",
+        "maxwell",
+        "pae",
+        "phone call",
+        "files"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015753",
+      "summary": "Maxwell case, involving highly confidential materials. The review will primarily occur at the 500 Pearl Street courthouse in New York, with some evidence to be viewed at the FBI’s Bronx warehouse. Initially, the FBI intends to make evidence available for review beginning April 13th, daily, until the review is complete. The defense team will be accompanied by an Assistant US Attorney and an FBI agent. Key points include: *   **Initial Scheduling:** The defense team and the government have agreed to a meeting at 11:00 AM on April 12th at the Bronx warehouse to photograph excluded items. *   **Physical Evidence Location:** The vast majority of physical evidence will be transported to 500 Pearl Street for review. *   **Highly Confidential Items:**  The FBI will provide the defense team with laptops to review 2,100 electronic images and 7 hard-copy images classified as “highly confidential”. The defense team requested clarification about the handling of these materials. *   **Logistical Arrangements:** The FBI will ensure a secure environment and separate review space for the defense team. *   **Ongoing Questions and Clarifications:** The defense team raised several questions regarding the process, including the availability of equipment, the handling of non-testifying witness statements, and access to a full inventory of physical evidence.",
+      "timestamp": "2021-04-08T00:00:00",
+      "timestamp_raw": "08 Apr 2021",
+      "keywords": [
+        "efta00015753",
+        "efta00015754",
+        "efta00015755",
+        "efta00015756",
+        "efta00015757",
+        "efta00015758",
+        "efta00015759",
+        "efta00015760",
+        "efta00015761",
+        "efta00015762",
+        "efta00015763",
+        "efta00015764",
+        "efta00015765",
+        "efta00015766",
+        "us v. maxwell",
+        "evidence",
+        "redaction",
+        "confidential",
+        "forensic",
+        "investigation",
+        "warehouse",
+        "fbi",
+        "legal",
+        "materials",
+        "review"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029241",
+      "summary": "On April 8, 2021, Christian R. Everdell of Cohen & Gresser LLP submitted a request to Judge Alison J. Nathan for permission to bring various electronic devices – including a VCR player, cassette player, CD player, microcassette player, and digital camera – into the courthouse for in-person court appearances in the United States v. Ghislaine Maxwell case. This request is due to the substantial amount of electronic evidence being presented and the planned evidence viewing sessions scheduled for April 12-16 and April 19-23, 2021 at 500 Pearl Street.",
+      "timestamp": "2021-04-08T00:00:00",
+      "timestamp_raw": "April 8, 2021",
+      "keywords": [
+        "efta00029241",
+        "ghislaine maxwell",
+        "united states district court",
+        "southern district of new york",
+        "evidence",
+        "electronic devices",
+        "court appearance",
+        "wi-fi access",
+        "defense counsel",
+        "vcr player"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026890",
+      "summary": "Maxwell* (20 Cr. 330 (MN)). The prosecution (Assistant US Attorney) is arranging for the defense team (represented by Cohen & Gresser LLP and Haddon, Morgan & Foreman, P.C.) to view evidence at 500 Pearl Street, NYC. Key elements include: *   **Scheduling:** The review will begin April 13th, with daily sessions until the evidence is reviewed. The FBI will bring Ms. Maxwell to the location. *   **Evidence Transport:** The FBI will transport physical evidence, excluding certain items (massage tables, cash, etc.) designated as “highly confidential,” which the defense can photograph. *   **Electronic Evidence:** The FBI will make electronic evidence available on laptops. The defense will have access to view those media. *   **Room Arrangements:** The defense will use the largest proffer room at 500 Pearl Street. *   **Protocol:** There will be an FBI agent and AUSA present, with measures to ensure privacy during the review. Laura Menninger, representing the defense, requests clarification on the logistics, particularly regarding the handling of electronic evidence and the designation of “highly confidential” items. The parties are coordinating schedules and addressing logistical challenges for a smooth review process.",
+      "timestamp": "2021-04-12T00:00:00",
+      "timestamp_raw": "12 Apr 2021",
+      "keywords": [
+        "evidence",
+        "review",
+        "maxwell",
+        "fbi",
+        "marshals",
+        "500 pearl",
+        "bronx warehouse",
+        "documents",
+        "photographs",
+        "tennessee",
+        "electronic data",
+        "confidential",
+        "\"highly confidential\"",
+        "new york",
+        "discovery",
+        "discs",
+        "witness statements",
+        "laura menninger",
+        "christian everdell"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026872",
+      "summary": "Maxwell* (20 Cr. 330 (AJN)). *   **Evidence Viewing Plan:** The U.S. Attorney proposes a plan for reviewing the evidence, including a scheduled review at 500 Pearl Street starting April 13th, with the possibility of rotating days. The review would initially start at 8:30 AM and last until 4:30 PM each day. *   **Personnel Involved:** The communication involves a team including Laura Menninger, Christian Everdell (Cohen & Gresser LLP), Jeff Pagliuca (Cohen & Gresser LLP), Bobbi Sternheim, Jim Harkins, and Simek Shropshire.  The FBI and Marshals are also key players. *   **Specific Evidence Arrangements:** The U.S. Attorney is arranging for the FBI to transport the evidence to 500 Pearl Street.  They will provide a laptop for review of “highly confidential” electronic images. The FBI plans to bring Maxwell to 500 Pearl Street on April 13th. *   **Item Restrictions:**  Certain items (those designated \"highly confidential\") will not be photographed, unless authorized.  The FBI will not make duplicates of those items.  The shredded paper is currently being analyzed by the FBI lab. *   **Discovery Issues:**  Laura Menninger raises concerns about discrepancies in the inventory of evidence, specifically regarding the \"highly confidential\" electronic images that had not been previously provided.  The U.S. Attorney addresses this by explaining the process of obtaining and providing those images. *   **Logistical Details:** The communication addresses logistical considerations like space at 500 Pearl Street, the use of electronic devices, and arrangements for Ms. Maxwell's presence.",
+      "timestamp": "2021-04-12T00:00:00",
+      "timestamp_raw": "12 Apr 2021",
+      "keywords": [
+        "evidence",
+        "review",
+        "maxwell",
+        "fbi",
+        "marshals",
+        "bronx",
+        "500 pearl",
+        "photos",
+        "electronic data",
+        "discs",
+        "tennessee",
+        "discovery",
+        "witnesses",
+        "laura mennin",
+        "chris everdell",
+        "jim harkins",
+        "simek shropshire",
+        "camille delgado",
+        "confidential",
+        "highly confidential"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026913",
+      "summary": "On April 12, 2021, the U.S. Department of Justice, via the Southern District of New York, produced materials related to individuals not intended as witnesses in the United States v. Ghislaine Maxwell case (20 Cr. 330). The production, indexed as EFTA00026913, was provided to counsel at Cohen & Gresser LLP and Haddon Morr & Foremen, P.C. and the Law Offices of Bobbi C. Stemheim. The materials are governed by a Protective Order dated July 31, 2020, and are considered confidential. The Government reserves the right to amend, supplement, or call these individuals as witnesses.",
+      "timestamp": "2021-04-12T00:00:00",
+      "timestamp_raw": "April 12, 2021",
+      "keywords": [
+        "united states v. ghislaine maxwell",
+        "justice",
+        "department of justice",
+        "protective order",
+        "counsel",
+        "index",
+        "production",
+        "confidential",
+        "witnesses",
+        "discovery"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020244",
+      "summary": "Defense counsel, Cohen & Gresser LLP, are requesting a court order directing the MDC to accept two hard drives containing non-Highly Confidential discovery materials for Ghislaine Maxwell’s use in the United States v. Ghislaine Maxwell case. The hard drives, created as a master set, organize the government’s discovery files (approximately 2.2 million pages) more efficiently than Maxwell’s existing hard drives. The government consents to the request, but requests the court allow MDC legal counsel to object. The defense intends to send the hard drives to Maxwell and will notify the MDC Legal Department of the request.",
+      "timestamp": "2021-04-30T00:00:00",
+      "timestamp_raw": "April 30, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "mdc",
+        "protective order",
+        "hard drives",
+        "discovery",
+        "united states v.",
+        "christian everdell",
+        "cohen & gresser llp",
+        "united states district court",
+        "new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020243",
+      "summary": "Christian Everdell of Cohen & Gresser LLP sent a letter to Judge Nathan, filed on the docket, regarding hard drives. The letter is attached as \"2021.04.30_Letter_to_Judge_Nathan_re_Hard_Drives.pdf\".",
+      "timestamp": "2021-04-30T00:00:00",
+      "timestamp_raw": "30 Apr 2021",
+      "keywords": [
+        "efta00020243",
+        "judge nathan",
+        "letter",
+        "redaction",
+        "christian everdell",
+        "cohen & gresser llp",
+        "confidentiality",
+        "privacy",
+        "docket",
+        "laura menninger"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00022514",
+      "summary": "Defense counsel, Cohen & Gresser LLP, are requesting a court order directing the Material Transfer Custody (MDC) to accept two hard drives containing discovery materials for Ghislaine Maxwell’s review. The hard drives, created from a master set, organize discovery excluding “Highly Confidential” materials into a more user-friendly format. The government has indicated no objection to the request, but requires the MDC legal department to note any objections. The request seeks to facilitate Maxwell’s review of discovery materials within the MDC.",
+      "timestamp": "2021-04-30T00:00:00",
+      "timestamp_raw": "April 30, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states",
+        "court",
+        "discovery",
+        "protective order",
+        "hard drives",
+        "mdc",
+        "defense counsel",
+        "government",
+        "criminal case"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031016",
+      "summary": "On May 3, 2021, the U.S. Department of Justice, via Audrey Strauss, produced discovery materials related to the case *United States v. Ghislaine Maxwell* (20 Cr. 330). The materials, stamped with control numbers SDNY_GM_02753399 through SDNY_GM_02753431, include photographs and are governed by a Protective Order dated July 31, 2020. The Government states it will promptly produce additional discoverable material if it becomes aware of any.",
+      "timestamp": "2021-05-03T00:00:00",
+      "timestamp_raw": "May 3, 2021",
+      "keywords": [
+        "united states v. ghislaine maxwell",
+        "sdny",
+        "discovery",
+        "protective order",
+        "confidential",
+        "efta00031016",
+        "cohen & gresser llp",
+        "haddon morgan and foreman",
+        "attorney"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00022511",
+            "similarity": 0.5,
+            "index": 59,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00024868",
+      "summary": "On May 3, 2021, the U.S. Department of Justice, via Assistant United States Attorneys, produced discovery materials related to the case *United States v. Ghislaine Maxwell* (20 Cr. 330 (MN)). The materials, stamped with control numbers SDNY_GM_02753399 through SDNY_GM_02753431, include photographs designated as \"Confidential.\" The production is governed by a Protective Order dated July 31, 2020, and the Government states it will promptly provide additional discoverable material if identified.",
+      "timestamp": "2021-05-03T00:00:00",
+      "timestamp_raw": "May 3, 2021",
+      "keywords": [
+        "united states",
+        "ghislaine maxwell",
+        "redaction analysis",
+        "protective order",
+        "sdny",
+        "cohen & gresser llp",
+        "haddon",
+        "morgan and foreman",
+        "discovery materials"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00019084",
+            "similarity": 0.615,
+            "index": 44,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00010160",
+            "similarity": 0.583,
+            "index": 9,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00031437",
+            "similarity": 0.538,
+            "index": 8,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00022511",
+      "summary": "On May 3, 2021, the U.S. Department of Justice, via United States Attorney Audrey Strauss, produced discovery materials related to the case *United States v. Ghislaine Maxwell* (20 Cr. 330). The materials, stamped with control numbers SDNY_GM_02753399 through SDNY_GM_02753431, include photographs designated as “Confidential” and governed by a Protective Order issued on July 31, 2020. The Government states it will promptly produce additional discoverable materials if identified. EFTA00022511 is listed as one of the provided files.",
+      "timestamp": "2021-05-03T00:00:00",
+      "timestamp_raw": "May 3, 2021",
+      "keywords": [
+        "united states v. ghislaine maxwell",
+        "sdny",
+        "discovery materials",
+        "protective order",
+        "confidential",
+        "efta00022511",
+        "cohen & gresser llp",
+        "haddon morgan and foreman",
+        "bobbi stemheim"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00031016",
+            "similarity": 0.5,
+            "index": 57,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031906",
+      "summary": "Christian Everdell of Cohen & Gresser LLP sent an email to Judge Nathan on May 28, 2021, regarding a reply memorandum submitted by Ghislaine Maxwell in support of her supplemental pretrial motions related to the S2 Superseding Indictment in the U.S. v. Ghislaine Maxwell case (20 Cr. 330). The email included a cover letter and the reply memorandum, which were filed under seal. A confidentiality notice was also included within the email.",
+      "timestamp": "2021-05-28T00:00:00",
+      "timestamp_raw": "May 28, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "u.s. v.",
+        "supplemental pretrial motions",
+        "reply memorandum",
+        "motion",
+        "judge nathan",
+        "confidentiality",
+        "redaction analysis",
+        "cohen & gresser llp"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023045",
+      "summary": "On July 21, 2021, the U.S. Department of Justice, via the Southern District of New York, produced discovery materials related to the case *United States v. Ghislaine Maxwell* (20 Cr. 330). The materials, stamped with control numbers SDNY_GM_02753552 through SDNY_GM_02759392, include FedEx records (EFTA00023045) and are governed by a Protective Order dated July 31, 2020. The Government states it will continue to produce additional discoverable material as needed.",
+      "timestamp": "2021-07-21T00:00:00",
+      "timestamp_raw": "July 21, 2021",
+      "keywords": [
+        "justice",
+        "united states department",
+        "ghislaine maxwell",
+        "protective order",
+        "discovery",
+        "sdny",
+        "cohen & gresser llp",
+        "haddon morgan and foreman",
+        "bates numbers"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028103",
+      "summary": "On August 30, 2021, Cohen & Gresser LLP, representing Ghislaine Maxwell, submitted a request to the U.S. Department of Justice via first-class mail. The request seeks testimony from FBI Special Agents regarding investigations into Jeffrey Epstein’s alleged sexual abuse, specifically focusing on timelines, investigative steps (witness interviews, evidence review, subpoenas, grand jury testimony), and the resolutions of both the Palm Beach FBI and U.S. Attorney’s Office for the Southern District of Florida investigation (July 2006 - June 2008) and the subsequent New York FBI and U.S. Attorney’s Office for the Southern District of New York investigation culminating in indictments against Epstein and Maxwell. The attorneys assert the disclosure is appropriate under relevant rules and would not compromise sensitive information.",
+      "timestamp": "2021-08-30T00:00:00",
+      "timestamp_raw": "August 30, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "fbi",
+        "jeffrey epstein",
+        "united states v.",
+        "criminal division",
+        "u.s. department of justice",
+        "testimony",
+        "investigation",
+        "indictment"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025066",
+      "summary": "On October 11, 2021, the U.S. Department of Justice, specifically Assistant United States Attorney Damian Williams, notified legal counsel (Cohen & Gresser LLP, Haddon, Morgan and Foreman, P.C., and Law Offices of Bobbi C. Stemheim) regarding the trial of Ghislaine Maxwell (20 Cr. 330 (MN)). The notification detailed that the government intends to refer Jefferey Epstein as a co-conspirator. All existing co-conspirator statements were produced, and the government will continue to produce Jencks Act material as needed. The government stated that the list of co-conspirators was limited and did not represent a complete list, with further information contained in the Jencks Act production. The communication was governed by a Protective Order issued on July 31, 2020.",
+      "timestamp": "2021-10-11T00:00:00",
+      "timestamp_raw": "October 11, 2021",
+      "keywords": [
+        "efta00025066",
+        "ghislaine maxwell",
+        "united states v.",
+        "united states department of justice",
+        "co-conspirators",
+        "fed. r. evid. 801(d)(2)(e)",
+        "jencks act",
+        "protective order",
+        "christian everdell",
+        "cohen & gresser llp",
+        "laura menninger",
+        "jeffrey pagliuca"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021941",
+      "summary": "On October 11, 2021, the U.S. Department of Justice, specifically the Southern District of New York, notified legal counsel (Cohen & Gresser LLP, Haddon, Morgan and Foreman, P.C., and Law Offices of Bobbi C. Stemheim) regarding the trial of Ghislaine Maxwell (United States v. Ghislaine Maxwell, 20 Cr. 330 (MN)). The government intends to refer Jefferey Epstein as a co-conspirator. All existing co-conspirator statements have been produced, and any additional statements will be provided as Jencks Act material. The government clarifies that the listed individuals represent a limited group and doesn’t intend to refer others as co-conspirators, with further information contained in the Jencks Act production. The communication is governed by a Protective Order dated July 31, 2020, designating the letter as confidential.",
+      "timestamp": "2021-10-11T00:00:00",
+      "timestamp_raw": "October 11, 2021",
+      "keywords": [
+        "efta00021941",
+        "ghislaine maxwell",
+        "united states v.",
+        "co-conspirators",
+        "judge nathan",
+        "jencks act",
+        "protective order",
+        "federal rule of evidence",
+        "united states attorney",
+        "cohen & gresser llp",
+        "southern district of new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016206",
+      "summary": "This rule requires the government to provide specific notice of evidence, including its purpose and reasoning, before trial. The motion argues the government failed to comply with this notice requirement, specifically regarding emails exchanged with third-party men and a potential witness (a former Epstein employee). The government’s short “Maxwell Rule 404(b) letter” lacked the required detail, preventing Maxwell’s team from adequately investigating and challenging the evidence. Furthermore, the team requests additional time to review the substantial amount of documentary evidence (over 400 pages) related to the witness, arguing they were rushed to respond and unable to conduct a thorough investigation. They assert the government’s lack of proper notice prejudiced Maxwell’s ability to mount a defense. The motion ultimately seeks to exclude the government's evidence under 404(b) or grant additional time for Maxwell's team to properly respond.",
+      "timestamp": "2021-10-11T00:00:00",
+      "timestamp_raw": "October 11, 2021",
+      "keywords": [
+        "rule 404(b)",
+        "notice requirement",
+        "evidence",
+        "government",
+        "ghislaine maxwell",
+        "federal rules of evidence",
+        "2020 amendments",
+        "intent",
+        "non-propensity",
+        "direct evidence",
+        "trial",
+        "admissibility"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023215",
+      "summary": "On October 14, 2021, Cohen & Gresser LLP, representing Ghislaine Maxwell, submitted a request to the U.S. Customs and Border Protection for documents related to border crossings of “Minor Victim I,” “Minor Victim 2,” and “Minor Victim 3.” These individuals are charged in a superseding indictment with offenses related to the alleged scheme involving Ghislaine Maxwell and Jeffrey Epstein to sexually abuse underage girls from 1994 to 2004. The request is based on the relevance of the border crossing records to the interstate and foreign travel required by the charges and the expected testimony of these witnesses at trial.",
+      "timestamp": "2021-10-14T00:00:00",
+      "timestamp_raw": "October 14, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "u.s. customs and border protection",
+        "scott falk",
+        "subpoena",
+        "sex trafficking",
+        "minor victims",
+        "jeffrey epstein",
+        "criminal sexual activity",
+        "border crossing records",
+        "indictment",
+        "trial"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023217",
+      "summary": "On October 25, 2021, the U.S. Department of Justice produced materials related to the case *United States v. Ghislaine Maxwell* to legal counsel, including Christian Everdell, Laura Menninger, Jeffrey Pagliuca, and Bobbi Stemheim. The production included Jencks Act and Giglio materials from potential witnesses and materials relating to individuals not currently planned to be called.  Previously produced materials (stamped 3501.450-3501.459) were reproduced to avoid confusion. The government reserves the right to call any of the listed individuals and specifies the Protective Order paragraphs governing the materials. The materials are marked \"SUBJECT TO PROTECTIVE ORDER PARAGRAPHS 7, 8, 9, 10, 15, and 17.\"",
+      "timestamp": "2021-10-25T00:00:00",
+      "timestamp_raw": "October 25, 2021",
+      "keywords": [
+        "united states v. ghislaine maxwell",
+        "jencks act",
+        "giglio material",
+        "protective order",
+        "confidential",
+        "witness statements",
+        "government",
+        "united states attorney",
+        "cohen & gresser llp",
+        "denver"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00010162",
+            "similarity": 0.538,
+            "index": 73,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00021036",
+            "similarity": 0.9,
+            "index": 76,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00025040",
+      "summary": "On October 25, 2021, Cohen & Gresser LLP requested a one-week extension, until November 3, 2021, for the filing of the joint proposed jury charge and verdict sheet in the case of *United States v. Ghislaine Maxwell*. This request stemmed from the government providing the proposed jury charge and the defense needing additional time to provide counterproposals due to numerous other deadlines. The parties agreed that the defense would send a redlined version of the government’s charge by November 1, 2021, and the final joint sheet would be submitted on November 3, 2021.",
+      "timestamp": "2021-10-25T00:00:00",
+      "timestamp_raw": "October 25, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states v.",
+        "alison j. nathan",
+        "jury charge",
+        "redline",
+        "motion in limine",
+        "court",
+        "november 3",
+        "2021",
+        "october 27",
+        "2021",
+        "efta00025040"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028274",
+      "summary": "The defense team, Cohen & Gresser LLP, is providing the government with a preliminary list of documents potentially usable in Ghislaine Maxwell’s defense case, as required by Rule 16(b)(1)(A) of the Federal Rules of Criminal Procedure. The defense acknowledges the case is still in development and subject to change based on trial proceedings. The disclosed documents include phone records (AT&T, Federal Express), customs records, Interlochen records, Shopper’s Travel records, flight manifests, a general release related to the Epstein Victims' Compensation Program, floorplans, police incident reports, and a non-prosecution agreement. The defense reserves the right to supplement these disclosures and continue investigating for additional potentially relevant materials.",
+      "timestamp": "2021-11-08T00:00:00",
+      "timestamp_raw": "November 8, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "rule 16",
+        "federal rules of criminal procedure",
+        "discovery",
+        "united states v.",
+        "defense disclosures",
+        "subpoenas",
+        "phone records",
+        "flight manifests"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010017",
+      "summary": "The U.S. Department of Justice, via United States Attorney Damian Williams, is producing materials related to the case *United States v. Ghislaine Maxwell* (20 Cr. 330). The materials, stamped with control numbers SDNY_GM_02767074 through SDNY_GM_02771980, are being provided to counsel at Cohen & Gresser LLP, Haddon, Moore & Foreman, P.C., and the Law Offices of Bobbi C. Sternheim. The documents are marked with “SUBJECT TO PROTECTIVE ORDER PARAGRAPHS 7, 8, 9, 10, 15, and 17.” The production includes business records from SDFL files, and the government believes these materials may be duplicative of previously produced items. The government intends to continue producing additional discoverable materials as they become available.",
+      "timestamp": "2021-11-09T00:00:00",
+      "timestamp_raw": "November 9, 2021",
+      "keywords": [
+        "united states department of justice",
+        "ghislaine maxwell",
+        "protective order",
+        "sdny",
+        "cohen & gresser llp",
+        "discovery",
+        "confidential",
+        "records",
+        "production",
+        "florida fbi file"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010133",
+      "summary": "The U.S. Department of Justice, via United States Attorney Damian Williams, is producing materials related to the case *United States v. Ghislaine Maxwell* (20 Cr. 330). The production, marked with control numbers SDNY_GM_02767074 through SDNY_GM_02771980 and labeled “SUBJECT TO PROTECTIVE ORDER PARAGRAPHS 7, 8, 9, 10, 15, and 17,” consists of files (SDFL Files’) containing documentation. The DOJ anticipates ongoing discovery obligations and offers assistance with access. The materials appear to be largely duplicative of prior productions.",
+      "timestamp": "2021-11-09T00:00:00",
+      "timestamp_raw": "November 9, 2021",
+      "keywords": [
+        "united states v. ghislaine maxwell",
+        "sdny",
+        "protective order",
+        "confidential",
+        "redaction analysis",
+        "discovery",
+        "doj",
+        "legal documents",
+        "christian everdell",
+        "cohen & gresser llp"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00019422",
+            "similarity": 0.5,
+            "index": 22,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027663",
+      "summary": "On November 11, 2021, Christian Everdell sent a letter, attached as a PDF, to Judge Nathan in the case of U.S. v. Ghislaine Maxwell (S2 20 Cr. 330), responding to the government’s letters regarding evidence presented by Accuser-3. The letter, submitted under temporary seal, contained Ms. Maxwell’s response to the government’s letters dated November 5 and November 7, 2021. The sender, Cohen & Gresser LLP, was requesting the government to propose redactions if necessary.",
+      "timestamp": "2021-11-11T00:00:00",
+      "timestamp_raw": "November 11, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "u.s. v.",
+        "accuser-3",
+        "redaction analysis",
+        "christian everdell",
+        "cohen & gresser llp",
+        "response to government's letters",
+        "s2 20 cr. 330 (ajn)",
+        "usanys"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010162",
+      "summary": "On November 16, 2021, the U.S. Department of Justice, via the United States Attorney for the Southern District of New York, produced materials related to the United States v. Ghislaine Maxwell case. The production included materials related to potential witnesses (including those not intended to be called) and witness statements, governed by the July 31, 2020 Protective Order. All materials were marked “SUBJECT TO PROTECTIVE ORDER PARAGRAPHS 7, 8, 9, 10, 15, and 17.” The Government reserves the right to call previously listed individuals as witnesses.",
+      "timestamp": "2021-11-16T00:00:00",
+      "timestamp_raw": "November 16, 2021",
+      "keywords": [
+        "united states v. ghislaine maxwell",
+        "jencks act",
+        "giglio material",
+        "protective order",
+        "confidential",
+        "witness statements",
+        "redaction analysis",
+        "united states department of justice",
+        "new york",
+        "cohen & gresser llp"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00023217",
+            "similarity": 0.538,
+            "index": 67,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00021036",
+            "similarity": 0.583,
+            "index": 76,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00024907",
+      "summary": "On November 20, 2021, Christian Everdell of Cohen & Gresser LLP sent a response to the government’s letter regarding birth certificates in the case of *U.S. v. Ghislaine Maxwell* (S2 20 Cr. 330). The defense conceded to the government’s concerns about the self-authentication of birth certificates of alleged minor victims. The response was initially submitted under temporary seal to allow the government to propose redactions. A follow-up email on November 21, 2021, confirmed the submission and stated the defense had conceded.",
+      "timestamp": "2021-11-20T00:00:00",
+      "timestamp_raw": "November 20, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "birth certificates",
+        "redaction analysis",
+        "usanys",
+        "government",
+        "court",
+        "response",
+        "letter",
+        "siegel",
+        "cohen & gresser"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019404",
+      "summary": "On November 22, 2021, Cohen & Gresser LLP sent a letter to the Chambers regarding a defendant’s letter concerning proposed limiting instructions in the case of *U.S. v. Maxwell*. The letter, attached as a PDF, was initially submitted under seal. The email also included confidentiality and privacy notices.",
+      "timestamp": "2021-11-22T00:00:00",
+      "timestamp_raw": "November 22, 2021",
+      "keywords": [
+        "u.s. v. maxwell",
+        "limiting instructions",
+        "redacted",
+        "letter",
+        "judge nathan",
+        "cohen & gresser llp",
+        "confidentiality",
+        "email",
+        "2021.11.22"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021036",
+      "summary": "The U.S. Department of Justice, specifically the United States Attorney for the Southern District of New York, is producing materials related to the Ghislaine Maxwell trial, including Jencks Act and Giglio materials concerning potential witnesses and materials related to individuals not currently intended to be called. These materials, marked with the “SUBJECT TO PROTECTIVE ORDER PARAGRAPHS 7, 8, 9, 10, 15, and 17” designation, are governed by a Protective Order and are considered confidential. The Government reserves the right to call individuals listed in the index should circumstances change.",
+      "timestamp": "2021-11-23T00:00:00",
+      "timestamp_raw": "November 23, 2021",
+      "keywords": [
+        "united states v. ghislaine maxwell",
+        "jencks act",
+        "giglio material",
+        "protective order",
+        "confidential",
+        "witness statements",
+        "government",
+        "united states attorney",
+        "cohen & gresser llp"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00010162",
+            "similarity": 0.583,
+            "index": 73,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00023217",
+            "similarity": 0.9,
+            "index": 67,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029574",
+      "summary": "An email was sent from Christian Everdell of Cohen & Gresser LLP to (USANYS) Contractor regarding a Defense Rule 16 disclosure. The email included several attachments, including letters of certification from AT&T and FedEx, a list of certified FedEx invoices, Interlochen records, a redacted release from A. Farmer, and an NPA document (Epstein). The email requested the recipients to save the attachments on a shared drive.",
+      "timestamp": "2021-12-09T00:00:00",
+      "timestamp_raw": "09 Nov 2021",
+      "keywords": [
+        "defense rule 16",
+        "redaction",
+        "disclosure",
+        "efta00029574",
+        "contractor",
+        "usanys",
+        "christian everdell",
+        "cohen & gresser llp",
+        "fedex",
+        "certification"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00009985",
+      "summary": "Christian Everdell of Cohen & Gresser LLP sent an external email to [REDACTED], Jeff Pagliuca, and Laura Menninger regarding a Defense Rule 16 disclosure. The email included attachments related to the disclosure, specifically redacted documents including: a letter to the government, certifications from AT&T and FedEx, a list of certified FedEx invoices, Interlochen Records, a redacted A. Farmer Release, and an Epstein NPA. A confidentiality notice and privacy policy link were also included.",
+      "timestamp": "2021-12-09T00:00:00",
+      "timestamp_raw": "09 Nov 2021",
+      "keywords": [
+        "defense rule 16",
+        "redaction",
+        "efta00009985",
+        "christian everdell",
+        "cohen & gresser llp",
+        "disclosures",
+        "certifications",
+        "invoices",
+        "geneva"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023363",
+      "summary": "Nathan Chambers (Chambers of the Hon. Alison J. Nathan) sent a response to the government’s letter regarding Ghislaine Maxwell’s birth certificates. Christian Everdell (Cohen & Gresser LLP) submitted the defense’s letter to the court under temporary seal, awaiting the government’s proposed redactions. The government provided a letter with proposed redactions, and the defense indicated they had no further redactions to suggest. The communication involved multiple attorneys and legal firms including Cohen & Gresser LLP, HMFLaw.com, and Mac.com.",
+      "timestamp": "2021-12-21T00:00:00",
+      "timestamp_raw": "21 Nov 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "redaction",
+        "birth certificates",
+        "u.s. v.",
+        "cohen & gresser",
+        "court docket",
+        "government letter",
+        "response"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014694",
+      "summary": "A letter from Cohen & Gresser LLP to the Chambers regarding a defense response to a court's opinion and order in U.S. v. Maxwell. The defense submitted a letter temporarily under seal regarding proposed limiting instructions. The letter was attached as a PDF and included supporting images.",
+      "timestamp": "2021-12-22T00:00:00",
+      "timestamp_raw": "22 Nov 2021",
+      "keywords": [
+        "u.s. v. maxwell",
+        "jury instructions",
+        "limiting instructions",
+        "defense letter",
+        "cohen & gresser llp",
+        "confidentiality",
+        "privacy",
+        "legal correspondence"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00011253",
+      "summary": "Christian Everdell of Cohen & Gresser LLP submitted documents to Judge Nathan regarding Ghislaine Maxwell’s bail motion in U.S. v. Ghislaine Maxwell (20 Cr. 330 (MN)). The submissions included a cover letter, an unredacted renewed bail motion, and unredacted exhibits A-E. These documents were sent under seal due to the volume of materials.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "ghislaine maxwell",
+        "bail motion",
+        "exhibits",
+        "u.s. v.",
+        "judge nathan",
+        "christian everdell",
+        "cohen & gresser llp",
+        "redaction analysis",
+        "confidentiality",
+        "seal"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00028849",
+            "similarity": 0.538,
+            "index": 40,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019896",
+            "similarity": 0.538,
+            "index": 25,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019897",
+            "similarity": 0.538,
+            "index": 18,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00011167",
+            "similarity": 0.818,
+            "index": 82,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00011179",
+            "similarity": 0.538,
+            "index": 83,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00016768",
+            "similarity": 0.538,
+            "index": 84,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00011167",
+      "summary": "Christian Everdell of Cohen & Gresser LLP submitted redacted exhibits (0-P, S, W-X) related to the U.S. v. Ghislaine Maxwell case (20 Cr. 330) to Judge Nathan and all counsel under seal, as per Court Order Dkt. 89. The exhibits were attached as PDFs and included supporting images.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "ghislaine maxwell",
+        "bail motion",
+        "exhibits",
+        "redaction analysis",
+        "u.s. v.",
+        "cohen & gresser llp",
+        "judge nathan",
+        "criminal case",
+        "seal",
+        "confidentiality"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00011253",
+            "similarity": 0.818,
+            "index": 81,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00016768",
+            "similarity": 0.538,
+            "index": 84,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00011179",
+      "summary": "Christian Everdell of Cohen & Gresser LLP submitted exhibits O-X (unredacted) to Judge Nathan in the case of U.S. v. Ghislaine Maxwell (20 Cr. 330) under seal, as per Court Order Dkt. 89. The exhibits included PDFs and images labeled Exhibit_O.pdf through Exhibit_X.pdf. The email also contained a confidentiality notice and a privacy policy link.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "ghislaine maxwell",
+        "bail motion",
+        "exhibits",
+        "u.s. v.",
+        "christian everdell",
+        "nathannysdchambers",
+        "cohen & gresser llp",
+        "redacted",
+        "court",
+        "seal"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00011253",
+            "similarity": 0.538,
+            "index": 81,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00015975",
+            "similarity": 0.5,
+            "index": 24,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016768",
+      "summary": "Christian Everdell of Cohen & Gresser LLP submitted documents to Judge Nathan in the case of *U.S. v. Ghislaine Maxwell* (20 Cr. 330 (MN)) under seal. The documents included a cover letter, an unredacted reply memorandum, a redacted reply memorandum, and accompanying exhibits A and B. The submission was in response to a renewed bail motion.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "ghislaine maxwell",
+        "bail motion",
+        "redaction",
+        "u.s. v.",
+        "christian everdell",
+        "cohen & gresser llp",
+        "judge nathan",
+        "exhibits",
+        "memorandum",
+        "criminal case"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00011167",
+            "similarity": 0.538,
+            "index": 82,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00011253",
+            "similarity": 0.538,
+            "index": 81,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00015975",
+            "similarity": 0.636,
+            "index": 24,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029948",
+      "summary": "This document, \"EFTA00029948.pdf,\" is a file request from Cohen & Gresser LLP, submitted by Thomas Powers, pertaining to case number GM_02742044-27421832ip. The file size is 3.55 MB.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00029948",
+        "cohen & gresser",
+        "thomas powers",
+        "sdny",
+        "file request",
+        "gm_02742044"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00011180",
+      "summary": "Preston M. Faro, a forensic accountant and private investigator, was hired by Cohen & Gresser LLP to review a Financial Condition Report prepared by Macalvins Accountants for Ghislaine Maxwell’s finances from 2015-2020.  His background includes over 40 years of experience in financial fraud investigations, including prior work as an IRS Special Agent and involvement in the World Trade Center Integrity Compliance Program.  During the review, he examined the Financial Condition Report, Independent Accountants’ Commentary, and supporting Excel schedules, accessing underlying documents and questioning Macalvins accountants. He concluded that the report accurately summarized Ms. Maxwell’s assets.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "forensic accountant",
+        "fraud investigation",
+        "irs",
+        "financial fraud",
+        "asset tracing",
+        "compliance program",
+        "ghislaine maxwell",
+        "financial condition report",
+        "independent review",
+        "wtc integrity compliance program"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015977",
+      "summary": "330 (MN)). *   **Legal Team:** The case is being represented by Cohen & Gresser LLP, Haddon, Morgan & Foreman P.C., and Law Offices of Bobbi C. Sternheim. *   **Core Argument:** Maxwell argues that the government’s case relies almost exclusively on the testimony of three witnesses with no substantial documentary corroboration, and therefore fails to meet the standard for strict bail conditions. *   **Key Points:** *   The government concedes reliance on three witnesses and lacks documentary evidence. *   Maxwell asserts strong ties to the United States (including her spouse) and has fully disclosed her finances, pledging all assets as security. *   The government’s assertion of Maxwell’s flight risk is deemed specious. *   Extradition waivers from France and the UK are likely to be enforced. *   The recent COVID surge at MDC justifies the proposed bail conditions. *   **Financial Package:** Maxwell proposes a bail package with significant security (multiple sureties) and a detailed financial report, which the government does not challenge. *   **Extradition Concerns:**  The legal team highlights the legal basis for extradition treaties and argues that the government's position is overly restrictive. *   **COVID-19 Context:**  The argument for bail is bolstered by the increased risk of infection at the MDC detention facility. The document's primary goal is to persuade the court to release Maxwell on strict conditions, arguing that the government’s case is weak and that the proposed bail package adequately addresses any concerns about her flight risk.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "reply memorandum",
+        "bail",
+        "maxwell",
+        "government",
+        "witnesses",
+        "united states",
+        "extradition",
+        "france",
+        "united kingdom",
+        "finances",
+        "bonds",
+        "ties",
+        "risk",
+        "covid",
+        "pretrial services",
+        "evidence"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    }
+  ]
+}

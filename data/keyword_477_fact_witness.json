@@ -1,0 +1,1291 @@
+{
+  "keyword": "fact witness",
+  "count": 31,
+  "keyword_match_count": 31,
+  "content_match_count": 5,
+  "total_files": 36,
+  "timeline": [
+    {
+      "file_id": "EFTA00024270",
+      "summary": "This document pertains to a subpoena issued by the U.S. District Court for the Southern District of Florida, targeting a witness (referred to as “agt61”) for a Grand Jury investigation. The subpoena, dated June 3, 2008, requires the witness to appear at the United States District Court in West Palm Beach, Florida, to testify.  It also includes information regarding the subpoena’s issuance by the United States of America, travel arrangements through Omega World Travel (1-800-411-9287), and reimbursement guidelines for expenses including mileage, meals, and lodging, subject to specific rates and receipt requirements.  A section provides instructions for fact witnesses appearing on behalf of the U.S. Department of Justice, including contact information for verification and travel assistance.",
+      "timestamp": "2008-06-03T00:00:00",
+      "timestamp_raw": "June 3, 2008",
+      "keywords": [
+        "grand jury",
+        "subpoena",
+        "united states district court",
+        "federal taxpayer information",
+        "witness testimony",
+        "rule 6 (e)",
+        "fbi",
+        "travel arrangements",
+        "mileage reimbursement",
+        "court appearance"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020935",
+      "summary": "This document is a Fact Witness Travel Request form for a witness, [REDACTED], in the United States v. Jeffrey Epstein case (19 Cr. 490 (RMB), USA° No: 2018R01618). The request is for the witness to appear in the SDNY court on July 31, 2019, at 1 p.m. for trial preparation. The witness is not a government employee or military personnel, is not a victim-witness, and resides within the continental United States. The form specifies the need for exact matching of identification and details for travel and requires a hotel. It outlines the appropriate funding source for witness travel, referencing 28 C.F.R. Part 21 and related guidelines.",
+      "timestamp": "2019-07-31T00:00:00",
+      "timestamp_raw": "July 31, 2019",
+      "keywords": [
+        "fact witness",
+        "travel request",
+        "usap",
+        "sdny",
+        "witness fees",
+        "jeffrey epstein",
+        "court docket",
+        "trial",
+        "grand jury",
+        "travel agency"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00020934",
+            "similarity": 0.75,
+            "index": 2,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00010176",
+            "similarity": 0.5,
+            "index": 24,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00020934",
+      "summary": "This document is a Fact Witness Travel Request form for a witness named [REDACTED] in the case of United States v. Jeffrey Epstein (19 Cr. 490 (RMB)). The request is for domestic travel to SDNY on August 1, 2019, at 1 p.m. for trial preparation. The witness is not a government employee, military personnel, or a victim-witness. The form details witness contact information, including DOB, USA° number, and travel ID requirements. Hotel accommodations are required.",
+      "timestamp": "2019-08-01T00:00:00",
+      "timestamp_raw": "August 1, 2019",
+      "keywords": [
+        "fact witness",
+        "travel request",
+        "witness fees",
+        "sdny",
+        "jeffrey epstein",
+        "trial",
+        "grand jury",
+        "usap",
+        "doj",
+        "travel agency",
+        "tsa"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00020935",
+            "similarity": 0.75,
+            "index": 1,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028801",
+      "summary": "A request was submitted for travel for a fact witness, [REDACTED], to appear in the SDNY court on November 21, 2019, at 9 am for trial preparation. The witness is a victim-witness, traveling from Los Vegas to New York City. Hotel accommodations are required. The witness is not a government employee or military personnel. The witness needs to arrive on November 20, 2019, and depart on November 21, 2019. The request is for a fact witness, not an expert witness.  The witness’s travel arrangements require exact matching of identification documents with TSA.",
+      "timestamp": "2019-11-21T00:00:00",
+      "timestamp_raw": "November 21, 2019",
+      "keywords": [
+        "fact witness",
+        "travel request",
+        "sdny",
+        "witness",
+        "trial",
+        "grand jury",
+        "november 21",
+        "2019",
+        "usao",
+        "victim/witness",
+        "travel expenses"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00019654",
+            "similarity": 0.5,
+            "index": 6,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00027646",
+            "similarity": 0.5,
+            "index": 22,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00016831",
+      "summary": "A travel request was submitted on January 30, 2020, by [REDACTED] to \"USANYS\" regarding travel for a witness needed for grand jury preparation in the Epstein case on February 7th. The witness will fly from Florida on February 6th and a logistics call will be scheduled. The request is associated with document EFTA00016831.",
+      "timestamp": "2020-01-30T00:00:00",
+      "timestamp_raw": "January 30, 2020",
+      "keywords": [
+        "fact witness",
+        "travel request",
+        "epstein case",
+        "grand jury",
+        "florida",
+        "february 7th",
+        "logistics",
+        "cellphone",
+        "redaction",
+        "usanys"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016832",
+      "summary": "A travel request is being submitted for a witness, [REDACTED], in the case of United States v. Ghislaine Maxwell. The witness is required to appear in SDNY on February 7, 2020, for Trial preparation. The witness is a fact witness, not an expert, and is not a victim-witness. Unusual expenses include a necessary travel companion. The request utilizes standard DOJ procedures for fact witness travel and specifies guidelines for foreign witnesses and travel funding.",
+      "timestamp": "2020-02-07T00:00:00",
+      "timestamp_raw": "February 7, 2020",
+      "keywords": [
+        "fact witness",
+        "travel request",
+        "ghislaine maxwell",
+        "sdny",
+        "court docket",
+        "witness travel",
+        "domestic witness",
+        "travel agency",
+        "tsa",
+        "doj instruction"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00010174",
+            "similarity": 0.538,
+            "index": 17,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019446",
+            "similarity": 0.667,
+            "index": 20,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00015887",
+            "similarity": 0.538,
+            "index": 26,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00019654",
+      "summary": "A witness travel request was submitted for Ghislaine Maxwell’s trial. The witness, [REDACTED], is a fact witness and does not require an expert witness designation. The request includes details about the witness’s travel dates, address, contact information, and hotel requirements. The witness is not a victim-witness or a government/military employee. Unusual travel expenses, such as kennel fees for a pet, are noted. The request outlines specific instructions for AUSA regarding witness travel, including guidelines for domestic and international travel, and limitations on travel funding.",
+      "timestamp": "2021-07-19T00:00:00",
+      "timestamp_raw": "July 19, 2021",
+      "keywords": [
+        "efta00019654",
+        "ghislaine maxwell",
+        "travel request",
+        "sdny",
+        "witness",
+        "trial",
+        "grand jury",
+        "victim/witness",
+        "hotel required",
+        "fact witness"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00028801",
+            "similarity": 0.5,
+            "index": 3,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00027392",
+            "similarity": 0.5,
+            "index": 12,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00029596",
+            "similarity": 0.5,
+            "index": 14,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00023123",
+            "similarity": 0.5,
+            "index": 16,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00027391",
+      "summary": "A travel request was sent on August 2, 2021, to a fact witness to travel to SDNY for trial preparation. The meetings were scheduled for August 17th at 2:00 PM and August 18th at 10:00 AM.",
+      "timestamp": "2021-08-02T00:00:00",
+      "timestamp_raw": "August 2, 2021",
+      "keywords": [
+        "fact witness",
+        "travel request",
+        "sdny",
+        "trial prep",
+        "august 17th",
+        "august 18th",
+        "efta00027391"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023104",
+      "summary": "A witness travel request was submitted for Ghislaine Maxwell’s trial, scheduled for August 16-17, 2021, in the SDNY court. The witness, whose name and identifying information are redacted, requires accommodation at a hotel and is a fact witness, not an expert or victim-witness. The request specifies arrival on August 15th and departure on August 17th. Instructions outline specific procedures for requesting travel for fact witnesses, including limitations on funding and the use of separate forms for government employees and military personnel.",
+      "timestamp": "2021-08-05T00:00:00",
+      "timestamp_raw": "August 5, 2021",
+      "keywords": [
+        "efta00023104",
+        "ghislaine maxwell",
+        "fact witness",
+        "travel request",
+        "sdny",
+        "witness",
+        "trial",
+        "august 16",
+        "2021",
+        "domestic witness",
+        "travel agency"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00027392",
+            "similarity": 0.571,
+            "index": 12,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019452",
+            "similarity": 0.5,
+            "index": 21,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00010176",
+            "similarity": 0.571,
+            "index": 24,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00017864",
+      "summary": "An email chain discusses a request for a witness to travel to SDNY for trial preparation in the Maxwell case. The initial request, dated August 6, 2021, proposes the witness travel the day before the meeting (August 20th) and return the same day. A follow-up email confirms receipt of the request. The document attached is a “Fact Witness Travel Request.docx”.",
+      "timestamp": "2021-08-06T00:00:00",
+      "timestamp_raw": "August 6, 2021",
+      "keywords": [
+        "fact witness",
+        "travel request",
+        "sdny",
+        "trial prep",
+        "maxwell case",
+        "august 20th",
+        "witness travel"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031453",
+      "summary": "An email was sent from EFTA00031453 to Sta. regarding a fact witness travel form for the Maxwell victim and family. The form, titled \"Fact Witness Travel Request,\" is attached. The sender intends to discuss the form with Sta. in person or via chat.",
+      "timestamp": "2021-08-16T00:00:00",
+      "timestamp_raw": "16 Aug 2021",
+      "keywords": [
+        "fact witness",
+        "travel form",
+        "maxwell",
+        "victim",
+        "family",
+        "redaction",
+        "efta00031453",
+        "sta.",
+        "travel request"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031454",
+      "summary": "AUSA requested travel arrangements for two witnesses – [REDACTED] and [REDACTED] – to appear in SDNY for trial preparation related to the Ghislaine Maxwell case (20 Cr. 330). Both witnesses are considered fact witnesses and victims-witnesses. They require hotel accommodations and will be accompanied by their husband and three minor children for emotional support due to the trauma associated with testifying about past abuse.  The request includes details regarding unusual expenses, specifically the travel of the family unit, and instructions for travel authorization, including guidelines for witness travel and potential use of the FEWS appropriation.",
+      "timestamp": "2021-08-16T00:00:00",
+      "timestamp_raw": "August 16, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states v.",
+        "sdny",
+        "witness travel request",
+        "fact witness",
+        "trial",
+        "grand jury",
+        "victim/witness unit",
+        "hotel required",
+        "abuse",
+        "travel expenses"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027392",
+      "summary": "A witness travel request was submitted for Ghislaine Maxwell’s trial. The witness, [REDACTED], is a fact witness appearing in SDNY on August 17, 2021, at 2 PM, and August 18, 2021, at 10 AM for trial preparation. The witness will arrive on August 16, 2021, and depart on August 18, 2021. Hotel accommodations are required. The witness is not an expert, not a military or civilian employee, and is not facing criminal charges. The request outlines specific travel instructions and guidelines for the witness’s travel arrangements, including potential unusual expenses and referencing relevant DOJ instructions.",
+      "timestamp": "2021-08-17T00:00:00",
+      "timestamp_raw": "August 17, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "travel request",
+        "sdny",
+        "witness",
+        "trial",
+        "august 17",
+        "2021",
+        "fact witness",
+        "victim/witness",
+        "united states v.",
+        "travel agency"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00023104",
+            "similarity": 0.571,
+            "index": 8,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019654",
+            "similarity": 0.5,
+            "index": 6,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00019452",
+            "similarity": 0.5,
+            "index": 21,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00010176",
+            "similarity": 0.571,
+            "index": 24,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00015887",
+            "similarity": 0.615,
+            "index": 26,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00027419",
+      "summary": "A travel confirmation was sent on September 10, 2021, including a flight itinerary and hotel confirmation. Delancey Car Service has been booked to provide airport transportation, with confirmation number 758261 and a contact number of 212-228-3301. The recipient is instructed to call upon completion of a meeting to arrange return airport transportation. The email is from a Fact Witness Coordinator with the U.S. Department of Justice.",
+      "timestamp": "2021-09-10T00:00:00",
+      "timestamp_raw": "September 10, 2021",
+      "keywords": [
+        "travel confirmation",
+        "flight itinerary",
+        "hotel confirmation",
+        "delancey car service",
+        "u.s. department of justice",
+        "fsa contractor",
+        "sdny",
+        "new york",
+        "redaction",
+        "confirmation # 758261"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029596",
+      "summary": "A request is submitted for travel expenses for a witness, [REDACTED], in the United States v. Ghislaine Maxwell trial (20 Cr. 330 (AN)). The witness is scheduled to appear in SDNY on September 17, 2021, at 10:00 AM for trial preparation. The witness's travel details, including arrival and departure dates, and contact information, are provided. The request specifies the witness is not an expert and does not reside outside the continental U.S.  Instructions are given for using this form for fact witnesses and for handling travel for foreign witnesses.  The request also includes guidelines for unusual travel expenses and specifies the appropriate funding source for witness travel.",
+      "timestamp": "2021-09-17T00:00:00",
+      "timestamp_raw": "September 17, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "travel request",
+        "witness",
+        "sdny",
+        "trial",
+        "grand jury",
+        "august 31",
+        "2021",
+        "september 17",
+        "2021",
+        "fact witness",
+        "victim-witness"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00019654",
+            "similarity": 0.5,
+            "index": 6,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00023123",
+            "similarity": 0.692,
+            "index": 16,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019452",
+            "similarity": 0.5,
+            "index": 21,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00010176",
+            "similarity": 0.571,
+            "index": 24,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00017865",
+      "summary": "A witness travel request was submitted for Ghislaine Maxwell’s trial. The witness, whose name and DOB are redacted, is scheduled to appear in SDNY on September 30, 2021, at 10:00 AM for trial preparation. The witness is a fact witness, not an expert, and does not reside outside the continental United States. Hotel accommodations are required. The request includes instructions for AUSA regarding witness travel, particularly concerning funding and appropriate forms for different witness types.",
+      "timestamp": "2021-09-30T00:00:00",
+      "timestamp_raw": "September 30, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "witness travel request",
+        "sdny",
+        "trial",
+        "grand jury",
+        "travel agency",
+        "tsa",
+        "september 30",
+        "2021",
+        "fact witness",
+        "hotel required"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023123",
+      "summary": "A witness travel request was submitted for [REDACTED] to appear in SDNY for the trial of United States v. Ghislaine Maxwell (20 Cr. 330 (AN)). The witness is a fact witness, not an expert, and does not reside outside the continental United States. The appearance is scheduled for November 14-15, 2021, with an estimated arrival of November 13 or 14, and a departure on November 15. A hotel is required. The request outlines specific guidelines for travel reimbursement, including limitations for government employees and military personnel, and stipulations regarding funding sources for witness travel.",
+      "timestamp": "2021-10-28T00:00:00",
+      "timestamp_raw": "October 28, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "travel request",
+        "sdny",
+        "witness",
+        "trial",
+        "grand jury",
+        "november 14",
+        "2021",
+        "fact witness",
+        "victim-witness",
+        "travel expenses"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00029596",
+            "similarity": 0.692,
+            "index": 14,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019654",
+            "similarity": 0.5,
+            "index": 6,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00019452",
+            "similarity": 0.5,
+            "index": 21,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00010176",
+            "similarity": 0.571,
+            "index": 24,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00010022",
+            "similarity": 0.692,
+            "index": 25,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00010174",
+      "summary": "A travel request is submitted for a witness, [REDACTED], in the United States v. Ghislaine Maxwell case (20 Cr. 330). The witness is a fact witness required to appear for a trial, grand jury, and trial preparation dates within the SDNY court. The request includes details about the witness’s contact information, travel dates, and potential unusual expenses like care for a dependent or extra baggage. Instructions are provided for AUSA regarding witness travel requests, including limitations on funding and the use of specific forms based on witness type and location.",
+      "timestamp": "2021-11-11T00:00:00",
+      "timestamp_raw": "November 11, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "travel request",
+        "witness",
+        "sdny",
+        "court docket",
+        "travel agency",
+        "tsa",
+        "victim-witness",
+        "fact witness",
+        "criminal charges"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00016832",
+            "similarity": 0.538,
+            "index": 5,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00019446",
+            "similarity": 0.667,
+            "index": 20,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00010176",
+            "similarity": 0.5,
+            "index": 24,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00015887",
+            "similarity": 0.667,
+            "index": 26,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00010150",
+      "summary": "A witness request was submitted for [REDACTED] to appear in SDNY for the trial of United States v. Ghislaine Maxwell (20 Cr. 330 (AN)). The witness is scheduled to appear on December 8-10, 2021, for trial preparation. The witness is a fact witness, not an expert or victim-witness, and does not reside outside the continental United States. Hotel accommodations are required. The request outlines specific instructions for AUSA regarding witness travel, including limitations on funding and procedures for foreign witnesses.",
+      "timestamp": "2021-11-14T00:00:00",
+      "timestamp_raw": "November 14, 2021",
+      "keywords": [
+        "efta00010150",
+        "ghislaine maxwell",
+        "fact witness",
+        "travel request",
+        "sdny",
+        "trial",
+        "grand jury",
+        "december 8",
+        "2021",
+        "victim/witness",
+        "hotel required"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00019654",
+            "similarity": 0.615,
+            "index": 6,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00010214",
+            "similarity": 0.571,
+            "index": 29,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00024901",
+      "summary": "A travel request for a fact witness related to a trial was sent from [REDACTED] to [REDACTED] on November 19, 2021. The request, submitted as a Word document, included details for travel and IME (Independent Medical Examination).",
+      "timestamp": "2021-11-19T00:00:00",
+      "timestamp_raw": "November 19, 2021",
+      "keywords": [
+        "fact witness",
+        "travel request",
+        "trial",
+        "redaction",
+        "usanys",
+        "ime"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019446",
+      "summary": "A witness travel request is submitted for Ghislaine Maxwell’s trial, dated November 19, 2021. The witness, whose name and details are redacted, is a victim-witness requiring hotel accommodations. The request outlines travel dates, arrival/departure estimates, and confirms the witness is not an expert witness, a federal employee, or facing criminal charges. The request includes guidelines for unusual expenses and instructions for the AUSA regarding witness travel procedures, including specific considerations for foreign witnesses and funding limitations.",
+      "timestamp": "2021-11-19T00:00:00",
+      "timestamp_raw": "November 19, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "fact witness",
+        "travel request",
+        "sdny",
+        "victim/witness unit",
+        "court docket",
+        "domestic witness",
+        "travel agency",
+        "tsa",
+        "criminal charges"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00010174",
+            "similarity": 0.667,
+            "index": 17,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00016832",
+            "similarity": 0.667,
+            "index": 5,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00015887",
+            "similarity": 0.538,
+            "index": 26,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00019452",
+      "summary": "A witness request was submitted for [REDACTED] to appear in SDNY for the trial of United States v. Ghislaine Maxwell (Court Docket No: 20 Cr. 330, USA No: 2018R01618) on November 27, 2021, at 5 PM. The witness is a fact witness, not an expert witness, and does not reside outside the continental United States. Hotel accommodations are required. The witness’s travel details, including date of birth, address, phone numbers, and email, are specified but redacted. Instructions outline the use of this form for domestic fact witnesses and specify rules for witness travel reimbursement, particularly regarding expenses beyond standard travel and for witnesses brought in for grand jury testimony.",
+      "timestamp": "2021-11-27T00:00:00",
+      "timestamp_raw": "November 27, 2021",
+      "keywords": [
+        "efta00019452",
+        "ghislaine maxwell",
+        "fact witness",
+        "travel request",
+        "sdny",
+        "trial",
+        "grand jury",
+        "witness",
+        "united states v.",
+        "domestic witness"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00023123",
+            "similarity": 0.5,
+            "index": 16,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00029596",
+            "similarity": 0.5,
+            "index": 14,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00027392",
+            "similarity": 0.5,
+            "index": 12,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00010176",
+            "similarity": 0.5,
+            "index": 24,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00010022",
+            "similarity": 0.5,
+            "index": 25,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00027651",
+            "similarity": 0.5,
+            "index": 27,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00027646",
+      "summary": "A request for travel arrangements is being submitted for a fact witness, [REDACTED], in the case of United States v. Ghislaine Maxwell. The witness is scheduled to appear in SDNY on November 28, 2021, for trial preparation at 11 AM, and November 29, 2021, for the trial itself. The witness’s arrival is expected November 27, 2021, and departure November 30, 2021. Hotel accommodations are required. The witness is not an expert witness, a government employee, or facing criminal charges, and does not reside outside the continental United States. The request utilizes standard DOJ procedures for fact witness travel.",
+      "timestamp": "2021-11-28T00:00:00",
+      "timestamp_raw": "November 28, 2021",
+      "keywords": [
+        "maxwell",
+        "travel request",
+        "witness",
+        "sdny",
+        "court docket",
+        "trial",
+        "grand jury",
+        "fact witness",
+        "ausa",
+        "victim/witness"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00019654",
+            "similarity": 0.538,
+            "index": 6,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028801",
+            "similarity": 0.5,
+            "index": 3,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00010176",
+            "similarity": 0.5,
+            "index": 24,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00015887",
+            "similarity": 0.538,
+            "index": 26,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00023122",
+      "summary": "An email was sent from an Assistant United States Attorney at the United States Attorney’s Office in New York to request travel arrangements for a trial witness. The email discusses logistics for a meeting on November 14th and offers to provide further information. An attached document, “Fact Witness_Travel_Requesadocx,” is referenced.",
+      "timestamp": "2021-11-28T00:00:00",
+      "timestamp_raw": "28 Oct 2021",
+      "keywords": [
+        "travel",
+        "witness",
+        "logistics",
+        "united states attorney",
+        "new york",
+        "meeting",
+        "travel request",
+        "redaction",
+        "trial",
+        "assistant"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010176",
+      "summary": "A travel request was submitted for a witness, [REDACTED], to appear in the SDNY court for the trial of Ghislaine Maxwell on December 1, 2021, at 2 p.m. The witness is a fact witness, not an expert, and does not reside outside the continental United States. Hotel accommodations are required. The request specifies a December 1 arrival and December 3 departure. Instructions are provided for AUSA regarding witness travel requests, including stipulations for U.S. government employees and military personnel, and for covering travel expenses beyond standard arrangements.",
+      "timestamp": "2021-12-01T00:00:00",
+      "timestamp_raw": "December 1, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "travel request",
+        "witness",
+        "sdny",
+        "court docket",
+        "trial",
+        "grand jury",
+        "december 1",
+        "2021",
+        "fact witness",
+        "travel agency"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00027646",
+            "similarity": 0.5,
+            "index": 22,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019452",
+            "similarity": 0.5,
+            "index": 21,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00010174",
+            "similarity": 0.5,
+            "index": 17,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00010022",
+            "similarity": 0.692,
+            "index": 25,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00015887",
+            "similarity": 0.615,
+            "index": 26,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00027651",
+            "similarity": 0.571,
+            "index": 27,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00010022",
+      "summary": "A witness request was submitted for Ghislaine Maxwell’s trial on December 1, 2021, at 2:00 PM in SDNY. The witness, whose name and DOB are redacted, is a victim-witness and requires hotel accommodations. The request outlines travel dates, including arrival on December 1, 2021, and departure on December 3, 2021. It specifies that the witness is not an expert witness, a current federal civilian or military employee, or facing criminal charges. Instructions detail the form’s use for domestic fact witnesses and highlight specific travel guidelines, including the need for exact ID matching and potential unusual expenses.",
+      "timestamp": "2021-12-01T00:00:00",
+      "timestamp_raw": "December 1, 2021",
+      "keywords": [
+        "efta00010022",
+        "ghislaine maxwell",
+        "travel request",
+        "witness",
+        "sdny",
+        "trial",
+        "grand jury",
+        "december 1",
+        "2021",
+        "fact witness",
+        "victim-witness"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00010176",
+            "similarity": 0.692,
+            "index": 24,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019452",
+            "similarity": 0.5,
+            "index": 21,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00023123",
+            "similarity": 0.692,
+            "index": 16,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015887",
+      "summary": "A witness travel request was submitted for [REDACTED] to appear in SDNY for the trial of Ghislaine Maxwell (Court Docket No. 20 Cr. 330 (AJN), USA No. 2018R01618) on December 1, 2021, at 4 PM. The witness is a fact witness, not an expert or victim-witness, and does not reside outside the continental United States. Hotel accommodations are required. The witness is scheduled to arrive December 1st (morning) and depart December 3rd (evening). The request follows standard DOJ procedures for fact witness travel and specifies that the witness's travel details must match their identification for TSA approval.",
+      "timestamp": "2021-12-01T00:00:00",
+      "timestamp_raw": "December 1, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "travel request",
+        "sdny",
+        "witness",
+        "trial",
+        "court docket",
+        "fact witness",
+        "victim/witness",
+        "travel agency",
+        "tsa"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00010176",
+            "similarity": 0.615,
+            "index": 24,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00027646",
+            "similarity": 0.538,
+            "index": 22,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019446",
+            "similarity": 0.538,
+            "index": 20,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00027651",
+            "similarity": 0.615,
+            "index": 27,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00027651",
+      "summary": "A request for travel is being submitted for a fact witness, [REDACTED], in the case of United States v. Ghislaine Maxwell. The witness is needed to appear in SDNY on December 2, 2021, at 12:30 PM for trial, extending through December 3, 2021. The witness’s arrival is expected on December 1, 2021, and departure is scheduled for December 3, 2021. Hotel accommodations are required. The witness is not an expert witness, a government employee, or facing criminal charges. The request follows standard procedures for fact witness travel within the U.S., with specific instructions for foreign witnesses and potential unusual expenses.",
+      "timestamp": "2021-12-02T00:00:00",
+      "timestamp_raw": "December 2, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "travel request",
+        "sdny",
+        "witness",
+        "trial",
+        "december 2",
+        "2021",
+        "fact witness",
+        "victim/witness",
+        "united states v.",
+        "travel agency"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00015887",
+            "similarity": 0.615,
+            "index": 26,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00010176",
+            "similarity": 0.571,
+            "index": 24,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019452",
+            "similarity": 0.5,
+            "index": 21,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010221",
+      "summary": "A witness request was submitted for Ghislaine Maxwell’s trial on December 5, 2021, at the SDNY court. The witness, whose name and DOB are redacted, requires a hotel stay and is expected to arrive on December 5, 2021, and depart on December 8, 2021. The witness is a fact witness, not an expert witness, and does not have any unusual travel expenses. The request is for a domestic witness travel and follows standard DOJ procedures for witness travel requests.",
+      "timestamp": "2021-12-05T00:00:00",
+      "timestamp_raw": "December 5, 2021",
+      "keywords": [
+        "efta00010221",
+        "ghislaine maxwell",
+        "travel request",
+        "witness",
+        "sdny",
+        "trial",
+        "grand jury",
+        "victim/witness",
+        "domestic witness",
+        "december 5",
+        "2021"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00019452",
+            "similarity": 0.5,
+            "index": 21,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019654",
+            "similarity": 0.5,
+            "index": 6,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00010214",
+            "similarity": 0.571,
+            "index": 29,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00010214",
+      "summary": "A witness travel request was submitted for [REDACTED] to appear in SDNY court for the trial of Ghislaine Maxwell (20 Cr. 330). The witness is scheduled to appear on December 7, 2021, at 9 AM for trial preparation, and December 7-9, 2021, for the trial itself. The witness's estimated arrival is December 6, 2021, and departure is December 9, 2021. The witness is a fact witness, not an expert witness, and does not reside outside the continental United States. Hotel accommodations are required. The request specifies unusual expenses including a necessary travel companion. Instructions are provided for AUSA regarding witness travel requests, including guidelines for U.S. fact witnesses and procedures for foreign witnesses.",
+      "timestamp": "2021-12-07T00:00:00",
+      "timestamp_raw": "December 7, 2021",
+      "keywords": [
+        "efta00010214",
+        "ghislaine maxwell",
+        "travel request",
+        "sdny",
+        "witness",
+        "trial",
+        "grand jury",
+        "december 7",
+        "2021",
+        "victim/witness",
+        "hotel required"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00010221",
+            "similarity": 0.571,
+            "index": 28,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00010150",
+            "similarity": 0.571,
+            "index": 18,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019654",
+            "similarity": 0.615,
+            "index": 6,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027650",
+      "summary": "A travel request was sent from [REDACTED] to 'USANYS' and MIEli regarding travel for a fact witness in the Maxwell trial. The witness was requested to arrive on December 1st and depart on December 3rd, with potential testimony extending to December 3rd.",
+      "timestamp": "2021-12-09T00:00:00",
+      "timestamp_raw": "09 Nov 2021",
+      "keywords": [
+        "maxwell trial",
+        "fact witness",
+        "travel request",
+        "12/2",
+        "12/3",
+        "redacted",
+        "usanys",
+        "travel"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027645",
+      "summary": "A request was sent from [REDACTED] to [REDACTED] regarding travel arrangements for a fact witness in the Maxwell trial. The witness will fly from California to New York on November 27th to meet with the sender on November 28th. Testimony is expected on November 29th, with a potential extended stay until November 30th depending on jury selection. The witness’s flight out of New York is scheduled for the evening of November 30th.",
+      "timestamp": "2021-12-09T00:00:00",
+      "timestamp_raw": "09 Nov 2021",
+      "keywords": [
+        "maxwell trial",
+        "fact witness",
+        "travel request",
+        "ny",
+        "california",
+        "11/27",
+        "11/28",
+        "11/29",
+        "11/30",
+        "jury selection"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010021",
+      "summary": "A request was sent to coordinate travel for a fact witness in the Maxwell trial. The witness was anticipated to testify between December 1st and 3rd, with potential adjustments to the travel schedule depending on the witness’s availability on December 1st or 2nd. The request was submitted by an Assistant United States Attorney in the Southern District of New York.",
+      "timestamp": "2021-12-11T00:00:00",
+      "timestamp_raw": "11 Nov 2021",
+      "keywords": [
+        "maxwell",
+        "fact witness",
+        "travel",
+        "request",
+        "trial",
+        "2021",
+        "12/1",
+        "12/3",
+        "united states attorney",
+        "new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010213",
+      "summary": "A request was sent to arrange travel for a fact witness in the Maxwell trial. The witness is expected to testify on December 8th, potentially extending to December 9th. Travel arrangements are proposed: arrival evening of December 6th, departure evening of December 9th, including a COVID test prior to testimony. Strict instructions were given to avoid contact with the witness’s ex-partner and their family, requiring the witness to stay at a remote hotel.",
+      "timestamp": "2021-12-12T00:00:00",
+      "timestamp_raw": "12 Nov 2021",
+      "keywords": [
+        "maxwell trial",
+        "fact witness",
+        "travel request",
+        "covid test",
+        "ny",
+        "hotel",
+        "redacted",
+        "2021",
+        "12/6",
+        "12/8"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010149",
+      "summary": "A request was sent to Wendy for travel arrangements for a fact witness in the Maxwell trial. The witness was expected to testify on December 9th or 10th, with a desired arrival on December 8th and departure on December 10th. The request included a note that travel plans may need to be adjusted.",
+      "timestamp": "2021-12-14T00:00:00",
+      "timestamp_raw": "14 Nov 2021",
+      "keywords": [
+        "maxwell trial",
+        "fact witness",
+        "travel request",
+        "united states attorney's office",
+        "new york",
+        "2021",
+        "2025",
+        "travel",
+        "witness",
+        "wendy"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019445",
+      "summary": "An Assistant United States Attorney is requesting travel arrangements for a fact witness in the Maxwell trial. The witness is to fly in and out on the evening of a specific date, and the request suggests booking her at the same hotel as previously booked travel. The witness’s travel dates are subject to potential changes pending the trial’s progress.",
+      "timestamp": "2021-12-19T00:00:00",
+      "timestamp_raw": "19 Nov 2021",
+      "keywords": [
+        "maxwell trial",
+        "fact witness",
+        "travel request",
+        "hotel",
+        "united states attorney",
+        "new york",
+        "travel dates",
+        "trial",
+        "witness",
+        "booking"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    }
+  ]
+}

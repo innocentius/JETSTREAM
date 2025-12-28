@@ -1,0 +1,3776 @@
+{
+  "keyword": "u.s. v. epstein",
+  "count": 33,
+  "keyword_match_count": 33,
+  "content_match_count": 75,
+  "total_files": 108,
+  "timeline": [
+    {
+      "file_id": "EFTA00019518",
+      "summary": "An email chain discusses obtaining RSA tokens for access to Relativity, a web-based mass-document management system. A form needs to be completed and sent to a recipient for RSA token issuance. A Relativity database is being set up for the U.S. v. Epstein case, specifically requesting the upload of PDF files from the “USvEpstein-awestigation FBI materials” folder (reports, FOIA documents) while excluding files from a subfolder. There's an expectation of receiving a large volume of case files and a need for agent access to avoid delays. A privilege review isn't anticipated for the initial materials.",
+      "timestamp": "2019-01-11T00:00:00",
+      "timestamp_raw": "11 Jan 2019",
+      "keywords": [
+        "relativity",
+        "rsa token",
+        "fbi",
+        "u.s. v. epstein",
+        "ausas",
+        "database",
+        "documents",
+        "access",
+        "case files",
+        "privilege review"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028989",
+      "summary": "On July 8, 2019, an Associate U.S. Attorney from the Southern District of New York sent an indictment and detention memorandum related to Jeffrey Epstein’s case (U.S. v. Epstein) to [REDACTED]. The documents were attached to an email chain initiated by [REDACTED].",
+      "timestamp": "2019-07-08T00:00:00",
+      "timestamp_raw": "July 8, 2019",
+      "keywords": [
+        "epstein",
+        "redaction",
+        "indictment",
+        "detention memo",
+        "u.s. attorney",
+        "southern district of new york",
+        "efta00028989"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032972",
+      "summary": "Marc Fernich sent a government memorandum regarding the detention of Jeffrey Epstein to Martin Weinberg and copied Judge Pitman’s chambers and Judge Berman’s chambers. The memorandum was attached to an email sent in advance of an expected bail argument in U.S. v. Epstein, 19 Cr. 490 (RMB), presented by Judge Berman.",
+      "timestamp": "2019-07-08T00:00:00",
+      "timestamp_raw": "08 Jul 2019",
+      "keywords": [
+        "epstein",
+        "bail memorandum",
+        "u.s. v.",
+        "government",
+        "marc fernich",
+        "judge pitman",
+        "judge berman",
+        "redaction analysis",
+        "efta00032972",
+        "southern district of new york"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030168",
+      "summary": "Reid Weingarten sent contact information for the U.S. Attorney’s team involved in the case *U.S. v. Epstein* to be used as a point of contact for Mr. Epstein. The information included multiple office and cell phone numbers belonging to Assistant U.S. Attorneys from the Southern District of New York.",
+      "timestamp": "2019-07-08T00:00:00",
+      "timestamp_raw": "08 Jul 2019",
+      "keywords": [
+        "epstein",
+        "u.s. v.",
+        "weingarten",
+        "reid",
+        "assistant u.s. attorney",
+        "southern district of new york",
+        "contact information",
+        "marty",
+        "efta00030168"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030179",
+      "summary": "Emails dated July 8, 2019, discuss the U.S. v. Epstein case (19 Cr. 490). An arrest team has been notified. Pretrial services requested a memorandum outlining the government’s rationale for denying conditions of release for the defendant, which was attached. An Assistant U.S. Attorney responded to the request for the memorandum. The document was subsequently redacted by NYSPT/02/USCOURTS.",
+      "timestamp": "2019-07-08T00:00:00",
+      "timestamp_raw": "July 8, 2019",
+      "keywords": [
+        "epstein",
+        "u.s. v.",
+        "pretrial",
+        "bail",
+        "memorandum",
+        "redaction",
+        "contact info",
+        "southern district of new york",
+        "government",
+        "case agents"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030238",
+      "summary": "Marc Fernich is attempting to retrieve items taken from Jeffrey Epstein’s person upon arrest, specifically Epstein’s phone, cash, and other belongings. He is coordinating with a Special Agent, who advises him to contact the case agent directly. A government memorandum regarding detention in the case U.S. v. Epstein was sent to the Chambers of Judge Pitman, with defense and Berman chambers copied. Marc Fernich is seeking confirmation of the number to contact the case agent and is awaiting coordination regarding the retrieval of the items.",
+      "timestamp": "2019-07-09T00:00:00",
+      "timestamp_raw": "09 Jul 2019",
+      "keywords": [
+        "epstein",
+        "bail memorandum",
+        "u.s. v. epstein",
+        "marc fernich",
+        "government",
+        "special agent",
+        "judge pitman",
+        "detention",
+        "case agent"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026681",
+      "summary": "Roberta Kaplan, representing a client, contacted multiple individuals, including Jenna Dabbs and Alexandra Elenowitz-Hess, regarding the Crime Victims' Rights Act (18 U.S.C. 3771(a)(4)) in the case of *U.S. v. Epstein*. Kaplan offered to have her client heard at a bail hearing and proposed various methods of communication, such as a submission or inclusion in a bail submission. She suggested a brief call to discuss the matter, noting her team’s travel schedule. An Assistant U.S. Attorney from the Southern District of New York sent a follow-up email emphasizing the confidential nature of the communication.",
+      "timestamp": "2019-07-10T00:00:00",
+      "timestamp_raw": "July 10, 2019",
+      "keywords": [
+        "epstein",
+        "victims' rights",
+        "bail hearing",
+        "crime victims' rights act",
+        "18 u.s.c. 3771",
+        "roberta kaplan",
+        "conlon",
+        "submissions",
+        "legal privilege"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00026677",
+            "similarity": 0.5,
+            "index": 11,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00014324",
+            "similarity": 0.5,
+            "index": 18,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00030276",
+      "summary": "An Assistant U.S. Attorney from the Southern District of New York contacted Roberta Kaplan and a team at Kaplan Hecker & Fink LLP regarding the bail hearing in *U.S. v. Epstein*. The Attorney informed the recipients that, under 18 U.S.C. 3771(a)(4) of the Crime Victims' Rights Act, the victim has the right to be reasonably heard at certain public proceedings, including those involving release. They offered to discuss this with the team and potentially include a submission or representation regarding the victim’s desired input in the bail hearing. The email also contained a standard confidentiality notice.",
+      "timestamp": "2019-07-11T00:00:00",
+      "timestamp_raw": "11 Jul 2019",
+      "keywords": [
+        "efta00030276",
+        "victims' rights",
+        "bail hearing",
+        "crime victims' rights act",
+        "18 u.s.c. 3771",
+        "roberta kaplan",
+        "u.s. v. epstein",
+        "southern district of new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00028353",
+            "similarity": 0.5,
+            "index": 8,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028421",
+            "similarity": 0.5,
+            "index": 12,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00028353",
+      "summary": "An Assistant U.S. Attorney in the Southern District of New York contacted Isidro Garcia regarding the bail hearing in *U.S. v. Epstein*. The Attorney informed Garcia that, under the Crime Victims' Rights Act (18 U.S.C. 3771(a)(4)), the victim has the right to be reasonably heard at relevant proceedings, including bail hearings. They offered to include a victim’s input in the bail submission and expressed an intention to vigorously oppose bail.",
+      "timestamp": "2019-07-11T00:00:00",
+      "timestamp_raw": "11 Jul 2019",
+      "keywords": [
+        "victims' rights",
+        "crime victims' rights act",
+        "bail hearing",
+        "epstein",
+        "u.s. v. epstein",
+        "18 u.s.c. 3771",
+        "southern district of new york",
+        "submission",
+        "representation",
+        "prosecution"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00030276",
+            "similarity": 0.5,
+            "index": 7,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030292",
+      "summary": "Travel authorization 10415581 was approved for a trip to West Palm Beach, FL, from 2019-07-11 to 2019-07-14, related to “U.S. v. Epstein (2018R0618) - Victim Interviews.” The authorization is currently pending further approval. Links to E2 Single Sign On and Manual Login are provided for the DOJ Network. The email includes reference ID# T0007 and a disclaimer regarding confidential information.",
+      "timestamp": "2019-07-11T00:00:00",
+      "timestamp_raw": "2019-07-11",
+      "keywords": [
+        "travel authorization",
+        "efta00030292",
+        "u.s. v. epstein",
+        "west palm beach",
+        "doj",
+        "e2 solutions",
+        "email",
+        "approval",
+        "travel",
+        "2019-07-11"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00024435",
+            "similarity": 0.538,
+            "index": 39,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00030423",
+            "similarity": 0.5,
+            "index": 80,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00021523",
+      "summary": "Email notification regarding final approval of voucher 10416822-1(1) for a trip to West Palm Beach, FL, from 2019-07-11 to 2019-07-12. The purpose of the trip was victim interviews related to the U.S. v. Epstein case (2018R01618). The voucher total expenses were $779.97, with an estimated trip cost of $1050.66. The voucher status is awaiting payment. Relevant login links and contact information for support are provided.",
+      "timestamp": "2019-07-11T00:00:00",
+      "timestamp_raw": "2019-07-11",
+      "keywords": [
+        "efta00021523",
+        "voucher",
+        "travel",
+        "final voucher",
+        "10416822-1",
+        "epstein",
+        "west palm beach",
+        "fl",
+        "doj",
+        "e2 solutions"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00028799",
+            "similarity": 0.538,
+            "index": 69,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00026677",
+      "summary": "An Assistant U.S. Attorney in the Southern District of New York sent an email regarding the U.S. v. Epstein case (19 Cr. 490). The email discussed the Crime Victims’ Rights Act (18 U.S.C. 3771(a)(4)) and the victim’s right to be reasonably heard at bail hearings. The Attorney offered to discuss with the recipients whether the client wished to submit a statement or representation for inclusion in the bail submission, emphasizing it was voluntary. The Attorney proposed a brief call to discuss this further, noting their limited availability due to team travel.",
+      "timestamp": "2019-07-11T00:00:00",
+      "timestamp_raw": "11 Jul 2019",
+      "keywords": [
+        "epstein",
+        "victims' rights",
+        "crime victims' rights act",
+        "bail hearing",
+        "roberta kaplan",
+        "u.s. attorney",
+        "18 u.s.c. 3771",
+        "submission",
+        "criminal proceedings"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00026681",
+            "similarity": 0.5,
+            "index": 6,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00026683",
+            "similarity": 0.545,
+            "index": 14,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028354",
+            "similarity": 0.583,
+            "index": 15,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00014324",
+            "similarity": 0.636,
+            "index": 18,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00028421",
+      "summary": "An Assistant U.S. Attorney from the Southern District of New York contacted Roberta Kaplan, Jenna Dabbs, and Alexandra Elenowitz-Hess regarding the bail hearing in *U.S. v. Epstein*. The Attorney explained that under 18 U.S.C. 3771(a)(4) of the Crime Victims’ Rights Act, victims have the right to be reasonably heard at certain public proceedings, including those involving release decisions. The Attorney offered to discuss whether the clients wished to submit information or representations for inclusion in the bail submission, noting their intention to vigorously oppose bail. A brief call was proposed for the following day to discuss this matter.",
+      "timestamp": "2019-07-11T00:00:00",
+      "timestamp_raw": "11 Jul 2019",
+      "keywords": [
+        "victims' rights",
+        "crime victims' rights act",
+        "bail hearing",
+        "18 u.s.c. 3771",
+        "u.s. attorney",
+        "release",
+        "southern district of new york",
+        "roberta kaplan",
+        "jenna dabbs",
+        "alexandra elenowitz-hess"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00030276",
+            "similarity": 0.5,
+            "index": 7,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00026683",
+            "similarity": 0.636,
+            "index": 14,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00014324",
+            "similarity": 0.727,
+            "index": 18,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00028417",
+      "summary": "An Assistant U.S. Attorney from the Southern District of New York sent a courtesy copy of the Government’s response to a defendant’s motion regarding a sealing request in the case *U.S. v. Epstein* (19 Cr. 490 (RMB)). Defense counsel was copied on the communication.",
+      "timestamp": "2019-07-11T00:00:00",
+      "timestamp_raw": "11 Jul 2019",
+      "keywords": [
+        "epstein",
+        "u.s. v.",
+        "government bail",
+        "sealing request",
+        "judge berman",
+        "motion",
+        "defense counsel",
+        "southern district of new york"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026683",
+      "summary": "An email chain discusses the Crime Victims’ Rights Act (18 U.S.C. 3771(a)(4)) in the case of *U.S. v. Epstein*. An Assistant U.S. Attorney is contacting individuals, including Roberta Kaplan, to explore whether the victims involved in the case would like to be heard at a bail hearing and to discuss including their input in the bail submission. The email emphasizes the victims’ right to be reasonably heard and offers to discuss the matter further. A standard confidentiality disclaimer is included.",
+      "timestamp": "2019-07-11T00:00:00",
+      "timestamp_raw": "11 Jul 2019",
+      "keywords": [
+        "epstein",
+        "victims' rights",
+        "crime victims' rights act",
+        "bail hearing",
+        "u.s. attorney",
+        "roberta kaplan",
+        "jenna dabbs",
+        "alexandra elenowitz-hess"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00028421",
+            "similarity": 0.636,
+            "index": 12,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00026677",
+            "similarity": 0.545,
+            "index": 11,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00028354",
+            "similarity": 0.5,
+            "index": 15,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00014324",
+            "similarity": 0.889,
+            "index": 18,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00028354",
+      "summary": "An Assistant U.S. Attorney from the Southern District of New York contacted Roberta Kaplan, Jenna Dabbs, and Alexandra Elenowitz-Hess regarding the bail hearing in *U.S. v. Epstein*. The Attorney cited 18 U.S.C. 3771(a)(4) of the Crime Victims’ Rights Act, noting the victims’ right to be reasonably heard at public proceedings, particularly those involving release. They offered to include any victim input – through submission, representation in the bail submission, or discussion – and suggested a brief call to discuss this option. The Attorney indicated they would be available for a call the following day.",
+      "timestamp": "2019-07-11T00:00:00",
+      "timestamp_raw": "11 Jul 2019",
+      "keywords": [
+        "epstein",
+        "victims' rights",
+        "crime victims' rights act",
+        "bail hearing",
+        "roberta kaplan",
+        "u.s. attorney",
+        "southern district of new york",
+        "18 u.s.c. 3771(a)(4)",
+        "submission",
+        "proceedings"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00026683",
+            "similarity": 0.5,
+            "index": 14,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00026677",
+            "similarity": 0.583,
+            "index": 11,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014529",
+      "summary": "Email communication regarding final voucher 10416822-1(1), approved for a trip to West Palm Beach, FL, from 2019-07-11 to 2019-07-12 for the purpose of victim interviews in the U.S. v. Epstein case. The voucher total expenses were $779.97, with an estimated trip cost of $1050.66. The email provides links to E2 Single Sign On and E2 Manual Login for expense tracking. It also includes standard disclaimers regarding confidential information and email notification management.",
+      "timestamp": "2019-07-11T00:00:00",
+      "timestamp_raw": "2019-07-11",
+      "keywords": [
+        "efta00014529",
+        "voucher",
+        "travel",
+        "approval",
+        "destination",
+        "epstein",
+        "u.s. v.",
+        "west palm beach",
+        "florida",
+        "2019-07-11"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00011036",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] regarding a late travel voucher (Voucher for Trip 10416822) for Trip ID: 1041611. The trip details include Destination: West Palm Beach, Purpose: R19NYS 13654 - U.S. v. Epstein (2018R01618) - Victim Interviews, Travel Dates: 2019-07-11 - 2019-07-12, and Current Status: Authorization Approved. The recipient is instructed to submit the voucher and mark it as Final if no additional expenses are due.  The email provides links to E2 Single Sign On and E2 Manual Login for expense reporting. A reference ID# V0013 is included, along with standard confidentiality warnings.",
+      "timestamp": "2019-07-11T00:00:00",
+      "timestamp_raw": "2019-07-11",
+      "keywords": [
+        "voucher",
+        "trip",
+        "travel",
+        "west palm beach",
+        "doj",
+        "e2",
+        "epstein",
+        "victim interviews",
+        "authorization",
+        "e2 solutions"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00029486",
+            "similarity": 0.538,
+            "index": 57,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00010816",
+            "similarity": 0.538,
+            "index": 61,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00014324",
+      "summary": "The document is a series of emails regarding the bail hearing for Ghislaine Maxwell’s case (U.S. v. Epstein). It involves communication between Roberta Kaplan (representing the victim), Jenna Dabbs, Alexandra Elenowitz-Hess, and an Assistant U.S. Attorney regarding the victim's rights under the Crime Victims' Rights Act. The Assistant U.S. Attorney offers to discuss options for the victim to be heard at the bail hearing, including submitting information or a representation, but emphasizes that it’s not a requirement. The emails suggest a desire to accommodate the victim’s rights while also maintaining flexibility regarding timing and participation.",
+      "timestamp": "2019-07-12T00:00:00",
+      "timestamp_raw": "12 Jul 2019",
+      "keywords": [
+        "epstein",
+        "victims' rights",
+        "bail hearing",
+        "roberta kaplan",
+        "crime victims' rights act",
+        "u.s. attorney",
+        "18 u.s.c. 3771",
+        "jenna dabbs",
+        "alexandra elenowitz-hess"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00026683",
+            "similarity": 0.889,
+            "index": 14,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00028421",
+            "similarity": 0.727,
+            "index": 12,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00026677",
+            "similarity": 0.636,
+            "index": 11,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020766",
+      "summary": "Martin Weinberg, attorney for the defense in the case *U.S. v. Epstein*, requested a copy of records obtained from Institution 1, specifically financial records, to be produced as part of Rule 16 discovery and not as a public filing. A government attorney responded with a copy of the government’s detention memo and exhibits filed that afternoon in support of the government's position regarding Epstein’s bail. The request focused on a one-month period surrounding the time of two wire transfers.",
+      "timestamp": "2019-07-13T00:00:00",
+      "timestamp_raw": "13 Jul 2019",
+      "keywords": [
+        "weinberg",
+        "epstein",
+        "u.s. v.",
+        "discovery",
+        "records",
+        "bail",
+        "wire transfers",
+        "rule 16",
+        "financial information",
+        "martin weinberg"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014326",
+      "summary": "v. Epstein case (19 Cr. 490). *   Reid Weingarten, a defense attorney, is coordinating with government counsel ([REDACTED]) and Judge Berman’s chambers. *   Discussions revolve around the government's bail memorandum and the defendant’s motion for bail. *   Attendees express availability for meetings on Monday morning, with a proposed agenda. *   The government provided an attached document (Government’s reply in support of its detention memo and in opposition to the defendant’s motion for bail) filed this afternoon.",
+      "timestamp": "2019-07-13T00:00:00",
+      "timestamp_raw": "13 Jul 2019",
+      "keywords": [
+        "epstein",
+        "bail",
+        "government",
+        "u.s. attorney",
+        "reid weingarten",
+        "judge berman",
+        "memorandum",
+        "case",
+        "exhibits",
+        "southern district of new york"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014330",
+      "summary": "v. Epstein (19 Cr. 490 (RMB)). *   There are multiple email exchanges discussing scheduling a meeting to discuss the case, particularly regarding a visit to Reid Weingarten following the hearing. *   The government expresses a willingness to speak with Weingarten on Monday morning, contingent on a general understanding of the client’s priorities. *   The government provided the bail memorandum and supporting exhibits to Judge Berman. *   There's a request to ensure all parties are kept informed via communication to account for varying team availability.",
+      "timestamp": "2019-07-14T00:00:00",
+      "timestamp_raw": "14 Jul 2019",
+      "keywords": [
+        "epstein",
+        "bail",
+        "reid weingarten",
+        "u.s. attorney",
+        "government",
+        "detention memo",
+        "hearing",
+        "agenda",
+        "blackberry"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030260",
+      "summary": "Martin G. Weinberg, Esq., requested a copy of records obtained from Institution 1 for the U.S. v. Epstein case, requesting they be provided as discovery rather than a public filing.  A U.S. Attorney attached the Government's reply and exhibits in support of the detention memo and opposition to the defendant's motion for bail to Judge Berman.  Communication occurred between Weinberg, Reid Weingarten, and the Assistant U.S. Attorney regarding the discovery process.",
+      "timestamp": "2019-07-14T00:00:00",
+      "timestamp_raw": "14 Jul 2019",
+      "keywords": [
+        "epstein",
+        "u.s. v.",
+        "government bail",
+        "rule 16 discovery",
+        "martin weinberg",
+        "reid weingarten",
+        "institution 1",
+        "financial information",
+        "southern district of new york"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021424",
+      "summary": "The attached document is a courtesy copy of the Government’s request to Judge Berman for the exclusion of speedy trial time in the case of *U.S. v. Epstein*, from July 15, 2019, to July 18, 2019. Defense counsel consents to this request.",
+      "timestamp": "2019-07-15T00:00:00",
+      "timestamp_raw": "July 15, 2019",
+      "keywords": [
+        "epstein",
+        "speedy trial",
+        "bail memorandum",
+        "berman",
+        "u.s. attorney",
+        "southern district of new york",
+        "request",
+        "exclusion",
+        "19 cr. 490",
+        "july 15",
+        "2019"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021626",
+      "summary": "An Assistant United States Attorney from the Southern District of New York sent photographs to Mike regarding the case *U.S. v. Epstein* (19 Cr. 490 [RMB]). The Attorney confirmed that pages 6 and 7 of the relevant document were blank and were not photographed.",
+      "timestamp": "2019-07-17T00:00:00",
+      "timestamp_raw": "17 Jul 2019",
+      "keywords": [
+        "epstein",
+        "u.s. v.",
+        "redaction",
+        "passport photographs",
+        "southern district of new york",
+        "assistant united states attorney",
+        "mike",
+        "19 cr. 490",
+        "rmb",
+        "efta00021626"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00014607",
+            "similarity": 0.5,
+            "index": 25,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00014607",
+      "summary": "Martin Weinberg inquired about the availability of the original documents related to the U.S. v. Epstein case (19 Cr. 490 (RMB)). Mike, an Assistant United States Attorney from the Southern District of New York, attached photographs and stated that pages 6 and 7 were blank and unphotographed.",
+      "timestamp": "2019-07-17T00:00:00",
+      "timestamp_raw": "17 Jul 2019",
+      "keywords": [
+        "epstein",
+        "u.s. v.",
+        "redaction",
+        "photographs",
+        "martin weinberg",
+        "southern district of new york",
+        "mike",
+        "passport photographs"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00021626",
+            "similarity": 0.5,
+            "index": 24,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021571",
+      "summary": "Michael Miller of Steptoe & Johnson LLP communicated with the U.S. Attorney’s Office regarding the U.S. v. Epstein case (19 Cr. 490). The communication outlined plans to respond to court questions without introducing new facts and to attempt to obtain and review the defendant’s passport and physical evidence. Photographs were attached, noting that pages 6 and 7 of a document were blank and not photographed.",
+      "timestamp": "2019-07-18T00:00:00",
+      "timestamp_raw": "18 Jul 2019",
+      "keywords": [
+        "epstein",
+        "u.s. v.",
+        "scavelli",
+        "michael",
+        "miller",
+        "michael",
+        "weingarten",
+        "reid",
+        "passport",
+        "evidence",
+        "steptoe & johnson",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031100",
+      "summary": "An email was sent from etravelservices regarding a late travel voucher (Trip ID: 1041) for a trip related to the U.S. v. Epstein case (2018R01618) – Victim Interviews, taking place July 11-12, 2019. The voucher status is Authorization Approved.  The email provides login links for E2 Single Sign On and E2 Manual Login, and includes instructions for managing email notifications. It also contains a confidentiality disclaimer.",
+      "timestamp": "2019-07-23T00:00:00",
+      "timestamp_raw": "23 Jul 2019",
+      "keywords": [
+        "travel voucher",
+        "e2 solutions",
+        "doj",
+        "epstein",
+        "victim interviews",
+        "authorization",
+        "travel",
+        "email",
+        "reference id",
+        "2019-07-11"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021371",
+      "summary": "A final voucher (10416822-1(1)) for travel expenses related to the U.S. v. Epstein case is pending review. The trip took place July 11-12, 2019, to West Palm Beach, FL, costing $779.97 with an estimated cost of $1050.66. The voucher was prepared by a travel arranger and is accessible via E2 Solutions.  Login details are provided, and the sender emphasizes the confidential nature of the email and attachments.",
+      "timestamp": "2019-07-24T00:00:00",
+      "timestamp_raw": "24 Jul 2019",
+      "keywords": [
+        "efta00021371",
+        "voucher",
+        "travel arranger",
+        "e2 solutions",
+        "doj",
+        "epstein",
+        "west palm beach",
+        "florida",
+        "2019-07-11",
+        "2019-07-12"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021389",
+      "summary": "Final voucher 10416822-1(1) was approved for travel to West Palm Beach, FL, from July 11-12, 2019, for the purpose of victim interviews related to the U.S. v. Epstein case (2018R01618). The voucher total expenses were $779.97, with an estimated trip cost of $1050.66. The voucher is currently pending further approval and utilizes the E2 Solutions travel system.",
+      "timestamp": "2019-07-25T00:00:00",
+      "timestamp_raw": "25 Jul 2019",
+      "keywords": [
+        "voucher",
+        "approval",
+        "travel",
+        "expenses",
+        "e2",
+        "doj",
+        "epstein",
+        "west palm beach",
+        "fl",
+        "2019-07-11"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00028483",
+            "similarity": 0.667,
+            "index": 30,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00025374",
+            "similarity": 0.538,
+            "index": 44,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00025339",
+            "similarity": 0.538,
+            "index": 46,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00028483",
+      "summary": "A final voucher (10416822-1(1)) with a total expense of $779.97 was approved for a trip to West Palm Beach, FL, from July 11-12, 2019, for the purpose of victim interviews in the U.S. v. Epstein case (2018R01618). The trip was initiated by [REDACTED]. The voucher is currently pending further approval and utilizes the E2 Solutions travel platform.",
+      "timestamp": "2019-07-27T00:00:00",
+      "timestamp_raw": "27 Jul 2019",
+      "keywords": [
+        "efta00028483",
+        "voucher",
+        "approval",
+        "epstein",
+        "travel",
+        "expenses",
+        "2019-07-11",
+        "2019-07-12",
+        "west palm beach",
+        "doj"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00021389",
+            "similarity": 0.667,
+            "index": 29,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021745",
+      "summary": "An email chain concerning the case “U.S. v. Epstein” is being distributed between Michael C. Miller of Steptoe & Johnson LLP and various recipients, including Reid Weingarten, Martin G. Weinberg, Michael Scavelli, Morgan Lucas, Jim Brochin, and Jason Meade. The email contains an attached letter and includes standard legal disclaimers regarding confidential and privileged information.",
+      "timestamp": "2019-08-02T00:00:00",
+      "timestamp_raw": "02 Aug 2019",
+      "keywords": [
+        "efta00021745",
+        "u.s. v. epstein",
+        "michael miller",
+        "steptoe & johnson llp",
+        "southern district of new york",
+        "reid weingarten",
+        "jim brochin",
+        "litigation",
+        "legal correspondence",
+        "new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028442",
+      "summary": "Michael C. Miller, a partner at Steptoe & Johnson LLP, sent a letter regarding the case “U.S. v. Epstein” to Michael Scavelli, Jim Brochin, Martin G. Weinberg, Morgan Lucas, Jason Meade, and others. The letter is attached as a PDF named “Discovety_Letter_Aug_1,_2019_-c2.pdf”. The email contains a standard confidentiality notice from Steptoe & Johnson LLP.",
+      "timestamp": "2019-08-02T00:00:00",
+      "timestamp_raw": "02 Aug 2019",
+      "keywords": [
+        "efta00028442",
+        "u.s. v. epstein",
+        "michael miller",
+        "steptoe & johnson llp",
+        "discovery letter",
+        "aug 1",
+        "2019",
+        "fax",
+        "new york",
+        "confidential",
+        "privileged"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019988",
+      "summary": "Michael Miller of Steptoe & Johnson LLP sent an email to Judge Berman’s chambers regarding a Government motion for an order of nolle prosequi in the case *U.S. v. Epstein* (19 Cr. 490 (RMB)). The email included a courtesy copy of the Government’s motion and was copied to defense counsel. An Assistant U.S. Attorney from the Southern District of New York sent the initial email.",
+      "timestamp": "2019-08-19T00:00:00",
+      "timestamp_raw": "19 Aug 2019",
+      "keywords": [
+        "efta00019988",
+        "epstein",
+        "u.s. v. epstein",
+        "motion",
+        "nolle prosequi",
+        "berman",
+        "steptoe & johnson llp",
+        "southern district of new york",
+        "michael miller",
+        "weinberg",
+        "chambers"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010421",
+      "summary": "A letter motion for an order of nolle prosequi was sent by the Assistant U.S. Attorney for the Southern District of New York to Judge Berman’s chambers in the case of *U.S. v. Epstein* (19 Cr. 490 (RMB)). The letter, attached with a proposed order, was submitted following a previous discussion and was copied to defense counsel, Martin Weinberg and Michael Miller.",
+      "timestamp": "2019-08-19T00:00:00",
+      "timestamp_raw": "19 Aug 2019",
+      "keywords": [
+        "epstein",
+        "u.s. v.",
+        "nolle prosequi",
+        "motion",
+        "order",
+        "southern district of new york",
+        "judge berman",
+        "redaction analysis",
+        "19 cr. 490",
+        "rmb"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014345",
+      "summary": "The document consists of email correspondence regarding a motion for an order of nolle prosequi in the case of *U.S. v. Epstein* (19 Cr. 490 (RMB)). Emails between attorneys from the Southern District of New York’s U.S. Attorney’s Office and Judge Berman’s chambers detail the submission of a Government letter motion and a proposed order requesting court approval for the nolle prosequi. Defense counsel is copied on the correspondence.",
+      "timestamp": "2019-08-19T00:00:00",
+      "timestamp_raw": "19 Aug 2019",
+      "keywords": [
+        "epstein",
+        "u.s. v.",
+        "nolle prosequi",
+        "motion",
+        "order",
+        "berman",
+        "southern district of new york",
+        "chambers",
+        "judge",
+        "court"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020119",
+      "summary": "An Assistant U.S. Attorney is requesting Marty Weinberaer to return all discovery received in the case of *U.S. v. Epstein* and certify its destruction or deletion. This is to ensure no outstanding discovery obligations exist for the hearing on Tuesday and to comply with the protective order. The Attorney anticipates a brief meeting with Weinberaer at 12:30 PM, followed by a call around 12:45 PM – 1:00 PM.",
+      "timestamp": "2019-08-22T00:00:00",
+      "timestamp_raw": "22 Aug 2019",
+      "keywords": [
+        "efta00020119",
+        "civil forfeiture",
+        "protective order",
+        "discovery",
+        "nolle order",
+        "epstein",
+        "u.s. attorney",
+        "southern district of new york",
+        "michael",
+        "deletion"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029728",
+      "summary": "An Assistant U.S. Attorney in the Southern District of New York is following up with Marty Weinberg regarding the U.S. v. Epstein case. The Attorney is inquiring about the defense’s intentions regarding addressing the dismissal and the status of the return of discovery materials. Specifically, the Attorney requests that Weinberg return all received discovery materials to the government, either through security destruction/deletion or certification of deletion, to ensure no outstanding discovery obligations exist for the court hearing on Tuesday.",
+      "timestamp": "2019-08-25T00:00:00",
+      "timestamp_raw": "25 Aug 2019",
+      "keywords": [
+        "epstein",
+        "u.s. v.",
+        "discovery",
+        "protective order",
+        "dismissal",
+        "forfeiture",
+        "return",
+        "nolle order",
+        "southern district of new york",
+        "martin g. weinberg"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030714",
+      "summary": "Travel authorization 10586462 was approved by an unidentified sender for witness interviews related to the U.S. v. Epstein case. The trip, concerning R19NYS 13781, is to West Palm Beach, FL, from September 3-4, 2019. The authorization is currently pending further approval. The email also includes standard E2Solutions usage information and a confidentiality notice.",
+      "timestamp": "2019-08-30T00:00:00",
+      "timestamp_raw": "30 Aug 2019",
+      "keywords": [
+        "travel authorization",
+        "efta00030714",
+        "u.s. v. epstein",
+        "witness interviews",
+        "west palm beach",
+        "fl",
+        "2019-09-03",
+        "2019-09-04",
+        "approval",
+        "doj network",
+        "e2 solutions"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00032628",
+            "similarity": 0.5,
+            "index": 40,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00030713",
+            "similarity": 0.5,
+            "index": 41,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00024435",
+      "summary": "Travel authorization 10586462 for the purpose of “R19NYS 13781 - U.S. v. Epstein - Witness Interviews” to West Palm Beach, FL, from 2019-09-03 to 2019-09-04 has been approved. The current status is pending further authorization approval. Relevant login links and contact information for support are provided. Reference ID# T0007.",
+      "timestamp": "2019-09-03T00:00:00",
+      "timestamp_raw": "2019-09-03",
+      "keywords": [
+        "travel authorization",
+        "efta00024435",
+        "approval",
+        "u.s. v. epstein",
+        "west palm beach",
+        "doj",
+        "e2 solutions",
+        "witness interviews",
+        "travel",
+        "florida"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00030292",
+            "similarity": 0.538,
+            "index": 9,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00028782",
+            "similarity": 0.538,
+            "index": 66,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00030423",
+            "similarity": 0.5,
+            "index": 80,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019843",
+            "similarity": 0.5,
+            "index": 82,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00032628",
+      "summary": "Travel authorization 10586231 was approved for Trip ID 10586231, traveler name, for the purpose of R19NYS 13780 - U.S. v. Epstein - Witness Interviews, taking place in West Palm Beach, FL, from 2019-09-03 to 2019-09-04. The authorization is currently pending approval. Relevant login information for E2 Solutions is provided: https://dojnet.doj.gov/jmd/fs/e2-redirect.html and https://e2.gov.cwtsatotravel.com. A reference ID# T0007 is also included, along with a disclaimer regarding confidential information.",
+      "timestamp": "2019-09-03T00:00:00",
+      "timestamp_raw": "2019-09-03",
+      "keywords": [
+        "travel authorization",
+        "efta00032628",
+        "u.s. v. epstein",
+        "witness interviews",
+        "west palm beach",
+        "doj",
+        "e2 solutions",
+        "email notifications",
+        "2019-09-03",
+        "2019-09-04"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00030714",
+            "similarity": 0.5,
+            "index": 38,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00031719",
+            "similarity": 0.5,
+            "index": 42,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028835",
+            "similarity": 0.538,
+            "index": 67,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00030713",
+      "summary": "Travel authorization 10586462 was approved for Trip ID 10586462, related to “U.S. v. Epstein - Witness Interviews” in West Palm Beach, FL, from 2019-09-03 to 2019-09-04. The approval was initiated by [REDACTED] and is awaiting further approval. The email includes details about E2Solutions and a disclaimer regarding confidential information. Reference ID# T0007 is associated with this communication.",
+      "timestamp": "2019-09-03T00:00:00",
+      "timestamp_raw": "2019-09-03",
+      "keywords": [
+        "travel authorization",
+        "efta00030713",
+        "epstein",
+        "witness interviews",
+        "west palm beach",
+        "fl",
+        "doj network",
+        "e2 solutions",
+        "confidential",
+        "approval"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00030714",
+            "similarity": 0.5,
+            "index": 38,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031719",
+      "summary": "Travel authorization 10586231 was approved for Trip ID 10586231, relating to “U.S. v. Epstein - Witness Interviews” in West Palm Beach, FL, from 2019-09-03 to 2019-09-04. The authorization is currently pending further approval. Relevant login links for E2 Single Sign On and E2 Manual Login are provided. The email includes a reference ID# T0007 and a disclaimer regarding confidential information.",
+      "timestamp": "2019-09-03T00:00:00",
+      "timestamp_raw": "2019-09-03",
+      "keywords": [
+        "travel authorization",
+        "efta00031719",
+        "doj",
+        "epstein",
+        "witness interviews",
+        "west palm beach",
+        "fl",
+        "2019-09-03",
+        "2019-09-04",
+        "e2 solutions",
+        "pending authorization"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00032628",
+            "similarity": 0.5,
+            "index": 40,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00011026",
+      "summary": "This document is a letter from U.S. District Judge Richard M. Berman to Professor Bruce A. Green regarding Green’s expert opinion and opinion piece concerning the U.S. v. Epstein case. Green was retained as an expert on legal ethics and provided an affidavit recommending the disqualification of David Boies from representing Ghislaine Maxwell. Judge Berman expresses surprise that this recommendation wasn't disclosed alongside Green’s opinion piece and questions Green’s interpretation of Federal Rule of Criminal Procedure 57 and the Crime Victims' Rights Act, arguing the piece may have attempted to silence Maxwell and Boies. The letter is copied to Martin G. Weinberg, Reid Weingarten, and David Boies.",
+      "timestamp": "2019-09-04T00:00:00",
+      "timestamp_raw": "September 4, 2019",
+      "keywords": [
+        "richard m. berman",
+        "us v. epstein",
+        "legal ethics",
+        "david boies",
+        "guiffre",
+        "criminal case",
+        "victims' rights act",
+        "transparency",
+        "law journal",
+        "expert opinion"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025374",
+      "summary": "Email notification regarding final approval of voucher 10621156(1) for travel to West Palm Beach, FL, from 2019-09-09 to 2019-09-10. The purpose of the trip was victim interviews related to the U.S. v. Epstein case (2018R0618). The voucher total expenses were $720.32, and the estimated trip cost was $910.73. The current status is awaiting payment. Relevant links for E2 Single Sign On and E2 Manual Login are provided. Reference ID# V0008 is included.",
+      "timestamp": "2019-09-09T00:00:00",
+      "timestamp_raw": "2019-09-09",
+      "keywords": [
+        "voucher",
+        "approval",
+        "travel",
+        "expenses",
+        "e2",
+        "doj",
+        "epstein",
+        "florida",
+        "payment",
+        "10621156"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00021389",
+            "similarity": 0.538,
+            "index": 29,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00025339",
+            "similarity": 0.667,
+            "index": 46,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00010273",
+            "similarity": 0.538,
+            "index": 77,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00026616",
+            "similarity": 0.538,
+            "index": 92,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00032860",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] regarding a late travel voucher (Voucher for Trip 10621156). The trip details are: Trip ID: 10621156, Traveler name: [REDACTED], Destination: West Palm Beach, Purpose: R19NYS 13832 - U.S. v. Epstein (2018R0618) - Victim Interviews, Trip Dates: 2019-09-09 - 2019-09-10, Current status: Authorization Approved. The email instructs the recipient to submit the voucher and mark it as Final if no additional expenses are due. It also provides links to E2 Single Sign On and E2 Manual Login for the E2Solutions system and includes a reference ID# V0013.",
+      "timestamp": "2019-09-09T00:00:00",
+      "timestamp_raw": "2019-09-09",
+      "keywords": [
+        "efta00032860",
+        "voucher",
+        "trip 10621156",
+        "west palm beach",
+        "epstein",
+        "victim interviews",
+        "2019-09-09",
+        "2019-09-10",
+        "authorization approved",
+        "e2 solutions"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00029483",
+            "similarity": 0.538,
+            "index": 48,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00025339",
+      "summary": "Email correspondence regarding approved voucher 10621156(1) for a trip to West Palm Beach, FL, from 2019-09-09 to 2019-09-10, related to the U.S. v. Epstein case. The voucher total expenses were $720.32, and the estimated trip cost was $910.73. The voucher is currently pending approval. The email includes links to E2 Single Sign On and E2 Manual Login for the CWTS ATOTravel system.",
+      "timestamp": "2019-09-09T00:00:00",
+      "timestamp_raw": "2019-09-09",
+      "keywords": [
+        "voucher",
+        "travel",
+        "approval",
+        "expenses",
+        "destination",
+        "florida",
+        "epstein",
+        "doj",
+        "e2",
+        "united states"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00025374",
+            "similarity": 0.667,
+            "index": 44,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00021389",
+            "similarity": 0.538,
+            "index": 29,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00028829",
+            "similarity": 0.538,
+            "index": 68,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00010273",
+            "similarity": 0.538,
+            "index": 77,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00026616",
+            "similarity": 0.538,
+            "index": 92,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00025340",
+      "summary": "Email notification regarding the approval of Final Voucher 10621156(1) for a trip to West Palm Beach, FL, from 2019-09-09 to 2019-09-10, related to the U.S. v. Epstein case. The voucher total expenses are $720.32, and the estimated trip cost is $910.73. Links are provided for E2 Single Sign On and E2 Manual Login. The email includes a reference ID# V0010 and a disclaimer regarding confidential information.",
+      "timestamp": "2019-09-09T00:00:00",
+      "timestamp_raw": "2019-09-09",
+      "keywords": [
+        "efta00025340",
+        "voucher",
+        "travel",
+        "epstein",
+        "west palm beach",
+        "fl",
+        "doj",
+        "e2",
+        "2019-09-09",
+        "approval"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00021389",
+            "similarity": 0.667,
+            "index": 29,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00028829",
+            "similarity": 0.538,
+            "index": 68,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00029483",
+      "summary": "An email was sent regarding a late travel voucher (Trip ID: 10621) for a trip to West Palm Beach from 2019-09-09 to 2019-09-10, related to the U.S. v. Epstein case. The voucher’s authorization was approved, and instructions were provided for submitting the voucher and marking it as final if no further expenses were due. The email included login links for E2 Solutions and a disclaimer regarding confidential information. The reference ID# was V0013.",
+      "timestamp": "2019-09-09T00:00:00",
+      "timestamp_raw": "2019-09-09",
+      "keywords": [
+        "travel voucher",
+        "west palm beach",
+        "e2 solutions",
+        "doj",
+        "epstein",
+        "victim interviews",
+        "2019-09-09",
+        "2019-09-10",
+        "authorization approved",
+        "e2 single sign on"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00032860",
+            "similarity": 0.538,
+            "index": 45,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031354",
+      "summary": "Travel authorization 10621156 for the trip to West Palm Beach, FL, from 2019-09-09 to 2019-09-10, has been approved. The purpose of the trip was victim interviews related to the U.S. v. Epstein case (2018R0618). The traveler is OBD-USA-USANYS-NEW YORK SOUTHERN (UNYS) (JO2104) and the minor customer is OBD-USA-USANYS-NEW YORK SOUTHERN (UNYS) (JO2104). Access links for E2 Single Sign On and E2 Manual Login are provided. Reference ID# is T0006.",
+      "timestamp": "2019-09-09T00:00:00",
+      "timestamp_raw": "2019-09-09",
+      "keywords": [
+        "travel authorization",
+        "e2 solutions",
+        "doj",
+        "travel",
+        "approval",
+        "united states",
+        "victim interviews",
+        "florida",
+        "efta00031354",
+        "2019-09-09"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031310",
+      "summary": "Travel authorization 10621156 was approved for a trip to West Palm Beach, FL, from September 9-10, 2019, for the purpose of victim interviews in the U.S. v. Epstein case (2018R0618). The authorization is currently pending further approval.  The email provides login information for E2 Solutions and includes a reference ID# T0007, along with confidentiality notices.",
+      "timestamp": "2019-09-12T00:00:00",
+      "timestamp_raw": "12 Sep 2019",
+      "keywords": [
+        "travel authorization",
+        "efta00031310",
+        "doj",
+        "epstein",
+        "west palm beach",
+        "2019-09-09",
+        "2019-09-10",
+        "e2 solutions",
+        "email",
+        "approval"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031353",
+      "summary": "Travel Authorization 10643456 was approved for a trip to Los Angeles, CA, from September 17-20, 2019, for the purpose of witness interviews related to the U.S. v. Epstein case. The authorization is pending further approval. The email provides login information for E2 Solutions and includes standard disclaimers regarding confidential information and email notifications. Reference ID# T0007 is associated with this authorization.",
+      "timestamp": "2019-09-12T00:00:00",
+      "timestamp_raw": "12 Sep 2019",
+      "keywords": [
+        "travel authorization",
+        "efta00031353",
+        "doj",
+        "los angeles",
+        "epstein",
+        "witness interviews",
+        "2019-09-17",
+        "2019-09-20",
+        "e2 solutions",
+        "approval"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00032629",
+            "similarity": 0.538,
+            "index": 52,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00032630",
+            "similarity": 0.667,
+            "index": 54,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00025335",
+            "similarity": 0.538,
+            "index": 55,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00032629",
+      "summary": "Travel authorization 10643456 was approved for a trip to Los Angeles, CA, from September 17-20, 2019, for the purpose of witness interviews related to the U.S. v. Epstein case. The authorization is currently pending further approval. Relevant login links and contact information for E2Solutions support are provided. The email contains a disclaimer regarding confidential information.",
+      "timestamp": "2019-09-13T00:00:00",
+      "timestamp_raw": "13 Sep 2019",
+      "keywords": [
+        "travel authorization",
+        "efta00032629",
+        "los angeles",
+        "u.s. v. epstein",
+        "witness interviews",
+        "doj",
+        "e2 solutions",
+        "email notifications",
+        "approval",
+        "2019-09-17"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00031353",
+            "similarity": 0.538,
+            "index": 51,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00032630",
+            "similarity": 0.538,
+            "index": 54,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00023238",
+            "similarity": 0.667,
+            "index": 58,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00023347",
+            "similarity": 0.5,
+            "index": 59,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00031099",
+      "summary": "An email was sent regarding a late travel voucher (Trip ID: 10643456-2) for a trip to Santa Monica, California, for the purpose of U.S. v. Epstein - Witness Interviews from 2019-09-17 to 2019-09-20. The voucher authorization was approved, and the recipient was directed to submit the voucher and mark it as final if no additional expenses were incurred.  Links to E2 Single Sign On and Manual Login were provided, along with instructions on managing email notifications. Reference ID# V0013 was included.",
+      "timestamp": "2019-09-17T00:00:00",
+      "timestamp_raw": "2019-09-17",
+      "keywords": [
+        "travel voucher",
+        "e2 solutions",
+        "santa",
+        "epstein",
+        "witness interviews",
+        "doj",
+        "2019-09-17",
+        "2019-09-20",
+        "authorization",
+        "reference id#"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032630",
+      "summary": "Travel authorization 10643456 has been approved for a trip from 2019-09-17 to 2019-09-20 to Los Angeles, CA, for the purpose of witness interviews related to the U.S. v. Epstein case. The traveler is OBD-USA-USANYS-NEW YORK SOUTHERN (UNYS) (JO2104).  The email provides login information for E2 Solutions and includes standard confidentiality disclaimers. Reference ID# T0006 is associated with this authorization.",
+      "timestamp": "2019-09-17T00:00:00",
+      "timestamp_raw": "2019-09-17",
+      "keywords": [
+        "travel authorization",
+        "efta00032630",
+        "doj",
+        "los angeles",
+        "witness interviews",
+        "e2 solutions",
+        "2019-09-17",
+        "2019-09-20",
+        "travel",
+        "approval"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00032629",
+            "similarity": 0.538,
+            "index": 52,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00031353",
+            "similarity": 0.667,
+            "index": 51,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00025338",
+            "similarity": 0.538,
+            "index": 56,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00025335",
+      "summary": "Travel authorization 10643456-2 for witness interviews related to the U.S. v. Epstein case has been approved. The trip, involving traveler name and minor customer OBD-USA-USANYS-NEW YORK SOUTHERN (UNYS) (JO2104), took place from 2019-09-17 to 2019-09-20 in Santa Monica, CA. The current status is Authorization Approved, with login instructions provided for E2 Single Sign On and E2 Manual Login. Reference ID# T0006 is associated with this authorization.",
+      "timestamp": "2019-09-17T00:00:00",
+      "timestamp_raw": "2019-09-17",
+      "keywords": [
+        "travel authorization",
+        "e2 solutions",
+        "doj",
+        "santa monica",
+        "witness interviews",
+        "epstein",
+        "2019-09-17",
+        "2019-09-20",
+        "efta00025335",
+        "travel services"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00031353",
+            "similarity": 0.538,
+            "index": 51,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00025334",
+            "similarity": 0.538,
+            "index": 60,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00025338",
+      "summary": "Travel authorization 10643456-1 for the trip to Santa Monica, CA, from 2019-09-17 to 2019-09-20, regarding the U.S. v. Epstein witness interviews, has been approved. The traveler is OBD-USA-USANYS-NEW YORK SOUTHERN (UNYS) (JO2104).  Relevant login links and contact information for E2Solutions support are provided.  The email includes a confidentiality disclaimer.",
+      "timestamp": "2019-09-17T00:00:00",
+      "timestamp_raw": "2019-09-17",
+      "keywords": [
+        "travel authorization",
+        "efta00025338",
+        "doj",
+        "santa monica",
+        "witness interviews",
+        "e2 solutions",
+        "travel",
+        "approval",
+        "2019-09-17",
+        "e2 login"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00032630",
+            "similarity": 0.538,
+            "index": 54,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00023238",
+            "similarity": 0.538,
+            "index": 58,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00030423",
+            "similarity": 0.5,
+            "index": 80,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019843",
+            "similarity": 0.5,
+            "index": 82,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00029486",
+      "summary": "An email notification was sent regarding a late travel voucher (10643456-2) for a trip to Santa Monica from 2019-09-17 to 2019-09-20, related to the U.S. v. Epstein case. The traveler's name is redacted. The voucher status is Authorization Approved, and instructions are provided for submitting the final voucher through E2Solutions, including login links and contact information for support. The email contains a reference ID# V0013 and a disclaimer regarding confidential information.",
+      "timestamp": "2019-09-17T00:00:00",
+      "timestamp_raw": "2019-09-17",
+      "keywords": [
+        "voucher",
+        "travel",
+        "santa monica",
+        "trip",
+        "e2 solutions",
+        "doj",
+        "epstein",
+        "witness interviews",
+        "authorization",
+        "efta00029486"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00011036",
+            "similarity": 0.538,
+            "index": 17,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00010816",
+            "similarity": 0.538,
+            "index": 61,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00025344",
+            "similarity": 0.667,
+            "index": 62,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00025250",
+            "similarity": 0.538,
+            "index": 102,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00023238",
+      "summary": "Travel authorization 10643456-1 for a trip to Santa Monica, CA, from September 17-20, 2019, for the purpose of U.S. v. Epstein - Witness Interviews, has been approved. The authorization is pending further approval. Relevant login information and contact details for support are provided, along with a disclaimer regarding confidential information. Reference ID# T0007 is included.",
+      "timestamp": "2019-09-24T00:00:00",
+      "timestamp_raw": "24 Sep 2019",
+      "keywords": [
+        "travel authorization",
+        "efta00023238",
+        "approval",
+        "santa monica",
+        "u.s. v. epstein",
+        "witness interviews",
+        "doj",
+        "e2 solutions",
+        "email notifications",
+        "2019-09-17"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00025338",
+            "similarity": 0.538,
+            "index": 56,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00032629",
+            "similarity": 0.667,
+            "index": 52,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00023347",
+            "similarity": 0.615,
+            "index": 59,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00025334",
+            "similarity": 0.667,
+            "index": 60,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00025375",
+            "similarity": 0.5,
+            "index": 79,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00023347",
+      "summary": "A travel authorization was approved for a trip with Trip ID R19NYS 13842, related to U.S. v. Epstein - Witness Interviews, to Santa Monica, CA, from September 17th to 20th, 2019. The current status is pending authorization approval. The email includes login links for E2 Single Sign On and E2 Manual Login, and details contact information for E2 Solutions support. Reference ID# T0007 is also provided.",
+      "timestamp": "2019-09-26T00:00:00",
+      "timestamp_raw": "26 Sep 2019",
+      "keywords": [
+        "travel authorization",
+        "efta00023347",
+        "u.s. v. epstein",
+        "witness interviews",
+        "santa monica",
+        "ca",
+        "doj",
+        "e2 solutions",
+        "travel services",
+        "email notifications",
+        "approval"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00023238",
+            "similarity": 0.615,
+            "index": 58,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00032629",
+            "similarity": 0.5,
+            "index": 52,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00025334",
+            "similarity": 0.5,
+            "index": 60,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028835",
+            "similarity": 0.5,
+            "index": 67,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00025375",
+            "similarity": 0.571,
+            "index": 79,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00025334",
+      "summary": "Travel authorization 10643456-2 was approved for a trip to Santa Monica, CA, from September 17-20, 2019, for the purpose of U.S. v. Epstein - Witness Interviews. The authorization is pending further approval. Relevant login links and contact information for E2Solutions support are provided. Reference ID# T0007.",
+      "timestamp": "2019-09-27T00:00:00",
+      "timestamp_raw": "27 Sep 2019",
+      "keywords": [
+        "travel authorization",
+        "efta00025334",
+        "santa monica",
+        "u.s. v. epstein",
+        "witness interviews",
+        "doj",
+        "e2 solutions",
+        "email notifications",
+        "2019-09-17",
+        "2019-09-20"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00023347",
+            "similarity": 0.5,
+            "index": 59,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00023238",
+            "similarity": 0.667,
+            "index": 58,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00025335",
+            "similarity": 0.538,
+            "index": 55,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00019843",
+            "similarity": 0.5,
+            "index": 82,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00021005",
+            "similarity": 0.5,
+            "index": 85,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00010816",
+      "summary": "An email was sent on October 1, 2019, regarding travel voucher 1064311 for a trip to Santa Monica from September 17-20, 2019, for the purpose of U.S. v. Epstein - Witness Interviews. The voucher was flagged as late due to customer settings. The email provides login links for E2 Solutions and instructions for submitting the voucher and marking it as final if no additional expenses are due. A reference ID# V0013 is included, along with a disclaimer about confidential information.",
+      "timestamp": "2019-10-01T00:00:00",
+      "timestamp_raw": "October 1, 2019",
+      "keywords": [
+        "voucher",
+        "travel",
+        "santa monica",
+        "trip",
+        "e2",
+        "authorization",
+        "doj",
+        "email",
+        "e2solutions",
+        "epstein"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00029486",
+            "similarity": 0.538,
+            "index": 57,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00011036",
+            "similarity": 0.538,
+            "index": 17,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00014292",
+            "similarity": 0.667,
+            "index": 65,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00025344",
+      "summary": "An email exchange occurred on October 8, 2019, regarding travel voucher 10643456-2 for a trip to Santa Monica for the U.S. v. Epstein – Witness Interviews Trip (September 17-20, 2019). The initial email from etravelservices@cwtsatotravel.com informed the recipient that the voucher was late and requested submission and marking as final if no additional expenses were due. The email included links to E2 solutions login pages and a disclaimer regarding confidential information. The recipient responded with \"Got it, thanks!\" indicating acknowledgement of the message.",
+      "timestamp": "2019-10-08T00:00:00",
+      "timestamp_raw": "October 8, 2019",
+      "keywords": [
+        "efta00025344",
+        "voucher",
+        "trip 10643456-2",
+        "santa monica",
+        "travel",
+        "authorization",
+        "e2 solutions",
+        "doj",
+        "epstein",
+        "witness interviews"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00029486",
+            "similarity": 0.667,
+            "index": 57,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00025250",
+            "similarity": 0.538,
+            "index": 102,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00031098",
+      "summary": "An email was sent on October 13, 2019, regarding travel voucher 1064 for a trip titled \"U.S. v. Epstein - Witness Interviews\" from September 17-20, 2019. The voucher is late due to customer settings. The traveler’s name and destination are redacted. The email provides links to E2 Single Sign On and E2 Manual Login for expense tracking and includes contact information for support and a confidentiality notice. The reference ID is V0013.",
+      "timestamp": "2019-10-13T00:00:00",
+      "timestamp_raw": "October 13, 2019",
+      "keywords": [
+        "travel voucher",
+        "e2 solutions",
+        "doj",
+        "epstein",
+        "witness interviews",
+        "trip id",
+        "1064",
+        "authorization",
+        "redaction analysis",
+        "efta00031098"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00010817",
+            "similarity": 0.538,
+            "index": 70,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00010272",
+      "summary": "An email was sent on October 24, 2019, from etravelservices regarding Final Voucher 10643456-2(1), which has been approved. The voucher is for witness interviews related to the U.S. v. Epstein case, taking place in Santa Monica, CA, from September 17-20, 2019. The total expenses are $2152.79, and the estimated trip cost is $2489.21. The voucher status is pending approval, and links to E2 Single Sign On and Manual Login are provided. The email includes a confidentiality disclaimer.",
+      "timestamp": "2019-10-24T00:00:00",
+      "timestamp_raw": "October 24, 2019",
+      "keywords": [
+        "efta00010272",
+        "voucher",
+        "approval",
+        "travel",
+        "santa monica",
+        "ca",
+        "epstein",
+        "witness interviews",
+        "2019-09-17",
+        "doj"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00019906",
+            "similarity": 0.538,
+            "index": 87,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019873",
+            "similarity": 0.538,
+            "index": 88,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00026615",
+            "similarity": 0.538,
+            "index": 90,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00014292",
+      "summary": "An email exchange discusses a late travel voucher (EFTA00014292) for a trip to Santa Monica from September 17-20, 2019, related to the U.S. v. Epstein case. The initial email confirms the claim was submitted and provides login information for the E2Solutions system. A subsequent email inquires about the status of the voucher and confirms no further action is needed. The email also includes details about the trip, authorization status, and instructions for accessing the E2 system.",
+      "timestamp": "2019-11-03T00:00:00",
+      "timestamp_raw": "03 Oct 2019",
+      "keywords": [
+        "efta00014292",
+        "voucher",
+        "trip",
+        "reimbursement",
+        "santa monica",
+        "e2",
+        "doj",
+        "email",
+        "travel",
+        "epstein"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00010816",
+            "similarity": 0.667,
+            "index": 61,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028782",
+      "summary": "A travel authorization has been approved for a trip to West Palm Beach, FL, from 2019-11-04 for witness interviews related to the U.S. v. Epstein case. The authorization, identified as EFTA00028782, is pending final approval.  It utilizes the E2 Solutions travel system with login instructions and includes a disclaimer regarding confidential information and email notification management.",
+      "timestamp": "2019-11-04T00:00:00",
+      "timestamp_raw": "2019-11-04",
+      "keywords": [
+        "travel authorization",
+        "efta00028782",
+        "witness interviews",
+        "u.s. v. epstein",
+        "west palm beach",
+        "doj",
+        "e2 single sign on",
+        "email notifications",
+        "approval",
+        "travel"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00024435",
+            "similarity": 0.538,
+            "index": 39,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00019843",
+            "similarity": 0.5,
+            "index": 82,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00028835",
+      "summary": "Travel authorization EFTA00028835 has been approved for a trip to West Palm Beach, FL, from November 4, 2019, for the purpose of witness interviews related to the U.S. v. Epstein case. The authorization is associated with traveler name, minor customer name, and trip ID.  Access information for E2 Solutions is provided, including login links and contact information for support. A reference ID of T0006 is also included.",
+      "timestamp": "2019-11-04T00:00:00",
+      "timestamp_raw": "November 4, 2019",
+      "keywords": [
+        "travel authorization",
+        "efta00028835",
+        "u.s. v. epstein",
+        "witness interviews",
+        "west palm beach",
+        "doj",
+        "e2 solutions",
+        "email notifications",
+        "redaction analysis",
+        "travel services"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00023347",
+            "similarity": 0.5,
+            "index": 59,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00032628",
+            "similarity": 0.538,
+            "index": 40,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00021005",
+            "similarity": 0.5,
+            "index": 85,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00028829",
+      "summary": "Email notification regarding the final voucher 10761545(1) approval for a trip to West Palm Beach, FL, related to the U.S. v. Epstein case. The trip dates are 2019-11-04. The voucher total expenses are $421.70 and the estimated trip cost is $836.70.  It includes links to E2 Single Sign On and E2 Manual Login. The current status is pending voucher approval. Reference ID# V0010.",
+      "timestamp": "2019-11-04T00:00:00",
+      "timestamp_raw": "2019-11-04",
+      "keywords": [
+        "voucher",
+        "travel",
+        "approval",
+        "expenses",
+        "destination",
+        "u.s. v. epstein",
+        "west palm beach",
+        "fl",
+        "e2",
+        "doj"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00025340",
+            "similarity": 0.538,
+            "index": 47,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00025339",
+            "similarity": 0.538,
+            "index": 46,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00021389",
+            "similarity": 0.667,
+            "index": 29,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028799",
+      "summary": "A final voucher for travel expenses related to “U.S. v. Epstein - Witness Interviews” is pending approval. The trip, to West Palm Beach, FL, from November 4, 2019, involved a total expense of $421.70 and an estimated trip cost of $836.70. The voucher was prepared by a travel arranger and is accessible through the E2 Solutions system via provided login links. Reference ID# V0012 was associated with the email.",
+      "timestamp": "2019-11-04T00:00:00",
+      "timestamp_raw": "November 4, 2019",
+      "keywords": [
+        "efta00028799",
+        "voucher",
+        "travel",
+        "e2 solutions",
+        "doj",
+        "west palm beach",
+        "epstein",
+        "witness interviews",
+        "final voucher",
+        "expenses"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00021523",
+            "similarity": 0.538,
+            "index": 10,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00025250",
+            "similarity": 0.538,
+            "index": 102,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00010817",
+      "summary": "Email notification regarding a late travel voucher (Trip ID: 10643456-2) for a trip to Santa Monica for the U.S. v. Epstein - Witness Interviews, September 17-20, 2019. The traveler should submit the voucher and mark it as final if no additional expenses are due. Links are provided for E2 Single Sign On and E2 Manual Login. The email includes a reference ID# V0013 and a disclaimer about confidential information.",
+      "timestamp": "2019-11-07T00:00:00",
+      "timestamp_raw": "07 Oct 2019",
+      "keywords": [
+        "travel voucher",
+        "santa monica",
+        "epstein",
+        "witness interviews",
+        "authorization",
+        "e2 solutions",
+        "doj",
+        "email notifications",
+        "trip id",
+        "efta00010817"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00031098",
+            "similarity": 0.538,
+            "index": 63,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023240",
+      "summary": "An email was sent regarding a final voucher prepared by a travel arranger for a trip titled “U.S. v. Epstein - Witness Interviews” to Santa Monica, CA, from September 17th to September 20th, 2019. The voucher total expenses were $2145.79, and the estimated trip cost was $2489.21. The voucher status is pending approval, and links to E2 Solutions for review are provided. The email includes contact information for support and a disclaimer regarding confidential information.",
+      "timestamp": "2019-11-10T00:00:00",
+      "timestamp_raw": "10 Oct 2019",
+      "keywords": [
+        "efta00023240",
+        "voucher",
+        "travel",
+        "review",
+        "santa monica",
+        "u.s. v. epstein",
+        "witness interviews",
+        "e2 solutions",
+        "doj"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021357",
+      "summary": "Travel authorization 10808018 for the purpose of witness interviews related to the U.S. v. Epstein case (R20NYS13180) has been approved. The traveler is OBD-USA-USANYS-NEW YORK SOUTHERN (UNYS) (JO2104). The trip dates are 2019-11-11.  Access information for the E2 Single Sign On and E2 Manual Login systems are provided. The email includes a reference ID# T0006 and a disclaimer regarding confidential information.",
+      "timestamp": "2019-11-11T00:00:00",
+      "timestamp_raw": "2019-11-11",
+      "keywords": [
+        "travel authorization",
+        "efta00021357",
+        "doj",
+        "e2",
+        "witness interviews",
+        "epstein",
+        "2019-11-11",
+        "travel",
+        "u.s. v.",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010356",
+      "summary": "Travel authorization 10810414-1 was approved for a trip to Santa Monica, CA, from November 13-15, 2019, for the purpose of a witness interview (“U.S. v. Epstein”). The trip is linked to Trip ID 1081 and traveler name is redacted. The authorization is currently pending further approval. Relevant login links and contact information for E2Solutions support are provided.",
+      "timestamp": "2019-11-13T00:00:00",
+      "timestamp_raw": "2019-11-13",
+      "keywords": [
+        "travel authorization",
+        "efta00010356",
+        "u.s. v. epstein",
+        "santa monica",
+        "doj",
+        "e2 solutions",
+        "witness interview",
+        "2019-11-13",
+        "2019-11-15",
+        "approval",
+        "email"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00025375",
+            "similarity": 0.571,
+            "index": 79,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00015715",
+      "summary": "An email notification was sent regarding a late travel voucher (Voucher for Trip 10810414) for a witness interview related to the U.S. v. Epstein case. The trip details are: Trip ID: 10810414, Traveler name: [REDACTED], Destination: Santa Monica, Purpose: R20NYS13179, Trip Dates: 2019-11-13 - 2019-11-15, and Current status: Authorization Approved. The email provides instructions for submitting the voucher and marking it as Final if no additional expenses are due. It also includes links to E2 Solutions login portals and contact information for support. The email contains a standard confidentiality disclaimer.",
+      "timestamp": "2019-11-13T00:00:00",
+      "timestamp_raw": "2019-11-13",
+      "keywords": [
+        "voucher",
+        "trip",
+        "santa monica",
+        "efta00015715",
+        "doj",
+        "e2 solutions",
+        "witness interview",
+        "authorization",
+        "reference id",
+        "epstien"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020999",
+      "summary": "Email notification regarding final approval of voucher 10810414-1(1) for a trip to Santa Monica, CA, from November 13-15, 2019, for the purpose of a witness interview related to the U.S. v. Epstein case. The traveler is OBD-USA-USANYS-NEW YORK SOUTHERN (UNYS) (JO2104). The voucher total expenses are $1585.76, and the estimated trip cost is $1947.20. The current status is Voucher Awaiting Payment. Links to E2 Single Sign On and E2 Manual Login are provided.",
+      "timestamp": "2019-11-13T00:00:00",
+      "timestamp_raw": "2019-11-13",
+      "keywords": [
+        "efta00020999",
+        "voucher",
+        "final voucher",
+        "travel",
+        "trip id",
+        "voucher id",
+        "santa monica",
+        "e2",
+        "doj",
+        "payment"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021000",
+      "summary": "Email correspondence regarding the approval of Final Voucher 10810414-1(1) for a witness interview in Santa Monica, CA, related to the U.S. v. Epstein case. The voucher details include a total expense of $1585.76, an estimated trip cost of $1947.20, dates of travel from November 13-15, 2019, and a pending approval status.  Links to E2 Solutions login portals are provided for tracking and support. The email includes a confidentiality disclaimer.",
+      "timestamp": "2019-11-13T00:00:00",
+      "timestamp_raw": "2019-11-13",
+      "keywords": [
+        "efta00021000",
+        "voucher",
+        "approval",
+        "santa monica",
+        "epstein",
+        "witness interview",
+        "2019-11-13",
+        "1585.76",
+        "doj",
+        "e2"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010273",
+      "summary": "Email notification regarding final approval of voucher 10643456-2(1) for a trip to Santa Monica, CA, from September 17-20, 2019, for the purpose of witness interviews in the U.S. v. Epstein case. The voucher details include a traveler name (OBD-USA-USANYS-NEW YORK SOUTHERN), trip ID 10643456-2, voucher ID 1, voucher type F, destination, dates, current status (Awaiting Payment), total expenses ($2152.79), and an estimated trip cost ($2489.21). Links to E2 Single Sign On and Manual Login are provided, along with contact information for E2Solutions support. The email includes a confidentiality disclaimer.",
+      "timestamp": "2019-11-24T00:00:00",
+      "timestamp_raw": "24 Oct 2019",
+      "keywords": [
+        "voucher",
+        "travel",
+        "expenses",
+        "santa monica",
+        "witness",
+        "epstein",
+        "doj",
+        "e2",
+        "payment",
+        "united states"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00025339",
+            "similarity": 0.538,
+            "index": 46,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00025374",
+            "similarity": 0.538,
+            "index": 44,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00026616",
+            "similarity": 0.538,
+            "index": 92,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019903",
+            "similarity": 0.538,
+            "index": 93,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00031716",
+            "similarity": 0.538,
+            "index": 95,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00020997",
+      "summary": "An email was sent on December 6, 2019, regarding Final Voucher 10810414-1(1), which has been approved. The voucher is for a witness interview related to the U.S. v. Epstein case, taking place in Santa Monica, CA, from November 13-15, 2019. The total expenses are $1585.76, with an estimated trip cost of $1947.20. The voucher's current status is pending approval. The email provides login links for E2 Single Sign On and E2 Manual Login, and includes contact information for support and a disclaimer regarding confidential information. The reference ID is V0010.",
+      "timestamp": "2019-12-06T00:00:00",
+      "timestamp_raw": "December 6, 2019",
+      "keywords": [
+        "efta00020997",
+        "voucher",
+        "travel",
+        "santa monica",
+        "u.s. v. epstein",
+        "witness interview",
+        "approval",
+        "doj",
+        "e2 solutions",
+        "expenses"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00010274",
+            "similarity": 0.538,
+            "index": 84,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019906",
+            "similarity": 0.538,
+            "index": 87,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019873",
+            "similarity": 0.538,
+            "index": 88,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00025375",
+      "summary": "Travel authorization 10808018 was approved for witness interviews related to the U.S. v. Epstein case, taking place in Santa Monica, CA, from November 13-15, 2019. The authorization was initiated by [REDACTED] to [REDACTED]. The current status is pending further approval.  Relevant login information for the E2Solutions system is provided.",
+      "timestamp": "2019-12-07T00:00:00",
+      "timestamp_raw": "07 Nov 2019",
+      "keywords": [
+        "travel authorization",
+        "efta00025375",
+        "u.s. v. epstein",
+        "witness interviews",
+        "santa monica",
+        "ca",
+        "doj",
+        "e2 solutions",
+        "approval",
+        "2019-11-13",
+        "2019-11-15"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00010356",
+            "similarity": 0.571,
+            "index": 73,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00023347",
+            "similarity": 0.571,
+            "index": 59,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00023238",
+            "similarity": 0.5,
+            "index": 58,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00019843",
+            "similarity": 0.571,
+            "index": 82,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00030423",
+      "summary": "Travel authorization 10808018 was approved for a trip to Santa Monica, CA, from November 13-15, 2019, for the purpose of witness interviews related to the U.S. v. Epstein case (2018R01618). The authorization is currently pending further approval. Relevant login links for E2 solutions are provided, along with contact information for support and a disclaimer regarding confidential information. Reference ID# T0007 is also included.",
+      "timestamp": "2019-12-08T00:00:00",
+      "timestamp_raw": "08 Nov 2019",
+      "keywords": [
+        "travel authorization",
+        "efta00030423",
+        "u.s. v. epstein",
+        "santa monica",
+        "doj",
+        "e2 solutions",
+        "witness interviews",
+        "approval",
+        "travel",
+        "email",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00023238",
+            "similarity": 0.5,
+            "index": 58,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00025338",
+            "similarity": 0.5,
+            "index": 56,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00024435",
+            "similarity": 0.5,
+            "index": 39,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00019843",
+            "similarity": 0.571,
+            "index": 82,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00010274",
+            "similarity": 0.5,
+            "index": 84,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00021005",
+            "similarity": 0.571,
+            "index": 85,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00030453",
+      "summary": "A final voucher (10894369(1)) for travel expenses related to the “R20NYS 13261 - U.S. v. Epstein - Witness Interviews” trip to Santa Monica, CA, from December 15-17, 2019, is awaiting review. The voucher total is $1256.87, with an estimated trip cost of $1662.95. The email was sent by E2 Solutions to [REDACTED] from [REDACTED].",
+      "timestamp": "2019-12-15T00:00:00",
+      "timestamp_raw": "2019-12-15",
+      "keywords": [
+        "voucher",
+        "travel arranger",
+        "e2 solutions",
+        "santa monica",
+        "u.s. v. epstein",
+        "witness interviews",
+        "2019-12-15",
+        "1256.87",
+        "approval",
+        "efta00030453"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00010274",
+            "similarity": 0.538,
+            "index": 84,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00019843",
+      "summary": "Travel authorization 10893150 was approved for a trip to Santa Monica, CA, from December 15-17, 2019, for the purpose of witness interviews related to the U.S. v. Epstein case. The authorization is pending further approval. The email provides login information for E2 Solutions and includes a disclaimer regarding confidential information. Reference ID# T0007 is also included.",
+      "timestamp": "2019-12-15T00:00:00",
+      "timestamp_raw": "2019-12-15",
+      "keywords": [
+        "travel authorization",
+        "efta00019843",
+        "u.s. v. epstein",
+        "witness interviews",
+        "santa monica",
+        "ca",
+        "doj",
+        "e2 solutions",
+        "email notifications",
+        "approval",
+        "travel"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00030423",
+            "similarity": 0.571,
+            "index": 80,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00025375",
+            "similarity": 0.571,
+            "index": 79,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028782",
+            "similarity": 0.5,
+            "index": 66,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00021005",
+            "similarity": 0.692,
+            "index": 85,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019906",
+            "similarity": 0.5,
+            "index": 87,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019873",
+            "similarity": 0.5,
+            "index": 88,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00030437",
+      "summary": "Travel authorization 10892303 was approved for a trip to Santa Monica, CA, from December 15-17, 2019, for the purpose of a U.S. v. Epstein witness interview. The current status is pending further approval. The email provides instructions for accessing E2Solutions and includes a confidentiality notice.",
+      "timestamp": "2019-12-15T00:00:00",
+      "timestamp_raw": "2019-12-15",
+      "keywords": [
+        "travel authorization",
+        "e2solutions",
+        "u.s. v. epstein",
+        "santa monica",
+        "california",
+        "witness interview",
+        "doj network",
+        "email notifications",
+        "approval",
+        "efta00030437"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010274",
+      "summary": "A final voucher (10894369(1)) for travel expenses related to “U.S. v. Epstein - Witness Interviews” is pending review. The trip occurred from December 15, 2019, to December 17, 2019, in Santa Monica, CA. The voucher total is $1296.43, and the estimated trip cost is $1662.95. Access to the E2 Solutions system is provided via two links: one for DOJ network users and one for general access. The email includes a reference ID# V0012 and a disclaimer regarding confidential information.",
+      "timestamp": "2019-12-15T00:00:00",
+      "timestamp_raw": "December 15, 2019",
+      "keywords": [
+        "voucher",
+        "e2 solutions",
+        "travel arranger",
+        "santa monica",
+        "u.s. v. epstein",
+        "witness interviews",
+        "expenses",
+        "approval",
+        "doj",
+        "email"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00030453",
+            "similarity": 0.538,
+            "index": 81,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00030423",
+            "similarity": 0.5,
+            "index": 80,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00020997",
+            "similarity": 0.538,
+            "index": 78,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00019906",
+            "similarity": 0.538,
+            "index": 87,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019873",
+            "similarity": 0.538,
+            "index": 88,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00026615",
+            "similarity": 0.538,
+            "index": 90,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00021005",
+      "summary": "Travel authorization 10894369 was approved for a trip to Santa Monica, CA, from December 15-17, 2019, for the purpose of witness interviews in the U.S. v. Epstein case. The authorization is currently pending further approval. Relevant login information and contact details for support are provided.",
+      "timestamp": "2019-12-15T00:00:00",
+      "timestamp_raw": "2019-12-15",
+      "keywords": [
+        "travel authorization",
+        "efta00021005",
+        "u.s. v. epstein",
+        "witness interviews",
+        "santa monica",
+        "ca",
+        "doj",
+        "e2 solutions",
+        "email notifications",
+        "redaction analysis",
+        "travel"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00019843",
+            "similarity": 0.692,
+            "index": 82,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00030423",
+            "similarity": 0.571,
+            "index": 80,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028835",
+            "similarity": 0.5,
+            "index": 67,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024509",
+      "summary": "A final voucher (Voucher ID: 1) for $1400.38 has been approved for travel to Santa Monica, CA, from December 15-17, 2019, for the purpose of witness interviews related to the U.S. v. Epstein case (R20NYS 13257). The estimated trip cost was $1907.95. The voucher is currently pending further approval and utilizes the E2 Solutions travel system with provided login links.",
+      "timestamp": "2019-12-15T00:00:00",
+      "timestamp_raw": "2019-12-15",
+      "keywords": [
+        "efta00024509",
+        "voucher",
+        "final voucher",
+        "santa monica",
+        "u.s. v. epstein",
+        "witness interviews",
+        "2019-12-15",
+        "2019-12-17",
+        "e2",
+        "doj"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019906",
+      "summary": "A final voucher (10893150(1)) for travel expenses related to “R20NYS 13257 - U.S. v. Epstein - Witness Interviews” is pending approval. The trip took place from December 15th to 17th, 2019, in Santa Monica, CA, with a total expense of $1360.82 and an estimated trip cost of $1907.95. The email provides login details for accessing the E2 Solutions system for review and includes contact information for support and a disclaimer regarding confidential information.",
+      "timestamp": "2019-12-15T00:00:00",
+      "timestamp_raw": "2019-12-15",
+      "keywords": [
+        "efta00019906",
+        "voucher",
+        "travel",
+        "santa monica",
+        "ca",
+        "e2 solutions",
+        "doj",
+        "expenses",
+        "approval",
+        "witness interviews"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00010274",
+            "similarity": 0.538,
+            "index": 84,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019843",
+            "similarity": 0.5,
+            "index": 82,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00020997",
+            "similarity": 0.538,
+            "index": 78,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00019873",
+            "similarity": 0.818,
+            "index": 88,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00026615",
+            "similarity": 0.818,
+            "index": 90,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00026616",
+            "similarity": 0.538,
+            "index": 92,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00019873",
+      "summary": "Email notification regarding Final Voucher 10893150(1), prepared by etravelsen,ices, is pending review. The voucher details include: Trip ID: 10893150, Voucher ID: 1, Voucher Type: Final, Traveler Name: (blank), Purpose: R20NYS 13257 - U.S. v. Epstein - Witness Interviews, Destination: Santa Monica, CA, Dates: 2019-12-15 - 2019-12-17, Current Status: Pending Voucher Approval, Voucher Total Expenses: $1407.98, Estimated Trip Cost: $1907.95. Login links for E2 Solutions are provided: https://dojnet.doj.gov/jmd/fs/e2-redirect.html and https://e2.gov.cwtsatotravel.com.  The email also includes a reference ID# V0012 and a disclaimer regarding confidential information.",
+      "timestamp": "2019-12-15T00:00:00",
+      "timestamp_raw": "2019-12-15",
+      "keywords": [
+        "efta00019873",
+        "voucher",
+        "travel",
+        "santa monica",
+        "ca",
+        "e2 solutions",
+        "doj",
+        "expenses",
+        "approval",
+        "witness interviews"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00019906",
+            "similarity": 0.818,
+            "index": 87,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00010274",
+            "similarity": 0.538,
+            "index": 84,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019843",
+            "similarity": 0.5,
+            "index": 82,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00026615",
+            "similarity": 0.818,
+            "index": 90,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00026616",
+            "similarity": 0.538,
+            "index": 92,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019907",
+            "similarity": 0.538,
+            "index": 96,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00010330",
+      "summary": "Email correspondence regarding approved voucher 10892303-1(1) for a witness interview related to the U.S. v. Epstein case. The trip took place from December 15th to December 18th, 2019, in Santa Monica, CA, with a total expense of $2227.40 and an estimated trip cost of $2440.58. The email provides login links for E2 Single Sign On and E2 Manual Login, and includes standard disclaimers regarding confidential information and email notification management. The reference ID is V0010.",
+      "timestamp": "2019-12-15T00:00:00",
+      "timestamp_raw": "2019-12-15",
+      "keywords": [
+        "efta00010330",
+        "voucher",
+        "travel",
+        "epstein",
+        "santa monica",
+        "california",
+        "2019-12-15",
+        "2019-12-18",
+        "doj",
+        "e2 solutions"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026615",
+      "summary": "An email was sent from etravelsen,ices to [REDACTED] regarding final voucher 10893150(1) prepared by a travel arranger. The voucher details include: Trip ID 10893150, Voucher ID 1, Voucher type: Final, Traveler name: (blank), Purpose: R20NYS 13257 - U.S. v. Epstein - Witness Interviews, Destination: Santa Monica, CA, Dates: 2019-12-15 - 2019-12-17, Current status: Pending Voucher Approval, Voucher total expenses: 1400.38, and Estimated trip cost: 1907.95. The email provides links to E2 Solutions for review and login instructions. It also includes a reference ID# V0012 and a disclaimer regarding confidential information.",
+      "timestamp": "2019-12-15T00:00:00",
+      "timestamp_raw": "2019-12-15",
+      "keywords": [
+        "efta00026615",
+        "voucher",
+        "travel",
+        "santa monica",
+        "ca",
+        "doj",
+        "e2 solutions",
+        "expenses",
+        "approval",
+        "witness interviews"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00019873",
+            "similarity": 0.818,
+            "index": 88,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00019906",
+            "similarity": 0.818,
+            "index": 87,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00010274",
+            "similarity": 0.538,
+            "index": 84,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00026616",
+            "similarity": 0.538,
+            "index": 92,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019907",
+            "similarity": 0.538,
+            "index": 96,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00025250",
+            "similarity": 0.667,
+            "index": 102,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00019573",
+      "summary": "Travel authorization 10892303-1 for the trip to Santa Monica, CA, from December 15-18, 2019, has been approved. The purpose of the trip was a witness interview related to the U.S. v. Epstein case. The traveler is identified as OBD-USA-USANYS-NEW YORK SOUTHERN (UNYS) (JO2104).  The email provides login information for E2 Solutions and includes standard disclaimers regarding confidential information and email notifications. Reference ID# T0006 is also included.",
+      "timestamp": "2019-12-15T00:00:00",
+      "timestamp_raw": "2019-12-15",
+      "keywords": [
+        "travel authorization",
+        "e2 solutions",
+        "doj",
+        "santa monica",
+        "witness interview",
+        "efta00019573",
+        "travel",
+        "approval",
+        "california",
+        "epstein"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00021006",
+            "similarity": 0.818,
+            "index": 94,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00026616",
+      "summary": "Email notification regarding the final approval of voucher 10893150(1) for a trip to Santa Monica, CA, from December 15-17, 2019, for the purpose of witness interviews in the U.S. v. Epstein case. The voucher total expenses were $1400.38, and the estimated trip cost was $1907.95. The voucher is currently pending approval. Links to E2 Single Sign On and E2 Manual Login are provided.",
+      "timestamp": "2019-12-15T00:00:00",
+      "timestamp_raw": "2019-12-15",
+      "keywords": [
+        "voucher",
+        "approval",
+        "efta00026616",
+        "santa monica",
+        "epstein",
+        "witness interviews",
+        "travel",
+        "expenses",
+        "doj",
+        "e2"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00026615",
+            "similarity": 0.538,
+            "index": 90,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019873",
+            "similarity": 0.538,
+            "index": 88,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019906",
+            "similarity": 0.538,
+            "index": 87,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00019903",
+            "similarity": 0.538,
+            "index": 93,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019907",
+            "similarity": 0.538,
+            "index": 96,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00025250",
+            "similarity": 0.667,
+            "index": 102,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00019903",
+      "summary": "Final voucher 10893150(1) has been approved for a trip to Santa Monica, CA, from December 15-17, 2019. The traveler is OBD-USA-USANYS-NEW YORK SOUTHERN (UNYS) (JO2104) for the purpose of \"R20NYS 13257 - U.S. v. Epstein - Witness Interviews.\" The voucher total expenses are $1400.38, and the estimated trip cost is $1907.95. The voucher’s current status is awaiting payment. Links for E2 Single Sign On and Manual Login are provided.",
+      "timestamp": "2019-12-15T00:00:00",
+      "timestamp_raw": "2019-12-15",
+      "keywords": [
+        "voucher",
+        "travel",
+        "expenses",
+        "santa monica",
+        "usa",
+        "witness interviews",
+        "e2",
+        "doj",
+        "payment",
+        "2019-12-15"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00026616",
+            "similarity": 0.538,
+            "index": 92,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00010273",
+            "similarity": 0.538,
+            "index": 77,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00020987",
+            "similarity": 0.538,
+            "index": 104,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00021006",
+      "summary": "Travel authorization 10892303 for the U.S. v. Epstein witness interview in Santa Monica, CA, has been approved. The authorization covers travel dates from December 15, 2019, to December 17, 2019.  It involves the Minor Customer name OBD-USA-USANYS-NEW YORK SOUTHERN (UNYS) (JO2104) and utilizes the E2 Solutions system with login links provided.  A reference ID# T0006 is associated with the authorization.",
+      "timestamp": "2019-12-15T00:00:00",
+      "timestamp_raw": "December 15, 2019",
+      "keywords": [
+        "travel authorization",
+        "efta00021006",
+        "travel",
+        "approval",
+        "doj",
+        "santa monica",
+        "witness interview",
+        "e2 solutions",
+        "california",
+        "epstein"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00019573",
+            "similarity": 0.818,
+            "index": 91,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031716",
+      "summary": "Email notification regarding final approval for voucher 10892303-1(1) for a trip to Santa Monica, CA, from December 15-18, 2019. The purpose was a witness interview related to the U.S. v. Epstein case. The voucher total expenses were $2227.40, with an estimated trip cost of $2440.58. The current status is awaiting payment. Links to E2 Single Sign On and Manual Login are provided.",
+      "timestamp": "2019-12-15T00:00:00",
+      "timestamp_raw": "2019-12-15",
+      "keywords": [
+        "efta00031716",
+        "voucher",
+        "travel",
+        "payment",
+        "santa monica",
+        "doj",
+        "e2",
+        "witness interview",
+        "epstein",
+        "california"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00010273",
+            "similarity": 0.538,
+            "index": 77,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019907",
+      "summary": "A travel arranger, etravelservices@cwtsatotravel.com, sent an email to (USANYS) regarding final voucher 10893150(1) for a trip to Santa Monica, CA, for the purpose of U.S. v. Epstein - Witness Interviews, from December 15-17, 2019. The voucher total expenses were $1360.82, and the estimated trip cost was $1907.95. The voucher was pending approval and included login links to E2 Solutions for review. The email contained standard disclaimers regarding confidential information and optional email notifications.",
+      "timestamp": "2019-12-18T00:00:00",
+      "timestamp_raw": "December 18, 2019",
+      "keywords": [
+        "efta00019907",
+        "voucher",
+        "travel",
+        "usanys",
+        "e2 solutions",
+        "santa monica",
+        "epstein",
+        "witness interviews",
+        "approval",
+        "expenses"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00026616",
+            "similarity": 0.538,
+            "index": 92,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00026615",
+            "similarity": 0.538,
+            "index": 90,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019873",
+            "similarity": 0.538,
+            "index": 88,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00025250",
+            "similarity": 0.667,
+            "index": 102,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00020987",
+            "similarity": 0.538,
+            "index": 104,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00030424",
+      "summary": "A travel arranger prepared voucher 10810414(1) for a trip to Santa Monica, CA, from November 13-15, 2019, related to the U.S. v. Epstein case. The sender, [REDACTED], flagged the voucher as inaccurate due to incorrect hotel allocation (one night on the travel card instead of the personal card) and the omission of the $70.12 hotel tax paid on the personal card. The voucher details include a total expense of $1517.64 and an estimated trip cost of $1583.95.  The voucher is currently pending approval through the E2 Solutions system.",
+      "timestamp": "2019-12-19T00:00:00",
+      "timestamp_raw": "19 Nov 2019",
+      "keywords": [
+        "voucher",
+        "travel arranger",
+        "e2 solutions",
+        "santa monica",
+        "expenses",
+        "approval",
+        "email",
+        "invoice",
+        "u.s. v. epstein",
+        "travel"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00010274",
+            "similarity": 0.667,
+            "index": 84,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00020997",
+            "similarity": 0.538,
+            "index": 78,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00028115",
+            "similarity": 0.538,
+            "index": 98,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00028115",
+      "summary": "A final voucher (10810414(1)) for a trip related to the U.S. v. Epstein case is pending review. The trip occurred from November 13-15, 2019, in Santa Monica, CA, and involved expenses totaling $1517.64 with an estimated cost of $1583.95. The email was sent by [REDACTED] to [REDACTED] via E2Solutions, providing login instructions and a disclaimer regarding confidential information. Reference ID# V0012 was associated with the voucher.",
+      "timestamp": "2019-12-19T00:00:00",
+      "timestamp_raw": "19 Nov 2019",
+      "keywords": [
+        "efta00028115",
+        "voucher",
+        "travel arranger",
+        "santa monica",
+        "u.s. v. epstein",
+        "witness interview",
+        "e2 solutions",
+        "approval",
+        "expenses",
+        "doj"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00030424",
+            "similarity": 0.538,
+            "index": 97,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00010274",
+            "similarity": 0.667,
+            "index": 84,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00020997",
+            "similarity": 0.667,
+            "index": 78,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025253",
+      "summary": "A voucher (Voucher ID: 1, Voucher Type: Travel) for expenses related to a witness interview (R20NYS13179 - U.S. v. Epstein) in Santa Monica, CA, from November 13-15, 2019, is pending review. The initial voucher incorrectly listed the nightly lodging cost as $248 instead of $247 and failed to include tax. The total expenses were $1517.64, while the estimated trip cost was $1583.95.  Instructions for accessing and reviewing the voucher through E2 Solutions are provided, along with login details and contact information for support.",
+      "timestamp": "2019-12-20T00:00:00",
+      "timestamp_raw": "20 Nov 2019",
+      "keywords": [
+        "voucher",
+        "travel arranger",
+        "e2 solutions",
+        "santa monica",
+        "reimbursement",
+        "hotel tax",
+        "u.s. v. epstein",
+        "witness interview",
+        "efta00025253"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025248",
+      "summary": "A travel voucher (10810414(1)) prepared by a travel arranger is pending review. The voucher includes lodging costs of $247 instead of $248, and lacks the transient occupancy tax refund. The traveler’s stay at the Doubletree by Hilton Santa Monica was for a witness interview (R20N 513179 - U.S. v. Epstein) from November 13-15, 2019.  A request for a refund of the transient occupancy tax has been submitted to Doubletree by Hilton. The voucher total expenses are $1517.64 and the estimated trip cost is $1583.95.",
+      "timestamp": "2019-12-20T00:00:00",
+      "timestamp_raw": "20 Nov 2019",
+      "keywords": [
+        "efta00025248",
+        "voucher",
+        "transient occupancy tax",
+        "doubletree by hilton",
+        "santa monica",
+        "reimbursement",
+        "travel arranger",
+        "e2 solutions",
+        "witness interview",
+        "expenses"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025246",
+      "summary": "A final voucher (10810414(1)) prepared by a travel arranger for a trip related to the U.S. v. Epstein case is pending review. The initial invoice contained incorrect lodging costs ($248 instead of $247) and lacked the LA County tax exemption. The traveler’s details include the trip purpose, destination, dates, and total expenses ($1517.64) compared to an estimated cost of $1583.95.  The email provides links to E2 Solutions for review and instructions for accessing the system, alongside contact information and a disclaimer regarding confidential information.",
+      "timestamp": "2019-12-20T00:00:00",
+      "timestamp_raw": "20 Nov 2019",
+      "keywords": [
+        "voucher",
+        "travel arranger",
+        "e2 solutions",
+        "santa monica",
+        "tax exemption",
+        "reimbursement",
+        "final voucher",
+        "trip cost",
+        "efta00025246",
+        "witness interview"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025250",
+      "summary": "A final voucher (10808018(1)) for travel expenses related to the R20NYS 13180 – U.S. v. Epstein (2018R01618) - Witness Interviews trip is pending review. The trip took place in Santa Monica, CA, from November 13th to 15th, 2019, with a total expense of $932.39 and an estimated trip cost of $1219.95. The email provides login information for E2 Solutions and instructions on managing email notifications. Reference ID# V0012 is associated with the voucher.",
+      "timestamp": "2019-12-21T00:00:00",
+      "timestamp_raw": "21 Nov 2019",
+      "keywords": [
+        "efta00025250",
+        "voucher",
+        "travel",
+        "approval",
+        "expenses",
+        "santa monica",
+        "doj",
+        "e2 solutions",
+        "witness interviews",
+        "epstein"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00019907",
+            "similarity": 0.667,
+            "index": 96,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00026616",
+            "similarity": 0.667,
+            "index": 92,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00026615",
+            "similarity": 0.667,
+            "index": 90,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00020987",
+            "similarity": 0.667,
+            "index": 104,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00021157",
+      "summary": "An email notification was sent regarding a late travel voucher (Trip ID: 10810414) for a trip to Santa Monica, November 13-15, 2019, related to the U.S. v. Epstein - Witness Interview. The voucher status is Authorization Approved, and instructions are provided for submitting the voucher and marking it as Final. Links to E2 Single Sign On and Manual Login are included, along with contact information for E2Solutions support. The email includes a reference ID# V0013 and a disclaimer regarding confidential information.",
+      "timestamp": "2019-12-24T00:00:00",
+      "timestamp_raw": "24 Nov 2019",
+      "keywords": [
+        "travel voucher",
+        "santa monica",
+        "witness interview",
+        "e2 solutions",
+        "doj",
+        "authorization",
+        "e2 login",
+        "reference id",
+        "epstein",
+        "travel services"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020987",
+      "summary": "Email correspondence regarding approved voucher 10808018(1) for witness interviews related to the U.S. v. Epstein case, held in Santa Monica, CA, from November 13-15, 2019. The voucher total expenses were $967.45, and the estimated trip cost was $1219.95. The voucher is currently pending approval. Links to E2 Single Sign On and E2 Manual Login are provided. The email contains standard disclaimers regarding confidential information and email notification management.",
+      "timestamp": "2019-12-25T00:00:00",
+      "timestamp_raw": "25 Nov 2019",
+      "keywords": [
+        "voucher",
+        "approval",
+        "travel",
+        "expenses",
+        "santa monica",
+        "efta00020987",
+        "epstein",
+        "witness interviews",
+        "doj",
+        "e2"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00025250",
+            "similarity": 0.667,
+            "index": 102,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019907",
+            "similarity": 0.538,
+            "index": 96,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019903",
+            "similarity": 0.538,
+            "index": 93,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010355",
+      "summary": "Travel authorization 10810414-1 was approved for a witness interview related to the U.S. v. Epstein case, taking place in Santa Monica, CA, from November 13th to 15th, 2019. The authorization is pending further approval. Relevant login links and contact information for E2Solutions support are provided. Reference ID# T0007.",
+      "timestamp": "2019-12-26T00:00:00",
+      "timestamp_raw": "26 Nov 2019",
+      "keywords": [
+        "travel authorization",
+        "efta00010355",
+        "u.s. v. epstein",
+        "witness interview",
+        "santa monica",
+        "ca",
+        "doj",
+        "e2 solutions",
+        "email notifications",
+        "approval",
+        "pending authorization"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00019843",
+            "similarity": 0.571,
+            "index": 82,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00023347",
+            "similarity": 0.571,
+            "index": 59,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00023238",
+            "similarity": 0.5,
+            "index": 58,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031826",
+      "summary": "Email notification regarding final approval of voucher 10894369(1) for a trip to Santa Monica, CA, from December 15-17, 2019, for the purpose of witness interviews in the U.S. v. Epstein case. The traveler is OBD-USA-USANYS-NEW YORK SOUTHERN (UNYS) (JO2104). The voucher total is $1296.43, with an estimated trip cost of $1662.95. The voucher’s current status is awaiting payment. Links to E2 Single Sign On and E2 Manual Login are provided.",
+      "timestamp": "2020-01-10T00:00:00",
+      "timestamp_raw": "10 Jan 2020",
+      "keywords": [
+        "voucher",
+        "final approval",
+        "trip id",
+        "voucher id",
+        "traveler name",
+        "purpose",
+        "destination",
+        "dates",
+        "e2",
+        "payment"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026808",
+      "summary": "An email chain initiated on October 14, 2020, requests the creation of five saved searches related to the “U.S. v. Epstein (SW Returns)” relativity database. The searches target email addresses EFTA00026808 and EFTA00026809, and also includes searches for documents containing the words “Maxwell” or “Ghislaine.” A follow-up email on October 9, 2020, confirms the creation of the saved searches and provides contact information for the Southern District of New York United States Attorney. Two redactions are present in the document.",
+      "timestamp": "2020-10-14T00:00:00",
+      "timestamp_raw": "October 14, 2020",
+      "keywords": [
+        "relativity",
+        "saved searches",
+        "email",
+        "efta00026808",
+        "epstein",
+        "ghislaine",
+        "maxwell",
+        "search requests",
+        "us attorney",
+        "new york"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    }
+  ]
+}

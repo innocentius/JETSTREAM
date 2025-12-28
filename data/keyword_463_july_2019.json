@@ -1,0 +1,1008 @@
+{
+  "keyword": "july 2019",
+  "count": 29,
+  "keyword_match_count": 29,
+  "content_match_count": 12,
+  "total_files": 41,
+  "timeline": [
+    {
+      "file_id": "EFTA00036112",
+      "summary": "In July 2019, NYM - MCC New York (Northeast Region) processed 345 minor work orders, with 39.31% processed exceeding 7 days. There were zero pending work orders exceeding 7 days. Twelve preventive work orders and twelve planned event work orders were generated. Eighty-six BF projects were active with 525 completed, 12 completed in the last 12 months, and 12 exceeding 45 days. Thirty-two active PMs were past cycle, with a completion percentage of 26.20%. Nine active PEs were past cycle, with a completion percentage of 54.58%. One work order over $10,000 was active. The last program review was conducted on 12/22/2016 with a rating of 1 (Superior). The last operational review was conducted on 8/1/2018 to 7/31/2019, and the next review is due 10/22/2019 - 02/22/2020.",
+      "timestamp": "2016-12-22T00:00:00",
+      "timestamp_raw": "12/22/2016",
+      "keywords": [
+        "efta00036112",
+        "monthly facility report",
+        "nym mcc new york",
+        "work orders",
+        "preventive work orders",
+        "planned event work orders",
+        "bf projects",
+        "minor work orders",
+        "pm completion %",
+        "pe completion %",
+        "program review"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014522",
+      "summary": "An email exchange occurred between (USANYS) and an unknown recipient regarding a rescheduled call about \"CAFIs/Epstein.\" The call was originally scheduled for Friday but moved to Monday at 2:00 PM. Dial-in information was not yet available but would be circulated via a calendar invite.",
+      "timestamp": "2019-07-01T00:00:00",
+      "timestamp_raw": "01 Jul 2019",
+      "keywords": [
+        "efta00014522",
+        "usanys",
+        "cafis",
+        "epstein",
+        "redaction",
+        "call",
+        "july 2019",
+        "calendar invite",
+        "rescheduled",
+        "monday"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00010584",
+            "similarity": 0.5,
+            "index": 3,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00010465",
+      "summary": "Geoffrey Berman (USANYS) requested a copy of the indictment (referred to as “JE, first indictment.docx”) from an unknown recipient. The attachment was provided on July 1, 2019, and was subject to a final proof-read.",
+      "timestamp": "2019-07-01T00:00:00",
+      "timestamp_raw": "July 1, 2019",
+      "keywords": [
+        "efta00010465",
+        "redaction",
+        "geoffrey berman",
+        "indictment",
+        "proof-read",
+        "usanys",
+        "copy",
+        "july 2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010584",
+      "summary": "El will not attend a call originally scheduled for Friday concerning CAFIs/Epstein. The call is being rescheduled for Monday at 2:00 PM. Dial-in information will be circulated via a calendar invite.",
+      "timestamp": "2019-07-01T00:00:00",
+      "timestamp_raw": "01 Jul 2019",
+      "keywords": [
+        "efta00010584",
+        "cafis",
+        "epstein",
+        "redaction",
+        "usanys",
+        "call",
+        "calendar",
+        "july 2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00014522",
+            "similarity": 0.5,
+            "index": 1,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024820",
+      "summary": "An email was accepted titled “Accepted: Epstein Press Meeting” dated July 1, 2019, with the subject “Epstein Press Meeting.” The email is identified as EFTA00024820. It included an unnamed attachment.",
+      "timestamp": "2019-07-01T00:00:00",
+      "timestamp_raw": "July 1, 2019",
+      "keywords": [
+        "epstein",
+        "press meeting",
+        "efta00024820",
+        "accepted",
+        "july 2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010464",
+      "summary": "An email was sent from [REDACTED] (USANYS) to [REDACTED] (USANYS) on July 2, 2019, regarding unit updates. The email, attached as PC_Unitr_Short_Form_Update.7.2.19.docx, requested that recipients submit their updates immediately due to a reminder about upcoming deadlines.",
+      "timestamp": "2019-07-02T00:00:00",
+      "timestamp_raw": "July 2, 2019",
+      "keywords": [
+        "efta00010464",
+        "unit updates",
+        "usanys",
+        "redaction",
+        "july 2019",
+        "updates",
+        "submitting",
+        "reminders",
+        "attachments",
+        "pc_unitr"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021270",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] on July 2, 2019, regarding a “true bill” from a grand jury. The subject was “Rh. Epstein draft press materials.” The sender expressed enthusiasm and a forward-looking perspective, thanking recipients. Document EFTA00021271, EFTA00021272 are also referenced.",
+      "timestamp": "2019-07-02T00:00:00",
+      "timestamp_raw": "July 2, 2019",
+      "keywords": [
+        "efta00021270",
+        "redaction",
+        "press materials",
+        "grand jury",
+        "rh. epstein",
+        "july 2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038099",
+      "summary": "An FBI New York Special Agent (VCAC/Human Trafficking) sent an “Ops Order” email dated July 3, 2019, to the Exchange Administrative Group. The email included attachments: Epstein_Op_Order.pdf and Epstein_Op_Order 2.pdf. The recipient's email address is 72708F8BC5354F44958B87907FFOBCDB. The email’s subject line is “Ops Order”.",
+      "timestamp": "2019-07-03T00:00:00",
+      "timestamp_raw": "July 3, 2019",
+      "keywords": [
+        "efta00038099",
+        "fbi",
+        "new york",
+        "trafficking",
+        "ops order",
+        "redaction",
+        "exchangelabs",
+        "recipients",
+        "july 2019",
+        "pdf"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032583",
+      "summary": "Key highlights include: *   **Cravath & Swaine's NYU Ties:** A New York court rejected a bid for a new trial in an ERISA class action against New York University, citing a lack of bias. *   **LexisNexis Settlement:** LexisNexis Risk Solutions reached a $5.8 million settlement with states over withheld fees from law enforcement agencies. *   **Ed Sheeran Trial Delay:** The Ed Sheeran copyright trial was postponed due to a Ninth Circuit ruling on the Led Zeppelin case. *   **Various Litigation Updates:** Several other cases are covered, including: a Montana rancher fraud case, a Second Circuit ruling on asylum for a Chinese woman, a New York doctor convicted of opioid fraud, state attorneys general urging the CFPB to maintain overdraft rules, investigations into Facebook housing ads, a recycling bin case involving an insurer, a truck crash coverage dispute, a Barilla class action dismissal, a California business owner suing the NBA for stolen app ideas, and various cases related to bankruptcy, intellectual property, employment, and banking. *   **Firm News and Job Listings:** The document also includes news about Cooley LLP, Pierce Bainbridge, and Wilson Sonsini, along with several job listings from Schoen Legal Search. *   **Legal Industry Analysis:** An opinion piece discusses the decline in large law firm mergers. The document appears to be a snapshot of legal news focused on a diverse range of industries and legal matters.",
+      "timestamp": "2019-07-03T00:00:00",
+      "timestamp_raw": "03 Jul 2019",
+      "keywords": [
+        "cravath swaine",
+        "nyu",
+        "erisa",
+        "new trial",
+        "judge",
+        "lexisnexis",
+        "ed sheeran",
+        "fraud",
+        "asylum",
+        "oxycodone",
+        "overdraft rule",
+        "facebook housing advertisers",
+        "recycling bin",
+        "truck crash coverage",
+        "barilla",
+        "intellectual property",
+        "nba",
+        "mont. cattle rancher",
+        "nyc doc",
+        "state ags",
+        "cfpb",
+        "sheeran trial",
+        "insurance",
+        "second circuit",
+        "law firms",
+        "merger",
+        "jobs"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038048",
+      "summary": "An FBI New York agent (SA) requested a manifest (TravelerList-8226863899.pdf) related to an arrest warrant (EFTA00038048). The email chain discusses the attachment of both documents.",
+      "timestamp": "2019-07-05T00:00:00",
+      "timestamp_raw": "05 Jul 2019",
+      "keywords": [
+        "arrest",
+        "fbi",
+        "manifest",
+        "warrant",
+        "efta00038048",
+        "pdf",
+        "redaction",
+        "new york",
+        "july 2019",
+        "sa"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037364",
+      "summary": "An email chain discusses transporting Jeffrey Epstein, with one party offering a truck and another requesting transport in the morning due to anticipated FBI activity. The email includes references to the New York (NY) FBI and an FBI redaction.",
+      "timestamp": "2019-07-07T00:00:00",
+      "timestamp_raw": "07 Jul 2019",
+      "keywords": [
+        "epstein",
+        "transport",
+        "fbi",
+        "ny",
+        "truck",
+        "redaction",
+        "swear",
+        "july 2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030174",
+      "summary": "An email chain discusses Jeffrey Epstein’s arrest for sex trafficking, referencing a New York Times article about the arrest. The email includes messages from multiple redacted individuals and expresses confirmation of the subject matter.",
+      "timestamp": "2019-07-07T00:00:00",
+      "timestamp_raw": "07 Jul 2019",
+      "keywords": [
+        "epstein",
+        "redaction",
+        "analysis",
+        "july 2019",
+        "new york times",
+        "sex trafficking"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030818",
+      "summary": "An email was sent from an Assistant United States Attorney in the Southern District of New York to multiple recipients regarding document EFTA00030818. The email includes a rough draft attached, with minor edits to a rider and bullet points added as reminders. The sender requests a review and input due to a quick turnaround requested by the FBI, noting uncertainty about the scope of the search.",
+      "timestamp": "2019-07-07T00:00:00",
+      "timestamp_raw": "07 Jul 2019",
+      "keywords": [
+        "efta00030818",
+        "redaction analysis",
+        "fbi",
+        "united states attorney",
+        "new york",
+        "draft",
+        "rider",
+        "search",
+        "review",
+        "july 2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030819",
+      "summary": "An email was sent from \"I l\" to le . alMME on July 8, 2019, with the subject \"counsel call.\" The email is attached as \"unnamed\" and identified as EFTA00030819.",
+      "timestamp": "2019-07-08T00:00:00",
+      "timestamp_raw": "July 8, 2019",
+      "keywords": [
+        "efta00030819",
+        "counsel call",
+        "redacted analysis",
+        "july 2019",
+        "imie",
+        "almme"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018150",
+      "summary": "A supervisory deputy with the U.S. Marshal’s Office – Southern District of New York is requesting information regarding the presentment of a case (referenced as “Epstein”) and is looping in an AUSA to forward the information to the Marshal.",
+      "timestamp": "2019-07-08T00:00:00",
+      "timestamp_raw": "08 Jul 2019",
+      "keywords": [
+        "epstein",
+        "u.s. marshal",
+        "redaction analysis",
+        "ausa",
+        "southern district of new york",
+        "presentment",
+        "case",
+        "forward",
+        "july 2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028379",
+      "summary": "On July 9, 2019, Douglas Bloom sent an email to an individual (identified as “[REDACTED]”) congratulating them on taking on the Epstein case. Bloom expressed hope that all was well with the recipient.  The email thread is dated July 8, 2019, with a similar message from Bloom to the same recipient.",
+      "timestamp": "2019-07-09T00:00:00",
+      "timestamp_raw": "July 9, 2019",
+      "keywords": [
+        "epstein",
+        "redaction",
+        "efta00028379",
+        "doug bloom",
+        "july 2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032700",
+      "summary": "Multiple emails are exchanged regarding a meeting with a client, potentially related to a legal matter involving “Epstein.” A lawyer, Joe from Ross Amsel Raben Nascimento, PLLC, contacted an Assistant U.S. Attorney to assist with a subpoena related to a former partner, Alan Ross, who passed away in 2018. The lawyer requests a meeting with the Assistant U.S. Attorney on Tuesday, offering alternative times for a discussion. The emails include contact information for individuals and the firm.",
+      "timestamp": "2019-07-09T00:00:00",
+      "timestamp_raw": "09 Jul 2019",
+      "keywords": [
+        "efta00032700",
+        "joe",
+        "alan ross",
+        "epstein",
+        "miami",
+        "florida",
+        "july 2019",
+        "subpoena",
+        "u.s. attorney",
+        "tuesday"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021195",
+      "summary": "An email exchange occurred between two individuals, one a Special Assistant United States Attorney from the Eastern District of Virginia and another individual, regarding the Epstein case. The first email expresses excitement about the recipient's work on the case and general well-being. The second email confirms the recipient’s work on the case and expresses positive sentiment.",
+      "timestamp": "2019-07-09T00:00:00",
+      "timestamp_raw": "09 Jul 2019",
+      "keywords": [
+        "efta00021195",
+        "edva",
+        "epstein",
+        "united states attorney",
+        "virginia",
+        "redaction",
+        "case",
+        "july 2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035672",
+      "summary": "Inmate EFTA00035672 is under Suicide Watch and Psych Observation. Specifically, inmate Stein #76318-054 is under Psych Observation. The update was sent on July 9, 2019, from [REDACTED].",
+      "timestamp": "2019-07-09T00:00:00",
+      "timestamp_raw": "July 9, 2019",
+      "keywords": [
+        "suicide watch",
+        "psych observation",
+        "inmate",
+        "efta00035672",
+        "redaction",
+        "forensic",
+        "update",
+        "observation",
+        "july 2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028351",
+      "summary": "On July 9, 2019, [REDACTED] shared transcripts related to an \"epstein\" subject with [REDACTED] and Goretti Moya (gmoyapsdreporters.com). Goretti Moya acknowledged receipt of the information on July 8, 2019.",
+      "timestamp": "2019-07-09T00:00:00",
+      "timestamp_raw": "July 9, 2019",
+      "keywords": [
+        "epstein",
+        "redaction",
+        "transcripts",
+        "emails",
+        "goretti moya",
+        "shared",
+        "july 2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028315",
+      "summary": "On July 9, 2019, an individual (identified as “rote”) received a call from a female who identified herself as having information about Jeffrey Epstein. This followed previous communications regarding “issues” and a potential victim. The email chain involved multiple individuals and referenced the case number EFTA00028315.",
+      "timestamp": "2019-07-09T00:00:00",
+      "timestamp_raw": "July 9, 2019",
+      "keywords": [
+        "efta00028315",
+        "victim",
+        "redaction",
+        "issues",
+        "epstein",
+        "phone call",
+        "cso",
+        "july 2019",
+        "female",
+        "information"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00037848",
+            "similarity": 0.583,
+            "index": 21,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037848",
+      "summary": "An email chain discusses a potential victim with information about Jeffrey Epstein. A phone call was received from an individual identified by the reference number EFTA00037848. The sender intended to discuss the matter further the following day.",
+      "timestamp": "2019-07-09T00:00:00",
+      "timestamp_raw": "09 Jul 2019",
+      "keywords": [
+        "efta00037848",
+        "victim",
+        "epstein",
+        "redaction",
+        "cso",
+        "telephone",
+        "information",
+        "female",
+        "july 2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00028315",
+            "similarity": 0.583,
+            "index": 20,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030187",
+      "summary": "Raymond L Colon sent an email to [REDACTED] congratulating them on the Epstein case. [REDACTED] responded with a thank you and appreciation.",
+      "timestamp": "2019-07-09T00:00:00",
+      "timestamp_raw": "09 Jul 2019",
+      "keywords": [
+        "efta00030187",
+        "raymond l colon",
+        "epstein",
+        "congratulations",
+        "redaction",
+        "analysis",
+        "job",
+        "case",
+        "july 2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029523",
+      "summary": "On July 10, 2019, an FBI agent (USANYS) contacted an FBI agent (NY) regarding a follow-up to a meeting about Jeffrey Epstein. The initial contact was made via phone and requested a call from another FBI agent (NY) named [REDACTED].",
+      "timestamp": "2019-07-10T00:00:00",
+      "timestamp_raw": "July 10, 2019",
+      "keywords": [
+        "epstein",
+        "fbi",
+        "ny",
+        "redaction",
+        "usanys",
+        "call",
+        "meeting",
+        "july 2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00022361",
+      "summary": "On July 11, 2019, Adam Johnson, a Supervisory Staff Attorney, sent a revised subpoena to Stephanie Scannell and Eric Blachman, requesting email correspondence from inmate Jeffrey Epstein (76318-054) between July 6, 2019, and July 11, 2019. The subpoena excluded communications between Epstein and Marc Fernich, Weinberg I, and Reid Weingarten. The original subpoena was deemed incorrect due to missing attorney contact information. The return date for the subpoena was set for July 12, 2019.",
+      "timestamp": "2019-07-11T00:00:00",
+      "timestamp_raw": "July 11, 2019",
+      "keywords": [
+        "epstein",
+        "subpoena",
+        "emails",
+        "attorney",
+        "jeffrey epstein",
+        "marc fernich",
+        "reid weingarten",
+        "new york",
+        "united states attorney",
+        "july 2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00028334",
+            "similarity": 0.667,
+            "index": 25,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00028334",
+      "summary": "A subpoena was issued on July 11, 2019, requesting recordings of Jeffrey Epstein’s phone calls, excluding those involving attorneys. Simultaneously, a written request was made for Jeffrey Epstein’s email correspondence from July 6, 2019, through July 11, 2019, excluding emails exchanged with Marc Fernich, Martin Weinberg, and Reid Weingarten. The subpoena’s return date was set for July 12, 2019.",
+      "timestamp": "2019-07-11T00:00:00",
+      "timestamp_raw": "July 11, 2019",
+      "keywords": [
+        "epstein",
+        "subpoena",
+        "emails",
+        "jeffrey epstein",
+        "redaction",
+        "july 2019",
+        "attorney",
+        "marc fernich",
+        "martin weinberg",
+        "reid weingarten"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00022361",
+            "similarity": 0.667,
+            "index": 24,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024823",
+      "summary": "Modification P00005, including additional task orders and funds, has been added to order EFTA00024823 for the 15JA5418F00000299 file. The modification was generated on July 11, 2019, by the FAC-CJCOR HI Contract Specialist.",
+      "timestamp": "2019-07-11T00:00:00",
+      "timestamp_raw": "July 11, 2019",
+      "keywords": [
+        "modification",
+        "15ja5418f00000299",
+        "order",
+        "funds",
+        "contract",
+        "efta00024823",
+        "task order",
+        "pdf",
+        "july 2019",
+        "fac-cjcor"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020768",
+      "summary": "An email exchange occurred between two individuals (identified as “’” and “’t”) regarding the Epstein case. One sender expresses gratitude for assistance and acknowledges a challenging process with a positive outcome, congratulating the recipient on their trial win. The other sender offers direct congratulations on the case’s significance and the recipient’s work, describing it as “unbelievable.” The emails were sent on July 12th and July 14th, 2019.",
+      "timestamp": "2019-07-14T00:00:00",
+      "timestamp_raw": "14 Jul 2019",
+      "keywords": [
+        "epstein",
+        "redaction",
+        "analysis",
+        "efta00020768",
+        "usanys",
+        "trial win",
+        "congratulations",
+        "emails",
+        "july 2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020922",
+      "summary": "On July 15, 2019, an Assistant U.S. Attorney from the Southern District of New York inquired about a contact at Amazon regarding an overdue subpoena for Jeffrey Epstein.  A subsequent email exchange occurred on July 16, 2019, where the Attorney received a subpoena from another Assistant U.S. Attorney, who confirmed they did not have a direct contact at Amazon. A PDF subpoena was attached to the second email.",
+      "timestamp": "2019-07-15T00:00:00",
+      "timestamp_raw": "July 15, 2019",
+      "keywords": [
+        "amazon",
+        "subpoena",
+        "usanys",
+        "cybercrime",
+        "epstein",
+        "redaction",
+        "contact",
+        "july 2019",
+        "overdue",
+        "assistant u.s. attorney"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021396",
+      "summary": "A series of emails exchange communication regarding a subpoena. One party (likely a U.S. Attorney) is requesting flight manifests, flight plans, and other travel records related to Jeffrey Epstein, specifically focusing on passenger manifests, observations of young women on flights, and information about Epstein’s employees. The U.S. Attorney is proposing to temporarily suspend the subpoena return date to allow for attorney proffer information or a voluntary interview. The emails include offers to call and provide contact information for the team.",
+      "timestamp": "2019-07-30T00:00:00",
+      "timestamp_raw": "30 Jul 2019",
+      "keywords": [
+        "subpoena",
+        "flight manifests",
+        "flight plans",
+        "grand jury",
+        "attorney proffer",
+        "epstein",
+        "july 2019",
+        "u.s. attorney",
+        "legal issues",
+        "travel records"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019938",
+      "summary": "This document is a series of email exchanges between Joe Nascimento, an attorney with ROSS AMSEL RABEN NASCIMENTO, PLLC, and an Assistant U.S. Attorney regarding a case involving a former client, likely connected to Epstein. The core of the communication revolves around scheduling a meeting to discuss the client’s desire for a passport and clarification of compensation received from Epstein. Initially, the Assistant U.S. Attorney suggests Tuesday morning, prompting Nascimento to propose an earlier time on Tuesday. Nascimento also informs the Assistant U.S. Attorney that his former partner, Alan Ross, has been subpoenaed and he needs time to investigate the situation. Details about Epstein's payments to the client and the passport situation are repeatedly discussed, along with logistical arrangements for meetings in Miami, Florida. There are redactions throughout the document, indicating sensitive information is being concealed.",
+      "timestamp": "2019-08-08T00:00:00",
+      "timestamp_raw": "08 Aug 2019",
+      "keywords": [
+        "efta00019938",
+        "passport",
+        "travel",
+        "meeting",
+        "scheduling",
+        "attorney",
+        "compensation",
+        "epstein",
+        "florida",
+        "july 2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030457",
+      "summary": "This document contains inmate history and data related to Jeffrey Edward Epstein (76318-054) at the Metropolitan Correctional Center (MCC) New York. It includes: *   **Inmate History:** A detailed record of his housing assignments (rooms and beds) from July 2019 through August 10, 2019, with dates and times of assignments. *   **Category:** QTR (likely meaning quarters), indicating a standard housing assignment. *   **Function:** FCL (likely referring to a specific function or program). *   **Discipline Data:** A chronological record of disciplinary actions (though none exist within the timeframe covered). *   **Security/Designation Data:** Information regarding his security level (W/M/66), offense (sex trafficking of minors), and custody classification, including his medical and psychological status. *   **Inmate Profile:** A comprehensive profile detailing his personal information (birthdate, address, etc.), program assignments, and other relevant details. *   **TRUVIEW Report:** A report documenting his interactions, including money received and sent, calls, and visits, from May 11, 2020. The document appears to be part of a larger system for tracking inmate information within the Federal Bureau of Prisons.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "inmate",
+        "jeffrey edward epstein",
+        "efta00030457",
+        "ncrbm",
+        "quarters",
+        "fcl",
+        "assignment",
+        "history",
+        "dates",
+        "nym",
+        "house",
+        "range",
+        "bed",
+        "206l",
+        "sex trafficking",
+        "cya",
+        "discipline",
+        "security",
+        "designation",
+        "custody",
+        "category",
+        "mental health",
+        "education",
+        "finance",
+        "religion",
+        "metropolitan correctional center",
+        "usm",
+        "doc"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021794",
+      "summary": "This document details a series of communications between Joe Nascimento, Esq. of ROSS AMSEL RABEN NASCIMENTO, PLLC, and an unidentified recipient (“r’”) regarding an investigation, likely involving Ghislaine Maxwell. The communications span from July 2020 to July 2019, with discussions about scheduling meetings, providing information, and updates on the investigation’s progress. Key points include Nascimento’s approval for sharing information, ongoing communication regarding the status of the investigation, and logistical arrangements for meetings in Miami, Florida, often involving the Hilton in West Palm Beach. There are multiple redactions throughout the document, obscuring specific details.",
+      "timestamp": "2020-07-02T00:00:00",
+      "timestamp_raw": "02 Jul 2020",
+      "keywords": [
+        "nascimento",
+        "epstein",
+        "investigation",
+        "ghislaine",
+        "communication",
+        "cooperation",
+        "arrest",
+        "florida",
+        "legal",
+        "email"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00011172",
+      "summary": "A security consultant with 25 years of military and 10 years of security industry experience, including experience protecting high-value individuals and global assets, provided security services to Ghislaine Maxwell from approximately July 2019 to her arrest in July 2020. This included responding to threats, harassment from the press, and physical threats. On July 2, 2020, the consultant reported a helicopter and vehicle presence near Maxwell’s residence in Bradford, New Hampshire, initiating security protocols. Federal agents subsequently detained the consultant and questioned him while Maxwell requested care for her pets.  Due to the circumstances, the consultant is posting a $1 million bond for Maxwell’s bail application.",
+      "timestamp": "2020-07-02T00:00:00",
+      "timestamp_raw": "July 2, 2020",
+      "keywords": [
+        "security consultant",
+        "ghislaine maxwell",
+        "risk assessment",
+        "threats",
+        "press intrusion",
+        "safe room",
+        "bail",
+        "fbi",
+        "security protocols",
+        "security services"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00011526",
+      "summary": "On March 1, 2021, attorneys Mariann Wang and Gloria Allred provided an attorney proffer to the U.S. Attorney’s Office (AUSA S) regarding information their client had disclosed since 2020 interviews with the SDNY and FBI. The client had subsequent interactions with Jeffrey Epstein between December 2018 and July 2019, including being lured to Paris and Florida with offers of employment, leaving Epstein, and Epstein offering help through another woman. The client took up this offer and traveled to New York with Epstein, and experienced sexual abuse in Florida and the Virgin Islands. The client also visited Epstein’s Paris apartment and interacted with Epstein around the time of his arrest, where he requested assistance finding girls for him, including a meeting with a young woman in Russia.",
+      "timestamp": "2021-03-01T00:00:00",
+      "timestamp_raw": "March 1, 2021",
+      "keywords": [
+        "efta00011526",
+        "attorney proffer",
+        "gloria allred",
+        "mariann wang",
+        "epstein",
+        "sdufbi",
+        "paris",
+        "florida",
+        "sexual abuse",
+        "2021-03-01"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00009834",
+      "summary": "Nascimento, Esq., of ROSS AMSEL RABEN NASCIMENTO, PLLC, and various individuals, primarily related to scheduling a call and potentially an interview with a client (likely connected to an investigation).  The initial requests started on April 16, 2021, regarding a meeting with “M” to discuss scheduling an interview with her client. Subsequent communications (March 8, 2021, and ongoing through July 2019) involve confirming availability, discussing logistics, including travel plans due to weather, and sharing updates regarding the ongoing investigation.  Several individuals, including a U.S. Attorney and a former partner of a deceased individual involved in the case, are involved in the communications.  There are redactions present throughout the entire document, obscuring details and likely sensitive information. The conversations center around coordinating times for calls and meetings, confirming client availability, and providing updates on the investigation.",
+      "timestamp": "2021-04-16T00:00:00",
+      "timestamp_raw": "April 16, 2021",
+      "keywords": [
+        "redaction",
+        "analysis",
+        "efta00009834",
+        "miami",
+        "florida",
+        "joe nascimento",
+        "9:30 a.m.",
+        "interview",
+        "video conference",
+        "investigation",
+        "criminal lawfirm"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019183",
+      "summary": "This document pertains to follow-up discussions regarding Jeffrey Epstein’s activities in New Mexico, specifically focusing on potential criminal investigations by the U.S. Attorney’s Office for the Southern District of New York (SDNY) and the New Mexico Attorney General’s Office.  The communications detail scheduling a conference call (EFTA00019183) to discuss the matter, with multiple individuals requesting and confirming availability.  Key points include: *   **Initial Inquiry:** The initial request for a call originated from a USANYS attorney seeking information about deadlines and reporting timelines regarding the Epstein case and specifically Epstein’s activities on Zorro Ranch in New Mexico. *   **NM AG Involvement:** The New Mexico Attorney General’s Office is independently investigating potential crimes related to Epstein’s activities on the property and coordinating with the SDNY. *   **Scheduling Conflicts & Confirmation:** Multiple individuals (USANYS attorneys, assistants) exchanged emails to coordinate a call, confirming availability on various dates, primarily focusing on Thursday, September 12th at 1:30 MT / 3:30 ET. *   **Information Sharing:**  The discussions involve sharing information about the state’s investigation, leases being revoked, and the potential for criminal charges. *   **Ongoing Coordination:** Despite a pause in communication in July 2019, the parties maintain ongoing coordination through email correspondence and the scheduled conference call.",
+      "timestamp": "2021-05-07T00:00:00",
+      "timestamp_raw": "07 May 2021",
+      "keywords": [
+        "redaction",
+        "efta00019183",
+        "follow up call",
+        "new mexico",
+        "epstein",
+        "pio",
+        "conference call",
+        "press contacts",
+        "reporting",
+        "investigation",
+        "time"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00017849",
+      "summary": "This document is a redacted collection of emails and communications related to a legal case (referenced as “EFTA00017849”) involving a U.S. Attorney’s office and Ross Amsel Raben Nasimento, PLLC, a law firm. The communications primarily revolve around scheduling a meeting to discuss the case, particularly concerning a subpoena issued to a former partner of one of the attorneys involved, Alan Ross. Several parties, including a U.S. Assistant Attorney, the law firm’s attorneys (Joseph E. Nascimento), and an individual named “Ecl,” are involved in the email exchanges, all attempting to coordinate a meeting regarding the case's ongoing developments. Dates discussed range from September 2019 to July 2019, with a significant focus on finding a suitable time to meet, often influenced by travel schedules and other legal commitments. Redactions obscure key details within the emails.",
+      "timestamp": "2021-09-04T00:00:00",
+      "timestamp_raw": "04 Sep 2021",
+      "keywords": [
+        "efta00017849",
+        "redaction",
+        "analysis",
+        "epstein",
+        "miami",
+        "florida",
+        "september",
+        "travel",
+        "scheduling",
+        "lawyer",
+        "call"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031299",
+      "summary": "A person, identified only as “l=,” reported receiving a brief communication from Jeffrey Epstein and/or Ghislaine Maxwell via Seeking Arrangements in July 2019. The communication involved an offer to serve as a recruiter, specifically to “bring home girls to Daddy,” and the sender expressed discomfort and a lack of response. The individual believes Seeking Arrangements’ records in Palm Beach should be subpoenaed to investigate the potential recruitment efforts of Epstein and Maxwell, and they express concerns about becoming involved while seeking justice for victims.",
+      "timestamp": "2021-11-29T00:00:00",
+      "timestamp_raw": "November 29, 2021",
+      "keywords": [
+        "epstein",
+        "maxwell",
+        "seeking arrangements",
+        "fbi",
+        "recruiting",
+        "palm beach",
+        "victims",
+        "justice",
+        "confidential",
+        "redaction"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00033804",
+      "summary": "These encounters primarily addressed complaints of neuropathy, back pain, and hyperlipidemia. Initially, Epstein reported tingling/numbness in his hand and right arm, with no pain. Subsequent evaluations revealed a history of obstructive sleep apnea and hyperlipidemia, for which he was prescribed medication.  Medical staff noted concerns about possible nerve damage related to spinal stenosis, but further testing was pending.  Multiple providers documented observations related to his physical condition, medications, and patient education.  A final encounter involved a 6-month follow-up appointment.  One encounter involved a refusal of an optometrist evaluation.  Cosign documentation was required for certain orders and was subsequently provided by a physician.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "neuropathy",
+        "inmate",
+        "nym",
+        "provider",
+        "rn",
+        "blood pressure",
+        "pulse rate",
+        "pain",
+        "treatment",
+        "evaluation",
+        "medication",
+        "medical history",
+        "chronic care",
+        "physical exam",
+        "chronic",
+        "assessment",
+        "plan",
+        "facility"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025091",
+      "summary": "Maxwell was hired by Jeffrey Epstein through headhunter Russell, initially for an event planning role with the New York Knicks (which fell through) and then as a general assistant. She had prior experience in office supplies and retail sales. *   **Work Environment:** Maxwell worked primarily out of Epstein's Villard House mansion (until around 2009), then at 575 Lexington Ave, and later returned to the mansion after 2012, primarily when Epstein was in New York. She worked with a staff including a maid, houseman, and chef. *   **Daily Routine:** Maxwell’s role involved scheduling Epstein’s daily massages (generally 1-2 times per day, similar to gym visits), managing travel arrangements (using travel agencies and online booking), and handling general administrative tasks. **Specific Details & Interactions:** *   **Fraternization Rules:** Epstein instructed Maxwell not to fraternize with anyone associated with his work. *   **Massage Schedule:** Masseuses were usually first-name basis, and Maxwell diligently documented their names and contact information. Massages were often rescheduled due to Epstein's busy schedule. *   **Financial Matters:** Epstein handled client money and investments. Money transfers, often for expedited deliveries, were handled via messengers, primarily through the office. *   **Travel:** Maxwell managed international and domestic travel, utilizing various agencies and airlines, including Epstein’s private plane. *   **Events and Island Visits:** Maxwell visited Little St. James Island and the New Mexico ranch for project oversight, primarily focusing on construction. *   **Legal Matters:**  Maxwell had a brief meeting with Nate Dershowitz regarding a non-prosecution agreement related to the Florida case. *   **Departure:** Maxwell resigned in July 2019 due to feeling betrayed by Epstein’s actions. **Key Observations & Statements:** *   Maxwell never witnessed any inappropriate behavior by Epstein or any concerns about abuse. *   She described Epstein as demanding and intense. *   Maxwell noted significant changes in the office environment, including a transition to Mac computers and iPhones, and the shredding of old files. *   She never directly participated in any obstruction of justice or dishonest behavior. **Important Note:** The entire document is presented as part of an redaction analysis.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "attorney proffer",
+        "je",
+        "maxwell",
+        "massages",
+        "epstein",
+        "frq",
+        "travel",
+        "new york knicks",
+        "monster.com",
+        "mansion",
+        "villard house",
+        "lexington ave",
+        "blackmail",
+        "subpoenas",
+        "fl",
+        "non-prosecution",
+        "west execs"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    }
+  ]
+}

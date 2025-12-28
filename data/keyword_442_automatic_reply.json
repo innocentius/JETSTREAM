@@ -1,0 +1,1061 @@
+{
+  "keyword": "automatic reply",
+  "count": 38,
+  "keyword_match_count": 38,
+  "content_match_count": 9,
+  "total_files": 47,
+  "timeline": [
+    {
+      "file_id": "EFTA00030121",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] on February 12, 2019, regarding the Epstein case and its potential impact on prosecutorial accountability. The sender states they are currently on trial.",
+      "timestamp": "2019-02-12T00:00:00",
+      "timestamp_raw": "February 12, 2019",
+      "keywords": [
+        "epstein case",
+        "prosecutorial accountability",
+        "redaction analysis",
+        "efta00030121",
+        "automatic reply"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030611",
+      "summary": "An automatic reply email was sent from “[REDACTED]” (USANYS) to ODAG regarding matters requiring immediate attention, directing inquiries to EFTA00030611. The email was sent on June 11, 2019, and indicated the sender was out of the office.",
+      "timestamp": "2019-06-11T00:00:00",
+      "timestamp_raw": "June 11, 2019",
+      "keywords": [
+        "epstein",
+        "redaction",
+        "efta00030611",
+        "usanys",
+        "automatic reply",
+        "2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00031308",
+            "similarity": 0.5,
+            "index": 20,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00010579",
+      "summary": "An automatic reply email was sent from [REDACTED] to [REDACTED] on June 28, 2019, regarding the Epstein; JMD Media Guideline. The sender was out of the office and directed inquiries to [REDACTED] and [REDACTED]. The email is associated with document EFTA00010579.",
+      "timestamp": "2019-06-28T00:00:00",
+      "timestamp_raw": "June 28, 2019",
+      "keywords": [
+        "epstein",
+        "jmd media",
+        "guideline",
+        "redaction",
+        "efta00010579",
+        "usanys",
+        "tsanys",
+        "automatic reply",
+        "june 28",
+        "2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010582",
+      "summary": "Geoffrey Berman received an automatic reply from someone regarding Epstein and JMD Media Guideline on June 28, 2019. The sender was out of the office and directed inquiries to contact either  or .",
+      "timestamp": "2019-06-28T00:00:00",
+      "timestamp_raw": "June 28, 2019",
+      "keywords": [
+        "epstein",
+        "jmd media",
+        "guideline",
+        "automatic reply",
+        "berman",
+        "geoffrey",
+        "efta00010582"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014580",
+      "summary": "An automatic reply email was sent from [REDACTED] to SI on August 3, 2019, regarding an SDNY Grand Jury Subpoena dated July 5, 2019. The sender is out of the office on vacation until August 12th, and responses to email inquiries may be delayed.  The sender directs urgent matters to the other Assistant U.S. Attorneys on the case, EFTA00014580.",
+      "timestamp": "2019-08-03T00:00:00",
+      "timestamp_raw": "August 3, 2019",
+      "keywords": [
+        "efta00014580",
+        "grand jury",
+        "subpoena",
+        "sdny",
+        "automatic reply",
+        "august 2019",
+        "ausa",
+        "redaction",
+        "legal",
+        "vacation"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021548",
+      "summary": "An automatic reply email was sent from [REDACTED] to [REDACTED] regarding the United States of America v. Jeffrey Epstein case. The sender stated they would be out of the office on vacation until August 12th and that responses may be delayed. The email directed inquiries to other AUSA(s) on the case, including EFTA00021548.",
+      "timestamp": "2019-08-06T00:00:00",
+      "timestamp_raw": "06 Aug 2019",
+      "keywords": [
+        "epstein",
+        "united states",
+        "redaction",
+        "ausa",
+        "automatic reply",
+        "legal",
+        "case",
+        "usa",
+        "jeffrey epstein",
+        "efta00021548"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019857",
+      "summary": "An automatic reply email was sent from [REDACTED] to Michael Bachne regarding the Epstein investigation. The sender was out of the office on vacation from August 7th to August 12th, and responses may be delayed. The email included the case file reference EFTA00019857.",
+      "timestamp": "2019-08-07T00:00:00",
+      "timestamp_raw": "07 Aug 2019",
+      "keywords": [
+        "epstein investigation",
+        "redaction analysis",
+        "efta00019857",
+        "michael bachne",
+        "ausa",
+        "automatic reply",
+        "august 12th",
+        "vacation",
+        "case",
+        "responses"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024349",
+      "summary": "An automatic reply email was sent from [REDACTED] to [REDACTED] on August 10, 2019, regarding a WSJ News Alert about Jeffrey Epstein’s death. The sender stated they would be out of the office on vacation until August 12th and that responses may be delayed. Urgent matters should be directed to other AUSA(s) or AUSA at [REDACTED]. The email reference number is EFTA00024349.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "efta00024349",
+        "jeffrey epstein",
+        "wsj",
+        "automatic reply",
+        "ausa",
+        "redaction",
+        "august 12th",
+        "email",
+        "news alert",
+        "case"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027241",
+      "summary": "An automatic reply email was sent from [REDACTED] regarding a news article about Jeffrey Epstein’s death by suicide. The sender will be out of the office on vacation until August 12th and directs inquiries to AUSA EFTA00027241.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "10 Aug 2019",
+      "keywords": [
+        "efta00027241",
+        "jeffrey epstein",
+        "suicide",
+        "redaction",
+        "automatic reply",
+        "august 12th",
+        "ausa",
+        "sources",
+        "manhattan",
+        "abc7.com"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019760",
+      "summary": "An automatic reply email was sent from [REDACTED] to [REDACTED] regarding an \"Epstein update.\" The sender will be out of the office on vacation until August 12th, and responses to emails may be delayed. The recipient is advised to contact other AUSA(s) on the case or AUSA at [REDACTED] or [REDACTED]. The document is associated with case file EFTA00019760.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "10 Aug 2019",
+      "keywords": [
+        "efta00019760",
+        "epstein",
+        "automatic reply",
+        "redaction",
+        "ausa",
+        "august 12th",
+        "case",
+        "vacation",
+        "email",
+        "update"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00024346",
+            "similarity": 0.667,
+            "index": 10,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00024346",
+      "summary": "An automatic reply email was sent from [REDACTED] to [REDACTED] on August 10, 2019, regarding an update related to Epstein. The sender stated they would be out of the office on vacation until August 12th and that responses to emails may be delayed. Contact information for other AUSAs and AUSh related to case EFTA00024346 was provided.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "efta00024346",
+        "epstein",
+        "automatic reply",
+        "redaction",
+        "ausa",
+        "august 12th",
+        "case",
+        "aush",
+        "vacation",
+        "update"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00019760",
+            "similarity": 0.667,
+            "index": 9,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036151",
+      "summary": "This is an automatic reply from Signet Technologies regarding contact with MCC New York Camera. Jeffre McKenzie sent an email on August 14, 2019, indicating he is out of the office from August 12th to 16th for a site installation and provides contact information: EFTA00036151.",
+      "timestamp": "2019-08-14T00:00:00",
+      "timestamp_raw": "August 14, 2019",
+      "keywords": [
+        "signet technologies",
+        "efta00036151",
+        "camera",
+        "installation",
+        "jeffre mckenzie",
+        "automatic reply",
+        "new york",
+        "site",
+        "8/12/2019",
+        "8/16/2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030966",
+      "summary": "An automatic reply email was sent from the Epstein Estate Touhy regarding a request, dated August 20, 2019, indicating the sender was in Dallas for depositions through August 23, 2019, and another individual was covering for them. The email references case file EFTA00030966.",
+      "timestamp": "2019-08-20T00:00:00",
+      "timestamp_raw": "August 20, 2019",
+      "keywords": [
+        "epstein estate",
+        "touhy",
+        "redaction",
+        "usanys",
+        "dallas",
+        "depositions",
+        "august 2019",
+        "automatic reply",
+        "efta00030966"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030969",
+      "summary": "An automatic reply email was sent from “tf” to [REDACTED] on August 26, 2019, regarding the trial of Estein, Case 19 Cr. 490 (RMB), before Judge Ronnie Abrams. The sender indicates they will be checking email at the end of each trial day and provides contact information for the Assistant US Attorney (AUSA) for immediate assistance with the case and for general inquiries.",
+      "timestamp": "2019-08-26T00:00:00",
+      "timestamp_raw": "August 26, 2019",
+      "keywords": [
+        "efta00030969",
+        "ronnie abrams",
+        "united states v. e stein",
+        "ausa",
+        "trial",
+        "redaction",
+        "automatic reply",
+        "august 26",
+        "2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032137",
+      "summary": "An automatic reply email was sent from [REDACTED] to [REDACTED] regarding the case United States v. Estein. The sender is currently on trial before Judge Ronnie Abrams and will be checking email at the end of each trial day. Contact AUSA for immediate assistance with the case or for all other matters. The email pertains to file EFTA00032137.",
+      "timestamp": "2019-08-26T00:00:00",
+      "timestamp_raw": "26 Aug 2019",
+      "keywords": [
+        "efta00032137",
+        "ronnie abrams",
+        "united states v. e stein",
+        "ausa",
+        "contract",
+        "automatic reply",
+        "production",
+        "redaction",
+        "trial",
+        "august 2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020993",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] on August 26, 2019, regarding the trial of Jeffrey Epstein before Judge Ronnie Abrams. The sender states they will check email at the end of each trial day and provides contact information for the Assistant US Attorney (AUSA) for urgent matters related to the case.",
+      "timestamp": "2019-08-26T00:00:00",
+      "timestamp_raw": "August 26, 2019",
+      "keywords": [
+        "epstein",
+        "ronnie abrams",
+        "united states v. epstein",
+        "ausa",
+        "redaction analysis",
+        "trial",
+        "automatic reply"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014377",
+      "summary": "On August 27, 2019, an automatic reply email was sent regarding United States v. E stein 19 Cr. 490 (RMB). The sender is currently on trial before Judge Ronnie Abrams and requests contact with the AUSA for immediate assistance related to the case. Other inquiries should be directed to Hank.",
+      "timestamp": "2019-08-27T00:00:00",
+      "timestamp_raw": "August 27, 2019",
+      "keywords": [
+        "efta00014377",
+        "ronnie abrams",
+        "united states v. e stein",
+        "ausa",
+        "automatic reply",
+        "production",
+        "trial",
+        "assistance",
+        "2019",
+        "2025"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032925",
+      "summary": "Audrey Strauss is on trial before Judge Ronnie Abrams and will be checking email at the end of each trial day.  For urgent matters related to Cr. 490 (RMB), contact AUSA. For other matters, contact AUSA.",
+      "timestamp": "2019-08-27T00:00:00",
+      "timestamp_raw": "27 Aug 2019",
+      "keywords": [
+        "efta00032925",
+        "strauss",
+        "audrey",
+        "ronnie abrams",
+        "trial",
+        "ausa",
+        "correspondence",
+        "automatic reply",
+        "rmb",
+        "490"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014375",
+      "summary": "An email is being sent from [REDACTED] to [REDACTED] regarding a trial before the Honorable Ronnie Abrams in the case of United States v. Estein. The sender indicates they will be checking email at the end of each trial day and provides contact information for AUSAMMI and AUSP for assistance. The email subject is \"automatic reply: quit trig question.\"",
+      "timestamp": "2019-08-27T00:00:00",
+      "timestamp_raw": "27 Aug 2019",
+      "keywords": [
+        "efta00014375",
+        "ronnie abrams",
+        "united states v. e stein",
+        "ausammi",
+        "ausp",
+        "redaction analysis",
+        "trial",
+        "email",
+        "august 27",
+        "2019"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014346",
+      "summary": "An email was sent from EFTA00014346 to USA-5 Mail Utility on August 27, 2019, regarding an automatic reply reminder for the period of August 18, 2019 – August 24, 2019. The sender is currently on trial before Judge Ronnie Abrams and provides contact information for AUS and further instructions for other matters related to United States v. E Stein.",
+      "timestamp": "2019-08-27T00:00:00",
+      "timestamp_raw": "August 27, 2019",
+      "keywords": [
+        "efta00014346",
+        "ronnie abrams",
+        "usa-5",
+        "united states v. e stein",
+        "redaction",
+        "trial",
+        "aus",
+        "2019",
+        "email",
+        "reminder"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031308",
+      "summary": "An automatic reply email was sent from [REDACTED] to [REDACTED] regarding the United States v. Epstein case. The sender indicated they would be out of the office until September 16th with no email access and directed inquiries to EFTA00031308 for immediate assistance.",
+      "timestamp": "2019-08-30T00:00:00",
+      "timestamp_raw": "30 Aug 2019",
+      "keywords": [
+        "epstein",
+        "united states",
+        "redaction",
+        "efta00031308",
+        "2019",
+        "automatic reply"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00030611",
+            "similarity": 0.5,
+            "index": 1,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015284",
+      "summary": "On September 17, 2019, an email was sent from IMIIM to 1.1 (USANYS) regarding an automatic reply concerning the inability of the federal government to forfeit Jeffrey Epstein’s mansion. The sender was out of the office until September 20th and provided an email contact for urgent assistance: EFTA00015284.",
+      "timestamp": "2019-09-17T00:00:00",
+      "timestamp_raw": "September 17, 2019",
+      "keywords": [
+        "epstein",
+        "forfeiture",
+        "mansion",
+        "feds",
+        "imiim",
+        "efta00015284",
+        "jeffrey epstein",
+        "automatic reply",
+        "usanys"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013464",
+      "summary": "An automatic reply email was sent from [REDACTED] to [REDACTED] regarding UMR - Epstein/DB. The sender indicated they would be out of the office until September 20th, checking email intermittently, and directed urgent assistance to EFTA00013464.",
+      "timestamp": "2019-09-19T00:00:00",
+      "timestamp_raw": "19 Sep 2019",
+      "keywords": [
+        "efta00013464",
+        "umr",
+        "epstein",
+        "db",
+        "redaction",
+        "usanys",
+        "automatic reply",
+        "september 20th",
+        "work travel",
+        "email"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014283",
+      "summary": "An automatic reply email was sent from [REDACTED] to [REDACTED] regarding a journalist inquiry about Jeffrey Epstein’s connection to the Bourget Airport in France. The sender stated they would be out of the office from Thursday through Monday and provided a public affairs phone number for immediate assistance. The email is associated with file EFTA00014283.",
+      "timestamp": "2019-09-29T00:00:00",
+      "timestamp_raw": "29 Sep 2019",
+      "keywords": [
+        "epstein",
+        "jeffrey epstein airport",
+        "journalist",
+        "france",
+        "automatic reply",
+        "redaction",
+        "efta00014283"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030560",
+      "summary": "An automatic reply email was sent from [REDACTED] to [REDACTED]@[REDACTED] on December 3, 2019, regarding case EFTA00030560. The sender indicated they would be out of the office until December 5, 2019 due to business travel and advised contacting the other AUSA for immediate assistance.",
+      "timestamp": "2019-12-03T00:00:00",
+      "timestamp_raw": "December 3, 2019",
+      "keywords": [
+        "efta00030560",
+        "tartaglione",
+        "epstein",
+        "automatic reply",
+        "redaction",
+        "ausa",
+        "december 5",
+        "2019",
+        "business travel",
+        "email",
+        "voicemail"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020905",
+      "summary": "An automatic reply email was sent from [REDACTED] regarding the US v. Epstein case. The sender stated they would be out of the office until November 15th, with potential delays in responses, and directed urgent matters to other AUSA(s) on the case. The case file is EFTA00020905.",
+      "timestamp": "2019-12-12T00:00:00",
+      "timestamp_raw": "12 Nov 2019",
+      "keywords": [
+        "efta00020905",
+        "us v. epstein",
+        "automatic reply",
+        "ausa",
+        "redaction",
+        "november 15th",
+        "email",
+        "urgent matters",
+        "case",
+        "2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019844",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] on December 13, 2019, regarding the “Epstein report.” The sender stated they would be out of the office until January 13, 2020, and would respond to emails upon their return. The email reference number is EFTA00019844.",
+      "timestamp": "2019-12-13T00:00:00",
+      "timestamp_raw": "December 13, 2019",
+      "keywords": [
+        "epstein report",
+        "redaction",
+        "efta00019844",
+        "automatic reply",
+        "2019",
+        "2020",
+        "email",
+        "response"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019838",
+      "summary": "An email was sent from [REDACTED] to Il lim (USANYS) regarding the Epstein report. The sender was traveling for work and indicated delayed responses due to limited email access, advising urgent matters be directed to other AUSA(s) on the case. The email was dated December 13, 2019.",
+      "timestamp": "2019-12-13T00:00:00",
+      "timestamp_raw": "December 13, 2019",
+      "keywords": [
+        "epstein",
+        "niminf",
+        "usanys",
+        "redaction",
+        "ausa",
+        "efta00019838",
+        "automatic reply",
+        "travel",
+        "email",
+        "2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037992",
+      "summary": "An automatic reply email was sent from the Victim Witness Coordinator (EFTA00037992) to an unknown recipient regarding an external email concerning Ghislaine Maxwell. The email indicates the sender was out of the office returning on January 21, 2020, and directs recipients to email for immediate assistance.",
+      "timestamp": "2020-01-21T00:00:00",
+      "timestamp_raw": "January 21, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "redaction",
+        "email",
+        "victim",
+        "witness",
+        "coordinator",
+        "efta00037992"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029710",
+      "summary": "An automatic reply email was sent from [REDACTED] to [REDACTED] regarding a request for information relating to Jeffrey Epstein. The sender was involved in a trial before Judge Paul A. Engelmayer and noted delays in responses due to the trial, directing urgent matters to other AUSA(s) including EFTA00029710.",
+      "timestamp": "2020-03-09T00:00:00",
+      "timestamp_raw": "09 Mar 2020",
+      "keywords": [
+        "jeffrey epstein",
+        "redaction analysis",
+        "efta00029710",
+        "paul a. engelmayer",
+        "ausa",
+        "automatic reply",
+        "request for information",
+        "usanys"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023779",
+      "summary": "An automatic reply email was sent on March 11, 2020, regarding Freedom of Information Act (FOIA) requests related to Jeffrey Epstein. The sender is on trial before Judge Paul A. Engelmayer and anticipates delayed responses, advising urgent matters be directed to other Assistant U.S. Attorneys (AUSAs). The case is identified as EFTA00023779.",
+      "timestamp": "2020-03-11T00:00:00",
+      "timestamp_raw": "March 11, 2020",
+      "keywords": [
+        "epstein",
+        "foia",
+        "redaction",
+        "engelmayer",
+        "ausa",
+        "trial",
+        "emails",
+        "urgent",
+        "2020",
+        "efta00023779"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00017701",
+      "summary": "On June 12, 2020, a subpoena was served on Amazon regarding individual “I” (likely related to case CRIM1031692). The sender, IMF, requested expedited response, specifically shipping/delivery information, by the end of the week. An automatic reply was sent on August 15, 2019, indicating delayed responses due to business travel.",
+      "timestamp": "2020-06-12T00:00:00",
+      "timestamp_raw": "June 12, 2020",
+      "keywords": [
+        "subpoena",
+        "amazon",
+        "shipping",
+        "delivery",
+        "information",
+        "imf",
+        "efta00017701",
+        "june 12",
+        "2020",
+        "law enforcement",
+        "crim1031692"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030797",
+      "summary": "An automatic reply email from the Victim Witness Coordinator, [REDACTED], regarding Epstein VNS. The coordinator is on annual leave and provides contact information for transportation inquiries and offers a cell phone number for urgent communication. The email is dated July 30, 2020.",
+      "timestamp": "2020-07-30T00:00:00",
+      "timestamp_raw": "July 30, 2020",
+      "keywords": [
+        "efta00030797",
+        "epstein",
+        "victim witness coordinator",
+        "automatic reply",
+        "annual leave",
+        "transportation",
+        "email",
+        "usanys"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020902",
+      "summary": "This is an automatic reply email from someone named Epstein regarding the Epstein SW database. The sender was out of the office on January 25, 2021, and would return on January 26, 2021.  Questions should be directed to the recipient, alMIE>. The document is labeled EFTA00020902.",
+      "timestamp": "2021-01-25T00:00:00",
+      "timestamp_raw": "January 25, 2021",
+      "keywords": [
+        "epstein",
+        "database",
+        "automatic reply",
+        "efta00020902",
+        "iim",
+        "almie",
+        "2021",
+        "january 25",
+        "2021",
+        "january 26",
+        "2021"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018726",
+      "summary": "On March 10, 2021, an automatic reply email was sent from an unknown sender regarding case EFTA00018726. The sender was out of the office with limited email access and directed recipients to contact another agent or the SSA for immediate assistance.",
+      "timestamp": "2021-03-10T00:00:00",
+      "timestamp_raw": "March 10, 2021",
+      "keywords": [
+        "epstein",
+        "victim",
+        "ssa",
+        "automatic reply",
+        "call",
+        "2021",
+        "march",
+        "email",
+        "out of office",
+        "case"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031586",
+      "summary": "An automatic reply email was sent from [REDACTED] to [REDACTED] (USANYS Contractor) regarding questions about EFTA00031586. The sender was out of the office from March 12-15, 2021, and directed inquiries to either [REDACTED] or EFTA00031586.",
+      "timestamp": "2021-03-12T00:00:00",
+      "timestamp_raw": "12 Mar 2021",
+      "keywords": [
+        "efta00031586",
+        "epstein",
+        "relativity",
+        "contractor",
+        "usanys",
+        "redaction",
+        "automatic reply",
+        "march 12",
+        "2021"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027397",
+      "summary": "This email is an automatic reply from an individual named “I” regarding an Epstein SW database. The sender will be out of the office from April 28, 2021, to April 30, 2021, returning on May 3, 2021.  Questions should be directed to “1”). The email is associated with the file EFTA00027397.",
+      "timestamp": "2021-04-28T00:00:00",
+      "timestamp_raw": "April 28, 2021",
+      "keywords": [
+        "epstein database",
+        "automatic reply",
+        "efta00027397",
+        "april 28",
+        "2021",
+        "may 3",
+        "2021"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00022016",
+      "summary": "An automatic reply email from [REDACTED] regarding CACI document scanning (document number 15JA5421F00000068 US v. Maxwell Epstein) was sent on June 24, 2021. The sender was traveling from June 22nd through June 24th and noted potential delays in responding to emails. Urgent VOC matters should be directed to [REDACTED] and case-specific inquiries should be directed to the relevant AUSA(s).",
+      "timestamp": "2021-06-24T00:00:00",
+      "timestamp_raw": "June 24, 2021",
+      "keywords": [
+        "efta00022016",
+        "caci",
+        "scanning",
+        "us v. maxwell epstein",
+        "case",
+        "ausa",
+        "voc",
+        "june 22nd",
+        "automatic reply"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029166",
+      "summary": "An automatic reply email was sent from “M=En” to Florence Huffier (OCHE) regarding the Epstein FOIA Release case (EFTA00029166). The sender was unavailable and instructed recipients to contact the assigned AUSA for urgent assistance.",
+      "timestamp": "2021-08-23T00:00:00",
+      "timestamp_raw": "23 Aug 2021",
+      "keywords": [
+        "epstein",
+        "foia",
+        "release",
+        "efta00029166",
+        "automatic reply",
+        "florence huffier",
+        "ausa"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030984",
+      "summary": "An automatic reply email was sent from “it” to [REDACTED] on September 2, 2021, regarding Ghislaine Maxwell (EFTA00030984). The sender indicated they were out of the office through September 3, 2021, with limited access to email and voicemail.",
+      "timestamp": "2021-09-02T00:00:00",
+      "timestamp_raw": "September 2, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "redaction",
+        "efta00030984",
+        "automatic reply",
+        "aus",
+        "september 3",
+        "2021"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00022326",
+      "summary": "An automatic reply email was sent from [REDACTED] to [REDACTED] regarding the trial of Ghislaine Maxwell. The email directs inquiries about the Violent & Organized Crime Unit to a specific contact and advises contacting other Assistant U.S. Attorneys for specific case matters. The case file number referenced is EFTA00022326.",
+      "timestamp": "2021-12-03T00:00:00",
+      "timestamp_raw": "03 Nov 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "violent crime",
+        "organized crime",
+        "trial",
+        "ausa",
+        "redaction",
+        "efta00022326"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038679",
+      "summary": "An automatic reply email was sent from EFTA00038679 on November 15, 2024, regarding post-indictment victim assistance. It directs recipients to contact the Victim Witness Coordinator, Victim Specialist, NY State Central Registry, and NYC Administration for Children's Services (ACS) Criminal Justice Coordinator for assistance. The sender was on leave and would return on November 18th.",
+      "timestamp": "2024-11-15T00:00:00",
+      "timestamp_raw": "November 15, 2024",
+      "keywords": [
+        "victim assistance",
+        "victim witness coordinator",
+        "child abuse",
+        "neglect",
+        "acs",
+        "reporting",
+        "suspicion",
+        "efta00038679"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015879",
+      "summary": "An automatic reply email was sent from [REDACTED] to [REDACTED] regarding the case 20-cr-330, United States v. Ghislaine Maxwell. The sender will be on leave from December 28th, 2020, but will check email regularly. For urgent matters, contact [REDACTED] or call [REDACTED] (EFTA00015879).",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00015879",
+        "ghislaine maxwell",
+        "united states",
+        "redaction",
+        "automatic reply",
+        "20-cr-330",
+        "december 28",
+        "legal",
+        "email",
+        "leave"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031087",
+      "summary": "An automatic reply email was sent from “[REDACTED]” regarding a request for documents in the Epstein case. The sender was out of the office returning Tuesday and was checking emails occasionally. The email subject was “Automatic reply: RE: plaintiff counsel request for documents, Epstein case.”",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00031087",
+        "redaction analysis",
+        "plaintiff counsel",
+        "epstein case",
+        "automatic reply",
+        "usanys"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019837",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] regarding the Epstein report (EFTA00019837). The sender is traveling for work and notes potential delays in responses, advising urgent matters be directed to other AUSA(s) on the case.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "epstein report",
+        "redaction analysis",
+        "efta00019837",
+        "ausa",
+        "automatic reply",
+        "2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015877",
+      "summary": "An automatic reply email was sent from an inmate at NYC jail, identified as \"EFTA00015877,\" referencing a New York Daily News article detailing Jeffrey Epstein’s final days at the jail. The email indicates the sender will be on leave with limited email access and provides contact information.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "jeffrey epstein",
+        "nyc jail",
+        "inmates",
+        "redaction analysis",
+        "usanys",
+        "new york daily news",
+        "2020",
+        "leave",
+        "email",
+        "efta00015877"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016398",
+      "summary": "An automatic reply email was sent from [REDACTED] to [REDACTED] regarding a proposed Epstein Victims' Compensation Program. The sender was traveling for work and noted potential delays in responding to emails, suggesting contact with other AUSA(s) for urgent matters. The case file is EFTA00016398.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "epstein",
+        "victims",
+        "compensation",
+        "program",
+        "ausa",
+        "redaction",
+        "analysis",
+        "efta00016398"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    }
+  ]
+}

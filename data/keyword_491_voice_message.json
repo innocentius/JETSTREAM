@@ -1,0 +1,788 @@
+{
+  "keyword": "voice message",
+  "count": 29,
+  "keyword_match_count": 29,
+  "content_match_count": 0,
+  "total_files": 29,
+  "timeline": [
+    {
+      "file_id": "EFTA00029067",
+      "summary": "A voice message, attached as a .wav file, was sent from \"EPSTEIN WEIL\" to an unidentified recipient on November 4, 2016, at 12:51:15 PM. The message is associated with file identifier EFTA00029067.",
+      "timestamp": "2016-11-04T00:00:00",
+      "timestamp_raw": "November 4, 2016",
+      "keywords": [
+        "efta00029067",
+        "redaction",
+        "voice message",
+        "epstein weil",
+        "postmaster",
+        "attachment",
+        ".wav",
+        "2016",
+        "2025",
+        "doj"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00022131",
+      "summary": "On May 4, 2017, at 4:43 PM GMT, a voice message was sent from EPSTEIN CONROY to an unidentified recipient. The voice message, named \"20170504 164300.wav,\" is attached to an email with the subject \"Voice Message Attached from EPSTEIN CONROY.\" The email originated from postmaster@msgsvr.voip.usa.doj.gov.",
+      "timestamp": "2017-05-04T00:00:00",
+      "timestamp_raw": "May 4, 2017",
+      "keywords": [
+        "redaction",
+        "voice message",
+        "efta00022131",
+        "epstein conroy",
+        "may 4",
+        "2017",
+        "attachment",
+        "doj",
+        "usa",
+        "voip",
+        "wav"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021410",
+      "summary": "On July 16, 2019, at 12:31 PM, a voice message was received from \"HOLDSCLAW SUSAN.\" The message is attached as 20190716_123107.wav and identified as related to case EFTA00021410. The email was sent from postmaster@voip.usa.doj.gov to a redacted recipient.",
+      "timestamp": "2019-07-16T00:00:00",
+      "timestamp_raw": "July 16, 2019",
+      "keywords": [
+        "efta00021410",
+        "voice message",
+        "susan holdsclaw",
+        "doj",
+        "redaction analysis",
+        "20190716",
+        "wav",
+        "usa",
+        "voip",
+        "attachment"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014609",
+      "summary": "A United States Attorney Assistant from the Southern District of New York received a forwarded email regarding a civilian caller reporting information about the Epstein case. The caller was directed to the 1-2500 intake line incorrectly. The Assistant requested forwarding the email and attached voice message to FBI agents for assessment. The Assistant outlined a protocol: if the FBI identifies the caller as potentially unstable, they would proceed with a standard form letter; otherwise, they would investigate further if the caller persisted. A follow-up email from the DOJ’s VoIP system also alerted the Assistant to the voice message.",
+      "timestamp": "2019-07-18T00:00:00",
+      "timestamp_raw": "18 Jul 2019",
+      "keywords": [
+        "epstein case",
+        "civilian caller",
+        "fbi",
+        "united states attorney",
+        "southern district of new york",
+        "intake line",
+        "voice message",
+        "redaction analysis",
+        "ccr system",
+        "mailing address"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023042",
+      "summary": "A voicemail was received referencing the Epstein case and requesting it be processed as a civilian complaint. The original sender was redacted, and the email chain involved multiple individuals within the USA. DOJ. The voicemail itself was attached as “EFTA00023042”.",
+      "timestamp": "2019-07-18T00:00:00",
+      "timestamp_raw": "18 Jul 2019",
+      "keywords": [
+        "efta00023042",
+        "voice message",
+        "epstein case",
+        "civilian complaint",
+        "intake line",
+        "redaction",
+        "usa doj",
+        "voip",
+        "complaint",
+        "voicemail"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015710",
+      "summary": "A voice message, identified as EFTA00015710, was sent from \"postmaster@voip.usa.doj.gov\" to [REDACTED], with a copy sent to USANYS-EpsteinVictims. The voice message was recorded on July 26, 2019, at 8:56:52 PM and is attached.",
+      "timestamp": "2019-07-26T00:00:00",
+      "timestamp_raw": "July 26, 2019",
+      "keywords": [
+        "efta00015710",
+        "voice message",
+        "doj",
+        "voip",
+        "wireless caller",
+        "redaction analysis",
+        "epstein",
+        "usa nys",
+        "victims",
+        "usa.doj.gov"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00015700",
+            "similarity": 0.538,
+            "index": 15,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00015708",
+      "summary": "A voice message, attached as a .wav file and labeled EFTA00015708, was sent from postmaster@voip.usa.doj.gov to [REDACTED] on July 29, 2019, at 3:21:49 PM. The email was also copied to USANYS-EpsteinVictims <USANYS.EpsteinVictims@usa.doj.gov>.",
+      "timestamp": "2019-07-29T00:00:00",
+      "timestamp_raw": "July 29, 2019",
+      "keywords": [
+        "efta00015708",
+        "redaction analysis",
+        "voip",
+        "doj",
+        "epstein",
+        "usanys",
+        "voice message",
+        "2019",
+        "july 29",
+        "victim"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00015702",
+            "similarity": 0.5,
+            "index": 13,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00015698",
+            "similarity": 0.538,
+            "index": 17,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00015709",
+      "summary": "A voice message, attached as “av,” was sent from “postmaster@voip.usa.doj.gov” to [REDACTED], with a copy to USANYS-EpsteinVictims, regarding a Bank of America file (EFTA00015709). The voice message was recorded on July 29, 2019, at 9:03:11 AM.",
+      "timestamp": "2019-07-29T00:00:00",
+      "timestamp_raw": "July 29, 2019",
+      "keywords": [
+        "efta00015709",
+        "bank of america",
+        "voice message",
+        "doj",
+        "redaction",
+        "usa nys",
+        "epstein victims",
+        "voip",
+        "usa.doj.gov",
+        "jul 29",
+        "2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015707",
+      "summary": "A U.S. Department of Justice (DOJ) email, sent on July 30, 2019, details a voice message from an unidentified \"wireless caller.\" The email was sent to the USANYS-EpsteinVictims list and includes a file named EFTA00015707, which contains the voice message.",
+      "timestamp": "2019-07-30T00:00:00",
+      "timestamp_raw": "July 30, 2019",
+      "keywords": [
+        "efta00015707",
+        "redaction",
+        "voice message",
+        "doj",
+        "wireless caller",
+        "epsteinvictims",
+        "usa",
+        "usa doj",
+        "voice",
+        "attachment"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015706",
+      "summary": "A voice message, attached as a .wav file, was sent from “postmaster@voip.usa.doj.gov” to [REDACTED] on August 1, 2019 at 8:15:27 AM. The message is labeled “Voice Message Attached from” and includes the tracking number EFTA00015706. The email was also copied to USANYS-EpsteinVictims.",
+      "timestamp": "2019-08-01T00:00:00",
+      "timestamp_raw": "August 1, 2019",
+      "keywords": [
+        "efta00015706",
+        "doj",
+        "voip",
+        "usa",
+        "epstein",
+        "victims",
+        "voice message",
+        "redaction",
+        "august 1",
+        "2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00015703",
+            "similarity": 0.538,
+            "index": 12,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00015700",
+            "similarity": 0.538,
+            "index": 15,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00015705",
+      "summary": "On August 2, 2019, a voice message from a “WIRELESS CALLER” was sent to [REDACTED], with copies to USANYS-EpsteinVictims. The message is attached as “av” and identified as EFTA00015705.",
+      "timestamp": "2019-08-02T00:00:00",
+      "timestamp_raw": "August 2, 2019",
+      "keywords": [
+        "efta00015705",
+        "voice message",
+        "doj",
+        "wireless caller",
+        "voip",
+        "redaction",
+        "usa nys",
+        "epstein victims",
+        "usanys",
+        "august 2",
+        "2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015704",
+      "summary": "A voice message, labeled EFTA00015704, was sent from postmaster@voip.usa.doj.gov to [REDACTED], with a copy to USANYS-EpsteinVictims@usa.doj.gov on August 7, 2019, at 1:29 PM. The message is attached and available for listening.",
+      "timestamp": "2019-08-07T00:00:00",
+      "timestamp_raw": "August 7, 2019",
+      "keywords": [
+        "efta00015704",
+        "redaction analysis",
+        "voip",
+        "usa.doj.gov",
+        "epsteinvictims",
+        "voice message",
+        "usanys"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015703",
+      "summary": "A voice message (EFTA00015703) was sent from “postmaster@voip.usa.doj.gov” to [REDACTED], with a copy sent to USANYS-EpsteinVictims. The message was dated August 7, 2019, at 1:36:08 PM.",
+      "timestamp": "2019-08-07T00:00:00",
+      "timestamp_raw": "August 7, 2019",
+      "keywords": [
+        "efta00015703",
+        "voip",
+        "doj",
+        "epstein",
+        "victims",
+        "voice message",
+        "redaction",
+        "usa",
+        "usa nys",
+        "august 2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00015706",
+            "similarity": 0.538,
+            "index": 9,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00015700",
+            "similarity": 0.667,
+            "index": 15,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00015702",
+      "summary": "A voice message, labeled \"EFTA00015702,\" was sent from postmaster@voip.usa.doj.gov to [REDACTED], with copies to USANYS-EpsteinVictims. The message is attached and available for listening.",
+      "timestamp": "2019-08-08T00:00:00",
+      "timestamp_raw": "08 Aug 2019",
+      "keywords": [
+        "efta00015702",
+        "redaction analysis",
+        "voip",
+        "doj",
+        "epstein",
+        "usanys",
+        "voice message",
+        "august 8",
+        "2019",
+        "attachments",
+        "postmaster"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00015708",
+            "similarity": 0.5,
+            "index": 6,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00015698",
+            "similarity": 0.5,
+            "index": 17,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00015701",
+      "summary": "A voice message, attached as a .wav file, was sent from “postmaster@voip.usa.doj.gov” to [REDACTED], with a copy sent to USANYS-EpsteinVictims. The message is labeled EFTA00015701 and dates back to August 12, 2019, at 8:08:41 AM.",
+      "timestamp": "2019-08-12T00:00:00",
+      "timestamp_raw": "August 12, 2019",
+      "keywords": [
+        "efta00015701",
+        "redaction analysis",
+        "voip",
+        "doj",
+        "epsteinvictims",
+        "voice message",
+        "usanys",
+        "2019",
+        "2025",
+        "usa"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00015699",
+            "similarity": 0.538,
+            "index": 16,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00015700",
+      "summary": "A voice message, attached as a .wav file (EFTA00015700), was received from a “WIRELESS CALLER” on August 14, 2019, at 8:28:35 AM. The message was sent to [REDACTED] and copied to USANYS-EpsteinVictims.",
+      "timestamp": "2019-08-14T00:00:00",
+      "timestamp_raw": "August 14, 2019",
+      "keywords": [
+        "efta00015700",
+        "voip",
+        "voice message",
+        "redaction",
+        "doj",
+        "wireless caller",
+        "epstein",
+        "usa",
+        "victims",
+        "usa nys"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00015703",
+            "similarity": 0.667,
+            "index": 12,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00015706",
+            "similarity": 0.538,
+            "index": 9,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00015710",
+            "similarity": 0.538,
+            "index": 5,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015699",
+      "summary": "On August 16, 2019, a voice message attachment (.wav) was sent from postmaster@voip.usa.doj.gov to [REDACTED], with a copy to USANYS-EpsteinVictims. The message is identified as EFTA00015699.",
+      "timestamp": "2019-08-16T00:00:00",
+      "timestamp_raw": "August 16, 2019",
+      "keywords": [
+        "efta00015699",
+        "redaction analysis",
+        "doj",
+        "voip",
+        "usanys",
+        "epsteinvictims",
+        "voice message",
+        "2019",
+        "august 16",
+        "attachment"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00015701",
+            "similarity": 0.538,
+            "index": 14,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015698",
+      "summary": "A voice message, identified as EFTA00015698, was sent from postmaster@voip.usa.doj.gov to [REDACTED], with a copy to USANYS-EpsteinVictims. The voice message was attached on August 19, 2019, at 2:20:11 PM.",
+      "timestamp": "2019-08-19T00:00:00",
+      "timestamp_raw": "August 19, 2019",
+      "keywords": [
+        "efta00015698",
+        "redaction analysis",
+        "voip",
+        "doj",
+        "epstein",
+        "usanys",
+        "victims",
+        "voice message",
+        "august 19",
+        "2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00015702",
+            "similarity": 0.5,
+            "index": 13,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00015708",
+            "similarity": 0.538,
+            "index": 6,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015697",
+      "summary": "On August 29, 2019, Epstein contacted multiple individuals (identified by phone numbers) to confirm receipt of previous calls. Numerous voice messages were attached to the email correspondence. The subject line indicates a desire to verify that the recipients had received prior communications. The document pertains to EFTA00015697.",
+      "timestamp": "2019-08-29T00:00:00",
+      "timestamp_raw": "August 29, 2019",
+      "keywords": [
+        "redaction analysis",
+        "efta00015697",
+        "epstein",
+        "voice message",
+        "calls",
+        "2019",
+        "redacted",
+        "4077619659",
+        "3323318056"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025228",
+      "summary": "Multiple email exchanges occurred between individuals, primarily involving the “[REDACTED] US GOVT,” regarding a voice message attachment (EFTA00025228 and EFTA00025229). One sender expresses concern that the messages are arriving in error alongside communications with the Epstein team. A request for a call at 1:30 PM was also sent.",
+      "timestamp": "2019-09-26T00:00:00",
+      "timestamp_raw": "26 Sep 2019",
+      "keywords": [
+        "efta00025228",
+        "us govt",
+        "voice message",
+        "redaction",
+        "epstein",
+        "september 26",
+        "2019",
+        "time",
+        "doj",
+        "attachment",
+        "error"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020909",
+      "summary": "A United States Attorney Assistant from the Southern District of New York received a voicemail attachment from an individual claiming to have information related to an ongoing investigation. The Assistant forwarded the voicemail to the FBI for handling, following standard procedure for passing along civilian information. The voicemail originated from a person who had previously contacted the agency in October.",
+      "timestamp": "2019-12-15T00:00:00",
+      "timestamp_raw": "15 Nov 2019",
+      "keywords": [
+        "efta00020909",
+        "fbi",
+        "investigation",
+        "voice message",
+        "redaction",
+        "assistant u.s. attorney",
+        "southern district of new york",
+        "je information",
+        "civilian information",
+        "communication"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019830",
+      "summary": "An email chain discusses a voice message from 2022466629, referencing David Hall and the Epstein case. A sender ([REDACTED]) forwards the message to another recipient ([REDACTED]), requesting a callback to Hall. The original sender ([REDACTED]) provides context that a former AUSA gave Hall’s number to an attorney seeking an SDNY contact. A separate email thread, originating from <posts@nt ip.u.solj.gov>, also includes the voice message.",
+      "timestamp": "2019-12-15T00:00:00",
+      "timestamp_raw": "15 Nov 2019",
+      "keywords": [
+        "efta00019830",
+        "david hall",
+        "epstein",
+        "voice message",
+        "ausa",
+        "sdny",
+        "attorney",
+        "redaction",
+        "2022466629",
+        "nt ip.u.solj.gov"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032212",
+      "summary": "A voice message was received from a number (2103718899) associated with USAA on August 31, 2020, at 4:05:37 PM. The voice message is attached to the document EFTA00032212.",
+      "timestamp": "2020-08-31T00:00:00",
+      "timestamp_raw": "August 31, 2020",
+      "keywords": [
+        "usaa",
+        "voice message",
+        "redaction",
+        "2103718899",
+        "2020",
+        "2025",
+        "attachment",
+        "audio",
+        "efta00032212"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025014",
+      "summary": "An individual received a voice message from Florida State Attorney Dave Aronberg regarding the Epstein case. The sender, identified only as “anal.”, forwarded the message to another recipient, seeking guidance before contacting Aronberg directly. The message was attached as a .wav file named ATT00001.htm.",
+      "timestamp": "2021-01-21T00:00:00",
+      "timestamp_raw": "21 Jan 2021",
+      "keywords": [
+        "efta00025014",
+        "dave aronberg",
+        "epstein case",
+        "florida state attorney",
+        "voice message",
+        "wbtw",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038714",
+      "summary": "An email chain, dated August 11, 2021, forwarded a voice message (EFTA00038714) from [REDACTED] to [REDACTED]. The email chain originated with Ori [REDACTED] and included a forwarded message from Maxwell [REDACTED] regarding a voice message attachment.",
+      "timestamp": "2021-08-11T00:00:00",
+      "timestamp_raw": "August 11, 2021",
+      "keywords": [
+        "voice message",
+        "redaction",
+        "email",
+        "attachment",
+        "2021",
+        "efta00038714"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038715",
+      "summary": "An email chain, originating from [REDACTED] to [REDACTED], discusses a voice message attached named “20210811 120731.wav”. The email includes references to “Maxwell” and follows standard practice for forwarding voice messages. The email subject line indicates the message is from “■”.",
+      "timestamp": "2021-08-18T00:00:00",
+      "timestamp_raw": "18 Aug 2021",
+      "keywords": [
+        "voice message",
+        "redaction",
+        "efta00038715",
+        "august 11",
+        "2021",
+        "fw",
+        "attachment",
+        "maxwell"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014715",
+      "summary": "A contractor ([REDACTED]) received a voice message from an individual claiming to have information about Ghislaine Maxwell and a connection to George Soros. The message was forwarded to another USANYS contact ([REDACTED]). The original message included a .wav file attachment and provided the recipient's phone number.",
+      "timestamp": "2021-12-23T00:00:00",
+      "timestamp_raw": "23 Nov 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "george soros",
+        "voice message",
+        "wirelessly",
+        "usanys",
+        "contractor",
+        "crime reporting",
+        "redaction analysis",
+        "information",
+        "tent csos"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023040",
+      "summary": "A Special Assistant to the U.S. Attorney for the Southern District of New York received a forwarded voice message from an individual claiming to have information about Ghislaine Maxwell and a connection to George Soros. The sender, [REDACTED], had previously forwarded all tips to the FBI. The forwarded message included a voice message attachment (EFTA00023041) and requested the recipient send the individual crime reporting materials.",
+      "timestamp": "2021-12-23T00:00:00",
+      "timestamp_raw": "23 Nov 2021",
+      "keywords": [
+        "efta00023040",
+        "ghislaine maxwell",
+        "george soros",
+        "fbi",
+        "voice message",
+        "redaction",
+        "tip",
+        "usanys",
+        "contractor",
+        "wireles"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00014717",
+            "similarity": 0.538,
+            "index": 28,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00014717",
+      "summary": "A communication chain regarding a voice message received from an individual claiming to have information about Ghislaine Maxwell and being a friend of George Soros. The initial sender, [REDACTED], forwarded the message to [REDACTED] (USANYS) for investigation, following protocol to pass tips to the FBI. The message was initially sent by [REDACTED] (USANYS) [Contractor] and included a voice message attachment named \"EFTA00014717\".",
+      "timestamp": "2021-12-23T00:00:00",
+      "timestamp_raw": "23 Nov 2021",
+      "keywords": [
+        "efta00014717",
+        "ghislaine maxwell",
+        "george soros",
+        "fbi",
+        "voice message",
+        "tip",
+        "protocol",
+        "contractor",
+        "usanys",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00023040",
+            "similarity": 0.538,
+            "index": 27,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    }
+  ]
+}

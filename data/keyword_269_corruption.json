@@ -1,0 +1,3700 @@
+{
+  "keyword": "corruption",
+  "count": 49,
+  "keyword_match_count": 49,
+  "content_match_count": 84,
+  "total_files": 133,
+  "timeline": [
+    {
+      "file_id": "EFTA00015711",
+      "summary": "On November 29, 2018, individuals within the United States Attorney's Office for the Southern District of New York (USANYS) discussed investigating the Epstein case. Suggestions included contacting the FBI's New York sex crimes squad and potentially obtaining an immediate subpoena. The discussion referenced a Miami Herald article related to the investigation.",
+      "timestamp": "2018-11-29T00:00:00",
+      "timestamp_raw": "November 29, 2018",
+      "keywords": [
+        "epstein",
+        "usanys",
+        "fbi",
+        "subpoena",
+        "redaction",
+        "investigation",
+        "miami herald",
+        "corruption",
+        "united states attorney",
+        "sex crimes"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00032502",
+            "similarity": 0.818,
+            "index": 1,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00032502",
+      "summary": "Emails dated November 29, 2018, detail discussions regarding an investigation related to Jeffrey Epstein. Participants include individuals within the United States Attorney’s Office for the Southern District of New York (USANYS), specifically the Chief Public Corruption Unit and FBI-NY’s sex crimes squad. The discussion centers on initiating an investigation, potentially involving a subpoena, and coordinating with the FBI to obtain the original investigative file. A link to a Miami Herald article is referenced. The emails involve coordination between multiple USANYS personnel regarding the investigation.",
+      "timestamp": "2018-11-29T00:00:00",
+      "timestamp_raw": "November 29, 2018",
+      "keywords": [
+        "epstein",
+        "fbi",
+        "usanys",
+        "subpoena",
+        "redaction",
+        "investigation",
+        "corruption",
+        "miami herald",
+        "us attorney",
+        "sex crimes"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00015711",
+            "similarity": 0.818,
+            "index": 0,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023709",
+      "summary": "A communication occurred between the Chief Public Corruption Unit of the United States Attorney’s Office for the Southern District of New York and multiple recipients regarding a memo related to “Epstein.” The email chain includes individuals associated with “USANYS” and “[REDACTED],” with a request for an opening memo to be brought in. The email was sent on November 30, 2018.",
+      "timestamp": "2018-11-30T00:00:00",
+      "timestamp_raw": "November 30, 2018",
+      "keywords": [
+        "epstein",
+        "redaction",
+        "usanys",
+        "corruption",
+        "united states attorney",
+        "southern district of new york",
+        "memo",
+        "opening",
+        "efta00023709"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00027926",
+            "similarity": 0.5,
+            "index": 9,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00024830",
+            "similarity": 0.6,
+            "index": 124,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00032410",
+      "summary": "This document is a collection of news articles from Law360, a legal news publication, covering various legal cases and developments from December 2018. Here’s a breakdown of the main content: *   **Criminal Cases:** Several individuals were convicted or pleaded guilty in cases involving stolen bank living wills (former FDIC staffer), bid-rigging (SUNY president), and bribery (Bloomberg and Turner executives), and fraud (Minnesota co-founder, Chicago attorney). *   **Extradition & Investigations:** The Canadian government granted bail to a Huawei executive facing extradition, and an investigation into the 2013 U.S. House of Representatives trip to Azerbaijan resulted in a guilty plea. *   **Regulatory & Enforcement Actions:** The U.S. government took action against Huawei, imposed settlements for overbilling by a Pennsylvania health network, charged an immigration attorney for aiding client fraud, and strengthened sanctions against Iran, Russia, and Venezuela. *   **Legal Industry Trends:** The U.S. legal industry experienced strong growth in 2018, with Microsoft recognizing Davis Wright Tremaine for diversity efforts, and a surge in legal hiring anticipated for 2019. *   **Other Developments:** Court reporting regulations were upheld, Stormy Daniels was ordered to pay legal fees, and various job postings were included.",
+      "timestamp": "2018-12-12T00:00:00",
+      "timestamp_raw": "December 12, 2018",
+      "keywords": [
+        "fdic",
+        "banking",
+        "living wills",
+        "fraud",
+        "corruption",
+        "legal",
+        "arbitration",
+        "sanctions",
+        "investigations",
+        "lawyers"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032922",
+      "summary": "This document is a 2019 Law360 publication offering a collection of articles focusing on key legal developments and trends anticipated for the year. Here’s a breakdown of the main content: *   **Top New York Cases to Watch:** The document highlights several significant cases expected to be prominent in the New York legal landscape in 2019, including those related to Donald Trump’s legal challenges, Harvey Weinstein’s sexual assault charges, and college basketball corruption. *   **Industry Trends:** It covers a range of legal industry topics, including financial services litigation, NYC real estate legislation, sports law developments, food and beverage trends (particularly around slack-fill litigation and cannabis edibles), and the rise of remote work for law firms. *   **Managing Partner Concerns:** The article details the top worries for managing partners in 2019, primarily focusing on cybersecurity threats, emerging technologies, and economic uncertainty. *   **Legal Practice Developments:** It reports on evolving parental benefits policies within law firms and the increasing demand for attorneys in key practice areas like corporate litigation. *   **Lateral Hiring and #MeToo:** The document discusses the dynamic lateral hiring market and the continued influence of the #MeToo movement on the legal industry. *   **General Counsel Concerns:** It outlines the primary concerns for general counsel, including cyberthreats and regulatory complexity. *   **Job Listings:** It includes a section with various job postings across different law firms and government agencies. Essentially, it’s a snapshot of the legal industry's outlook for 2019, encompassing high-profile cases, emerging trends, and key concerns for legal professionals and firms.",
+      "timestamp": "2019-01-02T00:00:00",
+      "timestamp_raw": "02 Jan 2019",
+      "keywords": [
+        "new york",
+        "cases",
+        "litigation",
+        "financial services",
+        "real estate",
+        "sports",
+        "#metoo",
+        "legal industry",
+        "general counsel",
+        "lateral hiring",
+        "trump",
+        "appeals",
+        "podcast",
+        "law firms",
+        "jobs"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013445",
+      "summary": "A meeting update regarding a “fast track” pipeline is being shared. The Deputy Chief of the Public Corruption Unit of the U.S. Attorney’s Office for the Southern District of N suggests MG would benefit from a more detailed understanding of the facts.  A document titled “Fast_Track_Meeting_1Q_-_Pipeline_Update.docx” is attached.",
+      "timestamp": "2019-01-21T00:00:00",
+      "timestamp_raw": "21 Jan 2019",
+      "keywords": [
+        "fast track",
+        "efta00013445",
+        "public corruption",
+        "u.s. attorney",
+        "meeting",
+        "pipeline",
+        "knowledge",
+        "facts",
+        "mg"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019213",
+      "summary": "On January 23, 2019, Alex from the USANYS Corruption Unit sent emails to Abigail Kurland and others regarding the Jeffrey Epstein case. He provided links to files, including scanned documents and draft indictments, accessible via a DOJ share drive. A subsequent email from [REDACTED] (USANYS) inquired about progress in obtaining these scanned documents, specifically the draft indictment and defense submissions. The emails involved individuals within the USANYS and the Southern District of New York.",
+      "timestamp": "2019-01-23T00:00:00",
+      "timestamp_raw": "January 23, 2019",
+      "keywords": [
+        "epstein",
+        "usanys",
+        "doj",
+        "share drive",
+        "indictment",
+        "letters",
+        "scans",
+        "florida",
+        "defense",
+        "corruption unit"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029182",
+      "summary": "An email was sent from the Deputy Chief, Public Corruption Unit of the U.S. Attorney’s Office for the York, to [REDACTED] and [REDACTED], requesting a meeting regarding “Epstein.” The email was sent on January 28, 2019.",
+      "timestamp": "2019-01-28T00:00:00",
+      "timestamp_raw": "January 28, 2019",
+      "keywords": [
+        "epstein",
+        "redaction",
+        "analysis",
+        "efta00029182",
+        "u.s. attorney's office",
+        "public corruption unit",
+        "york"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027925",
+      "summary": "A meeting is scheduled with the Attorney General (AG) on Monday regarding sensitive cases, including political and Epstein-related matters. Preparations involve providing detailed briefing memos to the brass by Thursday morning, derived from drafts to be delivered tomorrow. The individual is unavailable on Friday.",
+      "timestamp": "2019-02-19T00:00:00",
+      "timestamp_raw": "19 Feb 2019",
+      "keywords": [
+        "efta00027925",
+        "ag",
+        "briefings",
+        "sensitive cases",
+        "epstein",
+        "memo",
+        "dc",
+        "brass",
+        "united states attorney's office",
+        "corruption"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027926",
+      "summary": "Geoffrey Berman (USANYS) sent an email on February 19, 2019, to [REDACTED] requesting detailed briefing memos regarding Epstein, to be delivered by Thursday morning from the Chief Public Corruption Unit of the United States Attorney's Office for the Southern District of New York. The email included a reference to file EFTA00027926.",
+      "timestamp": "2019-02-19T00:00:00",
+      "timestamp_raw": "February 19, 2019",
+      "keywords": [
+        "efta00027926",
+        "geoffrey berman",
+        "epstein",
+        "briefings",
+        "redaction",
+        "usanys",
+        "corruption",
+        "united states attorney",
+        "southern district of new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00023709",
+            "similarity": 0.5,
+            "index": 2,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00024830",
+            "similarity": 0.6,
+            "index": 124,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00024713",
+      "summary": "A communication regarding detailed briefing memos was sent on February 19, 2019, from the Chief Public Corruption Unit of the United States Attorney’s Office for the Southern District of New York to Geoffrey Berman and others. The memo requested teams provide the briefings by Thursday morning, covering information related to Epstein.",
+      "timestamp": "2019-02-19T00:00:00",
+      "timestamp_raw": "February 19, 2019",
+      "keywords": [
+        "redaction",
+        "briefings",
+        "usanys",
+        "epstein",
+        "new york",
+        "united states attorney",
+        "corruption unit"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010956",
+      "summary": "This document presents a collection of news reports and intelligence analyses concerning terrorism investigations and related events, primarily focusing on 2019. Key themes include: *   **U.S. Coast Guard Officer Case:** A U.S. Coast Guard officer, Christopher Paul Hasson, was arrested and charged with studying extremist manifestos and conducting unauthorized searches for information on terrorist groups, facing charges including kidnapping conspiracy. *   **Somalia Kidnapping Investigation:** An investigation into the 2012 kidnapping of a journalist in Somalia involved Abdi Yusuf Hassan and Mohamed Tahlil Mohamed, with FBI holdings linked to the suspects. *   **ISIS-Related Activities:** The document details several ongoing investigations and incidents related to ISIS and affiliated groups, including: a former ISIS fighter providing intelligence to the FBI, the ongoing threat of ISIS online propaganda, the attempted recruitment of American citizens by ISIS, and the arrest of individuals linked to the group in Germany, Philippines, and Venezuela. *   **Counterterrorism Efforts:** It highlights various U.S. government strategies to combat terrorism, such as increased biometric scanning, data sharing, and targeted airstrikes against drug labs and militant groups (particularly in Afghanistan). *   **Extremist Returnees:** The document examines cases of individuals who returned from conflicts in Syria and Iraq, including a Canadian released from prison despite concerns about continued radicalization and the challenges of prosecuting individuals involved in overseas terrorist activities. *   **Venezuela Situation:** A former intelligence chief, Hugo Carvajal, defected and provided evidence against President Maduro’s inner circle, alleging corruption and drug trafficking. *   **Historical Context:**  The document includes a brief historical account of the U.S. government's involvement in a deceptive operation during the Reagan administration to monitor suspected terrorist contacts. Essentially, it's a snapshot of various ongoing terrorism investigations and counterterrorism efforts, demonstrating the persistent global threat and the diverse actors involved.",
+      "timestamp": "2019-02-22T00:00:00",
+      "timestamp_raw": "22 Feb 2019",
+      "keywords": [
+        "coast guard",
+        "terrorism",
+        "manifesto",
+        "anders behring breivik",
+        "unabomber",
+        "virginia tech",
+        "eric rudolph",
+        "somalia",
+        "kidnapping",
+        "ransom",
+        "isis",
+        "jihadist",
+        "terrorism travel",
+        "biometric scans",
+        "al-qaeda",
+        "fbi",
+        "syria",
+        "pakistan",
+        "germany",
+        "intelligence",
+        "terrorist groups",
+        "afghanistan",
+        "us citizen",
+        "efta"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027045",
+      "summary": "An email dated March 1, 2019, from Epstein, Chief Public Corruption Unit of the United States Attorney's Office for the Southern District of New York, to an unknown recipient regarding an update concerning a division, labeled EFTA00027045.",
+      "timestamp": "2019-03-01T00:00:00",
+      "timestamp_raw": "March 1, 2019",
+      "keywords": [
+        "efta00027045",
+        "corruption",
+        "united states attorney",
+        "division",
+        "update",
+        "epstein"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027700",
+      "summary": "On March 1, 2019, an individual (aa) received a response to an inquiry about an Epstein investigation from the Public Corruption Unit of the U.S. Attorney’s Office for the Southern District of New York. The unit’s Deputy Chief introduced himself and offered a call for the following day or Monday. A previous email chain initiated on February 28, 2019, involved a request for a phone call around 1:30/2 p.m. regarding the investigation.",
+      "timestamp": "2019-03-01T00:00:00",
+      "timestamp_raw": "March 1, 2019",
+      "keywords": [
+        "epstein",
+        "redaction",
+        "usanys",
+        "southern district of new york",
+        "public corruption unit",
+        "ausas",
+        "phone call",
+        "meeting",
+        "2019",
+        "2025"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00027046",
+            "similarity": 0.667,
+            "index": 15,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00009883",
+      "summary": "An email was sent from the Deputy Chief, Public Corruption Unit, U.S. Attorney's Office for the Southern District of New York to [REDACTED] and [REDACTED], with CC to [REDACTED], regarding a contact with the National Coordinator for Child Exploitation and Interdiction, in ODAG. The email refers to EFTA00009883.",
+      "timestamp": "2019-03-01T00:00:00",
+      "timestamp_raw": "01 Mar 2019",
+      "keywords": [
+        "epstein",
+        "redaction",
+        "efta00009883",
+        "u.s. attorney",
+        "child exploitation",
+        "odag",
+        "public corruption unit",
+        "southern district of new york"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00017960",
+            "similarity": 0.556,
+            "index": 21,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00027228",
+            "similarity": 0.625,
+            "index": 57,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00027046",
+      "summary": "On March 1, 2019, the Public Corruption Unit of the U.S. Attorney’s Office for the Southern District of New York contacted individuals regarding an investigation related to Jeffrey Epstein. One individual responded with availability for a call at 1:30 PM. Another individual, a Deputy Chief, initiated the contact, introducing the unit and inquiring about a call time the following day or Monday. The email chain includes redacted names and email addresses.",
+      "timestamp": "2019-03-01T00:00:00",
+      "timestamp_raw": "March 1, 2019",
+      "keywords": [
+        "epstein",
+        "redaction",
+        "u.s. attorney",
+        "southern district of new york",
+        "public corruption unit",
+        "ausas",
+        "phone call",
+        "2019",
+        "2025",
+        "efta00027046"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00027700",
+            "similarity": 0.667,
+            "index": 13,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00027228",
+            "similarity": 0.5,
+            "index": 57,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00020792",
+      "summary": "A communication thread exists between the Chief Public Corruption Unit of the United States Attorney’s Office for the Southern District of New York and an individual (identified as [REDACTED]) regarding a request to recall the name of a “Chief of Staff” for inclusion in an Epstein memo.",
+      "timestamp": "2019-03-12T00:00:00",
+      "timestamp_raw": "12 Mar 2019",
+      "keywords": [
+        "efta00020792",
+        "redaction analysis",
+        "usanys",
+        "chief of staff",
+        "epstein",
+        "corruption",
+        "united states attorney",
+        "southern district of new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00024830",
+            "similarity": 0.5,
+            "index": 124,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00019319",
+      "summary": "Email correspondence regarding the Epstein case, specifically inquiring about a ruling from \"CM.\" The email chain involves individuals associated with the U.S. Attorney's Office for the Southern District of New York.  Two redactions are present in the document.",
+      "timestamp": "2019-04-04T00:00:00",
+      "timestamp_raw": "04 Apr 2019",
+      "keywords": [
+        "epstein",
+        "redaction",
+        "usanys",
+        "cm",
+        "ruling",
+        "corruption",
+        "u.s. attorney"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013211",
+      "summary": "An email thread discusses identifying potential victim witnesses related to Jeffrey Epstein’s activities. The emails involve multiple individuals within the Chief Public Corruption Unit of the United States Attorney’s Office for the Southern District of New York.  Specifically, one individual (identified as [REDACTED]) references reviewing old Epstein 302s and grand jury testimony, identifying several individuals and another 3-5, as “potentially significant victim witnesses” due to their age and conduct. The thread explores scheduling a discussion about these individuals and whether to attempt to engage with those not yet contacted.",
+      "timestamp": "2019-04-16T00:00:00",
+      "timestamp_raw": "16 Apr 2019",
+      "keywords": [
+        "epstein victims",
+        "redaction analysis",
+        "efta00013211",
+        "united states attorney's office",
+        "grand jury testimony",
+        "victim witnesses",
+        "corruption"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013274",
+      "summary": "A communication from the Chief Public Corruption Unit of the United States Attorney’s Office for the Southern District of New York requests information on attempts to engage potential victim witnesses related to Jeffrey Epstein’s activities, specifically referencing names identified from reviews of Epstein’s 302s and grand jury testimony. The email asks about whether these names have been contacted and proposes whether further engagement should be pursued.",
+      "timestamp": "2019-04-16T00:00:00",
+      "timestamp_raw": "16 Apr 2019",
+      "keywords": [
+        "epstein",
+        "victims",
+        "redaction",
+        "witnesses",
+        "corruption",
+        "united states",
+        "attorney",
+        "grand jury",
+        "massages",
+        "engagement"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00011084",
+      "summary": "This document is a series of email exchanges and observations from Chris Dilorio concerning potential money laundering and fraudulent activities involving Apollo Global Management, Jeffrey Epstein, Leon Black, Joshua Harris, and Jared Kushner. Key points include: *   **Suspicion of Money Laundering:** Dilorio believes Apollo and other individuals (Epstein, Black, Harris) are facilitating money laundering through shell companies, particularly Environmental Solutions Worldwide (ESWW), which was formerly listed on the OTC market. *   **Connections to Kushner Enterprises:** The document highlights connections between Apollo, Kushner Companies, and figures like Kushner Jr. and Kushner's consideration for a White House job. A $180 million loan was provided to Kushner’s business by a financial firm a month before the SEC dropped an investigation. *   **SEC Investigation and Concerns:** Dilorio expresses frustration with the SEC's perceived inaction and suggests they are enabling fraud by allowing \"dark\" shell companies to operate. He references SEC filings and investigations into Epstein and EWW. *   **Financial Flows:** The document mentions significant inflows into Apollo (over $60 billion in 2018) and notes instances of Apollo providing funds to Kushner entities. *   **Legal Team Involvement:** References are made to attorneys at Krieger, Kim & Lewin LLP, known for handling complex financial fraud cases. The overall tone is highly critical and accusatory, alleging systemic corruption and deliberate concealment of wrongdoing.",
+      "timestamp": "2019-04-25T00:00:00",
+      "timestamp_raw": "25 Apr 2019",
+      "keywords": [
+        "apollo",
+        "epstein",
+        "kushner",
+        "sec",
+        "money laundering",
+        "shell companies",
+        "environmental solutions worldwide",
+        "leon black",
+        "jeffrey epstein",
+        "o'melveny & myers",
+        "jamie gorelick",
+        "wilmerhale",
+        "stephanie avakian",
+        "christopher dilorio",
+        "financial fraud",
+        "naked shorting"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00017960",
+      "summary": "An email was sent from a U.S. Attorney’s Office for the Southern District of New York Co-Chief, Public Corruption Unit, to an unidentified recipient regarding “Epstein.” The email requests the recipient to “swing by when you have a second.”",
+      "timestamp": "2019-05-09T00:00:00",
+      "timestamp_raw": "09 May 2019",
+      "keywords": [
+        "epstein",
+        "redaction",
+        "efta00017960",
+        "u.s. attorney",
+        "public corruption unit",
+        "southern district of new york"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00009883",
+            "similarity": 0.556,
+            "index": 14,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00027228",
+            "similarity": 0.833,
+            "index": 57,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00031974",
+      "summary": "On May 10, 2019, Jeffrey Epstein sent a revised and shortened memo for ODAG (U.S. Attorney's Office for the Southern District of New York, Public Corruption Unit) to Audrey Strauss, Co-Chief, Public Corruption Unit. The memo was attached to an email sent from his iPhone.",
+      "timestamp": "2019-05-10T00:00:00",
+      "timestamp_raw": "May 10, 2019",
+      "keywords": [
+        "epstein memo",
+        "odag",
+        "strauss audrey",
+        "public corruption unit",
+        "u.s. attorney's office",
+        "memo",
+        "2019-05-10",
+        "revised",
+        "attachments"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032316",
+      "summary": "A communication is being sent from the Co-Chief, Public Corruption Unit of the U.S. Attorney’s Office for the Southern District of New York to “a” regarding a memo about Jeffrey Epstein. The sender requests the shortened memo be completed before a recipient, referred to as “she,” leaves around 2:00 PM.",
+      "timestamp": "2019-05-10T00:00:00",
+      "timestamp_raw": "10 May 2019",
+      "keywords": [
+        "epstein",
+        "efta00032316",
+        "memo",
+        "usanys",
+        "public corruption unit",
+        "shortened",
+        "2019",
+        "leaving"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010305",
+      "summary": "Dilorio accuses the SEC of corruption, allowing fraudulent activities (specifically related to Environmental Solutions Worldwide, Inc. – ESWW) to proceed, and facilitating money laundering schemes. Key claims include: *   **SEC Corruption:** Dilorio believes the SEC is bought and paid for by criminals, enabling fraud. *   **ESWW Fraud:** ESWW was allegedly used for illicit activities, involving numerous shell companies and individuals like Leon Black and Josh Harris. *   **Kushner Connections:** Extensive links between the Kushner family, Apollo, Epstein, and other firms are detailed, including loans, investments, and discussions about White House positions. *   **Milken Influence:** The document highlights the recurring presence of figures connected to Michael Milken (e.g., Leon Black, Apollo) within these schemes. *   **Regulatory Oversight Issues:** Concerns are raised about the adequacy of regulatory oversight by the SEC and the potential for conflicts of interest. *   **Call for Investigation:** Dilorio demands a full investigation into these alleged activities and threatens to expose further wrongdoing if the SEC fails to act. The document is heavily reliant on URLs to supporting evidence and frequently expresses a tone of outrage and accusation.",
+      "timestamp": "2019-05-19T00:00:00",
+      "timestamp_raw": "19 May 2019",
+      "keywords": [
+        "sec",
+        "fraud",
+        "market manipulation",
+        "epstein",
+        "kushner",
+        "apollo",
+        "madoff",
+        "overstock",
+        "george economou",
+        "dryships",
+        "naked short selling",
+        "financial markets",
+        "regulatory investigation",
+        "money laundering",
+        "criminal organization",
+        "william ackman",
+        "jamie gorelick",
+        "christopher dilorio"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029043",
+      "summary": "This document, likely a whistleblower’s collection of evidence, alleges a complex network of corruption involving prominent figures and financial institutions. Here's a breakdown of the key points: *   **Stephen M. Calk and Presidential Administration:** The initial email details Calk’s alleged attempts to secure a position within the Trump administration in exchange for approving $16 million in loans. *   **SEC Investigations & Pump & Dump Schemes:** The document highlights multiple SEC investigations, primarily focused on Phillip Frost’s alleged involvement in pump-and-dump stock schemes and the operation of Alpha Capital Liechtenstein. It accuses the SEC of deliberately allowing fraudulent activities to continue. *   **Connections to Apollo, Epstein, Kushner, and Putin:** A central theme is the interconnectedness of Apollo Global Management, Leon Black, Jeffrey Epstein, and Jared Kushner. The document suggests links between these individuals and alleged money laundering schemes involving entities like DryShips, Russia’s fund backing, and various shell corporations. *   **Regulatory Failures:** The text accuses the SEC of systemic corruption, allowing fraudulent activities to persist and failing to adequately investigate key individuals and firms, pointing to instances where the SEC seemingly aided Kushner Companies and other problematic entities. *   **Targeted Individuals/Entities:** Specific names repeatedly mentioned include: Stephen Feinberg (Cerberus), George Economou (DryShips), Marc Bistricer (Toronto-based investment houses), and various firms like OMV Management, Wilmer Hale, and Krieger Kim & Lewin. *   **Ongoing Investigation and Threats:** The final pages reveal the whistleblower’s frustration with the SEC’s inaction and expresses a belief that the investigation is aimed at intimidating him. The overall narrative presented is a highly critical one, accusing a network of powerful individuals and institutions of systemic fraud and corruption, with the SEC failing to act decisively.",
+      "timestamp": "2019-05-23T00:00:00",
+      "timestamp_raw": "23 May 2019",
+      "keywords": [
+        "efta00029043",
+        "apollo",
+        "epstein",
+        "kushner",
+        "sec",
+        "fraud",
+        "stock schemes",
+        "stephen m. calk",
+        "phillip frost",
+        "audrey strauss",
+        "william f. sweeney jr.",
+        "patricia tarasca",
+        "lorber",
+        "vector",
+        "elliman",
+        "justice department",
+        "bank ceo",
+        "pump-and-dump",
+        "money laundering",
+        "george economou",
+        "reg d",
+        "regulatory investigations",
+        "christopher dilorio",
+        "stephanie avakian",
+        "howard e. heiss",
+        "leon black",
+        "kushner companies",
+        "financial trust company",
+        "miller hale",
+        "krim kim lewin",
+        "carl kline"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010750",
+      "summary": "**Key Points:** *   **Allegations of Fraud & Money Laundering:** The core of the material revolves around accusations of money laundering through shell companies, particularly Environmental Solutions Worldwide (ESWW), involving figures like Leon Black, Jeffrey Epstein, and George Economou.  There are claims of manipulated stock prices, connections to the Mafia, and illicit transactions. *   **SEC Investigation:** The emails detail attempts to bring attention to the SEC’s potential corruption and lack of action regarding these activities.  There's a repeated assertion that the SEC is bought and paid for by criminals. *   **Connections to Kushner Companies:** Extensive links are made between the individuals and companies involved and Jared Kushner’s business ventures, including loans and real estate deals. *   **Notable Figures Involved:** The document names several key individuals repeatedly – Leon Black, Jeffrey Epstein, George Economou, Andrew Ekonomou, Stephen Feinberg (Cerberus), and individuals connected to Milken's former firms. *   **Legal Actions:**  References are made to legal actions taken by the U.S. Attorney’s office in New York, including indictments related to a boiler room stock fraud scheme and investigations into EWW. *   **“Dark Companies” & SEC Tactics:** The material highlights the SEC’s practice of allowing “dark” companies (those that cease filing financial reports) to remain listed, potentially facilitating fraudulent activities. *   **Ongoing Investigation:** The document’s tone suggests a persistent, ongoing investigation and a frustration with the apparent inaction of regulatory bodies. **Note:** This summary focuses solely on the factual content presented in the provided document and does not include any introductory or interpretive language. The source material contains inflammatory language and allegations that need to be verified independently.",
+      "timestamp": "2019-05-23T00:00:00",
+      "timestamp_raw": "23 May 2019",
+      "keywords": [
+        "efta00010750",
+        "efta00010751",
+        "efta00010752",
+        "efta00010753",
+        "efta00010754",
+        "efta00010755",
+        "efta00010756",
+        "efta00010757",
+        "efta00010758",
+        "efta00010759",
+        "efta00010760",
+        "efta00010761",
+        "efta00010762",
+        "efta00010763",
+        "efta00010764",
+        "efta00010765",
+        "efta00010766"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010767",
+      "summary": "This document presents a whistleblower’s investigation into potential financial crimes involving prominent figures and firms, primarily focusing on connections between Apollo Global Management, Jeffrey Epstein, Jared Kushner, and various shell corporations. Key findings and claims include: *   **Money Laundering Schemes:** The whistleblower alleges widespread money laundering activities involving entities like DryShips, Alpha Capital Anstalt, and numerous others, facilitated through complex financial structures and shell companies. *   **Connections to Epstein & Kushner:** The document explores potential links between Epstein, Kushner, and Black, connecting them through Apollo, Harris, and other shared associates. Allegations include illicit loans, financial support, and potentially, complicity in fraud. *   **SEC Corruption:** The whistleblower accuses the SEC of deliberate obstruction and corruption, highlighting instances where investigations were dropped or stalled despite clear evidence of wrongdoing, often benefiting Apollo and related parties. *   **Specific Targets:** The document names numerous individuals and firms, including Stephen M. Calk, Phillip Frost, George Economou, Jamie Gorelick, and various lawyers (Krieger, Kim, Lewin). *   **Regulatory Concerns:** The whistleblower expresses concern about the influx of private equity and hedge fund investment in the insurance industry and criticizes the lack of oversight and regulatory scrutiny. The document is presented as a series of emails and attachments, containing links to relevant SEC filings, news articles, and legal documents, reinforcing the whistleblower’s claims.",
+      "timestamp": "2019-05-24T00:00:00",
+      "timestamp_raw": "24 May 2019",
+      "keywords": [
+        "efta00010767",
+        "apollo",
+        "epstein",
+        "kushner",
+        "money laundering",
+        "sec",
+        "fraud",
+        "financial crimes",
+        "william e sweeney jr",
+        "patricia tarasca",
+        "leon black",
+        "george economou",
+        "stephen m. calk",
+        "phillip frost",
+        "new valley corp",
+        "bartlett j. “bj” harris",
+        "christopher dilorio",
+        "regulatory investigations",
+        "shell companies",
+        "ukraine",
+        "putin"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029441",
+      "summary": "An email was sent from a U.S. Attorney’s Office for the Southern District of New York Co-Chief, Public Corruption Unit, to an unknown recipient regarding ODAG update memos. The sender notes a historical trend of these memos being related to “MC” matters, but the current memo concerns Jeffrey Epstein and requests the recipient’s preference for review before it is sent to Audrey.",
+      "timestamp": "2019-06-19T00:00:00",
+      "timestamp_raw": "19 Jun 2019",
+      "keywords": [
+        "efta00029441",
+        "odag",
+        "redaction",
+        "epstein",
+        "mc",
+        "u.s. attorney's office",
+        "public corruption unit",
+        "memos",
+        "review",
+        "audrey"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030506",
+      "summary": "An email exchange occurred between [REDACTED], [REDACTED], and [REDACTED] regarding ODAG update memos. One party requested to review the memos, particularly due to their connection to Epstein, while the other party initially intended to send them directly to Audrey. The subject of the memos was related to the Public Corruption Unit within the U.S. Attorney’s Office for the Southern District of New York.",
+      "timestamp": "2019-06-19T00:00:00",
+      "timestamp_raw": "19 Jun 2019",
+      "keywords": [
+        "efta00030506",
+        "odag",
+        "update memos",
+        "redaction",
+        "epstein",
+        "mc",
+        "public corruption unit",
+        "u.s. attorney's office",
+        "southern district of new york"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014468",
+      "summary": "An email chain discusses a list of victims related to Jeffrey Epstein. One party confirms that all listed victims are from Florida, and that a principal NY victim is not on the list. The email exchanges inquire about specific victims (2, 3, and 4) and the total number of names on the list.",
+      "timestamp": "2019-06-27T00:00:00",
+      "timestamp_raw": "27 Jun 2019",
+      "keywords": [
+        "epstein",
+        "victims",
+        "list",
+        "redaction",
+        "npa",
+        "florida",
+        "names",
+        "ny",
+        "corruption",
+        "united states attorney"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014467",
+      "summary": "On June 27, 2019, an email indicates that a list of victims related to the Epstein case, obtained via a side-letter to the NPA, does not include the principal New York victim. All listed victims appear to be from Florida.",
+      "timestamp": "2019-06-27T00:00:00",
+      "timestamp_raw": "June 27, 2019",
+      "keywords": [
+        "epstein",
+        "victims",
+        "florida",
+        "npa",
+        "side-letter",
+        "corruption",
+        "united states",
+        "attorney",
+        "efta00014467"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014466",
+      "summary": "An email from the Public Corruption Unit of the United States Attorney's Office for the Southern District of New York to an unnamed recipient discusses a case involving Jeffrey Epstein. The email states that a list of victims obtained from the NPA does not include the principal New York victim, and that all listed victims appear to be from Florida.",
+      "timestamp": "2019-06-27T00:00:00",
+      "timestamp_raw": "27 Jun 2019",
+      "keywords": [
+        "epstein",
+        "victims",
+        "florida",
+        "npa",
+        "redaction",
+        "ny",
+        "public corruption",
+        "united states attorney's office",
+        "side-letter"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010577",
+      "summary": "An email chain discusses a document titled \"Epstein NPA Appendix.\" The Office of Professional Responsibility (OPR) at the U.S. Department of Justice is assisting with obtaining a copy of the appendix, which includes a list of victims entitled to compensation. The Chief Public Corruption Unit of the United States Attorney's Office for the Southern District of New York is requesting assistance in retrieving this non-public appendix (EFTA00010577 and EFTA00010578).",
+      "timestamp": "2019-06-27T00:00:00",
+      "timestamp_raw": "27 Jun 2019",
+      "keywords": [
+        "epstein",
+        "npa",
+        "redaction",
+        "opr",
+        "victims",
+        "compensation",
+        "justice",
+        "u.s. department of justice",
+        "southern district of new york",
+        "dodag"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014460",
+      "summary": "The Office of Professional Responsibility (OPR) at the U.S. Department of Justice is assisting with a request for a non-public appendix related to the Epstein NPA. The Chief Public Corruption Unit is seeking this appendix, which contains a list of victims entitled to compensation, and inquired if ODAG had a copy or could retrieve it. The email thread indicates OPR will provide a copy separately.",
+      "timestamp": "2019-06-27T00:00:00",
+      "timestamp_raw": "27 Jun 2019",
+      "keywords": [
+        "epstein npa",
+        "opr",
+        "victims",
+        "compensation",
+        "justice",
+        "department of justice",
+        "redaction analysis",
+        "emi",
+        "odag",
+        "u.s. attorney"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021281",
+      "summary": "On July 6, 2019, individuals were discussing the FBI’s involvement in a case related to Jeffrey Epstein’s arrest for sex trafficking of minors. The FBI was leaking details of a sealed indictment, which was being handled by the Public Corruption Unit of the Southern District of New York, alongside human-trafficking officials. Kaplan Hecker had already been contacted by the FBI, and efforts were underway to contact her as well. The Daily Beast was reporting on the leaked indictment and Epstein's arrest. EFTA00021281 and EFTA00021282 were referenced.",
+      "timestamp": "2019-07-06T00:00:00",
+      "timestamp_raw": "July 6, 2019",
+      "keywords": [
+        "fbi",
+        "daily beast",
+        "epstein",
+        "sex trafficking",
+        "indictment",
+        "southern district of new york",
+        "kaplan hecker",
+        "redaction analysis",
+        "efta00021281",
+        "efta00021282"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00021300",
+            "similarity": 0.538,
+            "index": 37,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00021279",
+            "similarity": 0.538,
+            "index": 38,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00021277",
+      "summary": "On July 6, 2019, multiple news outlets, including the New York Times and Miami Herald, reported the arrest of Jeffrey Epstein on charges related to sex trafficking of minors. The case is being handled by the Public Corruption Unit of the Southern District of New York, with assistance from human-trafficking officials and the FBI. The FBI is leaking the details of the sealed indictment.",
+      "timestamp": "2019-07-06T00:00:00",
+      "timestamp_raw": "July 6, 2019",
+      "keywords": [
+        "efta00021277",
+        "jeffrey epstein",
+        "sex trafficking",
+        "arrest",
+        "indictment",
+        "southern district of new york",
+        "fbi",
+        "new york times",
+        "miami herald",
+        "daily beast"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021300",
+      "summary": "On July 6, 2019, multiple individuals were communicating regarding the Daily Beast’s reporting on the Jeffrey Epstein arrest and indictment. The FBI was leaking details of the sealed indictment, specifically the content of the arrest and indictment shared by two officials. The case was being handled by the Public Corruption Unit of the Southern District of New York, with assistance from the FBI and human-trafficking officials.  Several individuals, including Kaplan Hecker, were contacted in relation to the case.",
+      "timestamp": "2019-07-06T00:00:00",
+      "timestamp_raw": "July 6, 2019",
+      "keywords": [
+        "fbi",
+        "daily beast",
+        "epstein",
+        "sex trafficking",
+        "indictment",
+        "redaction",
+        "southern district of new york",
+        "kaplan hecker",
+        "public corruption unit",
+        "arrest"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00021281",
+            "similarity": 0.538,
+            "index": 35,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00021279",
+            "similarity": 0.538,
+            "index": 38,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00021279",
+      "summary": "The FBI contacted Kaplan Hecker and others, including two other victims and their attorneys, regarding a Daily Beast article about Jeffrey Epstein’s arrest. The Public Corruption Unit of the Southern District of New York, along with human-trafficking officials and the FBI, is handling the case involving the leaked press release, sealed indictment, and details of the arrest shared by two officials.  The Daily Beast article referenced the indictment.",
+      "timestamp": "2019-07-07T00:00:00",
+      "timestamp_raw": "07 Jul 2019",
+      "keywords": [
+        "fbi",
+        "epstein",
+        "sex trafficking",
+        "daily beast",
+        "indictment",
+        "public corruption unit",
+        "new york",
+        "kaplan hecker",
+        "redaction analysis",
+        "efta00021279"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00021300",
+            "similarity": 0.538,
+            "index": 37,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00021281",
+            "similarity": 0.538,
+            "index": 35,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028322",
+      "summary": "Jeffrey Epstein is obtaining subpoenas for several individuals, including Ghislaine Maxwell (his known client and one of his pilots), Miami household staff, a recruiter, and another pilot. Subpoenas have also been issued to individuals with knowledge of offenses, though many victims have not been subpoenaed to date. The subpoenas are being handled by the Chief Public Corruption Unit of the United States Attorney's Office for the Southern District of New York.",
+      "timestamp": "2019-07-10T00:00:00",
+      "timestamp_raw": "10 Jul 2019",
+      "keywords": [
+        "epstein",
+        "subpoenas",
+        "ghislaine maxwell",
+        "victims",
+        "pilot",
+        "miami",
+        "recruiter",
+        "offenses",
+        "corruption",
+        "united states attorney"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00011051",
+      "summary": "Okay, here’s a factual summary of the provided text, without introductions: The document is a series of emails and filings relating to investigations into potential fraudulent activities involving Jeffrey Epstein, Apollo Global Management, Kushner Companies, and related financial entities. Key points include: *   **Epstein's Finances:** The emails reveal a focus on uncovering the true extent of Epstein’s wealth and potential money laundering through “Infinite Means” and connections like Janey, Martin Schlaff, and Graftech Global Enterprises. *   **SEC Scrutiny:** The text alleges a pattern of the SEC covering up or failing to adequately investigate fraud involving companies like DryShips, ESWW (Environmental Solutions Worldwide), and various shell companies.  It accuses the SEC of being deliberately obstructive and protecting criminal actors. *   **Connections and Suspects:** Numerous individuals and organizations are implicated, including Leon Black (Apollo), Josh Harris, Jared Kushner, Stephen Feinberg (Cerberus), and Howard Heiss (O’Melveny & Myers).  Connections are made between these figures and the Epstein network. *   **Money Laundering Schemes:** The core theme is the identification of complex money laundering schemes facilitated by shell corporations and lax regulatory oversight. Allegations involve the manipulation of stock prices, inflated valuations, and the use of offshore accounts. *   **Ongoing Investigations:** The emails reference ongoing investigations by the FBI, DOJ, and SEC, suggesting continued efforts to expose these fraudulent activities. *   **Specific Redactions**: Several pages contain redactions, suggesting the sensitive nature of the information contained within. * **Final Threat**: The final email includes a direct threat to the recipients, emphasizing the whistleblower’s belief in the SEC's corruption and their intent to pursue legal action. This document presents a collection of accusations and observations related to financial wrongdoing, primarily centered around the interconnectedness of prominent figures and financial institutions.",
+      "timestamp": "2019-07-11T00:00:00",
+      "timestamp_raw": "11 Jul 2019",
+      "keywords": [
+        "efta00011051",
+        "apollo",
+        "epstein",
+        "kushner",
+        "sec",
+        "graftech",
+        "martin schlaff",
+        "nite",
+        "virt",
+        "money laundering",
+        "berger montague",
+        "tmc",
+        "boston",
+        "finra",
+        "investments",
+        "short selling",
+        "reg d",
+        "financial solutions worldwide",
+        "christopher dilorio",
+        "leon black",
+        "brookfield",
+        "krieger kim lewin",
+        "william f sweeney",
+        "corruption",
+        "fraud",
+        "criminal organization"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029234",
+      "summary": "This document is a redacted email chain detailing an FBI investigation into potential trafficking and sexual exploitation of children, possibly linked to the Epstein case. An FBI agent is coordinating with a former agent and an investigative journalist to contact a male victim who has information about high-level government involvement, including a former president. The journalist has a female retired cop contact who is deceased and has received reports of alleged victims. Another individual, a deceased Arkansas Senator, was also involved in a CPS corruption case that the FBI is potentially investigating. The journalist believes the victim possesses valuable information and requests assistance in setting up a contact for an interview.",
+      "timestamp": "2019-07-12T00:00:00",
+      "timestamp_raw": "July 12, 2019",
+      "keywords": [
+        "fbi",
+        "trafficking",
+        "victims",
+        "information",
+        "epstein",
+        "journalist",
+        "investigation",
+        "new york",
+        "fraud",
+        "redacted"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015531",
+      "summary": "An email was sent from the Co-Chief, Public Corruption Unit of the U.S. Attorney’s Office for the Southern District of New York to [REDACTED] and [REDACTED], with CC’d to [REDACTED]. The email discusses a response to a government opposition to a bail motion, including an attached PDF named “2019-07-12,_JE,_govemment_opposition_to_bail_motioniwith_exhibits.pdf”.",
+      "timestamp": "2019-07-12T00:00:00",
+      "timestamp_raw": "2019-07-12",
+      "keywords": [
+        "efta00015531",
+        "redaction analysis",
+        "pstem",
+        "government opposition",
+        "bail motion",
+        "u.s. attorney's office",
+        "southern district of new york",
+        "response",
+        "exhibits"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018185",
+      "summary": "This email, dated July 12, 2019, originates from the Co-Chief of the Public Corruption Unit of the U.S. Attorney’s Office for EFTA00018185 and is addressed to an unidentified recipient. It concerns a draft request for the release of Jo Bail, attached as “2019-07-12 JE_responsejo_bail_release_request_draft_5_-_CLEAN.docx.”",
+      "timestamp": "2019-07-12T00:00:00",
+      "timestamp_raw": "July 12, 2019",
+      "keywords": [
+        "efta00018185",
+        "redaction analysis",
+        "efta",
+        "u.s. attorney's office",
+        "2019-07-12",
+        "release request",
+        "corruption unit"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014479",
+      "summary": "An email was sent from the Chief Public Corruption Unit of the United States Attorney’s Office for the Southern District of New York to Stewart, Crai A. regarding an “Epstein filing.” The email included a defense letter (2019.07.16 Defense Letter.pdf) and was sent on July 16, 2019. Several recipients are redacted.",
+      "timestamp": "2019-07-16T00:00:00",
+      "timestamp_raw": "July 16, 2019",
+      "keywords": [
+        "epstein",
+        "usanys",
+        "redaction",
+        "stewart",
+        "crai a.",
+        "defense letter",
+        "southern district of new york",
+        "united states attorney's office",
+        "corruption unit",
+        "2019.07.16"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018383",
+      "summary": "A communication, dated July 18, 2019, from the U.S. Attorney’s Office for the Southern District of New York’s Public Corruption Unit (specifically a Co-Chief) requests a meeting with individuals at USANYS to discuss Epstein’s finances. The communication includes multiple redacted names and contact information.",
+      "timestamp": "2019-07-18T00:00:00",
+      "timestamp_raw": "July 18, 2019",
+      "keywords": [
+        "epstein finances",
+        "usanys",
+        "redaction analysis",
+        "public corruption unit",
+        "southern district of new york"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00026572",
+            "similarity": 0.571,
+            "index": 91,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00010724",
+      "summary": "Okay, here’s a factual summary of the provided text, without introductions: The document is a collection of emails and filings primarily authored by Chris Dilorio, alleging widespread financial fraud and corruption involving multiple entities and individuals, including: *   **Apollo Global Management:** Accused of facilitating money laundering through various shell companies and connections to figures like Jeffrey Epstein, Jared Kushner, and Leon Black. *   **Jeffrey Epstein:** Implicated in financial schemes linked to Apollo and other entities. *   **Jared Kushner:** Involved in deals with Apollo and alleged to have received financial support. *   **Brian Colleran:**  Connected to fraudulent healthcare claims and a network of shell companies. *   **Chad Readler:**  Presented as a rapid appointment to a judicial role linked to White House corruption. *   **Various SEC Investigations:**  Allegations that the SEC was complicit in allowing fraudulent activity and failing to adequately investigate. *   **Numerous shell companies:** Including DryShips, Graftech, Environmental Solutions Worldwide, NITE, VIRT, and many others, are portrayed as conduits for illicit financial transactions. *   **Greek Shipping Interests:** Connections highlighted involving Economou and other shipping-related entities. *   **Leon Black & Milken Connections:**  Links between Black, Milken, and various associated entities are repeatedly mentioned. *   **Regulatory Failures:** Criticisms directed at the SEC's handling of investigations and its perceived protection of corrupt actors. The emails contain references to specific filings, investigations (including those by the FBI and DOJ), and individuals involved, painting a narrative of systemic corruption and abuse of financial regulations. A key theme is the claim that numerous attempts to expose wrongdoing have been thwarted.",
+      "timestamp": "2019-07-18T00:00:00",
+      "timestamp_raw": "18 Jul 2019",
+      "keywords": [
+        "efta00010724",
+        "healthcare fraud",
+        "securities laws",
+        "18 u.s. code § 1347",
+        "efta00010725",
+        "colleran",
+        "criminal fraud",
+        "trump",
+        "chad readler",
+        "us court of appeals",
+        "1mdb",
+        "alpha capital",
+        "kushner",
+        "epstein",
+        "naked shorting",
+        "sedona",
+        "scan graphics",
+        "nite",
+        "virt",
+        "refco",
+        "frost",
+        "honig",
+        "stetson",
+        "therapix",
+        "fsddf",
+        "urban",
+        "blackstone",
+        "ladenburg",
+        "gruntal",
+        "refco on steroids",
+        "cdel",
+        "sec",
+        "apollo charges",
+        "jay",
+        "sull crom",
+        "fishman",
+        "greek shippers",
+        "economou",
+        "bistricers",
+        "feinerberg",
+        "danaos",
+        "barr",
+        "aqr",
+        "lorber",
+        "elliman",
+        "colleran",
+        "intergetics",
+        "millenium",
+        "nmc",
+        "regent",
+        "sec",
+        "christopher dilorio",
+        "cleveland fundraiser",
+        "brian colleran",
+        "justice.gov",
+        "regulatory investigations",
+        "sec",
+        "george economou",
+        "kyung yung",
+        "financial trust company",
+        "krieger kim & lewin",
+        "milken",
+        "apollo global management",
+        "kushner companies",
+        "nite/virt",
+        "fraud",
+        "money laundering"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023039",
+      "summary": "An audio file (EFTA00023039) details alleged global organized crime involving metals manipulation, fraudulent audits (specifically Deutsche et al.), mafia activities, child trafficking (including Jeffrey Epstein), and a purported connection between Epstein and the British government. The email originates from [REDACTED] and is sent to undisclosed recipients.",
+      "timestamp": "2019-07-27T00:00:00",
+      "timestamp_raw": "27 Jul 2019",
+      "keywords": [
+        "organized crimes",
+        "metals manipulation",
+        "fraudulent audits",
+        "deutsche",
+        "mafia",
+        "paedophilia",
+        "jeffrey epstein",
+        "corruption",
+        "child trafficking",
+        "regulatory"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00022545",
+      "summary": "An email exchange regarding proposed divisions including TD, RC, and Epstein, and the Chief, Public Corruption Unit of the United States Attorney’s Office for the Southern District of New York (1 St. Andrew's Plow, EFTA00022545) occurred on July 30, 2019. A response “Fine by me” was received.",
+      "timestamp": "2019-07-30T00:00:00",
+      "timestamp_raw": "July 30, 2019",
+      "keywords": [
+        "efta00022545",
+        "redaction",
+        "td",
+        "rc",
+        "epstein",
+        "united states attorney",
+        "public corruption unit",
+        "southern district of new york",
+        "updates",
+        "division"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018466",
+      "summary": "It covers several ongoing investigations and legal cases related to financial fraud, terrorism, and drug trafficking. **Key Cases & Reports:** *   **Jeffrey Epstein Case:** The primary focus is on the ongoing legal proceedings against Jeffrey Epstein, including a judge’s ruling to vacate his sex trafficking conviction. The ruling stemmed from doubts about the credibility of testimony obtained during his original interrogation, particularly regarding a confession about being “forced” to take part in terrorist training. There is also discussion of the potential for a new trial. *   **Miami-Luken Drug Distributor:** A separate case involving Miami-Luken Inc. and its executives is being investigated for allegedly diverting millions of dollars in controlled substances to pharmacies, particularly in rural areas. The company was charged with violations related to kickback schemes and fraudulent distribution. *   ** Hamid Hayat Case:** A younger man, Hamid Hayat, who was initially convicted of attending a terrorist training camp based on information from informant Sean Stewart, had his conviction overturned due to concerns about the reliability of the evidence. *   **Federal Reserve Rate Cut:** The Federal Reserve announced a quarter-point cut in interest rates, marking the first reduction since 2008. The move was attributed to concerns about global economic slowdown, trade tensions, and muted inflation. *   **Life Spine Case:** A lawsuit alleges that a medical device company, Life Spine, used kickbacks to incentivize surgeons to purchase its products. **Additional Information:** *   Several other investigations or cases were briefly mentioned, including the investigation of Rochester Drug Company for distributing opioids and a case against Sean Stewart for insider trading. *   The document also includes details about attempts to obtain information from a potential witness (Hamid Hayat) during a 2005 FBI interview and the initial claims made regarding his involvement in terrorist activities. In essence, the collection of news pieces paints a picture of complex and ongoing legal battles, primarily centered around issues of financial fraud, drug trafficking, and the role of federal agencies in combating terrorism.",
+      "timestamp": "2019-07-31T00:00:00",
+      "timestamp_raw": "July 31, 2019",
+      "keywords": [
+        "efta00018466",
+        "epstein",
+        "corruption",
+        "securities fraud",
+        "narcotics",
+        "stewart",
+        "life spine",
+        "pinto-thomaz",
+        "terrorism",
+        "fed rates",
+        "sdny",
+        "collins",
+        "transhumanism",
+        "california cherry-picker",
+        "wall street",
+        "betrayal"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037399",
+      "summary": "An FBI agent in the New York Field Office’s Criminal – Branch C desk initiated a Special Case Number (SCN) regarding the Jeffrey Epstein investigation on August 1, 2019. The SCN requires weekly situation reports detailing updates across several investigative areas: victim interviews, digital analysis, financial analysis (including specific bank and brokerage firm investigations), forfeiture, public corruption, and significant events like searches. The agent requested collaboration with SDNY, Squad C-XX, and outside vendor XXXXX. A conference call was scheduled with M, and consideration was given to involving CEOS and CP due to a victim’s statement involving potential child exploitation. The A/SC is briefing the DAD and the agent is coordinating with CEOU for personnel support.",
+      "timestamp": "2019-08-01T00:00:00",
+      "timestamp_raw": "August 1, 2019",
+      "keywords": [
+        "epstein case",
+        "fbi",
+        "redaction analysis",
+        "victim interviews",
+        "digital analysis",
+        "financial analysis",
+        "forfeiture",
+        "public corruption",
+        "scn",
+        "conference call"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00037398",
+            "similarity": 0.818,
+            "index": 51,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00037273",
+            "similarity": 0.667,
+            "index": 53,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037398",
+      "summary": "An FBI agent from the New York Field Office’s Criminal – Branch C desk initiated a Special Case Number (SCN) for the Epstein investigation on August 1, 2019. The SCN requires weekly situation reports detailing updates across multiple investigative facets: victim interviews, digital analysis, financial analysis (specifically referencing SDNY, Squad C-XX, and vendor XXXXX), forfeiture, public corruption, and significant events, including the search of Epstein’s island. A conference call was scheduled with M and CEOS to discuss a recent victim’s statement regarding alleged abuse and potential evidence for a CP affidavit. The A/SC is briefing the DAD and the team is exploring bringing in personnel from CEOU.",
+      "timestamp": "2019-08-01T00:00:00",
+      "timestamp_raw": "August 1, 2019",
+      "keywords": [
+        "epstein case",
+        "fbi",
+        "redaction analysis",
+        "financial analysis",
+        "victim interviews",
+        "digital analysis",
+        "forfeiture",
+        "public corruption",
+        "scn",
+        "weekly report"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037399",
+            "similarity": 0.818,
+            "index": 50,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00037273",
+            "similarity": 0.667,
+            "index": 53,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00036149",
+      "summary": "Service Request #24975 involves a crashed RAID system (EFTA00036149) with “S” errors on the display. The issue was first discovered on August 8th. Attempts to replace the mid drives on August 9th and 10th by Justin Houston, Jeff McKenzie, and Jeff Cranor were unsuccessful due to data loss during the replacement process. The technicians were unable to properly shut down the RAID before removing and replacing the drives, resulting in data corruption. The recommended solution involves resetting the RAID level to none and restarting the system, but a full rebuild and data wipe may be required. The incident occurred at 150 Park Row, New York, NY 10007, with a contract involving Jeff Cranor, Jeff McKenzie, and Justin Houston. Phone support was engaged on August 10th.",
+      "timestamp": "2019-08-08T00:00:00",
+      "timestamp_raw": "Aug 8, 2019",
+      "keywords": [
+        "raid",
+        "fbop",
+        "service request",
+        "redaction",
+        "drives",
+        "qognify",
+        "new york",
+        "844-802-0188",
+        "emergency",
+        "consistent"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037273",
+      "summary": "*   **Update Categories:** The update should include reports on Forfeiture, Public Corruption, Victim Interviews, Hotline Results, Digital Analysis, Financial Analysis, and Other Significant Activity. *   **Specific Tasks:** A specific individual ([REDACTED]) is to initiate a Special Case Number (SCN) and provide weekly sitreps. Financial analysis should focus on accounts at XYZ Bank and ABC Brokerage Firm, specifically referencing payments to XXX. *   **Conference Call:** A conference call is scheduled with M to coordinate the weekly updates, incorporating input from CEOS (likely a specialized unit) and potentially leveraging information from the \"taint team TDYs.\" *   **Key Information:** A victim reported JE's concerning statements regarding sexual assault and the information is considered valuable for an affidavit. The A/SC is briefing the DAD on the case.",
+      "timestamp": "2019-08-08T00:00:00",
+      "timestamp_raw": "08 Aug 2019",
+      "keywords": [
+        "epstein case",
+        "fbi",
+        "nypd",
+        "human trafficking",
+        "financial analysis",
+        "digital analysis",
+        "victim interviews",
+        "forfeiture",
+        "public corruption",
+        "scn"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037398",
+            "similarity": 0.667,
+            "index": 51,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037399",
+            "similarity": 0.667,
+            "index": 50,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035255",
+      "summary": "An email from MCC New York, dated 8/12/2019 at 3:35 PM, reports that an attachment named \"EFTA00035255\" cannot be opened due to corruption. The email discusses a psych observation from 7/8/19 6 pm until 7/10/19 at 9 am regarding Jeffrey Edward Epstein, Reg. No. 73618-054. The sender is using a Verizon Samsung Galaxy smartphone.",
+      "timestamp": "2019-08-12T00:00:00",
+      "timestamp_raw": "8/12/2019",
+      "keywords": [
+        "efta00035255",
+        "redaction",
+        "email",
+        "jeffrey epstein",
+        "psych observation",
+        "8/12/2019",
+        "corrupted",
+        "damaged",
+        "attachment",
+        "samsung galaxy"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035062",
+      "summary": "A document (EFTA00035062.pdf) cannot be opened due to corruption or damage. The original message, sent on August 12, 2019, concerns a psych observation conducted from July 8, 2019, at 6 pm to July 10, 2019, at 9 am, involving Jeffrey Edward Epstein (Reg. No. 73618-054) and utilizing an \"I/M companion.\"",
+      "timestamp": "2019-08-12T00:00:00",
+      "timestamp_raw": "August 12, 2019",
+      "keywords": [
+        "redaction",
+        "document",
+        "corrupted",
+        "damaged",
+        "jeffrey epstein",
+        "observation",
+        "psych",
+        "7/8/19",
+        "73618-054",
+        "efta00035062"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036390",
+      "summary": "On August 14, 2019, the Metropolitan Correctional Center, New York, announced a tour for representatives from the Department of Justice and the SDNY USA0 on August 15, 2019, at 10:00 a.m. Attendees included the Principal Deputy Attorney General, Advisor at AG’s office, Geoffrey Berman, several Deputy US Attorneys, Chief of the Criminal Division, SDNY, Counsel to the US Attorney, Chief of the Public Corruption Unit, SDNY, and multiple AUSAs. The Supervisory Attorney requested notification of attendees’ arrival.",
+      "timestamp": "2019-08-14T00:00:00",
+      "timestamp_raw": "August 14, 2019",
+      "keywords": [
+        "united states government",
+        "memorandum",
+        "metropolitan correctional center",
+        "new york",
+        "department of justice",
+        "sdny",
+        "tour",
+        "august 15",
+        "2019",
+        "geoffrey berman",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027228",
+      "summary": "An email was sent from the Co-Chief, Public Corruption Unit of the U.S. Attorney's Office for the Southern District of New York to an individual, requesting a call regarding “Epstein.” The email was sent on August 20, 2019.",
+      "timestamp": "2019-08-20T00:00:00",
+      "timestamp_raw": "August 20, 2019",
+      "keywords": [
+        "epstein",
+        "redaction",
+        "u.s. attorney",
+        "public corruption unit",
+        "southern district of new york"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00017960",
+            "similarity": 0.833,
+            "index": 21,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00027046",
+            "similarity": 0.5,
+            "index": 15,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00009883",
+            "similarity": 0.625,
+            "index": 14,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032938",
+      "summary": "This document is a collection of news articles from Law360’s White Collar & Investigations section, published between September 3, 2019, and December 26, 2025. The articles cover a range of legal cases and developments, including: *   **Criminal Investigations:** Several investigations involving bribery, money laundering, insider trading, fraud, and corruption are detailed, involving individuals from various sectors like finance, science, and healthcare. Notable cases include a Ninth Circuit upholding a money laundering conviction, a former fitness executive’s sentence, scientists challenging a fraud conviction, and investigations into pharmaceutical fraud and fraudulent grant schemes. *   **Regulatory Actions:** The document reports on regulatory actions taken by agencies like the SEC, CFTC, SFO, and FTC, including approvals of settlements, liquidation of fraudulent companies, and changes to legal practices (e.g., allowing non-lawyers to practice law in Utah). *   **Firm News & Mergers:** Articles include announcements of firm mergers (e.g., Briggs & Morgan and Taft Stettinius), lateral hires, and regional powerhouse rankings. *   **Expert Analysis:** Several pieces provide commentary and analysis on legal developments, such as compliance considerations after DOJ antitrust policy changes and implications of the new e-discovery spoliation rule. *   **Job Postings:** The document includes a section with job openings within law firms specializing in white-collar and investigative law.",
+      "timestamp": "2019-09-03T00:00:00",
+      "timestamp_raw": "September 3, 2019",
+      "keywords": [
+        "bribery",
+        "korean official",
+        "9th circuit",
+        "money laundering",
+        "due process",
+        "insider trading",
+        "fraud",
+        "sec",
+        "cryptocurrency",
+        "petrobras",
+        "corruption",
+        "fraud scheme",
+        "white collar crime",
+        "sanctions",
+        "e-discovery",
+        "lateral hires",
+        "legal industry",
+        "regulatory changes",
+        "in-house hires"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032444",
+      "summary": "On September 17, 2019, the FBI New York contacted someone regarding a call with Jeffrey Epstein. The FBI inquired about availability at 2:00 or 2:30 PM, and also offered a call after 4:30 PM. The recipient responded that 2:30 PM worked.",
+      "timestamp": "2019-09-17T00:00:00",
+      "timestamp_raw": "September 17, 2019",
+      "keywords": [
+        "epstein",
+        "fbi",
+        "new york",
+        "u.s. attorney",
+        "corruption",
+        "call",
+        "2019",
+        "2:30",
+        "4:30"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023938",
+      "summary": "Attorney’s Office for the Southern District of New York, primarily focusing on several key areas of enforcement: **1. National Security & Terrorism:** The office has a history of prosecuting individuals involved in terrorism (Hizballah, ISIS), explosive threats (CNN, Hillary Clinton), and related crimes, including obtaining convictions against figures like Ali Kourani, Cesar Sayoc, Akayed Ullah, and Paul Rosenfeld. **2. International Sanctions Enforcement:** The office actively pursues violations of U.S. and international sanctions, exemplified by seizing the North Korean cargo vessel “Wise Honest” and prosecuting schemes involving illicit Iranian oil money. **3. Public Corruption:** The office investigates and prosecutes corruption involving public officials, including cases against the Personal Attorney to the President (Michael Cohen), state officials (Joseph Percoco and Alain Kaloyeros), NYPD officers (bribery related to gun licenses), and Sheldon Silver. **4. Fraud & Financial Crimes:** The office prosecutes a wide range of fraud schemes, including those involving healthcare (Medicare/Medicaid fraud), cybercrime (targeting financial institutions and intellectual property), Ponzi schemes, and securities fraud (Bank of New York Mellon). **5. Civil Rights Enforcement:** The office actively pursues civil rights cases, including those under the Americans with Disabilities Act (accessibility improvements for the MTA), Fair Housing Act violations, and cases involving police misconduct and inmate abuse. **6. Violent Crime & Gangs:** The office investigates and prosecutes violent crime, including murders, gang-related offenses (Blood Hound Brims), and drug trafficking. **7. Opioid Crisis Enforcement:** The office investigates and prosecutes individuals and companies involved in the distribution of opioid drugs. **8. Cybercrime:** The office investigates and prosecutes cybercrime cases of national and international significance, including attacks on financial institutions and intellectual property theft. The document highlights the office's multi-faceted approach to law enforcement, encompassing both criminal and civil investigations and prosecutions.",
+      "timestamp": "2019-10-07T00:00:00",
+      "timestamp_raw": "October 7, 2019",
+      "keywords": [
+        "terrorism",
+        "international narcotics",
+        "law enforcement",
+        "hizballah",
+        "cnn",
+        "explosives",
+        "isis",
+        "sanctions",
+        "fraud",
+        "bribery",
+        "corruption",
+        "cybercrime",
+        "opioids",
+        "civil rights",
+        "public health",
+        "environmental protection",
+        "mount vernon",
+        "healthcare fraud",
+        "fair housing act",
+        "mta",
+        "accessibility"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032340",
+      "summary": "Craig Stewart (USANYS) sent a draft of the “Priorities webpage” to Audrey Strauss (USANYS) on November 5, 2019, for review. The draft requires formatting edits, stylistic adjustments (specifically regarding the Combatting Corruption entries), and substantive decisions about content additions or deletions. Visuals for some subpages are incomplete; some have existing visuals accessible via Ctrl+click, while others are pending Nick’s completion. A link to the “Thwarting and Responding to Acts of Terror and Enforcing International Sanctions” subpage is also included.",
+      "timestamp": "2019-11-05T00:00:00",
+      "timestamp_raw": "November 5, 2019",
+      "keywords": [
+        "efta00032340",
+        "priorities webpage",
+        "draft",
+        "redaction",
+        "visuals",
+        "formatting",
+        "combatting corruption",
+        "nick",
+        "usanys",
+        "strauss",
+        "audrey"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027528",
+      "summary": "Key themes and points include: *   **Health Care Fraud Allegations:** Initial emails detail concerns about health care fraud and reference SEC regulations (18 U.S. Code § 1347). *   **Apollo’s Involvement:** Apollo’s involvement is repeatedly highlighted, including loans to Kushner Companies, investments in Graftech Global Enterprises, and facilitation of money laundering through shell companies like ESWW and others. *   **Epstein Connection:** The document establishes connections between Epstein, Black, Schwarzman, Kushner, and Apollo, suggesting a complex web of financial relationships. *   **SEC Investigations & Drops:** It details the SEC’s investigation into ESWW and related cases, as well as dropped investigations related to Kushner Companies and other figures. *   **Financial Shells & Laundering:** Multiple shell companies (e.g., ESWW, DryShips, Kalani, Alpha Capital Anstalt) are identified as being used for money laundering and fraud. *   **Government Personnel:** The document mentions individuals like Chad Readier, Stephen Feinberg, Andrew Ekonomou, and references interactions between Kushner and White House officials, including Marc Bistricer. *   **Regulatory Scrutiny:** It indicates ongoing scrutiny by the SEC regarding financial practices, particularly concerning naked short selling and the activities of investment firms. The emails are characterized by a frantic, accusatory tone, alleging widespread corruption and malfeasance within financial institutions and the White House.",
+      "timestamp": "2019-11-23T00:00:00",
+      "timestamp_raw": "23 Oct 2019",
+      "keywords": [
+        "efta00027528",
+        "fw",
+        "apollo",
+        "epstein",
+        "kushner",
+        "securities laws",
+        "healthcare fraud",
+        "sec",
+        "18 u.s. code § 1347",
+        "chad readier",
+        "christopher dilorio",
+        "lorber",
+        "alpha capital",
+        "martin schlaff",
+        "ladenburg",
+        "frost",
+        "nite/virt",
+        "cdel",
+        "black",
+        "schwarzman",
+        "1mdb",
+        "greek shippers",
+        "ekonomou",
+        "bistricers",
+        "colleran",
+        "reg d",
+        "fraud",
+        "money laundering",
+        "nyse",
+        "financial trust company inc",
+        "milken",
+        "krieger kim lewin",
+        "investigations",
+        "whistleblower"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018226",
+      "summary": "An email was sent from the FBI ([REDACTED]) to Ted ([REDACTED]) requesting a status call regarding Jeffrey Epstein. The email was sent on December 5, 2019, and included a follow-up email from the U.S. Attorney's Office for the Southern District of New York’s Public Corruption Unit on November 25, 2019.",
+      "timestamp": "2019-12-05T00:00:00",
+      "timestamp_raw": "December 5, 2019",
+      "keywords": [
+        "epstein",
+        "fbi",
+        "redacted",
+        "status call",
+        "usanys",
+        "southern district of new york",
+        "u.s. attorney's office",
+        "2019",
+        "2025",
+        "time to chat"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00022173",
+      "summary": "*   **NCA’s Inaction:** Taylor claims the NCA, along with other agencies (SFO, British police forces, FCA, SFO, ICO), refuses to investigate due to political interference, corruption, and intimidation. *   **Deutsche Bank Involvement:** Taylor alleges Deutsche Bank (DB) engaged in money laundering through the destruction of bullion trading receipts and facilitated transactions for the Russian Mafia via its Estonian branch. He claims DB bribed judges and regulators to conceal this activity. *   **Legal Battles & Obstruction:** Taylor describes a protracted legal battle against DB, claiming obstruction from the judiciary (Lord Chief Justice Sir Ian Burnnet) and the ICO, which refused to disclose relevant information. *   **Epstein Connection:** Taylor asserts that Jeffrey Epstein used DB and Barclays to launder money and blackmail Parliament, potentially influencing individuals within Barclays (Jes Staley). *   **Suspicious Death:** Taylor suggests Katherine Frisk, a source of information against Staley, was murdered by Staley’s operators. *   **Evidence & Criticisms:** Taylor references a document (http://www.shyreman.com/docs/claim.bundle/evidence.for.fake.gold.audit.pdf) and criticizes the performance of Action Fraud, the ICO, and the FCA, citing low approval ratings.",
+      "timestamp": "2019-12-15T00:00:00",
+      "timestamp_raw": "15 December, 2019",
+      "keywords": [
+        "russian money laundering",
+        "epstein paedophile ring",
+        "deutsche bank",
+        "gold bullion",
+        "nca",
+        "fraud",
+        "barclays",
+        "staley",
+        "corruption",
+        "fca",
+        "data protection rights"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029283",
+      "summary": "Mark Steward, Executive Director at the FCA, is requesting information about the investigation into Jeffrey Epstein, specifically regarding JP Morgan and ongoing work related to Epstein’s network. He’s asking if anyone in his office is handling the investigation and who specifically. The email chain includes recipients within the FCA, including Kate Tuckley, Kelly Eldred, and Harry Caldecott, and references the FCA’s public corruption unit and oversight of the Epstein case. It also contains several images and includes standard FCA legal disclaimers regarding confidentiality and data protection.",
+      "timestamp": "2019-12-28T00:00:00",
+      "timestamp_raw": "28 Nov 2019",
+      "keywords": [
+        "fca",
+        "mark steward",
+        "jeffrey epstein",
+        "jp morgan",
+        "redaction",
+        "investigation",
+        "corruption unit",
+        "uk",
+        "london",
+        "email"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032549",
+      "summary": "It covers a range of legal cases and developments, including: *   **Bridgegate Investigation:** Updates on the ongoing investigation into the “USS Bush” scandal and its potential connection to the McDonnell case. *   **Russia Probe Leaks:** A former Treasury staffer’s admission of revealing suspicious activity reports related to the Russia investigation. *   **Ariad Insider Case:** Prosecutors pushing back against a defense theory in the case involving a pharmaceutical company insider. *   **Barbados Official Corruption Case:** Details of a trial involving alleged money laundering by a former Barbados government official. *   **Sanovas Inc. Money Laundering Trial:**  Prosecutors alleging embezzlement of nearly $3 million by the CEO of a medical device startup. *   **Harvey Weinstein Trial:** The judge threatening jail time for jurors posting about the trial on social media. *   **Asset Manager Fraud:** An asset manager pleading guilty to a $164 million pump-and-dump stock scheme. *   **Deutsche Bank Spoofing Probe:** A former trader seeking to argue that prosecutors outsourced their investigation to Deutsche Bank. *   **Theranos Document Requests:** The FDA criticizing requests for internal documents in the Elizabeth Holmes criminal defense. *   **Qatar Business Steering:** Evidence suggesting Qatar attempted to steer business towards Barclays. *   **“Cocaine Cowboy” Conviction:** An appeal against a fraud conviction and prison sentence for a former drug trafficker. *   **TelexFree Ponzi Scheme:** Financial service providers pushing back against revisions to allegations related to the scheme. *   **Insys Therapeutics Case:** Sentences handed down to former Insys executives convicted in an opioid kickback scheme. *   **Antitrust Convictions:** The Supreme Court declining to review criminal antitrust convictions. *   **FinCEN’s AML Efforts:**  Plans to increase the use of special measures under the USA Patriot Act. *   **Various other cases:** Including defense of the claims related to corruption, fraud, ethics violations, and disputes across various sectors (banking, securities, technology, healthcare, etc.). Additionally, the document includes: *   Legal firm profiles and advertisements. *   Job listings. *   Brief articles discussing industry trends (e.g., “NewLaw” firms, economic outlook).",
+      "timestamp": "2020-01-14T00:00:00",
+      "timestamp_raw": "January 14, 2020",
+      "keywords": [
+        "bridgegate",
+        "mcdonnell",
+        "supreme court",
+        "russia probe",
+        "financial crimes",
+        "fraud",
+        "insider trading",
+        "opioid",
+        "pump-and-dump",
+        "securities fraud",
+        "money laundering",
+        "corruption",
+        "social media",
+        "legal ethics",
+        "antitrust",
+        "legal industry",
+        "atrium",
+        "facebook",
+        "t-mobile",
+        "sprint",
+        "merger",
+        "defamation",
+        "clickbait",
+        "ponzi scheme",
+        "e-commerce",
+        "job openings"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032554",
+      "summary": "On January 17, 2020, an email exchange occurred between individuals within the U.S. Attorney's Office for the Southern District of New York regarding the bail proceedings for Jeffrey Epstein. One party requested filings related to the government’s bail motion and opposition, which were subsequently attached to the email. The email confirmed that no documents were filed under seal and provided the relevant documents to the recipient.",
+      "timestamp": "2020-01-17T00:00:00",
+      "timestamp_raw": "January 17, 2020",
+      "keywords": [
+        "epstein",
+        "bail",
+        "filings",
+        "government",
+        "seal",
+        "usanys",
+        "judge pittman",
+        "submissions",
+        "corruption",
+        "civ div"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00017751",
+      "summary": "An email exchange occurred between individuals associated with the U.S. Attorney’s Office for the Southern District of New York regarding an attachment named “2019.12.19_Epstein_6(e)_App_&_Ordendocx”. One individual, identified as the Co-Chief, Public Corruption Unit, indicated they would “come by in a second”.",
+      "timestamp": "2020-01-29T00:00:00",
+      "timestamp_raw": "29 Jan 2020",
+      "keywords": [
+        "epstein",
+        "usanys",
+        "redaction",
+        "corruption",
+        "u.s. attorney's office",
+        "2020",
+        "2019",
+        "app",
+        "docx",
+        "southern district of new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019892",
+      "summary": "On February 23, 2020, Mark Anthony Taylor wrote to UK Treasury Select Committee Chairman Mel Stride, alleging a cover-up regarding Jes Staley's conduct at JP Morgan and the handling of emails related to Jeffrey Epstein. Taylor claims the FBI, FCA, and PRA were investigating Staley, but the TSC withheld key evidence, including blackmail emails from Epstein, that should have led to Staley's dismissal in 2015. He asserts Andrew Bailey (FCA) and Lisa Osofsky (SFO) refused to investigate, potentially due to collusion with the TSC. Taylor also alleges his friend was murdered for exposing the story and that Judge Worster, a High Court judge, was involved in suppressing the truth. He questions Bailey’s suitability for a role at the Bank of England and suggests investigations into Andrew Bailey and Mark Carney concerning the LC&F scandal. Taylor accuses Roger Jenkins of attending Epstein’s parties and demands an investigation.",
+      "timestamp": "2020-02-23T00:00:00",
+      "timestamp_raw": "February 23, 2020",
+      "keywords": [
+        "staley",
+        "epstein",
+        "fca",
+        "treasury select committee",
+        "barclays",
+        "jp morgan",
+        "blackmail",
+        "investigation",
+        "bailey",
+        "corruption"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019889",
+      "summary": "*   The sender believes the UK Treasury Select Committee (TSC), led by Mel Stride, suppressed evidence regarding Staley's emails and Epstein’s activities, hindering investigations by the FBI, FCA, and PRA. *   The sender accuses Andrew Bailey (FCA) and Lisa Osofsky (SFO) of refusing to investigate Staley, suggesting a cover-up orchestrated by the TSC. *   The sender highlights the death of a friend who investigated the story, alleging intimidation and stonewalling by Judge Worster, who issued restraining orders against the sender. *   The sender questions the integrity of individuals involved, including Judge Worster, Lord Burnett, and Roger Jenkins, suggesting potential corruption and connections to Epstein’s activities. *   The communication includes a letter attached to the TSC and MP Theo Clarke, outlining these concerns.",
+      "timestamp": "2020-02-24T00:00:00",
+      "timestamp_raw": "24 Feb 2020",
+      "keywords": [
+        "jes staley",
+        "jeffrey epstein",
+        "blackmail",
+        "fca",
+        "uk treasury",
+        "tsc",
+        "fbi",
+        "barclays",
+        "andrew bailey",
+        "sfo"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015687",
+      "summary": "A complaint is addressed to the Attorney General of the United States regarding alleged crimes against humanity occurring through guardianship proceedings in Florida, orchestrated by state officials and involving judges, attorneys, and guardians. The complaint alleges fraudulent manipulation of vulnerable seniors into guardianship, followed by the illegal seizure of their assets and, in some cases, their deaths (through medication or other means). It accuses a Florida-based organized crime racket of enriching a small group while depriving American families of their wealth. The author details numerous instances of intimidation, harassment, and legal attacks targeting family members who expose the alleged crimes. They demand a federal investigation, grand juries, and the eradication of the alleged racket, citing ongoing cover-ups by Florida authorities and the FDLE.",
+      "timestamp": "2020-03-03T00:00:00",
+      "timestamp_raw": "MARCH 3, 2020",
+      "keywords": [
+        "florida",
+        "guardianship",
+        "seniors",
+        "fraud",
+        "abuse",
+        "criminal racket",
+        "justice",
+        "trafficking",
+        "corruption",
+        "legal",
+        "investigation"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014243",
+      "summary": "It covers several ongoing investigations and legal proceedings: *   **Prince Andrew and Jeffrey Epstein:** The SDNY is investigating potential co-conspirators of Jeffrey Epstein, and Prince Andrew has shut down cooperation, leading to potential legal action. *   **MCC Issues & Investigations:**  There’s scrutiny surrounding the Metropolitan Correctional Center (MCC) in Lower Manhattan, including a transfer of jail captain Jermaine Darden due to issues related to the Epstein case and a gun smuggling incident.  Investigations are underway regarding systemic failures and potential negligence. *   **Horse Racing Doping Scandal:** Twenty-seven individuals, including trainers and veterinarians, were indicted for a widespread doping scheme in horse racing, involving performance-enhancing drugs like “monkey”. Jorge Navarro is a key figure. *   **Joshua Schulte and the C.I.A. Leak:** The case involving Joshua Schulte, who leaked classified C.I.A. documents to WikiLeaks, continues, with Judge Reggie Walton expressing concerns about Attorney General William Barr's handling of the case and questioning Barr’s independence. *   **Harvey Weinstein’s Condition:** Harvey Weinstein, convicted of sex crimes, sustained an injury while in Rikers Island jail, requiring medical attention. *   **Coronavirus Restrictions:** The SDNY implemented temporary restrictions barring entry to courthouses for anyone who had traveled to or been in contact with individuals affected by the coronavirus outbreak. The document highlights several concurrent investigations and legal challenges, demonstrating a complex web of criminal activity and a degree of uncertainty regarding the Justice Department’s oversight and handling of sensitive cases.",
+      "timestamp": "2020-03-09T00:00:00",
+      "timestamp_raw": "March 9, 2020",
+      "keywords": [
+        "efta00014243",
+        "son",
+        "sdny",
+        "news clips",
+        "epstein",
+        "prince andrew",
+        "corruption",
+        "money laundering",
+        "terrorism",
+        "navarro",
+        "ray",
+        "coronavirus",
+        "darden",
+        "max security",
+        "weinstein",
+        "schulte",
+        "covid-19"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014263",
+      "summary": "*   **Prince Andrew and Epstein:** The SDNY was investigating potential co-conspirators of Jeffrey Epstein, and Prince Andrew had shut down voluntary cooperation with the investigation, leading to a possible criminal inquiry. *   **MCC Issues:** There were concerns about the Metropolitan Correctional Center (MCC) in Lower Manhattan due to structural problems, staffing issues (including the transfer of Captain Jermaine Darden), and a smuggling incident involving a gun. Several MCC personnel were facing scrutiny. *   **Horse Racing Doping Scandal:** The FBI was investigating a widespread doping scheme involving trainers, veterinarians, and suppliers in horse racing, leading to the indictment of 27 individuals. Jorge Navarro was central to this scheme, and his horse, X Y Jet, died due to excessive drug use. *   **Joshua Schulte Investigation:** The FBI was investigating computer engineer Joshua Schulte, who had leaked classified C.I.A. documents to WikiLeaks. Schulte was eventually convicted of contempt of court and making false statements. *   **Lawrence Ray Case:** Lawrence Ray, who had forced a former college student into prostitution, was arrested and charged with sex trafficking. *   **Judge Walton's Criticism:** Judge Reggie Walton criticized Attorney General William Barr for allegedly misleading the public about the Mueller Report, raising questions about Barr's independence. *   **Coronavirus Restrictions:** The SDNY implemented new restrictions barring entry to courthouses for anyone who had recently traveled to or come into contact with individuals affected by the coronavirus outbreak.",
+      "timestamp": "2020-03-09T00:00:00",
+      "timestamp_raw": "March 9, 2020",
+      "keywords": [
+        "efta00014263",
+        "sdny news clips",
+        "epstein",
+        "prince andrew",
+        "corruption",
+        "money laundering",
+        "terrorism",
+        "narcotics",
+        "organized crime",
+        "ray",
+        "barr",
+        "weinstein",
+        "coronavirus",
+        "schulte",
+        "horse racing",
+        "doping",
+        "max security",
+        "guiliani",
+        "sarah lawrence"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030803",
+      "summary": "An email was sent from the Co-Chief, Public Corruption Unit of the U.S. Attorney’s Office for the Southern District of New York to “a” on April 7, 2020, at 18:06:34 +0000. The email included an attachment named “_with_attachments.pdf” and was related to case EFTA00030803.",
+      "timestamp": "2020-04-07T00:00:00",
+      "timestamp_raw": "April 7, 2020",
+      "keywords": [
+        "efta00030803",
+        "redaction analysis",
+        "usanys",
+        "corruption",
+        "u.s. attorney's office",
+        "southern district of new york",
+        "2020",
+        "public corruption unit"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010786",
+      "summary": "This document consists of a series of emails detailing a complex investigation into potential fraud and illicit activities involving prominent figures and financial institutions. The core allegations center around a network involving Leon Black (Milken Degenerate Fat Leon Black), Steve Schwarzman, Apollo, Kushner Companies, and others. Key points include: *   **Insurance Industry Takeover:** Concerns about Milken-linked individuals (Black, Schwarzman) orchestrating the takeover of the insurance industry through acquisitions like Athene, Harrahs, and Caesars. *   **Fraudulent Investments:** Allegations of fraudulent investments in junk bonds, real estate, and shell companies like ESWW (Environmental Solutions Worldwide) and Financial Trust Company Inc. (Epstein’s Trust). *   **Money Laundering:** Suspicions of money laundering schemes facilitated through various entities, including Greek shipping companies and the manipulation of stock prices. *   **SEC Involvement:** Criticism of the SEC’s handling of investigations, suggesting it was either complicit or ineffective in preventing these activities. The emails also question the motivations of individuals like Stephanie Avakian and the effectiveness of the SEC’s oversight. *   **Connections to Epstein & Kushner:**  A strong focus on connections between Epstein, Black, Schwarzman, and the Kushner family, raising concerns about potential illegal activities and influence within the White House. *   **Trump Administration Connections:**  References to individuals like Chad Readier, Andrew Ekonomou, and former FBI Director Robert Mueller III’s involvement in advising the Trump administration. *   **Ongoing Investigation:** The emails portray the author as actively pursuing these allegations and seeking to expose what they perceive as systemic corruption within the financial system. The emails are characterized by strong language, accusations of criminality, and a sense of urgency and frustration. They point to a pattern of potentially connected illegal activities involving significant financial figures and institutions.",
+      "timestamp": "2020-04-15T00:00:00",
+      "timestamp_raw": "15 Apr 2020",
+      "keywords": [
+        "efta00010786",
+        "milken",
+        "black",
+        "epstein",
+        "kushner",
+        "insurance",
+        "fraud",
+        "sec",
+        "apollo",
+        "athene",
+        "harrahs",
+        "caesars",
+        "leon black",
+        "treasury",
+        "junk",
+        "clo",
+        "regulation",
+        "white house",
+        "financial crimes",
+        "money laundering",
+        "investors"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019100",
+      "summary": "An email was sent from the Co-Chief, Public Corruption Unit of the U.S. Attorney's Office for the Southern District of New York to an individual identified as “USANYS” on June 1, 2020, inquiring about participation in a call involving “Civ Dlv” and Jeffrey Epstein. The email included the subject line “You gonna join the Epstein call with Civ Dlv? No pressure, just let me know if we should wait”.",
+      "timestamp": "2020-06-01T00:00:00",
+      "timestamp_raw": "June 1, 2020",
+      "keywords": [
+        "efta00019100",
+        "usanys",
+        "epstein",
+        "civ dlv",
+        "public corruption",
+        "redaction",
+        "u.s. attorney's office",
+        "southern district of new york",
+        "june 2020"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023773",
+      "summary": "Attorney Geoffrey Berman of the U.S. Attorney's Office for the Southern District of New York sent an email to Barr confirming the Department of Justice’s desire for Prince Andrew to provide evidence in the Jeffrey Epstein investigation. The email was dated June 8, 2020.",
+      "timestamp": "2020-06-08T00:00:00",
+      "timestamp_raw": "June 8, 2020",
+      "keywords": [
+        "efta00023773",
+        "prince andrew",
+        "epstein",
+        "doj",
+        "barr",
+        "investigation",
+        "evidence",
+        "usanys",
+        "fox news",
+        "corruption"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019112",
+      "summary": "An email chain discusses pressure to investigate Prince Andrew regarding allegations of sexual abuse and potential connections to Jeffrey Epstein. The sender urges a specific public statement demanding Andrew be investigated as a target and for the Attorney General to question the denial of extradition. The sender expresses skepticism about the UK’s handling of the investigation, characterizing it as a deliberate attempt to protect Andrew due to his royal status and prioritizing the status quo. The email also alleges broader corruption within the US and British ruling classes, suggesting involvement in a network of child abusers.",
+      "timestamp": "2020-06-15T00:00:00",
+      "timestamp_raw": "15 Jun 2020",
+      "keywords": [
+        "prince andrew",
+        "epstein",
+        "paedophile",
+        "investigation",
+        "extradition",
+        "uk",
+        "us",
+        "conspiracy",
+        "journalist",
+        "corruption"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016165",
+      "summary": "Craig Hunter sent an email to Harriet Strauss thanking her for the arrest of Ghislaine Maxwell. He expressed concern that powerful individuals could evade legal consequences due to wealth and influence, fearing this would undermine the rule of law and the Constitution. He praised Strauss’s efforts to uphold the integrity of the Southern District of New York and maintain the rule of law in the US.",
+      "timestamp": "2020-07-02T00:00:00",
+      "timestamp_raw": "02 Jul 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "arrest",
+        "rule of law",
+        "justice",
+        "strauss",
+        "enforcement",
+        "legal consequences",
+        "corruption",
+        "power",
+        "freedom"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021170",
+      "summary": "Lisa Kenney reported a group of Massachusetts real estate developers, nightclub owners, and police officers connected to Jeffrey Epstein and Ghislaine Maxwell. She alleges these individuals engage in corruption, money laundering, and offer private police services. Kenney identifies William O'Connell as a key figure, previously arrested for statutory rape and cocaine trafficking, and notes his brother is a Massachusetts trooper. She states a victim of O’Connell’s statutory rape was killed shortly before his trial. Kenney provides attached documents, including PDFs and a Google Doc, detailing her claims and reports of ongoing threats and abuse related to her investigations.",
+      "timestamp": "2020-07-06T00:00:00",
+      "timestamp_raw": "06 Jul 2020",
+      "keywords": [
+        "epstein",
+        "ghislaine",
+        "corruption",
+        "william o'connell",
+        "lisa kenney",
+        "real estate developers",
+        "police",
+        "statutory rape",
+        "money laundering",
+        "llcs"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00016198",
+            "similarity": 0.538,
+            "index": 81,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00016198",
+      "summary": "A person (“”) residing in NH reports a group of wealthy real estate developers, nightclub, and restaurant owners, along with corrupt police officers, engaging in illegal activities. This group is linked to Jeffrey Epstein and Ghislaine Maxwell through connections to million-dollar homes and LLCs. The reporter, formerly married to and acquainted with members of the group, has been compiling reports on their corruption for over ten years and has experienced threats and abuse. A former statutory rape suspect, Bill O'Connell, was killed shortly before his trial, and the reporter notes striking similarities between O'Connell and Epstein. The email includes attached documents, including a Google Doc, detailing these allegations.",
+      "timestamp": "2020-07-06T00:00:00",
+      "timestamp_raw": "06 Jul 2020",
+      "keywords": [
+        "efta00016198",
+        "corruption",
+        "epstein",
+        "ghislaine",
+        "william o'connell",
+        "statutory rape",
+        "real estate developers",
+        "nightclub",
+        "police",
+        "abuse"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00021170",
+            "similarity": 0.538,
+            "index": 80,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026979",
+      "summary": "The primary focus is on the transfer and processing of over a million digital files related to the investigation. Initial difficulties include a lack of clear identification of the devices and their contents, concerns about data corruption and incomplete transfers, and challenges in integrating the various data streams. The contractor repeatedly requests a more organized system for tracking the evidence – specifically a spreadsheet identifying devices and the status of the data associated with them. There are discussions about the use of Relativity for data analysis and the need for a complete and searchable dataset. The timeline for receiving the complete data is repeatedly pushed back due to technical issues and staffing limitations. Key items being sought include a list of all seized devices and their associated data, and a clear understanding of what has been processed and what remains to be analyzed.",
+      "timestamp": "2020-07-06T00:00:00",
+      "timestamp_raw": "06 Jul 2020",
+      "keywords": [
+        "epstein",
+        "devices",
+        "fbi",
+        "search warrant",
+        "documents",
+        "usanys",
+        "data",
+        "extraction",
+        "new york",
+        "virgin islands",
+        "buckets",
+        "relativity",
+        "files",
+        "timelines",
+        "contractors",
+        "62 devices",
+        "57 devices",
+        "30 devices",
+        "emails",
+        "hard drives",
+        "files",
+        "data transfer"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026428",
+      "summary": "Key topics covered include: *   **Criminal Cases:** Several ongoing legal cases are highlighted, including Anilesh Ahuja’s claim against the SDNY, Deutsche Bank's fine for Epstein dealings, Molotov cocktail prosecutions, allegations against Ghosn’s accomplices, and disputes involving JPMorgan traders and the SEC’s actions against Rabbi Feiner. *   **Regulatory Actions:** FinCEN issued warnings about COVID-19 related scams, the FTC targeted a Belizean executive in a real estate scam, and the SEC settled with a rabbi for defrauding Jewish investors. *   **Litigation & Court Decisions:**  Various court decisions are reported, such as the Massachusetts judge rejecting extradition efforts, Microsoft’s lawsuit against phishing schemes, rulings on legal ethics issues (including a Fifth Circuit decision regarding Greg Abbott), and disputes involving Shkreli and FIFA corruption. *   **Firm News:**  Updates on law firm activities, including layoffs at Hughes Hubbard & Reed, the launch of a new Seattle office for Seyfarth Shaw, and a new partnership at Schoen Legal Search. *   **Other News:** Coverage of Supreme Court Marshal and Reporter retirements, COVID-19 related legal changes, and overall legal industry trends and events.",
+      "timestamp": "2020-07-08T00:00:00",
+      "timestamp_raw": "July 8, 2020",
+      "keywords": [
+        "hedge fund",
+        "sdny",
+        "deutsche bank",
+        "epstein",
+        "molotov cases",
+        "panama",
+        "ghosn",
+        "covid-19",
+        "phishing",
+        "legal ethics",
+        "cybersecurity",
+        "tax fraud",
+        "competition",
+        "slack",
+        "supreme court",
+        "diversity",
+        "real estate",
+        "litigation",
+        "pandemic"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019235",
+      "summary": "On July 20, 2020, emails were exchanged regarding a “Brass Meeting.” One individual requested a prosecution memo and updates on team submissions. Others confirmed availability for meeting times (Monday 11-2:30, Tuesday 1-2:30, Thursday 11-2) and inquired about the meeting’s purpose. The emails involved multiple individuals within the U.S. Attorney’s Office, Southern District of New York, specifically the Deputy Chief, Public Corruption Unit.",
+      "timestamp": "2020-07-20T00:00:00",
+      "timestamp_raw": "July 20, 2020",
+      "keywords": [
+        "efta00019235",
+        "brass meeting",
+        "prosecution memo",
+        "redaction",
+        "meeting",
+        "u.s. attorney",
+        "public corruption unit",
+        "southern district of new york",
+        "july 2020",
+        "email"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037974",
+      "summary": "On July 29, 2020, the FBI New York Field Office (specifically the Child Exploitation/Human Trafficking and Public Corruption squads) requested assistance from other FBI offices, including the NY office, regarding the Epstein/Maxwell investigation. Squad C-20 within the VCAC/HT unit was seeking volunteers due to a significant volume of evidence and a project with a turnaround time of end of August. A supervisor expressed understanding and willingness to assist pending SSA approval. A request for details on time commitment and activity was sent, and a subsequent email outlined the investigation’s scope and requested visibility from relevant agents.",
+      "timestamp": "2020-07-29T00:00:00",
+      "timestamp_raw": "July 29, 2020",
+      "keywords": [
+        "fbi",
+        "c-20",
+        "epstein",
+        "maxwell",
+        "human trafficking",
+        "child exploitation",
+        "investigation",
+        "time commitment",
+        "new york",
+        "request for assistance"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030433",
+      "summary": "On August 14, 2020, multiple individuals discussed scheduling a meeting related to “OPR.” Proposed times included 6:00 PM and 4:00 PM. One individual had a conflict with a witness interview and a call regarding a priv review for Epstein devices, suggesting a call after 5:30 PM instead. The U.S. Attorney’s Office for the Southern District of New York was involved in the discussions.",
+      "timestamp": "2020-08-14T00:00:00",
+      "timestamp_raw": "August 14, 2020",
+      "keywords": [
+        "opr",
+        "redaction",
+        "efta00030433",
+        "prutech",
+        "epstein",
+        "call",
+        "witness interview",
+        "6pm",
+        "monday",
+        "corruption"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021164",
+      "summary": "On August 14, 2020, press clippings were compiled regarding several news stories. These included charges related to threats against women involved in the R. Kelly case, Ghislaine Maxwell’s denied prison move, Politico’s article on NRA corruption, misconduct complaints against Mayor de Blasio, NYPD oversight, Trump hinting at firing FBI Director Wray, DHS official eligibility, ProPublica’s coverage of election and cybersecurity issues, a nursing home resident dumping, Tekashi 6ix9ine’s appearance, a Garmin ransomware attack, and Donald Trump’s tax filings.",
+      "timestamp": "2020-08-14T00:00:00",
+      "timestamp_raw": "August 14, 2020",
+      "keywords": [
+        "efta00021164",
+        "sdny daily press clips",
+        "august 14",
+        "2020",
+        "donnell russell",
+        "ghislaine maxwell",
+        "nra",
+        "nypd",
+        "trump",
+        "fbi",
+        "usps",
+        "dhs",
+        "propublica"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025258",
+      "summary": "*   **Loughlin Sentencing:** Lori Loughlin and her husband, Mossimo Giannulli, were sentenced to 2 months and 5 months respectively in the \"Varsity Blues\" college admissions scandal. *   **Chinese Spy Case:** U.S. attorneys sought to deny bail to an ex-CIA agent accused of spying for China, citing a significant flight risk. *   **Maxwell Discovery Request:** Federal prosecutors opposed Ghislaine Maxwell’s request to file criminal discovery materials under seal in civil lawsuits. *   **Los Angeles Explosion Charges:** Criminal charges were filed against the owners and managers of a commercial property in Los Angeles following an explosion that injured firefighters. *   **Politically Exposed Client Policy:** The Financial Crimes Enforcement Network (FinCEN) and banking regulators advised banks to conduct due diligence on \"politically exposed\" clients but not to subject them to extra scrutiny. *   **Scotiabank Spoofing Settlement:** Traders sued Scotiabank following a $127 million settlement with the U.S. government over a precious metals market manipulation scheme. *   **Fiat Chrysler Defense:** Fiat Chrysler argued against a stock-drop suit alleging concealment of a bribery scheme involving the United Auto Workers. *   **OSCE and SEC Actions:** The SEC pursued judgments against executives of Osiris Therapeutics and biotech company executives for securities law violations. *   **Belize Ponzi Scheme:** The SEC targeted two former brokers involved in a $22 million Ponzi scheme fronted by a purported Belize airport project. *   **AEP Bribery Allegations:** American Electric Power Co. Inc. is facing a proposed class action related to an Ohio newspaper investigation into a $60 million corruption plot. *   **Dallas Attorney Suspension:** A Dallas criminal defense attorney was suspended from practicing due to violating a judge’s order and lying to prosecutors. *   **Amazon Price Gouging Suit:** Pennsylvania's attorney general filed a lawsuit against an Amazon seller for illegally jacking up the price of hand sanitizer during the COVID-19 pandemic. *   **Trump Judicial Pick Criticism:** Liberal advocates criticized President Trump’s youthful pick for a Florida federal judgeship. *   **Stoel Rives Salary Adjustments:** Stoel Rives LLP partially rolled back salary reductions implemented due to the COVID-19 pandemic. *   **Legal Industry News:** Articles covered Liberty Mutual’s Burton Awards recognition, pro bono legal battles related to mail-in voting, and the shift to remote depositions. *   **Various Legal Cases & Proceedings:** Updates on cases involving the SEC, CFTC, fraud investigations, and legal industry trends were reported. *   **Job Postings:** Several legal job postings were included, specifically for a Criminal Defense and White-Collar Associate.",
+      "timestamp": "2020-08-24T00:00:00",
+      "timestamp_raw": "24 Aug 2020",
+      "keywords": [
+        "trump",
+        "tax subpoena",
+        "second circuit",
+        "lori loughlin",
+        "mossimo giannulli",
+        "varsity blues",
+        "fraud",
+        "ponzi scheme",
+        "sec",
+        "belize",
+        "criminal charges",
+        "compliance",
+        "politically exposed clients",
+        "discovery",
+        "banking",
+        "spying",
+        "ghislaine maxwell",
+        "price gouging",
+        "mail-in voting",
+        "pro bono",
+        "courtroom sketch",
+        "legal industry",
+        "corporate news",
+        "job openings"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021166",
+      "summary": "On September 9, 2020, Nicholas Blase, Public Affairs, sent press clippings to Robert Moder regarding various news stories. The clippings covered topics including: SDNY press clips from Maxwell, Reuters, ABC, Bloomberg, The Daily Beast, PopTimes UK, CNN, The Washington Post, CNBC, Deadline, and Politico. These stories involved investigations into former officials, Donald Trump’s alleged corruption, Chinese company trading typos, and oversight group findings related to disaster loan fraud.",
+      "timestamp": "2020-09-09T00:00:00",
+      "timestamp_raw": "September 9, 2020",
+      "keywords": [
+        "sdny press clips",
+        "september 9",
+        "2020",
+        "robert moder",
+        "bloomberg",
+        "reuters",
+        "deutsche bank",
+        "justice department",
+        "nicholas blase",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026618",
+      "summary": "Suzannah B. Troy, an artist, sent a critical mention alert on September 10, 2020, regarding Dr. Robert Hadden’s case involving allegations of corruption by the NYPD, New York District Attorney, and individuals like Dr. Andrew Fagelman and Delita Hooks. The alert claims these individuals facilitated the cover-up of crimes, referencing Jeffrey Epstein, Ghislaine Maxwell, and Harvey Weinstein. It alleges systemic enabling of wrongdoing and suggests that the city of New York and other powerful enablers were involved in protecting corrupt actors. The alert utilizes Critical Mention, a service that monitors global media coverage and provides real-time email alerts.",
+      "timestamp": "2020-09-10T00:00:00",
+      "timestamp_raw": "September 10, 2020",
+      "keywords": [
+        "robert hadden",
+        "jeffrey epstein",
+        "cy vance",
+        "nypd",
+        "delita hooks",
+        "perjury",
+        "whistleblower",
+        "sex offender registry",
+        "criminals",
+        "enablers"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026572",
+      "summary": "A communication, dated October 2, 2020, was sent from the Chief, Public Corruption Unit, U.S. Attorney's Office for the Southern District of New York, to multiple recipients regarding PC updates. An attached document, “PC_Unitr_Short_Form_Update.10.2.20.docx”, was included.",
+      "timestamp": "2020-10-02T00:00:00",
+      "timestamp_raw": "October 2, 2020",
+      "keywords": [
+        "efta00026572",
+        "redaction analysis",
+        "pc updates",
+        "usanys",
+        "public corruption unit",
+        "southern district of new york"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00018383",
+            "similarity": 0.571,
+            "index": 45,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026828",
+      "summary": "A letter, dated October 7, 2020, was sent from the U.S. Attorney’s Office, Southern District of New York (Deputy Chief, Public Corruption Unit) to counsel regarding discovery conditions related to a case involving Maxwell. A follow-up call was scheduled to discuss the matter.",
+      "timestamp": "2020-10-07T00:00:00",
+      "timestamp_raw": "October 7, 2020",
+      "keywords": [
+        "efta00026828",
+        "maxwell letter",
+        "usanys",
+        "redaction analysis",
+        "discovery",
+        "mdc",
+        "gm counsel",
+        "u.s. attorney's office",
+        "southern district of new york",
+        "2020-10-07"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020509",
+      "summary": "The tip originated from an individual in Brownsboro, Alabama, who reported receiving an email detailing alleged abuse and trafficking involving multiple children. The email contained accusations of torture, sexual assault, and kidnapping, along with claims of political connections of the abusers. The tip included information about individuals such as John Scarola, Michael Egauger, and Mark Foley, and referenced investigations surrounding Straight Inc. from 1983. The complainant provided limited personal information and claimed multiple children had suffered personal losses due to the alleged crimes.  A witness, age 15, provided information based on shared experiences within similar abusive cults. The FBI is investigating the origin of the information and attempting to corroborate the claims.  The IP address resolves to Huntsville, Alabama.",
+      "timestamp": "2020-10-13T00:00:00",
+      "timestamp_raw": "October 13, 2020",
+      "keywords": [
+        "epstein",
+        "jeffrey",
+        "trafficking",
+        "sexual assault",
+        "fbi",
+        "tips.fbi.gov",
+        "brownsboro",
+        "alabama",
+        "growing together inc.",
+        "cults",
+        "corruption",
+        "witnesses",
+        "john scarola"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021251",
+      "summary": "This document is a news clip collection from November 5, 2020, relating to news from New York City and broader events surrounding the 2020 United States presidential election. The clips include links to articles from sources like the New York Daily News, AP, People, Vanity Fair, The New York Times, City & State, Reuters, JD Supra, Yahoo News, LA Times, Newsweek, ProPublica, and the Wall Street Journal. The subject matter covers topics such as the “We Build the Wall” rally, 6ix9ine’s kidnapping case, William Barr’s involvement, election protests, police corruption, a Bombardier investigation, FinCEN inquiries, Trump’s views on policing, and rejected mail-in ballots.",
+      "timestamp": "2020-11-05T00:00:00",
+      "timestamp_raw": "November 5, 2020",
+      "keywords": [
+        "efta00021251",
+        "sdny",
+        "news clips",
+        "november 5",
+        "2020",
+        "brian kolfage",
+        "election",
+        "protests",
+        "kidnapping",
+        "trump",
+        "voting"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027424",
+      "summary": "On November 6, 2020, the Public Corruption Unit reported on the case of US v. Ghislaine Maxwell. Ghislaine Maxwell was indicted on six counts related to facilitating Jeffrey Epstein’s abuse of minor girls, arrested in New Hampshire, and detained. Discovery production occurred on August 21, 2020, with a second production of electronic materials planned. The team is collaborating with various agencies, including the USAO-SDFL and OPR, to obtain and review relevant materials. Discussions with Maxwell’s counsel regarding a felony disposition are underway. An interview with Prince Andrew is being pursued through an MLAT after his counsel declined a voluntary interview. Maxwell anticipates a renewed bail application and the team intends to oppose it.",
+      "timestamp": "2020-11-06T00:00:00",
+      "timestamp_raw": "November 6, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "corruption",
+        "indictment",
+        "bail",
+        "prince andrew",
+        "usao",
+        "discovery",
+        "electronic materials",
+        "mlat",
+        "public corruption unit"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024817",
+      "summary": "This document is a monthly update from the Deputy Chief of the Public Corruption Unit, U.S. Attorney’s Office, Southern District of New York, regarding case EFTA00024817. The update is attached as a Word document named “PC_Unitr_Short_Form_Update.11.6.20.docx”.",
+      "timestamp": "2020-12-06T00:00:00",
+      "timestamp_raw": "06 Nov 2020",
+      "keywords": [
+        "efta00024817",
+        "pcu",
+        "monthly update",
+        "usanys",
+        "public corruption unit",
+        "redaction",
+        "southern district of new york"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00018836",
+            "similarity": 0.545,
+            "index": 101,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00024265",
+      "summary": "Gregor Hirsch, the sender, argues for her release with a detailed proposal outlining stringent security measures. These include 24 full-time security guards with a rotating schedule, RV camper residences on-site, a 24/7 ankle monitor, and a $28.5 million bail with a six-month escrow payment of $20,000 per guard monthly, totaling $2,880,000. Hirsch suggests a 3-month hourly Skype chat with a court employee and proposes employment for himself as a security guard. He emphasizes the need to ensure her safety, prevent flight risk, and argue that she should be considered “innocent until proven guilty.” The email also expresses concern that wealthy individuals and politicians may be implicated and requests the US District Court in Manhattan accept her bail application.  Links to news articles and court documents related to the case are provided.",
+      "timestamp": "2020-12-15T00:00:00",
+      "timestamp_raw": "December 15, 2020",
+      "keywords": [
+        "u.s. district judge alison nathan",
+        "underage sex trafficking",
+        "ghislaine maxwell",
+        "jeffrey epstein",
+        "beauty pageants",
+        "miss teen usa",
+        "grooming",
+        "sex trafficking",
+        "wealthy individuals",
+        "corruption",
+        "political officials",
+        "bail request",
+        "rv campers",
+        "security guards",
+        "surveillance",
+        "justice",
+        "innocence until proven guilty"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013270",
+      "summary": "A write-up regarding Maxwell [REDACTED]'s obstruction is being provided. The write-up is related to case EFTA00013270. The communication originates from [REDACTED] (USANYS) and is addressed to [REDACTED] (USANYS). An attachment, “Public_Corruptionn January_2021_Updates.1.8.21.docx,” is included.",
+      "timestamp": "2021-01-08T00:00:00",
+      "timestamp_raw": "08 Jan 2021",
+      "keywords": [
+        "efta00013270",
+        "redaction analysis",
+        "maxwell",
+        "obstruction",
+        "usanys",
+        "writeups",
+        "corruption",
+        "january 2021",
+        "public corruptionn"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013269",
+      "summary": "An email was sent from the Chief, Public Corruption Unit of the U.S. Attorney’s Office for the Southern District of N to [REDACTED] and [REDACTED], with CC to [REDACTED]. The email, titled “PCU Updates,” included an attachment named “PC_Unitr_Short_Form_Update.1.8.21_(002).docx.” The email relates to EFTA00013269.",
+      "timestamp": "2021-01-08T00:00:00",
+      "timestamp_raw": "08 Jan 2021",
+      "keywords": [
+        "efta00013269",
+        "redaction analysis",
+        "pcu",
+        "public corruption unit",
+        "u.s. attorney's office",
+        "southern district",
+        "update",
+        "short-form update",
+        "2021",
+        "2025"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024990",
+      "summary": "Emails discuss scheduling a meeting with “chiefs” and “Brass” to discuss a topic related to the Public Corruption Unit. Proposed meeting times include tomorrow at 1 PM, Friday at 3:30 PM, and next Tuesday at 3:30 PM. A conflict arose on Friday at 3:00 PM, necessitating a shift to 3:30 PM.",
+      "timestamp": "2021-01-14T00:00:00",
+      "timestamp_raw": "14 Jan 2021",
+      "keywords": [
+        "efta00024990",
+        "conflict",
+        "time",
+        "availability",
+        "chat",
+        "chief",
+        "public corruption unit",
+        "friday",
+        "tuesday",
+        "mlk day"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018836",
+      "summary": "This document is a PCU Monthly Update sent from the Deputy Chief of the Public Corruption Unit, U.S. Attorney's Office, Southern District of New York, to [REDACTED] and [REDACTED], with CCs to [REDACTED]. The update is attached as PC_Unitr_Short_Form_Update.3.5.21.rd.docx. The email is dated March 5, 2021.",
+      "timestamp": "2021-03-05T00:00:00",
+      "timestamp_raw": "March 5, 2021",
+      "keywords": [
+        "efta00018836",
+        "pcu",
+        "redaction",
+        "usanys",
+        "public corruption unit",
+        "u.s. attorney's office",
+        "southern district of new york",
+        "monthly update",
+        "2021",
+        "update"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00024817",
+            "similarity": 0.545,
+            "index": 96,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028840",
+      "summary": "*   He alleges a cover-up of suicides at FDC Miami involving BOP and DOJ officials, citing multiple inmate deaths and attempted suicides between 2018 and 2021 (including those of Latitia Houser, Orlando Lorenzo, Pedro Rene Gonzalez, Anibal Mustelier, and unidentified inmates). *   He claims the DOJ is prioritizing the Epstein case over the FDC Miami situation and actively obstructing investigations into BOP misconduct. *   Kabbaj details instances where inmates expressing suicidal ideation were not placed on suicide watch, leading to further deaths. *   He references a prior BOP scandal involving Sheikh Omar Abdel Rahman as evidence of systemic corruption and argues it reflects on America’s moral standing. *   He presents himself as a long-time investigator with a history of exposing government misconduct, referencing a 1998 case and claiming to be \"Q\" from investigation.org.",
+      "timestamp": "2021-03-13T00:00:00",
+      "timestamp_raw": "13 Mar 2021",
+      "keywords": [
+        "epstein",
+        "suicide",
+        "fdc miami",
+        "bop",
+        "doj",
+        "cover-up",
+        "investigation",
+        "fbi",
+        "misconduct",
+        "prison",
+        "suicide watch"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018995",
+      "summary": "An email chain discusses the location of documents related to the Jeffrey Epstein investigation held by the West Palm Beach Regional Office of the U.S. Attorney’s Office, SDFL. A managing assistant provides information about secured boxes containing case files and materials gathered for an OPR inquiry.  A scanner was used by OPR to scan documents for their DOJ accounts. The Chief of the Public Corruption Unit requests access to review and scan these documents for their own case regarding Ghislaine Maxwell's prosecution.",
+      "timestamp": "2021-03-17T00:00:00",
+      "timestamp_raw": "17 Mar 2021",
+      "keywords": [
+        "epstein",
+        "documents",
+        "west palm beach",
+        "opr",
+        "doj",
+        "scanner",
+        "inventory",
+        "ghislaine maxwell",
+        "sdfl",
+        "usanys"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019491",
+      "summary": "A U.S. Attorney’s Office for the Southern District of New York (Chief, Public Corruption Unit) is requesting approval for a friendly subpoena to be issued to counsel for Minor Victim-4, a victim of Jeffrey Epstein’s abuse. The subpoena is intended to obtain non-privileged materials related to the victim’s 2008 settlement with Epstein, primarily for trial preparation and potential use as a Giglio witness. The team intends to send an email for approval.",
+      "timestamp": "2021-03-26T00:00:00",
+      "timestamp_raw": "26 Mar 2021",
+      "keywords": [
+        "subpoena",
+        "maxwell team",
+        "epstein",
+        "settlement",
+        "2008",
+        "giglio",
+        "witness",
+        "trial",
+        "victim",
+        "corruption"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027086",
+      "summary": "*   The contractor initially experienced issues with a folder (“18 1-14”) failing to copy due to potential file corruption. *   FBI personnel ([REDACTED]) were involved in the exchange, coordinating file transfers via USAfx. *   A replacement copy of the problematic folder was requested, with a discussion about potentially sending it directly via USAfx to avoid needing a new disc. *   The CD was initially located in the contractor’s office and was intended to be loaded onto the Epstein share.",
+      "timestamp": "2021-04-07T00:00:00",
+      "timestamp_raw": "07 Apr 2021",
+      "keywords": [
+        "cd",
+        "maxwell",
+        "usafx",
+        "fbi",
+        "folder",
+        "files",
+        "copy",
+        "share",
+        "email",
+        "redaction"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00032646",
+            "similarity": 0.667,
+            "index": 106,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00032646",
+      "summary": "This document is a chain of emails regarding the transfer of files from a CD related to the Maxwell investigation (EFTA00032646). The FBI agent (Special Agent FBI New York Field Office) initially provided a CD containing files to a contractor (USANYS). There were initial difficulties with uploading the files, particularly with a specific folder (“18 1-14”) due to potential corruption.  The contractor attempted to resolve the issue by contacting IT and the FBI for assistance. Ultimately, the files were successfully transferred to a shared drive via USAfx, though one folder needed to be re-copied and resubmitted.",
+      "timestamp": "2021-04-07T00:00:00",
+      "timestamp_raw": "07 Apr 2021",
+      "keywords": [
+        "cd",
+        "maxwell",
+        "fbi",
+        "usafx",
+        "folder",
+        "files",
+        "redaction",
+        "email",
+        "upload",
+        "disk"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00027086",
+            "similarity": 0.667,
+            "index": 105,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030985",
+      "summary": "This email, dated May 7, 2021, from the Chief, Public Corruption Unit of the U.S. Attorney's Office for the York district, is sent to [REDACTED] and [REDACTED] with a copy to [REDACTED]. The email includes an attached document titled \"PC_Unitr_Short_Form_Update.5.7.21.docx\" providing monthly updates from the PCU.",
+      "timestamp": "2021-05-07T00:00:00",
+      "timestamp_raw": "May 7, 2021",
+      "keywords": [
+        "efta00030985",
+        "pcu",
+        "redaction analysis",
+        "public corruption unit",
+        "u.s. attorney's office",
+        "york",
+        "monthly updates"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032732",
+      "summary": "Key themes and stories include: *   **Anti-Corruption Preparations:** Companies are urged to prepare for President Biden's anti-money laundering push and increased regulatory scrutiny. *   **Legal Disputes & Investigations:** Numerous legal cases and investigations are detailed, including: *   Appeals related to FIFA corruption and Roger Ng's 1Malaysia Development Berhad trial. *   Disagreements regarding the handling of sensitive information, such as the case of ex-Goldman executive and the Ghislaine Maxwell case. *   Conflicts involving firms like Greenberg Traurig, Robbins Geller, Dechert, and Cravath. *   **Compliance & Regulatory Issues:** Coverage of topics such as tax whistleblower claims, insider trading investigations, and regulatory actions against firms like City National Bank and Insys Therapeutics. *   **Attorney Recruitment & Diversity:** Articles highlight efforts to recruit and retain female lawyers and lawyers of color within law firms and address the need for diverse representation. *   **Cybersecurity & Data Breaches:** A significant report details a cybersecurity attack against Gateley PLC. *   **Judicial Appointments:** A magistrate judge was recused from a Roger Stone case, and a U.S. District Court judge was confirmed to Maryland. *   **Pro Bono Activities:** Cravath Swaine & Moore LLP announced a significant donation to civil rights organizations. The document includes a list of law firms, government agencies, and job listings, suggesting its purpose is to provide a snapshot of legal news and activity.",
+      "timestamp": "2021-06-17T00:00:00",
+      "timestamp_raw": "17 Jun 2021",
+      "keywords": [
+        "biden",
+        "anti-corruption",
+        "money laundering",
+        "compliance programs",
+        "fifa",
+        "robbin geller",
+        "vladimir putin",
+        "1malaysia development berhad",
+        "dechert",
+        "serious fraud office",
+        "new york city bar association",
+        "juvenile justice system",
+        "cognizant technology solutions",
+        "roger ng",
+        "1d1b",
+        "ghislaine maxwell",
+        "nasa",
+        "goldman sachs",
+        "tax whistleblower",
+        "insider trading",
+        "illumina",
+        "fraud",
+        "corruption",
+        "regulatory investigations",
+        "cyberattack",
+        "discrimination",
+        "legal industry",
+        "associate salaries",
+        "supreme court",
+        "judicial protection",
+        "misconduct",
+        "oversight commission",
+        "u.s. marshals service"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032738",
+      "summary": "*   **NYC Bar Changes:** The New York City Bar Association is seeking to amend bar application questions regarding juvenile justice involvement and sealed/dismissed cases. *   **Prosecutorial Oversight:** New York state prosecutors urged a veto of a bill creating an oversight body for prosecutorial misconduct. *   **FIFA Appeal:** Robbins Geller Rudman & Dowd LLP requested time to appeal a ruling in the FIFA corruption case. *   **Opioid Trial Delay:** The monumental opioid trial has been pushed back nearly a week due to jury selection delays. *   **Purdue Pharma Examiner:** A New York bankruptcy judge reluctantly approved an examiner for Purdue Pharma's Chapter 11 case. *   **Maxwell Case:** Ghislaine Maxwell’s attorney reported conditions in her cell and prison guard surveillance. *   **Trader Challenge:** Counsel for a San Diego stock speculator challenged the credibility of a former Illumina Inc. accountant. *   **Visa/Mastercard Antitrust:** A class action lawsuit alleges Visa and Mastercard acted as a cartel by maintaining high credit/debit card fees. *   **Express Scripts Overcharges:** An Express Scripts executive admitted the company was unaware of CVS Pharmacy overcharges. *   **SEIU Suit Dismissal:** A New York federal magistrate judge recommended dismissing a lawsuit by a fired handyman. *   **MetLife Settlement:** Robbins Geller received $21 million for representing investors in a MetLife misleading liabilities case. *   **BitMEX Manipulation:** Investors in BitMEX are seeking to keep allegations of fraudulent practices alive. *   **Range Resources Suit:** Pomerantz LLP will represent investors in a lawsuit against Range Resources Corp. for improperly reporting well statuses. *   **Ng Trial:** Former Goldman Sachs managing director Roger Ng will face trial in January over his alleged role in the 1Malaysia Development Berhad scandal. *   **Insys Therapeutics Sentencing:** A former New York City doctor was sentenced for taking kickbacks from Insys Therapeutics. *   **NASA Chief Sentencing:** A NASA nanotechnology pioneer was sentenced to 30 days in prison for concealing ties to China. *   **American Stock Transfer Lease Extension:** American Stock Transfer & Trust Co. secured a lease extension. *   **Columbia Care Acquisition:** Foley Hoag LLP and Husch Blackwell LLP guided a $42 million deal for Columbia Care Inc. *   **Nationstar Lawsuit:** Mortgage servicer Nationstar Mortgage LLC faces a proposed class action over unauthorized payment glitches. *   **Girardi Ex-Clients Lawsuit:** Former clients of Thomas V. Girardi are pursuing his estranged wife in a state malpractice suit. *   **ENRC Tipoff Regret:** A former ENRC security consultant regretted lying in a letter to the Serious Fraud Office. *   **Khan Confirmation:** Lina Khan was confirmed as the Federal Trade Commission chair. *   **Marshals Understaffed:** A DOJ audit found the U.S. Marshals Service is understaffed for judicial protection. *   **Girardi's Donation:** Cravath Swaine & Moore LLP announced a $6 million donation to civil rights organizations. *   **Dechert Discrimination Lawsuit:** A former Dechert attorney filed a racial discrimination lawsuit. *   **Georgetown Supreme Court Director:** Kelsi Brown Corkran was named the U.S. Supreme Court director at Georgetown Law. *   **Job Listings & Contact Info:** Provided listings of job openings and contact information for Law360.",
+      "timestamp": "2021-06-17T00:00:00",
+      "timestamp_raw": "17 Jun 2021",
+      "keywords": [
+        "greenberg traurig",
+        "russian oligarch",
+        "new york bill",
+        "foreign judgments",
+        "vladimir putin",
+        "nyc bar association",
+        "juvenile justice system",
+        "prosecutorial misconduct",
+        "fifa corruption",
+        "opioid trial",
+        "oxycontin",
+        "ghislaine maxwell",
+        "insider trading",
+        "illumina",
+        "square",
+        "visa",
+        "mastercard",
+        "cvs health",
+        "express scripts",
+        "arbitration",
+        "bankruptcy",
+        "1-800 contacts",
+        "cyberattack",
+        "dechert",
+        "discrimination lawsuit",
+        "erika girardi",
+        "lina khan",
+        "ftc",
+        "u.s. marshals service",
+        "judges"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029702",
+      "summary": "On June 23, 2021, an individual (USANYS) requested information related to a FOIA disclosure concerning Noel and Thomas. A 5:45 PM call was scheduled with The Times. Another individual (USANYS) suggested a 1-2 week extension for the disclosure to allow for internal review of recently completed interviews related to deferred prosecution agreements. The Chief, Public Corruption Unit, U.S. Attorney’s Office, Southern District of New York, was involved in the discussion.",
+      "timestamp": "2021-06-23T00:00:00",
+      "timestamp_raw": "June 23, 2021",
+      "keywords": [
+        "foia",
+        "disclosure",
+        "times",
+        "extension",
+        "pae",
+        "noel",
+        "thomas",
+        "deferred prosecution agreements",
+        "interviews",
+        "usanys"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00022014",
+            "similarity": 0.538,
+            "index": 111,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00022014",
+      "summary": "On June 23, 2021, discussions occurred regarding a Freedom of Information Act (FOIA) request related to Noel and Thomas. A one-week extension was initially requested from The Times. A draft extension request letter was circulated for review. A phone call was scheduled with The Times to discuss the request and clarify information to be shared. The request was prompted by recently completed interviews and a need to confirm compliance with deferred prosecution agreements. A Chief from the Public Corruption Unit within the U.S. Attorney’s Office Southern District of New York was involved in the coordination.",
+      "timestamp": "2021-06-23T00:00:00",
+      "timestamp_raw": "June 23, 2021",
+      "keywords": [
+        "foia",
+        "disclosure",
+        "times",
+        "extension",
+        "court",
+        "pae",
+        "interviews",
+        "prosecution",
+        "usanys",
+        "redaction"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00029702",
+            "similarity": 0.538,
+            "index": 110,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029617",
+      "summary": "An email exchange occurred between Stacey Richman of Richman Hill & Associates PLLC and an individual identified as “Chief, Public Corruption Unit” from the U.S. Attorney’s Office, Southern District of New York, regarding a call about Mark Epstein. The Chief initiated the contact seeking information related to Epstein’s demise. Stacey Richman responded, confirming availability for a call the following day at 11:30 AM, noting a prior court appearance. Redactions obscure the sender's identity and details of the call.",
+      "timestamp": "2021-07-02T00:00:00",
+      "timestamp_raw": "02 Jul 2021",
+      "keywords": [
+        "stacey richman",
+        "mark epstein",
+        "usanys",
+        "redaction",
+        "bronx",
+        "law offices",
+        "call",
+        "court appearance",
+        "public corruption unit",
+        "efta00029617"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00011529",
+      "summary": "A communication from [REDACTED] to [REDACTED] regarding an update, attached with the “Public_Corruption_Unit_August_2021.docx” document, originating from the Southern District of New York and identified as EFTA00011529.",
+      "timestamp": "2021-09-09T00:00:00",
+      "timestamp_raw": "09 Sep 2021",
+      "keywords": [
+        "efta00011529",
+        "redaction analysis",
+        "usanys",
+        "southern district of new york",
+        "public corruption unit",
+        "august 2021",
+        "update",
+        "corruption"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00011530",
+      "summary": "An email was sent on September 10, 2021, updating a recipient on the Public Corruption Unit’s activities. The update included a new template for monthly reports, which now incorporates a section for specially allocated FTE (Full-Time Equivalent) reporting for the previous two months.  The email requests resubmission of previous reports using the updated template.",
+      "timestamp": "2021-09-10T00:00:00",
+      "timestamp_raw": "September 10, 2021",
+      "keywords": [
+        "efta00011530",
+        "redaction analysis",
+        "unit update reports",
+        "fte",
+        "template",
+        "usanys",
+        "southern district of new york",
+        "public corruption unit",
+        "september 2021",
+        "report"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035812",
+      "summary": "The Department of Justice Office of the Inspector General investigated allegations of false certifications and statements made by BOP employees – Lieutenant Roberto and Senior Officer Material Handler Supervisor Tova Noel – regarding the OIG’s investigation into Jeffrey Epstein’s death at the Metropolitan Correctional Center, New York. The USAO SDNY, after consulting with its Public Corruption Unit supervisor, determined not to prosecute either employee.",
+      "timestamp": "2021-09-20T00:00:00",
+      "timestamp_raw": "September 20, 2021",
+      "keywords": [
+        "efta00035812",
+        "redaction analysis",
+        "justice department",
+        "inspector general",
+        "bureau of prisons",
+        "jeffrey epstein",
+        "prosecution",
+        "false certifications",
+        "new york",
+        "southern district of new york"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018777",
+      "summary": "This document is an email outlining cross-riffs for October 1, 2021, sent from the Deputy Chief of the Public Corruption Unit, Southern District of New York, to an individual identified as \").\" .<. The email includes contact information for the sender and the case file number EFTA00018777.",
+      "timestamp": "2021-10-01T00:00:00",
+      "timestamp_raw": "October 1, 2021",
+      "keywords": [
+        "efta00018777",
+        "redaction analysis",
+        "cross riffs",
+        "usanys",
+        "public corruption unit",
+        "southern district of new york",
+        "october 2021",
+        "email",
+        "attachments",
+        "deputy chief"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029539",
+      "summary": "A draft document titled “Public Corruption Unit – November 2021” was sent from the Deputy Chief of the Public Corruption Unit, Southern District of New York, to an unidentified recipient. The document includes redactions and is due on November 5, 2021.  The sender’s contact information is provided. The document’s file identifier is EFTA00029539.",
+      "timestamp": "2021-11-05T00:00:00",
+      "timestamp_raw": "November 5, 2021",
+      "keywords": [
+        "efta00029539",
+        "redaction analysis",
+        "usanys",
+        "public corruption unit",
+        "november 2021",
+        "southern district of new york",
+        "draft",
+        "suggestions",
+        "additions",
+        "update"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028207",
+      "summary": "An email chain discusses a draft document titled \"Bail Oppo Draft\" (likely a government opposition motion for bail).  Multiple individuals, including a Deputy Chief from the Public Corruption Unit of the Southern District of New York, exchanged edits and reminders regarding its completion by Monday.  A folder location for the document is specified as \\\\Usa.doi.gov\\clouthmiS\\stAndrews\\shared\\uSvEpstein-201.8R03.61.8‘Sail\\GM‘2023.-13.-08.",
+      "timestamp": "2021-12-06T00:00:00",
+      "timestamp_raw": "06 Nov 2021",
+      "keywords": [
+        "bail oppo",
+        "draft",
+        "redaction",
+        "usanys",
+        "motion for bail",
+        "government opposition",
+        "public corruption",
+        "southern district of new york",
+        "email",
+        "docx"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023353",
+      "summary": "An email chain concerning “GX-52G” is being shared between individuals within the Southern District of New York’s Public Corruption Unit. Attachments include documents related to a motion to exclude a government exhibit, a Maxwell reply to ISO motions in limine, and materials from a 2009 obstruction case. One individual requests a copy of the email chain.",
+      "timestamp": "2021-12-12T00:00:00",
+      "timestamp_raw": "12 Nov 2021",
+      "keywords": [
+        "efta00023353",
+        "gx-52g",
+        "redaction",
+        "motion to exclude",
+        "government exhibit",
+        "maxwell",
+        "obstruction case",
+        "302s",
+        "defense motions",
+        "southern district of new york"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014714",
+      "summary": "An Assistant United States Attorney is requesting contact information for Mark Epstein due to unsuccessful attempts by the Bureau of Prisons (BOP) to reach him regarding FOIA requests related to Jeffrey Epstein’s case. The requested contact information includes the email addresses mark.epstein and Stacey Richman, and a phone number. The BOP is responding to increased FOIA requests following a recent news article about Epstein’s incarceration and death.",
+      "timestamp": "2021-12-23T00:00:00",
+      "timestamp_raw": "23 Nov 2021",
+      "keywords": [
+        "epstein",
+        "foia",
+        "mark epstein",
+        "stacey richman",
+        "bop",
+        "records",
+        "requests",
+        "usanys",
+        "corruption",
+        "legal"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010819",
+      "summary": "Dilorio and the Securities and Exchange Commission (SEC). Dilorio alleges the SEC engaged in significant fraud and obstruction, specifically related to Knight Capital Group’s (KCG) financial activities and a related regulatory investigation. Key elements of Dilorio's claims include: *   **Misuse of Information:** The SEC allegedly used Dilorio's extensive documentation and research without acknowledging or compensating him, effectively exploiting his work. *   **Cover-Ups & Obstruction:** Dilorio contends the SEC deliberately suppressed information and hindered investigations into KCG’s activities, including what he views as illegal naked shorting practices and the facilitation of money laundering. *   **Connections to Multiple Entities:** The narrative weaves together a network of individuals and firms, including UBS, FinCEN, Brown Brothers Harriman, and various brokers (such as Joshua Sason, Justin Keener, and Dan Coleman), suggesting a coordinated effort to protect fraudulent operations. *   **Specific Allegations:** Dilorio details various transactions and regulatory decisions (e.g., the handling of the “glitch” at KCG, the approval of a reverse merger involving a Chinese EV entity, and the handling of penny stock shell companies) as evidence of the SEC's misconduct. *   **Criticism of SEC Procedures:** Dilorio repeatedly criticizes the SEC's processes, particularly its handling of whistleblower information and its failure to rigorously investigate potentially fraudulent activities. The overarching theme is a sustained accusation of systemic corruption within the SEC, prioritizing the protection of financial institutions and executives over investor protection and upholding regulatory standards. Dilorio maintains his claims are supported by a substantial record of evidence and seeks to have the SEC’s preliminary denial of an award application overturned.",
+      "timestamp": "2021-12-27T00:00:00",
+      "timestamp_raw": "27 Nov 2021",
+      "keywords": [
+        "knight capital",
+        "sec",
+        "fraud",
+        "money laundering",
+        "regulatory violations",
+        "penny stocks",
+        "whistleblower",
+        "owb",
+        "finra",
+        "ubs",
+        "share volumes",
+        "trading halts",
+        "derivatives",
+        "suspicious activity reports (sars)",
+        "regulatory oversight",
+        "opco",
+        "naked shorting",
+        "trading glitch",
+        "criminal obstruction",
+        "asset management",
+        "investment management",
+        "asset sale",
+        "jpm",
+        "dtcc",
+        "investment",
+        "trading",
+        "settlements",
+        "investor protection",
+        "securities laws",
+        "financial markets"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00009794",
+      "summary": "§ 2635.101 of 5 C.F.R. outlines the basic obligation of public service for Executive Branch employees. Key provisions include: *   Loyalty to the Constitution, laws, and ethical principles above private gain. *   Prohibition of conflicts of interest through financial interests, insider information use, and gift acceptance. *   Requirements for honest effort, non-binding commitments, avoidance of private gain, impartiality, protection of government property, disclosure of wrongdoing, fulfilling financial obligations, and adherence to equal opportunity laws. *   Consideration of applicable conflict of interest statutes (18 U.S.C. 201, 203, 205, 208, and 209).",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "public service",
+        "ethics",
+        "conflict of interest",
+        "government employees",
+        "regulations",
+        "financial interests",
+        "gifts",
+        "fraud",
+        "corruption",
+        "legal obligations"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032089",
+      "summary": "The document is a redaction analysis related to file EFTA00032089.pdf. The individual requesting the information identifies as a news media member (Law&Crime) seeking information for news gathering regarding the Ghislaine Maxwell case and the broader Jeffrey Epstein scandal, which involves alleged corruption by government officials.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00032089",
+        "ghislaine maxwell",
+        "jeffrey epstein",
+        "law&crime",
+        "scandal",
+        "corruption",
+        "legal publication",
+        "news gathering",
+        "fees",
+        "national importance"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024830",
+      "summary": "A communication occurred between the Chief Public Corruption Unit of the United States Attorney's Office for the Southern District of New York and an individual (identified as USANYS) regarding a meeting in White Plains. The communication included a request to contact a cell phone number and a reference to \"Epstein.\" Two redactions are present in the document.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "epstein",
+        "usanys",
+        "redaction",
+        "white plains",
+        "corruption",
+        "united states attorney",
+        "southern district of new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00020792",
+            "similarity": 0.5,
+            "index": 16,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00027926",
+            "similarity": 0.6,
+            "index": 9,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00023709",
+            "similarity": 0.6,
+            "index": 2,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032642",
+      "summary": "This document is a collection of news articles from Law360, a legal news publication, covering a range of developments in the legal industry and related fields during August 2018. Key stories include: *   **Criminal Cases:** Evan Greebel’s prison sentence for aiding Martin Shkreli’s fraud, a plea deal for Prenda Law’s attorney, and recommendations for prison sentences related to the Mueller investigation and Sheldon Silver’s case. *   **Appeals Court Decisions:** Several rulings from the Second, Eleventh, and Third Circuits, including dismissing a class action related to Bernie Madoff’s fraud, denying extradition for an HSBC trader, and affirming a five-year prison sentence for a disability group’s former CEO. *   **Legal Industry News:** Articles on Quinn Emanuel’s stance on fee arbitration, reasons for attorneys to learn foreign languages, expansion of Stinson Leonard Street LLP, and trends in oral arguments before appellate courts. *   **Other Legal News:**  Updates on Kavanaugh’s meetings, accusations of judicial harassment, and corporate legal news (e.g., Fair Labor Standards Act ruling, California privacy law amendments, cryptocurrency fraud warnings). *   **Podcast & Job Listings:** Inclusion of a Law360 Pro Say podcast and job listings. The document essentially provides a snapshot of significant legal news happening at the time of its generation (December 26, 2025).",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "shkreli",
+        "fraud",
+        "prison",
+        "attorney",
+        "litigation",
+        "martin shkreli",
+        "prenda law",
+        "mueller",
+        "corruption",
+        "bankruptcy",
+        "cybersecurity",
+        "threats",
+        "emails",
+        "pennsylvania abuse",
+        "judicial system",
+        "arbitration",
+        "foreign languages",
+        "intellectual property",
+        "kavanaugh",
+        "diversity",
+        "disability",
+        "law360",
+        "podcast"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015646",
+      "summary": "Key topics include: *   **US Justice Department Actions:** The Department is closing the Metropolitan Correctional Center in New York due to conditions, protecting the right to vote and combating election threats, investigating T-Mobile data breaches, and sanctioning individuals involved in corruption in Paraguay. *   **Extremism and Hate Speech:** Analysis of hate speech on TikTok, investigations into extremist groups recruiting military personnel, and a documentary exposing a white nationalist group’s propaganda. *   **Terrorism Investigations:**  The FBI is investigating several terrorism-related incidents, including the Kabul airport bombing, cyberattacks, and the seizure of counterfeit DEA badges. The U.S. is also coordinating efforts with the Taliban to extract American citizens and allies. *   **International Conflicts:** Reports on the ongoing conflict in Afghanistan, including ISIS-Khorasan’s activity and the death of Boko Haram leader Abubakar Shekau, as well as investigations into terrorist groups operating in Turkey and Nigeria. *   **Historical Context:** Includes a summary of the 1979 assassination of Lord Mountbatten by the IRA and an event date detailing the death of Mountbatten. The documents are associated with the “EFTA00015646” file and were generated on December 24, 2025.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00015646",
+        "justice dept.",
+        "jeffrey epstein",
+        "metropolitan correctional center",
+        "tiktok",
+        "hate speech",
+        "extremism",
+        "t-mobile",
+        "data breach",
+        "election workers",
+        "capitol riot",
+        "robert f. kennedy",
+        "sirhan sirhan",
+        "white nationalist",
+        "isis-k",
+        "taliban",
+        "abubakar shekau",
+        "mountbatten",
+        "ira",
+        "terrorism",
+        "corruption",
+        "espionage"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025171",
+      "summary": "The Public Corruption Unit within the AUSAs handled numerous cases involving abuse of power by local and national officials. These cases included: *   **Traditional Corruption:** Excessive force involving a mentally disturbed homeless victim, bribery involving NYPD officers accepting gun licenses, and obstructing a federal investigation. *   **High-Profile Cases:** Charges against Lev Parnas and Igor Fruman (campaign finance), Michael Avenatti (extortion and fraud), Jeffrey Epstein (sex trafficking), Stephen Calk (bank bribery), and Natalie Mayflower Sours Edwards (leak of suspicious activity reports). *   **Financial Fraud:** Cases involving fraudulent PACs, wire fraud schemes targeting political donations, and restitution/forfeiture orders. *   **2019 Cases:** Extortion charges against Michael Avenatti (Nike), charges against Jeffrey Epstein (sex trafficking), and prosecutions related to college basketball bribery.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "corruption",
+        "public corruption unit",
+        "law enforcement",
+        "federal correctional officers",
+        "campaign finance",
+        "michael avenatti",
+        "jeffrey epstein",
+        "extortion",
+        "fraud",
+        "wire fraud"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026622",
+      "summary": "The Public Corruption Unit, comprised of 20 AUSAs, prosecuted a wide range of corruption cases in 2019. Locally, they charged NYPD officers with theft and fraud, a Brooklyn Supreme Court Justice with obstructing a federal investigation, and correctional officers with abuse of power and falsifying records related to inmate deaths. Nationally, the unit pursued campaign finance violations involving Lev Parnas and Igor Fruman, prosecuted a fraudulent PAC operator, and brought extortion charges against Michael Avenatti related to Nike and Stephanie Clifford (“Stormy Daniels”). Additionally, they pursued sex trafficking charges against Jeffrey Epstein, and investigated corruption within college basketball, including bribery charges against defendants attempting to pay university coaches.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "public corruption unit",
+        "campaign finance",
+        "extortion",
+        "fraud",
+        "correctional officers",
+        "jeffrey epstein",
+        "michael avenatti",
+        "new york city",
+        "federal investigation",
+        "bribery"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032349",
+      "summary": "Key highlights include: *   **Second Circuit Ruling:** The Second Circuit Court of Appeals ruled that the \"McDonnell\" ruling (regarding U.S. FCPA prosecutions) does not apply broadly to corruption cases, affirming a conviction of a Chinese developer for bribing UN officials. *   **Various Legal Cases:** Several significant legal cases are reported on, including: *   A former KPMG accountant sentenced for theft of confidential inspection plans. *   A New York Times defamation lawsuit against Joe Arpaio dismissed. *   The investigation into Jeffrey Epstein’s death and related documents. *   A charity accused of Iran sanctions violations receiving a new trial. *   Cisco’s $8.6 million settlement over cybersecurity flaws. *   Intellectual property disputes involving Humvee and \"Call of Duty,\" and a lawsuit by NBA star Giannis Antetokounmpo. *   **Judicial Concerns:**  A judge expressed frustration with attacks on the judiciary and urged for more aggressive action. *   **Industry News:** The document covers trends within the legal profession, such as growth in certain firms (Eversheds Sutherland), discussions around lawyer well-being, and developments in areas like cannabis law and tech privacy. *   **Job Postings:**  A list of job openings within various law firms and legal fields is also included. Essentially, it's a snapshot of key legal developments and trends as reported by Law360 at the time of publication (December 26, 2025).",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "un bribery",
+        "mcdonnell",
+        "foreign corrupt practices act",
+        "fcpa",
+        "second circuit",
+        "corruption prosecution",
+        "chinese real estate developer",
+        "kpmg",
+        "tax evasion",
+        "arpaio defamation suit",
+        "jeffrey epstein",
+        "sec",
+        "cybersecurity",
+        "data breach",
+        "intellectual property",
+        "trademark lawsuit",
+        "\"call of duty",
+        "\" greek freak",
+        "parody",
+        "copyright infringement",
+        "securities fraud",
+        "white collar crime",
+        "judicial independence",
+        "cyber security & privacy",
+        "delta airlines",
+        "cyber security",
+        "legal industry",
+        "attorney well-being",
+        "legal access",
+        "extradition",
+        "pro publica",
+        "corporate news",
+        "cannabis",
+        "tech giants",
+        "litigation funding",
+        "attorney jobs"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027423",
+      "summary": "This document is a short form update regarding case EFTA00027423, prepared by the Deputy Chief of the Public Corruption Unit, U.S. Attorney’s Office, Southern District of New York. It includes an attached document named PC_Unitr_Short_Form_Update.12.4.20.docx.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00027423",
+        "public corruption",
+        "u.s. attorney",
+        "short form update",
+        "desk",
+        "cell",
+        "update",
+        "2020",
+        "docx",
+        "efta"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032454",
+      "summary": "Key stories include: *   **KPMG Partner's Testimony:** A former KPMG partner, Michael Middendorf, testified in his defense regarding alleged theft of PCAOB inspection plans. *   **Various Lawsuits & Disputes:** Several lawsuits and disputes are reported, including a claim against Mariah Carey’s ex-manager, a class action regarding pregnancy discrimination at Morrison & Foerster, wage theft allegations against Wesco Insurance, and disputes over arbitration requests. *   **Regulatory Investigations:** The New York Attorney General is suing the Trump administration over a wage theft amnesty program, and investigations are ongoing related to the Insys Therapeutics opioid case and the Baker McKenzie Brazilian corruption allegations. *   **Mergers & Acquisitions:** Nasdaq is matching Euronext’s bid for the Oslo Bors VPS exchange. *   **Firm Activity & Hiring:** Law firms like Akin Gump, Gibson Dunn, Pierce Bainbridge, and Clifford Chance are involved in various cases and have reported hiring decisions, including returning Donald McGahn to Jones Day. *   **Supreme Court Updates:** Justice Ginsburg's recent opinions and Barr's decision not to recuse himself from the Mueller investigation are noted. *   **General Legal News:** Includes news on various legal industry initiatives, job postings, and updates on companies like Adidas, Citigroup, and WeWork. The document is essentially a snapshot of legal news from multiple sources as of the specified date.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "kpmg",
+        "pcaob",
+        "whistleblower",
+        "trump",
+        "scandals",
+        "litigation",
+        "class action",
+        "wage theft",
+        "coffee",
+        "arbitration",
+        "sec",
+        "justice ginsburg",
+        "mueller",
+        "whitaker",
+        "retail",
+        "wework",
+        "law firms",
+        "legal industry",
+        "jobs"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035074",
+      "summary": "It specifies permitted items (clothing, hygiene products, reading materials) and requires the inmate to use a specific blanket and mattress. The inmate’s eating and liquid consumption are tracked via a chart, with checkboxes indicating whether the inmate actually consumed the offered food or drinks.  A significant portion of the document appears to contain nonsensical, seemingly random text, possibly representing a failed translation or data corruption. The final pages document observations made on June 17, 1976, including details on the inmate's activity, medical interventions, and attempts to engage the inmate.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "observation",
+        "suicide watch",
+        "psych observation",
+        "eating/shower chart",
+        "items allowed",
+        "safety toothbrush",
+        "safety pen",
+        "legal mail",
+        "sw blanket",
+        "inmate"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    }
+  ]
+}

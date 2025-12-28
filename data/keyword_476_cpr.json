@@ -1,0 +1,1288 @@
+{
+  "keyword": "cpr",
+  "count": 31,
+  "keyword_match_count": 31,
+  "content_match_count": 6,
+  "total_files": 37,
+  "timeline": [
+    {
+      "file_id": "EFTA00037584",
+      "summary": "On April 23, 2019, U.S. Customs and Border Protection generated a Traveler List (EFTA00037584) detailing information for three travelers: Jeffrey Epstein, David Rodgers, and Lawrence Visoski. The list includes their names, dates of birth, citizenship (USA), gender, travel mode (Private Air - N212JE), departure date (06/20/2018), departure time (06:15), and departure location (KTEB). The traveler statuses are categorized as Fair, PSBS, and various security designations.",
+      "timestamp": "2019-04-23T00:00:00",
+      "timestamp_raw": "April 23, 2019",
+      "keywords": [
+        "customs and border protection",
+        "traveler list",
+        "advance traveler information",
+        "tecs",
+        "jeffrey epstein",
+        "david rodgers",
+        "lawrence visoski",
+        "usa",
+        "pax",
+        "cpr"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036062",
+      "summary": "On July 23, 2019, inmate Epstein was found unresponsive in her cell, exhibiting a red neck and placed on suicide watch. Following daily psychological evaluations, she was removed from suicide watch on July 29, 2019, and returned to the Special Housing Unit with a different cellmate. On August 9, 2019, her cellmate was released from court, leaving Epstein without a cellmate and requiring a psychological alert. Unit staff reported unusual behavior, including missed counts and a refusal to discuss events by two officers. On August 10, 2019, Epstein was found unresponsive in her cell, resulting in her death after CPR and transport to the hospital; bruising around her neck and a makeshift noose were discovered in the cell.",
+      "timestamp": "2019-07-23T00:00:00",
+      "timestamp_raw": "July 23, 2019",
+      "keywords": [
+        "epstein",
+        "suicide watch",
+        "cellmate",
+        "medical evaluation",
+        "cpr",
+        "bruising",
+        "noose",
+        "institution",
+        "death",
+        "psychological evaluation"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035180",
+      "summary": "*   **July 9th:** He refused an eye doctor evaluation recommended to diagnose ophthalmologic diseases, citing concerns about inability to diagnose. He assumed all responsibility for his condition and released the Bureau of Prisons from liability. *   **July 10th:** He refused a chest x-ray, fearing worsening of any findings. He similarly assumed responsibility and released the Bureau from liability. *   **July 24th:** He refused an eye doctor evaluation again, citing the same inability to diagnose. *   **July 30th:** He received an insulin regimen for pre-diabetes and received a neurological consultation following complaints of numbness in his right arm and other concerns. Throughout these refusals, Epstein consistently stated that he was assuming all responsibility for his health and releasing the Bureau of Prisons from liability.  He was documented receiving various medical care, including CPR and IV treatment, during an emergency situation on July 30th. The documents detail various medication orders, clinical encounters, and requests for further testing, primarily related to his eye health and overall condition.",
+      "timestamp": "2019-07-24T00:00:00",
+      "timestamp_raw": "7-24-2019",
+      "keywords": [
+        "medical treatment refusal",
+        "jeffrey epstein",
+        "eye doctor evaluation",
+        "ophthalmologic diseases",
+        "bureau of prisons",
+        "treatment",
+        "medications",
+        "x-ray",
+        "dental examination",
+        "nym",
+        "hypertension",
+        "prediabetes"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00033799",
+      "summary": "On August 9, 2019, Jeffrey Epstein was found unresponsive in his cell at the Metropolitan Correctional Center (MCC) New York at 6:33 AM. Medical personnel initiated CPR and provided interventions including epinephrine and intubation. He was transported to Beekman Hospital where he was pronounced dead at 7:36 AM. Following the incident, law enforcement and investigative teams, including the FBI, US Marshals, medical examiners, and various institutional staff, responded. They conducted interviews, collected evidence (fingerprints, photographs, computer data), and coordinated with legal and family representatives. The timeline details the sequence of events from initial discovery to the release of the body for autopsy, the involvement of multiple agencies, and the subsequent investigation conducted over several days, including staff recalls and continued FBI presence. Finally, operations resumed on August 11th.",
+      "timestamp": "2019-08-09T00:00:00",
+      "timestamp_raw": "August 9, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "suicide",
+        "shu",
+        "cpr",
+        "ems",
+        "hospital",
+        "fbi",
+        "autopsy",
+        "medical examiner",
+        "beekman hospital",
+        "time of death",
+        "attorneys",
+        "crisis support team",
+        "usms",
+        "sidny"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00035445",
+            "similarity": 0.562,
+            "index": 7,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034465",
+            "similarity": 0.5,
+            "index": 8,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035626",
+            "similarity": 0.562,
+            "index": 11,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035175",
+      "summary": "On August 9, 2019, Jeffrey Epstein was found unresponsive in his cell at the Metropolitan Correctional Center (MCC) New York at 6:33 am. Medical personnel initiated CPR and provided interventions including intubation, epinephrine, and IV access. He was transported to Beekman Hospital where he was pronounced dead at 7:36 am. A subsequent investigation involved numerous agencies including the FBI, US Marshals, Bureau of Prisons, Medical Examiner, and Office of Inspector General (OIG). Personnel documented timelines of staff responses, medical interventions, communication with various authorities (AUSA, Judge Berman, etc.), and the collection of evidence (fingerprints, photos, clothing).  The investigation involved multiple visits and interviews within the facility and at Beekman Hospital.  The institution’s operations were temporarily modified, and computer systems were secured and replaced.  The investigation continued over several days with FBI involvement, OIG oversight, and staff recall.",
+      "timestamp": "2019-08-09T00:00:00",
+      "timestamp_raw": "August 9, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "august 9",
+        "2019",
+        "shu",
+        "cpr",
+        "beekman hospital",
+        "fbi",
+        "autopsy",
+        "medical examiner",
+        "time of death",
+        "inmate",
+        "emergency response"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00035445",
+            "similarity": 0.571,
+            "index": 7,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034465",
+            "similarity": 0.5,
+            "index": 8,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00036664",
+            "similarity": 0.571,
+            "index": 12,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035220",
+      "summary": "On August 9, 2019, Jeffrey Epstein, while in the custody of the US Marshals, was visited by attorneys and had a social call with cellmate Reyes Efrain before being found unresponsive in his cell. Medical personnel initiated CPR, intubation, and attempted transport to Beekman Hospital where he was pronounced dead. Following his death, investigators, including the FBI, US Marshals, medical examiners, and various institutional staff, responded to the scene. A timeline of events followed, including the collection of evidence, interviews with inmates and staff, notification of legal representatives and family, and ultimately, the removal of Epstein’s computer from the SHU. The circumstances surrounding Epstein’s death were investigated by multiple agencies, including the OIG.",
+      "timestamp": "2019-08-09T00:00:00",
+      "timestamp_raw": "August 9, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "reyes efrain",
+        "shu",
+        "cpr",
+        "medical emergency",
+        "beekman hospital",
+        "fbi",
+        "autopsy",
+        "coroner",
+        "usms",
+        "time of death"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00034505",
+            "similarity": 0.615,
+            "index": 6,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035445",
+            "similarity": 0.5,
+            "index": 7,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00036664",
+            "similarity": 0.5,
+            "index": 12,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034505",
+      "summary": "On August 9, 2019, Jeffrey Epstein was unresponsive in his cell at 6:33 am, triggering a medical emergency and CPR. Medical personnel transported him to Beekman Hospital where he was pronounced dead at 7:36 am. Following the incident, law enforcement, including the FBI and various legal and investigative teams, responded to the institution. Procedures included fingerprinting, photography, securing clothing, notifying family, issuing a press release, and scheduling an autopsy performed by the Medical Examiner. The Office of the Inspector General (OIG) also investigated the incident.",
+      "timestamp": "2019-08-09T00:00:00",
+      "timestamp_raw": "August 9, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "suicide",
+        "shu",
+        "cpr",
+        "aed",
+        "medical emergency",
+        "beekman hospital",
+        "fbi",
+        "autopsy",
+        "time of death"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035220",
+            "similarity": 0.615,
+            "index": 5,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00035445",
+            "similarity": 0.538,
+            "index": 7,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034474",
+            "similarity": 0.5,
+            "index": 9,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035626",
+            "similarity": 0.538,
+            "index": 11,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035445",
+      "summary": "Around 6:33 AM, a body alarm was triggered, and staff discovered him unresponsive. Medical personnel initiated CPR and other life-saving measures, eventually intubating him and transporting him to Beekman Hospital. He was pronounced dead at 7:36 AM. The following events occurred: *   **Immediate Response (August 9):**  Initial calls to emergency services, USMS, SIS, FBI, and various institutional staff (Warden, Psychologist, Captain, etc.) were made. Reyes, Epstein’s cellmate, was released from court and did not return to the institution. *   **Investigation (August 9-11):**  Investigators, including the FBI, OIG, medical examiners, and computer services personnel, conducted interviews, took fingerprints and photographs, secured clothing, and removed computers from Epstein’s cell. The Medical Examiner performed an autopsy, and a press release was issued. *   **Evidence Collection (August 10-11):**  The OIG and FBI collected computer evidence (two FPS computers), and the Computer Services Manager replaced the seized computers. The timeline concluded with the removal of the computers and the departure of OIG/FBI personnel from the MCC New York.",
+      "timestamp": "2019-08-09T00:00:00",
+      "timestamp_raw": "August 9, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "reyes",
+        "shu",
+        "cpr",
+        "autopsy",
+        "beekman hospital",
+        "fbi",
+        "ems",
+        "medical examiner",
+        "time of death"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034505",
+            "similarity": 0.538,
+            "index": 6,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035220",
+            "similarity": 0.5,
+            "index": 5,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035175",
+            "similarity": 0.571,
+            "index": 4,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00034474",
+            "similarity": 0.5,
+            "index": 9,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035626",
+            "similarity": 0.667,
+            "index": 11,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00036664",
+            "similarity": 0.818,
+            "index": 12,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034465",
+      "summary": "On August 9, 2019, Jeffrey Epstein was found unresponsive in his cell at the Special Housing Unit (SHU) at WAB-USMS-SDNY, leading to a medical emergency and subsequent death. Initial events included an inmate departure for court, visits with attorneys, and a social call. CPR and medical interventions were performed, and he was transported to Beekman Hospital. A timeline of responses followed, involving law enforcement (FBI, USMS), legal personnel (AUSA, Judge Berman), medical staff (Medical Examiner, Psychologist), and institutional staff (warden, correctional officers, IT staff). Investigations spanned multiple days, including interviews, fingerprint collection, forensic examinations, and the removal of electronic devices. The investigation involved numerous agencies and personnel, culminating in the release of the body for autopsy and the resumption of normal operations on August 11, 2019.",
+      "timestamp": "2019-08-09T00:00:00",
+      "timestamp_raw": "August 9, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "suicide",
+        "shu",
+        "cpr",
+        "beekman hospital",
+        "fbi",
+        "autopsy",
+        "medical examiner",
+        "august 10",
+        "2019",
+        "coroner",
+        "crisis support team"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035175",
+            "similarity": 0.5,
+            "index": 4,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033799",
+            "similarity": 0.5,
+            "index": 3,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00034474",
+            "similarity": 0.769,
+            "index": 9,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00035626",
+            "similarity": 0.571,
+            "index": 11,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00036664",
+            "similarity": 0.571,
+            "index": 12,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034474",
+      "summary": "Medical personnel initiated CPR and other life-saving measures, leading to intubation and administration of epinephrine. He was transported to Beekman Hospital where he was pronounced dead at 7:36 am. The incident triggered a rapid response involving multiple agencies including the US Marshals Service, FBI, District Attorney’s office, medical staff, psychological staff, and various institutional personnel. Investigations included interviews with inmates, collection of forensic evidence (fingerprints, photographs, clothing), and the removal of electronic devices from his cell. The autopsy was conducted on August 12, 2019, and forensic teams (OIG/FBI) collected computer data. The timeline details the coordination of these efforts, communications with relevant parties, and the actions taken by various individuals and organizations involved in the response.",
+      "timestamp": "2019-08-09T00:00:00",
+      "timestamp_raw": "August 9, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "suicide",
+        "shu",
+        "cpr",
+        "beekman hospital",
+        "ems",
+        "fbi",
+        "autopsy",
+        "coroner",
+        "august 10",
+        "2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034465",
+            "similarity": 0.769,
+            "index": 8,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00035445",
+            "similarity": 0.5,
+            "index": 7,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034505",
+            "similarity": 0.5,
+            "index": 6,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00035626",
+            "similarity": 0.615,
+            "index": 11,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00036664",
+            "similarity": 0.615,
+            "index": 12,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035461",
+            "similarity": 0.769,
+            "index": 13,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00036745",
+      "summary": "On August 9, 2019, Jeffrey Epstein was found unresponsive in his cell at the Federal Bureau of Prisons, resulting in his death at 7:36 a.m. on August 10, 2019, after being discovered during breakfast service at 6:33 a.m. Prior to his death, Epstein was on suicide watch, then removed from it on July 29, 2019, and housed with cellmate Reyes 85993-054 until Reyes' release on August 9, 2019. Throughout the day of August 9th, Epstein had legal visits and communicated with staff via phone.  Bruising around his neck and a makeshift noose were reported in his cell.  Following the discovery of his death, medical staff conducted an investigation, and the cell was secured as a potential crime scene.",
+      "timestamp": "2019-08-09T00:00:00",
+      "timestamp_raw": "August 9, 2019",
+      "keywords": [
+        "epstein",
+        "suicide watch",
+        "federal bureau of prisons",
+        "washington d.c.",
+        "cellmate",
+        "cpr",
+        "death",
+        "psychological evaluation",
+        "legal visit",
+        "crime scene"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035626",
+      "summary": "On August 9, 2019, Jeffrey Epstein was unresponsive in his cell at WAB, prompting medical intervention and subsequent transport to Beekman Hospital. CPR, epinephrine, and IV access were administered without success. He was pronounced dead at 7:36 am. Following his death, authorities, including the FBI, USMS, SIS, and various hospital and correctional staff, responded to the scene and initiated an investigation. Interviews were conducted with inmates, forensic examinations were performed, and the body was released to the Medical Examiner for autopsy. The timeline details the communication and actions of numerous agencies and individuals involved in the response, including notification of legal representatives, media, and oversight agencies.",
+      "timestamp": "2019-08-09T00:00:00",
+      "timestamp_raw": "August 9, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "suicide",
+        "shu",
+        "cpr",
+        "ems",
+        "fbi",
+        "autopsy",
+        "beekman hospital",
+        "warden",
+        "medical examiner"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034474",
+            "similarity": 0.615,
+            "index": 9,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034465",
+            "similarity": 0.571,
+            "index": 8,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035445",
+            "similarity": 0.667,
+            "index": 7,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00036664",
+            "similarity": 0.818,
+            "index": 12,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00035461",
+            "similarity": 0.571,
+            "index": 13,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00036664",
+      "summary": "On August 9, 2019, Jeffrey Epstein was found unresponsive in his cell at WAB, prompting CPR and subsequent medical intervention. He was transported to Beekman Hospital where he died at 7:30 am. Following his death, authorities conducted interviews with inmates, collected forensic evidence, notified legal representatives and the media, and arranged for the body to be released for autopsy. The timeline details staff responses, medical procedures, law enforcement involvement, and communication with key personnel including the FBI, prosecutor’s office, and family.",
+      "timestamp": "2019-08-09T00:00:00",
+      "timestamp_raw": "August 9, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "suicide",
+        "shu",
+        "cpr",
+        "ems",
+        "medical examiner",
+        "fbi",
+        "beekman hospital",
+        "autopsy",
+        "time of death"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035626",
+            "similarity": 0.818,
+            "index": 11,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00034474",
+            "similarity": 0.615,
+            "index": 9,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034465",
+            "similarity": 0.571,
+            "index": 8,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00035461",
+            "similarity": 0.692,
+            "index": 13,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035461",
+      "summary": "CPR and various medical interventions were attempted. Emergency services were called, and he was transported to Beekman Hospital. A timeline of events followed, including notifications to various authorities (FBI, USMS, AUSA, Judge Berman), institutional staff, and psychological professionals.  A press release was issued, and the body was released to the Medical Examiner for autopsy. Investigations involved interviews with inmates, forensic examination (fingerprints, photos), computer removal and replacement, and involvement from the FBI, OIG, and correctional services personnel over several days. Normal operations resumed on August 11, 2019, with continued investigations extending into August 13, 2019 involving additional correctional services personnel.",
+      "timestamp": "2019-08-09T00:00:00",
+      "timestamp_raw": "August 9, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "suicide",
+        "shu",
+        "cpr",
+        "beekman hospital",
+        "fbi",
+        "autopsy",
+        "medical examiner",
+        "time of death",
+        "august 10",
+        "2019",
+        "coroner"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00036664",
+            "similarity": 0.692,
+            "index": 12,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035626",
+            "similarity": 0.571,
+            "index": 11,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034474",
+            "similarity": 0.769,
+            "index": 9,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00034367",
+            "similarity": 0.562,
+            "index": 16,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035430",
+      "summary": "On August 10, 2019, at the Metropolitan Correctional Center in New York, Lieutenant assumed duties at 12:00 AM. The daily count was 758 with 73 inmates in SHU.  Notable events included inmate observations (Psych Obs.) for several inmates, one inmate in a dry cell with staff intervention, a medical emergency involving unresponsive inmate Epstein requiring CPR and transport to a local hospital, and monitoring of STG International Terrorist phone calls and WITSEC inquiries. The final count at the end of the shift was 758 with 71 inmates in SHU, 5 in the 10-South SHU, and 4 in the Health/Administrative Observation units.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "metropolitan correctional center",
+        "united states department of justice",
+        "shu",
+        "psych obs",
+        "restraint equipment",
+        "institution count",
+        "emergency",
+        "cpr",
+        "administrative detention",
+        "terrorist phone calls"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00033613",
+      "summary": "On August 10, 2019, at 0633 a.m., a correctional officer responded to an unresponsive inmate, Jeffrey Epstein (Reg # 76318-054), in his cell. Epstein was found unresponsive with CPR in progress, exhibiting symptoms including circumferential bruising around the neck, fixed and dilated pupils, and no palpable pulses. EMS was called at 0635 a.m. An AED was used without a shock advised. After transport to the HSU treatment room, CPR continued with an 18g hep lock and oxygen administration. EMS and Paramedics arrived at 0656 a.m. and confirmed asystole, initiating further interventions including intubation, epinephrine administration, and transport to a local ER with ongoing CPR at approximately 0710.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "medical emergency",
+        "inmate",
+        "cpr",
+        "aed",
+        "asystole",
+        "intubation",
+        "epinephrine",
+        "ems",
+        "correctional officers",
+        "bruising"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00035011",
+            "similarity": 0.667,
+            "index": 21,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034065",
+            "similarity": 0.667,
+            "index": 25,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034367",
+      "summary": "Jeffrey Epstein’s death occurred on August 10, 2019, at the Metropolitan Correctional Center (MCC) New York. The timeline begins with his court appearance at 8:30 am, followed by a social call at 7:00 pm. At 6:33 am on August 10th, a body alarm was triggered, and Epstein was found unresponsive in his cell. Medical personnel initiated CPR and provided interventions before transporting him to Beekman Hospital. Despite efforts, he was pronounced dead at 7:36 am. A series of agencies, including US Marshals, FBI, Bureau of Prisons, and the Office of the Inspector General (OIG), responded to the scene and conducted investigations, including interviews, forensic examinations (fingerprints, photographs, autopsy), and the removal of electronic devices. The investigation continued into the following day, with OIG and FBI agents collecting evidence and computers before departing the institution.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "august 9",
+        "2019",
+        "shu",
+        "cpr",
+        "medical emergency",
+        "beekman hospital",
+        "fbi",
+        "autopsy",
+        "coroner",
+        "usms",
+        "ido",
+        "time of death"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035461",
+            "similarity": 0.562,
+            "index": 13,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034474",
+            "similarity": 0.5,
+            "index": 9,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034505",
+            "similarity": 0.533,
+            "index": 6,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035502",
+      "summary": "On August 10, 2019, Jeffrey Edward Epstein (Reg# 76318-054) at NYM facility experienced a medical emergency involving cardiac arrest. Initial responders, including correctional officers, initiated CPR. Medical personnel (RN, paramedics) arrived and performed advanced life support, including intubation, epinephrine administration, and IV fluids. The inmate was unresponsive, exhibiting fixed and dilated pupils, circumferential bruising around the neck, and mottled skin. Despite interventions, the inmate was transported to a local ER with ongoing CPR. A consultation request for an Emergency Room and translator was initiated.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "cpr",
+        "emergency",
+        "resuscitation",
+        "iv",
+        "epinephrine",
+        "endotracheal tube",
+        "nym",
+        "cardiac arrest",
+        "ems"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00035007",
+            "similarity": 0.818,
+            "index": 19,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00034558",
+            "similarity": 0.667,
+            "index": 20,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033611",
+            "similarity": 0.818,
+            "index": 24,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035358",
+      "summary": "On August 10, 2019, at the Metropolitan Correctional Center in New York, Lieutenant conducted morning operations, including a count of 758 inmates (73 in SHU), a fire alarm system issue, and restraint equipment inventory.  Throughout the shift, there were several body alarm tests and institutional counts. A medical emergency involving inmate Epstein (#76318-054) occurred at 6:33 AM, resulting in CPR and transport to a local hospital. The Lieutenant relieved duties at 8:00 AM, and the final count was 758 with 71 in SHU. WITSEC inquiries and administrative detentions were also noted.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "metropolitan correctional center",
+        "united states department of justice",
+        "prea",
+        "inmate count",
+        "shu",
+        "medical emergency",
+        "cpr",
+        "restraint equipment",
+        "administrative detention",
+        "terrorism"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035007",
+      "summary": "On August 10, 2019, Jeffrey Epstein was found unresponsive in his cell at the NYM facility. Initial responders initiated CPR. Medical staff administered epinephrine, sodium bicarbonate, and oxygen. An endotracheal tube was placed, and an 18-gauge IV was established. The inmate was transported to the Special Housing Unit (HSU) and subsequently to a local emergency room while continuing to receive CPR. A cardiac arrest diagnosis was made, and a consultation with the emergency room was requested as emergent. The encounter involved numerous interventions including medications, airway management, and resuscitation efforts.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "cpr",
+        "epinephrine",
+        "iv",
+        "endotracheal tube",
+        "emergency",
+        "resuscitation",
+        "nym",
+        "cardiac arrest",
+        "paramedics"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035502",
+            "similarity": 0.818,
+            "index": 17,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00034558",
+            "similarity": 0.818,
+            "index": 20,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00033611",
+            "similarity": 1.0,
+            "index": 24,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034558",
+      "summary": "On August 10, 2019, Jeffrey Epstein was found unresponsive in his cell at NYM facility. Emergency medical personnel responded and initiated CPR. The inmate was found with circumferential bruising around the neck, fixed and dilated pupils, and no palpable pulses. Treatment included endotracheal intubation, IV access with a 18g peripheral IV, administration of epinephrine and sodium bicarbonate, and oxygen via a BVM. CPR continued until EMS and paramedics arrived. The inmate was then transported to an emergency room with ongoing CPR. A consultation request was made for a translator and ambulance service due to the cardiac arrest.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "cpr",
+        "emergency",
+        "resuscitation",
+        "iv",
+        "medications",
+        "endotracheal tube",
+        "nym",
+        "paramedics",
+        "cardiac arrest"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035007",
+            "similarity": 0.818,
+            "index": 19,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00035502",
+            "similarity": 0.667,
+            "index": 17,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00033611",
+            "similarity": 0.818,
+            "index": 24,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035011",
+      "summary": "On August 10, 2019, at 0633 a.m., a clinical nurse responded to an emergency involving Inmate J. Epstein (Reg # 76318-054) who was unresponsive on the floor of his cell. Initial observations included circumferential bruising around the neck, fixed and dilated pupils, and lack of palpable pulses. CPR was initiated and continued with the use of an AED (no shock advised). The inmate was transported to a treatment room and then to a local ER via CPR, ultimately resulting in asystole and subsequent attempts at resuscitation including intubation and epinephrine administration. EMS and paramedics arrived at 0656 and continued CPR until transport to the local ER at approximately 0710.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "medical emergency",
+        "inmate",
+        "cpr",
+        "aed",
+        "asystole",
+        "intubation",
+        "ems",
+        "resuscitation",
+        "bruising",
+        "clinical"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00033613",
+            "similarity": 0.667,
+            "index": 15,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00034065",
+            "similarity": 1.0,
+            "index": 25,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035018",
+      "summary": "On August 10, 2019, at approximately 6:33 am, a body alarm was triggered at the 9.South unit, specifically cell #220, tier #11. Inmate Jeffrey Edward Epstein (#76318-054) was found unresponsive and receiving CPR by medical staff. Staff subsequently moved the inmate to the medical room and continued CPR until paramedics arrived. The inmate was transported to a hospital via EMS vehicle, and the officer remained on-site until relieved.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "body alarm",
+        "jeffrey edward epstein",
+        "cpr",
+        "inmate",
+        "medical",
+        "ems",
+        "hospital",
+        "unit 9 south",
+        "cell #220",
+        "government vehicle"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035026",
+      "summary": "On August 10, 2019, at approximately 6:33 am, a medical emergency was reported in the 9South Special Housing Unit. A senior officer responded and found medical staff performing CPR on Jeffrey Edward Epstein (#76318-054), who was unresponsive. The officer assisted in transporting Epstein to the Health Service Area, where CPR continued until EMS staff arrived. The inmate was then transported by ambulance with Bop staff escort to Downtown Beckman hospital, where the officer remained on post until relieved.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "emergency",
+        "medical",
+        "inmate",
+        "cpr",
+        "response",
+        "9south",
+        "health service area",
+        "emt",
+        "beckman hospital",
+        "government"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00033611",
+      "summary": "On August 10, 2019, Jeffrey Epstein (Reg # 76318-054) at NYM facility experienced a medical emergency, classified as a resuscitation event requiring CPR. Initial responders (correctional officers) found him unresponsive in his cell.  Medical personnel initiated interventions including endotracheal intubation, IV access with a peripheral IV (18g left AC), administration of epinephrine and sodium bicarbonate, oxygen via a BVM, and continuous cardiac monitoring. Despite these efforts, the inmate sustained an asystole and was transported to a local ER with CPR in progress. A consultation request for an emergency room was initiated.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "cpr",
+        "epinephrine",
+        "iv",
+        "endotracheal tube",
+        "nym",
+        "emergency",
+        "cardiac arrest",
+        "resuscitation",
+        "paramedics"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034558",
+            "similarity": 0.818,
+            "index": 20,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00035007",
+            "similarity": 1.0,
+            "index": 19,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00035502",
+            "similarity": 0.818,
+            "index": 17,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034065",
+      "summary": "On August 10, 2019, at 0633 a.m., a clinical nurse responded to a medical emergency involving Inmate J. Epstein (Reg #: 76318-054) in his cell. The inmate was unresponsive, receiving CPR initiated by correctional officers. Findings included cold temperature, circumferential bruising around the neck, fixed and dilated pupils, and lack of palpable pulses. EMS and paramedics were called at 0635 a.m. and arrived at 0656 a.m. to find asystole. Subsequent interventions included intubation, epinephrine administration, and transport to a local ER with continued CPR.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "medical emergency",
+        "inmate",
+        "cpr",
+        "aed",
+        "asystole",
+        "intubation",
+        "ems",
+        "bruising",
+        "resuscitation",
+        "clinical"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035011",
+            "similarity": 1.0,
+            "index": 21,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00033613",
+            "similarity": 0.667,
+            "index": 15,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035014",
+      "summary": "On August 10, 2019, at 0633 a.m., an Electronics Technician responded to a medical emergency involving Inmate J Epstein (Registration # 76138-054) in cell 9 South. Inmate Epstein was unresponsive and receiving CPR by a Correctional Lieutenant and PA. The technician assisted in transporting the inmate to Health Services.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "justice",
+        "department",
+        "emergency",
+        "inmate",
+        "cpr",
+        "medical",
+        "response",
+        "corrections",
+        "lieutenant",
+        "epstein"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035356",
+      "summary": "On August 10, 2019, at 0633 a.m., Inmate J. Epstein (Reg # 76318-054) was found unresponsive on the floor of his cell with CPR being performed by correctional officers. He exhibited circumferential bruising around the neck, posterior mottling, fixed and dilated pupils, and no palpable pulses. EMS was called at 0635 a.m., and the inmate was transported to the HSU treatment room with oxygen and a hep lock. Upon arrival of EMS at 0656 a.m., asystole was detected, CPR continued, the inmate was intubated, and three rounds of epinephrine were administered without success. The inmate was then transported to a local ER with ongoing CPR at approximately 0710.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "efta00035356",
+        "inmate epstein",
+        "medical emergency",
+        "cpr",
+        "aed",
+        "ems",
+        "asystole",
+        "intubation",
+        "cardiac monitor",
+        "clinical nurse"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036101",
+      "summary": "This document is a daily log from August 9th and 10th, 2019, kept by a Metropolitan Correctional Center Lieutenant detailing operations, inmate counts, medical emergencies, and security incidents. Key events include: *   **Counts:** Multiple institutional counts were conducted at 12:00 AM, 3:00 AM, and 5:00 AM, consistently recording 757 or 758 inmates. *   **Medical Emergency:** On August 10th, inmate Epstein was found unresponsive and received CPR before being transported to a hospital. *   **Restraints and Transfers:** Several inmates were placed in Administrative Detention and transferred to special housing, notably Fernandez and Mutimura. *   **System Issues:** Fire alarm/sprinkler system malfunctions and a malfunctioning Public Address System occurred. *   **Security Procedures:** Regular checks of metal detectors, restraint equipment, and roof security were performed. *   **Phone Monitoring:** STG International Terrorist phone calls and WITSEC inquiries were monitored. *   **Count Variations:** The final count varied between 756 and 758 throughout the shifts.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "lieutenant",
+        "shu",
+        "count",
+        "medical emergency",
+        "restraint equipment cage",
+        "nypd phone check",
+        "institutional count",
+        "administrative detention",
+        "emergency services",
+        "dry cell"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036026",
+      "summary": "This document is a daily log from the Metropolitan Correctional Center in New York, detailing the activities and observations of a correctional lieutenant on August 9th and 10th, 2019. The log records counts, sensitive inmate observations (primarily psychiatric observation), staff interventions (including CPR attempts on an inmate named Epstein), transfer of inmates to special housing, and various operational activities like inventory checks, roof checks, phone checks, and alarm testing. There were no WITSEC inquiries or administrative detentions recorded during the shifts. The log covers a range of events including a fire alarm, a system malfunction affecting PA announcements, and a trash run.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "inmate",
+        "psych obs",
+        "shu",
+        "dry cell",
+        "nypd",
+        "count",
+        "emergency",
+        "hospital",
+        "restraint",
+        "detention",
+        "observation"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034354",
+      "summary": "On August 11, 2019, a Medical Examiner from the NYPD contacted the Bureau of Prisons regarding the body of inmate Epstein. The Medical Examiner needed someone to verify the inmate's body at the coroner’s office to initiate an autopsy. The communication was sent from the MCC New York office.",
+      "timestamp": "2019-08-11T00:00:00",
+      "timestamp_raw": "August 11, 2019",
+      "keywords": [
+        "inmate epstein",
+        "autopsy",
+        "coroner's office",
+        "nypd",
+        "verification",
+        "medical examiner",
+        "federal bureau of prisons",
+        "cpr",
+        "sdny_000 10778",
+        "efta00034354"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035434",
+      "summary": "A correspondence email chain, dated August 11, 2019, concerning inmate Esptein, was sent from a Federal Bureau of Prisons Senior Officer Specialist at MCC New York to an unidentified recipient. The email included a quote from Elizabeth Kubler-Ross regarding embracing life's events and finding purpose. The file pertains to inmate EFTA00035434.",
+      "timestamp": "2019-08-11T00:00:00",
+      "timestamp_raw": "August 11, 2019",
+      "keywords": [
+        "efta00035434",
+        "inmate",
+        "espstein",
+        "redaction",
+        "afge",
+        "cpr",
+        "federal bureau of prisons",
+        "mcc new york",
+        "elizabeth kubler-ross"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037215",
+      "summary": "On August 23, 2019, a correctional officer (identified as “w”) responded to a body alert in the SHU at the facility regarding Jeffrey Epstein. The officer assisted with CPR, allowed EMS access, and escorted Epstein to Beekman Hospital. Another officer, working with OIG and SDNY, responded to a similar alert where Epstein was already being treated after being removed from his cell. FBI CART provided a video package of the MCC to SDNY, and coordination was made to retrieve and image Thomas’ cell phone. The Office of the Chief Medical Examiner (OCME) was contacted and advised that they would provide a report soon, anticipating no further information requests. Three proffers were scheduled for Monday, August 26th, involving inmates from the MCC at the time of the incident, who have a history of facilitating contraband and policy violations.",
+      "timestamp": "2019-08-23T00:00:00",
+      "timestamp_raw": "August 23, 2019",
+      "keywords": [
+        "epstein",
+        "bop",
+        "fbi",
+        "ocme",
+        "autopsy",
+        "shu",
+        "cart",
+        "proffers",
+        "mcc",
+        "ransom"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037216",
+      "summary": "On August 23, 2019, an FBI-New York investigation regarding Jeffrey Epstein’s death involved interviews with Bureau of Prisons (BOP) guards. One guard reported that another guard and his partner conducted a 12x8 tour, responded to a body alert in the SHU where Epstein was already receiving CPR, and subsequently escorted the body to Beekman Hospital with EMS. Another guard assisted with the count and then responded to a body alert, observing Epstein being removed from his cell and treated. FBI CART packaged video from the MCC for SDNY, and coordination was made to retrieve and image Thomas’ cell phone. The Office of Chief Medical Examiner (OCME) advised that a final report would be provided soon, with a physician and executive having a meeting regarding the autopsy. Three proffers involving inmates from the MCC were scheduled for Monday, August 26th.",
+      "timestamp": "2019-08-23T00:00:00",
+      "timestamp_raw": "August 23, 2019",
+      "keywords": [
+        "epstein",
+        "fbi",
+        "bop",
+        "oig",
+        "sdny",
+        "shu",
+        "ems",
+        "autopsy",
+        "mcc",
+        "contraband"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034357",
+      "summary": "A New York City Medical Examiner (NYPD) contacted someone regarding inmate E Stein, requesting verification of the inmate’s body at the coroner’s office to initiate an autopsy. The contact information includes AFGE YOUNG, a Senior Officer Specialist with the Federal Bureau of Prisons and MCC New York, along with a philosophical quote emphasizing the purposeful nature of life events.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "autopsy",
+        "inmate",
+        "coroner",
+        "nypd",
+        "federal bureau of prisons",
+        "cpr",
+        "silence",
+        "blessings",
+        "verification",
+        "efta00034357"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035436",
+      "summary": "The New York City Medical Examiner, working with NYPD, requested verification of the body of inmate Epstein for an autopsy. The request was made at 6:42 AM. The accompanying text includes a quote from Elizabeth Kubler-Ross regarding the purpose of events.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "autopsy",
+        "inmate",
+        "nypd",
+        "coroners office",
+        "elizabeth kubler-ross",
+        "federal bureau of prisons",
+        "mcc new york",
+        "verification",
+        "cpr",
+        "efta00035436"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034356",
+      "summary": "This document is a CONFIDENTIAL redaction analysis for file EFTA00034356. It details the professional information of a Senior Officer Specialist within the AFGE Young Program, a LEAD CPR Instructor for the Federal Bureau of Prisons, working at MCC New York (150 Park Row, New York, NY 10007), and referencing case number SDNY_000 10782.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00034356",
+        "afge young program",
+        "cpr instructor",
+        "federal bureau of prisons",
+        "mcc new york",
+        "sdny_000 10782",
+        "confidential",
+        "senior officer specialist"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    }
+  ]
+}

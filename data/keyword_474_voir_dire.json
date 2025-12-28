@@ -1,0 +1,882 @@
+{
+  "keyword": "voir dire",
+  "count": 35,
+  "keyword_match_count": 34,
+  "content_match_count": 3,
+  "total_files": 37,
+  "timeline": [
+    {
+      "file_id": "EFTA00028706",
+      "summary": "On June 2, 2021, Judge Alison J. Nathan established a disclosure schedule for the Ghislaine Maxwell case (20-CR-330). The schedule includes: September 13, 2021, for victim identities; October 11, 2021, for government materials and exhibit list; October 18, 2021, for motions in limine; October 25, 2021, for jury questionnaire and voir dire; November 1, 2021, for defense expert disclosures; November 8, 2021, for defense disclosures and witness lists; and the close of the government’s case-in-chief, followed by defense witness list and 26.2 statements. All parties have a continuing obligation to update disclosures and may bring issues to the court after the motion deadlines if they couldn’t be raised previously.",
+      "timestamp": "2021-06-02T00:00:00",
+      "timestamp_raw": "June 2, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states district court",
+        "disclosure schedule",
+        "jencks act",
+        "giglio material",
+        "motions in limine",
+        "defense disclosures",
+        "government witness list",
+        "jury questionnaire",
+        "voir dire"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020295",
+      "summary": "The document is a court order setting the pretrial disclosure and motion schedule for the case of *United States v. Ghislaine Maxwell* (Case 1:20-cr-00330-AJN). Key aspects of the schedule include: *   **Trial Commencement Date:** Initially set as July 12, 2021, subject to resolution of a continuance request. *   **Government Expert Witness Disclosure:** Due April 23, 2021. *   **Supplemental Motions:** Defense motions due May 7, 2021, with government response due May 21, 2021, and defense replies due May 28, 2021. *   **Victim Disclosure:** Disclosure of alleged victims due May 17, 2021. *   **Jencks Materials & Witness Lists:** Due seven weeks before trial commencement. *   **Exhibit Lists:** Due five weeks before trial commencement. *   **Defense Expert Witness Disclosure:** Due four weeks before trial commencement. *   **Rule 16(b) Disclosures:** Due three weeks before trial commencement. *   **Motions in Limine:** Due four weeks before trial commencement, with responses due two weeks before. *   **Requests & Voir Dire:** Due three weeks before trial commencement. *   **Witness Statements:** Parties ordered to meet and confer on a proposed rule 26.2 witness statement submission, with a joint letter proposal due within one week of the order.",
+      "timestamp": "2021-07-12T00:00:00",
+      "timestamp_raw": "July 12, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states",
+        "trial",
+        "schedule",
+        "motions",
+        "disclosure",
+        "victims",
+        "jury",
+        "rule 404(b)",
+        "government",
+        "defense"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021194",
+      "summary": "This email thread concerns a draft voir dire (jury questioning) document, “Proposed_Voir_Dire_v1.5.agm.aar.docx,” circulated between multiple individuals within the United States Attorney’s Office for the Southern District of New York, specifically the Assistant United States Attorney. The email indicates the draft was sent for review and included questions for consideration, alongside a jury questionnaire intended for distribution to chiefs.",
+      "timestamp": "2021-09-28T00:00:00",
+      "timestamp_raw": "28 Sep 2021",
+      "keywords": [
+        "voir dire",
+        "draft",
+        "jury questionnaire",
+        "usanys",
+        "united states attorney",
+        "southern district of new york",
+        "redaction",
+        "gm",
+        "lara"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018840",
+      "summary": "On October 5, 2021, the Assistant United States Attorney for the Southern District of New York sent a proposal for joint voir dire and jury questionnaire to counsel regarding the Maxwell case. The proposals were due on October 11, 2021, and required track changes to be submitted by October 7, 2021, for review before being sent to the court.",
+      "timestamp": "2021-10-05T00:00:00",
+      "timestamp_raw": "October 5, 2021",
+      "keywords": [
+        "voir dire",
+        "jury questionnaire",
+        "maxwell",
+        "united states attorney",
+        "october 2021",
+        "voir dire",
+        "defense",
+        "proposal",
+        "litigation",
+        "efta00018840"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00011113",
+      "summary": "On October 12, 2021, Nathan NYSD Chambers sent an email to counsel regarding the case *US v. Maxwell*, 20 Cr. 330 (AJN). The Government filed a letter requesting the Court accept a joint proposed juror questionnaire and voir dire under seal, and provided Jencks Act material and exhibits. The Chambers of the Hon. Alison J. Nathan requested a copy of the materials. The email also includes contact information for the Law Offices of Bobbi C. Sternheim.",
+      "timestamp": "2021-10-12T00:00:00",
+      "timestamp_raw": "October 12, 2021",
+      "keywords": [
+        "efta00011113",
+        "bobbi sternheim",
+        "us v. maxwell",
+        "jencks act",
+        "voir dire",
+        "juror questionnaire",
+        "court",
+        "sealing",
+        "united states attorney",
+        "nathan nysd chambers"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00016714",
+            "similarity": 0.538,
+            "index": 21,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00011095",
+      "summary": "This email, dated October 13, 2021, concerns a joint proposed juror questionnaire and voir dire related to the case *US v. Maxwell, 20 Cr. 330 (MN)*. The email is sent from [REDACTED] to [REDACTED] and includes attachments: a Notice of Motion - Voir Dire, a juror questionnaire, and a voir dire document. The sender provides courtesy copies of ECF filings.",
+      "timestamp": "2021-10-13T00:00:00",
+      "timestamp_raw": "October 13, 2021",
+      "keywords": [
+        "efta00011095",
+        "us v. maxwell",
+        "juror questionnaire",
+        "voir dire",
+        "redaction analysis",
+        "joint proposed",
+        "ecf filings",
+        "mn"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00011135",
+      "summary": "Nathan NYSD Chambers sent a joint proposed juror questionnaire and voir dire for the case *US v. Maxwell, 20 Cr. 330 (AJN)* to [REDACTED] on October 14, 2021. The Court requested Word doc versions of the documents. The Assistant United States Attorney provided Jencks Act material and exhibits to the defense, offering to share copies with the Court.",
+      "timestamp": "2021-10-14T00:00:00",
+      "timestamp_raw": "October 14, 2021",
+      "keywords": [
+        "efta00011135",
+        "juror questionnaire",
+        "voir dire",
+        "us v. maxwell",
+        "alison j. nathan",
+        "jencks act",
+        "united states attorney's office",
+        "southern district of new york",
+        "litigation",
+        "evidence",
+        "document"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026484",
+      "summary": "The document outlines the court’s procedures for jury selection in the case of *United States v. Ghislaine Maxwell*. Key elements include: *   A screening questionnaire will be administered on November 4, 5, and 12. *   Jurors will be identified by number, not name. *   Counsel must submit four lists of prospective jurors (agreed, excused by both sides, excused by defense only, excused by government only). *   Lists are due via email by specific dates (November 7, 13). *   Voir dire will occur November 16-19, with one-on-one questioning and public access. *   The timing of peremptory strikes (using challenges to dismiss jurors) is pending determination. *   The Court denied a request to seal proposed questionnaires and voir dire materials.",
+      "timestamp": "2021-10-22T00:00:00",
+      "timestamp_raw": "October 22, 2021",
+      "keywords": [
+        "jury selection",
+        "voir dire",
+        "ghislaine maxwell",
+        "united states district court",
+        "criminal case",
+        "questionnaire",
+        "covid-19 protocols",
+        "legal proceedings"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024230",
+      "summary": "The court is receiving letters regarding the jury questionnaire and voir dire. The court will provide juror lists to counsel on November 16th. The juror information sheet will be collected by the Jury Department before review. The court anticipates peremptory strikes will occur on November 29th, followed by jury swearing-in, preliminary instructions, and opening statements.",
+      "timestamp": "2021-10-27T00:00:00",
+      "timestamp_raw": "October 27, 2021",
+      "keywords": [
+        "jury questionnaire",
+        "voir dire",
+        "ghislaine maxwell",
+        "united states district court",
+        "peremptory strikes",
+        "juror selection",
+        "legal proceedings",
+        "case 20-cr-330",
+        "electronic filing",
+        "court logistics"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018373",
+      "summary": "Ghislaine Maxwell’s legal team is requesting the court to release the names of potential jurors to attorneys as soon as the written questionnaires are distributed. They argue that withholding this information will prevent them from conducting necessary background research on jurors during voir dire, hindering their ability to challenge potential jurors and make informed peremptory challenges. This request is supported by a similar order issued in the *Sines v. Kessler* case, where the Western District of Virginia ordered a semi-anonymous jury and released all potential juror names to counsel. The lawyers cite concerns about juror privacy and the importance of thorough investigation, referencing previous court decisions and bar association opinions emphasizing the expected role of trial counsel in researching potential jurors and the potential for bias. They highlight a case (Parse) where a false juror statement led to a retrial, emphasizing the need for proactive research to uncover potential issues.  The team argues that delaying the release of juror names until voir dire would be impractical given the large number of potential jurors (600), and that it would deprive Ms. Maxwell of a fair trial.",
+      "timestamp": "2021-11-03T00:00:00",
+      "timestamp_raw": "November 3, 2021",
+      "keywords": [
+        "juror names",
+        "voir dire",
+        "background research",
+        "jury selection",
+        "written questionnaires",
+        "privacy",
+        "united states v. maxwell",
+        "sines v. kessler",
+        "impartial jury",
+        "due process",
+        "white supremacists",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018893",
+      "summary": "*   The goal is to compile data for a joint submission to the court outlining juror categories (joint keeps, joint strikes, government-only strikes, and defense-only strikes). *   A draft joint letter is being circulated for review and edits. *   The defense team requests the Assistant United States Attorney to send their strike list in Excel format. *   The Assistant United States Attorney requests a simultaneous exchange of strike lists by noon on November 7, 2021, to facilitate the data compilation process. *   Three juror numbers (127, 151, and 458) have been withdrawn from objection and joined in support of proceeding to voir dire.",
+      "timestamp": "2021-11-07T00:00:00",
+      "timestamp_raw": "November 7, 2021",
+      "keywords": [
+        "questionnaires",
+        "juror",
+        "strikes",
+        "lists",
+        "excel",
+        "united states attorney",
+        "joint letter",
+        "voir dire",
+        "defendant",
+        "categories"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030632",
+      "summary": "This document is a court order related to the jury selection process for the case of United States v. Ghislaine Maxwell (Case 1:20-cr-00330-AJN). Judge Alison J. Nathan is providing introductory remarks to potential jurors before the voir dire (jury selection) process begins. The core information is: *   **Purpose:** To prepare potential jurors for the upcoming voir dire, which will determine if they can be impartial in the case against Ghislaine Maxwell, who is accused of conspiring to entice minors into criminal sex activity and trafficking. *   **Process Overview:** The selection process involves three stages, with jurors receiving instructions after each. Individual questioning will occur in a separate courtroom using juror numbers to maintain privacy. *   **Case Details:** Maxwell is presumed innocent until proven guilty beyond a reasonable doubt. Jurors must base their decisions solely on the evidence presented and cannot rely on outside information (news, social media, etc.). *   **Rules & Restrictions:** Jurors are prohibited from discussing the case, conducting research, or engaging in any communication about the case through any means, including social media. Any violations will be reported to the judge. *   **Safety & Support:** The court is providing measures to ensure juror safety and comfort, including masking protocols, distancing, transportation, and meals.",
+      "timestamp": "2021-11-08T00:00:00",
+      "timestamp_raw": "November 8, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "jury selection",
+        "voir dire",
+        "criminal case",
+        "united states v. maxwell",
+        "indictment",
+        "minor females",
+        "sex trafficking",
+        "evidence",
+        "juror",
+        "legal instructions",
+        "media restrictions",
+        "court proceedings"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019043",
+      "summary": "An email discusses proposed jury questionnaires between the sender and the defense. The sender provided a revised version of the defense’s questionnaire with track changes and attached a more robust, original proposed questionnaire. The sender indicated they were incorporating portions of the defense’s voir dire into the proposed questionnaire and were working on a more inclusive version for a later conferral.",
+      "timestamp": "2021-11-08T00:00:00",
+      "timestamp_raw": "08 Oct 2021",
+      "keywords": [
+        "jury questionnaires",
+        "voir dire",
+        "defense",
+        "edits",
+        "track changes",
+        "proposed questionnaire",
+        "inclusive questions",
+        "conferral",
+        "redundancy",
+        "maxwell"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020622",
+      "summary": "Bobbi Sternheim sent emails to multiple recipients, including Christian Everdell, Laura Niel, Jeff Pagliuca, and the USANYS, regarding proposed jury questionnaires and voir dire questions. Attached documents included: JOINT_Proposed_Jury_Questionnaire_.docx, ATT00001.htm, JOINT_Proposed_Voir Dire_Sent_.docx, and ATT00002.htm.",
+      "timestamp": "2021-11-09T00:00:00",
+      "timestamp_raw": "09 Oct 2021",
+      "keywords": [
+        "jury questionnaires",
+        "voir dire",
+        "redaction",
+        "bobbi sternheim",
+        "christian everdell",
+        "joint proposed",
+        "questionnaire",
+        "questions",
+        "usanys"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010164",
+      "summary": "On November 9, 2021, Christian Everdell sent emails to multiple recipients, including Bobbi Sternheim, requesting input on a draft letter regarding pseudonyms for a legal case. He requested language additions by the following evening.  Everdell also proposed delivering four hard drives to a court hearing, suggesting either hand-off by a paralegal or mailing them.  Three joint letters concerning pseudonyms – for witness use, limiting instructions, and procedures for voir dire – were due to the court the next day, with requests for proposals to be submitted by close of business.",
+      "timestamp": "2021-11-09T00:00:00",
+      "timestamp_raw": "November 9, 2021",
+      "keywords": [
+        "pseudonyms",
+        "letter",
+        "security",
+        "drives",
+        "hearing",
+        "court",
+        "redacting",
+        "exhibits",
+        "joint letter",
+        "christian everdell"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028265",
+      "summary": "This document is a cover letter from the U.S. Government to Judge Alison J. Nathan regarding the protection of witness identities in the Ghislaine Maxwell trial (20 Cr. 330). The Government proposes specific procedures including: using witness nomenclature, a voir dire method involving a sealed list, a proposed jury instruction referencing first names or pseudonyms, and offering exhibits under seal or with redactions. The Government requests the Court accept its proposed redactions to protect victim identities and minimize potential public exposure. The defense agrees to the Government’s proposed nomenclature and procedures, but offers an alternative limiting instruction for the jury.",
+      "timestamp": "2021-11-10T00:00:00",
+      "timestamp_raw": "November 10, 2021",
+      "keywords": [
+        "redactions",
+        "witness identities",
+        "voir dire",
+        "pseudonyms",
+        "exhibits",
+        "nomenclature",
+        "sealed exhibits",
+        "jury instructions",
+        "ghislaine maxwell",
+        "united states v. ghislaine maxwell"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00028260",
+            "similarity": 0.667,
+            "index": 19,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00020094",
+      "summary": "An email exchange regarding a document titled “JOINT Proposed Voir Dire Sent_(Reponse to Defense v1) (002).docx” occurred between individuals associated with “alMIN>,” “ntANYS),” and “USANYS).” A revised version of the document, incorporating edits, was shared and discussed via email, with a phone call scheduled. The document’s file name and associated identifiers (EFTA00020094) are present.",
+      "timestamp": "2021-11-10T00:00:00",
+      "timestamp_raw": "10 Oct 2021",
+      "keywords": [
+        "voir dire",
+        "defense",
+        "joint",
+        "response",
+        "edits",
+        "share",
+        "usanys",
+        "almin",
+        "ntanys",
+        "redaction"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019194",
+      "summary": "An email exchange discusses a response to a jury questionnaire related to the Maxwell case, specifically the “2021.10.04 Maxwell Jury Questionnaire [with Defense Additions Formatted and Gov’t Response].docx” document. Concerns were raised about the accuracy of color-coding (red->green and blue->purple) within the document’s redactions. The document is located on a shared drive.",
+      "timestamp": "2021-11-10T00:00:00",
+      "timestamp_raw": "10 Oct 2021",
+      "keywords": [
+        "redaction",
+        "jury questionnaire",
+        "maxwell",
+        "defense",
+        "response",
+        "voir dire",
+        "share",
+        "2021",
+        "efta00019194",
+        "additions"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023378",
+      "summary": "330). It outlines the judge’s orders regarding witness protection, specifically concerning the use of names during voir dire and trial. **Key Points:** *   **Court Order:** The judge ordered the prosecution and defense to submit lists of witnesses whose identities need protection, propose procedures for voir dire, and develop a jury instruction. *   **Government’s Position:** The government proposes using nomenclature for protected witnesses, providing a list to prospective jurors, and instructing the jury to treat names as protected. They seek to minimize the risk of public disclosure by limiting the use of victim names and proposing sealed exhibits. *   **Defense’s Position:** The defense accepts the government’s nomenclature and proposes a different jury instruction, emphasizing that the full names of witnesses are known to everyone involved. *   **Jury Instruction:** The judge issued a jury instruction stating that witnesses may use first names or pseudonyms due to privacy concerns, and that the full names are known to the government, the defendant, and the court. *   **Procedural Agreement:** The court directed the parties to avoid speaking objections and to request sidebar conferences if necessary. The government was granted a brief to ensure the witness list was accurate.",
+      "timestamp": "2021-11-10T00:00:00",
+      "timestamp_raw": "November 10, 2021",
+      "keywords": [
+        "redaction",
+        "witnesses",
+        "identities",
+        "jury instructions",
+        "exhibits",
+        "sealed",
+        "nomenclature",
+        "voir dire",
+        "pseudonyms",
+        "victims"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028260",
+      "summary": "The document is a letter from the U.S. Department of Justice to Judge Alison J. Nathan regarding protective measures for witnesses in the Ghislaine Maxwell trial (20 Cr. 330). The Government proposes specific procedures including: using witness pseudonyms or first names during trial, a voir dire process involving a sealed list of names, a proposed jury instruction, and offering exhibits under seal or with redactions. The Government requests the Court accept these proposals to minimize risk to witness identities. The defense accepts the Government’s nomenclature and proposed procedures, offering a slightly altered limiting instruction for the jury.",
+      "timestamp": "2021-11-10T00:00:00",
+      "timestamp_raw": "November 10, 2021",
+      "keywords": [
+        "redactions",
+        "witness identities",
+        "voir dire",
+        "exhibits",
+        "pseudonyms",
+        "nomenclature",
+        "sealed exhibits",
+        "jury instructions",
+        "victim names",
+        "court"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00028265",
+            "similarity": 0.667,
+            "index": 15,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013430",
+      "summary": "The attached documents are a joint proposed juror questionnaire and voir dire for the case of *US v. Maxwell*, case number 20 Cr. 330 (AJN). The parties request the Court accept these documents under seal, and the Government has provided Jencks Act material and exhibits to the defense.",
+      "timestamp": "2021-11-11T00:00:00",
+      "timestamp_raw": "11 Oct 2021",
+      "keywords": [
+        "efta00013430",
+        "us v. maxwell",
+        "juror questionnaire",
+        "voir dire",
+        "jencks act",
+        "joint proposed juror questionnaire",
+        "southern district of new york",
+        "united states attorney",
+        "defense",
+        "court",
+        "maxwell"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016714",
+      "summary": "A request was made to the court to accept a joint proposed juror questionnaire and voir dire under seal. The request stemmed from a letter from Nathan NYSD Chambers, seeking a copy of Jencks Act material and exhibits from the government. The Assistant United States Attorney responded with the joint questionnaire and voir dire, also offering to provide the Jencks Act material and exhibits.",
+      "timestamp": "2021-11-12T00:00:00",
+      "timestamp_raw": "12 Oct 2021",
+      "keywords": [
+        "efta00016714",
+        "jury questionnaire",
+        "voir dire",
+        "sealing",
+        "court",
+        "nathan nysd chambers",
+        "us v. maxwell",
+        "jencks act",
+        "united states attorney",
+        "southern district of new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00011113",
+            "similarity": 0.538,
+            "index": 4,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018210",
+      "summary": "Brian Burns of Smith Villazor LLP is inquiring about the status of a Rule 17(c) subpoena related to United States v. Maxwell. The subpoena was initially sent by defense counsel and Patrick Smith, an Assistant United States Attorney, is attempting to connect Brian Burns with the relevant attorney. There were multiple check-ins and confirmations regarding the subpoena’s status and a proposed meeting time of 2:30 PM on November 15, 2021, via a provided dial-in. Jordy Feldman connected Brian Burns with Patrick Smith, counsel for the defense.",
+      "timestamp": "2021-11-15T00:00:00",
+      "timestamp_raw": "November 15, 2021",
+      "keywords": [
+        "subpoena",
+        "rule 17(c)",
+        "united states attorney",
+        "smith villazor llp",
+        "brian burns",
+        "patrick smith",
+        "efta00018210",
+        "voir dire",
+        "new york",
+        "defense"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010152",
+      "summary": "On November 15, 2021, the Assistant United States Attorney for the Southern District of New York sent a letter to multiple parties, including Nathan NYSD Chambers, Laura Menninger, Jeff Pagliuca, and ceverdell@cohengresser.com, regarding the United States v. Maxwell case (20 Cr. 330). The letter attached a joint letter containing a list of names and places intended for voir dire purposes.",
+      "timestamp": "2021-11-15T00:00:00",
+      "timestamp_raw": "November 15, 2021",
+      "keywords": [
+        "united states v. maxwell",
+        "voir dire",
+        "names",
+        "places",
+        "efta00010152",
+        "southern district of new york",
+        "nathan chambers",
+        "laura menninger",
+        "jeff pagliuca"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010043",
+      "summary": "An email chain discusses research on the next 40 jurors proceeding to voir dire. A paralegal specialist requested that team members complete research on these jurors, including typed-up notes from a virtual deposition (VD), by November 16, 2021. Green highlighting indicates juror numbers 117 through 40, and the 40th juror is highlighted in yellow. The research, including the attached Excel file, was saved on a shared drive.",
+      "timestamp": "2021-11-16T00:00:00",
+      "timestamp_raw": "November 16, 2021",
+      "keywords": [
+        "juror research",
+        "voir dire",
+        "outside juror",
+        "redaction",
+        "us v maxwell",
+        "sdny",
+        "jury selection",
+        "notes",
+        "2021",
+        "november"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024923",
+      "summary": "On November 17, 2021, the Assistant United States Attorney for the Southern District of New York sent a 17(c) letter and a motion to squash an agenda regarding an AGM to multiple recipients, including [REDACTED]. The letter requested a review of the attached document before voir dire, suggesting sending it to [REDACTED] at 8:30 AM if no immediate response was received.",
+      "timestamp": "2021-11-17T00:00:00",
+      "timestamp_raw": "November 17, 2021",
+      "keywords": [
+        "efta00024923",
+        "redaction analysis",
+        "17(c) letter",
+        "usanys",
+        "voir dire",
+        "new york",
+        "assistant united states attorney",
+        "southern district of new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019416",
+      "summary": "An email was sent from [REDACTED] to an external recipient regarding a \"VOIR dire\" session for US V Maxwell on November 17, 2021. The email included the PDF document XLBH1MAXVDF.pdf.",
+      "timestamp": "2021-11-17T00:00:00",
+      "timestamp_raw": "November 17, 2021",
+      "keywords": [
+        "efta00019416",
+        "us maxwell",
+        "redaction",
+        "voir dire",
+        "2021",
+        "11/17/21",
+        "external",
+        "pdf",
+        "attachment"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019417",
+      "summary": "This document, titled “US V Maxwell VOir Dire 11/18/21,” originated from [REDACTED] to a contractor named [REDACTED] and involved an attachment named XLBIlMAXVDF.pdf. The email was sent on November 18, 2021.",
+      "timestamp": "2021-11-18T00:00:00",
+      "timestamp_raw": "November 18, 2021",
+      "keywords": [
+        "efta00019417",
+        "us v maxwell",
+        "voir dire",
+        "redaction analysis",
+        "contract",
+        "sanys",
+        "2021",
+        "2025",
+        "pdf",
+        "external"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032750",
+      "summary": "Bobbi Sternhei sent an external email regarding the U.S. v. Maxwell S2 case (20 Cr. 330 (AJN)). The email attached a courtesy copy of an ECF filing titled \"Response_to_Govt_voir dire_opposition.pdf\" and an HTML document (ATT00001.htm). Christian Everdell, Laura Mennin, and Jeff Pagliuca were included in the “To” field.",
+      "timestamp": "2021-11-18T00:00:00",
+      "timestamp_raw": "18 Oct 2021",
+      "keywords": [
+        "u.s. v. maxwell",
+        "redaction analysis",
+        "efta00032750",
+        "bobbi sternhei",
+        "voir dire",
+        "opposition",
+        "ecf filing"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031205",
+      "summary": "Bobbi C. Sternheim sent an email forwarding a response to government voir dire opposition in the case of *U.S. v. Maxwell S2 20 Cr. 330 (AJN)*. The email included a courtesy copy of an ECF filing and updated contact information for Sternheim. The email contained a confidentiality disclaimer regarding the Law Offices of Bobbi C. Sternheim.",
+      "timestamp": "2021-11-18T00:00:00",
+      "timestamp_raw": "18 Oct 2021",
+      "keywords": [
+        "efta00031205",
+        "maxwell",
+        "u.s. v.",
+        "bobbi c. sternheim",
+        "redaction analysis",
+        "ecf filing",
+        "usanys",
+        "criminal case",
+        "20 cr. 330",
+        "legal correspondence"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00011442",
+      "summary": "The case, United States v. Ghislaine Maxwell (Case 1:20-cr-00330-AJN), has a firm trial date of November 29, 2021, scheduled for a jury trial in the Southern District of New York.  The court has set dates for juror questionnaire administration (November 4, 5, and 12) and voir dire (November 16-19). Parties are required to submit a joint proposed juror questionnaire and voir dire by October 11, 2021, and a joint proposed charge and verdict sheet by October 27, 2021, with motions in limine due by October 18, 2021, and responses due by October 25, 2021. An in-person pretrial conference is scheduled for November 1, 2021.",
+      "timestamp": "2021-11-29T00:00:00",
+      "timestamp_raw": "November 29, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states",
+        "court",
+        "jury trial",
+        "covid",
+        "schedule",
+        "voir dire",
+        "questionnaire",
+        "motion in limine",
+        "november 29"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010244",
+      "summary": "The email assigns juror questionnaires to the team for review, starting with row 71 (juror 199) and including rows 39 and 40. The sender will print copies for the team and requests notes taken in a spreadsheet be sent to them by 7:45 am the following morning. The sender, a Paralegal Specialist from the U.S. Attorney's Office SDNY, is covering for a team member who will be absent from court.",
+      "timestamp": "2021-12-17T00:00:00",
+      "timestamp_raw": "17 Nov 2021",
+      "keywords": [
+        "juror questionnaires",
+        "voir dire",
+        "redaction",
+        "us v. maxwell",
+        "new york",
+        "u.s. attorney's office",
+        "sdny",
+        "note taking",
+        "spreadsheet",
+        "2021"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032593",
+      "summary": "An Assistant United States Attorney from the Southern District of New York is sending a 17(c) letter (attached) regarding a motion to quash. The letter’s purpose is to potentially send the document to counsel at 8:30 AM, suggesting a lack of immediate interest or time to review it before voir dire.",
+      "timestamp": "2021-12-18T00:00:00",
+      "timestamp_raw": "18 Nov 2021",
+      "keywords": [
+        "17(c) letter",
+        "voir dire",
+        "united states attorney",
+        "southern district of new york",
+        "litigation",
+        "motion to quash",
+        "new york",
+        "2021",
+        "analysis",
+        "redaction"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019449",
+      "summary": "This document is a correspondence regarding proposed redactions to transcripts from voir dire in the case of *US v. Maxwell, 20 Cr. 330 (MN)*. The Assistant United States Attorney for the Southern District of New York is submitting proposed redactions for three transcripts (dated November 16, 17, and 18, 2021) to the case.",
+      "timestamp": "2021-12-20T00:00:00",
+      "timestamp_raw": "20 Nov 2021",
+      "keywords": [
+        "efta00019449",
+        "us v. maxwell",
+        "redaction",
+        "voir dire",
+        "transcripts",
+        "southern district of new york",
+        "20 cr. 330 (mn)",
+        "2021.11.18",
+        "2021.11.16",
+        "2021.11.17"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00011115",
+      "summary": "Ghislaine Maxwell’s legal team is seeking individual, sequestered voir dire and limited counsel-conducted voir dire for her trial due to extensive pretrial publicity surrounding her and Jeffrey Epstein. They argue that the massive media coverage, particularly following Epstein’s death and Maxwell’s arrest, has created significant juror bias. A standard questionnaire alone isn’t sufficient to uncover this potential prejudice. Specifically, they highlight the extensive reporting in newspapers, magazines, streaming services (like Netflix and Peacock), podcasts, and social media, amplifying negative perceptions of Maxwell and the alleged crimes. They contend that this publicity increases the likelihood of jurors harboring preconceived notions.  The attorneys argue that individual voir dire, combined with a robust questionnaire, is necessary to genuinely assess juror bias and ensure a fair trial.  Furthermore, they request limited attorney-conducted voir dire to maximize information gathering regarding juror biases and to effectively exercise peremptory challenges, arguing counsel possess a deeper understanding of the case than the court. They believe the situation warrants expanding traditional voir dire procedures to address the unique challenges posed by this highly publicized case.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "pretrial publicity",
+        "voir dire",
+        "jury bias",
+        "maxwell",
+        "epstein",
+        "media coverage",
+        "questionnaire",
+        "sequestered jury",
+        "bias",
+        "prejudice",
+        "peremptory challenges",
+        "criminal case",
+        "sexual abuse"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019450",
+      "summary": "The Assistant United States Attorney for the Southern District of New York is submitting proposed redactions to voir dire transcripts, identified as EFTA00019450.pdf, generated on December 24, 2025.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "redaction analysis",
+        "voir dire",
+        "transcripts",
+        "redactions",
+        "united states attorney",
+        "southern district of new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00011096",
+      "summary": "The motion is based on the extensive pretrial publicity surrounding the case – specifically, the notoriety of both Ghislaine Maxwell and Jeffrey Epstein – and the resulting heightened likelihood of juror bias. Key points include: *   **Pretrial Publicity:**  A massive amount of media coverage (newspapers, magazines, TV, streaming services, podcasts, social media) has exposed potential jurors to information about the case, Epstein, and Maxwell, potentially creating preconceptions. *   **Sensitivity of Charges:** The charges relate to serious sexual abuse allegations, increasing the sensitivity of the case and the potential for jurors to be influenced. *   **Limitations of Standard Voir Dire:** The team argues that standard, court-conducted voir dire is insufficient to address this level of publicity and bias. *   **Need for Expanded Voir Dire:** They request individual sequestered voir dire and limited counsel questioning to maximize the chances of identifying and overcoming potential juror bias. *   **Attorneys’ Role:** They believe attorneys are best positioned to probe jurors' attitudes and perceptions due to their knowledge of the case and their ability to elicit honest responses. *   **Legal Basis:** The motion cites relevant Second Circuit case law, emphasizing the importance of juror impartiality and the court's discretion to utilize expanded voir dire procedures in cases with significant pretrial publicity.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "voir dire",
+        "pretrial publicity",
+        "bias",
+        "juror",
+        "sequestration",
+        "media coverage",
+        "prejudice",
+        "challenges",
+        "evidence",
+        "questioning"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,1627 @@
+{
+  "keyword": "victim services",
+  "count": 34,
+  "keyword_match_count": 34,
+  "content_match_count": 28,
+  "total_files": 62,
+  "timeline": [
+    {
+      "file_id": "EFTA00025006",
+      "summary": "Victim Services Division documentation records services provided to a victim (identified as [REDACTED]) between January 1, 2000, and August 14, 2020. Services included: Crisis Intervention (1), Follow Up Contact In Person (1), Follow Up Contact Phone Call (2), Follow Up Contact Text (4), Initial Contact Text (1), and Resource/Referral Provided Counseling/MH Provider (2). A single additional note was recorded pertaining to logistical or service referral information. The document is a permanent record and discoverable.",
+      "timestamp": "2000-01-01T00:00:00",
+      "timestamp_raw": "January 1, 2000",
+      "keywords": [
+        "victim services",
+        "redaction analysis",
+        "crisis intervention",
+        "follow up contact",
+        "resource referral",
+        "counseling",
+        "mental health",
+        "case file",
+        "service type",
+        "fbi case number"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023929",
+      "summary": "On August 22, 2019, an Assistant United States Attorney from the Southern District of New York informed Robert C. Josefsberg about a conference scheduled by Judge Berman regarding the dismissal of an indictment related to Jeffrey Epstein’s death. The conference would allow victims to be heard. The U.S. Attorney’s office offered to assist victims with travel costs to the conference and provided contact information for victim services, including a Special Agent with the FBI.",
+      "timestamp": "2019-08-22T00:00:00",
+      "timestamp_raw": "August 22, 2019",
+      "keywords": [
+        "epstein",
+        "victims",
+        "robert c. josefsberg",
+        "judge berman",
+        "dismissal",
+        "indictment",
+        "travel costs",
+        "victim services",
+        "fbi",
+        "counseling"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037504",
+      "summary": "An UNCLASSIFIED conference call, titled “Epstein Conference Call - Updates,” took place on September 6, 2019, from 2:00 PM to 3:00 PM. The call was organized by the FBI Victim Services Division Program Manager and involved attendees including [REDACTED], [REDACTED], and [REDACTED]. The conference call utilized the dial-in number 1-877-446-3914 and guest code 787677. The call was scheduled following a previous discussion.",
+      "timestamp": "2019-09-06T00:00:00",
+      "timestamp_raw": "September 6, 2019",
+      "keywords": [
+        "epstein",
+        "conference call",
+        "unclassified",
+        "fbi",
+        "victim services",
+        "2019-09-06",
+        "redaction",
+        "scheduling",
+        "dial-in",
+        "guest code"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00037501",
+            "similarity": 0.538,
+            "index": 3,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037501",
+      "summary": "A conference call was scheduled for Friday, September 6, 2019, from 2:00 PM to 3:00 PM to discuss updates related to a conference call concerning Jeffrey Epstein. The call was initiated by the FBI Victim Services Division Program Manager and involved multiple FBI personnel and [REDACTED] recipients. The call classification was UNCLASSIFIED.",
+      "timestamp": "2019-09-06T00:00:00",
+      "timestamp_raw": "September 6, 2019",
+      "keywords": [
+        "epstein",
+        "conference call",
+        "fbi",
+        "unclassified",
+        "redaction",
+        "september 2019",
+        "victim services",
+        "phone call",
+        "scheduling",
+        "ny"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037504",
+            "similarity": 0.538,
+            "index": 2,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037502",
+      "summary": "An unclassified conference call, titled “Epstein Conference Call - Updates,” took place on September 6, 2019, from 2:00 PM to 3:00 PM. The call was organized by the Department of Justice (DO) and the FBI, with a participant from [REDACTED]. Attendees included FBI personnel from New York (NY) and others from the FBI. The purpose was to discuss updates following a previous low-side discussion. Contact information for accessing the call, including dial-in details and contact information for the FBI Victim Services Division, is provided.",
+      "timestamp": "2019-09-06T00:00:00",
+      "timestamp_raw": "September 6, 2019",
+      "keywords": [
+        "epstein",
+        "conference call",
+        "fbi",
+        "unclassified",
+        "2019",
+        "september 6",
+        "redaction",
+        "event",
+        "victim services",
+        "call"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038181",
+      "summary": "FBI Victim Services Division, Unit Chief, contacted [REDACTED] via email on September 26, 2019, requesting information regarding a list of Epstein victims. The request included attempts to secure attorneys for the case. The email chain originated from a Victim Specialist in the New York Field Office (EFTA00038181).",
+      "timestamp": "2019-09-26T00:00:00",
+      "timestamp_raw": "September 26, 2019",
+      "keywords": [
+        "fbi",
+        "victim services division",
+        "epstein",
+        "victim list",
+        "attorneys",
+        "redaction",
+        "new york field office",
+        "mmamie",
+        "case support unit"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021702",
+      "summary": "An email exchange discusses next steps related to victim services for the Epstein case. Key points include: *   Requests for a photo array including “M,” scheduling interviews with legal counsel, and coordinating a trip to Florida involving the individual in Florida. *   Plans to attend a victim conference in Miami on October 15th, hosted by FBI victim services. *   Inquiries about photos recovered from the Manhattan house and Florida house, specifically regarding disc seizures and potential names associated with them. *   Confirmation of a planned interview schedule and a potential interview trip involving Nashville.",
+      "timestamp": "2019-09-30T00:00:00",
+      "timestamp_raw": "30 Sep 2019",
+      "keywords": [
+        "epstein",
+        "victims",
+        "meetings",
+        "fbi",
+        "new york",
+        "miami",
+        "photo array",
+        "interviews",
+        "investigations",
+        "trafficking"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00037391",
+            "similarity": 0.538,
+            "index": 10,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038228",
+      "summary": "On October 7, 2019, the Victim Services Division received a submission regarding a meeting with Jeffrey Epstein victims in New York. They confirmed receipt of the information and stated they would provide additional details shortly. Documents EFTA00038229 and EFTA00038230 are also present.",
+      "timestamp": "2019-10-07T00:00:00",
+      "timestamp_raw": "October 7, 2019",
+      "keywords": [
+        "epstein",
+        "victim",
+        "meeting",
+        "ny",
+        "redaction",
+        "information",
+        "submission",
+        "victim services",
+        "form",
+        "efta00038228"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025342",
+      "summary": "On October 7, 2019, Alex Conlon from KaplanHecker & Fink LLP received an email from the FBI Victim Services Division regarding briefings for victims of Jeffrey Epstein. The FBI was offering two briefings: October 15th in Miami and October 23rd in New York.  The email requested information from law firms representing victims, including full names, firm names, contact information, security details (SSN, address, citizenship, country of birth), and details about the victim(s) and the specific briefing being attended.  A follow-up email on September 27, 2019, reiterated the invitation and requested additional clients not initially contacted. The emails contained disclaimers regarding confidential and protected information.",
+      "timestamp": "2019-10-07T00:00:00",
+      "timestamp_raw": "October 7, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "fbi",
+        "victim services",
+        "briefing",
+        "invitation",
+        "florida",
+        "new york",
+        "october 15",
+        "october 23",
+        "law firm",
+        "redaction"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038321",
+      "summary": "The FBI Victim Services Division is offering an RSVP for a briefing regarding the Epstein case. The briefing is scheduled for October 15, 2019 in Miami, FL and October 23, 2019 in New York, NY. Attendees are required to complete a form collecting personal information, including contact details, citizenship, and travel preferences (transportation mode, dates, and airports). Attendees can bring one support person who also requires a separate form to be completed, including their personal details and travel preferences.  Lodging and mileage reimbursement are authorized, with specific restrictions on incidental charges and authorized expenses.  Attendees must acknowledge understanding of the limitations of authorized expenses, specifically excluding meals, rental vehicles, and entertainment.",
+      "timestamp": "2019-10-15T00:00:00",
+      "timestamp_raw": "October 15, 2019",
+      "keywords": [
+        "fbi",
+        "epstein",
+        "victim services",
+        "rsvp",
+        "miami",
+        "new york",
+        "travel arrangements",
+        "support person",
+        "lodging",
+        "transportation"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037391",
+      "summary": "A series of emails discuss coordination regarding victim services for Epstein cases, specifically a conference in Miami on October 15, 2019.  The sender requests a photo array and photo book, suggests an interview schedule, and inquires about seized photographic evidence from the Manhattan and Florida residences, including any discs with names on them.  The sender also mentions a planned trip to Nashville and proposes a combined trip to Florida for interviews.",
+      "timestamp": "2019-10-15T00:00:00",
+      "timestamp_raw": "October 15, 2019",
+      "keywords": [
+        "epstein",
+        "victims",
+        "meetings",
+        "notifications",
+        "investigation",
+        "case",
+        "photo array",
+        "interviews",
+        "miami",
+        "fbi"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00021702",
+            "similarity": 0.538,
+            "index": 6,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038634",
+      "summary": "An FBI Victim Services Division program manager (SE) forwarded archived emails related to the Epstein/Maxwell investigation. The emails detail communications regarding flight bookings (October 19, 2019) from New York to Jamaica, NY, including Expedia bookings and lodging arrangements at the Moxy NYC Downtown hotel. The emails also outline transportation reimbursement policies and coverage for airport and field office travel.  Five emails are referenced, with this being the first.",
+      "timestamp": "2019-10-19T00:00:00",
+      "timestamp_raw": "October 19, 2019",
+      "keywords": [
+        "epstein",
+        "maxwell",
+        "fbi",
+        "victim services",
+        "email",
+        "flight itinerary",
+        "new york",
+        "expedia",
+        "redaction",
+        "richmond ra"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019703",
+      "summary": "On October 21, 2019, Gloria Allred contacted the FBI’s New York office (EFTA00019703) to inform them of a new alleged victim of Jeffrey Epstein who is willing to travel to New York for a meeting on October 23rd. The FBI responded, confirming their availability to meet and requesting information about the client – specifically her name, date of birth, email address, and phone number – to coordinate travel logistics. The FBI’s Victim Services unit is handling travel arrangements.  The correspondence involved multiple individuals including the FBI, Allred, Maroko & Goldberg law firm, and an Assistant United States Attorney.",
+      "timestamp": "2019-10-21T00:00:00",
+      "timestamp_raw": "October 21, 2019",
+      "keywords": [
+        "epstein",
+        "gloria allred",
+        "fbi",
+        "new york",
+        "victim",
+        "trafficking",
+        "october 23",
+        "redaction",
+        "client"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00024299",
+            "similarity": 0.583,
+            "index": 22,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038375",
+      "summary": "An email chain discusses arrangements for a meeting involving three legal firms and FBI Victim Services Division regarding a briefing for victims of Jeffrey Epstein. The meeting is scheduled for October 23, 2019, at 10:00 AM. Attendees are advised to bring identification, avoid electronic devices, and arrive by 9:30 AM. Parking and transportation information are provided, and updates/questions should be submitted to a designated email inbox. The meeting's purpose is to be respectful and cooperative.",
+      "timestamp": "2019-10-23T00:00:00",
+      "timestamp_raw": "October 23, 2019",
+      "keywords": [
+        "fbi victim services division",
+        "jeffrey epstein",
+        "attorney",
+        "redaction analysis",
+        "legal counsel",
+        "meeting",
+        "identification",
+        "email",
+        "security",
+        "transportation"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021318",
+      "summary": "*   A key focus is forwarding emails and letters to ensure attorneys have relevant information in case of inquiries. *   Meetings are being planned in Miami (October 15th) and potentially Manhattan, with the aim of conducting victim interviews. *   A photo array is being prepared, and efforts are underway to locate and analyze photographs from various locations (Miami, Manhattan, and Florida). *   Scheduling conflicts and logistical coordination are being addressed, particularly regarding individual schedules and travel plans. *   There is a request to identify individuals named on seized discs and to confirm if any individuals' names are associated with the evidence.",
+      "timestamp": "2019-11-01T00:00:00",
+      "timestamp_raw": "01 Oct 2019",
+      "keywords": [
+        "victim services",
+        "fbi",
+        "nypd",
+        "trafficking",
+        "miami",
+        "manhattan",
+        "interviews",
+        "photos",
+        "case details",
+        "investigations"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038014",
+      "summary": "The FBI Victim Services Division is offering a briefing to victims of Jeffrey Epstein. The briefing will be held on October 15th in Miramar, Florida, or October 23rd in New York, NY. Attendees are asked to complete and return an RSVP Questionnaire to VictimServices@fbi.gov, providing personal information for security purposes. Transportation and lodging will be provided free of charge for those residing more than 50 miles from the location, with mileage reimbursement available for self-drivers. The meeting will involve FBI representatives, the FBI NY Field Office, and the U.S. Attorney's Office for the Southern District of New York.",
+      "timestamp": "2019-11-02T00:00:00",
+      "timestamp_raw": "02 Oct 2019",
+      "keywords": [
+        "fbi",
+        "jeffrey epstein",
+        "victim services",
+        "fbi victim services division",
+        "meeting",
+        "miami",
+        "new york",
+        "florida",
+        "rsvp questionnaire",
+        "victim"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013174",
+      "summary": "An email chain discusses a draft agenda provided by the FBI regarding two victim sessions related to Jeffrey Epstein’s case. The agenda includes welcome and introductions, an explanation of the dismissal process and judicial process, the importance of interviewing victims, safety concerns, media interaction, victim rights and services, and an open Q&A session. The FBI initially sent a draft agenda that has since been deemed inappropriate due to discussions.",
+      "timestamp": "2019-11-03T00:00:00",
+      "timestamp_raw": "03 Oct 2019",
+      "keywords": [
+        "fbi",
+        "epstein",
+        "suicide",
+        "agenda",
+        "victims",
+        "investigation",
+        "usanys",
+        "redaction",
+        "agenda",
+        "victim services"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038310",
+      "summary": "Diane Aldrich of Allred Maroko Goldberg sent questionnaires to the FBI Victim Services regarding co-counsel for Gloria Allred and related Epstein clients. The questionnaires were for attendees of an FBI Victim Services briefing scheduled for October 23rd in New York. The attachments were DM_Signed_Form.pdf and MW_Signed_Form.pdf.",
+      "timestamp": "2019-11-08T00:00:00",
+      "timestamp_raw": "08 Oct 2019",
+      "keywords": [
+        "fbi",
+        "victim services",
+        "gloria allred",
+        "diane aldrich",
+        "epstein",
+        "new york",
+        "questionnaires",
+        "legal",
+        "confidential",
+        "redaction"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037407",
+      "summary": "An email chain discusses an FBI briefing on October 23rd for survivors of Jeffrey Epstein, held in NYC. The briefing was initiated by the FBI Victim Services Division and prompted an inquiry from Jillian Gonzales of The Dr. Oz Show regarding the briefing’s objective and accessibility.  The email includes correspondence between FBI personnel and a forwarded message from the FBI Victim Services Division to Dr. Oz’s production team. EFTA00037407 and EFTA00037408 are identified as file identifiers.",
+      "timestamp": "2019-11-14T00:00:00",
+      "timestamp_raw": "14 Oct 2019",
+      "keywords": [
+        "fbi",
+        "briefing",
+        "epstein",
+        "fbi victim services",
+        "redaction",
+        "response",
+        "meeting",
+        "nyc",
+        "dr. oz",
+        "survivors"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028779",
+      "summary": "Multiple individuals are coordinating logistics for a meeting involving a new alleged victim of Jeffrey Epstein. Gloria Allred is facilitating the meeting, which is being organized by the FBI’s victim services team. A United States Attorney’s office is requesting client information (name, DOB, email, phone number) from Allred. There are discussions about scheduling the meeting via conference call and coordinating travel arrangements for the victim. The communication involves email exchanges between Allred, the Assistant U.S. Attorney, and others, including coordinating with a travel specialist.",
+      "timestamp": "2019-11-22T00:00:00",
+      "timestamp_raw": "22 Oct 2019",
+      "keywords": [
+        "epstein",
+        "victim",
+        "new york",
+        "fbi",
+        "gloria allred",
+        "conference call",
+        "travel logistics",
+        "attorney",
+        "victim services",
+        "october 23"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00010261",
+            "similarity": 0.615,
+            "index": 21,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00028461",
+      "summary": "Gloria Allred is representing a new alleged victim of Jeffrey Epstein who is willing to travel to New York to participate in a victim meeting on October 23rd. Initial communication involves coordinating logistics with the Assistant United States Attorney (AUSAs) for the Southern District of New York and the FBI Victim Services. The AUSAs propose various meeting times and locations (FBI office, Allred’s office, or a conference call) due to scheduling constraints and the victim’s travel plans. There are repeated requests for information about the victim's identity and travel details. The victim’s willingness to reschedule and the planned departure for D.C. are also discussed, leading to a final cancellation of the meeting. Redactions are present throughout the document, obscuring specific details.",
+      "timestamp": "2019-11-23T00:00:00",
+      "timestamp_raw": "23 Oct 2019",
+      "keywords": [
+        "epstein",
+        "victim",
+        "new york",
+        "gloria allred",
+        "fbi",
+        "scheduling",
+        "travel",
+        "conference call",
+        "23 october",
+        "victim meeting"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00010261",
+            "similarity": 0.5,
+            "index": 21,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00010261",
+      "summary": "Gloria Allred is working with a new client who was a victim of Jeffrey Epstein and is willing to travel to New York for a victim meeting on October 23rd. Initial communication involves coordinating logistics with the Assistant United States Attorney (AUSA) and the FBI Victim Services team.  The client’s travel arrangements are being handled by the FBI, and Allred is attempting to schedule a meeting with the client at her office (305 Broadway) for approximately 12:30 PM, but faces scheduling conflicts and a need to travel to Washington D.C. by 2:00 PM.  There are requests for the client’s identifying information (name, DOB, email, phone) from the AUSA.  The client is initially considering a conference call instead of a Skype call due to multiple locations involved. The client is then canceling the meeting due to rescheduling needs.",
+      "timestamp": "2019-11-23T00:00:00",
+      "timestamp_raw": "23 Oct 2019",
+      "keywords": [
+        "gloria allred",
+        "epstein",
+        "new york",
+        "fbi",
+        "victim",
+        "meeting",
+        "travel",
+        "conference call",
+        "october 23",
+        "5:45 p.m.",
+        "travel logistics"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00028461",
+            "similarity": 0.5,
+            "index": 20,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028779",
+            "similarity": 0.615,
+            "index": 19,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00024299",
+            "similarity": 0.5,
+            "index": 22,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019719",
+            "similarity": 0.5,
+            "index": 23,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00024299",
+      "summary": "*   Gloria Allred is coordinating with an attorney to schedule the meeting, exploring options at the FBI, her office at 305 Broadway, or a meeting at 11:00 AM or 11:30 AM following the Victim Services meeting. *   A tight schedule is being managed, with a need to conclude the interview by 12:30 PM to catch a 2:00 PM train to Washington, D.C. *   The email thread involves communication between Gloria Allred and an unidentified individual (likely a colleague or assistant) regarding the logistics of the meeting.",
+      "timestamp": "2019-11-23T00:00:00",
+      "timestamp_raw": "23 Oct 2019",
+      "keywords": [
+        "epstein",
+        "gloria allred",
+        "victim",
+        "new york",
+        "fbi",
+        "meeting",
+        "october 23",
+        "2019",
+        "redaction",
+        "legal"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00010261",
+            "similarity": 0.5,
+            "index": 21,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019703",
+            "similarity": 0.583,
+            "index": 12,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019719",
+      "summary": "Gloria Allred is arranging a meeting with a new client who was a victim of Jeffrey Epstein. The client is willing to travel to New York to participate in a victim meeting on October 23rd. Communication involves coordinating logistics with the Assistant United States Attorney (AUSA) in the Southern District of New York and the FBI Victim Services team. There are scheduling conflicts and potential rescheduling requests due to the AUSA’s commitments and Allred’s travel plans to Washington, D.C. The communication includes requests for the client’s identifying information and discussion regarding a conference call versus a Skype call.",
+      "timestamp": "2019-11-23T00:00:00",
+      "timestamp_raw": "23 Oct 2019",
+      "keywords": [
+        "efta00019719",
+        "epstein",
+        "victim",
+        "new york",
+        "gloria allred",
+        "fbi",
+        "travel",
+        "reschedule",
+        "meeting",
+        "interview"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00010261",
+            "similarity": 0.5,
+            "index": 21,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037269",
+      "summary": "On January 27, 2020, a press conference was held at Jeffrey Epstein’s mansion. The conference was related to Safe Horizon and addressed a question regarding the active investigation, specifically involving Prince Andrew. FBI New York personnel were surprised by the event and received inquiries from victims who were not notified in advance. One individual, [REDACTED], expressed annoyance about the lack of prior notification.",
+      "timestamp": "2020-01-27T00:00:00",
+      "timestamp_raw": "January 27, 2020",
+      "keywords": [
+        "epstein",
+        "fbi",
+        "press conference",
+        "safe horizon",
+        "victim services",
+        "prince andrew",
+        "investigation",
+        "new york",
+        "redaction",
+        "ssa"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00031722",
+            "similarity": 0.667,
+            "index": 25,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00031722",
+      "summary": "On January 27, 2020, FBI New York personnel were involved in communication regarding a press conference held at Epstein’s mansion. One individual expressed surprise that supervisors hadn’t informed them about the conference, particularly concerning comments about an ongoing investigation. Another individual, a Geoff, answered questions relating to Prince Andrew. A media affairs officer requested information about the press conference’s purpose, noting questions from the media and irate victims who were not notified.",
+      "timestamp": "2020-01-27T00:00:00",
+      "timestamp_raw": "January 27, 2020",
+      "keywords": [
+        "fbi",
+        "epstein",
+        "press conference",
+        "victim services",
+        "safe horizon",
+        "prince andrew",
+        "investigation",
+        "redaction",
+        "ny (fbi)",
+        "after-affects"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037269",
+            "similarity": 0.667,
+            "index": 24,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027554",
+      "summary": "An FBI email chain, dated January 29, 2020, and February 7, 2020, discusses a medical list provided by a Victim Services Manager within the FBI Region. The email thread involves the (NY) and (RO) (FBI) offices and includes a reference to a previous, unusual interaction involving Geoffrey Berman. The medical list contains psychological services and a discussion about connecting the recipients with a therapist.",
+      "timestamp": "2020-01-29T00:00:00",
+      "timestamp_raw": "January 29, 2020",
+      "keywords": [
+        "fbi",
+        "medical list",
+        "geoffrey berman",
+        "psychological services",
+        "january 22",
+        "case agent",
+        "therapist",
+        "redaction",
+        "victim services",
+        "efta00027554"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037415",
+      "summary": "A press conference hosted by Safe Horizons raised awareness for New York State’s Child Victims Act. The conference, held near Epstein’s residence, was not related to the Epstein investigation, though it included a brief discussion about Prince Andrew. Concerns were raised by a victim and her contact regarding not being notified of the event.  FBI personnel acknowledged the poor judgment and lack of communication surrounding the press conference, directing inquiries to the Victim Services (VS) lead, but advising against adding fuel to the situation.  One FBI agent requested guidance on how to frame the situation for the affected victims and suggested they contact the US Attorney's Office for feedback.",
+      "timestamp": "2020-01-29T00:00:00",
+      "timestamp_raw": "29 Jan 2020",
+      "keywords": [
+        "safe horizons",
+        "new york state child victims act",
+        "epstein",
+        "prince andrew",
+        "victims",
+        "fbi",
+        "press conference",
+        "child victims",
+        "victim services",
+        "awareness"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025008",
+      "summary": "This document is a record of services provided to a victim (identified as [REDACTED]) related to FBI Case Number 31E-NY-3027571, spanning from April 1, 2020, to June 30, 2020. Services included one follow-up contact via phone call and one via text, along with one federal agency resource referral and one local agency resource referral. The document serves as a permanent record and is subject to discovery.",
+      "timestamp": "2020-04-01T00:00:00",
+      "timestamp_raw": "April 1, 2020",
+      "keywords": [
+        "victim services",
+        "redaction analysis",
+        "fbi",
+        "case number",
+        "referral",
+        "services",
+        "documentation",
+        "2020",
+        "efta00025008"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038415",
+      "summary": "The FBI Victim Services Division is providing up to 12 counseling sessions to Florida victims of Jeffrey Epstein, due to Florida Crime Victims Compensation not being available for crimes committed in Florida. Requests for counseling must be submitted with the client's name for approval by the Case Agent, and confirmation of victim status by the FBI is required prior to session payment coordination with a therapist.",
+      "timestamp": "2020-05-04T00:00:00",
+      "timestamp_raw": "04 May 2020",
+      "keywords": [
+        "epstein",
+        "victims",
+        "counseling",
+        "fbi",
+        "florida",
+        "compensation",
+        "therapy",
+        "approval",
+        "victims compensation",
+        "case agent"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037526",
+      "summary": "This document details the resolution of disputes surrounding a victim compensation fund for Jeffrey Epstein’s estate, involving the Virgin Islands government and Epstein’s attorneys. Key points include: *   **Agreement in Principle:** The Attorney General (AG) of the Virgin Islands reached an “agreement in principle” with the estate’s attorneys for a victim compensation program after a prolonged legal battle. *   **Revised Protocol:** The fund now includes significant reforms, notably the involvement of a victim advocate and expert on child sexual abuse, dedicated funding for dissatisfied claimants, protections for victim information, and access to counseling and referral services through the FBI Victim Services program and Child USA. *   **Initial Legal Disputes:** The AG initially filed a civil enforcement action against the estate and companies, citing misuse of tax benefits and restrictions on settlement payments due to liens on the estate’s assets. *   **Core Changes:** The agreement removes the estate’s initial demand for broad releases from victims, ensuring a fairer and legally sufficient process. The estate has agreed not to disclose information obtained through the program and to allow the Probate Court to review the program’s budget. *   **Ongoing Investigation:** The US Attorney for the Virgin Islands continues to pursue legal action against Epstein’s criminal enterprise.",
+      "timestamp": "2020-06-02T00:00:00",
+      "timestamp_raw": "02 Jun 2020",
+      "keywords": [
+        "epstein",
+        "compensation fund",
+        "victim services",
+        "fbi",
+        "doj",
+        "civil suit",
+        "v.i. attorney general",
+        "criminal trafficking",
+        "settlements",
+        "victim advocate",
+        "claims process"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037535",
+      "summary": "The document details a resolution regarding a victim compensation fund established for Jeffrey Epstein’s estate in the Virgin Islands. Key points include: *   **Agreement Reached:** Attorneys for the estate and the Virgin Islands government reached an “agreement in principle” for a victim compensation program. *   **Initial Dispute:** The original fund proposal was challenged by the Attorney General (AG) due to a proposed broad release requirement for victims, which she believed would be unfair and legally insufficient. *   **Revised Fund Terms:** The revised fund includes: involvement of victim advocates, dedicated funding, protections for victim information, access to FBI Victim Services and Child USA, and budget approval processes. *   **Legal Action:** The AG filed a civil enforcement action against the estate under the Criminally Influenced and Corrupt Organizations Act, placing liens on the estate’s assets. *   **Goal:** The fund aims to provide victims with compensation without the trauma of a trial, while holding Epstein and his associates accountable.",
+      "timestamp": "2020-06-02T00:00:00",
+      "timestamp_raw": "02 Jun 2020",
+      "keywords": [
+        "epstein",
+        "victim compensation fund",
+        "fbi victim services",
+        "v.i. attorney general",
+        "victim services",
+        "criminal sex trafficking",
+        "settlement",
+        "claims process",
+        "abuse",
+        "release agreements"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00037538",
+            "similarity": 0.538,
+            "index": 37,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037519",
+      "summary": "This agreement, finalized with reforms, allows for the release of a portion of the estate funds to compensate victims without requiring court proceedings. Key elements of the revised fund include: involvement of a victim advocate and child sexual abuse expert, dedicated funding for dissatisfied victims, protections for victim information, access to FBI Victim Services and Child USA referral services, and oversight through probate court reporting. The AG initially opposed the estate’s demand for broad releases and has continued to pursue legal action against the estate under the Criminally Influenced and Corrupt Organizations Act, aiming to hold Epstein accountable for his crimes.",
+      "timestamp": "2020-06-02T00:00:00",
+      "timestamp_raw": "02 Jun 2020",
+      "keywords": [
+        "epstein",
+        "victim compensation fund",
+        "victim services",
+        "fbi",
+        "virgin islands",
+        "attorney general",
+        "criminal sex trafficking",
+        "settlement",
+        "claims process",
+        "abuse",
+        "justice",
+        "release"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00037511",
+            "similarity": 0.562,
+            "index": 33,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037511",
+      "summary": "Initially, liens on the estate’s $600 million were preventing payouts to victims due to legal disputes and allegations of misuse of funds by Epstein and his attorneys. The Attorney General (AG) Denise George, in conjunction with Epstein’s legal team and victim advocates (including Marci Hamilton of Child USA), reached an “agreement in principle” to revise the compensation fund protocol. Key aspects of the revised fund include: *   **Victim-Oriented Process:** The fund is designed to be more fair and credible, prioritizing the needs of survivors. *   **FBI Victim Services & Child USA:** Access to counseling and referral services through these programs is included. *   **Protections for Victims:** Measures were put in place to safeguard victim information and prevent its use against them. *   **Independent Oversight:** The program’s administrative budget requires approval by the Probate Court, and monthly reporting is mandated. The agreement effectively removes the obstacles preventing payouts, allowing victims to receive compensation without the need for lengthy and potentially traumatic legal proceedings. The U.S. Attorney’s Office continues to pursue legal action against the estate related to the CICO lawsuit.",
+      "timestamp": "2020-06-02T00:00:00",
+      "timestamp_raw": "02 Jun 2020",
+      "keywords": [
+        "epstein",
+        "compensation fund",
+        "victim services",
+        "fbi",
+        "virgin islands",
+        "criminal lawsuit",
+        "trafficking",
+        "counseling",
+        "settlement",
+        "release",
+        "abuse",
+        "attorney general",
+        "claims process"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037519",
+            "similarity": 0.562,
+            "index": 32,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00037522",
+            "similarity": 0.5,
+            "index": 39,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037529",
+      "summary": "Following a civil enforcement action by the Virgin Islands Attorney General (V.I.A.G.) against the estate, an “agreement in principle” was reached to establish a compensation fund. This revised fund includes provisions such as involvement of a child sexual abuse expert, dedicated funding for dissatisfied victims, protections for victim information, and access to FBI Victim Services and Child USA referral services. The agreement addresses concerns about broad releases demanded by the estate, ensuring a fairer process for victims. The V.I.A.G. continues to pursue legal action against the estate through the CICO lawsuit, aiming to hold Epstein and his associates accountable.",
+      "timestamp": "2020-06-02T00:00:00",
+      "timestamp_raw": "02 Jun 2020",
+      "keywords": [
+        "epstein",
+        "victim compensation fund",
+        "fbi victim services",
+        "virginia",
+        "criminal sex trafficking",
+        "criminal organizations",
+        "settlement",
+        "justice",
+        "victim advocate",
+        "release"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037532",
+      "summary": "The document details a resolution regarding a victim compensation fund for Jeffrey Epstein’s estate in the Virgin Islands. Key points include: *   **Agreement Reached:** Attorneys for Epstein’s estate and the Virgin Islands government have reached an “agreement in principle” for a victim compensation program. *   **Initial Dispute:** The original fund proposal was challenged by the Attorney General due to concerns about broad releases required from victims and potential misuse of compensation funds. *   **Revised Terms:** The new agreement includes provisions for victim advocates, dedicated funding, protections for victim information, access to FBI Victim Services and Child USA referral services, and budget oversight. *   **Legal Action:** A civil enforcement action was filed against the estate, resulting in liens on the estate’s assets. *   **Goal:** The goal is to allow victims to receive compensation without a lengthy court process, providing justice and closure.",
+      "timestamp": "2020-06-02T00:00:00",
+      "timestamp_raw": "02 Jun 2020",
+      "keywords": [
+        "epstein",
+        "victim compensation fund",
+        "fbi victim services",
+        "child usa",
+        "v.i. attorney general",
+        "criminal sex trafficking",
+        "settlements",
+        "releases",
+        "probate",
+        "virgin islands",
+        "justice"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037515",
+      "summary": "Initially, disputes existed between the Attorney General’s office and Epstein’s lawyers regarding the fund’s protocol, specifically concerning access to FBI Victim Services and Child USA referral services for victims.  The Attorney General successfully argued that the original fund terms were illegal and restrictive, preventing fair compensation for victims.  A revised agreement was reached, incorporating key reforms including: the involvement of a victim advocate, dedicated funding, protections for victim information, and approval of the program’s budget.  This new protocol ensures a more victim-oriented and legally sound process, addressing concerns about potential misuse of funds and offering victims access to crucial support services. The Attorney General continues to pursue legal action against the estate through the CICO lawsuit.",
+      "timestamp": "2020-06-02T00:00:00",
+      "timestamp_raw": "02 Jun 2020",
+      "keywords": [
+        "epstein",
+        "compensation fund",
+        "victim",
+        "attorney",
+        "settlement",
+        "fbi victim services",
+        "child usa",
+        "st. thomas",
+        "criminal trafficking",
+        "compensation",
+        "release",
+        "probate",
+        "claims process",
+        "justice",
+        "abuse",
+        "virgin islands"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037538",
+      "summary": "Virgin Islands. The Attorney General, Denise George, challenged the estate’s initial proposal, citing concerns about a lack of victim protections and potential misuse of funds. An agreement in principle was reached between the estate’s lawyers and George, incorporating significant reforms to the fund’s structure. These reforms include: involvement of a victim advocate (CEO of Child USA), dedicated funding for dissatisfied victims, protections for victim information, access to FBI Victim Services, and court oversight of the program’s budget. The agreement aims to provide a fairer, more victim-oriented process and prevent the estate from using compensation funds to defend itself in related legal actions.",
+      "timestamp": "2020-06-02T00:00:00",
+      "timestamp_raw": "02 Jun 2020",
+      "keywords": [
+        "epstein",
+        "victim compensation fund",
+        "fbi victim services",
+        "child usa",
+        "sex offender",
+        "settlement",
+        "criminal sex trafficking",
+        "v.i. attorney general",
+        "claims process",
+        "victim advocate"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037535",
+            "similarity": 0.538,
+            "index": 31,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038491",
+      "summary": "The document details an agreement reached between the Virgin Islands Attorney General’s office and Jeffrey Epstein’s estate lawyers regarding a victim compensation fund. Initially, liens on the estate’s $600 million assets restricted the release of funds due to legal disputes over the fund’s legality and potential misuse. The revised protocol, finalized in June 2020, includes several key reforms: the involvement of a victim advocate and a child sexual abuse expert, dedicated funding for those who haven’t yet come forward, protections for victim information, access to FBI Victim Services, and ongoing reporting requirements. The agreement addresses concerns about broad release demands and ensures the fund’s administration will not be used to defend the estate against legal claims. The Attorney General views this as a significant step toward justice for victims and continuing efforts to hold Epstein accountable.",
+      "timestamp": "2020-06-02T00:00:00",
+      "timestamp_raw": "02 Jun 2020",
+      "keywords": [
+        "epstein",
+        "compensation fund",
+        "victim",
+        "v.i.",
+        "attorney general",
+        "settlement",
+        "fbi victim services",
+        "child victim services",
+        "trafficking",
+        "abuse",
+        "release",
+        "claims process"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037522",
+      "summary": "This agreement stems from a civil enforcement action alleging the estate misused funds to facilitate Epstein’s sex trafficking operation. Key elements of the revised fund include: *   **Victim Advocacy:** Involvement of a victim advocate and an expert on child sexual abuse. *   **Funding Flexibility:** Dedicated funding for those who haven’t come forward or are dissatisfied with the claims process. *   **Privacy Protections:** Safeguards to prevent the sharing of victim information with the estate. *   **Counseling Services:** Access to counseling and referral services through the FBI Victim Services program and Child USA. *   **Oversight:** Approval of the budget by the Probate Court and monthly reporting to the AG’s office. The AG initially opposed the estate’s demand for broad releases, which could have compromised the fairness of the process. The revised fund ensures that information shared by victims will not be used against them. The DOJ is inquiring about the fund’s access to FBI Victim Services and Child USA, and the AG is working to finalize the agreement to provide support to victims and hold Epstein's criminal enterprise accountable.",
+      "timestamp": "2020-06-02T00:00:00",
+      "timestamp_raw": "02 Jun 2020",
+      "keywords": [
+        "epstein",
+        "compensation fund",
+        "victim",
+        "fbi",
+        "counseling",
+        "restitution",
+        "settlement",
+        "criminal",
+        "trafficking",
+        "virgin islands",
+        "ag",
+        "release",
+        "claims process",
+        "probate"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037511",
+            "similarity": 0.5,
+            "index": 33,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037509",
+      "summary": "The document details the creation of a Claims Fund Program established by the Estate of Jeffrey Epstein to compensate victims of his abuse. Key aspects include: *   **Program Details:** The program allows eligible victims (even those with time-barred claims) to receive compensation without caps, overseen by Program Administrator Jordy Feldman. *   **Voluntary Participation:** Victims can choose to participate in the program or pursue legal action independently. *   **Independent Administration:** Feldman’s determinations regarding compensation are made without input from the Estate, and the Estate only receives the names of claimants. *   **Background:** The program was initially blocked by a lien filed by the Virgin Islands Attorney General, but an agreement was reached after modifications, including a provision for victims to access FBI Victim Services. *   **Communication:** The document is a communication relaying information about the program and emphasizing the FBI's role in supporting victims.",
+      "timestamp": "2020-06-03T00:00:00",
+      "timestamp_raw": "03 Jun 2020",
+      "keywords": [
+        "epstein claims fund program",
+        "fbi",
+        "victims",
+        "jeffrey epstein",
+        "claims",
+        "program administrator",
+        "statute of limitations",
+        "settlement agreement",
+        "efta00037509"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00017706",
+      "summary": "An email chain discusses incorporating language into a letter regarding victim services for individuals affected by Jeffrey Epstein’s crimes. The approved language, from the FBI’s Victim Services Division (VSD), outlines the division’s commitment to providing services and support, referencing a website resource (www.fbi.gov/resources/victim-services) and a contact email (victimservices@fbi.gov) for inquiries. The email originates from a Program Manager within the VSD.",
+      "timestamp": "2020-06-29T00:00:00",
+      "timestamp_raw": "29 Jun 2020",
+      "keywords": [
+        "fbi",
+        "victim services division",
+        "vsd",
+        "jeffrey epstein",
+        "language",
+        "legal advisor",
+        "eousa",
+        "rights",
+        "referrals",
+        "email"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020237",
+      "summary": "This document is a notification letter from the U.S. Department of Justice, Southern District of New York, regarding the case of Ghislaine Maxwell, charged in connection with Jeffrey Epstein’s activities. It informs the recipient of the charges, outlines their rights as a potential victim under federal law (VRRA and Crime Victims’ Rights Act), and details available services, including restitution and protection. The recipient is provided with contact information for the Victim Witness Coordinator and resources for additional information and support, including the Victim Notification System (VNS) and the FBI’s Victim Services Division. The letter emphasizes the presumption of innocence and the availability of legal advice.",
+      "timestamp": "2020-07-01T00:00:00",
+      "timestamp_raw": "July 01, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "victim notification system",
+        "u.s. department of justice",
+        "jeffrey epstein",
+        "crime victims' rights act",
+        "federal investigation",
+        "restitution",
+        "victim rights",
+        "court proceedings",
+        "vin",
+        "pin"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020240",
+      "summary": "An email chain discusses the accuracy of victim information in a database related to the Jeffrey Epstein case. A request is made to verify the victim list included in an Excel spreadsheet (contact_list_only_31E-NY-3027571_6.26.2020.xlsx) provided by the FBI Victim Services Division (VSD). The VSD confirms the names on the spreadsheet are identified as victims in the original case against Jeffrey Epstein and includes victim contact information and attorney details. The FBI VSD is committed to providing services to victims of crimes related to Jeffrey Epstein, outlining resources and contact information for specialists.",
+      "timestamp": "2020-07-02T00:00:00",
+      "timestamp_raw": "02 Jul 2020",
+      "keywords": [
+        "jeffrey epstein",
+        "fbi",
+        "victim services division",
+        "victim services",
+        "data accuracy",
+        "redaction analysis",
+        "email correspondence",
+        "legal",
+        "victims",
+        "contact list"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020233",
+      "summary": "The FBI Victim Services Division (VSD) is providing support to victims identified in the original Jeffrey Epstein case. An attached spreadsheet contains a comprehensive list of victims and their attorney information. The VSD is offering services and referrals to victims regardless of the specific indictment, with an overview available at www.fbi.gov/resources/victim-services.  Contact for assistance is victimservices@fbi.gov.",
+      "timestamp": "2020-07-02T00:00:00",
+      "timestamp_raw": "02 Jul 2020",
+      "keywords": [
+        "epstein",
+        "victim services",
+        "fbi",
+        "vsd",
+        "contact list",
+        "language",
+        "notifications",
+        "attorney",
+        "redaction",
+        "victim services division"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026519",
+      "summary": "A request was made to verify the accuracy of victim information in a letter related to the Jeffrey Epstein case. An attached spreadsheet identifies victims based on the original case against Epstein, including names, contact information, and attorney information. Approved language from the FBI Victim Services Division (VSD) was provided, outlining the division’s commitment to supporting victims and offering resources, including a contact email address (victimservices@fbi.gov).  A contact list (31E-NY-3027571 6.26.2020.xlsx) was also attached.",
+      "timestamp": "2020-07-02T00:00:00",
+      "timestamp_raw": "02 Jul 2020",
+      "keywords": [
+        "efta00026519",
+        "jeffrey epstein",
+        "victim services",
+        "fbi",
+        "vsd",
+        "victim information",
+        "data accuracy",
+        "redaction analysis",
+        "language",
+        "contact list"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016455",
+      "summary": "An email chain discusses verifying victim information in a database related to the Jeffrey Epstein case. A Program Manager from the FBI Victim Services Division (VSD) is requesting someone to check the accuracy of victim information for a letter and draft language for victim notification system (VNS) updates. SA has identified names from an FBI list as victims in the original Epstein case, providing victim contact and attorney information. The FBI VSD is committed to providing services to victims regardless of the specific indictment.",
+      "timestamp": "2020-07-02T00:00:00",
+      "timestamp_raw": "02 Jul 2020",
+      "keywords": [
+        "fbi",
+        "victim services division",
+        "jeffrey epstein",
+        "victim info",
+        "database",
+        "language",
+        "notifications",
+        "vns",
+        "redaction",
+        "email"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020362",
+      "summary": "An email chain discusses verifying victim information in a database related to the Jeffrey Epstein case. A Program Manager from the FBI Victim Services Division (VSD) is cross-referencing an FBI list with another source and ensuring accuracy of victim information for letters and notifications. The email chain includes attachments containing victim names, contact information, and attorney information, as well as approved language for victim services notifications. The VSD is committed to providing services to victims regardless of the specific indictment.",
+      "timestamp": "2020-07-02T00:00:00",
+      "timestamp_raw": "02 Jul 2020",
+      "keywords": [
+        "fbi",
+        "victim services division",
+        "jeffrey epstein",
+        "victim",
+        "language",
+        "database",
+        "list",
+        "contact information",
+        "redaction",
+        "vns notifications"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038456",
+      "summary": "On July 2, 2020, the FBI Victim Services Division’s Program Manager sent an email to the Victim Outreach Strategist within the Case Support Unit regarding “Epstein try two.” The email included a spreadsheet (contact_list_only_31E-NY-3027571_6.26.2020.xlsx) requesting the addition of a second tab containing attorney information and representation. The email chain involves multiple redacted individuals and references case file EFTA00038456.",
+      "timestamp": "2020-07-02T00:00:00",
+      "timestamp_raw": "July 2, 2020",
+      "keywords": [
+        "epstein",
+        "fbi",
+        "victim services division",
+        "redaction analysis",
+        "attorney information",
+        "representation",
+        "contact list",
+        "case support"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030484",
+      "summary": "This document is a series of email exchanges regarding the investigation into Jeffrey Epstein and Ghislaine Maxwell, specifically concerning the location of relevant documents. Key points include: *   Multiple parties (USANYS, USANYS, ODAG, MAO, SDFL, NDGA, OPR) are involved in coordinating efforts to locate documents. *   Requests are made to contact individuals within the Southern District of New York’s (SDFL) Criminal Division, specifically a US Attorney and a Criminal Chief, to obtain copies of criminal files. *   There’s an inquiry about the best point of contact within the SDFL for document retrieval, given prior conversations with OPR and the CVRA litigation. *   Discussions involve identifying document custodians (OPR, M.) and exploring potential contacts within SDFL and NDGA related to document collection. *   A U.S. Attorney’s Office representative offers to discuss recusal issues and directs contact to the SDFL. *   Scheduling of a call for July 22, 2020, to discuss document requests is repeatedly proposed.",
+      "timestamp": "2020-07-22T00:00:00",
+      "timestamp_raw": "July 22, 2020",
+      "keywords": [
+        "epstein/maxwell",
+        "sdfl",
+        "fbi",
+        "victim services",
+        "document collection",
+        "cvra litigation",
+        "opr",
+        "usanys",
+        "ghislaine maxwell",
+        "criminal files"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025005",
+      "summary": "This is an FBI document, Case ID # EFTA00025005, concerning the case of Jeffrey Epstein and a child sex trafficking investigation. It details outreach support efforts following an OPR briefing on findings dated November 11, 2020. An updated contact information list as of November 18, 2020 is included as an enclosure.",
+      "timestamp": "2020-11-11T00:00:00",
+      "timestamp_raw": "November 11, 2020",
+      "keywords": [
+        "fbi",
+        "jeffrey epstein",
+        "child sex trafficking",
+        "victim services",
+        "case support",
+        "enclosure",
+        "unclassified",
+        "federal bureau of investigation",
+        "opr",
+        "outreach support"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025001",
+      "summary": "A communication dated January 12, 2021, from [REDACTED] to [REDACTED] (including NYPD) includes attachments: Documentation of services, S-00099701-A-011.pdf, Victim Services Division - Case Support Unit Assistance, and a financial document dated 04_01_2020-06_30_2020. The document references case file EFTA00025001.",
+      "timestamp": "2021-01-12T00:00:00",
+      "timestamp_raw": "January 12, 2021",
+      "keywords": [
+        "efta00025001",
+        "redaction analysis",
+        "fbi",
+        "nypd",
+        "documentation",
+        "victim services",
+        "case support",
+        "2021",
+        "2020",
+        "services"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027350",
+      "summary": "The following summarizes the provided text: *   A US Attorney is coordinating support for a woman (identified as “”) who intends to testify in a trial scheduled for July 12, 2021. *   The woman wants her husband and three children to accompany her to New York for the trial and accommodations. *   The government is considering funding travel and hotel expenses for the family, potentially through the Epstein Victims’ Compensation Fund. *   Logistics and scheduling are being coordinated between the US Attorney’s office, the victim, and the FBI’s Victim Services folks. *   The initial communication involves confirming the woman’s willingness to testify and discussing the financial aspects of supporting her family.",
+      "timestamp": "2021-07-12T00:00:00",
+      "timestamp_raw": "July 12, 2021",
+      "keywords": [
+        "efta00027350",
+        "new york",
+        "victim-witness coordinator",
+        "fbi",
+        "testimony",
+        "travel",
+        "funding",
+        "epstein victims' compensation fund",
+        "trial",
+        "florida"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038643",
+      "summary": "An FBI program manager within the Victim Services Division sent emails regarding a flight itinerary update for a traveler (identified as “M”) associated with the Epstein/Maxwell case. The itinerary was altered due to a cancellation, and the traveler was responsible for any expenses beyond the original departure date (10/24/19). Two reimbursement forms were attached for the traveler to use to request reimbursement for their flight ticket, with instructions that receipts from the airline/website were required and credit card statements were not accepted. The emails involved communication between FBI personnel in Seattle and Bellingham, along with a Victim Services distribution list.",
+      "timestamp": "2021-09-13T00:00:00",
+      "timestamp_raw": "13 Sep 2021",
+      "keywords": [
+        "fbi",
+        "victim program",
+        "epstein",
+        "maxwell",
+        "reimbursement",
+        "itinerary",
+        "flight",
+        "seattle",
+        "bellingham",
+        "redaction"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025287",
+      "summary": "Department of Justice, Southern District of New York, regarding the Ghislaine Maxwell trial. It details the production of materials related to the case, including Jencks Act and Giglio materials. Here's a breakdown of the key points: *   **Production of Materials:** The government is providing witness statements and related materials as a courtesy, acknowledging they don't intend to call all individuals listed. *   **Non-Testifying Witness Statement:** A significant portion relates to statements made by Minor Victim-4 regarding Jeffrey Epstein, specifically that the minor instructed Epstein to falsely state he was 18 years old. *   **Protective Order Compliance:** All materials are governed by a Protective Order, designated as \"confidential,\" and marked with the specific paragraph reference. *   **Government Support:** The government is providing transportation and hotel expenses for witnesses traveling to New York for trial preparation and testimony. This includes covering costs for the FBI and the USAO SDNY. *   **Victim Services:** The USAO SDNY is offering victim services, including counseling, therapy assistance, and resource referrals. Essentially, the document outlines the ongoing logistical and evidentiary support being provided by the government in the Ghislaine Maxwell trial, while emphasizing the sensitive nature of the materials and adherence to court orders.",
+      "timestamp": "2021-10-11T00:00:00",
+      "timestamp_raw": "October 11, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "jencks act",
+        "giglio material",
+        "witness testimonies",
+        "protective order",
+        "confidential",
+        "trial preparation",
+        "fbi",
+        "travel expenses",
+        "new york",
+        "united states attorney",
+        "victim services",
+        "jeffrey epstein",
+        "minor victim"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00039023",
+      "summary": "A series of emails discuss an FBI Verification form needed for a victim of Jeffrey Epstein. One email requests the form from a New York State Office of Victim Services representative, confirming the victim is a vetted case. Another email, from a different sender, indicates the sender was in New Orleans for training and plans to contact a case agent for a copy of the form. There is a mention of an arrest related to the case.",
+      "timestamp": "2023-06-28T00:00:00",
+      "timestamp_raw": "28 Jun 2023",
+      "keywords": [
+        "fbi",
+        "verification form",
+        "ovs",
+        "epstein",
+        "new orleans",
+        "arrest",
+        "victim",
+        "new york",
+        "confidentiality"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038436",
+      "summary": "**Eligibility:** Compensation is available to: *   Innocent victims of crime *   Certain relatives and dependents *   Legal guardians *   Eligible Good Samaritans **Types of Expenses Covered:** OVS provides compensation for: *   Personal injury and death *   Loss of essential personal property (up to $500, including $100 cash, up to $6,000 for burial, and up to $30,000 for lost wages) *   Transportation *   Occupational/Vocational rehabilitation *   Security devices and DV shelter costs *   Crime scene cleanup (up to $2,500) *   Good Samaritan property losses (up to $5,000) *   Moving expenses (up to $2,500) **Application Process:** *   Applicants must submit a completed OVS application. *   Supporting documentation is required: police reports, medical bills, insurance correspondence, receipts, death certificates, birth certificates, and proof of age. *   Applications can be submitted even if some documents are missing initially. **Court Ordered Restitution:** *   Restitution is compensation paid to victims by perpetrators for criminal offense losses. *   It's ordered by the Court as part of a sentence and is not for pain and suffering. *   The DA's office can request restitution, and the court may order it. **Other Information:** *   Applicants must notify OVS of a move. *   The victim typically signs the claim, but exceptions exist for minors or those unable to sign (legal guardian signs in those cases). *   An online application is available through the Victim Service Portal (VSP). *   A HIPAA form must be completed for each service provider.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "victim services",
+        "compensation",
+        "insurance",
+        "personal injury",
+        "death",
+        "property",
+        "medical expenses",
+        "lost wages",
+        "burial expenses",
+        "good samaritan",
+        "claims",
+        "applications",
+        "ovs",
+        "crime",
+        "restitution",
+        "court ordered",
+        "healthcare",
+        "hipaa",
+        "eligibility",
+        "ny",
+        "benefits"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018845",
+      "summary": "**Eligibility:**  Compensation is available to: *   Innocent victims of crime *   Certain relatives, dependents, legal guardians, and Good Samaritans. **Types of Expenses Covered:** The OVS can cover: *   Medical, pharmacy, and counseling costs *   Loss of essential personal property (up to $500, including $100 for cash, up to $6,000 for burial/funeral expenses, and up to $30,000 for lost wages) *   Transportation costs *   Occupational/vocational rehabilitation *   Security devices and DV shelter costs *   Crime scene cleanup *   Good Samaritan property losses *   Moving expenses **Application Process:** *   Applicants must complete the OVS application and provide copies of police reports, medical bills, insurance correspondence, receipts, death certificates, and proof of age. *   The application can be submitted by mail or online through the Victim Service Portal (VSP). *   A HIPAA form must be completed for each service provider. **Court Restitution:** The document also explains “court-ordered restitution,” which is compensation paid by the perpetrator of the crime to the victim. The court must order this as part of the sentence.  It can cover medical bills, lost earnings, and property replacement. **Important Notes:** *   The application must be filled out truthfully; false claims are a crime. *   The OVS may reimburse expenses requested as part of court ordered restitution. *   A signed letter must be sent to OVS if the applicant’s address changes.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "victim services",
+        "compensation",
+        "ovs",
+        "medical expenses",
+        "funeral expenses",
+        "lost wages",
+        "property loss",
+        "crime",
+        "applications",
+        "insurance",
+        "eligibility",
+        "benefits",
+        "claims",
+        "restitution",
+        "nypd",
+        "new york state"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00006055",
+      "summary": "The organization is a certified Rape Crisis Center and provides crisis response, advocacy, therapy, and community awareness programs. **Key Features:** *   **Mission:** To provide compassion and respect to crime victims regardless of race, sex, or other demographic factors. *   **Services Offered:** Individual therapy, support groups, forensic exams (through the Butterfly House), criminal justice advocacy, victim compensation assistance, and 24/7 crisis support. *   **Start by Believing Campaign:** A public awareness initiative focused on changing responses to sexual violence. *   **Multiple Locations:** Services are offered from several locations within Palm Beach County. *   **Funding:** The organization is funded through the Palm Beach County Board of County Commissioners, grants from the Office of the Attorney General, and the Florida Council Against Sexual Violence. *   **Florida Statute 960 Rights:** Victims have specific rights outlined in Florida Statute 960, including information, participation in proceedings, and prompt case resolution. *   **Resources:** The document provides contact information for Palm Beach County Victim Services, the Florida Council Against Sexual Violence, and other relevant organizations. *   **Types of Crime Coverage:** Support is available for victims of sexual assault, domestic violence, homicide, and other violent crimes. The document includes detailed information on how to access services, including specific contact numbers and addresses for various locations within Palm Beach County.  It also outlines eligibility requirements for victim compensation and provides information on forensic exam procedures and victim rights.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "victim services",
+        "sexual assault",
+        "domestic violence",
+        "homicide",
+        "palm beach county",
+        "rape crisis center",
+        "therapy",
+        "advocacy",
+        "crisis response",
+        "community awareness",
+        "victim compensation",
+        "florida statute 960",
+        "start by believing",
+        "forensic exam",
+        "sart center",
+        "victim advocate",
+        "mental health",
+        "trauma",
+        "eligibility",
+        "financial assistance",
+        "relocation assistance",
+        "confidential",
+        "crime reporting",
+        "eligibility requirements"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024514",
+      "summary": "A deposition transcript (EFTA00024514) has been attached to an email from the Assistant United States Attorney for the Southern District of New York. The transcript is considered Rule 6(e) material and may not meet victim services criteria. The sender requests feedback if it doesn’t satisfy those criteria.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "deposition transcript",
+        "rule 6(e)",
+        "victim services",
+        "united states attorney",
+        "southern district of new york",
+        "new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025002",
+      "summary": "This is an FBI import form documenting the provision of victim services related to a case involving Jeffrey Epstein and child trafficking. The case ID is D-NY-3027571. The document was drafted on or around 16-2011 and is officially recorded as UNCLASSIFIED.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "fbi",
+        "jeffrey epstein",
+        "child trafficking",
+        "import form",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020574",
+      "summary": "Following a new law, the Office is committed to investigating and prosecuting sexual abuse and trafficking of minors, particularly in light of the Jeffrey Epstein case. The Office relies on the willingness of victims to share their stories and continues to investigate co-conspirators. The Office acknowledges the crucial role of victim services organizations like Safe Horizon in supporting victims of trafficking and sexual assault and anticipates continued partnerships to hold perpetrators accountable.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "childhood sexual abuse",
+        "trafficking",
+        "minors",
+        "victims",
+        "prosecution",
+        "investigation",
+        "sexual assault",
+        "law enforcement",
+        "safe horizon",
+        "predator"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    }
+  ]
+}

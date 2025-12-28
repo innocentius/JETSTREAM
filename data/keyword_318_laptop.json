@@ -1,0 +1,3075 @@
+{
+  "keyword": "laptop",
+  "count": 46,
+  "keyword_match_count": 46,
+  "content_match_count": 49,
+  "total_files": 95,
+  "timeline": [
+    {
+      "file_id": "EFTA00019729",
+      "summary": "On July 11, 2019, the FBI executed a search warrant at 9 East 71st Street, New York, in connection with Jeffrey Epstein child sex trafficking. During the search, agents collected a variety of electronic devices, including a silver Apple desktop computer, multiple Seagate Path/100 hard drives, USB flash drives (including Data Traveler 4GB and Mentor Media 32GB), and several CDs/DVDs. Additionally, they seized a Dell Precision Tower 5810 computer, a Sony Vaio laptop, an Olympus recorder, an Apple iPad and associated accessories, and various other computers and storage devices, totaling 45 devices. These items were found across various rooms of the residence, including rooms A, FF, GG, II, NN, O, V, and U.",
+      "timestamp": "2019-07-11T00:00:00",
+      "timestamp_raw": "July 11, 2019",
+      "keywords": [
+        "fbi",
+        "search warrant",
+        "new york",
+        "computer",
+        "hard drive",
+        "data",
+        "jeffrey epstein",
+        "trafficking",
+        "seizure",
+        "devices",
+        "apple",
+        "seagate",
+        "usb"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038296",
+      "summary": "On August 9, 2019, an individual provided a rough estimate of electronic items processed as part of a CART (Computer Analysis Response Team) investigation related to Jeffrey Epstein. The items included 3 iPads, 1 iPhone, 1 iMac (locked and un-imaged), 1 external hard drive (encrypted and imaged), 2 iMacs (imaged and processed), 2 Windows boxes (imaged and processed), 1 laptop (imaged and processed), and various loose media (hard drives, thumb drives).  Nothing had been reviewed due to a pending taint review, and a more detailed status was expected after an impending search.",
+      "timestamp": "2019-08-09T00:00:00",
+      "timestamp_raw": "August 9, 2019",
+      "keywords": [
+        "epstein",
+        "cart",
+        "ipads",
+        "iphone",
+        "imac",
+        "hard drives",
+        "encryption",
+        "media",
+        "review",
+        "taint"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030736",
+      "summary": "This document is a search and seizure warrant issued on August 12, 2019, targeting 27 electronic devices seized from Little Saint James in the Virgin Islands. The warrant, executed by USMJ, authorizes a search related to violations of sex trafficking statutes (1591 and 371 of Title 18 U.S.C.). The devices, including desktops, laptops, iPads, and cameras, were recovered from various locations on the island, including a main residence, pool house, cabanas, and a shed.  The warrant grants permission to review the electronic data on these devices for evidence related to Jeffrey Epstein’s activities and potential victims of sex trafficking. A return form is included for documenting the execution of the warrant, inventory, and certification of the process.",
+      "timestamp": "2019-08-12T00:00:00",
+      "timestamp_raw": "August 12, 2019",
+      "keywords": [
+        "search warrant",
+        "seizure",
+        "electronic devices",
+        "united states district court",
+        "virgin islands",
+        "little saint james",
+        "inventory",
+        "probable cause",
+        "18 u.s.c. § 2705",
+        "attachments",
+        "law enforcement",
+        "trafficking",
+        "esi",
+        "data review"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015919",
+      "summary": "A Senior Forensic Examiner is generating load files related to electronic evidence from a New York residence search connected to Jeffrey Epstein. The files, expected to be ready by Thursday COB, involve approximately 5-6 iMacs and 5 laptop computers processed by CART. An Assistant U.S. Attorney is following up on the status of these files and requesting information regarding materials from the island that require processing, along with an estimated completion time.",
+      "timestamp": "2019-12-12T00:00:00",
+      "timestamp_raw": "12 Nov 2019",
+      "keywords": [
+        "epstein",
+        "warrant",
+        "relativity",
+        "imac",
+        "laptop",
+        "forensic examiner",
+        "fbi",
+        "new york",
+        "southern district of new york",
+        "load files"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00017061",
+      "summary": "The FBI requested a 1TB hard drive from a contractor to transfer a large volume of emails related to the Epstein investigation. The FBI had previously identified a significant amount of data, including emails from 5 iMacs and 5 laptops recovered from a New York residence, and was processing it for upload to Relativity. The contractor was tasked with generating load files and copying the data to the drive. There were questions regarding the status of materials from the island and a concern about the timeline for processing all evidence, anticipating delays due to the complexity of the process.",
+      "timestamp": "2019-12-12T00:00:00",
+      "timestamp_raw": "12 Nov 2019",
+      "keywords": [
+        "fbi",
+        "relativity",
+        "epstein",
+        "search warrant",
+        "emails",
+        "data transfer",
+        "hard drive",
+        "new york",
+        "island",
+        "forensic examiner"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025482",
+      "summary": "It concerns the processing of digital evidence – encompassing phones, tablets, servers, laptops, and media – recovered from multiple locations (New York mansion and USVI). The US Attorney’s Office contracted with a third-party firm to extract and review the data, using Relativity e-discovery software. Initially, there were disagreements regarding the review methodology. The contractor initially insisted on a “taint review” within Relativity, which was deemed inefficient and incapable of handling the volume and complexity of the data. A revised approach was adopted involving piece-by-piece processing, aiming for greater consistency and attribution of data to specific devices. Significant delays and challenges arose due to the massive volume of data (over a terabyte) and encryption on multiple devices, as well as the lack of a centralized system for tracking the evidence. A key issue was the inability to effectively link emails and attachments, creating difficulties in reviewing and producing documents for defense counsel.  The team struggled to maintain a clear inventory of what data had been processed, what remained, and the associated timelines, leading to repeated requests for updated information and a need for a streamlined tracking system – primarily a spreadsheet – to manage the immense dataset. There were issues related to differing versions of data, the categorization of files, and the labeling of devices. Multiple attempts were made to schedule meetings to address these coordination challenges.",
+      "timestamp": "2020-05-12T00:00:00",
+      "timestamp_raw": "12 May 2020",
+      "keywords": [
+        "epstein",
+        "search warrant",
+        "relativity",
+        "e-discovery",
+        "data",
+        "evidence",
+        "files",
+        "devices",
+        "encryption",
+        "taint review",
+        "data transfer",
+        "terabytes",
+        "digital evidence",
+        "phones",
+        "tablets",
+        "servers",
+        "us attorney's office",
+        "litigation"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027458",
+      "summary": "An email exchange occurred between multiple individuals, identified as (USANYS), regarding audio quality issues with a “Maxwell Clip.” One individual suggested using headphones, while another was attempting to boost the volume on a laptop. A separate email thread discussed a question related to massages given to Mr. Epstein at his properties, with the witness repeatedly stating they had never given Mr. Epstein a massage and never given anyone a massage. The exchange was part of a larger set of 11 emails and related to a transcript passage within a “pros memo.”",
+      "timestamp": "2020-05-27T00:00:00",
+      "timestamp_raw": "27 May 2020",
+      "keywords": [
+        "maxwell clip",
+        "redaction",
+        "usanys",
+        "epstein",
+        "massage",
+        "volume",
+        "transcript",
+        "email",
+        "properties",
+        "testimony"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032104",
+      "summary": "Initial delays and communication issues have hampered progress. Here’s a breakdown of the key points: *   **Data Transfer Challenges:** The FBI (through the NY CART Coordinator) is extracting data from various devices (hard drives, laptops, CDs, etc.) but the transfer process is slow and complicated by a lack of clear labeling and tracking of the data. *   **Relativity System:** The team is attempting to utilize the Relativity e-discovery platform for analysis, but this requires the data to be converted into a specific format that the Relativity system can handle. This conversion process is being handled by BRG, but it's a time-consuming step. *   **Communication Breakdown:** There are recurring communication gaps between the FBI, the U.S. Attorney’s Office, and the contractor, leading to misunderstandings about timelines, deliverables, and the necessary format for the data. *   **Timeline Issues:** The initial estimates for completing the data processing and analysis have been repeatedly pushed back due to the complexity of the evidence and the ongoing challenges. *   **Budget Requests:** The contractor is seeking funding to engage BRG for the data conversion and processing, estimating the cost to be between $85,000 and $135,000. *   **Data Organization Needs:** The team stresses the critical need for a consistent system for identifying and tracking the data, requesting a spreadsheet detailing the devices and the materials extracted from them. Essentially, the document is a record of a complex, frustrating, and poorly coordinated data processing operation with significant delays and a lack of clarity.",
+      "timestamp": "2020-07-10T00:00:00",
+      "timestamp_raw": "10 Jul 2020",
+      "keywords": [
+        "efta00032104",
+        "epstein",
+        "search warrant",
+        "data extraction",
+        "processing",
+        "relativity",
+        "fbi",
+        "pae",
+        "brg",
+        "tiff",
+        "data",
+        "devices",
+        "file set",
+        "review",
+        "timelines",
+        "materials",
+        "usvi",
+        "ny",
+        "mac",
+        "hard drives",
+        "servers",
+        "processing",
+        "load file"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024719",
+      "summary": "An FBI agent (NYO CART Coordinator, Senior Forensic Examiner) sent an Excel spreadsheet (“EpsteinNYEvidence.xlsx”) to an unknown recipient. The agent is processing a laptop and two desktops, requiring re-processing which may take time and introduce static. They are willing to re-work previously produced materials to separate data, but the impact is uncertain.",
+      "timestamp": "2020-07-14T00:00:00",
+      "timestamp_raw": "14 Jul 2020",
+      "keywords": [
+        "epstein",
+        "fbi",
+        "spreadsheet",
+        "forensic examiner",
+        "re-process",
+        "static",
+        "phones",
+        "laptops",
+        "desktops",
+        "nyo cart coordinator"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015968",
+      "summary": "A protective order proposal was drafted by defense counsel (Laura Menninger and Haddon, Morgan & Foreman, P.C.) regarding a case involving pretrial publicity and discovery. The proposal includes clarifications and modifications to a previous version, specifically addressing: *   Defining “Confidential” information, aligning with Second Circuit case law and privacy rights. *   Removing a “Highly Confidential” category. *   Suggesting a laptop-based access for the government to provide the client with confidential discovery materials for review while in custody. *   Requiring explicit marking of documents as confidential rather than relying on cover letters. *   Maintaining the ability for the party receiving the order to dispute designations. The sender (Christian Everdell) emphasizes the importance of a jury trial and the need to protect witnesses from harassment, advocating for equitable access to discovery for all parties.  A confidentiality notice is included in each email.",
+      "timestamp": "2020-07-17T00:00:00",
+      "timestamp_raw": "17 Jul 2020",
+      "keywords": [
+        "protective order",
+        "confidentiality",
+        "discovery",
+        "redaction",
+        "witness",
+        "government",
+        "court",
+        "privacy",
+        "legal",
+        "access"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037475",
+      "summary": "The email chain concerns seven devices identified as NYC024363, NYC024392, NYC024328, NYC024365, NYC024366, NYC024371, and NYC024383. One device, NYC024392, was flagged as “not yet ready” on a spreadsheet. Another device, NYC024328, is missing from the spreadsheet despite being part of the listed sequence. The sender requests clarification on these discrepancies and confirmation of a Wednesday delivery timeline for the extracted devices. The sender also mentions needing to re-process a large laptop and two desktops.",
+      "timestamp": "2020-07-20T00:00:00",
+      "timestamp_raw": "20 Jul 2020",
+      "keywords": [
+        "efta00037475",
+        "redaction analysis",
+        "spreadsheet",
+        "nyc024363",
+        "nyc024392",
+        "nyc024328",
+        "devices",
+        "ori inal messa e",
+        "vendor",
+        "laptops",
+        "desktops"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037551",
+      "summary": "This document details the status of evidence items recovered from an investigation, primarily related to Epstein. It lists 77 devices, including laptops, desktops, iPhones, iPads, iMacs, servers, and various storage devices (HDDs, SSDs, SD cards, thumb drives).  Many of these devices were provided by forensic teams (FTK, Blacklight, etc.) and were processed with varying degrees of success. Some devices were already analyzed (\"Greykey/Physical analyzer Already provided\"), while others required further processing. Several devices were marked as “duplicates” or “non-evidentiary” and were not processed.  Notably, several drives from a UNIFI server and HP Proliant Server required further hardware recovery attempts due to RAID issues. A large number of CDs and SD cards were also included in the evidence.",
+      "timestamp": "2020-08-03T00:00:00",
+      "timestamp_raw": "03 Aug 2020",
+      "keywords": [
+        "evidence",
+        "devices",
+        "laptop",
+        "iphone",
+        "ipad",
+        "hard drive",
+        "ssd",
+        "thumbdrive",
+        "imac",
+        "server",
+        "raid"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013222",
+      "summary": "Cohen & Gresser LLP expresses dissatisfaction with the government’s failure to provide Ms. Maxwell with readable discovery materials in the United States v. Ghislaine Maxwell case (20 Cr. 330). The government has repeatedly failed to meet discovery deadlines, offering solutions like a laptop computer for review and proposing to scan images for electronic production. Despite these attempts, the discovery materials remain unreadable, causing delays and hindering Ms. Maxwell’s ability to prepare her defense. The firm requests immediate provision of a verified, readable laptop, access to the seized images, and a scheduled review of the Highly Confidential documents within the MDC. A formal response from the government regarding the issues raised in the September 21, 2020 letter has not yet been received.",
+      "timestamp": "2020-09-21T00:00:00",
+      "timestamp_raw": "September 21, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states v.",
+        "discovery",
+        "redaction",
+        "mdc",
+        "epstein",
+        "images",
+        "confidential",
+        "government",
+        "legal",
+        "defense"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038107",
+      "summary": "On October 1, 2020, an FBI Special Agent from the New York Field Office requested assistance to find two volunteers for a Maxwell investigation. The investigation involves presenting digital evidence (a laptop and hard drive) to Maxwell and her defense team at MDC, potentially requiring several hours of waiting. The request was sent to agents to identify individuals willing to assist with this task.",
+      "timestamp": "2020-10-01T00:00:00",
+      "timestamp_raw": "October 1, 2020",
+      "keywords": [
+        "fbi",
+        "maxwell investigation",
+        "volunteers",
+        "discovery",
+        "mdc",
+        "digital evidence",
+        "laptop",
+        "hard drive",
+        "agents",
+        "assistance"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00038206",
+            "similarity": 0.538,
+            "index": 43,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038108",
+      "summary": "On October 1, 2020, an FBI agent (from NY) requested assistance from another FBI agent (from SI) for the Maxwell investigation. Squad C-20 needed two volunteers to present digital evidence (a laptop and hard drive) to Maxwell and her defense team at MDC, potentially for several hours. The request was for Wednesday or Thursday of the following week.",
+      "timestamp": "2020-10-01T00:00:00",
+      "timestamp_raw": "October 1, 2020",
+      "keywords": [
+        "efta00038108",
+        "c-20",
+        "maxwell",
+        "fbi",
+        "investigation",
+        "digital evidence",
+        "laptop",
+        "hard drive",
+        "mdc",
+        "assistance"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00038020",
+            "similarity": 0.538,
+            "index": 17,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038210",
+            "similarity": 0.538,
+            "index": 19,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038204",
+            "similarity": 0.538,
+            "index": 20,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00026819",
+      "summary": "Department of Justice, Southern District of New York, to letters from defense counsel regarding the Ghislaine Maxwell case (20 Cr. 330 (MN)). The DOJ asserts that it has fulfilled its discovery obligations, including producing electronic materials and initial non-electronic discovery by the deadlines set by the court.  The DOJ acknowledges delays in providing discovery to Maxwell due to defense requests for reformatting and rebinding, but claims these were addressed promptly. They highlight efforts to ensure Maxwell could access discovery at the Metropolitan Detention Center (MDC), including creating new files, coordinating with MDC IT staff, and temporarily allowing defense counsel to bring laptops.  Specifically, the DOJ is facilitating the review of approximately 43,500 images seized from Jeffrey Epstein’s residences, and is working to address concerns about her conditions of confinement, such as access to meals, medical care, and mail, while acknowledging limitations due to the pandemic and BOP regulations. The Government confirmed she will receive up to 13 hours of discovery access per day, exceeding that of other MDC inmates.",
+      "timestamp": "2020-10-08T00:00:00",
+      "timestamp_raw": "October 8, 2020",
+      "keywords": [
+        "discovery",
+        "ghislaine maxwell",
+        "united states v.",
+        "rule 16",
+        "electronic materials",
+        "metadata",
+        "metropolitan detention center",
+        "mdc",
+        "conditions of confinement",
+        "fbi",
+        "highly confidential materials",
+        "production",
+        "reformatting",
+        "legal counsel"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00026813",
+            "similarity": 0.562,
+            "index": 24,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038026",
+      "summary": "On October 20, 2020, the FBI New York Field Office (NY) requested assistance for the Maxwell investigation (C-20). Specifically, they needed one agent to assist with reviewing digital evidence (a laptop and hard drive) at the Miami-Dade Correctional Facility (MDC) with Maxwell and her defense team on Friday, October 23, 2020, from 8:00 AM to 3:00 PM.  A previous request for two agents was delayed due to defense counsel availability.  Another FBI agent (SI) was already assisting and another agent (s) was unavailable.  The request originated from a forwarded email detailing the need for a volunteer to support the investigation.",
+      "timestamp": "2020-10-20T00:00:00",
+      "timestamp_raw": "October 20, 2020",
+      "keywords": [
+        "efta00038026",
+        "fbi",
+        "maxwell",
+        "mdc",
+        "discovery",
+        "defense counsel",
+        "human trafficking",
+        "agent",
+        "laptop",
+        "evidence"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00038020",
+            "similarity": 0.538,
+            "index": 17,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038020",
+      "summary": "On October 20, 2020, an email request was sent from the FBI New York Field Office, Child Exploitation/Human Trafficking unit, to solicit assistance for the Maxwell investigation. The request involves providing digital evidence (laptop and hard drive) to Maxwell and her attorneys at the MDC for review. Two FBI agents were requested to assist from Friday, October 23, 2020, between 8:00 AM and 3:00 PM, due to scheduling conflicts involving defense counsel. A follow-up email, sent on October 1, 2020, reiterated the request from NYPD Squad C-20, specifying a potential timeframe of Wednesday or Thursday next week.",
+      "timestamp": "2020-10-20T00:00:00",
+      "timestamp_raw": "October 20, 2020",
+      "keywords": [
+        "fbi",
+        "maxwell",
+        "c-20",
+        "investigation",
+        "discovery",
+        "mdc",
+        "human trafficking",
+        "agent",
+        "laptop",
+        "hard drive"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038026",
+            "similarity": 0.538,
+            "index": 16,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038108",
+            "similarity": 0.538,
+            "index": 14,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00038210",
+            "similarity": 0.538,
+            "index": 19,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038204",
+            "similarity": 0.538,
+            "index": 20,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038105",
+            "similarity": 0.818,
+            "index": 21,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00010285",
+      "summary": "A correspondence regarding a discovery production related to a case involving the MDC (presumably a review facility) and the FBI. The FBI has seized approximately 43,500 images – 3,500 nude and 40,000 non-nude – from searches in New York and the Virgin Islands. The production is currently being prepared, with 40,000 images awaiting IT department completion. The FBI anticipates having a secure laptop with all images ready for review at the MDC next week, pending permission from the BOP. A formal written response to initial inquiries is forthcoming.",
+      "timestamp": "2020-11-02T00:00:00",
+      "timestamp_raw": "02 Oct 2020",
+      "keywords": [
+        "efta00010285",
+        "fbi",
+        "mdc",
+        "images",
+        "new york",
+        "virgin islands",
+        "discovery production",
+        "laptop",
+        "bop",
+        "letter"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038210",
+      "summary": "On November 4, 2020, the FBI New York Field Office (Special Agent, Child Exploitation/Human Trafficking) received a request from Squad C-20 for assistance with the Maxwell investigation. Two FBI agents were requested to volunteer on November 6, 2020, from 8:00 am to 3:00 pm to present digital evidence (laptop and hard drive) to Maxwell and her defense team at MDC.",
+      "timestamp": "2020-11-04T00:00:00",
+      "timestamp_raw": "November 4, 2020",
+      "keywords": [
+        "fbi",
+        "c-20",
+        "maxwell",
+        "investigation",
+        "human trafficking",
+        "child exploitation",
+        "digital evidence",
+        "laptop",
+        "hard drive",
+        "redacted"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038020",
+            "similarity": 0.538,
+            "index": 17,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038108",
+            "similarity": 0.538,
+            "index": 14,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00038204",
+            "similarity": 0.667,
+            "index": 20,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038105",
+            "similarity": 0.538,
+            "index": 21,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038180",
+            "similarity": 0.538,
+            "index": 27,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038204",
+      "summary": "On November 5, 2020, an FBI agent (NY) confirmed availability to assist with the Maxwell investigation, specifically Squad C-20’s request for two agents to provide discovery on November 6, 2020, from 8:00 AM to 3:00 PM at MDC. The discovery involved presenting digital evidence (laptop and hard drive) to Maxwell and her defense team. The request originated from another FBI agent (NY) on November 4, 2020, indicating their willingness to assist.",
+      "timestamp": "2020-11-05T00:00:00",
+      "timestamp_raw": "November 5, 2020",
+      "keywords": [
+        "fbi",
+        "new york",
+        "maxwell",
+        "c-20",
+        "investigation",
+        "digital evidence",
+        "laptop",
+        "hard drive",
+        "human trafficking",
+        "trial preparation"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038210",
+            "similarity": 0.667,
+            "index": 19,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038020",
+            "similarity": 0.538,
+            "index": 17,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038108",
+            "similarity": 0.538,
+            "index": 14,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00038105",
+            "similarity": 0.667,
+            "index": 21,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038180",
+            "similarity": 0.538,
+            "index": 27,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038195",
+            "similarity": 0.538,
+            "index": 28,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038105",
+      "summary": "An FBI Special Agent (SA) in New York (NY) is responding to a request for assistance with the “C-20” investigation, involving Maxwell and her defense team at MDC. The request involves providing a laptop and hard drive to show digital evidence. Two agents, SA Conroy and another agent, are being considered to assist, potentially on Wednesday or Thursday of next week, with a possible wait time of several hours. The NYPD is also involved.",
+      "timestamp": "2020-11-05T00:00:00",
+      "timestamp_raw": "05 Oct 2020",
+      "keywords": [
+        "fbi",
+        "new york",
+        "c-20",
+        "maxwell",
+        "mdc",
+        "human trafficking",
+        "investigation",
+        "discovery",
+        "laptop",
+        "hard drive"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038204",
+            "similarity": 0.667,
+            "index": 20,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038210",
+            "similarity": 0.538,
+            "index": 19,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038020",
+            "similarity": 0.818,
+            "index": 17,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00038196",
+            "similarity": 0.667,
+            "index": 26,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038180",
+            "similarity": 0.538,
+            "index": 27,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038195",
+            "similarity": 0.538,
+            "index": 28,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00019117",
+      "summary": "On November 6, 2020, an FBI agent (NY) was coordinating a visit to the MDC (Metropolitan Detention Center) for Ghislaine Maxwell and her attorney to review the contents of a laptop. The purpose of the visit was to occur between 9:15 AM and 3:00 PM. An Assistant United States Attorney from the Southern District of New York and a Special Agent from the FBI New York Field Office were copied for support. The FBI agent provided instructions for accessing the visitor entrance and contacting MDC legal counsel.",
+      "timestamp": "2020-11-06T00:00:00",
+      "timestamp_raw": "November 6, 2020",
+      "keywords": [
+        "fbi",
+        "maxwell",
+        "mdc",
+        "ghislaine maxwell",
+        "fbi",
+        "new york",
+        "legal counsel",
+        "visit",
+        "agent",
+        "redaction"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026812",
+      "summary": "A letter from the Assistant United States Attorney for the Southern District of New York to counsel in the US v. Maxwell case (20 Cr. 330 (MN)) is attached. The letter responds to prior correspondence regarding discovery and MDC conditions. The MDC has approved the government’s request for an FBI agent to bring a secure laptop to the institution for the defendant to review with their client, subject to specific conditions regarding other electronic devices. The Assistant U.S. Attorney requests scheduling information for this visit.",
+      "timestamp": "2020-11-09T00:00:00",
+      "timestamp_raw": "09 Oct 2020",
+      "keywords": [
+        "us v. maxwell",
+        "fbi",
+        "mdc",
+        "discovery",
+        "letter",
+        "electronic devices",
+        "secure laptop",
+        "southern district of new york",
+        "20 cr. 330 (mn)"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026813",
+      "summary": "Department of Justice, Southern District of New York, to legal counsel regarding the case of *United States v. Ghislaine Maxwell*. The primary points are: 1.  **Discovery Obligations Met:** The government asserts it has fulfilled its discovery obligations, including the production of electronic materials and initial non-electronic discovery, despite earlier assertions to the contrary. The deadline for electronic discovery was November 9, 2020, and initial discovery was due August 21, 2020. 2.  **Addressing Access at MDC:** The government has taken steps to ensure Maxwell can access discovery materials at the Metropolitan Detention Center (MDC), including: *   Creating new copies of files in accessible formats upon notification of issues. *   Working with MDC IT to resolve technical difficulties. *   Arranging for MDC staff to adjust the table for note-taking. *   Providing a privacy screen. *   Allowing defense counsel to bring a laptop for review. 3.  **Highly Confidential Material Access:** The government is facilitating the review of approximately 43,500 images seized from Jeffrey Epstein’s residences, initially loading them onto a secure laptop. The FBI is prepared to allow defense counsel and Maxwell to review these images on multiple occasions. 4.  **Conditions of Confinement:** The government has consulted with MDC legal counsel regarding Maxwell’s conditions of confinement. They have addressed concerns regarding: *   Access to discovery time (up to 13 hours daily). *   Body scans (weekly). *   Commissary access (including sports bras and supplemental food). *   Meal provision (with detailed tracking and ensured freshness). *   Mail procedures (following BOP regulations). 5.  **Ongoing Efforts:** The government states it will continue to work with defense counsel and the MDC to address any further issues related to discovery access and confinement conditions.",
+      "timestamp": "2020-11-09T00:00:00",
+      "timestamp_raw": "November 9, 2020",
+      "keywords": [
+        "discovery",
+        "ghislaine maxwell",
+        "rule 16",
+        "electronic materials",
+        "metropolitan detention center",
+        "mdc",
+        "united states v.",
+        "conditions of confinement",
+        "fbi",
+        "images",
+        "confidential materials"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00026819",
+            "similarity": 0.562,
+            "index": 15,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019212",
+      "summary": "The U.S. Department of Justice provided Ghislaine Maxwell, an inmate at the Metropolitan Detention Center, with a laptop for reviewing discovery materials related to her case, *United States v. Ghislaine Maxwell* (20 Cr. 330). The laptop has been modified with a disabled microphone and camera, no gaming programs, and no communication capabilities (Wi-Fi, Bluetooth, or Ethernet).",
+      "timestamp": "2020-11-10T00:00:00",
+      "timestamp_raw": "November 10, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "laptop",
+        "federal bureau of prisons",
+        "discovery materials",
+        "metropolitan detention center",
+        "united states v.",
+        "legal counsel",
+        "review",
+        "specifications",
+        "inmate"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00009927",
+            "similarity": 0.667,
+            "index": 33,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038196",
+      "summary": "FBI agents are requesting assistance from two additional agents to support the Maxwell investigation (C-20) on November 11, 2020, from 9:00 AM to 3:00 PM at MDC. The agents would be showing digital evidence (laptop and hard drive) to Maxwell and her defense team. The request originated from a previous inquiry and involves a follow-up canvas delivery.",
+      "timestamp": "2020-11-11T00:00:00",
+      "timestamp_raw": "November 11, 2020",
+      "keywords": [
+        "efta00038196",
+        "c-20",
+        "maxwell",
+        "mdc",
+        "discovery",
+        "fbi",
+        "agent",
+        "laptop",
+        "hard drive",
+        "investigation"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038105",
+            "similarity": 0.667,
+            "index": 21,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038020",
+            "similarity": 0.818,
+            "index": 17,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00038108",
+            "similarity": 0.538,
+            "index": 14,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00038180",
+            "similarity": 0.538,
+            "index": 27,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038195",
+            "similarity": 0.538,
+            "index": 28,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037672",
+            "similarity": 0.667,
+            "index": 29,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038180",
+      "summary": "On November 12, 2020, an FBI agent forwarded a request from Squad C-20 for assistance with the Maxwell investigation. C-20 requires two agents to assist on November 13, 2020, from 9:00 am to 3:00 pm at MDC, where they will present digital evidence (a laptop and hard drive) to Maxwell and her defense team. The request was received from SA, who is copied on the email.",
+      "timestamp": "2020-11-12T00:00:00",
+      "timestamp_raw": "November 12, 2020",
+      "keywords": [
+        "efta00038180",
+        "maxwell",
+        "c-20",
+        "investigation",
+        "fbi",
+        "agents",
+        "digital evidence",
+        "laptop",
+        "hard drive",
+        "mdc"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038196",
+            "similarity": 0.538,
+            "index": 26,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038105",
+            "similarity": 0.538,
+            "index": 21,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038204",
+            "similarity": 0.538,
+            "index": 20,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00038195",
+            "similarity": 0.667,
+            "index": 28,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037672",
+            "similarity": 0.538,
+            "index": 29,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038209",
+            "similarity": 0.538,
+            "index": 44,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038195",
+      "summary": "Squad C-20 of the FBI (NY) requested assistance from two agents for the Maxwell investigation on November 13, 2020, from 9:00 am to 3:00 pm. The agents were to present digital evidence (laptop and hard drive) to Maxwell and her defense team at MDC. SA (FBI - NY) offered to assist with sharing the evidence.",
+      "timestamp": "2020-11-13T00:00:00",
+      "timestamp_raw": "November 13, 2020",
+      "keywords": [
+        "fbi",
+        "maxwell",
+        "c-20",
+        "evidence",
+        "investigation",
+        "digital evidence",
+        "laptop",
+        "hard drive",
+        "mdc",
+        "11/13"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038180",
+            "similarity": 0.667,
+            "index": 27,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038196",
+            "similarity": 0.538,
+            "index": 26,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038105",
+            "similarity": 0.538,
+            "index": 21,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00037672",
+            "similarity": 0.538,
+            "index": 29,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038209",
+            "similarity": 0.538,
+            "index": 44,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037672",
+      "summary": "*   The request originates from C-20 Squad, aiming to show discovery to Maxwell and her defense team at MDC. *   The assistance involves providing a laptop and hard drive to be shown to Maxwell’s team, potentially requiring several hours of waiting. *   The initial proposed timeframe is next week (Wednesday or Thursday), pending approval from MDC. *   Several FBI agents have expressed availability on specific days, with discussions about scheduling and confirmation ongoing. *   The request includes a coordination effort involving the NYPD and a US Attorney’s Office (AUSA).",
+      "timestamp": "2020-11-15T00:00:00",
+      "timestamp_raw": "15 Oct 2020",
+      "keywords": [
+        "fbi",
+        "maxwell",
+        "mdc",
+        "c-20",
+        "discovery",
+        "laptop",
+        "hard drive",
+        "fbi new york",
+        "special agent",
+        "investigation"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038195",
+            "similarity": 0.538,
+            "index": 28,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038180",
+            "similarity": 0.538,
+            "index": 27,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038196",
+            "similarity": 0.667,
+            "index": 26,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00038209",
+            "similarity": 0.667,
+            "index": 44,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038147",
+      "summary": "On November 16, 2020, SA (FBI - NY) requested permission to bring a laptop back to their desk.  [REDACTED] advised against a suit and suggested casual attire for a meeting regarding the “Discovery laptop” case. [REDACTED] informed SA that they had the laptop and hard drive and would coordinate its delivery for the following day. The defense team requested a review of the laptop from 10:00 AM to 3:00 PM, and [REDACTED] would be CC’d on an email to the AUSA.",
+      "timestamp": "2020-11-16T00:00:00",
+      "timestamp_raw": "November 16, 2020",
+      "keywords": [
+        "discovery laptop",
+        "fbi",
+        "ny",
+        "dress code",
+        "meeting",
+        "analyst",
+        "ausa",
+        "efta00038147",
+        "maxwell",
+        "coordination"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029273",
+      "summary": "No. 02879-509) to the MDC (likely Metropolitan Detention Center). *   Multiple individuals ([REDACTED]) offered to deliver the laptop, proposing delivery times between 6:00 AM and 12:00 PM on November 18, 2020. *   One individual ([REDACTED]) requested to bring both the laptop and a new hard drive with discovery production materials to the MDC instead of just the laptop. *   An Assistant United States Attorney ([REDACTED]) provided instructions for the delivery, specifying a drop-off time and a contact person within the MDC.",
+      "timestamp": "2020-11-18T00:00:00",
+      "timestamp_raw": "November 18, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "laptop",
+        "redaction",
+        "usanys",
+        "delivery",
+        "mdc",
+        "discovery",
+        "maxwell (reg. no. 02879-509)"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00030579",
+            "similarity": 0.5,
+            "index": 39,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00009924",
+            "similarity": 0.5,
+            "index": 49,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00009926",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] regarding “Maxwell discovery productions & laptop,” including the attached file “Maxwell discovety_productions_&_laptop.msg.” The email was sent on November 18, 2020. The file EFTA00009926 was involved.",
+      "timestamp": "2020-11-18T00:00:00",
+      "timestamp_raw": "November 18, 2020",
+      "keywords": [
+        "efta00009926",
+        "maxwell",
+        "productions",
+        "laptop",
+        "redaction",
+        "discovery",
+        "2020",
+        "2025",
+        "message",
+        "analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00009927",
+      "summary": "The U.S. Department of Justice, specifically the Southern District of New York, is providing Ghislaine Maxwell with a modified laptop at the Metropolitan Detention Center (MDC) for her to review discovery materials related to her case, *United States v. Ghislaine Maxwell*. The laptop has had its microphone, camera, and communication capabilities (Wi-Fi, Bluetooth, Ethernet) disabled. The Department is authorizing the use of a charger and access to discovery hard drives on the laptop.",
+      "timestamp": "2020-11-18T00:00:00",
+      "timestamp_raw": "November 18, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states department of justice",
+        "federal bureau of prisons",
+        "metropolitan detention center",
+        "discovery materials",
+        "laptop",
+        "legal counsel",
+        "southern district of new york",
+        "review",
+        "inmate"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00019212",
+            "similarity": 0.667,
+            "index": 25,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025508",
+      "summary": "Maxwell. *   The Assistant United States Attorney (Southern District of New York) was coordinating the delivery and pickup of the drives. *   A prison visit for review of a secure laptop was being scheduled for Friday between 8am-3pm. *   The timing of the secure laptop review was being adjusted, initially planned for Friday, but now potentially pushed to later in the week. *   Confirmation of receipt of the drives was requested.",
+      "timestamp": "2020-11-20T00:00:00",
+      "timestamp_raw": "20 Oct 2020",
+      "keywords": [
+        "us v. maxwell",
+        "discovery production",
+        "drives",
+        "southern district of new york",
+        "chris",
+        "maxwell",
+        "mdc",
+        "friday",
+        "laptop",
+        "united states attorney"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027268",
+      "summary": "It detailed conversations with MDC legal counsel about the defendant’s situation. A COVID-19 outbreak led to a 14-day quarantine for Maxwell, during which she was permitted standard quarantine privileges (cell, daily checks, limited access, and use of a laptop for discovery review - 13 hours daily). *   **Continued Updates (December 4, 2020 & January 15, 2021):** The Government continued to report on Maxwell’s conditions, emphasizing consistent access to discovery (13 hours daily, seven days a week across both a desktop and laptop), regular video-teleconference calls with her attorneys (five hours per weekday), and the continuation of standard MDC procedures including searches, food service, and water provision. The government’s legal counsel noted that MDC staff monitored Maxwell’s health and weight.  The MDC legal team responded to concerns raised by defense counsel regarding access to the laptop and in-person visits, but without reaching an agreement. *   **Court Order (January 25, 2021):**  Judge Nathan ordered the Government to provide 60-day written updates regarding Maxwell’s confinement, focusing on access to legal materials and searches.  The Court denied the BOP’s request to compel Warden Tellez to appear and respond directly. *   **Final Update (February 4, 2021):** The Government provided a detailed response to the Judge's January order, reinforcing that Maxwell continues to receive the maximum permitted access to discovery and legal communications, detailing standard MDC procedures (including searches, healthcare, and water provision), and addressing previous concerns regarding monitoring and surveillance. The government also reported on the defendant's recent COVID-19 vaccination status.",
+      "timestamp": "2020-11-23T00:00:00",
+      "timestamp_raw": "November 23, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "confinement",
+        "mdc",
+        "discovery",
+        "legal materials",
+        "communication",
+        "quarantine",
+        "laptop",
+        "access",
+        "visitation",
+        "covid-19",
+        "legal calls",
+        "attorney visits"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028758",
+      "summary": "An email thread discusses a laptop request for MDC (USANYS). The email includes sender, recipient, and carbon copy (CC) information, referencing a previous email with the subject “laptop for MDC” and an attached message named “laptop_for_MDC.msg”.",
+      "timestamp": "2020-11-28T00:00:00",
+      "timestamp_raw": "28 Oct 2020",
+      "keywords": [
+        "laptop",
+        "mdc",
+        "redaction",
+        "analysis",
+        "usanys",
+        "outlook",
+        "message",
+        "efta00028758"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018252",
+      "summary": "An email thread discusses a laptop request for MDC, originating from “[REDACTED]” and addressed to “[REDACTED],” “[REDACTED],” and “USAHUB-USAJouma1111.” The email includes a message attachment named “laptop_for_MDC.msg.”",
+      "timestamp": "2020-11-28T00:00:00",
+      "timestamp_raw": "28 Oct 2020",
+      "keywords": [
+        "redaction",
+        "analysis",
+        "efta00018252",
+        "laptop",
+        "mdc",
+        "usahub",
+        "usajouma",
+        "2020",
+        "2025",
+        "message"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018625",
+      "summary": "The email chain discusses providing a laptop to Ghislaine Maxwell for discovery review in the Ghislaine Maxwell case.  A request is made to spec out a laptop with limited functionality (allowing only standard file types) and disable other capabilities.  The sender seeks confirmation of approval from MDC and suggests following a similar process used in the Avenatti case.  Multiple individuals are involved in coordinating the procurement and technical specifications of the laptop. Redactions obscure the identities of several individuals and potentially sensitive information.",
+      "timestamp": "2020-11-28T00:00:00",
+      "timestamp_raw": "28 Oct 2020",
+      "keywords": [
+        "laptop",
+        "mdc",
+        "discovery",
+        "laptop for mdc",
+        "usanys",
+        "data",
+        "policies",
+        "bop",
+        "maxwell",
+        "ghislaine maxwell"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00030579",
+            "similarity": 0.818,
+            "index": 39,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00030526",
+            "similarity": 0.667,
+            "index": 42,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00030579",
+      "summary": "An email chain discusses procuring a laptop for Ghislaine Maxwell in MDC for discovery review purposes related to the Ghislaine Maxwell case. The request specifies the laptop should only allow access to standard files (word, pdf, tif, xls, etc.) and have all other capabilities disabled. The sender references a similar laptop preparation done in the Avenatti case.  Multiple individuals are involved in coordinating the laptop’s specifications and ordering.",
+      "timestamp": "2020-11-28T00:00:00",
+      "timestamp_raw": "28 Oct 2020",
+      "keywords": [
+        "laptop",
+        "mdc",
+        "discovery",
+        "laptop for mdc",
+        "usanys",
+        "ghislaine maxwell",
+        "data",
+        "policies",
+        "bop",
+        "redaction"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00018625",
+            "similarity": 0.818,
+            "index": 38,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00029273",
+            "similarity": 0.5,
+            "index": 31,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00030526",
+            "similarity": 0.538,
+            "index": 42,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00018257",
+      "summary": "A request was made to provide a clean laptop to Ghislaine Maxwell for discovery review in the Ghislaine Maxwell case. The laptop requirements included disabling all communications (wifi/bluetooth), games, and audio/video recording capabilities, permitting only standard file review (word, pdf, tif, xls). A USANYS contact is coordinating with BOP legal and expects a decision on approval within days, with a potential delivery date of November 16th. Research into suitable laptop options is underway.",
+      "timestamp": "2020-11-29T00:00:00",
+      "timestamp_raw": "29 Oct 2020",
+      "keywords": [
+        "laptop",
+        "mdc",
+        "discovery",
+        "maxwell",
+        "bop",
+        "legal",
+        "requirements",
+        "review",
+        "files",
+        "permissions"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020899",
+      "summary": "*   Initial steps involved confirming the timeline and informing the defense (USANYS) about the ongoing effort. *   A purchase request was sent to verify specifications and delivery dates. *   A timeline for configuration and software installation was discussed (approximately 2 days, potentially Friday). *   The need to confirm BOP policies regarding laptop usage for Maxwell was raised due to changing regulations. *   A specific request was made for a laptop with limited functionality (primarily for reviewing standard file types) to address discovery accessibility issues. *   The user had previously utilized similar laptops in the Avenatti case.",
+      "timestamp": "2020-12-02T00:00:00",
+      "timestamp_raw": "02 Nov 2020",
+      "keywords": [
+        "laptop",
+        "mdc",
+        "email",
+        "data",
+        "delivery",
+        "specifications",
+        "bop",
+        "discovery",
+        "software",
+        "request"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030526",
+      "summary": "An email chain discusses procuring a laptop for Ghislaine Maxwell within MDC. The initial request is to provide a clean laptop for discovery review, limited to standard file types. Concerns are raised about BOP policies and discovery accessibility issues. A plan is being developed to spec out and order a laptop, with discussions about data availability and potential similarities to a previous case (Avenatti). The sender requests assistance in prepping and providing the laptop.",
+      "timestamp": "2020-12-02T00:00:00",
+      "timestamp_raw": "02 Nov 2020",
+      "keywords": [
+        "laptop",
+        "mdc",
+        "discovery",
+        "bop",
+        "maxwell",
+        "ghislaine maxwell",
+        "data",
+        "review",
+        "policies",
+        "request"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00030579",
+            "similarity": 0.538,
+            "index": 39,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00018625",
+            "similarity": 0.667,
+            "index": 38,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038206",
+      "summary": "FBI agents in New York are requesting assistance for a case involving Maxwell, specifically regarding the review of digital evidence (laptop and hard drive) at the Metropolitan Detention Center (MDC).  Requests are being made for agents to assist with this review, which is scheduled for Friday, October 23rd, initially from 8am-3pm, and potentially rescheduled for other days.  Agent Ambrosini is available, while another agent, identified only as “,” is unavailable.  The initial request, dated October 28th, was prompted by a defense attorney’s request to review the materials. Subsequent emails detail availability conflicts and the need to secure a single agent to assist.",
+      "timestamp": "2020-12-04T00:00:00",
+      "timestamp_raw": "04 Nov 2020",
+      "keywords": [
+        "fbi",
+        "maxwell",
+        "mdc",
+        "discovery",
+        "assistance",
+        "friday",
+        "review",
+        "agents",
+        "laptop",
+        "hard drive"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038107",
+            "similarity": 0.538,
+            "index": 13,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00038209",
+            "similarity": 0.538,
+            "index": 44,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038209",
+      "summary": "Squad C-20 is requesting assistance from two FBI agents for an investigation at Maxwell, involving a digital evidence presentation (laptop and hard drive) to the defense team at MDC on November 6th, 2020, from 8:00 am to 3:00 pm. An agent responded to a request for assistance and offered to send out a second request.",
+      "timestamp": "2020-12-05T00:00:00",
+      "timestamp_raw": "05 Nov 2020",
+      "keywords": [
+        "efta00038209",
+        "c-20",
+        "maxwell",
+        "investigation",
+        "fbi",
+        "assistance",
+        "discovery",
+        "mdc",
+        "laptop",
+        "hard drive"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038206",
+            "similarity": 0.538,
+            "index": 43,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037672",
+            "similarity": 0.667,
+            "index": 29,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038195",
+            "similarity": 0.538,
+            "index": 28,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038199",
+      "summary": "Ib informed the sender that he would be unavailable tomorrow. A previous email thread indicates that a laptop was delivered to MDC, and a Special Agent from the FBI New York Field Office was to assist with its pickup. The case number is 50D-NY-3027571. The Agent had instructed SA to give the computer to the recipients next week and requested the case and file numbers for logging.",
+      "timestamp": "2020-12-10T00:00:00",
+      "timestamp_raw": "10 Nov 2020",
+      "keywords": [
+        "efta00038199",
+        "mdc",
+        "fbi",
+        "laptop",
+        "case number",
+        "redaction",
+        "november 6",
+        "2020",
+        "maurene",
+        "special agent",
+        "human trafficking"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00038197",
+            "similarity": 0.692,
+            "index": 47,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00019207",
+      "summary": "Attorney’s Office, SONY. The laptop was intended to be delivered to the Metropolitan Correctional Center (MDC). Initial communication involved confirming the order, addressing the laptop to the Warden, and discussing its configuration. Concerns arose regarding whether the laptop could store Maxwell’s discovery data and whether its electronic components should be removed. The laptop was ultimately delivered on November 9th, 2020, with its Wi-Fi and other connectivity features disabled and a password sticker applied. The email chain outlines the steps taken to prepare the laptop for delivery and address logistical questions.",
+      "timestamp": "2020-12-10T00:00:00",
+      "timestamp_raw": "10 Nov 2020",
+      "keywords": [
+        "laptop",
+        "amazon",
+        "warden",
+        "metropolitan correctional center",
+        "mdc",
+        "discovery",
+        "password",
+        "hp pavilion",
+        "electronics",
+        "email",
+        "order"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038197",
+      "summary": "An email chain discusses a meeting at MDC to show a laptop (case number 50D-NY-3027571). A Special Agent from the FBI New York Field Office has informed two individuals, SA and SA, about the meeting time (9:15am – 3pm). The Agent requests the case number and file number to log the event. A previous email confirms the laptop was collected and would be returned next week.",
+      "timestamp": "2020-12-10T00:00:00",
+      "timestamp_raw": "10 Nov 2020",
+      "keywords": [
+        "efta00038197",
+        "mdc",
+        "fbi",
+        "case number",
+        "laptop",
+        "redaction",
+        "november 6",
+        "2020",
+        "special agent",
+        "child exploitation",
+        "human trafficking"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038199",
+            "similarity": 0.692,
+            "index": 45,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029965",
+      "summary": "Maurene, an Assistant United States Attorney, is arranging to deliver a laptop and charger to inmate Ghislaine Maxwell (Reg. No. 02879-509). The laptop is for Maxwell to review discovery materials produced by her office. She intends to deliver the laptop to the East Building at 29th Street, where it will be retrieved by someone named “foj”. She requests confirmation of the delivery process and provides her contact information.",
+      "timestamp": "2020-12-16T00:00:00",
+      "timestamp_raw": "16 Nov 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "laptop",
+        "mdc",
+        "united states attorney",
+        "southern district of new york",
+        "delivery",
+        "discovery",
+        "29th street",
+        "3rd avenue",
+        "2020-11-17"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00009924",
+      "summary": "A United States Attorney from the Southern District of New York is arranging the delivery of a laptop and a new hard drive to Ghislaine Maxwell at the Metropolitan Detention Center (MDC). The Attorney requests permission to bring both items tomorrow instead of just the laptop and provides instructions for drop-off between 6:00 AM and 12:00 PM, specifying the East Building location and the process for retrieving the laptop. Contact information for the Attorney is included.",
+      "timestamp": "2020-12-17T00:00:00",
+      "timestamp_raw": "17 Nov 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "laptop",
+        "usanys",
+        "discovery",
+        "hard drive",
+        "southern district of new york",
+        "mdc",
+        "delivery",
+        "new york",
+        "02879-509"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00029273",
+            "similarity": 0.5,
+            "index": 31,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029978",
+      "summary": "A United States Attorney sent a laptop, power cord, cover memo, a hard drive with a new discovery production, and two cover letters to Maxwell for her review of discovery materials. A previous hard drive containing file replacements was also shipped via FedEx. The Attorney requested confirmation that the drive was delivered to Maxwell.",
+      "timestamp": "2020-12-18T00:00:00",
+      "timestamp_raw": "18 Nov 2020",
+      "keywords": [
+        "maxwell",
+        "laptop",
+        "discovery",
+        "production",
+        "cover memo",
+        "hard drive",
+        "fedex",
+        "usanys",
+        "redacted",
+        "password"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00017813",
+      "summary": "Maxwell, 20 Cr. 330 (AJN)). *   The production includes approximately 1.2 million documents on a hard drive and a CD containing responsive images from Epstein’s iPhone. *   The hard drive and CD were prepared by different offices (vendor and paralegals). *   A new hard drive will be provided to Ms. Maxwell containing the full production for review at the MDC. *   There were concerns about the laptop’s ability to directly load the files due to storage limitations and compatibility issues. *   The MDC initially planned to allow Ms. Maxwell to use the laptop for review, but this was subsequently reduced to 7 hours per weekday. *   The Assistant U.S. Attorney requested confirmation that the full 13 hours per day (plus weekends) previously agreed upon would be available for review. *   A drive and CD containing the new discovery production were delivered to the MDC along with a laptop.",
+      "timestamp": "2020-12-19T00:00:00",
+      "timestamp_raw": "19 Nov 2020",
+      "keywords": [
+        "discovery production",
+        "hard drive",
+        "cd",
+        "maxwell",
+        "epstein",
+        "files",
+        "review",
+        "litigation",
+        "usanys",
+        "documents"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00011142",
+      "summary": "Staff members have tested positive for COVID, and the cell is repeatedly sprayed with chemicals. *   **COVID-Related Restrictions:** Sternheim is quarantined for 14 days due to potential COVID exposure and limited to 3 hours of legal calls, conducted in close proximity to observers. *   **Bail Application Discussions:** Cohen and the legal team are working on a renewed bail application, seeking to address concerns raised by the government and court. They require heightened confidentiality and want to present evidence of threats to GM and her family. *   **Information Sharing & Security:** Concerns are raised about the level of information being shared and the need to protect sensitive data, including financial information and potential co-signers for the bail. There’s discussion about vetting co-signers and the potential need to file under seal. *   **MDC’s Practices:** The MDC is being criticized for overly restrictive conditions, potentially mirroring those used during the Epstein case, and for intrusive surveillance practices. *   **Technical Difficulties:** There are issues with accessing GM’s laptop and reviewing discovery materials.",
+      "timestamp": "2020-12-19T00:00:00",
+      "timestamp_raw": "19 Nov 2020",
+      "keywords": [
+        "bop",
+        "covid",
+        "surveillance",
+        "search",
+        "bail",
+        "confidentiality",
+        "sternheim",
+        "everdell",
+        "cohen",
+        "shu"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031576",
+      "summary": "v. Rivera et al. case. *   Judge Engelmayer is requesting a BOP declaration explaining why Maxwell’s accommodations (laptop access, videoconference time, and legal visits) cannot be extended to Rivera. *   Rivera is detained at the MCC and has limited access to electronic discovery review and in-person visits due to the MCC’s policies. *   Maxwell is detained at the MDC and receives significantly more access, described as “strikingly different and far superior.” *   The disparity in access is attributed to differences in their housing situations – Maxwell's situation being more conducive to greater access. *   A declaration is due by December 31st, and the issue involves potential implications for multiple criminal cases and ongoing litigation.",
+      "timestamp": "2020-12-21T00:00:00",
+      "timestamp_raw": "December 21, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "justin rivera",
+        "discovery access",
+        "counsel",
+        "bop",
+        "judge engelmayer",
+        "mcc",
+        "mdc",
+        "united states v. rivera",
+        "sex trafficking",
+        "declaration"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00023080",
+            "similarity": 0.625,
+            "index": 63,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00015902",
+            "similarity": 0.5,
+            "index": 64,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00013337",
+            "similarity": 0.562,
+            "index": 65,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00015899",
+      "summary": "Bobbi Sternheim, an attorney, is communicating with MDC legal counsel regarding the conditions and restrictions placed on Ghislaine Maxwell while incarcerated. Sternheim requests permission for Maxwell to use a laptop instead of a computer due to technical limitations. She outlines several concerns including inconsistent security staff, invasive surveillance practices (wanding, pat-downs, surveillance during showering), restricted access to her cell and legal materials, and denial of basic items like newspapers and mail. Sternheim seeks assistance in addressing these issues.",
+      "timestamp": "2020-12-28T00:00:00",
+      "timestamp_raw": "December 28, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "bobbi sternheim",
+        "mdc",
+        "laptop",
+        "legal",
+        "restrictions",
+        "surveillance",
+        "covid-19",
+        "new york",
+        "discovery"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00015908",
+            "similarity": 0.538,
+            "index": 55,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00015908",
+      "summary": "On December 29, 2020, a request was made to allow Ghislaine Maxwell to use a laptop instead of a computer at MDC, due to limitations of the MDC computer. The request stemmed from concerns regarding Maxwell’s conditions of confinement, including restrictive surveillance, frequent searches, limited access to amenities (like blankets and newspapers), and inconsistent security staff. Bobbi Sternheim, representing Maxwell’s counsel, highlighted these issues and requested assistance in addressing them. Sophia responded with an offer to discuss the matter.",
+      "timestamp": "2020-12-29T00:00:00",
+      "timestamp_raw": "December 29, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "laptop",
+        "mdc",
+        "southern district of new york",
+        "surveillance",
+        "restrictions",
+        "confinement",
+        "legal documents",
+        "bobbi sternheim",
+        "covid-19"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00015899",
+            "similarity": 0.538,
+            "index": 54,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00015911",
+            "similarity": 0.538,
+            "index": 93,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00015883",
+      "summary": "Legal counsel for Ghislaine Maxwell is communicating with Bobbi Sternheim regarding several concerns about her conditions and restrictions within the MDC (Metropolitan Detention Center). These include: limited cell time (originally 3 hours, then reduced to 30 minutes), restricted laptop access, intrusive surveillance practices (handheld camera, showering observation, invasive searches), temperature control issues (cold cell, removal of blanket), mail delays, and frequent cell and legal document searches. MDC legal counsel is providing responses, primarily confirming existing protocols and stating they will investigate specific requests, such as weekend laptop access.",
+      "timestamp": "2020-12-29T00:00:00",
+      "timestamp_raw": "December 29, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "mdc",
+        "laptop",
+        "isolation cell",
+        "shower",
+        "searches",
+        "blanket",
+        "legal papers",
+        "lockdown",
+        "covid-19"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013329",
+      "summary": "This document details a dispute regarding unequal access to discovery and counsel for Ghislaine Maxwell and Justin Rivera in the case of United States v. Rivera et al. Here’s a breakdown of the key points: *   **The Issue:** Judge Engelmayer is demanding an explanation from the Bureau of Prisons (BOP) why Ghislaine Maxwell receives significantly greater access to electronic discovery and in-person counsel visits than Justin Rivera, despite similar court orders. *   **Rivera’s Situation:** Justin Rivera, detained at the MCC, is receiving limited laptop access (3 hours/day) and restricted videoconference time (6 hours/week) due to his housing situation within the general population. *   **Maxwell’s Situation:** Ghislaine Maxwell, housed in protective custody at the MDC outside the general population, has access to 13 hours/day for electronic discovery review and 15 hours/week for videoconferences. *   **The Argument:** Defense counsel argues the disparity is due to different housing situations – Maxwell's unique protective custody allows for greater access. They also raise concerns about potential bias based on race, gender, and class. *   **The Request:** The United States Attorney’s Office is preparing a declaration from the BOP to justify the differing treatment, outlining the reasons for Maxwell's enhanced access. *   **Timeline:** The declaration is due by December 31st, and the attorneys are coordinating to identify a suitable declarant and draft the explanation.",
+      "timestamp": "2020-12-30T00:00:00",
+      "timestamp_raw": "December 30, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "justin rivera",
+        "discovery access",
+        "counsel access",
+        "vtc",
+        "mdc",
+        "mcc",
+        "housing",
+        "bop",
+        "electronic discovery",
+        "court orders",
+        "litigation",
+        "sex trafficking"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00013333",
+            "similarity": 0.688,
+            "index": 58,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00013342",
+            "similarity": 0.647,
+            "index": 60,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00018659",
+            "similarity": 0.857,
+            "index": 61,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00013333",
+      "summary": "This document details a dispute regarding differing access to discovery and counsel for Ghislaine Maxwell and Justin Rivera in a sex trafficking case. Maxwell, detained at the MDC, receives 13 hours daily of laptop access and 15 hours of videoconference access, while Rivera, at the MCC, is limited to 3 hours daily laptop access and 6 hours of videoconference access. The judge has flagged this disparity as problematic, citing potential racial and socioeconomic bias. The Assistant United States Attorney is preparing a BOP declaration explaining these differences, focusing on the unique housing conditions at the MDC versus the MCC. The situation involves multiple court orders and ongoing concerns about trial preparation and access to legal representation for Rivera.",
+      "timestamp": "2020-12-30T00:00:00",
+      "timestamp_raw": "December 30, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "justin rivera",
+        "discovery access",
+        "counsel access",
+        "bop",
+        "mcc",
+        "mdc",
+        "vtc",
+        "united states attorney",
+        "sex trafficking",
+        "redaction",
+        "housing",
+        "electronic discovery",
+        "criminal case"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00013329",
+            "similarity": 0.688,
+            "index": 57,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00013342",
+            "similarity": 0.526,
+            "index": 60,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00018659",
+            "similarity": 0.688,
+            "index": 61,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00023080",
+            "similarity": 0.611,
+            "index": 63,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00030058",
+      "summary": "Rivera et al.). The US Attorney’s Office is preparing a declaration for Judge Engelmayer explaining why the accommodations provided to Maxwell at the MDC – specifically 13 hours daily laptop access and 15 hours of videoconference meetings – cannot be extended to Rivera at the MCC. The key difference cited is their vastly different housing situations: Maxwell is in protective custody outside the general population with significantly more access, while Rivera is in the general population with limited access. The judge expressed concern about the disparity, suggesting it appeared racially motivated. The team is working to finalize the declaration by December 31st, aiming to explain the rationale behind the differing treatment to the court.",
+      "timestamp": "2020-12-31T00:00:00",
+      "timestamp_raw": "December 31, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "justin rivera",
+        "usanys",
+        "discovery access",
+        "counsel",
+        "shu",
+        "vtc",
+        "mcc",
+        "mdc",
+        "contraband cellphone",
+        "redaction"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013342",
+      "summary": "**Key Points:** *   **The Issue:** Judge Engelmayer has expressed concern that Rivera is receiving significantly less access to electronic discovery review (13 hours/week vs. 3 hours/week) and limited counsel visits (15 hours/week vs. 6 hours/week) compared to Maxwell. *   **Differing Housing:** The core reason cited for the difference is the distinct housing situations: Maxwell has protective custody outside the general population at the MDC, granting her sole access to a computer and phone for 13 hours daily, while Rivera is in the general population at the MCC. *   **Court Orders:** Both defendants have court orders in place requiring the BOP to provide laptop access and videoconferencing time. *   **Optics and Concerns:** Judge Engelmayer views the disparity as “terrible optics” and raises concerns about potential bias based on race, gender, and class. *   **Deadline:** The BOP declaration is due by December 31st. *   **Ongoing Cases:** The situation relates to the ongoing criminal case against Rivera and potentially the civil litigation with Maxwell. The document outlines a plan to identify a declarant, draft the declaration, and schedule a call to discuss the issue further.",
+      "timestamp": "2020-12-31T00:00:00",
+      "timestamp_raw": "December 31, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "justin rivera",
+        "discovery access",
+        "counsel access",
+        "usanys",
+        "mdc",
+        "mcc",
+        "vtc",
+        "declarations",
+        "bop",
+        "housing",
+        "electronic discovery",
+        "accommodations",
+        "disparities",
+        "court orders"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00013333",
+            "similarity": 0.526,
+            "index": 58,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00013329",
+            "similarity": 0.647,
+            "index": 57,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00018659",
+            "similarity": 0.647,
+            "index": 61,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00023074",
+            "similarity": 0.526,
+            "index": 62,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00023080",
+            "similarity": 0.579,
+            "index": 63,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00018659",
+      "summary": "Maxwell, detained at the MDC (outside the general population), receives significantly more access to a computer and video conferencing than Rivera, who is housed at the MCC. The legal team is preparing a declaration for Judge Engelmayer explaining why these differing accommodations are justified due to the distinct housing situations and the specific requests of the lawyers. The disparity in access is considered “striking” and potentially discriminatory, raising concerns about the optics of the case. The key differences highlighted are: Maxwell’s 13-hour daily laptop access versus Rivera’s 3-hour access, 15 hours of video conferencing versus Rivera's 6 hours, and the availability of weekend legal calls for Maxwell versus none for Rivera. The team is working to identify a BOP declarant to support their argument and submit the declaration by December 31st.",
+      "timestamp": "2020-12-31T00:00:00",
+      "timestamp_raw": "December 31, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "justin rivera",
+        "discovery access",
+        "counsel access",
+        "vtc",
+        "mdc",
+        "mcc",
+        "housing",
+        "electronic discovery",
+        "bop",
+        "redaction",
+        "litigation",
+        "court orders"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00013342",
+            "similarity": 0.647,
+            "index": 60,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00013333",
+            "similarity": 0.688,
+            "index": 58,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00013329",
+            "similarity": 0.857,
+            "index": 57,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00023074",
+            "similarity": 0.588,
+            "index": 62,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00023080",
+            "similarity": 0.647,
+            "index": 63,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00015902",
+            "similarity": 0.733,
+            "index": 64,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00023074",
+      "summary": "Assistant US Attorneys are responding to a request from Judge Engelmayer to explain why Maxwell receives significantly more favorable accommodations (specifically, 13 hours daily laptop access and 15 hours of video conference access) than Rivera at the MCC, where Rivera is housed in the general population. Key points include: *   **Disparity in Access:** Rivera receives only 3 hours of laptop access and 6 hours of video conferencing weekly, while Maxwell has substantially more. *   **Housing Differences:** Maxwell resides in protective custody at the MDC outside the general population, affording her exclusive access to a computer and phone for approximately 13 hours daily. Rivera is housed in the general population at the MCC. *   **Court Orders:** Both defendants have court-ordered access to technology, but the MCC’s implementation of these orders differs significantly. *   **Legal Arguments:** Defense counsel argues the disparity is due to race, gender, and class, raising concerns about potential bias. *   **Declaration Request:** The US Attorney’s office is preparing a declaration from the BOP to justify the differing treatment. *   **Timeline:** The deadline for the BOP declaration is December 31, 2020.",
+      "timestamp": "2020-12-31T00:00:00",
+      "timestamp_raw": "December 31, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "justin rivera",
+        "discovery access",
+        "counsel access",
+        "usanys",
+        "mdc",
+        "mcc",
+        "protective custody",
+        "electronic discovery",
+        "vtc",
+        "bop",
+        "declaration",
+        "litigation",
+        "sentencing"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00018659",
+            "similarity": 0.588,
+            "index": 61,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00013342",
+            "similarity": 0.526,
+            "index": 60,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00013329",
+            "similarity": 0.588,
+            "index": 57,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00023080",
+            "similarity": 0.526,
+            "index": 63,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00015902",
+            "similarity": 0.5,
+            "index": 64,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00023080",
+      "summary": "**Key Points:** *   **Disparity in Access:** Judge Engelmayer has flagged a significant difference in accommodations, finding the access provided to Maxwell (13 hours daily laptop access, 15 hours weekly video conferencing) markedly better than that afforded to Rivera (3 hours daily laptop access, 6 hours weekly video conferencing). *   **Housing Differences:** The core reason for the disparity is the differing housing situations: Maxwell is in protective custody at the MDC with sole access to a computer and phone for 13 hours a day, while Rivera is housed in the general population at the MCC and shares VTC room access with 80 other inmates. *   **Court Orders:** There are two court orders in place: a laptop order requiring 3 hours of daily laptop access for Rivera and a videoconference order requiring 4 hours weekly for Rivera. *   **Concerns Raised:** Defense counsel has expressed concerns about racial and class bias in the treatment of Rivera, prompting Judge Engelmayer to emphasize the optics of the situation. *   **Deadline:** The BOP declaration is due by December 31st, 2020. *   **Ongoing Cases:** The issue impacts both the criminal case against Rivera and potentially related civil litigation.",
+      "timestamp": "2020-12-31T00:00:00",
+      "timestamp_raw": "December 31, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "justin rivera",
+        "discovery access",
+        "counsel access",
+        "mdc",
+        "mcc",
+        "vtc",
+        "declaration",
+        "bop",
+        "housing",
+        "electronic discovery",
+        "court orders",
+        "sex trafficking",
+        "united states v. rivera",
+        "judge engelmayer"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00023074",
+            "similarity": 0.526,
+            "index": 62,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00018659",
+            "similarity": 0.647,
+            "index": 61,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00013342",
+            "similarity": 0.579,
+            "index": 60,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00015902",
+            "similarity": 0.75,
+            "index": 64,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00013337",
+            "similarity": 0.812,
+            "index": 65,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00015902",
+      "summary": "This redacted document details a request from the United States Attorney’s Office for the Southern District of New York to explain disparities in counsel and discovery access between Ghislaine Maxwell (detained at the MDC) and Justin Rivera (detained at the MCC) in a sex trafficking case. Here’s the key factual content: *   **Context:** Judge Engelmayer is demanding an explanation for why Maxwell receives significantly more favorable access to electronic discovery and counsel visits compared to Rivera. *   **Differences in Housing:** The core reason for the disparity stems from the different housing situations: Maxwell has sole access to a computer and phone for 13 hours daily at the MDC, while Rivera shares a VTC room with 80 other inmates at the MCC. *   **Court Orders:** Both defendants have court-ordered access to laptops and videoconferences, but the amounts differ significantly. *   **Request for Declaration:** The US Attorney's Office is seeking a BOP declaration to justify the unequal treatment. *   **Timeline:** The declaration is due by December 31, 2020, and the situation involves ongoing criminal and civil litigation. *   **Communication:** The document represents a series of emails and internal communications among attorneys regarding the issue, highlighting concerns about the optics of the situation and potential claims of racial bias.",
+      "timestamp": "2020-12-31T00:00:00",
+      "timestamp_raw": "December 31, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "justin rivera",
+        "discovery access",
+        "counsel access",
+        "bop",
+        "mdc",
+        "mcc",
+        "vtc",
+        "electronic discovery",
+        "housing",
+        "redaction",
+        "united states v. rivera",
+        "judge engelmayer"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00023080",
+            "similarity": 0.75,
+            "index": 63,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00023074",
+            "similarity": 0.5,
+            "index": 62,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00018659",
+            "similarity": 0.733,
+            "index": 61,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00013337",
+            "similarity": 0.8,
+            "index": 65,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00013337",
+      "summary": "This redacted document concerns a dispute over unequal access to discovery and counsel for Ghislaine Maxwell and Justin Rivera in related criminal cases. It outlines a request from Judge Engelmayer for a BOP declaration explaining why Maxwell’s superior accommodations – 13 hours daily laptop access and 15 hours of video conferencing – cannot be extended to Rivera, who is housed in the general population at the MCC. The core issue stems from differing housing situations: Maxwell is in protective custody outside the general population at the MDC, allowing significantly more access. Rivera, detained in the general population at the MCC, receives only three hours of laptop access and six hours of video conferencing. The document details the specific accommodations provided to each defendant and highlights concerns about potential racial bias in the treatment. The BOP is being asked to submit a declaration justifying the disparity, with the deadline for submission being December 31, 2020.",
+      "timestamp": "2020-12-31T00:00:00",
+      "timestamp_raw": "December 31, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "justin rivera",
+        "discovery access",
+        "counsel access",
+        "bop",
+        "mdc",
+        "mcc",
+        "vtc",
+        "electronic discovery",
+        "housing",
+        "judge engelmayer",
+        "sex trafficking",
+        "declarations",
+        "united states v. rivera"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00015902",
+            "similarity": 0.8,
+            "index": 64,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00023080",
+            "similarity": 0.812,
+            "index": 63,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00018659",
+            "similarity": 0.588,
+            "index": 61,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021730",
+      "summary": "Ghislaine Maxwell’s legal team requested the court to order the Bureau of Prisons (BOP) to grant her access to a provided laptop computer on weekends and holidays for reviewing discovery materials. Currently, access is limited to weekdays, causing her to lose significant review time. The team highlighted previous instances where access was granted, particularly during quarantine, and argued there’s no legitimate impediment to providing weekend access. The court ultimately granted the request, ordering the BOP to provide Maxwell with the requested access.",
+      "timestamp": "2021-01-14T00:00:00",
+      "timestamp_raw": "January 14, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states v.",
+        "bureau of prisons",
+        "laptop",
+        "discovery",
+        "court",
+        "trial",
+        "covid",
+        "access"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021732",
+      "summary": "Bobbi Sternheim, an attorney, is contacting recipients regarding a court order (EFTA00021732) demanding Ghislaine Maxwell’s access to her laptop on weekends and holidays. Initially, MDC legal counsel confirmed they would comply. However, a security detail officer, Officer Regan, refused to grant access, stating “I don’t care.” Sternheim intends to notify Judge Nathan of this violation and urges immediate compliance to avoid contempt of court. The court order itself (EFTA00021734) explicitly directs the Bureau of Prisons to provide access. Sternheim's office is operating remotely due to COVID-19 restrictions, utilizing email and fax for communication.",
+      "timestamp": "2021-01-15T00:00:00",
+      "timestamp_raw": "15 Jan 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "court order",
+        "laptop",
+        "mdc",
+        "bobbi sternheim",
+        "covid-19",
+        "contempt of court"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030880",
+      "summary": "Bobbi C. Sternheim, an attorney, is urgently requesting assistance in delivering time-sensitive legal mail to Ghislaine Maxwell. The mail, intended for review over the weekend, was delivered to Maxwell's location but she hadn't received it. Sternheim is requesting permission to have the Legal Department handle the delivery and also requests access to a government-provided laptop for Maxwell to review the discovery documents. Sternheim notes a closure of her office due to COVID-19 and advises using email or fax for communication.",
+      "timestamp": "2021-01-15T00:00:00",
+      "timestamp_raw": "15 Jan 2021",
+      "keywords": [
+        "bobbi sternheim",
+        "maxwell",
+        "legal mail",
+        "express mailing",
+        "covid-19",
+        "vtc",
+        "discovery documents"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024992",
+      "summary": "Bobbi Sternheim, an attorney, is requesting urgent assistance in delivering time-sensitive legal mail to Ghislaine Maxwell. She sent express mail containing documents for review over the weekend, emphasizing the need for delivery by Friday due to a court-ordered filing deadline. She also requested access to a government-provided laptop computer for Maxwell to review the discovery documents. A Covid-19 notice indicates the office is operating remotely via email and fax. There were redactions on pages 2 and 3.",
+      "timestamp": "2021-01-15T00:00:00",
+      "timestamp_raw": "15 Jan 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "legal mail",
+        "time-sensitive documents",
+        "vtc",
+        "bobbi sternheim",
+        "court-ordered filing deadline",
+        "laptop computer",
+        "discovery documents"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021729",
+      "summary": "Bobbi C. Sternheim, Esq., directed Ghislaine Maxwell to receive access to her laptop on weekends and holidays, as ordered by Judge Alison J. Nathan. The court order, attached to an email, mandated the Bureau of Prisons to provide this access during permitted discovery review hours.",
+      "timestamp": "2021-01-15T00:00:00",
+      "timestamp_raw": "15 Jan 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "court order",
+        "laptop access",
+        "bureau of prisons",
+        "docket",
+        "judge nathan",
+        "redaction analysis",
+        "efta00021729",
+        "compliance",
+        "christian r. everdell"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021724",
+      "summary": "A legal dispute arose regarding Ghislaine Maxwell’s access to a laptop during weekends and holidays while incarcerated. Initially, a court order (Judge Nathan) granted Maxwell access, but the MDC (likely a prison department) initially claimed no objection. However, following a communication from Maxwell’s attorney, Bobbi C. Sternheim, it was revealed that MDC intended to comply, but a security detail unexpectedly denied access, citing a lack of concern for the court order. Sternheim threatened to inform the judge of the violation and urged immediate compliance to avoid contempt of court. The communication chain highlights a breakdown in communication and a potential disregard for the court’s directives.",
+      "timestamp": "2021-01-16T00:00:00",
+      "timestamp_raw": "16 Jan 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "court order",
+        "laptop access",
+        "mdc",
+        "judge nathan",
+        "bobbi sternheim",
+        "contempt of court",
+        "compliance",
+        "legal dispute",
+        "prison bureau"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021015",
+      "summary": "This document is a legal argument opposing the Maryland Department of Corrections’ (MDC) objection to Ghislaine Maxwell’s access to a laptop computer on weekends and holidays. The attorney, Bobbi Sternheim, argues that the MDC’s objections are unfounded, citing the inadequacy of the MDC’s computers for reviewing the massive amount of electronic discovery, their frequent malfunctions, and the limitations imposed on Maxwell’s access to the documents. Sternheim contends that denying access hinders Maxwell’s ability to prepare for trial and highlights systemic deficiencies within the MDC’s electronic discovery process. The argument emphasizes the unfair restrictions Maxwell faces compared to other inmates and argues that granting her laptop access is a reasonable accommodation necessary for a fair trial preparation, particularly during the challenging circumstances created by the pandemic.",
+      "timestamp": "2021-01-25T00:00:00",
+      "timestamp_raw": "January 25, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "laptop",
+        "discovery",
+        "mdc",
+        "court order",
+        "electronic discovery",
+        "inmate",
+        "review",
+        "security",
+        "access",
+        "trial",
+        "bop"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028163",
+      "summary": "The U.S. District Court for the Southern District of New York, presided over by Alison J. Nathan, denied the Metropolitan Detention Center (MDC) Brooklyn’s request to vacate an order regarding Ghislaine Maxwell’s confinement. The order stemmed from concerns raised by defense counsel about Maxwell’s limited access to discovery. Despite these concerns, Maxwell has been granted access to a government-provided laptop for 13 hours daily, five days a week, and access to the MDC’s discovery computers. She also maintains regular contact with her legal counsel via video-teleconference and telephone.",
+      "timestamp": "2021-01-25T00:00:00",
+      "timestamp_raw": "January 25, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "bureau of prisons",
+        "metropolitan detention center",
+        "judge nathan",
+        "discovery",
+        "electronic filing",
+        "legal counsel",
+        "united states v.",
+        "20 cr. 330"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028161",
+      "summary": "On February 2, 2021, an Assistant United States Attorney (USA) from the Southern District of New York sent an email to update the court regarding Maxwell’s case. Judge Nathan denied a motion to vacate an order regarding Maxwell’s access to a laptop. The USA requested a call to discuss an update letter due Friday, February 5th, covering topics including discovery access, legal mail access, legal email access, communication with legal counsel, and search frequency. The email attached a document outlining these specific areas for update.",
+      "timestamp": "2021-02-02T00:00:00",
+      "timestamp_raw": "February 2, 2021",
+      "keywords": [
+        "maxwell",
+        "court",
+        "order",
+        "laptop",
+        "access",
+        "judge nathan",
+        "united states attorney",
+        "criminal justice",
+        "confinement",
+        "legal mail"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016118",
+      "summary": "Engelmayer, concerns the ongoing challenges Justin Rivera is facing while incarcerated at the Metropolitan Correctional Center (MCC). Rivera’s access to his laptop and increased video calls with counsel are being significantly restricted. **Key Points:** *   **Laptop Access:** Rivera initially received his laptop in the SHU, but access was abruptly denied after a transfer due to staff’s unawareness of the Judge’s order. Subsequent access was intermittent and dependent on daily reports, often hampered by staff concerns and discomfort, including concerning remarks about Rivera being an “enemy #1.” *   **Increased Video Calls:** Rivera’s legal team requested two 2-hour video calls per week, citing limitations imposed by the MCC and the need for effective preparation for his trial (scheduled to begin February 16, 2021). This request was repeatedly denied by the MCC, who offered only a single 4-hour session, despite the Court's order. *   **Concerns Regarding Conditions:** The legal team expresses serious concerns about Rivera’s conditions of confinement, including hostile staff behavior, limited access to counsel, and the stressful environment. They note the disparity in treatment compared to Ghislaine Maxwell, who enjoys significantly greater access to discovery and counsel. *   **COVID-19 Impact:** The ongoing COVID-19 outbreak at the MCC is cited as a reason for restricted movement and access, further complicating Rivera's situation. *   **Lack of Response:** Despite the Court’s orders, the MCC is not fulfilling the requested accommodations, creating further obstacles to Rivera's legal defense.",
+      "timestamp": "2021-02-16T00:00:00",
+      "timestamp_raw": "February 16, 2021",
+      "keywords": [
+        "justin rivera",
+        "metropolitan correctional center (mcc)",
+        "discovery access",
+        "counsel",
+        "video calls",
+        "laptop",
+        "shu",
+        "covid-19",
+        "staff concerns",
+        "legal order",
+        "ghislaine maxwell"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031589",
+      "summary": "This document concerns the discovery process in the US v. Maxwell case, specifically regarding the review of highly confidential evidence related to Jeffrey Epstein’s activities. The US Attorney’s office, represented by an Assistant US Attorney, is facilitating the review of electronic images and physical evidence held by the FBI. Key points include: *   **Types of Evidence:** The FBI possesses three categories of electronic images related to nude/partially nude images: approximately 2,100 electronic images and videos from Epstein’s devices, 3,400 discs from his residences, and 7 hard copy images from the FBI Florida office. *   **Review Access:** The defense team (represented by Laura Menninger of Haddon, Morgan & Foreman) will have access to the electronic files, with Cellebrite software provided for viewing Apple devices. The physical evidence will be reviewed at the FBI’s Bronx warehouse under specific conditions. *   **Logistics:** The warehouse review requires two weeks' notice and is open during business hours. The FBI will provide one laptop for image review and can transport items to 500 Pearl Street. *   **Restrictions:** Duplicates of the obscene electronic images are prohibited, and there are limitations on the number of laptops available.  Electronic media (VHS, cassettes, CDs) are not playable at the warehouse. *   **Timeline & Communication:** The Attorney and defense team are coordinating scheduling for the review, with the FBI anticipating a three-week timeframe for reviewing all electronic media at their Manhattan office.  The defense team is requesting information about the timeline for reviewing the evidence and the availability of an index of physical evidence.",
+      "timestamp": "2021-03-16T00:00:00",
+      "timestamp_raw": "16 Mar 2021",
+      "keywords": [
+        "fbi",
+        "epstein",
+        "maxwell",
+        "discovery",
+        "evidence",
+        "images",
+        "confidential",
+        "nyc",
+        "bronx",
+        "forensic",
+        "metadata"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020322",
+      "summary": "Laura Menninger (Haddon, Morgan & Foreman, P.C.) requests permission to review FBI evidence in the US v. Maxwell case, citing deficiencies in the FBI’s initial proposal. She argues that the proposed viewing arrangement lacks adequate facilities for a thorough review, including access to laptops, and the ability for her client to examine discovery materials like recordings. Specifically, she requests: the transport of physical evidence to 500 Pearl Street with her client’s presence, permission to bring laptops and a camera, provision of equipment to play recordings, segregation of “highly confidential” evidence, and a secure room for client consultation. The FBI responds with a detailed proposal outlining the evidence’s categorization (electronic images from Epstein’s devices, discs, and hard copies), stipulations about accessing electronic files (Cellebrite software), arrangements for the physical evidence’s location at the Bronx warehouse, and conditions for reviewing the evidence. The FBI also addresses concerns about the volume of “highly confidential” images and their handling, proposing a phased approach to reviewing them. Finally, the FBI confirms the availability of a single laptop for reviewing the sensitive images and anticipates providing access to the evidence media within three weeks.",
+      "timestamp": "2021-03-22T00:00:00",
+      "timestamp_raw": "22 Mar 2021",
+      "keywords": [
+        "evidence",
+        "fbi",
+        "recordings",
+        "laptops",
+        "review",
+        "photographs",
+        "excel",
+        "confidential",
+        "bronx warehouse",
+        "discovery",
+        "images",
+        "maxwell"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027861",
+      "summary": "On March 29, 2021, Christian Everdell contacted a recipient regarding discovery issues in the Maxwell case, specifically related to productions prepared by PAE. The issues included: 1.  Failure to send a hard drive containing discovery to Ms. Maxwell. 2.  Files incompatible with Ms. Maxwell’s laptop requiring inclusion on a hard drive. 3.  Missing attachments from over 109,000 emails. 4.  Metadata discrepancies (dates and lack of CART numbers) in over 110,000 electronic documents and 6,500 photographs. 5.  Metadata issues within audio/visual files categorized by production dates (SDNY GM SUPP, SDNY005, SDNY011). 6.  A gap in production numbers between November 18th and December 18th. Everdell requested responses and clarification on these points to facilitate the discovery process.",
+      "timestamp": "2021-03-29T00:00:00",
+      "timestamp_raw": "March 29, 2021",
+      "keywords": [
+        "discovery",
+        "maxwell case",
+        "pae",
+        "hard drive",
+        "metadata",
+        "cart number",
+        "email",
+        "production",
+        "files",
+        "attachments"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032465",
+      "summary": "Maxwell case (20 Cr. 330 (AJN)). The request outlines specific conditions for reviewing the evidence, primarily related to physical items seized from the Bronx warehouse and electronic media. Key points include: *   **Access to Physical Evidence:** The defense team requires access to photograph and inspect bulky, electronic, and fragile items at the Bronx warehouse, necessitating a lawyer, investigator, and paralegal presence. *   **Electronic Media Review:** The government will provide the necessary equipment to play recordings, but the defense needs to inspect the outside of the recordings. Segregation of recordings based on \"witness statements\" is requested. *   **Space Requirements:** The defense needs a suitable space (potentially the largest proffer room or a locked courtroom) to accommodate the team and evidence. *   **Confidentiality:**  Strict protocols are in place for handling highly confidential materials, including the 2,100 images and 7 hard-copy materials. The FBI will provide a single laptop for reviewing the electronic images. *   **Timeline:** The FBI proposes arranging for the client to be produced to 500 Pearl Street during the week of April 12th and April 19th, followed by daily reviews. *   **Ongoing Communication:** Frequent communication is essential to address any issues or disagreements, and the FBI will provide updates on the availability of equipment and the status of the evidence review. *   **Excel Spreadsheet:** The FBI provides an index of physical evidence in its custody, alongside a discovery cover letter, and requests information regarding the number of people who will be present for the physical evidence review.",
+      "timestamp": "2021-04-02T00:00:00",
+      "timestamp_raw": "02 Apr 2021",
+      "keywords": [
+        "evidence",
+        "photographs",
+        "bronx warehouse",
+        "electronic devices",
+        "recordings",
+        "government",
+        "client",
+        "inspection",
+        "highly confidential",
+        "discovery",
+        "materials",
+        "review"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015738",
+      "summary": "Maxwell* (20 Cr. 330 (MN)). It details a collaborative effort between the Assistant United States Attorney’s Office (Southern District of New York), Laura Menninger and her legal team (Haddon, Morgan & Foreman, P.C.), Jeff Pagliuca, Christian Everdell, and Bobby Sternheim. Key elements include: *   **Scheduled Reviews:** The Marshals intend to bring Maxwell to 500 Pearl Street daily, beginning April 13th, for evidence review. *   **Revised Spreadsheets:** The AUSA has provided updated spreadsheets (with annotations) of evidence, designating Protective Orders and noting item locations. Three VHS tapes are central to this designation. *   **FBI Involvement:** The FBI will transport physical evidence to 500 Pearl Street and provide electronic media for review, but only one laptop is available for the highly confidential images. The FBI will also segregate highly confidential evidence items. *   **Bronx Warehouse Inspection:** The defense team requests access to the FBI’s Bronx warehouse to photograph excluded items, with requirements for photographic documentation. *   **Equipment Needs:** The defense requires equipment (VCR, etc.) to play recordings, and requests permission to bring devices into the courthouse. *   **Confidentiality Protocol:** Strict adherence to the Protective Order is emphasized, including restrictions on photographing certain items. *   **Communication & Scheduling:** The parties are coordinating a call to discuss the plan and finalize the schedule. The initial call is set for March 10th at 1:30 PM ET/ 11:30 AM MST.",
+      "timestamp": "2021-04-07T00:00:00",
+      "timestamp_raw": "07 Apr 2021",
+      "keywords": [
+        "evidence",
+        "protective order",
+        "maxwell",
+        "fbi",
+        "marshals",
+        "review",
+        "vhs tapes",
+        "data",
+        "electronic files",
+        "bronx warehouse",
+        "500 pearl street",
+        "new york",
+        "florida",
+        "witness statements",
+        "photography",
+        "confidential",
+        "highly confidential"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030021",
+      "summary": "Maxwell case (20 Cr. 330 (AJN)). The Assistant US Attorney (Southern District of New York) is coordinating the review, which will take place at 500 Pearl Street and potentially the Bronx warehouse. Key details include: *   **Evidence Transport:** The FBI will transport physical evidence (including items like electronic devices, \"bulky\" items, and photos) to 500 Pearl Street for the defense team to inspect and photograph. *   **Highly Confidential Materials:** The FBI will provide access to approximately 2,100 electronic images (seized from Epstein’s devices) and 7 hard-copy images, designating them as “Highly Confidential.”  Access will be limited to one laptop. *   **Scheduling:** The review is scheduled to begin April 13th, with daily sessions, contingent on the Marshals securing Ms. Maxwell’s presence at 500 Pearl Street. *   **Logistics:** The defense team will have a lawyer, investigator, and paralegal present at the Bronx warehouse to photograph items. The FBI will provide equipment for playing electronic media. *   **Coordination:**  Constant communication and confirmation regarding access, availability, and the handling of sensitive materials are emphasized. Multiple email exchanges detail revisions to the plan and clarify specific requests and concerns.",
+      "timestamp": "2021-04-07T00:00:00",
+      "timestamp_raw": "07 Apr 2021",
+      "keywords": [
+        "evidence",
+        "maxwell",
+        "review",
+        "fbi",
+        "bronx",
+        "warehouse",
+        "protective order",
+        "digital",
+        "files",
+        "photography",
+        "materials",
+        "counsel",
+        "usanys",
+        "efta00030021",
+        "efta00030022",
+        "efta00030023",
+        "efta00030024",
+        "efta00030025",
+        "efta00030026",
+        "efta00030027",
+        "efta00030028",
+        "efta00030029",
+        "efta00030030"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032669",
+      "summary": "Maxwell* (20 Cr. 330 (AJN)). Key elements include: *   **Scheduling:** A meeting at 11:00 AM on April 12th at the Bronx warehouse is initially proposed, with the possibility of further trips to review additional evidence. The review ultimately moves to 500 Pearl Street, beginning April 13th. *   **Evidence Location:** The evidence is primarily located in the FBI’s Bronx warehouse and, subsequently, at 500 Pearl Street. *   **Exhibit Access:** The defense team (Christian Everdell, Laura Menninger, Jeff Pagliuca, and Bobbi C. Sternheim) will be granted access to photographs and potentially electronic media (CDs, laptops) for review. *   **Confidentiality:**  Emphasis is placed on the highly confidential nature of some evidence, particularly nude images, and the need to handle those items with caution. *   **Logistics & Support:** The FBI will provide support with equipment (e.g., VCRs, CD players), transport, and an agent to accompany the defense team.  The AUSA will be present at the warehouse. *   **Discrepancies & Clarifications:**  Laura Menninger raises several questions and concerns regarding the available evidence, including discrepancies in item locations, the need to photograph certain items, and the segregation of “highly confidential” materials.  The AUSA addresses these concerns and clarifies the approach to evidence review.",
+      "timestamp": "2021-04-08T00:00:00",
+      "timestamp_raw": "08 Apr 2021",
+      "keywords": [
+        "evidence",
+        "maxwell",
+        "warehouse",
+        "review",
+        "confidential",
+        "photographs",
+        "fbi",
+        "files",
+        "electronic",
+        "laura menninger",
+        "christian everdell",
+        "pagliuca",
+        "sternheim",
+        "bronx",
+        "500 pearl"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015753",
+      "summary": "Maxwell case, involving highly confidential materials. The review will primarily occur at the 500 Pearl Street courthouse in New York, with some evidence to be viewed at the FBI’s Bronx warehouse. Initially, the FBI intends to make evidence available for review beginning April 13th, daily, until the review is complete. The defense team will be accompanied by an Assistant US Attorney and an FBI agent. Key points include: *   **Initial Scheduling:** The defense team and the government have agreed to a meeting at 11:00 AM on April 12th at the Bronx warehouse to photograph excluded items. *   **Physical Evidence Location:** The vast majority of physical evidence will be transported to 500 Pearl Street for review. *   **Highly Confidential Items:**  The FBI will provide the defense team with laptops to review 2,100 electronic images and 7 hard-copy images classified as “highly confidential”. The defense team requested clarification about the handling of these materials. *   **Logistical Arrangements:** The FBI will ensure a secure environment and separate review space for the defense team. *   **Ongoing Questions and Clarifications:** The defense team raised several questions regarding the process, including the availability of equipment, the handling of non-testifying witness statements, and access to a full inventory of physical evidence.",
+      "timestamp": "2021-04-08T00:00:00",
+      "timestamp_raw": "08 Apr 2021",
+      "keywords": [
+        "efta00015753",
+        "efta00015754",
+        "efta00015755",
+        "efta00015756",
+        "efta00015757",
+        "efta00015758",
+        "efta00015759",
+        "efta00015760",
+        "efta00015761",
+        "efta00015762",
+        "efta00015763",
+        "efta00015764",
+        "efta00015765",
+        "efta00015766",
+        "us v. maxwell",
+        "evidence",
+        "redaction",
+        "confidential",
+        "forensic",
+        "investigation",
+        "warehouse",
+        "fbi",
+        "legal",
+        "materials",
+        "review"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015786",
+      "summary": "v. Maxwell* (20 Cr. 330 (MN)). The review will primarily take place at 500 Pearl Street, facilitated by the Marshals and FBI. Key aspects of the plan include: *   **Scheduling:** The review is planned to begin around 8:30 AM daily, with the option to start earlier at 8:00 AM. *   **Location:** The review will occur in the proffer rooms on the 5th floor of 500 Pearl Street. *   **Evidence Transport:** The FBI will transport physical evidence to 500 Pearl Street for review. Some items (cash, certain electronics, bulky photos, and shredded paper) will *not* be transported due to their size, sensitivity, or other reasons. *   **Electronic Evidence:** The FBI will provide laptops for viewing and photographing highly confidential electronic images, although access will be limited to a single laptop. They will provide digital copies of the audio recordings, but won't be playable with a standard VCR. *   **Access & Restrictions:** The defense team will have access to the evidence, but photographic restrictions apply to “highly confidential” items. A private meeting space will be provided. *   **Maxwell’s Appearance:** Ms. Maxwell will be produced to 500 Pearl Street on April 13th and every day thereafter until the review is complete. *   **Spreadsheets:** The government provides updated spreadsheets indicating the designation of evidence (Confidential/Highly Confidential) and where items will be available for review. The correspondence outlines various questions and requests from the defense team regarding the evidence, logistics, and access, with the government responding to these requests and detailing the plan for the review.",
+      "timestamp": "2021-04-09T00:00:00",
+      "timestamp_raw": "09 Apr 2021",
+      "keywords": [
+        "evidence",
+        "review",
+        "fbi",
+        "marshals",
+        "maxwell",
+        "500 pearl",
+        "bronx warehouse",
+        "discovery",
+        "photos",
+        "electronic data",
+        "discs",
+        "shredded paper",
+        "defense team",
+        "access",
+        "confidential",
+        "highly confidential"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00026872",
+            "similarity": 0.5,
+            "index": 86,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00026890",
+      "summary": "Maxwell* (20 Cr. 330 (MN)). The prosecution (Assistant US Attorney) is arranging for the defense team (represented by Cohen & Gresser LLP and Haddon, Morgan & Foreman, P.C.) to view evidence at 500 Pearl Street, NYC. Key elements include: *   **Scheduling:** The review will begin April 13th, with daily sessions until the evidence is reviewed. The FBI will bring Ms. Maxwell to the location. *   **Evidence Transport:** The FBI will transport physical evidence, excluding certain items (massage tables, cash, etc.) designated as “highly confidential,” which the defense can photograph. *   **Electronic Evidence:** The FBI will make electronic evidence available on laptops. The defense will have access to view those media. *   **Room Arrangements:** The defense will use the largest proffer room at 500 Pearl Street. *   **Protocol:** There will be an FBI agent and AUSA present, with measures to ensure privacy during the review. Laura Menninger, representing the defense, requests clarification on the logistics, particularly regarding the handling of electronic evidence and the designation of “highly confidential” items. The parties are coordinating schedules and addressing logistical challenges for a smooth review process.",
+      "timestamp": "2021-04-12T00:00:00",
+      "timestamp_raw": "12 Apr 2021",
+      "keywords": [
+        "evidence",
+        "review",
+        "maxwell",
+        "fbi",
+        "marshals",
+        "500 pearl",
+        "bronx warehouse",
+        "documents",
+        "photographs",
+        "tennessee",
+        "electronic data",
+        "confidential",
+        "\"highly confidential\"",
+        "new york",
+        "discovery",
+        "discs",
+        "witness statements",
+        "laura menninger",
+        "christian everdell"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026872",
+      "summary": "Maxwell* (20 Cr. 330 (AJN)). *   **Evidence Viewing Plan:** The U.S. Attorney proposes a plan for reviewing the evidence, including a scheduled review at 500 Pearl Street starting April 13th, with the possibility of rotating days. The review would initially start at 8:30 AM and last until 4:30 PM each day. *   **Personnel Involved:** The communication involves a team including Laura Menninger, Christian Everdell (Cohen & Gresser LLP), Jeff Pagliuca (Cohen & Gresser LLP), Bobbi Sternheim, Jim Harkins, and Simek Shropshire.  The FBI and Marshals are also key players. *   **Specific Evidence Arrangements:** The U.S. Attorney is arranging for the FBI to transport the evidence to 500 Pearl Street.  They will provide a laptop for review of “highly confidential” electronic images. The FBI plans to bring Maxwell to 500 Pearl Street on April 13th. *   **Item Restrictions:**  Certain items (those designated \"highly confidential\") will not be photographed, unless authorized.  The FBI will not make duplicates of those items.  The shredded paper is currently being analyzed by the FBI lab. *   **Discovery Issues:**  Laura Menninger raises concerns about discrepancies in the inventory of evidence, specifically regarding the \"highly confidential\" electronic images that had not been previously provided.  The U.S. Attorney addresses this by explaining the process of obtaining and providing those images. *   **Logistical Details:** The communication addresses logistical considerations like space at 500 Pearl Street, the use of electronic devices, and arrangements for Ms. Maxwell's presence.",
+      "timestamp": "2021-04-12T00:00:00",
+      "timestamp_raw": "12 Apr 2021",
+      "keywords": [
+        "evidence",
+        "review",
+        "maxwell",
+        "fbi",
+        "marshals",
+        "bronx",
+        "500 pearl",
+        "photos",
+        "electronic data",
+        "discs",
+        "tennessee",
+        "discovery",
+        "witnesses",
+        "laura mennin",
+        "chris everdell",
+        "jim harkins",
+        "simek shropshire",
+        "camille delgado",
+        "confidential",
+        "highly confidential"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00015786",
+            "similarity": 0.5,
+            "index": 84,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031430",
+      "summary": "On April 13, 2021, a court order authorized Christian Everdell, Laura Menninger, and Jeffrey Pagliuca to bring specific electronic devices (iPhones, iPads, laptops) into the Southern District of New York Courthouse for the trial of *United States v. Ghislaine Maxwell* (20 Cr. 330 (AJN)). Access to SDNY Courtroom WI-Ft was granted for these devices, with authorization valid from April 12, 2021, to September 1, 2021. The order was subject to Standing Order M10-468, as Revised, and required the attorneys to present a copy of the order upon entry.",
+      "timestamp": "2021-04-13T00:00:00",
+      "timestamp_raw": "April 13, 2021",
+      "keywords": [
+        "efta00031430",
+        "southern district of new york",
+        "personal electronic devices",
+        "computing devices",
+        "united states v. ghislaine maxwell",
+        "standing order m10-468",
+        "courtroom wi-fi",
+        "attorney application",
+        "devices",
+        "order",
+        "trial"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031442",
+      "summary": "Law Clerk Nathan Chambers responded to David Oscar Markus’s request for permission to bring electronic devices into the courthouse for the U.S. v. Maxwell case (20-Cr-330). Chambers stated that all communications with Judge Nathan must be docketed on ECF unless a request to seal is made, and Judge Nathan does not issue electronic device orders for attorneys who haven’t appeared on ECF. He provided a link to the form for the order authorizing electronic devices. Markus, representing Ghislaine Maxwell, requested permission to bring his cell phone and laptop to the April 23rd arraignment and offered to provide a proposed order.",
+      "timestamp": "2021-04-14T00:00:00",
+      "timestamp_raw": "14 Apr 2021",
+      "keywords": [
+        "efta00031442",
+        "nathan nysd chambers",
+        "david oscar markus",
+        "u.s. v. maxwell",
+        "electronic devices",
+        "court order",
+        "permission",
+        "courthouse",
+        "judge nathan",
+        "ecf"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015636",
+      "summary": "*   **Initial Requests:** Christian Everdell (USANYS) is requesting specific files and metadata from a vendor (EFTA00015636) regarding recovered electronic devices and photographs. *   **Metadata Issues:** Key issues involve missing metadata associated with many electronic files and photographs recovered from Epstein’s devices, particularly files created or modified after the FBI seizure. The vendor is working to provide metadata overlays. *   **Missing Files:** There are gaps in production numbers (SDNY\\_GM\\_02742044 to 2742183) and unrecovered files (specifically #3, #4, #5, #6, and #7). *   **CD Issues:** Certain photographs were initially produced from CDs that were not processed by CART, leading to missing CART numbers and associated metadata. *   **Delivery Concerns:** There are questions about delivering the discovery materials to Jane Maxwell (USANYS), focusing on the inability of her laptop to read certain file types. *   **Ongoing Investigation:** The parties are coordinating efforts to resolve the metadata issues and ensure the complete delivery of the required discovery materials.",
+      "timestamp": "2021-04-23T00:00:00",
+      "timestamp_raw": "23 Apr 2021",
+      "keywords": [
+        "efta00015636",
+        "discovery issues",
+        "metadata",
+        "epstein",
+        "fbi",
+        "cart",
+        "cd",
+        "hard drive",
+        "metadata overlay",
+        "bates numbers",
+        "sdny",
+        "2021",
+        "2020"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027305",
+      "summary": "An Assistant United States Attorney requested assistance from MDC’s IT department to resolve a technical issue with Ghislaine Maxwell’s laptop. Specifically, Maxwell’s attorney reported difficulty reviewing discovery audio recordings due to a malfunctioning audio jack, and suggested enabling headphone use through IT support.",
+      "timestamp": "2021-08-10T00:00:00",
+      "timestamp_raw": "10 Aug 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "laptop",
+        "audio recordings",
+        "mdc",
+        "it department",
+        "redaction",
+        "discovery",
+        "united states attorney",
+        "southern district of new york",
+        "new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031254",
+      "summary": "On November 28, 2021, a court order was issued granting attorneys the authorization to bring specific HP laptops (model 318) into the Southern District of New York Courthouse for use in the trial of *United States vs. Ghislaine Maxwell* (S2 20 Cr. 330). The authorization period is from November 29, 2021, to January 15, 2022. SDNY Courtroom WI-Fl access was provided for the devices.  Attorneys must present a copy of the order upon entry.",
+      "timestamp": "2021-11-28T00:00:00",
+      "timestamp_raw": "November 28, 2021",
+      "keywords": [
+        "efta00031254",
+        "southern district of new york",
+        "ghislaine maxwell",
+        "personal electronic devices",
+        "computing devices",
+        "courtroom wifi",
+        "standing order m10-468",
+        "united states v.",
+        "application",
+        "devices",
+        "trial"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038465",
+      "summary": "The document details a collection of electronic devices and media, organized by serial numbers and quantities. It includes: *   **Computers & Accessories:** Silver and gray Apple desktops and laptops, HP, Dell, MSI, Lenovo, and Toshiba computers, keyboards, mice, USB drives (including Data Traveler, Mentor Media, and EMTEC models), SD cards, and adapters. *   **Storage Devices:** Seagate Hard Drives (various capacities), Apple Backup Plus Portable Drive, and a 1TB Seagate Barracuda drive. *   **Cameras & Recorders:** Sony cameras, Olympus recorders, a Radio Shack recorder, and an iPod Shuffle. *   **Networking Equipment:** Unifi Cloud Key and Unifi Video NVR. *   **Mobile Devices:** iPhones (including IMEI number 357201093322785), iPads (various models and serial numbers), and an iPod shuffle. *   **Media:** Assorted CDs and discs. The items are grouped under the reference codes EFTA00038465 through EFTA00038469.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "usb drives",
+        "hard drives",
+        "apple",
+        "ipad",
+        "mac",
+        "computer",
+        "iphone",
+        "cd's",
+        "seagate",
+        "sony",
+        "camera",
+        "laptop",
+        "samsung",
+        "data traveler",
+        "black",
+        "silver",
+        "grey",
+        "keyboard",
+        "mouse",
+        "usb adapter"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015911",
+      "summary": "Bobbi Sternheim is requesting permission for Ghislaine Maxwell to use a laptop instead of an MDC computer due to the latter’s limitations. Concerns are raised regarding Maxwell’s restrictive cell conditions, including frequent intrusive searches, surveillance, and lack of basic necessities like blankets and newspapers. The inconsistent security staff and the disruption to her legal work are also highlighted. A COVID-19 notice indicates the West 19th Street office is closed and operations are conducted remotely.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "ghislaine maxwell",
+        "laptop",
+        "restrictions",
+        "confinement",
+        "surveillance",
+        "legal work",
+        "covid-19",
+        "west 19th street",
+        "bobbi c. sternheim",
+        "mdc"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00015908",
+            "similarity": 0.538,
+            "index": 55,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037915",
+      "summary": "The document details evidence collected from multiple locations, categorized by source type. Hard drives labeled as evidence from the original Florida case (50D-NY-3027571) include Seagate and 1B35-1B37 drives. MAC computers from New York include models with serial numbers such as 1B28, 1B70, 1B59, and various loose media items like SD cards and USB drives (1841, 1844, 1846, 1898, 18107, 18121, 1883, 1884, 1867, 1868, 1871, 1872). Additionally, there is evidence from an ISLAND location, including an HP laptop (1B97), a Red Nikon camera, and other associated items (1B99, 1B99, 1B99, 1B99). Cell phone extractions are also listed with varying serial numbers.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00037915",
+        "jeffrey epstein",
+        "evidence",
+        "hard drives",
+        "new york",
+        "mac computers",
+        "windows computers",
+        "apple desktop computer",
+        "usb",
+        "sd card"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    }
+  ]
+}

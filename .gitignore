@@ -1,0 +1,31 @@
+# Source data (not needed for web deployment)
+Original Files/
+Summary and Keywords/
+
+# Python scripts (keep for open source, but warn about paths)
+# *.py
+__pycache__/
+*.pyc
+
+# Documentation (keep for open source)
+# *.md
+
+# Analysis output (old version)
+analysis_results.json
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-*
+
+# Environment and config files (if any)
+.env
+.env.local
+config.local.py
+secrets.json

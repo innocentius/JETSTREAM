@@ -1,0 +1,1023 @@
+{
+  "keyword": "2019-07-01",
+  "count": 27,
+  "keyword_match_count": 27,
+  "content_match_count": 0,
+  "total_files": 27,
+  "timeline": [
+    {
+      "file_id": "EFTA00037481",
+      "summary": "A planning/coordination meeting occurred on 2019-07-01 from 19:30:00 to 20:00:00 +0000 at SDNY with Epstein. The meeting was organized on 2019-06-27 and has a priority of 5. A reminder alarm was set to display a message 1 hour before the start. The document is classified as X-PERSONAL and is identified as EFTA00037481.",
+      "timestamp": "2019-07-01T00:00:00",
+      "timestamp_raw": "2019-07-01",
+      "keywords": [
+        "efta00037481",
+        "sdny",
+        "epstein",
+        "meeting",
+        "planning",
+        "coordination",
+        "2019-07-01",
+        "event",
+        "redaction analysis",
+        "personal"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00037482",
+            "similarity": 0.538,
+            "index": 3,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037483",
+            "similarity": 0.538,
+            "index": 4,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037484",
+            "similarity": 0.583,
+            "index": 6,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00010581",
+      "summary": "On 2019-07-01 from 20:00 to 21:00, Geoffrey Berman (USANYS) organized the “Epstein Press Meeting” at the 8th Floor Library. The event was classified as X-PERSONAL. The record was created on 2019-06-28 and last modified on the same date.",
+      "timestamp": "2019-07-01T00:00:00",
+      "timestamp_raw": "2019-07-01",
+      "keywords": [
+        "efta00010581",
+        "epstein press meeting",
+        "geoffrey berman",
+        "2019-07-01",
+        "redaction",
+        "usanys",
+        "personal",
+        "event",
+        "library",
+        "2019-06-28"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037480",
+      "summary": "An event occurred on 2019-07-01 from 19:30:00 to 20:00:00 +0000 involving a planning/coordination meeting with SDNY and Epstein. Attendees included (NY), FBI [REDACTED], and [REDACTED]. The event was classified as X-PERSONAL, created on 2019-06-27, modified on 2019-06-28, and assigned a priority of 5.",
+      "timestamp": "2019-07-01T00:00:00",
+      "timestamp_raw": "2019-07-01",
+      "keywords": [
+        "efta00037480",
+        "sdny",
+        "epstein",
+        "meeting",
+        "planning",
+        "coordination",
+        "redaction",
+        "x-personal",
+        "2019-07-01",
+        "fbi"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00037483",
+            "similarity": 0.538,
+            "index": 4,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037785",
+            "similarity": 0.538,
+            "index": 5,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037457",
+            "similarity": 0.818,
+            "index": 7,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037482",
+      "summary": "On 2019-07-01 at 19:30:00 +0000, an X-PERSONAL meeting occurred between organizers, SDNY, and Epstein. The meeting took place in SDNY and was organized on 2019-06-27. The purpose of the meeting was to discuss the arrest plan. A reminder alarm was set to display one hour prior to the start time.",
+      "timestamp": "2019-07-01T00:00:00",
+      "timestamp_raw": "2019-07-01",
+      "keywords": [
+        "efta00037482",
+        "sdny",
+        "epstein",
+        "arrest plan",
+        "meeting",
+        "coordination",
+        "2019-07-01",
+        "personal",
+        "reminder",
+        "event"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037481",
+            "similarity": 0.538,
+            "index": 0,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00037484",
+            "similarity": 0.583,
+            "index": 6,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037784",
+            "similarity": 0.583,
+            "index": 14,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037786",
+            "similarity": 0.538,
+            "index": 18,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037483",
+      "summary": "An FBI-organized meeting took place on 2019-07-01 from 19:30 to 20:00 at SDNY to discuss an arrest plan involving Epstein. The meeting was classified as X-PERSONAL.",
+      "timestamp": "2019-07-01T00:00:00",
+      "timestamp_raw": "2019-07-01",
+      "keywords": [
+        "efta00037483",
+        "sdny",
+        "epstein",
+        "arrest plan",
+        "meeting",
+        "coordination",
+        "fbi",
+        "2019-07-01",
+        "planning",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037480",
+            "similarity": 0.538,
+            "index": 2,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037481",
+            "similarity": 0.538,
+            "index": 0,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00037457",
+            "similarity": 0.538,
+            "index": 7,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037785",
+      "summary": "A planning/coordination meeting took place on 2019-07-01 from 19:30:00 to 20:00:00 +0000 in SDNY, involving Epstein. The meeting was organized on 2019-06-27 and had a priority of 5. A reminder alarm was set to display 15 minutes prior to the start. The document is labeled EFTA00037785.",
+      "timestamp": "2019-07-01T00:00:00",
+      "timestamp_raw": "2019-07-01",
+      "keywords": [
+        "efta00037785",
+        "sdny",
+        "epstein",
+        "meeting",
+        "planning",
+        "coordination",
+        "2019-07-01",
+        "reminder",
+        "x-personal",
+        "alarm"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037480",
+            "similarity": 0.538,
+            "index": 2,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00037484",
+            "similarity": 0.583,
+            "index": 6,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037457",
+            "similarity": 0.538,
+            "index": 7,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037784",
+            "similarity": 0.583,
+            "index": 14,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037484",
+      "summary": "A planning/coordination meeting took place on 2019-07-01 from 18:30:00 to 19:00:00 +0000 in SDNY with Epstein. The meeting was organized on 2019-06-28 and had a priority of 5. A reminder alarm was set to display one hour before the start. The document is identified as EFTA00037484.",
+      "timestamp": "2019-07-01T00:00:00",
+      "timestamp_raw": "2019-07-01",
+      "keywords": [
+        "efta00037484",
+        "sdny",
+        "epstein",
+        "meeting",
+        "planning",
+        "coordination",
+        "2019-07-01",
+        "event",
+        "reminder"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037785",
+            "similarity": 0.583,
+            "index": 5,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037482",
+            "similarity": 0.583,
+            "index": 3,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037481",
+            "similarity": 0.583,
+            "index": 0,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00037784",
+            "similarity": 0.636,
+            "index": 14,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037786",
+            "similarity": 0.583,
+            "index": 18,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037781",
+            "similarity": 0.583,
+            "index": 20,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037457",
+      "summary": "An event occurred on 2019-07-01 from 18:30:00 to 19:00:00 +0000, classified as X-PERSONAL, involving a planning/coordination meeting with SDNY and Epstein. Attendees included M, M1 (NY) (FBI) [REDACTED] [REDACTED]. The event was created on 2019-06-28 and last modified on 2019-08-01. Priority was set to 5.",
+      "timestamp": "2019-07-01T00:00:00",
+      "timestamp_raw": "2019-07-01",
+      "keywords": [
+        "efta00037457",
+        "sdny",
+        "epstein",
+        "meeting",
+        "planning",
+        "coordination",
+        "2019-07-01",
+        "x-personal",
+        "redaction",
+        "fbi"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037785",
+            "similarity": 0.538,
+            "index": 5,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037483",
+            "similarity": 0.538,
+            "index": 4,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037480",
+            "similarity": 0.818,
+            "index": 2,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00037853",
+            "similarity": 0.538,
+            "index": 19,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037781",
+            "similarity": 0.538,
+            "index": 20,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037782",
+            "similarity": 0.538,
+            "index": 21,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00024821",
+      "summary": "On 2019-07-01 from 20:00 to 21:00, at the 8th Floor Library, an “X-PERSONAL” event occurred titled “Epstein Press Meeting” attended by EFTA00024821. The event was created on 2019-07-01 at 03:01:06 +0000 and last modified on the same date and time.  It had a priority of 5.",
+      "timestamp": "2019-07-01T00:00:00",
+      "timestamp_raw": "2019-07-01",
+      "keywords": [
+        "epstein press meeting",
+        "2019-07-01",
+        "x-personal",
+        "efta00024821",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00014297",
+            "similarity": 0.571,
+            "index": 17,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00030237",
+      "summary": "An email was sent from \"S\" to \")\" ale on July 1, 2019, regarding “latest,” attached was a document named “2019-07-01,_JE,first_indictment.docx,” identified as EFTA00030237.",
+      "timestamp": "2019-07-01T00:00:00",
+      "timestamp_raw": "July 1, 2019",
+      "keywords": [
+        "efta00030237",
+        "indictment",
+        "2019-07-01",
+        "first",
+        "analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014465",
+      "summary": "On July 1, 2019, Jeffrey Epstein held a meeting with the FBI, lasting from 19:30:00 to 20:30:00 GMT. The meeting was organized by [REDACTED]. The event was classified as X-PERSONAL.",
+      "timestamp": "2019-07-01T00:00:00",
+      "timestamp_raw": "July 1, 2019",
+      "keywords": [
+        "efta00014465",
+        "epstein",
+        "fbi",
+        "meeting",
+        "redaction",
+        "2019-07-01",
+        "x-personal",
+        "event",
+        "date",
+        "op"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00014463",
+            "similarity": 0.538,
+            "index": 13,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037478",
+      "summary": "On July 1, 2019, at 7:30 PM, Sean P. Watson (FBI) organized a planning/coordination meeting with SDNY and Epstein at SDNY. The meeting’s purpose was to discuss an arrest plan and confirm alignment among parties. The event was classified as X-PERSONAL, created on June 27, 2019, and had a priority of 5. A reminder was set to display 15 minutes prior to the start.",
+      "timestamp": "2019-07-01T00:00:00",
+      "timestamp_raw": "July 1, 2019",
+      "keywords": [
+        "efta00037478",
+        "sdny",
+        "epstein",
+        "planning meeting",
+        "arrest plan",
+        "coordination",
+        "fbi",
+        "watson",
+        "sean p.",
+        "2019-07-01"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014285",
+      "summary": "On 2019-07-01 from 20:00 to 21:00, at the 8th Floor Library, an “Epstein Press Meeting” (Class: X-PERSONAL) occurred, attended by EFTA00014285. The event was created on 2019-06-28 and has a priority of 5.",
+      "timestamp": "2019-07-01T00:00:00",
+      "timestamp_raw": "2019-07-01",
+      "keywords": [
+        "efta00014285",
+        "epstein press meeting",
+        "2019-07-01",
+        "x-personal",
+        "event",
+        "date created",
+        "date modified"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014463",
+      "summary": "An FBI meeting occurred on 2019-07-01 from 19:30:00 to 20:30:00 involving Jeffrey Epstein and an individual identified as (USANYS) <, organized by (USANYS) [REDACTED]. The event was classified as X-PERSONAL, created on 2019-06-27, and assigned a priority of 5. A reminder was set to display a message 15 minutes before the start.",
+      "timestamp": "2019-07-01T00:00:00",
+      "timestamp_raw": "2019-07-01",
+      "keywords": [
+        "epstein",
+        "fbi",
+        "meeting",
+        "redaction",
+        "2019-07-01",
+        "usanys",
+        "x-personal",
+        "event",
+        "alarm",
+        "reminder"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00014465",
+            "similarity": 0.538,
+            "index": 10,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00021246",
+            "similarity": 0.538,
+            "index": 22,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037784",
+      "summary": "A planning/coordination meeting took place on 2019-07-01 from 19:30:00 to 20:00:00 +0000 at SDNY with Epstein. The meeting was organized on 2019-06-27 and had a priority of 5. A reminder alarm was set to display 15 minutes prior to the start. The document is identified as EFTA00037784.",
+      "timestamp": "2019-07-01T00:00:00",
+      "timestamp_raw": "2019-07-01",
+      "keywords": [
+        "efta00037784",
+        "sdny",
+        "epstein",
+        "meeting",
+        "coordination",
+        "2019-07-01",
+        "planning",
+        "personal",
+        "reminder"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037484",
+            "similarity": 0.636,
+            "index": 6,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037785",
+            "similarity": 0.583,
+            "index": 5,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037482",
+            "similarity": 0.583,
+            "index": 3,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00037786",
+            "similarity": 0.583,
+            "index": 18,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037787",
+            "similarity": 0.583,
+            "index": 24,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00010576",
+      "summary": "On 2019-07-01 from 19:30:00 to 20:30:00, Jeffrey Epstein attended a meeting with the FBI, categorized as “X-PERSONAL.” The event was organized on 2019-06-27.",
+      "timestamp": "2019-07-01T00:00:00",
+      "timestamp_raw": "2019-07-01",
+      "keywords": [
+        "epstein",
+        "fbi",
+        "meeting",
+        "2019-07-01",
+        "x-personal",
+        "redaction analysis",
+        "efta00010576"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00021248",
+            "similarity": 0.625,
+            "index": 23,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00021269",
+      "summary": "On 2019-07-01 from 20:00 to 21:00, Geoffrey Berman (USANYS) organized the “Epstein Press Meeting” at the 8th Floor Library. The event was classified as X-PERSONAL.",
+      "timestamp": "2019-07-01T00:00:00",
+      "timestamp_raw": "2019-07-01",
+      "keywords": [
+        "efta00021269",
+        "epstein press meeting",
+        "geoffrey berman",
+        "usanys",
+        "redaction",
+        "2019-07-01",
+        "8th floor library",
+        "x-personal",
+        "event",
+        "date created"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014297",
+      "summary": "An event named \"Epstein Press Meeting\" occurred on 2019-07-01 from 20:00:00 to 21:00:00 +0000. The event is classified as X-PERSONAL and was created on 2019-06-28.  The identifier for this event is EFTA00014297.",
+      "timestamp": "2019-07-01T00:00:00",
+      "timestamp_raw": "2019-07-01",
+      "keywords": [
+        "epstein press meeting",
+        "2019-07-01",
+        "event",
+        "x-personal",
+        "redaction analysis",
+        "efta00014297"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00024821",
+            "similarity": 0.571,
+            "index": 8,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037786",
+      "summary": "A planning/coordination meeting took place on 2019-07-01 from 18:30:00 to 19:00:00 +0000 at SDNY, involving EFTA00037786 and Epstein. The meeting was organized on 2019-07-02 with a priority of 5.",
+      "timestamp": "2019-07-01T00:00:00",
+      "timestamp_raw": "2019-07-01",
+      "keywords": [
+        "efta00037786",
+        "sdny",
+        "epstein",
+        "meeting",
+        "planning",
+        "coordination",
+        "2019-07-01",
+        "event",
+        "personal",
+        "date created"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037784",
+            "similarity": 0.583,
+            "index": 14,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037484",
+            "similarity": 0.583,
+            "index": 6,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037482",
+            "similarity": 0.538,
+            "index": 3,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00037853",
+            "similarity": 0.538,
+            "index": 19,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037781",
+            "similarity": 0.667,
+            "index": 20,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037782",
+            "similarity": 0.667,
+            "index": 21,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037853",
+      "summary": "On July 1, 2019, at 6:30 PM, an X-PERSONAL planning/coordination meeting took place in SDNY with Epstein, designated as EFTA00037853. The meeting was created on June 28, 2019, and had a priority level of 5.",
+      "timestamp": "2019-07-01T00:00:00",
+      "timestamp_raw": "July 1, 2019",
+      "keywords": [
+        "efta00037853",
+        "sdny",
+        "epstein",
+        "meeting",
+        "planning",
+        "coordination",
+        "2019-07-01",
+        "x-personal",
+        "date created",
+        "date modified"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037786",
+            "similarity": 0.538,
+            "index": 18,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037457",
+            "similarity": 0.538,
+            "index": 7,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037785",
+            "similarity": 0.538,
+            "index": 5,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00037781",
+            "similarity": 0.667,
+            "index": 20,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037782",
+            "similarity": 0.667,
+            "index": 21,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037787",
+            "similarity": 0.538,
+            "index": 24,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037781",
+      "summary": "On 2019-07-01 from 19:30:00 to 20:00:00, there was a planning/coordination meeting with SDNY and Epstein, held in SDNY. The event was marked as X-PERSONAL, created on 2019-06-27, and had a priority of 5.",
+      "timestamp": "2019-07-01T00:00:00",
+      "timestamp_raw": "2019-07-01",
+      "keywords": [
+        "efta00037781",
+        "sdny",
+        "epstein",
+        "meeting",
+        "planning",
+        "coordination",
+        "2019-07-01",
+        "x-personal",
+        "event",
+        "date created"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037853",
+            "similarity": 0.667,
+            "index": 19,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037786",
+            "similarity": 0.667,
+            "index": 18,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037457",
+            "similarity": 0.538,
+            "index": 7,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00037782",
+            "similarity": 0.818,
+            "index": 21,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00037787",
+            "similarity": 0.538,
+            "index": 24,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037782",
+      "summary": "On 2019-07-01 from 19:30:00 to 20:00:00, an X-PERSONAL meeting was held in SDNY with Epstein, regarding planning/coordination. The event was created on 2019-06-27 and modified on the same date.  The priority was 5.",
+      "timestamp": "2019-07-01T00:00:00",
+      "timestamp_raw": "2019-07-01",
+      "keywords": [
+        "efta00037782",
+        "sdny",
+        "epstein",
+        "meeting",
+        "planning",
+        "coordination",
+        "2019-07-01",
+        "x-personal",
+        "event",
+        "date created"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037781",
+            "similarity": 0.818,
+            "index": 20,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00037853",
+            "similarity": 0.667,
+            "index": 19,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037786",
+            "similarity": 0.667,
+            "index": 18,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00037787",
+            "similarity": 0.538,
+            "index": 24,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00021246",
+      "summary": "On July 1, 2019, at 7:30 PM, Jeffrey Epstein held a meeting with the FBI, organized by (USANYS) [REDACTED]. The meeting lasted from 8:30 PM to 9:30 PM. This event was classified as X-PERSONAL.",
+      "timestamp": "2019-07-01T00:00:00",
+      "timestamp_raw": "July 1, 2019",
+      "keywords": [
+        "epstein",
+        "fbi",
+        "meeting",
+        "2019-07-01",
+        "redaction",
+        "usanys",
+        "x-personal",
+        "date created",
+        "date modified",
+        "dtstamp"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00014463",
+            "similarity": 0.538,
+            "index": 13,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021248",
+      "summary": "On 2019-07-01 from 19:30:00 to 20:30:00 UTC, there was an “X-PERSONAL” classified meeting titled “Epstein Op Meeting with FBI” (EFTA00021248). The event was created on 2019-06-27 and has a priority of 5.",
+      "timestamp": "2019-07-01T00:00:00",
+      "timestamp_raw": "2019-07-01",
+      "keywords": [
+        "epstein",
+        "fbi",
+        "meeting",
+        "2019-07-01",
+        "x-personal",
+        "efta00021248"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00010576",
+            "similarity": 0.625,
+            "index": 15,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037787",
+      "summary": "A planning/coordination meeting occurred on 2019-07-01 from 18:30:00 to 19:00:00 +0000, organized by SDNY with Epstein. The meeting was classified as X-PERSONAL. It was created on 2019-06-28 and last modified on 2019-07-30. The priority was 5, and a reminder was set to display a message 15 minutes before the start. The document is associated with EFTA00037787.",
+      "timestamp": "2019-07-01T00:00:00",
+      "timestamp_raw": "2019-07-01",
+      "keywords": [
+        "efta00037787",
+        "sdny",
+        "epstein",
+        "meeting",
+        "planning",
+        "coordination",
+        "2019-07-01",
+        "x-personal",
+        "reminder",
+        "alarm"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037782",
+            "similarity": 0.538,
+            "index": 21,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037781",
+            "similarity": 0.538,
+            "index": 20,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037853",
+            "similarity": 0.538,
+            "index": 19,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018557",
+      "summary": "This email, dated June 12, 2020, discusses the indictment of Jeffrey Epstein. An attached document, “JEUIrst_indictment,_final.docx,” appears to be the finalized indictment. Geoffrey Berman is copied on the email.",
+      "timestamp": "2020-06-12T00:00:00",
+      "timestamp_raw": "June 12, 2020",
+      "keywords": [
+        "epstein",
+        "indictment",
+        "efta00018557",
+        "geoffrey berman",
+        "usanys",
+        "2019-07-01"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023754",
+      "summary": "An email dated June 12, 2020, concerns an indictment related to Jeffrey Epstein. The email includes a document titled “2019-07-01,_JE,_first_indictrnent,_final.docx” and is marked as “EFTA00023754”. The recipient is redacted.",
+      "timestamp": "2020-06-12T00:00:00",
+      "timestamp_raw": "June 12, 2020",
+      "keywords": [
+        "epstein",
+        "indictment",
+        "redaction",
+        "efta00023754",
+        "2020",
+        "2019-07-01"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    }
+  ]
+}

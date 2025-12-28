@@ -1,0 +1,1852 @@
+{
+  "keyword": "press release",
+  "count": 43,
+  "keyword_match_count": 43,
+  "content_match_count": 23,
+  "total_files": 66,
+  "timeline": [
+    {
+      "file_id": "EFTA00013952",
+      "summary": "On September 19, 2008, Michele Dargan, a staff writer for the Palm Beach Daily News, contacted the U.S. Attorney’s Office regarding the non-prosecution agreement involving Jeffrey Epstein. She was seeking clarification on the decision not to prosecute Epstein federally, citing court records indicating potential federal prosecution upon violation of the state agreement. Multiple individuals within the U.S. Attorney’s Office responded with “no comment,” one assistant U.S. attorney stating he was finishing a press release and another stating he would follow up with a “big no comment.”",
+      "timestamp": "2008-09-19T00:00:00",
+      "timestamp_raw": "September 19, 2008",
+      "keywords": [
+        "jeffrey epstein",
+        "u.s. attorney",
+        "non-prosecution agreement",
+        "state plea agreement",
+        "federal prosecution",
+        "deadline",
+        "michele dargan",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028452",
+      "summary": "The investigation originated in Florida and is now primarily occurring in New York. *   **Collaboration:** The Southern District of New York’s Assistant U.S. Attorney is coordinating with a recipient to manage victim notification and communication. *   **FBI Involvement:** The FBI (C-20 squad and TFO officer) is actively involved, including data base entry and potential notification at the time of arrest. *   **Victim Contact:** The recipient is responsible for managing victim contact information, including a 800 number (866-874-8900) and notifying victims of charges and court dates. *   **Sensitivity:** There's a heightened awareness due to a previous U.S. Attorney’s Office failure to meet victims’ rights obligations, necessitating careful coordination. *   **Transition:** Need for seamless information exchange between the Southern District of New York, the USAO, and the FBI.",
+      "timestamp": "2019-06-26T00:00:00",
+      "timestamp_raw": "26 Jun 2019",
+      "keywords": [
+        "fbi",
+        "victims",
+        "investigation",
+        "press release",
+        "800 number",
+        "florida",
+        "new york",
+        "case",
+        "coordination",
+        "database"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035656",
+      "summary": "An email chain discusses the death of inmate Epstein at MCC New York. Key details include: Epstein’s next of kin was not notified, staff initiated life-saving measures upon finding him, EMS and BOP staff transported him to the local hospital, EMS pronounced him dead at the hospital at 7:36 am, the FBI was notified and investigating it as a suicide, Epstein’s arrival date at MCC NY was July 6, 2019, and his charges are Sex Trafficking Conspiracy and Sex Trafficking of Minors.",
+      "timestamp": "2019-07-06T00:00:00",
+      "timestamp_raw": "July 6, 2019",
+      "keywords": [
+        "epstein",
+        "mcc new york",
+        "press release",
+        "samsung",
+        "fbi",
+        "suicide",
+        "sex trafficking",
+        "life-saving measures",
+        "ems",
+        "bop"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00035418",
+            "similarity": 0.667,
+            "index": 19,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035420",
+            "similarity": 1.0,
+            "index": 22,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00035416",
+            "similarity": 0.538,
+            "index": 23,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00026626",
+      "summary": "An email exchange discusses the wording of a press release regarding a “JE Release,” specifically concerning a statement thanking the FBI, New York City Police Department (NYPD), and Customs and Border Patrol (CBP) for their assistance in an investigation. A draft press release includes a proposed addition thanking NYPD and CBP, and the sender requests feedback on this addition and its placement within the remarks. The NYPD is noted as a task force partner with the FBI on the Crimes Against Children Squad, requiring a co-announce with them.  A request is made for a sentence to be circulated for inclusion in the remarks and press release.",
+      "timestamp": "2019-07-07T00:00:00",
+      "timestamp_raw": "07 Jul 2019",
+      "keywords": [
+        "fbi",
+        "nypd",
+        "customs and border patrol",
+        "press release",
+        "investigation",
+        "berman",
+        "new york city",
+        "release",
+        "thank you",
+        "dcpi"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021279",
+      "summary": "The FBI contacted Kaplan Hecker and others, including two other victims and their attorneys, regarding a Daily Beast article about Jeffrey Epstein’s arrest. The Public Corruption Unit of the Southern District of New York, along with human-trafficking officials and the FBI, is handling the case involving the leaked press release, sealed indictment, and details of the arrest shared by two officials.  The Daily Beast article referenced the indictment.",
+      "timestamp": "2019-07-07T00:00:00",
+      "timestamp_raw": "07 Jul 2019",
+      "keywords": [
+        "fbi",
+        "epstein",
+        "sex trafficking",
+        "daily beast",
+        "indictment",
+        "public corruption unit",
+        "new york",
+        "kaplan hecker",
+        "redaction analysis",
+        "efta00021279"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015348",
+      "summary": "On July 12, 2019, the United States Attorney’s Office for the Southern District of New York issued draft press guidance for Monday, July 15, 2019. The guidance detailed a detention hearing scheduled for 10:00 a.m. in U.S. v. Jeffrey Epstein, where he is charged with sex trafficking of minors and conspiracy to commit sex trafficking of minors, before Judge Berman. A press release regarding the indictment was attached.",
+      "timestamp": "2019-07-12T00:00:00",
+      "timestamp_raw": "July 12, 2019",
+      "keywords": [
+        "efta00015348",
+        "jeffrey epstein",
+        "press guidance",
+        "sdny",
+        "july 15",
+        "2019",
+        "detention hearing",
+        "sex trafficking",
+        "united states attorney",
+        "prosecution",
+        "press release"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034505",
+      "summary": "On August 9, 2019, Jeffrey Epstein was unresponsive in his cell at 6:33 am, triggering a medical emergency and CPR. Medical personnel transported him to Beekman Hospital where he was pronounced dead at 7:36 am. Following the incident, law enforcement, including the FBI and various legal and investigative teams, responded to the institution. Procedures included fingerprinting, photography, securing clothing, notifying family, issuing a press release, and scheduling an autopsy performed by the Medical Examiner. The Office of the Inspector General (OIG) also investigated the incident.",
+      "timestamp": "2019-08-09T00:00:00",
+      "timestamp_raw": "August 9, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "suicide",
+        "shu",
+        "cpr",
+        "aed",
+        "medical emergency",
+        "beekman hospital",
+        "fbi",
+        "autopsy",
+        "time of death"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00035445",
+            "similarity": 0.538,
+            "index": 7,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035461",
+            "similarity": 0.571,
+            "index": 8,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035445",
+      "summary": "Around 6:33 AM, a body alarm was triggered, and staff discovered him unresponsive. Medical personnel initiated CPR and other life-saving measures, eventually intubating him and transporting him to Beekman Hospital. He was pronounced dead at 7:36 AM. The following events occurred: *   **Immediate Response (August 9):**  Initial calls to emergency services, USMS, SIS, FBI, and various institutional staff (Warden, Psychologist, Captain, etc.) were made. Reyes, Epstein’s cellmate, was released from court and did not return to the institution. *   **Investigation (August 9-11):**  Investigators, including the FBI, OIG, medical examiners, and computer services personnel, conducted interviews, took fingerprints and photographs, secured clothing, and removed computers from Epstein’s cell. The Medical Examiner performed an autopsy, and a press release was issued. *   **Evidence Collection (August 10-11):**  The OIG and FBI collected computer evidence (two FPS computers), and the Computer Services Manager replaced the seized computers. The timeline concluded with the removal of the computers and the departure of OIG/FBI personnel from the MCC New York.",
+      "timestamp": "2019-08-09T00:00:00",
+      "timestamp_raw": "August 9, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "reyes",
+        "shu",
+        "cpr",
+        "autopsy",
+        "beekman hospital",
+        "fbi",
+        "ems",
+        "medical examiner",
+        "time of death"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034505",
+            "similarity": 0.538,
+            "index": 6,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00035461",
+            "similarity": 0.571,
+            "index": 8,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035461",
+      "summary": "CPR and various medical interventions were attempted. Emergency services were called, and he was transported to Beekman Hospital. A timeline of events followed, including notifications to various authorities (FBI, USMS, AUSA, Judge Berman), institutional staff, and psychological professionals.  A press release was issued, and the body was released to the Medical Examiner for autopsy. Investigations involved interviews with inmates, forensic examination (fingerprints, photos), computer removal and replacement, and involvement from the FBI, OIG, and correctional services personnel over several days. Normal operations resumed on August 11, 2019, with continued investigations extending into August 13, 2019 involving additional correctional services personnel.",
+      "timestamp": "2019-08-09T00:00:00",
+      "timestamp_raw": "August 9, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "suicide",
+        "shu",
+        "cpr",
+        "beekman hospital",
+        "fbi",
+        "autopsy",
+        "medical examiner",
+        "time of death",
+        "august 10",
+        "2019",
+        "coroner"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035445",
+            "similarity": 0.571,
+            "index": 7,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034505",
+            "similarity": 0.571,
+            "index": 6,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018964",
+      "summary": "On August 10, 2019, multiple individuals within the U.S. Attorney’s Office and related agencies received updates regarding the death of Jeffrey Epstein. Initial reports indicated Epstein had died, likely due to a suicide attempt, and was being transported to a hospital by ambulance. Concerns were raised about a lack of communication from the Bureau of Prisons (BOP) and the public release of information before counsel and family could be informed. A staff member indicated they were compiling an incident report and lacked specific details from the BOP. Another individual noted continued frantic calls from defense counsel due to press releases containing information not yet shared.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "epstein",
+        "bop",
+        "press release",
+        "death",
+        "inmate",
+        "suicide attempt",
+        "u.s. attorney's office",
+        "counsel",
+        "marshals",
+        "information"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00018966",
+            "similarity": 0.667,
+            "index": 11,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019757",
+            "similarity": 0.667,
+            "index": 24,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00018970",
+      "summary": "The document consists of a series of emails exchanged between individuals involved in the investigation surrounding the death of Jeffrey Epstein. Concerns are repeatedly raised regarding the flow of information, with defense counsel expressing frustration over receiving updates through the press before being officially informed. Key points include: *   Multiple individuals report receiving information about a claim of an individual contacting the hospital to arrange for the pickup of Epstein’s body. *   The BOP issued a press release about Epstein's death without providing essential details, prompting requests for a reliable update from defense counsel. *   There are questions about the legitimacy of the claims and the potential for misinformation circulating, particularly regarding contact with BOP and MCC personnel. *   Efforts are made to contact relevant authorities (FBI, DOJ-OIG, BOP, Marshals) to obtain accurate information and coordinate investigative efforts. *   A US Attorney is seeking immediate clarification regarding the circumstances of the death and the timeline of investigative steps.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "10 Aug 2019",
+      "keywords": [
+        "epstein",
+        "fbi",
+        "doj",
+        "bop",
+        "mcc",
+        "investigation",
+        "death",
+        "body",
+        "phone calls",
+        "hoax",
+        "counsel",
+        "usms",
+        "press release"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018966",
+      "summary": "On August 10, 2019, multiple individuals communicated regarding the death of a federal inmate, Jeffrey Epstein. Concerns were raised about the Bureau of Prisons (BOP) issuing public press releases without informing relevant legal counsel. Initial reports indicated Epstein’s death was due to a suicide attempt and that the BOP was compiling a report. Updates were provided by the BOP regarding the ambulance transport to the hospital and the ongoing incident report. A USMS official provided initial confirmation of Epstein's passing. Requests were made for immediate communication and basic factual information, specifically the time and cause of death, to relay to his attorneys.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "epstein",
+        "bop",
+        "press release",
+        "death",
+        "attorneys",
+        "u.s. attorney's office",
+        "suicide attempt",
+        "inmate",
+        "information",
+        "efta00018966"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00018964",
+            "similarity": 0.667,
+            "index": 9,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00019757",
+            "similarity": 0.667,
+            "index": 24,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00019764",
+      "summary": "An email chain discusses ongoing investigations related to the case of *US v. Epstein*. A press release from the Bureau of Prisons (BOP) was sent to Michael Miller, Marty, and Reid Weingarten, indicating investigations initiated by the Attorney General, including a potential FBI investigation into the cause of death. Further information regarding the apparent cause of death and Mr. Epstein’s observation status is pending.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "10 Aug 2019",
+      "keywords": [
+        "epstein",
+        "us v epstein",
+        "investigation",
+        "warden",
+        "attorney general",
+        "death",
+        "fbi",
+        "michael miller",
+        "reid weingarten",
+        "press release"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036680",
+      "summary": "On August 10, 2019, an email was sent regarding the death of Jeff Epstein, who died by apparent suicide at the Metropolitan Correctional Center (MCC). The email included a press release about the death and requested consideration for the staff’s time and space as they dealt with the situation. The email is marked as EFTA00036680.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "jeff epstein",
+        "suicide",
+        "mcc",
+        "press release",
+        "efta00036680"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035419",
+      "summary": "A press release was updated regarding Michael Epstein’s case, including his arrival date and official charges. The original press release was attached as TEXT.htm and MCC_Epstein.docx.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "10 Aug 2019",
+      "keywords": [
+        "efta00035419",
+        "mcc epstein",
+        "redaction analysis",
+        "press release",
+        "arrival date",
+        "charges"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034333",
+      "summary": "The document is a forwarded email chain concerning the death of Jeffrey Epstein at Metropolitan Correctional Center (MCC) New York. It includes questions regarding notification of Epstein’s next of kin, staff response to the discovery of his body, EMS and hospital involvement, FBI notification and investigation status, Epstein’s arrival date, and the specific charges against him. The email is dated August 10, 2019, and references related documents including a press release and text files.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "epstein",
+        "mcc new york",
+        "press release",
+        "redaction",
+        "fbi",
+        "suicide",
+        "ems",
+        "hospital staff",
+        "sentry",
+        "indicted"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00035657",
+            "similarity": 0.538,
+            "index": 25,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00024354",
+      "summary": "On August 10, 2019, communication occurred regarding the death of Jeffrey Epstein while incarcerated at the Metropolitan Correctional Center in New York. A Supervisory Staff Attorney from CLC New York requested information from the Bureau of Prisons (BOP) regarding the cause of death, time of death, and lead counsel for Epstein.  Multiple individuals reported updates, including that Epstein had died following an apparent suicide attempt and that a significant incident report was being prepared by the BOP. The sender indicated they would provide updates as they received them, and noted delays due to their vacation.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "epstein",
+        "bop",
+        "usms",
+        "counsel",
+        "warden",
+        "press release",
+        "suicide attempt",
+        "death",
+        "federal inmate",
+        "us attorney"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00024352",
+            "similarity": 0.667,
+            "index": 28,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00024356",
+            "similarity": 0.667,
+            "index": 29,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00013176",
+      "summary": "On August 10, 2019, multiple parties (defense counsel, a supervisory staff attorney, USMS, and BOP) received reports regarding the death of Jeffrey Epstein. A phone call was received claiming an MCC investigator informed Epstein’s close contact that Epstein’s body was ready for retrieval. Concerns arose regarding the premature public press release from the BOP and the lack of communication regarding basic facts, including the time and cause of death. Counsel demanded immediate updates and accurate information to relay to Epstein’s attorneys and family. The BOP provided an update stating Epstein was being taken to the hospital via ambulance due to a suicide attempt, but offered no further specifics. A USMS representative confirmed the update and stated they would push out updates as they received them.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "epstein",
+        "bop",
+        "mcc",
+        "investigation",
+        "autopsy",
+        "retrieval",
+        "defense counsel",
+        "press release",
+        "usms",
+        "death"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036648",
+      "summary": "On August 10, 2019, Sill sent a press release titled “Press Release – MCC New York” (PDF and .htm versions) to approximately 50 media outlets contacted by the Office of Prisoner Affairs (OPA). The Word document version was provided to OLA for potential use in responding to member inquiries.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "efta00036648",
+        "epstein",
+        "press release",
+        "media",
+        "opa",
+        "mcc ny",
+        "pdf",
+        "release",
+        "reporter",
+        "public information"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035418",
+      "summary": "The document is a forwarded email chain regarding the death of an individual named Epstein at Metropolitan Correctional Center (MCC) New York. The email, dated August 10, 2019, requests information concerning the circumstances of Epstein’s death, including notifications to his next of kin, details of initial response measures, EMS and hospital involvement, determination of death, FBI involvement and investigation status, arrival date at MCC, and specific offense titles. The email is part of a press release draft being prepared with IPPA.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "mcc",
+        "epstein",
+        "press release",
+        "samsung",
+        "ippa",
+        "life-saving measures",
+        "ems",
+        "fbi",
+        "suicide",
+        "sex trafficking"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035656",
+            "similarity": 0.667,
+            "index": 2,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00035420",
+            "similarity": 0.667,
+            "index": 22,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035431",
+            "similarity": 0.538,
+            "index": 26,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035432",
+            "similarity": 0.538,
+            "index": 30,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035361",
+      "summary": "A press release, finalized on August 10, 2019, concerning case EFTA00035361, is being distributed to approximately 50 reporters contacted by the Office of Public Affairs (OPA). The PDF version will be sent by MCC NY to the reporters. A separate Microsoft Word document is provided to the Office of Legal Assistance (OLA) for potential use in responding to Member inquiries.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "press release",
+        "pdf",
+        "opa",
+        "mcc ny",
+        "media",
+        "bureau of prisons",
+        "efta00035361",
+        "language",
+        "inquiries",
+        "public information office"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00034121",
+            "similarity": 0.538,
+            "index": 41,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00014348",
+      "summary": "On August 10, 2019, multiple individuals communicated regarding the death of Jeffrey Epstein, initially reported by the Bureau of Prisons (BOP). Concerns were raised about the public release of information by the BOP before key stakeholders (defense counsel, family) were notified.  Updates were relayed through US Marshals Service (USMS) communications, detailing the situation – an apparent suicide attempt, hospitalization, and subsequent death. One individual indicated they would be out of the office until August 12th, anticipating delays in responses.  The emails contained references to case identifiers EFTA00014348 and EFTA00014349.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "epstein",
+        "bop",
+        "usms",
+        "death",
+        "press release",
+        "attorney",
+        "subway",
+        "information",
+        "case",
+        "redaction"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035420",
+      "summary": "On August 10, 2019, EFTA00035420 sent an email regarding a draft press release concerning Alan Epstein’s death at Metropolitan Correctional Center (MCC) New York. Key details include: Epstein’s next of kin had not been notified, life-saving measures were initiated upon discovery, EMS and BOP staff transported him to the local hospital where he was pronounced dead at 7:36 am, the FBI was notified and investigating it as a potential suicide, Epstein’s arrival date at MCC NY was July 6, 2019, and his charges are Sex Trafficking Conspiracy and Sex Trafficking of Minors.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "epstein",
+        "mcc new york",
+        "press release",
+        "samsung",
+        "fbi",
+        "suicide",
+        "sex trafficking",
+        "life-saving measures",
+        "ems",
+        "bop"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035418",
+            "similarity": 0.667,
+            "index": 19,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035656",
+            "similarity": 1.0,
+            "index": 2,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00035416",
+            "similarity": 0.538,
+            "index": 23,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035657",
+            "similarity": 0.538,
+            "index": 25,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035431",
+            "similarity": 0.538,
+            "index": 26,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035416",
+      "summary": "The document contains questions related to the investigation into Michael Epstein’s death at Metropolitan Correctional Center (MCC) New York. The questions concern notifications to Epstein’s next of kin, staff response to his discovery, EMS and hospital involvement, FBI notification and investigation status, his arrival date at MCC, and specific offense details related to his indictment.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "10 Aug 2019",
+      "keywords": [
+        "epstein",
+        "mcc new york",
+        "press release",
+        "life-saving measures",
+        "fbi",
+        "suicide investigation",
+        "sex trafficking",
+        "next of kin",
+        "ems",
+        "hospital staff"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035420",
+            "similarity": 0.538,
+            "index": 22,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035656",
+            "similarity": 0.538,
+            "index": 2,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019757",
+      "summary": "On August 10, 2019, a supervisory staff attorney from CLC New York contacted colleagues regarding updates on the death of Jeffrey Epstein. The U.S. Attorney’s Office was receiving increasingly frantic calls from defense counsel due to press releases containing information they hadn’t received. The U.S. Attorney’s Office confirmed Epstein had passed and was being taken to the hospital following a suicide attempt, but provided limited details. An employee reported completing a significant incident report for HQ, but lacked specifics from the Bureau of Prisons (BOP). Another employee indicated the BOP would provide updates as available and noted their absence from the office until August 12th.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "epstein",
+        "death",
+        "press release",
+        "u.s. attorney's office",
+        "bop",
+        "inmate",
+        "suicide attempt",
+        "correctional center",
+        "legal",
+        "information"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00018966",
+            "similarity": 0.667,
+            "index": 11,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00018964",
+            "similarity": 0.667,
+            "index": 9,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035657",
+      "summary": "On August 10, 2019, at 8:58 AM, an Associate Warden at MCC New York was working with IPPA to finalize a press release regarding Jeffrey Epstein’s death. Key details documented include: Epstein’s next of kin had not been notified, staff initiated life-saving measures upon finding him at 6:30 AM, EMS and BOP staff transported him to the local hospital after EMS arrived at the institution, he was pronounced dead at the hospital at 7:36 AM, the FBI was notified and investigating it as a suicide, Epstein’s arrival date at MCC NY was July 6, 2019, and his charges were Sex Trafficking Conspiracy and Sex Trafficking of Minors.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "epstein",
+        "mcc new york",
+        "redaction",
+        "press release",
+        "ems",
+        "fbi",
+        "suicide",
+        "sex trafficking",
+        "inmate",
+        "hospital"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035420",
+            "similarity": 0.538,
+            "index": 22,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034333",
+            "similarity": 0.538,
+            "index": 15,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035656",
+            "similarity": 0.538,
+            "index": 2,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035431",
+      "summary": "An email chain discusses the death of Jeffrey Epstein while in custody at the Metropolitan Correctional Center (MCC) NY. The email, dated August 10, 2019, originates from EFTA00035431 and seeks answers regarding the circumstances of Epstein’s death, including notifications to his next of kin, life-saving measures taken, EMS and hospital involvement, FBI notification and investigation status, arrival date at MCC NY, and specific indictment details. An attached document, TEXT.htm, is referenced. The email also includes a link to a news article about Epstein’s death from abc13.com.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "efta00035431",
+        "press release",
+        "samsung",
+        "epstein",
+        "suicide",
+        "mcc ny",
+        "fbi",
+        "sentry",
+        "sex trafficking",
+        "life-saving measures"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035420",
+            "similarity": 0.538,
+            "index": 22,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035418",
+            "similarity": 0.538,
+            "index": 19,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035656",
+            "similarity": 0.538,
+            "index": 2,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00035432",
+            "similarity": 0.667,
+            "index": 30,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00019950",
+      "summary": "An email was sent from EFTA00019950 to Michael Miller, Marty, Reid, and Weingarten, M.M., regarding the investigation into Jeffrey Epstein’s death. The email included a press release summarizing information received from the Bureau of Prisons (BOP). It confirmed an FBI investigation into the death is underway and expected to be rigorous.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "10 Aug 2019",
+      "keywords": [
+        "epstein",
+        "fbi",
+        "investigation",
+        "bop",
+        "press release",
+        "michael miller",
+        "marty",
+        "redaction",
+        "us v",
+        "efta00019950"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024352",
+      "summary": "On August 10, 2019, communications regarding the death of Jeffrey Epstein began. A Supervisory Staff Attorney at the CLC New York Metropolitan Correctional Center inquired about Epstein’s lead counsel and requested accurate information from the Bureau of Prisons (BOP) for relaying to defense attorneys and his family. Concerns were raised about public press releases being issued by the BOP before key stakeholders were informed. A BOP staff member reported Epstein had died, initially due to an apparent suicide attempt and was being transported to the hospital via ambulance, but provided no further details. Another staff member confirmed Epstein’s death and indicated a significant incident report was being prepared for headquarters, but lacked specifics from the BOP. The sender of the initial update indicated they would be out of the office on vacation and responses may be delayed.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "epstein",
+        "bop",
+        "usms",
+        "counsel",
+        "death",
+        "press release",
+        "suicide attempt",
+        "federal inmate",
+        "court",
+        "attorney"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00024354",
+            "similarity": 0.667,
+            "index": 16,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00024356",
+            "similarity": 0.818,
+            "index": 29,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00024356",
+      "summary": "On August 10, 2019, multiple individuals were communicating regarding the death of Jeffrey Epstein. A BOP official initially announced Epstein's passing via a press release before informing relevant parties, including the U.S. Attorney’s Office and USMS. The U.S. Attorney’s Office expressed frustration at receiving information through the press rather than direct communication. There was concern about a lack of specific details, such as the time and cause of death, and a request for a written report or a call for information to relay to Epstein’s counsel. One individual reported the BOP was transporting Epstein to the hospital following a suicide attempt. An AUSA noted being out of the office on vacation and acknowledged delayed responses.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "epstein",
+        "bop",
+        "usms",
+        "counsel",
+        "court",
+        "press release",
+        "death",
+        "suicide attempt",
+        "attorney",
+        "warden"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00024352",
+            "similarity": 0.818,
+            "index": 28,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00024354",
+            "similarity": 0.667,
+            "index": 16,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035432",
+      "summary": "On August 10, 2019, at approximately 8:58 AM GMT-05:00, an email was sent inquiring about the circumstances surrounding Jeffrey Epstein’s death in Manhattan Correctional Facility (MCC NY). The email, originating from [REDACTED], sought information regarding notifications to Epstein’s next of kin, staff response to his discovery, EMS/hospital staff involvement and life-saving measures, the involvement of the FBI and investigation status, Epstein’s arrival date (PP37), and specific indictment details. Epstein was pronounced dead at 7:30 AM at the hospital after being transported by the Bureau of Prisons (BOP).",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "epstein",
+        "suicide",
+        "mcc ny",
+        "fbi",
+        "press release",
+        "redaction",
+        "ippa",
+        "life-saving measures",
+        "sentry",
+        "sex trafficking"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035431",
+            "similarity": 0.667,
+            "index": 26,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035418",
+            "similarity": 0.538,
+            "index": 19,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019951",
+      "summary": "Michael Miller forwarded a press release regarding the US v. Epstein case, sourced from the Bureau of Prisons (BOP). The press release contains all available information from BOP. He confirms an FBI investigation into the death has been initiated and anticipates it will be rigorous.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "10 Aug 2019",
+      "keywords": [
+        "efta00019951",
+        "us v epstein",
+        "mike",
+        "martin g. weinberg",
+        "reid weingarten",
+        "fbi investigation",
+        "redaction analysis",
+        "press release",
+        "bop",
+        "michael miller"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019765",
+      "summary": "Michael Miller received an email from [REDACTED] regarding the ongoing investigation into Jeffrey Epstein’s death, initiated by the Attorney General and including an FBI investigation. The email included a press release from the Bureau of Prisons (BOP) summarizing available information, noting ongoing investigations and a lack of updates regarding the cause of death and Mr. Epstein’s observations. Reid Weingarten and Martin G. Weinberg were also copied on the communications.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "10 Aug 2019",
+      "keywords": [
+        "epstein",
+        "us v",
+        "fbi",
+        "attorney general",
+        "redaction",
+        "mike miller",
+        "martin weinberg",
+        "reid weingarten",
+        "bop",
+        "death investigation"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024363",
+      "summary": "On August 10, 2019, Michael Miller requested an expedited autopsy for Jeffrey Epstein, aiming to complete it by Tuesday to allow for a pathologist’s presence. [REDACTED] informed Miller that no further updates were expected that day but assured continued communication. [REDACTED] sent a letter detailing ongoing investigations initiated by the Attorney General, including a potential FBI investigation, and stated that updates would be provided immediately if received. [REDACTED] distributed a press release from the Bureau of Prisons (BOP) summarizing available information, confirming an FBI investigation, and offered ongoing support.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "epstein",
+        "autopsy",
+        "investigation",
+        "fbi",
+        "pathologist",
+        "death",
+        "us v epstein",
+        "jeffrey epstein",
+        "bop",
+        "redaction"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019956",
+      "summary": "On August 10, 2019, an individual (identified as \"[REDACTED]\") communicated with Michael Miller regarding the investigation into Jeffrey Epstein’s death. The individual confirmed a Bureau of Prisons (BOP) official contacted Epstein’s brother to discuss arrangements for the transport and logistics of Epstein’s body upon readiness. The individual advised Miller to contact BOP directly if needed and directed inquiries to the FBI tip line (1-800-CALL-FBI) while noting ongoing investigations. A press release regarding the situation was attached.  A follow-up email from the same sender confirmed an FBI investigation into Epstein’s death was underway and ongoing efforts to obtain additional information would be communicated.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "epstein",
+        "recovery",
+        "bop",
+        "fbi",
+        "investigation",
+        "michael miller",
+        "reid weingarten",
+        "marty martin",
+        "statement",
+        "body transport"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024359",
+      "summary": "Martin Weinberg sent emails to Mike, Marty, and Reid regarding the investigation into Jeffrey Epstein’s death.  A letter from the Warden was sent to Mike, detailing ongoing investigations initiated by the Attorney General.  Additional information regarding the cause of death and observation status was lacking but would be provided if obtained.  A press release from the Bureau of Prisons (BOP) was attached, confirming an FBI investigation into the death was underway and expected to be rigorous.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "10 Aug 2019",
+      "keywords": [
+        "epstein",
+        "weinberg",
+        "fbi",
+        "investigations",
+        "death",
+        "us v epstein",
+        "bop",
+        "martin weinberg",
+        "reid",
+        "michael miller"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035437",
+      "summary": "Pervaiz Shallwani, a Senior Editor at The Daily Beast, is investigating the circumstances surrounding Jeffrey Epstein’s death at the Metropolitan Correctional Center (MCC) in Manhattan. He is seeking information regarding when Epstein was taken off suicide watch, the duration of his watch, the unit he was housed in, whether he was alone, protocols for monitoring him, the existence of an internal investigation, and surveillance footage.  He has received responses from the Bureau of Prisons, initially providing a press release and then offering general statements regarding privacy and security concerns.  One individual indicated Epstein was moved to a cell with a new cellmate two weeks after being removed from suicide watch, violating standard procedures.  A request for details about the death is repeatedly made by Shallwani.",
+      "timestamp": "2019-08-11T00:00:00",
+      "timestamp_raw": "11 Aug 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "suicide watch",
+        "daily beast",
+        "pervaiz shallwani",
+        "federal bureau of prisons",
+        "mcc new york",
+        "investigation"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019953",
+      "summary": "Michael Miller is coordinating an investigation into the death of Jeffrey Epstein. Initially, an autopsy was planned for the following morning with Michael Baden as the pathologist. However, Dr. Jason Graham, the Chief Medical Examiner, advised delaying the autopsy to potentially two days to allow for securing a pathologist.  Additional emails detail updates regarding investigations initiated by the Attorney General and the FBI, including a press release from the Bureau of Prisons (BOP) outlining available information. There's a request to push the autopsy to Tuesday to secure a pathologist.",
+      "timestamp": "2019-08-11T00:00:00",
+      "timestamp_raw": "11 Aug 2019",
+      "keywords": [
+        "epstein",
+        "michael baden",
+        "autopsy",
+        "jason graham",
+        "fbi",
+        "pathology",
+        "investigation",
+        "death",
+        "jeffrey",
+        "weinberg",
+        "reid"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018899",
+      "summary": "The City Medical Examiner (OCME) has officially determined that Jeffrey Epstein’s cause of death was hanging and the manner of death was suicide. A press release and official death certificate reflecting this conclusion are planned for later that afternoon.",
+      "timestamp": "2019-08-16T00:00:00",
+      "timestamp_raw": "16 Aug 2019",
+      "keywords": [
+        "epstein",
+        "ocme",
+        "suicide",
+        "cause of death",
+        "redaction",
+        "usanys",
+        "medical examiner",
+        "press release",
+        "death certificate"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00024007",
+            "similarity": 0.8,
+            "index": 39,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00031006",
+            "similarity": 0.8,
+            "index": 40,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00024007",
+      "summary": "The City Medical Examiner (OCME) has determined that Jeffrey Epstein’s cause of death was hanging and the manner of death was suicide. An official press release and death certificate reflecting this determination are planned for later today.",
+      "timestamp": "2019-08-16T00:00:00",
+      "timestamp_raw": "16 Aug 2019",
+      "keywords": [
+        "epstein",
+        "ocme",
+        "suicide",
+        "cause of death",
+        "geoffre berman",
+        "usanys",
+        "redaction",
+        "medical examiner",
+        "death certificate"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00018899",
+            "similarity": 0.8,
+            "index": 38,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00031006",
+            "similarity": 0.8,
+            "index": 40,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00031006",
+      "summary": "The City Medical Examiner (OCME) has determined that Jeffrey Epstein’s cause of death was hanging and the manner of death was suicide. An official press release and death certificate reflecting this determination are scheduled to be released later that afternoon.",
+      "timestamp": "2019-08-16T00:00:00",
+      "timestamp_raw": "16 Aug 2019",
+      "keywords": [
+        "epstein",
+        "ocme",
+        "suicide",
+        "redaction",
+        "cause of death",
+        "geoffrey berman",
+        "usanys",
+        "medical examiner",
+        "death certificate"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00024007",
+            "similarity": 0.8,
+            "index": 39,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00018899",
+            "similarity": 0.8,
+            "index": 38,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034121",
+      "summary": "A press release, finalized on 10/20/2019, is being distributed to approximately 50 reporters contacted by the Office of Public Affairs (OPA) at the Federal Bureau of Prisons. The PDF version will be sent to those reporters, while a corresponding Microsoft Word document is being provided to the Office of Legal Analysis (OLA) for potential use in responding to member inquiries. The Word document will not be released externally.",
+      "timestamp": "2019-10-20T00:00:00",
+      "timestamp_raw": "10/20/2019",
+      "keywords": [
+        "press release",
+        "pdf",
+        "opa",
+        "media",
+        "bureau of prisons",
+        "confidential",
+        "sdny",
+        "efta00034121",
+        "mcc ny",
+        "language"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035361",
+            "similarity": 0.538,
+            "index": 20,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010302",
+      "summary": "A draft press release regarding the MCC (presumably the Macroeconomic Assistance Coordination) was sent from an Assistant United States Attorney at the United States Attorney’s Office, Southern District of New York, to an unidentified recipient. The press release, titled “MCC_Press_Release_vl.docx”, was dated November 15, 2019.",
+      "timestamp": "2019-11-15T00:00:00",
+      "timestamp_raw": "November 15, 2019",
+      "keywords": [
+        "efta00010302",
+        "press release",
+        "mcc",
+        "united states attorney",
+        "southern district of new york",
+        "redaction",
+        "draft",
+        "2019",
+        "2025",
+        "docx"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00017911",
+      "summary": "An Assistant United States Attorney from the United States Attorney's Office for the Southern District of New York sent a press release (“MCC Press Release”) from [REDACTED] on November 15, 2019, with the attached document “MCC_Press_Release_v2.docx”. The document is identified as EFTA00017911.",
+      "timestamp": "2019-11-15T00:00:00",
+      "timestamp_raw": "November 15, 2019",
+      "keywords": [
+        "efta00017911",
+        "redaction analysis",
+        "mcc press release",
+        "united states attorney's office",
+        "southern district of new york",
+        "new york"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023778",
+      "summary": "A request was made on March 10, 2020, from an Associate U.S. Attorney at the United States Attorney's Office, Southern District of New York, to compile press releases, charges, and publicly available information related to Jeffrey Epstein. The request specifically excluded downloading all docket materials.",
+      "timestamp": "2020-03-10T00:00:00",
+      "timestamp_raw": "March 10, 2020",
+      "keywords": [
+        "epstein",
+        "redaction",
+        "press releases",
+        "charges",
+        "docket",
+        "united states attorney",
+        "southern district of new york",
+        "folas",
+        "new york",
+        "2020"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00009808",
+      "summary": "An Associate U.S. Attorney at the Southern District of New York sent materials related to the Jeffrey Epstein case to a recipient. The materials included: the indictment (2019.07.02_Indictment_Jeffrey_Epstein.pdf), links to related court documents (docket 19 Cr. 490 (RMB)), and public statements/press releases concerning the charges. Additionally, the sender indicated they possessed a selection of civil case filings pulled from public dockets and a copy of the FBI Palm Beach FOIA production regarding the initial investigation.",
+      "timestamp": "2020-03-11T00:00:00",
+      "timestamp_raw": "11 Mar 2020",
+      "keywords": [
+        "epstein",
+        "foia",
+        "indictment",
+        "justice.gov",
+        "southern district of new york",
+        "fbi",
+        "press releases",
+        "charges",
+        "civil cases",
+        "docket 19 cr. 490"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028560",
+      "summary": "On June 8, 2020, multiple individuals within the USANYS communicated regarding Prince Andrew and an ongoing federal criminal investigation into sex trafficking involving Jeffrey Epstein. A dial-in number (877-720-9282 - 8146826) was provided for a call scheduled for 2:15 PM. A proposed statement was drafted to be issued in response to a press release from Prince Andrew’s counsel, advocating for a brief, forward-looking approach. The statement highlighted Prince Andrew’s refusal to cooperate with the investigation, citing his lack of interviews and prior declinations. EFTA00028561 was referenced.",
+      "timestamp": "2020-06-08T00:00:00",
+      "timestamp_raw": "June 8, 2020",
+      "keywords": [
+        "prince andrew",
+        "usanys",
+        "redaction",
+        "investigation",
+        "criminal",
+        "epstein",
+        "trafficking",
+        "statement",
+        "interview",
+        "federal"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030814",
+      "summary": "An email chain discusses edits to a draft press release, specifically regarding a numerical reference to Jeffrey Epstein. One individual ([REDACTED]) sent a draft press release on June 27, 2020, requesting confirmation of the number used in the release. Another individual ([REDACTED]) responded with the revised draft on June 30, 2020, indicating multiple redactions had been made.",
+      "timestamp": "2020-06-27T00:00:00",
+      "timestamp_raw": "June 27, 2020",
+      "keywords": [
+        "efta00030814",
+        "press release",
+        "epstein",
+        "redaction",
+        "usanys",
+        "edits",
+        "draft",
+        "june 2020",
+        "revisions",
+        "document"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028329",
+      "summary": "An email thread discusses edits to a draft press release (2020-06-27 GM press release draft.rc.docx) created by [REDACTED]. One individual ([REDACTED]) provided comments and edits layered on top of another’s contribution.",
+      "timestamp": "2020-06-27T00:00:00",
+      "timestamp_raw": "2020-06-27",
+      "keywords": [
+        "gm",
+        "press release",
+        "redaction",
+        "edits",
+        "draft",
+        "2020-06-27",
+        "comments",
+        "efta00028329"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030810",
+      "summary": "An email was sent from M (EFTA00030810) to lYS with an attached draft press release titled “GM, press release, draft.docx.” The email indicates the document will undergo multiple revisions and offers to review edits the following day.",
+      "timestamp": "2020-06-27T00:00:00",
+      "timestamp_raw": "27 Jun 2020",
+      "keywords": [
+        "press release",
+        "draft",
+        "edits",
+        "time-sensitive",
+        "mimmie",
+        "usanys",
+        "efta00030810"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00017708",
+      "summary": "An email chain discusses a draft press release (2020-06-27_GM_press_release_draftiMC).docx). Multiple individuals – [REDACTED], [REDACTED], and [REDACTED] – exchange revisions and feedback regarding the document, with one person noting a swap of “maxes”. The email indicates the document will undergo multiple rounds of editing.",
+      "timestamp": "2020-06-28T00:00:00",
+      "timestamp_raw": "28 Jun 2020",
+      "keywords": [
+        "press release",
+        "edits",
+        "drafting",
+        "revisions",
+        "communication",
+        "attachments",
+        "usanys",
+        "efta00017708",
+        "june 2020",
+        "redaction"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021175",
+      "summary": "A revised press release, titled “Ghislaine Maxwell Press Remarks,” version 5, was sent on June 28, 2020. The attachment was not successfully sent. The document is identified as EFTA00021175.",
+      "timestamp": "2020-06-28T00:00:00",
+      "timestamp_raw": "June 28, 2020",
+      "keywords": [
+        "efta00021175",
+        "ghislaine maxwell",
+        "press remarks",
+        "revised",
+        "jun 2020"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029861",
+      "summary": "A draft press release regarding the arrest of Maxwell was attached to an email sent from an Assistant U.S. Attorney in the Southern District of New York to a team. The email requested incorporation of edits and anticipated the arrest would occur by Thursday at the latest.",
+      "timestamp": "2020-06-30T00:00:00",
+      "timestamp_raw": "30 Jun 2020",
+      "keywords": [
+        "press release",
+        "draft",
+        "maxwell",
+        "arrest",
+        "u.s. attorney",
+        "southern district of new york",
+        "redacted",
+        "efta00029861"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00030011",
+            "similarity": 0.5,
+            "index": 53,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00030011",
+      "summary": "A draft press release regarding the arrest of Maxwell was circulated on June 30, 2020. The intended release date was either tomorrow or Thursday. An Assistant U.S. Attorney from the Southern District of New York offered to incorporate edits. The draft was accompanied by a document named “2020-06-30,GM,_press_release,_draft.docx”.",
+      "timestamp": "2020-06-30T00:00:00",
+      "timestamp_raw": "June 30, 2020",
+      "keywords": [
+        "press release",
+        "draft",
+        "maxwell",
+        "arrest",
+        "u.s. attorney",
+        "southern district of new york",
+        "redaction",
+        "conspiracy",
+        "typos",
+        "2020"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00029861",
+            "similarity": 0.5,
+            "index": 52,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015353",
+      "summary": "A press release is being prepared to announce charges against Ghislaine Maxwell for her role in the sexual exploitation and abuse of minor girls by Jeffrey Epstein. The press conference will be held on July 1, 2020, at the U.S. Attorney’s Office, Southern District of New York, at XX:00 a.m. and will be livestreamed on Facebook. Logistics are being coordinated, including securing a backdrop, chairs, and addressing acoustic concerns within the venue. A paragraph regarding COVID-19 safety protocols and increased arrival times for press attendees is being drafted for the press advisory. The International Court of Trade has denied a request.",
+      "timestamp": "2020-07-01T00:00:00",
+      "timestamp_raw": "July 1, 2020",
+      "keywords": [
+        "press release",
+        "covid-19",
+        "ghislaine maxwell",
+        "jeffrey epstein",
+        "united states attorney",
+        "fbi",
+        "press conference",
+        "sexual exploitation",
+        "social distance",
+        "lobby"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015356",
+      "summary": "*   The press conference will be held on July 1, 2020, at the U.S. Attorney’s Office, Southern District of New York. *   Audrey Strauss, Acting United States Attorney, and an FBI Assistant Director-in-Charge will lead the conference. *   Logistics are being discussed, including venue selection (initially the lobby was considered, then Plan B/Z – using the whole lobby) and COVID-19 safety protocols (masks, social distancing, step-and-repeat backdrop). *   The FBI is assisting with arrangements, including securing chairs, checking capacity, and addressing acoustic concerns. *   A paragraph is needed for the press advisory to outline safety protocols and request extra time for press entry. *   The planned timing of the arrest is uncertain, with potential pushes to Thursday.",
+      "timestamp": "2020-07-01T00:00:00",
+      "timestamp_raw": "July 1, 2020",
+      "keywords": [
+        "covid-19",
+        "press release",
+        "maxwell",
+        "epstein",
+        "fbi",
+        "protocols",
+        "social distancing",
+        "press conference",
+        "us attorney",
+        "safety"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025524",
+      "summary": "On September 18, 2020, a communication discusses upcoming events and investigations. A “Cops argument” is scheduled for Monday at 10 AM with Walker, Carney, and Park. The NYCHA team has a meeting with “Brass” and circulated materials. Robert Adams, a guard at MCC, is scheduled to be arrested next week for bribery and related sexual misconduct, stemming from an investigation linked to Jeffrey Epstein. The FBI is coordinating the arrest, considering options for MCC or a voluntary surrender, and plans to issue a press release. There is also a casual note about National Cheeseburger Day and International Talk Like a Pirate Day.",
+      "timestamp": "2020-09-18T00:00:00",
+      "timestamp_raw": "September 18, 2020",
+      "keywords": [
+        "efta00025524",
+        "usanys",
+        "nycha",
+        "robert adams",
+        "bribery",
+        "arrest",
+        "fbi",
+        "mcc",
+        "silver",
+        "epstein"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025269",
+      "summary": "*   The USANYS (likely the US Attorney’s Office) was involved, as were various individuals identified only as \"[REDACTED]\". *   A discussion arose about whether DOI OIG (Department of Justice Office of Inspector General) should have been listed as an announcing agency in the press release, given their significant contributions to the case, including an interview related to the Epstein investigation. *   A follow-up email from the OIG confirms their belief they should be listed as an announcing agency and provides contact information.",
+      "timestamp": "2020-11-01T00:00:00",
+      "timestamp_raw": "01 Oct 2020",
+      "keywords": [
+        "u.s. attorney",
+        "correctional officer",
+        "bribe",
+        "sex",
+        "prison visitor",
+        "epstein investigation",
+        "oig",
+        "redaction",
+        "press release",
+        "usanys"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013358",
+      "summary": "A communication, dated November 13, 2020, from [REDACTED] to [REDACTED] regarding an “OPR Epstein” matter, originated from the Southern District of New York. An executive summary document, “epstein._executive_summary.pdf,” is attached. The email discusses how OPR evaluates things.",
+      "timestamp": "2020-11-13T00:00:00",
+      "timestamp_raw": "November 13, 2020",
+      "keywords": [
+        "efta00013358",
+        "epstein",
+        "opr",
+        "redaction",
+        "usanys",
+        "southern district of new york",
+        "justice",
+        "executive summary",
+        "legal",
+        "press release"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031580",
+      "summary": "Ghislaine Maxwell is charged in a six-count indictment related to facilitating the sexual abuse of three minor victims by Jeffrey Epstein between 1994 and 1997. The charges include conspiracy, enticement, and transportation of minors to participate in illegal sex acts, along with perjury. Maxwell’s role involved identifying, enticing, and grooming girls to engage with Epstein, and she is accused of participating in some acts of abuse. She has been detained since her arrest, with a trial scheduled for July 2021. The USAO-SDNY and FBI conducted a multi-year investigation. A write-up regarding the case is being compiled for the transition team, including details on the case name, docket number, charges, current status, and a link to a press release.",
+      "timestamp": "2020-12-28T00:00:00",
+      "timestamp_raw": "December 28, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "jeffrey epstein",
+        "sexual abuse",
+        "minors",
+        "conspiracy",
+        "perjury",
+        "usao-sdny",
+        "fbi",
+        "18 u.s.c. § 2422",
+        "trial"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013348",
+      "summary": "On January 4, 2021, an email was sent from [REDACTED] to [REDACTED] regarding a request from the incoming administration’s transition team for a list of significant, publicly filed cases. The request asked all FAUSAs, Criminal Chiefs, and Civil Chiefs to submit information about their top two criminal cases and one civil case, including case name, docket number, description of charges/claims, current status, and a link to the most recent press release. The attached document, \"Publicly_Filed_SDNY_Cases_for_Transition.docx\", contained write-ups of three cases and was intended to be sent to the EOUSA paralegal by January 5, 2021.",
+      "timestamp": "2021-01-04T00:00:00",
+      "timestamp_raw": "January 4, 2021",
+      "keywords": [
+        "transition team",
+        "cases",
+        "criminal",
+        "civil",
+        "docket",
+        "significant",
+        "public",
+        "filings",
+        "united states department of justice",
+        "eousa"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00011048",
+      "summary": "A press release regarding a securities case involving Franzone is being prepared by the United States Attorney’s Office, Southern District of New York. The SEC is filing a parallel complaint. The draft press release was sent for final approval and includes minor edits. There's a delay in the presentment due to an unexpected early arrest by USPIS. The release is intended to coincide with the SEC’s filing, ideally shortly after 11 AM tomorrow morning in Florida. Attachments include the approved draft press release and a complaint filed on April 19, 2021.",
+      "timestamp": "2021-04-19T00:00:00",
+      "timestamp_raw": "April 19, 2021",
+      "keywords": [
+        "press release",
+        "sec",
+        "usanys",
+        "ghislaine maxwell",
+        "florida",
+        "presentment",
+        "complaint",
+        "contractor",
+        "approval",
+        "redaction"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034335",
+      "summary": "A press release has been updated with the arrival date and official charges related to case EFTA00034335. The document is classified as CONFIDENTIAL.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00034335",
+        "press release",
+        "arrival date",
+        "charges",
+        "confidential",
+        "sdny_000",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00033698",
+      "summary": "A press release has been updated with the arrival date and official charges related to case EFTA00033698. The case is classified as CONFIDENTIAL and assigned the SDNY_00009138 identifier.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00033698",
+        "press release",
+        "arrival date",
+        "charges",
+        "confidential",
+        "sdny_00009138"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00033782",
+      "summary": "This document pertains to the case of Jeffrey Edward Epstein (Reg. No. 73618-054), who was incarcerated under SENTRY PP44, PP37, PP41, PP78, PPGO, PD15, and PP85. Associated records include an Administrative Detention Order from 7/29/19, Inmate Personal Property records, Electronic Medical Records, Psychology Data Systems, Psychology Observation Logs (7/8-10/19 and 7/24-30/19), Suicide Watch Chronological Logs (7/23 & 24/19), and documentation related to his cellmate, Efrain Reyes (Reg. No. 85993-054). The file contains SHU reports, rosters, visual search logs, conference logs, staff memos, emails, and press releases related to Epstein and Reyes’ confinement and surveillance, specifically from August 1919.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "epstein",
+        "jeffrey edward",
+        "sentry",
+        "pp44",
+        "ad order",
+        "pds",
+        "psychology data system",
+        "shu",
+        "reyes",
+        "confidental",
+        "truscope"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00035116",
+            "similarity": 0.909,
+            "index": 65,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035116",
+      "summary": "This document pertains to the case files of Jeffrey Edward Epstein (Reg. No. 73618-054) and Efrain Reyes (Reg. No. 85993-054), including associated records and communications. The files contain data such as: SENTRY records (PP44, PP37, PP41, PP78, PPGO, PD15, PP85, PR15), BOPWare labels, Administrative Detention Order, Inmate Personal Property Records, Electronic Medical Records, Psychology Data Systems, psychology observation logs, suicide watch logs, court documentation, staff memos, emails, SHU reports, roster reviews, visual search logs (TRUSCOPE), attorney conference logs, and press releases. Specifically, it includes records from August 9, 1919 and weekly SHU reviews for both individuals.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "epstein",
+        "jeffrey edward",
+        "sentry",
+        "pp44",
+        "ad order",
+        "pds",
+        "psychology data system",
+        "shu",
+        "reyes",
+        "truscope"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00033782",
+            "similarity": 0.909,
+            "index": 64,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": []
+      }
+    }
+  ]
+}

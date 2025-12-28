@@ -1,0 +1,1593 @@
+{
+  "keyword": "gloria allred",
+  "count": 49,
+  "keyword_match_count": 49,
+  "content_match_count": 5,
+  "total_files": 54,
+  "timeline": [
+    {
+      "file_id": "EFTA00028438",
+      "summary": "*   Gloria Allred is coordinating with a client regarding a status conference for Mr. Epstein’s criminal case in New York on July 31st at 11:00 AM. *   There’s a request to secure a seat in the courtroom for Gloria Allred at the conference. *   The parties are discussing potential meeting locations, with Gloria Allred suggesting meeting at the law firm’s office instead of a hotel. *   The legal team informs Gloria Allred that court security manages crowd control and seat reservations are not possible. *   Other attorneys are attending the conferences independently.",
+      "timestamp": "2019-07-30T00:00:00",
+      "timestamp_raw": "30 Jul 2019",
+      "keywords": [
+        "gloria allred",
+        "court conference",
+        "status conference",
+        "meeting",
+        "new york",
+        "july 31",
+        "epstein"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00030507",
+            "similarity": 0.636,
+            "index": 1,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00030507",
+      "summary": "Gloria Allred is coordinating meetings with a client regarding a criminal case involving Mr. Epstein. She initially proposed a meeting at a hotel at 1 P.M. but suggests a meeting at her office instead to save time and travel. The other party requests confirmation of the meeting time and expresses concerns about seating arrangements in the courtroom. Allred confirms her attendance at the status conference and inquires about Mr. Epstein's presence. The other party clarifies that defendants are typically present at court conferences and Allred requests a seat be reserved for her.",
+      "timestamp": "2019-07-30T00:00:00",
+      "timestamp_raw": "30 Jul 2019",
+      "keywords": [
+        "gloria allred",
+        "court conference",
+        "status conference",
+        "new york",
+        "hotel",
+        "victim",
+        "july 31",
+        "criminal case",
+        "epstein",
+        "meeting",
+        "los angeles"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00028438",
+            "similarity": 0.636,
+            "index": 0,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021524",
+      "summary": "Epstein. *   Proposed meeting times include 2:00 PM and 3:00 PM at various locations (hotel, office, courthouse). *   There's discussion about travel arrangements, including car pickups and potential travel between the hotel and courthouse. *   A third victim represented by one of the parties is being considered for a meeting in August. *   The coordinating party is unable to secure reserved seating in the courtroom due to court security protocols. *   There’s a concern regarding potential overcrowding in the courtroom and a request for a staff member to secure a seat.",
+      "timestamp": "2019-07-30T00:00:00",
+      "timestamp_raw": "30 Jul 2019",
+      "keywords": [
+        "new york",
+        "hotel",
+        "court",
+        "conference",
+        "meeting",
+        "travel",
+        "victim",
+        "case",
+        "epstein",
+        "wednesday"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014339",
+      "summary": "Gloria Allred’s law firm (Allred, Maroko & Goldberg) was coordinating a meeting between a client (potentially a victim of Jeffrey Epstein) and a United States Attorney’s Office representative in New York on August 19th. Initial scheduling requests were made via email exchange, with the client initially agreeing to the meeting time but ultimately declining to proceed. The assistant U.S. Attorney proposed alternative times and logistical arrangements (flight details) before the client cancelled the meeting. The entire interaction involved multiple redactions within the documents.",
+      "timestamp": "2019-08-14T00:00:00",
+      "timestamp_raw": "14 Aug 2019",
+      "keywords": [
+        "gloria allred",
+        "august 19th",
+        "los angeles",
+        "new york",
+        "travel",
+        "epstein",
+        "client",
+        "united states attorney",
+        "legal",
+        "meeting"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00014357",
+            "similarity": 0.545,
+            "index": 4,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00014357",
+      "summary": "On August 13th, a request was made to Gloria Allred to meet with a client on August 19th at 9:30 AM PST/12:30 EST. The client was willing to fly from Los Angeles to New York. On August 12th, the client initially agreed to meet, proposing a meeting time and requesting travel arrangements. However, on August 9th, the client changed her mind and declined to meet. The Assistant United States Attorney followed up on August 9th to confirm the meeting time, but received no further response.",
+      "timestamp": "2019-08-14T00:00:00",
+      "timestamp_raw": "14 Aug 2019",
+      "keywords": [
+        "gloria allred",
+        "epstein",
+        "new york",
+        "august 19th",
+        "travel",
+        "delta flight",
+        "legal"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00014339",
+            "similarity": 0.545,
+            "index": 3,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021012",
+      "summary": "On August 14, 2019, Geoffrey Berman, U.S. Attorney, sent a notification to Gloria Allred regarding Case Number 2018R01618 and Court Docket Number 19-CR-00490. The notification, provided by the U.S. Department of Justice Victim Notification System, explains that Jeffrey Epstein died in custody and the Department intends to seek dismissal of the indictment. However, the ongoing investigation necessitates continued outreach to potential victims and individuals with relevant information, encouraging contact with the FBI at 1-800-CALL-FBI. Wendy Olsen serves as the Victim Witness Coordinator for this case.",
+      "timestamp": "2019-08-14T00:00:00",
+      "timestamp_raw": "August 14, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "united states department of justice",
+        "victim notification system",
+        "prosecution",
+        "indictment",
+        "victim",
+        "law enforcement",
+        "investigation",
+        "gloria allred",
+        "case number"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020080",
+      "summary": "Gloria Allred is assisting a Jane Epstein victim who wants to travel from Las Vegas to New York to attend a hearing on Tuesday. Communication involves multiple individuals attempting to arrange travel, including booking flights, confirming airport details, and obtaining the victim’s date of birth. There are requests for contact information (phone numbers) and confirmations regarding travel arrangements. An assistant, Diane, has already provided the victim’s driver’s license information. The communications occur primarily on August 25, 2019, and involve discussions about funding and the urgency of the trip.",
+      "timestamp": "2019-08-25T00:00:00",
+      "timestamp_raw": "August 25, 2019",
+      "keywords": [
+        "gloria allred",
+        "epstein victim",
+        "new york",
+        "flight",
+        "travel",
+        "dob",
+        "las vegas",
+        "hearing",
+        "child care",
+        "phone number"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019682",
+      "summary": "An individual ([REDACTED]) informed Gloria Allred that a former Jeffrey Epstein victim (“an Epstein victim”) has secured childcare and intends to travel to New York for a hearing on Tuesday. The individual requested Allred’s phone number to contact her urgently. A previous email exchange concerning the same matter was also referenced.",
+      "timestamp": "2019-08-25T00:00:00",
+      "timestamp_raw": "25 Aug 2019",
+      "keywords": [
+        "gloria allred",
+        "epstein",
+        "child care",
+        "new york",
+        "hearing",
+        "lawyers",
+        "martindale-hubbell",
+        "allred",
+        "maroko",
+        "goldberg"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028550",
+      "summary": "Gloria Allred contacted an individual to arrange travel for an Epstein victim to New York for a hearing on Tuesday. The victim had secured childcare and requested assistance with flights and reimbursement from Las Vegas. Allred sought a phone number to contact the individual and coordinate travel arrangements, having previously attempted contact via email and voicemail without response. The communication included contact information for Allred’s law firm, Allred Maroko & Goldberg, and a confidentiality notice.",
+      "timestamp": "2019-08-25T00:00:00",
+      "timestamp_raw": "25 Aug 2019",
+      "keywords": [
+        "gloria allred",
+        "epstein",
+        "new york",
+        "hearing",
+        "travel",
+        "las vegas",
+        "child care",
+        "victim",
+        "legal",
+        "flights"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00024428",
+            "similarity": 0.667,
+            "index": 9,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00024428",
+      "summary": "Gloria Allred received an email from an Epstein victim on August 25, 2019, who informed her of securing child care and wanting to travel to New York for a hearing on Tuesday. The victim requested Allred contact them to arrange travel from Las Vegas to New York on Monday morning due to limited funds. Allred had previously attempted to contact the victim via email and voicemail without response. The email chain includes confirmations of Allred’s firm contact information and a warning about the confidential nature of the communication.",
+      "timestamp": "2019-08-25T00:00:00",
+      "timestamp_raw": "August 25, 2019",
+      "keywords": [
+        "gloria allred",
+        "epstein",
+        "child care",
+        "new york",
+        "hearing",
+        "flight",
+        "travel arrangements",
+        "las vegas",
+        "victim",
+        "legal"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00028550",
+            "similarity": 0.667,
+            "index": 8,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020994",
+      "summary": "An automatic email reply was sent from [REDACTED] to Gloria Allred regarding an E-TICKET RECEIPT. The sender is currently on trial before Judge Ronnie Abrams, with updates provided via email at the end of each trial day. Contact information for the AUSA regarding United States v. E Stein is also included. The document reference is EFTA00020994.",
+      "timestamp": "2019-08-26T00:00:00",
+      "timestamp_raw": "26 Aug 2019",
+      "keywords": [
+        "efta00020994",
+        "ronnie abrams",
+        "e stein",
+        "united states v.",
+        "ausa",
+        "travel",
+        "receipt",
+        "redaction",
+        "gloria allred",
+        "trial"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00017102",
+      "summary": "Jane Doe, a young woman who was a model, reports meeting Jeffrey Epstein in his New York mansion in 2019. She was directed by a booker to meet Epstein with the intention of gaining a role in Victoria's Secret. During the meeting, a woman encouraged her to be agreeable to Epstein, and he removed his robe and approached her closely. She felt trapped and left the mansion, believing it was a casting call for prostitution due to the pressure and the warning from a girl outside regarding Epstein's connections to powerful figures like Bill Clinton.",
+      "timestamp": "2019-08-27T00:00:00",
+      "timestamp_raw": "AUGUST 27, 2019",
+      "keywords": [
+        "jane doe",
+        "jeffrey epstein",
+        "victoria's secret",
+        "model",
+        "new york",
+        "prostitution",
+        "bill clinton",
+        "casting call",
+        "redaction analysis",
+        "gloria allred"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019994",
+      "summary": "The hearing was presided over by Judge Richard M. Berman, with representatives from the U.S. Attorney’s Office and defense counsel present. **Key Events and Participants:** *   **Initial Housekeeping:** Judge Berman addressed the participants, outlining the purpose of the hearing—to consider the motion to dismiss due to Epstein’s death. He also acknowledged the significant effort involved and expressed gratitude for the work of the prosecutors and victims. *   **Government’s Argument:** The government, led by Geoffrey Berman, argued that the death of Epstein necessitated the dismissal of the case due to the lack of a live defendant. They emphasized the need for a full and transparent investigation and highlighted the potential for further investigation into co-conspirators. They referenced the legal precedent set by the *U.S. v. Wright* case concerning abatement. *   **Defense’s Argument:** Defense counsel, led by Reid Weingarten, strongly opposed the dismissal, arguing that the court had an inherent authority to continue investigating and pursuing justice, regardless of Epstein's death. They raised concerns about the government’s handling of the investigation and questioned the credibility of the medical examiner’s findings regarding the cause of death. They invoked precedent from *U.S. v. Heaton* and suggested the possibility of a parallel investigation by the court. *   **Victim Testimonies:** Multiple Jane Doe victims, represented by Gloria Allred’s firm, offered statements detailing their experiences and the ongoing trauma caused by Epstein’s actions. They expressed a desire for justice and accountability. *   **Legal Discussions:** Throughout the hearing, the lawyers discussed relevant legal principles, including the “abatement” doctrine, the Crime Victims' Rights Act, and the role of the government in investigating and prosecuting crimes. The discussion centered on the court’s authority to continue the case despite Epstein's death. **Outcome (as presented):** The hearing concluded with Judge Berman stating that he would consider the arguments and would likely move forward with an inquiry into the circumstances surrounding Epstein's death, reinforcing the importance of victims’ rights and ongoing investigation. **Additional Notes:** *   The text contains several references to ongoing investigations and potential further legal action. *   There were discussions regarding the handling of evidence, the role of the FBI, and the need for transparency in the investigation. *   The hearing showcased the complex legal and ethical issues involved in a case where the defendant has died before a trial concludes.",
+      "timestamp": "2019-08-27T00:00:00",
+      "timestamp_raw": "August 27, 2019",
+      "keywords": [
+        "epstein",
+        "victims",
+        "motion to dismiss",
+        "nolle prosequi",
+        "death",
+        "investigation",
+        "court",
+        "justice",
+        "crime victims rights act",
+        "rule 48",
+        "accountability",
+        "prosecution",
+        "defense",
+        "abuse",
+        "trafficking",
+        "fraud",
+        "transcript",
+        "hearing"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00017101",
+      "summary": "Gloria Allred sent an email to [REDACTED] regarding a potential interview with Jane Doe. The email included Jane Doe’s statement read in court and requested a meeting on Thursday, September 12th at 5:00 PM at the Lotte, followed by a 6:00 PM meeting. The email also contained contact information for Allred, Maroko & Goldberg.",
+      "timestamp": "2019-09-10T00:00:00",
+      "timestamp_raw": "10 Sep 2019",
+      "keywords": [
+        "efta00017101",
+        "jane doe",
+        "gloria allred",
+        "fbi",
+        "statement",
+        "interview",
+        "new york",
+        "lotte",
+        "legal",
+        "redaction"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019706",
+      "summary": "Multiple email exchanges occurred between individuals regarding a new alleged victim of Jeffrey Epstein. The victim was willing to travel to New York for a meeting on October 23rd. Discussions revolved around scheduling the meeting, particularly due to one sender's trial date on Wednesday, October 23rd. Gloria Allred contacted the recipients about a client willing to be interviewed, noting it affected trial arrangements. The emails were sent between October 18, 2019, and October 21, 2019, involving individuals at Allred, Maroko & Goldberg law firm.",
+      "timestamp": "2019-10-18T00:00:00",
+      "timestamp_raw": "October 18, 2019",
+      "keywords": [
+        "epstein",
+        "victim",
+        "new york",
+        "gloria allred",
+        "trial",
+        "october 23",
+        "alleged",
+        "client",
+        "scheduling",
+        "redaction"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00019717",
+            "similarity": 0.667,
+            "index": 15,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019703",
+            "similarity": 0.583,
+            "index": 16,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00019717",
+      "summary": "On October 18, 2019, an individual (likely a lawyer) received emails from Gloria Allred regarding a new alleged victim of Jeffrey Epstein. The victim, a woman from the 1990s, is willing to travel to New York for a meeting on October 23rd. Allred is seeking advice on whether to proceed with an interview, as the individual is scheduled to be on trial on October 18th. The emails include contact information for Allred’s firm and a confidential message regarding the potential victim meeting.",
+      "timestamp": "2019-10-18T00:00:00",
+      "timestamp_raw": "October 18, 2019",
+      "keywords": [
+        "epstein",
+        "victim",
+        "gloria allred",
+        "new york",
+        "trial",
+        "90s",
+        "alleged",
+        "client",
+        "meeting",
+        "october 23"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00019706",
+            "similarity": 0.667,
+            "index": 14,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019703",
+      "summary": "On October 21, 2019, Gloria Allred contacted the FBI’s New York office (EFTA00019703) to inform them of a new alleged victim of Jeffrey Epstein who is willing to travel to New York for a meeting on October 23rd. The FBI responded, confirming their availability to meet and requesting information about the client – specifically her name, date of birth, email address, and phone number – to coordinate travel logistics. The FBI’s Victim Services unit is handling travel arrangements.  The correspondence involved multiple individuals including the FBI, Allred, Maroko & Goldberg law firm, and an Assistant United States Attorney.",
+      "timestamp": "2019-10-21T00:00:00",
+      "timestamp_raw": "October 21, 2019",
+      "keywords": [
+        "epstein",
+        "gloria allred",
+        "fbi",
+        "new york",
+        "victim",
+        "trafficking",
+        "october 23",
+        "redaction",
+        "client"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00019706",
+            "similarity": 0.583,
+            "index": 14,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00024299",
+            "similarity": 0.583,
+            "index": 26,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038318",
+      "summary": "On October 21, 2019, the FBI New York contacted Gloria Allred regarding a new alleged victim of Jeffrey Epstein who is willing to travel to New York on October 23rd for a victim meeting. The FBI requested information about the client, including her name, date of birth, email address, and phone number.  Gloria Allred, representing the client, responded on October 18, 2019, confirming the client’s willingness to attend and providing her contact information. The communication involved the Assistant United States Attorney and another individual to coordinate travel logistics.",
+      "timestamp": "2019-10-21T00:00:00",
+      "timestamp_raw": "October 21, 2019",
+      "keywords": [
+        "gloria allred",
+        "epstein",
+        "victim",
+        "new york",
+        "fbi",
+        "travel",
+        "alleged victim",
+        "meeting",
+        "2019",
+        "october"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00032330",
+            "similarity": 0.538,
+            "index": 23,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00010261",
+            "similarity": 0.5,
+            "index": 25,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00024299",
+            "similarity": 0.538,
+            "index": 26,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038310",
+      "summary": "Diane Aldrich of Allred Maroko Goldberg sent questionnaires to the FBI Victim Services regarding co-counsel for Gloria Allred and related Epstein clients. The questionnaires were for attendees of an FBI Victim Services briefing scheduled for October 23rd in New York. The attachments were DM_Signed_Form.pdf and MW_Signed_Form.pdf.",
+      "timestamp": "2019-11-08T00:00:00",
+      "timestamp_raw": "08 Oct 2019",
+      "keywords": [
+        "fbi",
+        "victim services",
+        "gloria allred",
+        "diane aldrich",
+        "epstein",
+        "new york",
+        "questionnaires",
+        "legal",
+        "confidential",
+        "redaction"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028804",
+      "summary": "Gloria Allred contacted an individual regarding a new alleged victim of Jeffrey Epstein. The victim is willing to travel to New York for a meeting on October 23rd. Allred requested a 5:45 P.M. call to discuss the matter. The email includes contact information for Allred’s law firm and a confidentiality disclaimer.",
+      "timestamp": "2019-11-18T00:00:00",
+      "timestamp_raw": "18 Oct 2019",
+      "keywords": [
+        "gloria allred",
+        "epstein",
+        "victim",
+        "new york",
+        "october 23",
+        "alleged victim",
+        "client",
+        "redaction analysis",
+        "email",
+        "legal"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024292",
+      "summary": "Gloria Allred contacted an Assistant United States Attorney regarding a new alleged victim of Jeffrey Epstein who is willing to travel to New York for a meeting on October 23rd. The victim’s travel logistics are being handled by the FBI. The Assistant U.S. Attorney confirmed their availability to meet and requested the victim’s personal information (name, date of birth, email, and phone number). The communication involved multiple individuals including FBI personnel and Allred’s legal firm.  Several email addresses and names were redacted.",
+      "timestamp": "2019-11-21T00:00:00",
+      "timestamp_raw": "21 Oct 2019",
+      "keywords": [
+        "gloria allred",
+        "epstein",
+        "victim",
+        "fbi",
+        "new york",
+        "travel",
+        "october 23",
+        "litigation",
+        "legal",
+        "victim meeting"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00019708",
+            "similarity": 0.538,
+            "index": 21,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00032330",
+            "similarity": 0.538,
+            "index": 23,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028461",
+            "similarity": 0.538,
+            "index": 24,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00019708",
+      "summary": "This document details communications surrounding a meeting with a new alleged victim of Jeffrey Epstein, facilitated by Gloria Allred’s legal team and the U.S. Attorney’s office in the Southern District of New York, along with FBI involvement. The victim was willing to travel to New York for a meeting on October 23rd. Scheduling conflicts and logistical arrangements, including travel coordination and a proposed conference call, were discussed between the involved parties, primarily Allred, the U.S. Attorney, and the FBI’s Amanda Young. Several individuals requested information about the victim’s identity (name, DOB, contact details) to coordinate logistics. The communications culminated in the victim ultimately cancelling the meeting for the day.",
+      "timestamp": "2019-11-22T00:00:00",
+      "timestamp_raw": "22 Oct 2019",
+      "keywords": [
+        "epstein",
+        "new york",
+        "gloria allred",
+        "victim",
+        "fbi",
+        "conference call",
+        "travel",
+        "scheduling",
+        "united states attorney",
+        "october 23"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00024292",
+            "similarity": 0.538,
+            "index": 20,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00028779",
+            "similarity": 0.538,
+            "index": 22,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00032330",
+            "similarity": 0.667,
+            "index": 23,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028461",
+            "similarity": 0.667,
+            "index": 24,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00028779",
+      "summary": "Multiple individuals are coordinating logistics for a meeting involving a new alleged victim of Jeffrey Epstein. Gloria Allred is facilitating the meeting, which is being organized by the FBI’s victim services team. A United States Attorney’s office is requesting client information (name, DOB, email, phone number) from Allred. There are discussions about scheduling the meeting via conference call and coordinating travel arrangements for the victim. The communication involves email exchanges between Allred, the Assistant U.S. Attorney, and others, including coordinating with a travel specialist.",
+      "timestamp": "2019-11-22T00:00:00",
+      "timestamp_raw": "22 Oct 2019",
+      "keywords": [
+        "epstein",
+        "victim",
+        "new york",
+        "fbi",
+        "gloria allred",
+        "conference call",
+        "travel logistics",
+        "attorney",
+        "victim services",
+        "october 23"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00019708",
+            "similarity": 0.538,
+            "index": 21,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00010261",
+            "similarity": 0.615,
+            "index": 25,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00032330",
+      "summary": "Gloria Allred contacted the FBI and a U.S. Attorney’s office regarding a new alleged victim of Jeffrey Epstein. The victim was willing to travel to New York for a meeting on October 23rd. Allred initially proposed a 4:00 PM call but requested a conference call due to multiple locations and logistical difficulties. She then suggested a noon to 1:00 PM meeting at her office, citing a tight schedule and travel plans. The FBI confirmed availability and requested information about the victim, including identification details. The communication involved multiple back-and-forth exchanges regarding scheduling and coordination of travel logistics.",
+      "timestamp": "2019-11-22T00:00:00",
+      "timestamp_raw": "22 Oct 2019",
+      "keywords": [
+        "gloria allred",
+        "epstein",
+        "victim",
+        "new york",
+        "fbi",
+        "travel",
+        "meeting",
+        "october 23",
+        "reschedule",
+        "united states attorney"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00019708",
+            "similarity": 0.667,
+            "index": 21,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00024292",
+            "similarity": 0.538,
+            "index": 20,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038318",
+            "similarity": 0.538,
+            "index": 17,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00010261",
+            "similarity": 0.615,
+            "index": 25,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00024299",
+            "similarity": 0.538,
+            "index": 26,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019719",
+            "similarity": 0.667,
+            "index": 27,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00028461",
+      "summary": "Gloria Allred is representing a new alleged victim of Jeffrey Epstein who is willing to travel to New York to participate in a victim meeting on October 23rd. Initial communication involves coordinating logistics with the Assistant United States Attorney (AUSAs) for the Southern District of New York and the FBI Victim Services. The AUSAs propose various meeting times and locations (FBI office, Allred’s office, or a conference call) due to scheduling constraints and the victim’s travel plans. There are repeated requests for information about the victim's identity and travel details. The victim’s willingness to reschedule and the planned departure for D.C. are also discussed, leading to a final cancellation of the meeting. Redactions are present throughout the document, obscuring specific details.",
+      "timestamp": "2019-11-23T00:00:00",
+      "timestamp_raw": "23 Oct 2019",
+      "keywords": [
+        "epstein",
+        "victim",
+        "new york",
+        "gloria allred",
+        "fbi",
+        "scheduling",
+        "travel",
+        "conference call",
+        "23 october",
+        "victim meeting"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00019708",
+            "similarity": 0.667,
+            "index": 21,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00024292",
+            "similarity": 0.538,
+            "index": 20,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00010261",
+            "similarity": 0.5,
+            "index": 25,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00010261",
+      "summary": "Gloria Allred is working with a new client who was a victim of Jeffrey Epstein and is willing to travel to New York for a victim meeting on October 23rd. Initial communication involves coordinating logistics with the Assistant United States Attorney (AUSA) and the FBI Victim Services team.  The client’s travel arrangements are being handled by the FBI, and Allred is attempting to schedule a meeting with the client at her office (305 Broadway) for approximately 12:30 PM, but faces scheduling conflicts and a need to travel to Washington D.C. by 2:00 PM.  There are requests for the client’s identifying information (name, DOB, email, phone) from the AUSA.  The client is initially considering a conference call instead of a Skype call due to multiple locations involved. The client is then canceling the meeting due to rescheduling needs.",
+      "timestamp": "2019-11-23T00:00:00",
+      "timestamp_raw": "23 Oct 2019",
+      "keywords": [
+        "gloria allred",
+        "epstein",
+        "new york",
+        "fbi",
+        "victim",
+        "meeting",
+        "travel",
+        "conference call",
+        "october 23",
+        "5:45 p.m.",
+        "travel logistics"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00028461",
+            "similarity": 0.5,
+            "index": 24,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00032330",
+            "similarity": 0.615,
+            "index": 23,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028779",
+            "similarity": 0.615,
+            "index": 22,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00024299",
+            "similarity": 0.5,
+            "index": 26,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019719",
+            "similarity": 0.5,
+            "index": 27,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00024299",
+      "summary": "*   Gloria Allred is coordinating with an attorney to schedule the meeting, exploring options at the FBI, her office at 305 Broadway, or a meeting at 11:00 AM or 11:30 AM following the Victim Services meeting. *   A tight schedule is being managed, with a need to conclude the interview by 12:30 PM to catch a 2:00 PM train to Washington, D.C. *   The email thread involves communication between Gloria Allred and an unidentified individual (likely a colleague or assistant) regarding the logistics of the meeting.",
+      "timestamp": "2019-11-23T00:00:00",
+      "timestamp_raw": "23 Oct 2019",
+      "keywords": [
+        "epstein",
+        "gloria allred",
+        "victim",
+        "new york",
+        "fbi",
+        "meeting",
+        "october 23",
+        "2019",
+        "redaction",
+        "legal"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00010261",
+            "similarity": 0.5,
+            "index": 25,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00032330",
+            "similarity": 0.538,
+            "index": 23,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00024292",
+            "similarity": 0.538,
+            "index": 20,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019719",
+      "summary": "Gloria Allred is arranging a meeting with a new client who was a victim of Jeffrey Epstein. The client is willing to travel to New York to participate in a victim meeting on October 23rd. Communication involves coordinating logistics with the Assistant United States Attorney (AUSA) in the Southern District of New York and the FBI Victim Services team. There are scheduling conflicts and potential rescheduling requests due to the AUSA’s commitments and Allred’s travel plans to Washington, D.C. The communication includes requests for the client’s identifying information and discussion regarding a conference call versus a Skype call.",
+      "timestamp": "2019-11-23T00:00:00",
+      "timestamp_raw": "23 Oct 2019",
+      "keywords": [
+        "efta00019719",
+        "epstein",
+        "victim",
+        "new york",
+        "gloria allred",
+        "fbi",
+        "travel",
+        "reschedule",
+        "meeting",
+        "interview"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00010261",
+            "similarity": 0.5,
+            "index": 25,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00032330",
+            "similarity": 0.667,
+            "index": 23,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038318",
+            "similarity": 0.538,
+            "index": 17,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023405",
+      "summary": "Gloria Allred placed an advertisement on a school bus circling Buckingham Palace, featuring a picture of Prince Andrew and the message \"If you see this man please ask him to call the FBI to answer their questions\" regarding the Jeffrey Epstein case. She was discussing the stunt outside criminal court during the Harvey Weinstein trial, representing some of Epstein’s victims.  A photograph of the bus and a Press Association image accompany the communication.",
+      "timestamp": "2020-02-21T00:00:00",
+      "timestamp_raw": "21 Feb 2020",
+      "keywords": [
+        "gloria allred",
+        "jeffrey epstein",
+        "prince andrew",
+        "fbi",
+        "buckingham palace",
+        "school bus",
+        "harvey weinstein",
+        "aaron katersky",
+        "us attorney",
+        "sdny"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026869",
+      "summary": "Gloria Allred, an attorney representing some of Jeffrey Epstein’s victims, placed an advertisement on a school bus circling Buckingham Palace. The advertisement featured a picture of Prince Andrew and the message “If you see this man please ask him to call the FBI to answer their questions.” Allred discussed the stunt outside criminal court while attending the Harvey Weinstein trial.",
+      "timestamp": "2020-02-21T00:00:00",
+      "timestamp_raw": "21 Feb 2020",
+      "keywords": [
+        "gloria allred",
+        "prince andrew",
+        "fbi",
+        "jeffrey epstein",
+        "buckingham palace",
+        "harvey weinstein",
+        "bus ad",
+        "redaction analysis",
+        "legal",
+        "criminal court"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025186",
+      "summary": "An email exchange occurred between Gloria Allred (of Allred, Maroko & Goldberg) and an Assistant United States Attorney from the Southern District of New York. The U.S. Attorney requested a call with the SONY Epstein team to provide an update and discuss Allred’s clients. Allred responded positively, offering times for the call (3 P.M. or 4 P.M. EST). The email also included contact information for Allred’s firm and a note regarding the confidential nature of the communication.",
+      "timestamp": "2020-03-26T00:00:00",
+      "timestamp_raw": "26 Mar 2020",
+      "keywords": [
+        "gloria allred",
+        "efta00025186",
+        "sony epstein",
+        "united states attorney",
+        "call this week",
+        "redaction analysis",
+        "los angeles",
+        "new york",
+        "march 2020",
+        "legal"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023132",
+      "summary": "Gloria Allred (Allred, Maroko & Goldberg) communicated via email regarding a call with the SONY Epstein team. The initial contact was initiated by the SONY Epstein team requesting a call to provide an update and discuss clients. Allred confirmed her availability for a call, suggesting either 3:00 PM or 4:00 PM EST on March 26th or 27th. The SONY Epstein team provided a conference line (dial-in code: 933571) and offered to send a Zoom number. The communications involved multiple redactions of sender and recipient information.",
+      "timestamp": "2020-03-26T00:00:00",
+      "timestamp_raw": "26 Mar 2020",
+      "keywords": [
+        "gloria allred",
+        "los angeles",
+        "litigation",
+        "zoom",
+        "conference call",
+        "march 2020",
+        "sony epstein",
+        "united states attorney"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016228",
+      "summary": "The document is a series of email exchanges primarily between Gloria Allred and multiple individuals, including a US Attorney, regarding scheduling a call to discuss updates and client views. The call is to occur around 3:00 PM EST, with offers of alternative times (4:00 PM EST and 3PM EST). Conference line details (dial-in code 933571) are also provided. The exchange involves coordination for a meeting to discuss client feedback and updates, with references to previous conversations and a request for an update on client views. The document also includes information about Gloria Allred's induction into the National Women's Hall of Fame.",
+      "timestamp": "2020-03-31T00:00:00",
+      "timestamp_raw": "31 Mar 2020",
+      "keywords": [
+        "gloria allred",
+        "call",
+        "conference line",
+        "zoom",
+        "time",
+        "3:00 pm",
+        "usavoice",
+        "clients",
+        "los angeles",
+        "ca"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00024279",
+            "similarity": 0.538,
+            "index": 33,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00024279",
+      "summary": "The document is a series of email exchanges between Gloria Allred and multiple recipients, primarily within the Epstein team at the Southern District of New York, concerning a scheduled call to discuss updates and client information. The call was initially proposed for 3:00 PM EST or 4:00 PM EST, with the offer of a conference line provided (dial-in code 933571).  Several recipients requested alternative times and offered to send a Zoom number.  The document highlights logistical arrangements, including the need for a USAVoice account login reset, and confirms the date of the call (March 31, 2020). Redactions obscure specific names and potentially sensitive details within the emails.",
+      "timestamp": "2020-03-31T00:00:00",
+      "timestamp_raw": "March 31, 2020",
+      "keywords": [
+        "call",
+        "conference line",
+        "gloria allred",
+        "zoom",
+        "time",
+        "update",
+        "3pm est",
+        "usavoice",
+        "number",
+        "clients"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00016228",
+            "similarity": 0.538,
+            "index": 32,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024259",
+      "summary": "Gloria Allred is coordinating a call with an unidentified “SONY Epstein team” regarding updates and client discussions. Initial communication occurred on March 31, 2020, with the team proposing times of 3:00 PM EST or 4:00 PM EST for the call. The team provided a conference line (933571). Subsequent emails continued to solidify the time for the call, primarily focusing on scheduling flexibility. The team also inquired about client feedback from last week. Allred responded with offers to send a Zoom number or conference number, and ultimately confirmed a time of 3:00 PM EST for the call. The communication involved multiple parties and included information about Allred's firm and awards, as well as a standard legal confidentiality disclaimer.",
+      "timestamp": "2020-03-31T00:00:00",
+      "timestamp_raw": "March 31, 2020",
+      "keywords": [
+        "gloria allred",
+        "call",
+        "conference",
+        "time",
+        "number",
+        "los angeles",
+        "3:00 pm est",
+        "zoom",
+        "redaction",
+        "united states attorney"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016237",
+      "summary": "Gloria Allred, through her law firm Allred, Maroko & Goldberg, was coordinating calls with various parties, primarily a client regarding a delayed phone order and a U.S. Attorney’s office from the Southern District of New York. Discussions revolved around scheduling calls (primarily around 3:00 PM EST), gathering information from clients, and offering alternative communication methods (Zoom, conference lines). The U.S. Attorney requested an update on client views and reactions and offered to provide a Zoom number.",
+      "timestamp": "2020-04-01T00:00:00",
+      "timestamp_raw": "01 Apr 2020",
+      "keywords": [
+        "gloria allred",
+        "call",
+        "phone",
+        "law",
+        "los angeles",
+        "conference line",
+        "zoom",
+        "time",
+        "update",
+        "client"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016220",
+      "summary": "The document details a series of communications regarding a conference call between Gloria Allred and various parties, primarily focusing on scheduling and logistical arrangements. Initially, the call was set for 4 PM EST on April 1st, 2020, utilizing a specific conference line (933571). Subsequent exchanges involved confirming the call time (3 PM EST or 4 PM EST), exploring alternative communication methods (Zoom, conference numbers), and inquiring about updates on client information discussed previously.  Multiple individuals, including an Assistant United States Attorney, requested the call and provided contact information. The core discussion revolves around coordinating a meeting to discuss client matters and receive updates.",
+      "timestamp": "2020-04-01T00:00:00",
+      "timestamp_raw": "01 Apr 2020",
+      "keywords": [
+        "gloria allred",
+        "conference line",
+        "933571",
+        "call",
+        "zoom",
+        "client",
+        "update",
+        "3p.m.",
+        "est",
+        "4p.m.",
+        "law",
+        "legal"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025398",
+      "summary": "Attorney’s Office (USAO-SDNY) is discussing a matter with the Office of Professional Responsibility (OPR). *   The USAO-SDNY is concerned about OPR potentially interviewing victims regarding contacts with the USAO-SDNY and FBI-MIA from 2005-2008, specifically concerning the Epstein case. They want to avoid discussions about the criminal scheme's substance. *   OPR requests to be advised of individuals on a list who are represented by counsel. *   OPR provides a spreadsheet detailing the legal representation of 32 individuals on the list: Brad Edwards, Jack Scarola, Sigrid McCawley, Rita Glavin, and Gloria Allred. *   Five individuals on the list are uncontactable (either due to lack of connection at the AUSA level or presumed deceased). *   The USAO-SDNY confirms they will provide OPR with information regarding individuals represented by counsel. *   All parties express a desire to maintain open communication and avoid any interference with ongoing investigations.",
+      "timestamp": "2020-04-07T00:00:00",
+      "timestamp_raw": "07 Apr 2020",
+      "keywords": [
+        "usao-sdny",
+        "opr",
+        "interviews",
+        "victims",
+        "counsel",
+        "legal representation",
+        "criminal scheme",
+        "epstein",
+        "2005-2008",
+        "witness statements",
+        "spreadsheet"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026532",
+      "summary": "Gloria Allred of Allred, Maroko & Goldberg (located at 6300 Wilshire Blvd., Los Angeles, CA 90048) received an email from an Assistant United States Attorney from the Southern District of New York regarding a call concerning the Epstein case. The Assistant U.S. Attorney requested a call at 6:00 PM EST and inquired about Allred's availability. Allred responded affirmatively, stating she would. Images named “image001.png” and “image002.png” were attached to the email. Allred is recognized as a \"Best Lawyer\" by Martindale-Hubbell and inducted into the National Women's Hall of Fame in 2019.",
+      "timestamp": "2020-05-21T00:00:00",
+      "timestamp_raw": "21 May 2020",
+      "keywords": [
+        "gloria allred",
+        "epstein",
+        "law",
+        "los angeles",
+        "conference call",
+        "united states attorney",
+        "new york",
+        "2020",
+        "legal",
+        "redaction"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00016449",
+            "similarity": 0.538,
+            "index": 40,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00016448",
+      "summary": "An Assistant United States Attorney from the Southern District of New York contacted Gloria Allred on May 21, 2020, requesting a call to discuss “quick questions” related to the Jeffrey Epstein case. The contact information included the Assistant’s office address and email.",
+      "timestamp": "2020-05-21T00:00:00",
+      "timestamp_raw": "May 21, 2020",
+      "keywords": [
+        "epstein case",
+        "united states attorney",
+        "gloria allred",
+        "call",
+        "new york",
+        "assistant",
+        "southern district of new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016449",
+      "summary": "Gloria Allred received an email from EFTA00016449 requesting a conference call to discuss the Epstein case. The initial email inquired about a call at 6:00 PM EST and included images. A subsequent email from EFTA00016449 prompted the call due to “quick questions” regarding the case. The email was sent from the Assistant United States Attorney, Southern District of New York, with a confidentiality notice and instructions for recipients to notify Allred, Maroko & Goldberg immediately if received in error.",
+      "timestamp": "2020-05-21T00:00:00",
+      "timestamp_raw": "21 May 2020",
+      "keywords": [
+        "gloria allred",
+        "epstein",
+        "call",
+        "conference call",
+        "los angeles",
+        "legal",
+        "us attorney",
+        "new york",
+        "2020",
+        "2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00026532",
+            "similarity": 0.538,
+            "index": 38,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021812",
+      "summary": "Department of Justice’s Victim Notification System (VNS) regarding Case 31E-NY-3027571, involving Ghislaine Maxwell’s charges related to alleged abuse between 1994-1997. Daniel Rose, P.A., has been designated to receive notifications on behalf of a potential victim (identified as Gloria Allred). The DOJ is informing Rose of the ongoing investigation and providing details about victim’s rights under the Victims’ Rights and Restitution Act (VRRA) and the Crime Victims’ Rights Act.  Rose is directed to register with VNS to receive updates on the case, but can also verify his email address for notifications. The document emphasizes that while Rose was initially identified as a potential victim, ongoing notifications will only be provided if he requests them. It outlines procedures for opting out of notifications and provides contact information for the VNS Help Desk and the Victims’ Rights Ombudsman. The document also highlights the presumption of innocence and the DOJ’s role in ensuring justice is served.",
+      "timestamp": "2020-07-03T00:00:00",
+      "timestamp_raw": "03 Jul 2020",
+      "keywords": [
+        "u.s. department of justice",
+        "vns",
+        "gloria allred",
+        "notification system",
+        "court case",
+        "jeffrey epstein",
+        "ghislaine maxwell",
+        "victim notification",
+        "restitution",
+        "victims' rights",
+        "criminal justice",
+        "email address",
+        "registry"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031416",
+      "summary": "Gloria Allred and her co-counsel, Mariann Wang, contacted an individual to discuss potential victims of Jeffrey Epstein and Maxwell who were willing to speak to the FBI. They requested a call on Wednesday at 2 P.M. EST to discuss questions prior to scheduling client interviews. The communication included contact information for Allred, Maroko & Goldberg and emphasized the confidential nature of the message.",
+      "timestamp": "2020-08-10T00:00:00",
+      "timestamp_raw": "10 Aug 2020",
+      "keywords": [
+        "epstein",
+        "maxwell",
+        "victims",
+        "fbi",
+        "gloria allred",
+        "allred",
+        "maroko & goldberg",
+        "interview",
+        "scheduling",
+        "confidential"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026574",
+      "summary": "This document details a series of email exchanges between Gloria Allred’s law firm, Allred, Maroko & Goldberg, and FBI and USANYS personnel regarding interviews with clients connected to Jeffrey Epstein and Ghislaine Maxwell. The primary purpose is to schedule interviews with these clients, who have been identified through investigations involving individuals like Andrew Prince and others who interacted with Epstein. Key details include: *   **Initial Scheduling:** Mariann Wang requests interviews with Allred’s clients on October 9th, 2020, following prior adjournments. *   **Zoom Meetings:** Multiple Zoom meetings are arranged to discuss the clients and their information with Allred and FBI/USANYS representatives. The meetings initially scheduled for August 11th, 2020, were adjusted due to scheduling conflicts. *   **Client List:** The document references several individuals connected to Epstein, including “AR,” “DM,” “EH,” and “JRC,” along with their associated periods of involvement and locations. *   **FBI Involvement:** The FBI (NY) and USANYS are actively involved in coordinating the interviews and gathering information. *   **Confidentiality:** The document concludes with a strong warning about the confidential nature of the information.",
+      "timestamp": "2020-11-04T00:00:00",
+      "timestamp_raw": "04 Oct 2020",
+      "keywords": [
+        "gloria allred",
+        "fbi",
+        "zoom",
+        "interviews",
+        "epstein",
+        "maxwell",
+        "new york",
+        "october 9th",
+        "2020",
+        "clients",
+        "united states attorney",
+        "allred maroko goldberg"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013253",
+      "summary": "Mariann Wang is coordinating with Gloria Allred’s office to interview clients involved in investigations related to Jeffrey Epstein and Ghislaine Maxwell. The clients have various connections to the individuals, including interactions, travel, and potential incidents in New York, Florida, and Washington, D.C. between 2002-2017.  The team is scheduling interviews via Zoom and discussing the need to carefully handle information provided by the clients. There’s a request to schedule a call with a United States Attorney to discuss further questions.  The communication involves multiple confirmations of meeting times and logistical details (Zoom links, phone numbers) among the parties.",
+      "timestamp": "2020-11-12T00:00:00",
+      "timestamp_raw": "12 Oct 2020",
+      "keywords": [
+        "epstein",
+        "maxwell",
+        "interviews",
+        "new york",
+        "florida",
+        "photographs",
+        "zoom",
+        "clients",
+        "redaction",
+        "allred"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038168",
+      "summary": "This document is a redacted FBI investigation file (EFTA00038168) concerning a meeting in Miami involving Gloria Allred, an attorney, and FBI agents. The core issues revolve around confusion regarding Allred’s client’s name and details related to her travel arrangements and communication. Specifically, there are questions about the correct spelling of her legal name, the accuracy of client lists, and the need for secure communication channels. FBI agents are coordinating with Allred’s office (Allred, Maroko & Goldberg) and other parties to ensure proper handling of information and facilitate travel arrangements for the client. There's a request for a secure telephone line for those unable to attend in person, and ongoing communication with the Department of Justice (DOJ) regarding the Miami meeting.",
+      "timestamp": "2020-12-02T00:00:00",
+      "timestamp_raw": "02 Nov 2020",
+      "keywords": [
+        "miami meeting",
+        "gloria allred",
+        "fbi",
+        "travel",
+        "legal name",
+        "list",
+        "email",
+        "transcription",
+        "victims",
+        "phone number"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028681",
+      "summary": "Mariann Wang sent an email to [REDACTED] regarding a follow-up, referencing a message from Gloria Allred. The email is associated with document EFTA00028681.",
+      "timestamp": "2020-12-23T00:00:00",
+      "timestamp_raw": "23 Nov 2020",
+      "keywords": [
+        "efta00028681",
+        "gloria allred",
+        "redaction",
+        "follow up",
+        "mariann wang",
+        "email",
+        "2020",
+        "analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028682",
+      "summary": "This document details a series of communications between Mariann Wang, an attorney, and Gloria Allred’s legal team (Allred, Maroko & Goldberg) regarding an ongoing investigation, likely related to Jeffrey Epstein and his associate, Maxwell. The primary focus is securing interviews with potential witnesses and gathering information, particularly concerning photographs. Here’s a breakdown of the key events and requests: *   **Initial Scheduling:** Allred and Wang initially discussed scheduling a call for 2 PM EST/11 AM PST. *   **FBI Involvement:** An Assistant United States Attorney from the Southern District of New York is involved, awaiting information from the FBI. *   **Multiple Reschedulings:** Due to scheduling conflicts and the need for information from the FBI, the call time is repeatedly adjusted (to 1 PM ET/10 AM PT). *   **Information Requests:** Wang specifically requests information regarding photographs and seeks to delay sharing this information with clients until the scope is understood. *   **Assistant Attorney’s Delay:** The Assistant Attorney reports delays due to the FBI being “swamped” and traveling for work. *   **Confirmation and Updates:** Throughout the exchanges, confirmations of availability and requests for updates are consistently made. The document highlights a process of carefully managing information and scheduling, driven by the need for timely investigation and client communication. Several communications are redacted for security reasons.",
+      "timestamp": "2020-12-23T00:00:00",
+      "timestamp_raw": "23 Nov 2020",
+      "keywords": [
+        "gloria allred",
+        "fbi",
+        "new york",
+        "zoom",
+        "wednesday",
+        "maxwell",
+        "epstein",
+        "photographs",
+        "calls",
+        "information"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00011526",
+      "summary": "On March 1, 2021, attorneys Mariann Wang and Gloria Allred provided an attorney proffer to the U.S. Attorney’s Office (AUSA S) regarding information their client had disclosed since 2020 interviews with the SDNY and FBI. The client had subsequent interactions with Jeffrey Epstein between December 2018 and July 2019, including being lured to Paris and Florida with offers of employment, leaving Epstein, and Epstein offering help through another woman. The client took up this offer and traveled to New York with Epstein, and experienced sexual abuse in Florida and the Virgin Islands. The client also visited Epstein’s Paris apartment and interacted with Epstein around the time of his arrest, where he requested assistance finding girls for him, including a meeting with a young woman in Russia.",
+      "timestamp": "2021-03-01T00:00:00",
+      "timestamp_raw": "March 1, 2021",
+      "keywords": [
+        "efta00011526",
+        "attorney proffer",
+        "gloria allred",
+        "mariann wang",
+        "epstein",
+        "sdufbi",
+        "paris",
+        "florida",
+        "sexual abuse",
+        "2021-03-01"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024031",
+      "summary": "On March 17, 2021, Mariann Wang contacted [REDACTED] regarding a survivor who wished to share information about abuse by Jeffrey Epstein, specifically an incident in 2004. Mariann Wang proposed April 1st or April 2nd for an interview, and [REDACTED] responded suggesting April 2nd at 12:30 PM, requesting the participant’s names and email addresses. Gloria Allred was included in the email chain.",
+      "timestamp": "2021-03-17T00:00:00",
+      "timestamp_raw": "March 17, 2021",
+      "keywords": [
+        "epstein",
+        "survivor",
+        "abuse",
+        "2004",
+        "april 1",
+        "interview",
+        "names",
+        "email addresses",
+        "redaction",
+        "mariann wang"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00024712",
+            "similarity": 0.538,
+            "index": 50,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00031943",
+            "similarity": 0.5,
+            "index": 51,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00024712",
+      "summary": "Mariann Wang contacted “S” to schedule an interview with a survivor who reported being abused by Jeffrey Epstein in 2004. She initially suggested April 1st but offered April 2nd at 12:30 PM as an alternative. Gloria Allred was copied on the email chain. The survivor’s information was redacted.",
+      "timestamp": "2021-03-18T00:00:00",
+      "timestamp_raw": "18 Mar 2021",
+      "keywords": [
+        "epstein",
+        "survivor",
+        "abuse",
+        "interview",
+        "april",
+        "redaction",
+        "mariann wang",
+        "gloria allred",
+        "2004",
+        "efta00024712"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00024031",
+            "similarity": 0.538,
+            "index": 49,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031943",
+      "summary": "Mariann Wang sent an email to SI, Cc’ing Gloria Allred, regarding a survivor of Jeffrey Epstein. The survivor experienced abuse on one occasion in 2004.  A proposed meeting was suggested for April 1st at 12:30 PM. The email chain included discussion about scheduling and the recipient’s existing commitments. Redactions were present on both pages.",
+      "timestamp": "2021-03-18T00:00:00",
+      "timestamp_raw": "18 Mar 2021",
+      "keywords": [
+        "epstein",
+        "survivor",
+        "april 1",
+        "2021",
+        "names",
+        "email addresses",
+        "interviews",
+        "abuse",
+        "mariann wang",
+        "gloria allred",
+        "redacted"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00024031",
+            "similarity": 0.5,
+            "index": 49,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038582",
+      "summary": "A client, represented by Mariann Wang, requested cancellation of a meeting due to repeated discussions about interactions with Jeffrey Epstein and a belief that their information wouldn't materially advance ongoing prosecutions. The email was sent to [REDACTED] with a copy to Gloria Allred.",
+      "timestamp": "2021-04-01T00:00:00",
+      "timestamp_raw": "01 Apr 2021",
+      "keywords": [
+        "efta00038582",
+        "meeting",
+        "epstein",
+        "interview",
+        "prosecution",
+        "usanys",
+        "mariann wang",
+        "gloria allred",
+        "redaction",
+        "external email"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038678",
+      "summary": "Two FBI agents, a Special Agent from the FBI New York Field Office (Child Exploitation/Human Trafficking Desk) and a Victim Specialist from the FBI New York Division, are involved in a separate Human Trafficking (HT) case. A victim in this HT case contacted the Victim Specialist after receiving a message referencing a victim from the Epstein case. Gloria Allred represented the Epstein victim and controlled communication with individuals, requiring all interactions to go through her. The Special Agent provided Gloria Allred with victim resource information and was unable to directly contact the Epstein victim due to her refusal to share contact details.",
+      "timestamp": "2024-12-15T00:00:00",
+      "timestamp_raw": "15 Nov 2024",
+      "keywords": [
+        "epstein",
+        "victim",
+        "fbi",
+        "new york",
+        "human trafficking",
+        "gloria allred",
+        "ht case",
+        "contact information",
+        "redaction",
+        "resources"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    }
+  ]
+}

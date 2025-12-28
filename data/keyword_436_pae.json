@@ -1,0 +1,1329 @@
+{
+  "keyword": "pae",
+  "count": 37,
+  "keyword_match_count": 37,
+  "content_match_count": 11,
+  "total_files": 48,
+  "timeline": [
+    {
+      "file_id": "EFTA00022173",
+      "summary": "*   **NCA’s Inaction:** Taylor claims the NCA, along with other agencies (SFO, British police forces, FCA, SFO, ICO), refuses to investigate due to political interference, corruption, and intimidation. *   **Deutsche Bank Involvement:** Taylor alleges Deutsche Bank (DB) engaged in money laundering through the destruction of bullion trading receipts and facilitated transactions for the Russian Mafia via its Estonian branch. He claims DB bribed judges and regulators to conceal this activity. *   **Legal Battles & Obstruction:** Taylor describes a protracted legal battle against DB, claiming obstruction from the judiciary (Lord Chief Justice Sir Ian Burnnet) and the ICO, which refused to disclose relevant information. *   **Epstein Connection:** Taylor asserts that Jeffrey Epstein used DB and Barclays to launder money and blackmail Parliament, potentially influencing individuals within Barclays (Jes Staley). *   **Suspicious Death:** Taylor suggests Katherine Frisk, a source of information against Staley, was murdered by Staley’s operators. *   **Evidence & Criticisms:** Taylor references a document (http://www.shyreman.com/docs/claim.bundle/evidence.for.fake.gold.audit.pdf) and criticizes the performance of Action Fraud, the ICO, and the FCA, citing low approval ratings.",
+      "timestamp": "2019-12-15T00:00:00",
+      "timestamp_raw": "15 December, 2019",
+      "keywords": [
+        "russian money laundering",
+        "epstein paedophile ring",
+        "deutsche bank",
+        "gold bullion",
+        "nca",
+        "fraud",
+        "barclays",
+        "staley",
+        "corruption",
+        "fca",
+        "data protection rights"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029661",
+      "summary": "Emails discuss the upload and privilege review of data related to the Epstein case, originating from an FBI CART hard drive. The data was expected to be ready by the end of the week, with updates provided regarding its status. Instructions were given for PAE to categorize the data into PP and NP folders based on privilege terms and to send STR reports. The recipient requested the hard drive back once the materials were uploaded for a subsequent privilege review mirroring a previous process.",
+      "timestamp": "2020-02-12T00:00:00",
+      "timestamp_raw": "12 Feb 2020",
+      "keywords": [
+        "epstein",
+        "search materials",
+        "privilege review",
+        "relativity",
+        "data",
+        "upload",
+        "fbi",
+        "hard drive",
+        "folders",
+        "vendor"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020803",
+      "summary": "The document records email correspondence regarding the upload and privilege review of materials related to the Epstein case. The materials originated from a hard drive received from the FBI CART, containing data seized during searches. Discussions centered on locating the materials within the Relativity database, specifically under the “Search Warrant Returns” folder. There were concerns about the volume of data and potential issues with the vendor (PAE) releasing it. Updates were provided on the status of data uploads, including the release of the “NP” folder and segregated “PP hits.” Requests were made for guidance on folder structure and for the return of the hard drive once the materials were uploaded. The final email included a document named “STR_Epstein_Privilege Terms_02. I 4.2020.pdf”.",
+      "timestamp": "2020-02-23T00:00:00",
+      "timestamp_raw": "23 Feb 2020",
+      "keywords": [
+        "epstein",
+        "relativity",
+        "search warrant returns",
+        "subpoena returns",
+        "data upload",
+        "fbi",
+        "privilege review",
+        "folder structure",
+        "vendor",
+        "data volume"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020839",
+      "summary": "Multiple parties (including FBI personnel and a vendor named PAE) are involved in the upload and privilege review of data related to the Epstein case. There are concerns about the volume of data, specifically repeated documents and large file sizes. The data is being transferred from various sources, including FBI CART hard drives, and there are requests for it to be organized and moved to the appropriate Relativity folders (Search Warrant Returns). There are delays and questions regarding the upload process and the need for duplication. Discussions revolve around folder structure, data accessibility, and the timeline for completion of the privilege review.",
+      "timestamp": "2020-03-03T00:00:00",
+      "timestamp_raw": "03 Mar 2020",
+      "keywords": [
+        "epstein",
+        "relativity",
+        "search warrant returns",
+        "data",
+        "upload",
+        "de-dupe",
+        "folder structure",
+        "fbi",
+        "privilege review",
+        "documents"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00029754",
+            "similarity": 0.818,
+            "index": 4,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00029754",
+      "summary": "The document contains email exchanges regarding the upload and privilege review of extensive search materials related to the Epstein case. Key issues include: *   **Data Volume & Duplication:** Significant concerns were raised about the large volume of data, particularly repeated documents, requiring de-duplication. *   **Folder Structure:** Discussions centered on the correct placement of the materials within the Relativity database, specifically regarding the categorization of data under “Search Warrant Returns” versus “Subpoena Returns.” *   **Vendor Delays:** The vendor (PAE) experienced difficulties releasing the data due to its size, causing delays in processing. *   **Data Delivery:** The FBI provided a hard drive with processed data from seized devices, and subsequent data sets were anticipated. *   **Ongoing Review:** The uploaded data was to be subject to the same privilege review previously conducted on Epstein search warrant returns.",
+      "timestamp": "2020-03-10T00:00:00",
+      "timestamp_raw": "10 Mar 2020",
+      "keywords": [
+        "epstein",
+        "relativity",
+        "search warrant returns",
+        "data",
+        "upload",
+        "privilege review",
+        "redaction",
+        "documents",
+        "folder structure",
+        "fbi"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00020839",
+            "similarity": 0.818,
+            "index": 3,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023728",
+      "summary": "Initially, there’s confusion regarding the format and organization of the data being provided by the FBI (NY CART Coordinator) and the US Attorney’s Office. A core issue is the lack of clear identification of devices and their associated data, leading to difficulty in tracking progress and ensuring all relevant materials are being processed. Multiple requests are made for a spreadsheet detailing the devices, their contents, and the status of the data review. Concerns are raised about the volume of data (over a million documents), inconsistencies in file naming and dates, and the inability to easily link data to specific devices.  There are discussions about the transfer process, including the need for a system to identify and categorize the data, and addressing potential network issues.  Several individuals – FBI agents, contractors, and attorneys – are involved in the coordination and communication regarding the ongoing review.  Ultimately, there’s a desire for a structured approach to manage the massive amount of digital evidence and facilitate the legal proceedings.",
+      "timestamp": "2020-07-07T00:00:00",
+      "timestamp_raw": "07 Jul 2020",
+      "keywords": [
+        "efta00023728",
+        "epstein",
+        "search warrant",
+        "documents",
+        "data",
+        "drive",
+        "pae",
+        "relativity",
+        "redaction",
+        "devices",
+        "fbi",
+        "usvi",
+        "ny",
+        "mac",
+        "files",
+        "review"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032104",
+      "summary": "Initial delays and communication issues have hampered progress. Here’s a breakdown of the key points: *   **Data Transfer Challenges:** The FBI (through the NY CART Coordinator) is extracting data from various devices (hard drives, laptops, CDs, etc.) but the transfer process is slow and complicated by a lack of clear labeling and tracking of the data. *   **Relativity System:** The team is attempting to utilize the Relativity e-discovery platform for analysis, but this requires the data to be converted into a specific format that the Relativity system can handle. This conversion process is being handled by BRG, but it's a time-consuming step. *   **Communication Breakdown:** There are recurring communication gaps between the FBI, the U.S. Attorney’s Office, and the contractor, leading to misunderstandings about timelines, deliverables, and the necessary format for the data. *   **Timeline Issues:** The initial estimates for completing the data processing and analysis have been repeatedly pushed back due to the complexity of the evidence and the ongoing challenges. *   **Budget Requests:** The contractor is seeking funding to engage BRG for the data conversion and processing, estimating the cost to be between $85,000 and $135,000. *   **Data Organization Needs:** The team stresses the critical need for a consistent system for identifying and tracking the data, requesting a spreadsheet detailing the devices and the materials extracted from them. Essentially, the document is a record of a complex, frustrating, and poorly coordinated data processing operation with significant delays and a lack of clarity.",
+      "timestamp": "2020-07-10T00:00:00",
+      "timestamp_raw": "10 Jul 2020",
+      "keywords": [
+        "efta00032104",
+        "epstein",
+        "search warrant",
+        "data extraction",
+        "processing",
+        "relativity",
+        "fbi",
+        "pae",
+        "brg",
+        "tiff",
+        "data",
+        "devices",
+        "file set",
+        "review",
+        "timelines",
+        "materials",
+        "usvi",
+        "ny",
+        "mac",
+        "hard drives",
+        "servers",
+        "processing",
+        "load file"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027569",
+      "summary": "On July 14, 2020, a contractor (USANYS) received new data related to the US v. Epstein case from IM. The processing and uploading cost was estimated at $8,000.00, and the data was intended to be sent to PAE, requesting approval from the recipient. EFTA00027569 is the case identifier.",
+      "timestamp": "2020-07-14T00:00:00",
+      "timestamp_raw": "July 14, 2020",
+      "keywords": [
+        "epstein",
+        "us v.",
+        "relativity",
+        "pae",
+        "data",
+        "vendor",
+        "cost",
+        "processing",
+        "upload",
+        "contract"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028052",
+      "summary": "The document details the upload of approximately 40,000 files (300GB) related to the Epstein/Maxwell case to Relativity. A contractor ([REDACTED]) is preparing the files for review and marking as confidential. The files are being transferred to PAE for processing. Specific instructions are being provided regarding the marking of the documents (all confidential), the Bates numbering system, and the production format (single page TIFF images, database load files, or PDF production). Links to the production files are provided: Deutsche Bank and JP Morgan.  A request is made to review the files and adjust the production if necessary.",
+      "timestamp": "2020-09-24T00:00:00",
+      "timestamp_raw": "24 Sep 2020",
+      "keywords": [
+        "epstein",
+        "maxwell",
+        "relativity",
+        "production",
+        "confidential",
+        "documents",
+        "files",
+        "pae",
+        "database",
+        "search"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00028820",
+            "similarity": 0.818,
+            "index": 9,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00030592",
+            "similarity": 0.538,
+            "index": 16,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00028820",
+      "summary": "*   Questions arise regarding the presence of a confidential stamp on native Excel files, and whether the documents require privilege review (specifically, excluding electronic search warrant returns). *   Links to Relativity pages for Deutsche Bank and JP Morgan documents are provided for review. *   Concerns are raised about data access within Relativity due to the format of the files (primarily images and video). *   Requests are made for details on document production format (tiff images, database load files, or PDF production), Bates number usage, and the placement of a confidential stamp. *   A legal specialist from the US Attorney’s Office SDNY is involved in coordinating the upload process.",
+      "timestamp": "2020-09-24T00:00:00",
+      "timestamp_raw": "24 Sep 2020",
+      "keywords": [
+        "relativity",
+        "epstein",
+        "maxwell",
+        "documents",
+        "production",
+        "confidential",
+        "data",
+        "search",
+        "pae",
+        "database"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00028052",
+            "similarity": 0.818,
+            "index": 8,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028823",
+      "summary": "*   The files are initially copied to a drive and will be uploaded to the Relativity database under the folder “US v. Epstein 4 FBI Case File 4 Images Seized During Search.” *   Requests are made regarding the stamping process (Confidential stamp, Bates number, preferred production format - TIFF images, database load files, or PDF), and clarification is given that searching the files after they've been loaded to Relativity is not possible due to their format. *   There is discussion about the appropriate handling of privileged review (only warrant returns should be privileged) and the lack of a confidential stamp option for Excel files. *   A link to the Relativity database is provided for review.",
+      "timestamp": "2020-09-24T00:00:00",
+      "timestamp_raw": "24 Sep 2020",
+      "keywords": [
+        "relativity",
+        "epstein",
+        "maxwell",
+        "deutsche bank",
+        "jpmorgan",
+        "data",
+        "production",
+        "confidential",
+        "files",
+        "upload",
+        "redaction",
+        "pae",
+        "usanys"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031094",
+      "summary": "An email thread, dated October 14, 2020, discusses PAE (likely a project or initiative) and litigation priorities. The email originated from [REDACTED] to [REDACTED], with CCs to [REDACTED]. An attached message, named \"_PAE_and_Litigationpriorities.msg,\" is referenced.",
+      "timestamp": "2020-10-14T00:00:00",
+      "timestamp_raw": "October 14, 2020",
+      "keywords": [
+        "efta",
+        "redaction",
+        "pae",
+        "litigation",
+        "priorities",
+        "message",
+        "outlook",
+        "analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028838",
+      "summary": "On October 21, 2020, [REDACTED] (USANYS) sent spreadsheets to [REDACTED] regarding cases hosted at PAE. These included an Excel spreadsheet named SDNY_Access_Statistics.xlsx and an Excel spreadsheet detailing web hosting size as of October 1, 2020 (SDNY_Data_Hosted_On_10.01.2020.xls). The request stemmed from a previous meeting and a subsequent similar list was also sent to [REDACTED]. The document references case ID EFTA00028838.",
+      "timestamp": "2020-10-21T00:00:00",
+      "timestamp_raw": "October 21, 2020",
+      "keywords": [
+        "efta00028838",
+        "pae",
+        "usanys",
+        "cases",
+        "sdny",
+        "statistics",
+        "redaction",
+        "spreadsheet",
+        "hosting",
+        "october 2020"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030528",
+      "summary": "A cover letter to PAE, attached as 2020.11.02_Cover Letter to_PAE.docx, was sent by ‘cl’ to the Assistant United States Attorney, Southern District of New York, on November 2, 2020. The document is associated with EFTA00030528.",
+      "timestamp": "2020-11-02T00:00:00",
+      "timestamp_raw": "November 2, 2020",
+      "keywords": [
+        "efta00030528",
+        "redaction analysis",
+        "pae",
+        "cover letter",
+        "united states attorney",
+        "southern district of new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013205",
+      "summary": "Epstein. *   Production consists of 40,000 images, FBI Florida boxes, and FBI FOIA documents. *   Electronic devices are not being produced. *   FedEx is delivering data in batches, with a significant amount still being processed and imaged. *   Specific hard drives (SDNYPROD008-014) containing approximately 1.2 million records are being sent to SDNY. *   The initial target date for record availability is November 2, 2020, with production starting shortly after. *   The initial target date for completion was November 9, 2020, but this is now unlikely. A revised estimate will be provided early next week. *   PAE is providing the documents on a rolling basis.",
+      "timestamp": "2020-11-02T00:00:00",
+      "timestamp_raw": "November 2, 2020",
+      "keywords": [
+        "fbi",
+        "documents",
+        "productions",
+        "images",
+        "fedex",
+        "sdny",
+        "epstein",
+        "records",
+        "november 9",
+        "hard drive",
+        "e-discovery"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020821",
+      "summary": "Maxwell* was submitted. *   The initial deadline was November 9, 2020. *   The outside vendor, PAE, responsible for processing the discovery materials (extracted electronic devices from Jeffrey Epstein’s residences), informed the US Attorney’s office that they would not meet the deadline due to technical difficulties with bates stamping and downloading the production. *   PAE anticipates completing the work by November 19, 2020, and will then send the materials to 1 St. Andrew’s Plaza for review. *   The US Attorney’s office intends to request a two-week extension of the deadline, ending on November 23, 2020, specifically for the vendor-processed materials. *   Jeff Pagliuca initially requested more information before taking a position and the case team had been struggling with client calls and visitation.",
+      "timestamp": "2020-11-09T00:00:00",
+      "timestamp_raw": "November 9, 2020",
+      "keywords": [
+        "us v. maxwell",
+        "discovery deadline",
+        "relativity",
+        "pae",
+        "production",
+        "vendor",
+        "november 9",
+        "extension request",
+        "united states attorney",
+        "epstein"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030592",
+      "summary": "*   Due to the large file size, the data will be sent to the vendor on a 1TB hard drive. *   There’s a discrepancy between the number of files initially found (41,000) and the number present in the production (22,000), potentially due to un-imaged native files. *   The production data, including Bates-stamped documents, has been uploaded to Relativity. *   Instructions are given for marking documents as confidential and assigning Bates numbers. *   Requests are made for the production of native files alongside the stamped production. *   There are discussions about the best method for producing the documents (database load files, TIFF images, or PDF production). *   A timeline and updates are sought regarding the upload and stamping process. *   The initial materials consist of approximately 40,000 files totaling 300GB, currently being copied to a drive.",
+      "timestamp": "2020-11-09T00:00:00",
+      "timestamp_raw": "09 Oct 2020",
+      "keywords": [
+        "epstein",
+        "maxwell",
+        "relativity",
+        "database",
+        "hard drive",
+        "bates stamped",
+        "production",
+        "files",
+        "images",
+        "confidential"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00028052",
+            "similarity": 0.538,
+            "index": 8,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031095",
+      "summary": "Specifically, cases Epstein and 377 Union Street are receiving excessive attention, monopolizing PAE resources. *   **Data Loading Delays:** Data uploads to Relativity are experiencing delays, particularly with large datasets like 377 Union Street (5 HDs of mixed data). Duplicate data and disorganized files are contributing to the issue. *   **Multiple \"Hot\" Cases:** PAE is managing several high-priority cases concurrently, including We Build the Wall, Epstein, PPI, Keefe v US FD, US v Jai, and 377 Union Street. *   **Communication Challenges:** There's frustration regarding the communication process, with lengthy response times from PAE and difficulty in obtaining clear timelines. *   **Deadline Pressure:** The team is under pressure to meet court deadlines, particularly the 25th of the month production requirement. *   **Impact on AUSAs:** The delays are negatively impacting the ability of Assistant US Attorneys to access their evidence and conduct investigations.",
+      "timestamp": "2020-11-14T00:00:00",
+      "timestamp_raw": "14 Oct 2020",
+      "keywords": [
+        "pae",
+        "litigation",
+        "priority",
+        "data",
+        "relativity",
+        "epstein",
+        "377 union street",
+        "timeline",
+        "requests",
+        "ausas",
+        "deadlines"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028688",
+      "summary": "The email chain discusses a significant delay in the processing of data for the US v. Epstein case. Approximately 1.2 million records are being imaged and processed by PAE, with FedEx involvement. The initial deadline of November 9th is now considered unachievable. The team is concerned about the impact on discovery timelines and potential issues with Judge Nathan. Hard drives containing productions (SDNYPROD008-013) are being sent to Sony via FedEx. An update is expected early next week, potentially requiring a broader explanation to the court.",
+      "timestamp": "2020-11-30T00:00:00",
+      "timestamp_raw": "30 Oct 2020",
+      "keywords": [
+        "efta00028688",
+        "relativity",
+        "pae",
+        "fedex",
+        "data processing",
+        "discovery",
+        "deadline",
+        "november 9",
+        "records",
+        "production"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013202",
+      "summary": "*   The images were delayed due to PAE re-doing the production after initially de-duping without prior notification. *   The current production includes images, FBI Florida box documents, and FBI FOIA documents. Electronic device productions were not included. *   PAE is sending images to the recipient on a rolling basis, with an initial target completion date of November 9th appearing unlikely. *   A hard drive containing multiple SDNYPROD productions (1-14) is being shipped via FedEx, with approximately 1.2 million records currently being imaged. *   The recipient is awaiting updates on the processing timeline and anticipates a clearer estimate by early next week.",
+      "timestamp": "2020-11-30T00:00:00",
+      "timestamp_raw": "30 Oct 2020",
+      "keywords": [
+        "pae",
+        "images",
+        "fbi",
+        "redaction",
+        "production",
+        "november 9",
+        "fedex",
+        "records",
+        "electronic devices",
+        "usanys",
+        "sdnyprod"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00019137",
+            "similarity": 0.5,
+            "index": 20,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00019137",
+      "summary": "A communication chain discusses the processing of data, specifically six hard drives (SDNYPROD008-014) containing approximately 1.2 million records, being sent via FedEx to Sony. The data is currently being imaged and marked, with an initial target completion date of November 9th deemed unlikely. A revised estimate suggests completion by Tuesday with a clearer timeline following.  Nick Koontz, a Lead E-Discovery Analyst, is following up on the situation and offering to answer questions and facilitate a call between the parties. The email chain emphasizes the sensitive nature of the information and includes standard disclaimer language.",
+      "timestamp": "2020-11-30T00:00:00",
+      "timestamp_raw": "30 Oct 2020",
+      "keywords": [
+        "efta00019137",
+        "redaction analysis",
+        "pae",
+        "fedex",
+        "november 9",
+        "data imaging",
+        "records",
+        "production",
+        "usanys",
+        "sdnyprod"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00013202",
+            "similarity": 0.5,
+            "index": 19,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015280",
+      "summary": "Epstein case. *   The team is experiencing significant delays (1-2 months) in receiving processed data from Relativity. *   Approximately 1.2 million records are being imaged and will be available for production starting Monday, November 2nd. *   Hard drives containing productions SDNYPROD008 through SDNYPROD014 are being sent to SDNY via FedEx. *   A key concern is the potential impact on deadlines, particularly the November 9th deadline, and the possibility of requiring a court explanation. *   The sender anticipates a more concrete update early next week.",
+      "timestamp": "2020-11-30T00:00:00",
+      "timestamp_raw": "30 Oct 2020",
+      "keywords": [
+        "efta00015280",
+        "relativity",
+        "fedex",
+        "production",
+        "data",
+        "november 9",
+        "judge nathan",
+        "sdny",
+        "records",
+        "imaging",
+        "e-discovery"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014380",
+      "summary": "Two contractors ([REDACTED] and [REDACTED]) are handling the production of materials related to the US v. Epstein case. Two hard drives containing copies of productions 15 & 16 were received from PAE. The vendor is stamping and exporting portions of the production data (parts 1-6) from Relativity. Part 4 is partially stamped, and the vendor is requesting a potential extension from Judge Nathan. The contractor is monitoring the progress and coordinating with other parties regarding the delivery of the hard drives.",
+      "timestamp": "2020-12-13T00:00:00",
+      "timestamp_raw": "13 Nov 2020",
+      "keywords": [
+        "epstein",
+        "us v.",
+        "pae",
+        "relativity",
+        "hard drives",
+        "stamping",
+        "production",
+        "data",
+        "vendor",
+        "usao-sdfl"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019898",
+      "summary": "A United States Attorney from the Southern District of New York is requesting PAE to create a new copy of a 1.2 million document production that was previously copied onto two defense drives. The Attorney is coordinating with a contractor to obtain a drive for PAE to load the new copy and asks PAE to send the drive to -gain.",
+      "timestamp": "2020-12-17T00:00:00",
+      "timestamp_raw": "17 Nov 2020",
+      "keywords": [
+        "pae",
+        "production",
+        "document",
+        "drive",
+        "copy",
+        "usanys",
+        "southern district of new york",
+        "efta00019898",
+        "1.2 million",
+        "coordination"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029975",
+      "summary": "The email chain concerns the production of documents for a legal case, specifically related to PAE drives and iPhone images. A contractor is tasked with: *   Creating password-protected discs containing iPhone images. *   Redacting Bates numbers and updating a cover letter to reflect the contents. *   Preparing a final report with images. *   Making copies of the PAE drives for internal use. *   Coordinating with Maxwell and another party to ensure timely delivery and address potential delays. *   Providing a password-protected copy of the PAE drive for internal use.",
+      "timestamp": "2020-12-17T00:00:00",
+      "timestamp_raw": "17 Nov 2020",
+      "keywords": [
+        "pae drive",
+        "iphone",
+        "production",
+        "bates stamp",
+        "encryption",
+        "defense",
+        "cover letter",
+        "sdny",
+        "usanys",
+        "data copy"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019021",
+      "summary": "An email chain discusses reviewing a 30,000-document SDFL Epstein file that was scanned by a vendor in October. The goal is to determine what documents have been produced to meet pretrial disclosure deadlines. A team of 4 paralegals and an intern are conducting the review, with requests for additional assistance from Darcy’s paralegals. The deadline for completion is the end of April.",
+      "timestamp": "2021-03-17T00:00:00",
+      "timestamp_raw": "17 Mar 2021",
+      "keywords": [
+        "efta00019021",
+        "redaction analysis",
+        "maxwell review",
+        "sdfl epstein file",
+        "relativity",
+        "paralegals",
+        "disclosure deadlines",
+        "pae",
+        "vendor scan",
+        "u.s. attorney's office"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024025",
+      "summary": "An email was sent on March 17, 2021, from [REDACTED] to [REDACTED] regarding Jeffrey Epstein cases. The email requests information about any cases the recipient may have related to Epstein, specifically noting a case already handled with PAE. The email emphasizes the urgency (“time sensitive ISO”) of the request.",
+      "timestamp": "2021-03-17T00:00:00",
+      "timestamp_raw": "March 17, 2021",
+      "keywords": [
+        "jeffrey epstein",
+        "redaction analysis",
+        "foia",
+        "cases",
+        "time sensitive",
+        "iso",
+        "pae"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024012",
+      "summary": "On March 25, 2021, at 8:00 PM - 9:00 PM GMT, there was a tentative call with PAE regarding Jeffrey Epstein. The call used the dial-in number 844-215-6902 with code 707522. The event was marked as X-PERSONAL and created on March 25, 2021. EFTA00024012 was the attendee.",
+      "timestamp": "2021-03-25T00:00:00",
+      "timestamp_raw": "March 25, 2021",
+      "keywords": [
+        "efta00024012",
+        "epstein",
+        "pae",
+        "call",
+        "2021-03-25",
+        "dial-in",
+        "x-personal",
+        "event",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00027714",
+            "similarity": 0.8,
+            "index": 29,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00027716",
+            "similarity": 0.727,
+            "index": 31,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00027713",
+      "summary": "A communication occurred between [REDACTED] and [REDACTED] (USANYS Contractor) regarding a call with PAE concerning Jeffrey Epstein. The communication was sent on March 25, 2021.",
+      "timestamp": "2021-03-25T00:00:00",
+      "timestamp_raw": "March 25, 2021",
+      "keywords": [
+        "efta00027713",
+        "pae",
+        "epstein",
+        "redaction",
+        "contract",
+        "usanys",
+        "2021",
+        "call",
+        "acceptance"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027714",
+      "summary": "On March 25, 2021, at 8:30 PM GMT, a confidential (Class X-PERSONAL) call took place with PAE regarding Jeffrey Epstein. The call lasted from 8:30 PM to 9:00 PM GMT. The event was created on March 25, 2021, at 8:03 PM GMT.",
+      "timestamp": "2021-03-25T00:00:00",
+      "timestamp_raw": "March 25, 2021",
+      "keywords": [
+        "efta00027714",
+        "epstein",
+        "call",
+        "pae",
+        "2021-03-25",
+        "x-personal",
+        "redaction analysis",
+        "event",
+        "dial-in"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00024012",
+            "similarity": 0.8,
+            "index": 27,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00027716",
+            "similarity": 0.727,
+            "index": 31,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00019489",
+      "summary": "On March 25, 2021, communications occurred regarding a discussion about the US v. Epstein case. Multiple individuals, including contractors associated with \"USANYS\" and PAE, requested a call at 4:30 PM to discuss loading scanning data onto Relativity. There were multiple confirmations and adjustments to the proposed time.",
+      "timestamp": "2021-03-25T00:00:00",
+      "timestamp_raw": "March 25, 2021",
+      "keywords": [
+        "epstein",
+        "us v.",
+        "relativity",
+        "pae",
+        "conference call",
+        "redaction",
+        "contractor",
+        "data",
+        "scanning",
+        "usanys"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027716",
+      "summary": "A call occurred on 2021-03-25 from 20:30:00 to 21:00:00 +0000 with PAE regarding Jeffrey Epstein. The call was classified as “X-PERSONAL,” had a priority of 5, and was created/modified on 2021-03-25. A reminder was set to display a message 15 minutes before the start. The file identifier is EFTA00027716.",
+      "timestamp": "2021-03-25T00:00:00",
+      "timestamp_raw": "2021-03-25",
+      "keywords": [
+        "efta00027716",
+        "epstein",
+        "pae",
+        "call",
+        "2021-03-25",
+        "dial-in",
+        "x-personal",
+        "redaction analysis",
+        "event",
+        "reminder"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00027714",
+            "similarity": 0.727,
+            "index": 29,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00024012",
+            "similarity": 0.727,
+            "index": 27,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024011",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] on March 25, 2021, regarding a tentative call with PAE concerning Jeffrey Epstein. The email is attached as EFTA00024011.",
+      "timestamp": "2021-03-25T00:00:00",
+      "timestamp_raw": "March 25, 2021",
+      "keywords": [
+        "efta00024011",
+        "epstein",
+        "pae",
+        "redaction",
+        "call",
+        "2021",
+        "2025",
+        "analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00027715",
+            "similarity": 0.6,
+            "index": 34,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00019031",
+      "summary": "On March 25, 2021, a call occurred between \"n\" and \"IM (USANYS) [Contractor]\" regarding a discussion with PAE concerning Jeffrey Epstein. The call was documented as EFTA00019031.",
+      "timestamp": "2021-03-25T00:00:00",
+      "timestamp_raw": "March 25, 2021",
+      "keywords": [
+        "efta00019031",
+        "epstein",
+        "pae",
+        "call",
+        "redaction analysis",
+        "usanys",
+        "contractor",
+        "2021",
+        "2025"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00019487",
+            "similarity": 0.545,
+            "index": 35,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00027715",
+      "summary": "On March 25, 2021, at 7:29 PM GMT, an email was sent from [REDACTED] to [REDACTED] with CC’d to [REDACTED], regarding a call with PAE concerning Epstein. The email was marked as “Normal” importance and included an unnamed attachment.",
+      "timestamp": "2021-03-25T00:00:00",
+      "timestamp_raw": "March 25, 2021",
+      "keywords": [
+        "efta00027715",
+        "epstein",
+        "pae",
+        "redaction",
+        "call",
+        "2021",
+        "2025",
+        "redacted"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00024011",
+            "similarity": 0.6,
+            "index": 32,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019487",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] regarding a tentative call with PAE concerning Jeffrey Epstein. The email was sent on March 25, 2021, at 20:09:35 +0000.",
+      "timestamp": "2021-03-25T00:00:00",
+      "timestamp_raw": "March 25, 2021",
+      "keywords": [
+        "efta00019487",
+        "redaction analysis",
+        "epstein",
+        "pae",
+        "usanys",
+        "call",
+        "2021",
+        "tentative"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00019031",
+            "similarity": 0.545,
+            "index": 33,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019488",
+      "summary": "On March 25, 2021, from 20:30 to 21:00 GMT, there was a tentative call with PAE regarding Jeffrey Epstein. The call was classified as X-PERSONAL and attended by [REDACTED]. The event was created on March 25, 2021, at 20:37 GMT.",
+      "timestamp": "2021-03-25T00:00:00",
+      "timestamp_raw": "March 25, 2021",
+      "keywords": [
+        "epstein",
+        "pae",
+        "redaction",
+        "call",
+        "2021-03-25",
+        "event",
+        "personal",
+        "efta00019488"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027861",
+      "summary": "On March 29, 2021, Christian Everdell contacted a recipient regarding discovery issues in the Maxwell case, specifically related to productions prepared by PAE. The issues included: 1.  Failure to send a hard drive containing discovery to Ms. Maxwell. 2.  Files incompatible with Ms. Maxwell’s laptop requiring inclusion on a hard drive. 3.  Missing attachments from over 109,000 emails. 4.  Metadata discrepancies (dates and lack of CART numbers) in over 110,000 electronic documents and 6,500 photographs. 5.  Metadata issues within audio/visual files categorized by production dates (SDNY GM SUPP, SDNY005, SDNY011). 6.  A gap in production numbers between November 18th and December 18th. Everdell requested responses and clarification on these points to facilitate the discovery process.",
+      "timestamp": "2021-03-29T00:00:00",
+      "timestamp_raw": "March 29, 2021",
+      "keywords": [
+        "discovery",
+        "maxwell case",
+        "pae",
+        "hard drive",
+        "metadata",
+        "cart number",
+        "email",
+        "production",
+        "files",
+        "attachments"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00027864",
+            "similarity": 0.538,
+            "index": 38,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019092",
+            "similarity": 0.538,
+            "index": 39,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00020434",
+            "similarity": 0.667,
+            "index": 40,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00027864",
+      "summary": "The email chain details requests for production of discovery materials in the Maxwell case, primarily prepared by PAE. Specific requests include: 1.  Sending a hard drive containing discovery materials to Ms. Maxwell. 2.  Producing files on a hard drive due to limitations of Ms. Maxwell’s computer. 3.  Providing missing attachments to over 109,000 emails. 4.  Producing metadata overlays for electronic documents with altered creation/modification dates (over 110,000 files). 5.  Providing CART numbers and metadata overlays for over 6,500 photographs with altered dates. 6.  Producing metadata overlays for audio/visual files with various metadata issues, including missing load files and lack of CART numbers. 7.  Clarification regarding a gap in production numbers between November 18 and December 18.",
+      "timestamp": "2021-03-29T00:00:00",
+      "timestamp_raw": "29 Mar 2021",
+      "keywords": [
+        "discovery",
+        "production",
+        "maxwell",
+        "metadata",
+        "hard drive",
+        "emails",
+        "attachments",
+        "cart number",
+        "files",
+        "sdny"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00027861",
+            "similarity": 0.538,
+            "index": 37,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00019092",
+            "similarity": 0.667,
+            "index": 39,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00020434",
+            "similarity": 0.818,
+            "index": 40,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00019092",
+      "summary": "This redaction analysis document pertains to a legal case, likely a discovery dispute, involving the production of electronic evidence in the Maxwell case. The core issues revolve around discrepancies in metadata and missing information within large productions of documents, emails, photographs, and audio/visual files. Specifically, the sender requests the recipient to: *   Send a hard drive containing discovery materials to Ms. Maxwell. *   Provide missing attachments from over 109,000 emails. *   Produce a metadata overlay for documents with altered creation/modification dates (over 110,000 files). *   Supply CART numbers and metadata overlays for over 6,500 photographs and over 460 audio/visual files. *   Investigate a gap in production numbers between November 18th and December 18th. The communications are between Cohen & Gresser LLP (sending the request) and an unnamed contractor/party (\"USANYS\") receiving it, involving discussions, calendar invites, and attached documentation highlighting the specific deficiencies in the evidence production.",
+      "timestamp": "2021-03-30T00:00:00",
+      "timestamp_raw": "30 Mar 2021",
+      "keywords": [
+        "discovery",
+        "production",
+        "emails",
+        "hard drive",
+        "metadata",
+        "cart number",
+        "maxwell",
+        "pae",
+        "phone call",
+        "files"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00027864",
+            "similarity": 0.667,
+            "index": 38,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00027861",
+            "similarity": 0.538,
+            "index": 37,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00020434",
+            "similarity": 0.818,
+            "index": 40,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00020434",
+      "summary": "The document is a redacted email chain regarding discovery issues in a legal case (Maxwell case). Key points include: *   A request to send a hard drive containing discovery materials to Ms. Maxwell. *   Disagreements about producing files on disks due to Ms. Maxwell’s computer limitations. *   Numerous metadata issues with electronic documents (emails, documents, photographs, audio/visual files) requiring metadata overlays and/or CART numbers. *   A query regarding a gap in production numbers between November 18th and December 18th. *   Requests for timely responses to resolve these issues.",
+      "timestamp": "2021-03-30T00:00:00",
+      "timestamp_raw": "30 Mar 2021",
+      "keywords": [
+        "discovery",
+        "production",
+        "maxwell",
+        "hard drive",
+        "metadata",
+        "emails",
+        "attachments",
+        "cart number",
+        "pae",
+        "files"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00019092",
+            "similarity": 0.818,
+            "index": 39,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00027864",
+            "similarity": 0.818,
+            "index": 38,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00027861",
+            "similarity": 0.667,
+            "index": 37,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027355",
+      "summary": "PAE’s technical team determined that a saved search containing 109,853 EMLX files is comprised of empty attachments with image placeholders indicating export failure. The majority of the parent documents have “partial” in their filenames. These records likely represent missing attachments not captured by the data custodian. The document references a Relativity jgo link for the US v. Epstein (SW Returns) case.",
+      "timestamp": "2021-04-01T00:00:00",
+      "timestamp_raw": "01 Apr 2021",
+      "keywords": [
+        "efta00027355",
+        "epstein",
+        "us v. epstein",
+        "redaction analysis",
+        "emlx files",
+        "relativityjgo",
+        "pae",
+        "data custodian",
+        "image placeholder",
+        "partial"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026928",
+      "summary": "A letter was sent to Judge Engelmayer regarding Noel and next steps in the Epstein FOIA case. The letter was attached as a Microsoft Word document and sent from an Assistant United States Attorney to [REDACTED] and [REDACTED] in advance of a scheduled 10:00 call to discuss the letter and potential edits.",
+      "timestamp": "2021-04-14T00:00:00",
+      "timestamp_raw": "14 Apr 2021",
+      "keywords": [
+        "efta00026928",
+        "foia",
+        "epstein",
+        "pae",
+        "judge engelmayer",
+        "noel",
+        "bop",
+        "letter",
+        "united states attorney",
+        "2021"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027395",
+      "summary": "On April 28, 2021, an Assistant United States Attorney contacted reviewers regarding the redaction of Epstein FOIA documents. A request was made to expedite the review process, aiming for completion by the end of the day. One reviewer indicated they were swamped and would prioritize the task, aiming for completion by the end of the following business day. Another reviewer proposed a 2-day extension due to delays and requested a discussion about potentially seeking a further extension, contingent on PAE approval and the Times’s position. The Assistant United States Attorney inquired about a timeline for the Tartaglione review of the second half of the documents, seeking updates on completion.",
+      "timestamp": "2021-04-28T00:00:00",
+      "timestamp_raw": "April 28, 2021",
+      "keywords": [
+        "foia",
+        "epstein",
+        "redaction",
+        "extension",
+        "tartaglione",
+        "pae",
+        "bop",
+        "usanys",
+        "review",
+        "documents"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029702",
+      "summary": "On June 23, 2021, an individual (USANYS) requested information related to a FOIA disclosure concerning Noel and Thomas. A 5:45 PM call was scheduled with The Times. Another individual (USANYS) suggested a 1-2 week extension for the disclosure to allow for internal review of recently completed interviews related to deferred prosecution agreements. The Chief, Public Corruption Unit, U.S. Attorney’s Office, Southern District of New York, was involved in the discussion.",
+      "timestamp": "2021-06-23T00:00:00",
+      "timestamp_raw": "June 23, 2021",
+      "keywords": [
+        "foia",
+        "disclosure",
+        "times",
+        "extension",
+        "pae",
+        "noel",
+        "thomas",
+        "deferred prosecution agreements",
+        "interviews",
+        "usanys"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00022014",
+            "similarity": 0.538,
+            "index": 45,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00022014",
+      "summary": "On June 23, 2021, discussions occurred regarding a Freedom of Information Act (FOIA) request related to Noel and Thomas. A one-week extension was initially requested from The Times. A draft extension request letter was circulated for review. A phone call was scheduled with The Times to discuss the request and clarify information to be shared. The request was prompted by recently completed interviews and a need to confirm compliance with deferred prosecution agreements. A Chief from the Public Corruption Unit within the U.S. Attorney’s Office Southern District of New York was involved in the coordination.",
+      "timestamp": "2021-06-23T00:00:00",
+      "timestamp_raw": "June 23, 2021",
+      "keywords": [
+        "foia",
+        "disclosure",
+        "times",
+        "extension",
+        "court",
+        "pae",
+        "interviews",
+        "prosecution",
+        "usanys",
+        "redaction"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00029702",
+            "similarity": 0.538,
+            "index": 44,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015875",
+      "summary": "This document is a Relativity review regarding the US v. Epstein case, specifically concerning SW returns (USGME01782221). It originated from [REDACTED] to [REDACTED] and was sent on August 18, 2021, with a link to the Relativity platform (https://dIpe.nss.pae.com/Relativity/go?id=2370462-2823018).",
+      "timestamp": "2021-08-18T00:00:00",
+      "timestamp_raw": "August 18, 2021",
+      "keywords": [
+        "relativity",
+        "us v. epstein",
+        "sw returns",
+        "usgme01782221",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016117",
+      "summary": "A case involving Carl Andrews’ severed half is scheduled for trial in mid-February. A defense attorney is arguing that Justin Rivera, a defendant in the trial, is receiving insufficient access to discovery at Metropolitan Correctional Center (MCC) compared to Maxwell, who has greater access at Metropolitan Detention Center (MDC). The sender wants to discuss these access differences before a scheduled appearance before the Pennsylvania Eastern District Court (PAE) at 10:30am tomorrow.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "carl andrews",
+        "justin rivera",
+        "discovery access",
+        "mcc",
+        "mdc",
+        "maxwell",
+        "pae",
+        "litigation",
+        "inmates",
+        "united states attorney's office"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    }
+  ]
+}

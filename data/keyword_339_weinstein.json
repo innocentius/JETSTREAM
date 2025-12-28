@@ -1,0 +1,2358 @@
+{
+  "keyword": "weinstein",
+  "count": 42,
+  "keyword_match_count": 42,
+  "content_match_count": 42,
+  "total_files": 84,
+  "timeline": [
+    {
+      "file_id": "EFTA00032922",
+      "summary": "This document is a 2019 Law360 publication offering a collection of articles focusing on key legal developments and trends anticipated for the year. Here’s a breakdown of the main content: *   **Top New York Cases to Watch:** The document highlights several significant cases expected to be prominent in the New York legal landscape in 2019, including those related to Donald Trump’s legal challenges, Harvey Weinstein’s sexual assault charges, and college basketball corruption. *   **Industry Trends:** It covers a range of legal industry topics, including financial services litigation, NYC real estate legislation, sports law developments, food and beverage trends (particularly around slack-fill litigation and cannabis edibles), and the rise of remote work for law firms. *   **Managing Partner Concerns:** The article details the top worries for managing partners in 2019, primarily focusing on cybersecurity threats, emerging technologies, and economic uncertainty. *   **Legal Practice Developments:** It reports on evolving parental benefits policies within law firms and the increasing demand for attorneys in key practice areas like corporate litigation. *   **Lateral Hiring and #MeToo:** The document discusses the dynamic lateral hiring market and the continued influence of the #MeToo movement on the legal industry. *   **General Counsel Concerns:** It outlines the primary concerns for general counsel, including cyberthreats and regulatory complexity. *   **Job Listings:** It includes a section with various job postings across different law firms and government agencies. Essentially, it’s a snapshot of the legal industry's outlook for 2019, encompassing high-profile cases, emerging trends, and key concerns for legal professionals and firms.",
+      "timestamp": "2019-01-02T00:00:00",
+      "timestamp_raw": "02 Jan 2019",
+      "keywords": [
+        "new york",
+        "cases",
+        "litigation",
+        "financial services",
+        "real estate",
+        "sports",
+        "#metoo",
+        "legal industry",
+        "general counsel",
+        "lateral hiring",
+        "trump",
+        "appeals",
+        "podcast",
+        "law firms",
+        "jobs"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019249",
+      "summary": "A Washington Post article discusses the Jeffrey Epstein scandal and its implications for the American justice system. It highlights concerns about wealthy individuals silencing accusers through non-disclosure agreements (NDAs), exemplified by settlements involving Epstein and Ghislaine Maxwell. The article criticizes the sweetheart deal between federal prosecutors and Epstein, along with the use of NDAs by figures like Harvey Weinstein and Leslie Moonves to conceal sexual assault allegations. It argues that NDAs interfere with the public’s right to know about crimes and calls for a legal change to invalidate such agreements when evidence of a crime is involved, suggesting a need for broader investigations into Epstein’s activities.",
+      "timestamp": "2019-06-18T00:00:00",
+      "timestamp_raw": "18 Jun 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "ndas",
+        "settlements",
+        "justice system",
+        "secret deals",
+        "victims",
+        "bill clinton",
+        "sexual assault",
+        "redaction"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021392",
+      "summary": "An email exchange discusses a briefing in Florida regarding the potential extension of the Florida NPA to New York. A filing by Jane Doe 1 and 2 highlighting the NPA’s limited scope to Florida was sent. A reply brief was filed, followed by a motion for a sur-reply from Epstein’s lawyer arguing for an opportunity to discuss the NPA’s scope. An opposition to the sur-reply motion is planned for Monday. The sender’s client maintains the NPA does not extend to New York or other jurisdictions based on a 2013 communication.",
+      "timestamp": "2019-07-26T00:00:00",
+      "timestamp_raw": "26 Jul 2019",
+      "keywords": [
+        "florida",
+        "npa",
+        "cvra",
+        "briefing",
+        "jane doe",
+        "remedies",
+        "sur-reply",
+        "judge marra",
+        "weinstein",
+        "new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00014540",
+            "similarity": 0.818,
+            "index": 3,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00021390",
+            "similarity": 0.818,
+            "index": 4,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00014538",
+            "similarity": 1.0,
+            "index": 5,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00014540",
+      "summary": "This email chain concerns a briefing regarding a Florida CVRA case involving Jane Doe 1 and 2. The sender, IM, is informing a recipient about recent filings, including a motion for a sur-reply from Epstein's lawyer arguing for an expanded scope of the NPA (National Prosecution Attorney). IM’s clients believe the NPA does not extend to New York or other jurisdictions, and they intend to file an opposition to further briefing extensions. The initial request for a call was prompted by a need to discuss the CVRA and the NPA’s potential application.",
+      "timestamp": "2019-07-26T00:00:00",
+      "timestamp_raw": "26 Jul 2019",
+      "keywords": [
+        "florida",
+        "npa",
+        "cvra",
+        "new york",
+        "briefing",
+        "jane doe",
+        "weinstein",
+        "remedies",
+        "filing",
+        "sur-reply"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00021392",
+            "similarity": 0.818,
+            "index": 2,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00021390",
+            "similarity": 0.667,
+            "index": 4,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00014538",
+            "similarity": 0.818,
+            "index": 5,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00019854",
+            "similarity": 0.538,
+            "index": 6,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00021390",
+      "summary": "On July 26, 2019, an individual (identified as “Eff”) sent materials to a recipient regarding a Florida CVRA case involving Jane Doe 1 and 2. The attached filing explains an argument that Judge Marra should limit remedies to Florida crimes and victims due to the NPA’s limited scope, which was communicated to clients in 2013 as not extending to New York or other jurisdictions. Subsequently, Marty Weinberg (Epstein’s lawyer) filed a motion for a sur-reply arguing for an opportunity to discuss the NPA’s scope. The sender will file an opposition to this motion on Monday. The sender is admitted to the Utah State Bar but not other state bars.",
+      "timestamp": "2019-07-26T00:00:00",
+      "timestamp_raw": "July 26, 2019",
+      "keywords": [
+        "efta00021390",
+        "florida",
+        "npa",
+        "cvra",
+        "jane doe",
+        "judge marra",
+        "weinstein",
+        "sur-reply",
+        "briefing",
+        "remedies"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00014540",
+            "similarity": 0.667,
+            "index": 3,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00021392",
+            "similarity": 0.818,
+            "index": 2,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00014538",
+            "similarity": 0.818,
+            "index": 5,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00019854",
+            "similarity": 0.538,
+            "index": 6,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00014538",
+      "summary": "A series of emails discuss a briefing regarding a Florida CVRA case involving Jane Doe 1 and 2. Key points include: *   A request for a call to discuss the case and the NPA’s scope. *   Updates on filings: a reply brief on remedies was filed, followed by a sur-reply motion from Epstein’s lawyer arguing for continued briefing. *   The sender’s clients were informed in 2013 that the NPA does not extend to New York. *   The sender intends to file an opposition to Weinberg’s motion for a sur-reply. *   The case involves arguments about remedies limited to Florida crimes and Florida victims.",
+      "timestamp": "2019-07-26T00:00:00",
+      "timestamp_raw": "26 Jul 2019",
+      "keywords": [
+        "florida",
+        "npa",
+        "cvra",
+        "briefing",
+        "sur-reply",
+        "jane doe",
+        "remedies",
+        "judge marra",
+        "weinstein",
+        "new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00021390",
+            "similarity": 0.818,
+            "index": 4,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00014540",
+            "similarity": 0.818,
+            "index": 3,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00021392",
+            "similarity": 1.0,
+            "index": 2,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00019854",
+            "similarity": 0.667,
+            "index": 6,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00019854",
+      "summary": "*   A series of emails discuss a legal case (CVRA) involving Epstein and a Florida NPA (Non-Prosecution Agreement). *   An attorney provided a 2008 Florida court transcript where Epstein’s attorney stated the NPA only applied in Florida. *   Discussions centered around whether the NPA extended to New York, with parties arguing the NPA’s scope was limited to Florida. *   Multiple individuals (identified only by redactions) were involved in coordinating information and strategy regarding the case. *   Briefing and motions related to remedies and a sur-reply were exchanged, with plans to file an opposition to extending the briefing.",
+      "timestamp": "2019-08-07T00:00:00",
+      "timestamp_raw": "07 Aug 2019",
+      "keywords": [
+        "florida",
+        "npa",
+        "epstein",
+        "cvra",
+        "new york",
+        "judge marra",
+        "weinstein",
+        "sur-reply",
+        "remedies",
+        "prosecution"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00014538",
+            "similarity": 0.667,
+            "index": 5,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00021390",
+            "similarity": 0.538,
+            "index": 4,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00014540",
+            "similarity": 0.538,
+            "index": 3,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018860",
+      "summary": "Key topics include: *   **Robocall Litigation:**  A new information-sharing partnership between phone carriers and attorneys general is being formed to combat robocall scams, though questions remain about its effectiveness. *   **Court Decisions:** Several New York State court rulings were highlighted, including a judge dismissing a bullying lawsuit, denying a religious exemption to vaccinations, extending the Martin Act statute of limitations, and a judgment against a shuttered golf company for patent infringement. *   **Legal Disputes:** Various lawsuits were reported, including those involving Kennedys,  Avenatti, Harvey Weinstein, Zebra Technologies, Amgen, and Dollar General. *   **Firm Activity:**  Law firms like Gibson Dunn, Skadden, and others were involved in significant deals and litigation, with partners moving between firms (e.g., Matthew Biben to Gibson Dunn, Craig to Vinson & Elkins). *   **Regulatory Actions:** The Department of Justice, SEC, and state attorneys general were involved in investigations and enforcement actions, particularly concerning insider trading, expired products, and state transfer pricing scrutiny. *   **Job Postings**: Several legal positions were advertised, primarily within large law firms in New York City, spanning areas like litigation, M&A, and intellectual property. Essentially, it's a snapshot of a wide range of legal activities happening across the United States during that period.",
+      "timestamp": "2019-08-27T00:00:00",
+      "timestamp_raw": "27 Aug 2019",
+      "keywords": [
+        "robocall litigation",
+        "ags",
+        "carvers",
+        "new york",
+        "judge",
+        "bias",
+        "retaliation",
+        "vaccination",
+        "martin act",
+        "expired products",
+        "patent suit",
+        "fraud claims",
+        "insider trading",
+        "harvey weinstein",
+        "time window",
+        "class action",
+        "mergers & acquisitions",
+        "celgene",
+        "bankruptcies",
+        "investment suits",
+        "mutual funds",
+        "circuit split",
+        "state tax scrutiny",
+        "contract attorneys",
+        "legal outsourcing",
+        "copyright law",
+        "supreme court",
+        "texas supreme court",
+        "vinson & elkins",
+        "bryan cave",
+        "job listings"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010260",
+      "summary": "On October 17, 2019, at 7:30 PM GMT, Marc A. Weinstein attended a Skype meeting (Conference ID: 598 437 033) related to the US v. Epstein civil forfeiture matter. The event was classified as X-PERSONAL. The meeting was created on October 17, 2019, at 3:22 PM GMT and last modified at that time.",
+      "timestamp": "2019-10-17T00:00:00",
+      "timestamp_raw": "October 17, 2019",
+      "keywords": [
+        "epstein",
+        "civil forfeiture",
+        "us v.",
+        "skype meeting",
+        "marc a. weinstein",
+        "2019-10-17",
+        "efta00010260"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024297",
+      "summary": "An event titled “Epstein estate” took place on October 23, 2019, from 6:30 PM to 7:00 PM GMT. Marc A. Weinstein (redacted) organized the event via a Skype meeting with Conference ID 803 102 52. Attendees included Tomback, Andrew (redacted). A reminder was set to display 15 minutes before the start, including dial-in numbers for various countries: Brazil, Canada, China, France, Germany, India, Ireland, Israel, Japan, Singapore, United Kingdom, United States. The document also provides instructions for joining the meeting via computer or mobile device, and offers troubleshooting steps via Skype Web App and the “Help” link. Additionally, it includes a dial-in PIN for a specific number (+12016300824).",
+      "timestamp": "2019-10-23T00:00:00",
+      "timestamp_raw": "October 23, 2019",
+      "keywords": [
+        "epstein estate",
+        "skype",
+        "dial-in numbers",
+        "weinstein",
+        "marc a.",
+        "2019-10-23",
+        "redaction",
+        "conference id",
+        "meeting",
+        "attendees"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028836",
+      "summary": "An email was sent from “)” to “Weinstein, Marc A.” on October 23, 2019, regarding a tentative Epstein estate. The email included an unnamed attachment.",
+      "timestamp": "2019-10-23T00:00:00",
+      "timestamp_raw": "October 23, 2019",
+      "keywords": [
+        "efta00028836",
+        "epstein estate",
+        "weinstein",
+        "marc a.",
+        "tentative",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00028118",
+            "similarity": 0.5,
+            "index": 58,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00028123",
+      "summary": "On October 23, 2019, at 6:30 PM GMT, a Skype meeting occurred with Marc Weinstein and the Epstein estate. The meeting was classified as X-PERSONAL. The meeting was created on October 23, 2019, at 1:34 PM GMT and has a DTSTAMP of 1:20 PM GMT.",
+      "timestamp": "2019-10-23T00:00:00",
+      "timestamp_raw": "October 23, 2019",
+      "keywords": [
+        "efta00028123",
+        "epstein",
+        "weinstein",
+        "skype meeting",
+        "conference id",
+        "2019-10-23",
+        "redaction analysis",
+        "x-personal",
+        "event",
+        "estate"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028837",
+      "summary": "On October 23, 2019, at 6:30 PM GMT, Marc Weinstein (with a redacted attendee) participated in a Skype meeting classified as X-PERSONAL regarding the Epstein estate. The meeting was created on October 23, 2019, at 1:47 PM GMT and has a priority level of 5.",
+      "timestamp": "2019-10-23T00:00:00",
+      "timestamp_raw": "October 23, 2019",
+      "keywords": [
+        "epstein estate",
+        "redaction analysis",
+        "marc weinstein",
+        "skype meeting",
+        "2019-10-23",
+        "efta00028837"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028831",
+      "summary": "This email discusses a civil forfeiture matter, “US v. Epstein,” involving the EFTA00028831 document. It provides dial-in numbers and conference ID information for meetings, including options for one-touch dial-in from mobile phones and connecting via computer or network. It also offers troubleshooting advice for joining meetings via Skype for Business.",
+      "timestamp": "2019-11-17T00:00:00",
+      "timestamp_raw": "17 Oct 2019",
+      "keywords": [
+        "efta00028831",
+        "us v. epstein",
+        "civil forfeiture",
+        "weinstein",
+        "marc a.",
+        "skype",
+        "dial-in",
+        "conference id",
+        "meeting",
+        "epstein"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024296",
+      "summary": "Marc Weinstein sent an email to Andrew Tomback regarding the Epstein estate. The email included dial-in numbers for various countries and provided instructions for joining a Skype for Business meeting, differentiating between meetings with presentations/video and those without. The email also offered assistance for first-time users joining the meeting from a computer. The document is identified as EFTA00024296.",
+      "timestamp": "2019-11-23T00:00:00",
+      "timestamp_raw": "23 Oct 2019",
+      "keywords": [
+        "epstein estate",
+        "redaction analysis",
+        "dial-in numbers",
+        "skype for business",
+        "meeting organizers",
+        "weinstein",
+        "tomback",
+        "conference id",
+        "presentations",
+        "video"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025251",
+      "summary": "On November 25, 2019, Marc Weinstein received an email from the Epstein estate regarding an accepted call. The email is attached as “unnamed” and dated November 25, 2019.",
+      "timestamp": "2019-11-25T00:00:00",
+      "timestamp_raw": "November 25, 2019",
+      "keywords": [
+        "efta00025251",
+        "epstein estate",
+        "weinstein",
+        "marc a.",
+        "accepted",
+        "call",
+        "2019",
+        "november",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029636",
+      "summary": "Marc Weinstein of Hughes Hubbard &amp; Birch contacted Andrew Tomback of White &amp; Case on November 25, 2019, regarding a call related to the Epstein estate. The communication included dial-in numbers for international participants, categorized by country and region, and instructions for joining meetings via telephone or computer with video/presentation capabilities. The document identifies the file as EFTA00029636.",
+      "timestamp": "2019-11-25T00:00:00",
+      "timestamp_raw": "November 25, 2019",
+      "keywords": [
+        "epstein estate",
+        "marc weinstein",
+        "skype for business",
+        "dial-in numbers",
+        "hmi onlinemeetingcenter",
+        "redaction analysis",
+        "andrew tomback",
+        "meetings",
+        "conference id",
+        "2019"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019684",
+      "summary": "Marc Weinstein of Hughes Hubbard & Reed LLP is sending documents related to a subpoena regarding the Epstein estate to Andrew Tomback and others. He is providing advance notice of the documents' impending delivery and requesting a brief discussion. The email includes standard confidentiality disclaimers.",
+      "timestamp": "2019-12-01T00:00:00",
+      "timestamp_raw": "01 Nov 2019",
+      "keywords": [
+        "epstein estate",
+        "subpoenas",
+        "redaction analysis",
+        "marc weinstein",
+        "hughes hubbard & reed",
+        "white collar defense",
+        "documents",
+        "email",
+        "efta00019684"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024303",
+      "summary": "Marc A. Weinstein of Hughes Hubbard & Reed LLP is preparing to send documents related to subpoenas from the Epstein estate to an individual identified as \"[REDACTED]\". He contacted Weinstein to provide a heads-up before sending the documents and offered a brief discussion. The email includes standard confidentiality disclaimers.",
+      "timestamp": "2019-12-01T00:00:00",
+      "timestamp_raw": "01 Nov 2019",
+      "keywords": [
+        "epstein estate",
+        "subpoenas",
+        "marc weinstein",
+        "hughes hubbard & reed",
+        "redaction",
+        "collar defense",
+        "efta00024303"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019685",
+      "summary": "An Assistant U.S. Attorney from the Southern District of New York is sending contact information to Marc Weinstein and Andrew Tomback regarding subpoenas related to the Epstein estate. The attorney requests a meeting this Wednesday at 9:30 AM and encourages contact at any time, including over the weekend.",
+      "timestamp": "2019-12-01T00:00:00",
+      "timestamp_raw": "01 Nov 2019",
+      "keywords": [
+        "epstein estate",
+        "subpoenas",
+        "redaction",
+        "u.s. attorney",
+        "southern district of new york",
+        "contact information",
+        "marc weinstein",
+        "andrew tomback"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029637",
+      "summary": "On December 2, 2019, at 3:30 PM GMT, a Skype meeting titled “Epstein Estate Call” occurred, organized by Marc Weinstein of Hughes Hubbard &amp;amp; Palmer. The meeting attendee was [REDACTED], and also included Tomback, Andrew of WhiteCase. The meeting utilized the dial-in number +1 (201) 630-0824 and conference ID 169269771. Additional dial-in numbers were provided for various countries including Brazil, Canada, China, France, Germany, India, Ireland, Israel, Japan, Singapore, United Kingdom, and United States. A reminder message was to be displayed 15 minutes before the start.",
+      "timestamp": "2019-12-02T00:00:00",
+      "timestamp_raw": "December 2, 2019",
+      "keywords": [
+        "epstein",
+        "skype",
+        "meeting",
+        "dial-in",
+        "weinstein",
+        "redaction",
+        "conference id",
+        "attendees",
+        "event",
+        "marc a.weinstein"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025252",
+      "summary": "On December 2, 2019, at 3:30 PM GMT, Marc Weinstein (redacted) participated in a Skype meeting (Conference ID: 169 269 771) with the Epstein estate. The meeting was classified as X-PERSONAL and lasted from 3:30 PM to 4:00 PM GMT. The event was created on November 25, 2019.",
+      "timestamp": "2019-12-02T00:00:00",
+      "timestamp_raw": "December 2, 2019",
+      "keywords": [
+        "efta00025252",
+        "epstein estate",
+        "marc weinstein",
+        "skype meeting",
+        "redaction",
+        "2019-12-02",
+        "personal",
+        "conference id",
+        "priority",
+        "dtstamp"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00028116",
+            "similarity": 0.667,
+            "index": 22,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00028116",
+      "summary": "On December 2, 2019, at 3:30 PM GMT, a Skype meeting occurred with Marc Weinstein (REDACTED) regarding the Epstein estate. The meeting lasted from 3:30 PM to 4:00 PM GMT. The event was classified as X-PERSONAL.",
+      "timestamp": "2019-12-02T00:00:00",
+      "timestamp_raw": "December 2, 2019",
+      "keywords": [
+        "efta00028116",
+        "epstein estate",
+        "skype meeting",
+        "marc weinstein",
+        "redaction",
+        "personal",
+        "2019-12-02",
+        "event",
+        "conference id",
+        "priority"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00025252",
+            "similarity": 0.667,
+            "index": 21,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032549",
+      "summary": "It covers a range of legal cases and developments, including: *   **Bridgegate Investigation:** Updates on the ongoing investigation into the “USS Bush” scandal and its potential connection to the McDonnell case. *   **Russia Probe Leaks:** A former Treasury staffer’s admission of revealing suspicious activity reports related to the Russia investigation. *   **Ariad Insider Case:** Prosecutors pushing back against a defense theory in the case involving a pharmaceutical company insider. *   **Barbados Official Corruption Case:** Details of a trial involving alleged money laundering by a former Barbados government official. *   **Sanovas Inc. Money Laundering Trial:**  Prosecutors alleging embezzlement of nearly $3 million by the CEO of a medical device startup. *   **Harvey Weinstein Trial:** The judge threatening jail time for jurors posting about the trial on social media. *   **Asset Manager Fraud:** An asset manager pleading guilty to a $164 million pump-and-dump stock scheme. *   **Deutsche Bank Spoofing Probe:** A former trader seeking to argue that prosecutors outsourced their investigation to Deutsche Bank. *   **Theranos Document Requests:** The FDA criticizing requests for internal documents in the Elizabeth Holmes criminal defense. *   **Qatar Business Steering:** Evidence suggesting Qatar attempted to steer business towards Barclays. *   **“Cocaine Cowboy” Conviction:** An appeal against a fraud conviction and prison sentence for a former drug trafficker. *   **TelexFree Ponzi Scheme:** Financial service providers pushing back against revisions to allegations related to the scheme. *   **Insys Therapeutics Case:** Sentences handed down to former Insys executives convicted in an opioid kickback scheme. *   **Antitrust Convictions:** The Supreme Court declining to review criminal antitrust convictions. *   **FinCEN’s AML Efforts:**  Plans to increase the use of special measures under the USA Patriot Act. *   **Various other cases:** Including defense of the claims related to corruption, fraud, ethics violations, and disputes across various sectors (banking, securities, technology, healthcare, etc.). Additionally, the document includes: *   Legal firm profiles and advertisements. *   Job listings. *   Brief articles discussing industry trends (e.g., “NewLaw” firms, economic outlook).",
+      "timestamp": "2020-01-14T00:00:00",
+      "timestamp_raw": "January 14, 2020",
+      "keywords": [
+        "bridgegate",
+        "mcdonnell",
+        "supreme court",
+        "russia probe",
+        "financial crimes",
+        "fraud",
+        "insider trading",
+        "opioid",
+        "pump-and-dump",
+        "securities fraud",
+        "money laundering",
+        "corruption",
+        "social media",
+        "legal ethics",
+        "antitrust",
+        "legal industry",
+        "atrium",
+        "facebook",
+        "t-mobile",
+        "sprint",
+        "merger",
+        "defamation",
+        "clickbait",
+        "ponzi scheme",
+        "e-commerce",
+        "job openings"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016766",
+      "summary": "*   Weinstein responded on January 7, 2020, stating he would provide an update by Thursday. *   Weinstein then replied on January 7, 2020, stating that a call was unnecessary and that he would get back to them on the requests. *   A subsequent email on January 7, 2020, from the Assistant U.S. Attorney reiterated the request for an update and inquired about the possibility of a call.",
+      "timestamp": "2020-01-15T00:00:00",
+      "timestamp_raw": "January 15, 2020",
+      "keywords": [
+        "estate call",
+        "prior wills",
+        "photographs",
+        "videos",
+        "weinstein",
+        "marc a.",
+        "tomback",
+        "andrew",
+        "hughes hubbard & reed",
+        "u.s. attorney"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021055",
+      "summary": "Marc A. Weinstein, a partner at Hughes Hubbard & Reed LLP, is responding to a grand jury subpoena related to Jeffrey Epstein’s estate. He is sending documents (Bates numbers 61_000406 through al _000459) pertaining to prior trusts, in response to a request for documents produced on January 16, 2020, stemming from October 18, 2019 grand jury subpoenas.  Multiple parties, including “[REDACTED]” and “[REDACTED],” are involved in the exchange of information, with “[REDACTED]” requesting the documents and confirming receipt.  The communications include standard legal disclaimers regarding email security and liability.  A discussion revolves around the USVI Attorney General’s motion to intervene and the proposed claims program, related to look-back civil suits concerning state law.",
+      "timestamp": "2020-01-16T00:00:00",
+      "timestamp_raw": "January 16, 2020",
+      "keywords": [
+        "grand jury subpoena",
+        "jeffrey epstein",
+        "usvi attorney general",
+        "estate administration",
+        "civil suits",
+        "litigation",
+        "weinstein",
+        "hughes hubbard & reed"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032341",
+      "summary": "*   **Judge Resignation:** A Kansas federal judge resigned amidst allegations of sexual harassment, an affair, and tardiness. *   **USPTO Rule Changes:** The U.S. Patent and Trademark Office modified a rule requiring trademark owners to post their email addresses. *   **Trump Commutations & Waivers:** President Trump commuted the sentence of Rod Blagojevich and authorized the Trump administration to waive federal procurement laws to expedite the construction of the border wall. *   **EPA Watchdog Report:** The EPA’s internal watchdog criticized the regulator’s monitoring of the Mexico border program. *   **DC Circuit Ruling:** The D.C. Circuit Court ruled the House of Representatives cannot sue the President over funding disputes. *   **NCLA Challenges:** The New Civil Liberties Alliance (NCLA) supported challenges to the SEC administrative law judges and to a shrinking TCPA’s reach. *   **Bloomberg Proposals:** Michael Bloomberg proposed a financial transaction tax and student loan debt relief. *   **South Carolina Litigation:** A federal judge continued litigation challenging oil-and-gas seismic testing off the Atlantic Coast. *   **EPA Water Rule Criticism:** Environmental groups criticized the EPA’s new water regulation for allegedly ignoring potential impacts on endangered species. *   **ACA Appeal:** Republican state attorneys general urged the Supreme Court to reject an appeal protecting the Affordable Care Act. *   **AI in Patent Examination:** The U.S. Patent and Trademark Office is experimenting with AI in patent examination but raises concerns about due process and labor. *   **Other Notable Cases:** Several other legal developments were reported including: Restaurant groups cannot challenge NYC fair work week law; TSMC challenges Huawei; Former Teva exec slams price-fixing claims;  Texas judge rules Huawei contracting ban is constitutional;  DC Circ. wary that House can't sue Prez over funding rows, EU adds Cayman Islands to tax haven blacklist. **Firm & Personnel News** *   Several law firms announced hires and developments, including BakerHostetler, Fox Rothschild, Kirkland & Ellis, and Morrison & Foerster, as well as the appointment of Mark Filip as monitoring trustee for Live Nation. **Job Postings** *   Two job listings were included: one for a Products Liability Associate at McCarter & English and another for an Assistant Attorney General - Public Access Bureau position with the Illinois Attorney General's Office.",
+      "timestamp": "2020-02-19T00:00:00",
+      "timestamp_raw": "February 19, 2020",
+      "keywords": [
+        "efta00032341",
+        "public policy",
+        "roger stone",
+        "sentencing",
+        "trump",
+        "barr",
+        "kansas judge",
+        "trademark",
+        "u.s. patent and trademark office",
+        "blagojevich",
+        "border wall",
+        "epa",
+        "environmental protection agency",
+        "dc circuit",
+        "ncla",
+        "michael bloomberg",
+        "tax",
+        "south carolina",
+        "clean water act",
+        "affordable care act",
+        "tcpa",
+        "huawei",
+        "artificial intelligence",
+        "bar exam",
+        "weinstein",
+        "gag order",
+        "richards layton",
+        "doj",
+        "antitrust",
+        "live nation",
+        "clifford chance",
+        "staffing co.",
+        "jobs",
+        "associate",
+        "attorney - assistant attorney general - public access bureau",
+        "privacy policy"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023405",
+      "summary": "Gloria Allred placed an advertisement on a school bus circling Buckingham Palace, featuring a picture of Prince Andrew and the message \"If you see this man please ask him to call the FBI to answer their questions\" regarding the Jeffrey Epstein case. She was discussing the stunt outside criminal court during the Harvey Weinstein trial, representing some of Epstein’s victims.  A photograph of the bus and a Press Association image accompany the communication.",
+      "timestamp": "2020-02-21T00:00:00",
+      "timestamp_raw": "21 Feb 2020",
+      "keywords": [
+        "gloria allred",
+        "jeffrey epstein",
+        "prince andrew",
+        "fbi",
+        "buckingham palace",
+        "school bus",
+        "harvey weinstein",
+        "aaron katersky",
+        "us attorney",
+        "sdny"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026869",
+      "summary": "Gloria Allred, an attorney representing some of Jeffrey Epstein’s victims, placed an advertisement on a school bus circling Buckingham Palace. The advertisement featured a picture of Prince Andrew and the message “If you see this man please ask him to call the FBI to answer their questions.” Allred discussed the stunt outside criminal court while attending the Harvey Weinstein trial.",
+      "timestamp": "2020-02-21T00:00:00",
+      "timestamp_raw": "21 Feb 2020",
+      "keywords": [
+        "gloria allred",
+        "prince andrew",
+        "fbi",
+        "jeffrey epstein",
+        "buckingham palace",
+        "harvey weinstein",
+        "bus ad",
+        "redaction analysis",
+        "legal",
+        "criminal court"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020535",
+      "summary": "Robert Hadden and Harvey Weinstein. In the Hadden case, Vance’s office reached a lenient plea deal that failed to fully address the extent of the assaults and dismissed concerns raised by the victim, Marissa Hoechstetter. This was compounded by a deputy DA’s actions regarding Jeffrey Epstein’s status.  Vance’s approach was characterized as prioritizing reputational preservation over justice, exemplified by his tone-deaf responses to Hoechstetter and his delayed recognition of the severity of the situations.  The document highlights a historical context – Vance’s opposition to a “rape is rape” bill in 2013 – which contrasts with his later declarations.  Finally, it points to a pattern of delayed action and public relations maneuvering, particularly in the Weinstein case, where Vance initially praised survivors before acknowledging his own delayed response.",
+      "timestamp": "2020-03-06T00:00:00",
+      "timestamp_raw": "06 Mar 2020",
+      "keywords": [
+        "cy vance",
+        "harvey weinstein",
+        "sexual assault",
+        "plea deal",
+        "justice",
+        "victim",
+        "abuse",
+        "prosecution",
+        "criminal sexual act",
+        "nypd"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014243",
+      "summary": "It covers several ongoing investigations and legal proceedings: *   **Prince Andrew and Jeffrey Epstein:** The SDNY is investigating potential co-conspirators of Jeffrey Epstein, and Prince Andrew has shut down cooperation, leading to potential legal action. *   **MCC Issues & Investigations:**  There’s scrutiny surrounding the Metropolitan Correctional Center (MCC) in Lower Manhattan, including a transfer of jail captain Jermaine Darden due to issues related to the Epstein case and a gun smuggling incident.  Investigations are underway regarding systemic failures and potential negligence. *   **Horse Racing Doping Scandal:** Twenty-seven individuals, including trainers and veterinarians, were indicted for a widespread doping scheme in horse racing, involving performance-enhancing drugs like “monkey”. Jorge Navarro is a key figure. *   **Joshua Schulte and the C.I.A. Leak:** The case involving Joshua Schulte, who leaked classified C.I.A. documents to WikiLeaks, continues, with Judge Reggie Walton expressing concerns about Attorney General William Barr's handling of the case and questioning Barr’s independence. *   **Harvey Weinstein’s Condition:** Harvey Weinstein, convicted of sex crimes, sustained an injury while in Rikers Island jail, requiring medical attention. *   **Coronavirus Restrictions:** The SDNY implemented temporary restrictions barring entry to courthouses for anyone who had traveled to or been in contact with individuals affected by the coronavirus outbreak. The document highlights several concurrent investigations and legal challenges, demonstrating a complex web of criminal activity and a degree of uncertainty regarding the Justice Department’s oversight and handling of sensitive cases.",
+      "timestamp": "2020-03-09T00:00:00",
+      "timestamp_raw": "March 9, 2020",
+      "keywords": [
+        "efta00014243",
+        "son",
+        "sdny",
+        "news clips",
+        "epstein",
+        "prince andrew",
+        "corruption",
+        "money laundering",
+        "terrorism",
+        "navarro",
+        "ray",
+        "coronavirus",
+        "darden",
+        "max security",
+        "weinstein",
+        "schulte",
+        "covid-19"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014263",
+      "summary": "*   **Prince Andrew and Epstein:** The SDNY was investigating potential co-conspirators of Jeffrey Epstein, and Prince Andrew had shut down voluntary cooperation with the investigation, leading to a possible criminal inquiry. *   **MCC Issues:** There were concerns about the Metropolitan Correctional Center (MCC) in Lower Manhattan due to structural problems, staffing issues (including the transfer of Captain Jermaine Darden), and a smuggling incident involving a gun. Several MCC personnel were facing scrutiny. *   **Horse Racing Doping Scandal:** The FBI was investigating a widespread doping scheme involving trainers, veterinarians, and suppliers in horse racing, leading to the indictment of 27 individuals. Jorge Navarro was central to this scheme, and his horse, X Y Jet, died due to excessive drug use. *   **Joshua Schulte Investigation:** The FBI was investigating computer engineer Joshua Schulte, who had leaked classified C.I.A. documents to WikiLeaks. Schulte was eventually convicted of contempt of court and making false statements. *   **Lawrence Ray Case:** Lawrence Ray, who had forced a former college student into prostitution, was arrested and charged with sex trafficking. *   **Judge Walton's Criticism:** Judge Reggie Walton criticized Attorney General William Barr for allegedly misleading the public about the Mueller Report, raising questions about Barr's independence. *   **Coronavirus Restrictions:** The SDNY implemented new restrictions barring entry to courthouses for anyone who had recently traveled to or come into contact with individuals affected by the coronavirus outbreak.",
+      "timestamp": "2020-03-09T00:00:00",
+      "timestamp_raw": "March 9, 2020",
+      "keywords": [
+        "efta00014263",
+        "sdny news clips",
+        "epstein",
+        "prince andrew",
+        "corruption",
+        "money laundering",
+        "terrorism",
+        "narcotics",
+        "organized crime",
+        "ray",
+        "barr",
+        "weinstein",
+        "coronavirus",
+        "schulte",
+        "horse racing",
+        "doping",
+        "max security",
+        "guiliani",
+        "sarah lawrence"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026530",
+      "summary": "On May 19, 2020, Andrew Tomback, a partner at White & Case LLP, contacted Weinstein and another individual regarding a follow-up question about the estate’s possession of photographs and videos related to Jeffrey Epstein’s properties. Tomback stated the estate and trustees were unaware of surveillance videos and that some photographs existed without warrant searches. He requested digital copies of those photographs, initially due to the estate’s inability to retain assistance, and then inquired about the possibility of someone currently accessing the properties to convey the photographs due to the pandemic. The email includes a request to verify the accuracy of the recollection and to determine if any progress could be made in obtaining the requested images.",
+      "timestamp": "2020-05-19T00:00:00",
+      "timestamp_raw": "May 19, 2020",
+      "keywords": [
+        "efta00026530",
+        "andrew tomback",
+        "marc weinstein",
+        "estate",
+        "photographs",
+        "videos",
+        "surveillance",
+        "february",
+        "new york",
+        "pandemic"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020365",
+      "summary": "Marc Weinstein of Hu hes Hubbard & Reed LLP is requesting a call with the recipient around 1:00 PM on July 8, 2020, regarding the Epstein estate. The email includes standard confidentiality disclaimers.",
+      "timestamp": "2020-07-08T00:00:00",
+      "timestamp_raw": "July 8, 2020",
+      "keywords": [
+        "efta00020365",
+        "epstein estate",
+        "marc weinstein",
+        "redaction analysis",
+        "call",
+        "july 2020",
+        "confidential",
+        "email",
+        "hu hes hubbard & reed llp",
+        "mite collar defense"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032951",
+      "summary": "*   **Geoffrey Berman’s Resistance:** Former U.S. Attorney Geoffrey Berman resisted attempts to explain his ouster, citing administrative staff limitations. *   **Weinstein Attorneys’ Tactics:** Harvey Weinstein’s attorney, Donna Rotunno, defended her press tactics during the trial, leading to a gag order. *   **False COVID-19 Vaccine Scheme:** A Kentucky judge ordered the shutdown of a website offering a nonexistent COVID-19 vaccine in exchange for bitcoin. *   **Supreme Court Dissent Analysis:** The text details several significant dissenting opinions from the Supreme Court, primarily related to Trump administration policies. *   **Weinstein Accuser Opposition:** Harvey Weinstein accusers opposed the $18.9 million settlement deal, describing it as a \"cruel hoax.\" *   **DOJ Shutdown of Fraudulent Website:** The DOJ shut down a website promoting a nonexistent COVID-19 vaccine. *   **Mallinckrodt FCA Settlement:** Mallinckrodt sought to dismiss False Claims Act claims related to its Acthar Gel drug. *   **Sports & Betting Scandal:** A California couple pleaded guilty in the “Varsity Blues” college admissions scandal. *   **Compliance Lessons:** An article analyzed Novartis’s Foreign Corrupt Practices Act settlement, highlighting compliance risks for life sciences companies. *   **Public Integrity Cases:** Coverage includes charges against a New York City police union boss for defrauding a retirement fund, and a Panama Papers-related defense for Netflix. *   **Legal Ethics Discussions:** The text discusses legal ethics related to the Donziger case and the allegations against NAC Foundation. *   **Business Development Strategies:** An article suggests associates prioritize business development despite the pandemic. *   **Legal Industry News:** Updates include Deloitte expanding its legal business services, concerns about the future of the legal industry, and developments related to Facebook’s investigation and Boies Schiller adding bankruptcy attorneys. *   **Court Decisions:** Several court decisions are reported, including the Sixth Circuit upholding an opioid pill mill operator’s conviction and Foley & Lardner gaining standing to foreclose on a condo loan. *   **Notable Figures & Interviews:** The text includes an interview with Spartan Race’s general counsel, Deanna Sheridan, discussing the challenges of running events during the pandemic. *   **Job Postings:** Several attorney job openings are listed, including positions at the SEC, KLR Davis, and Schoen Legal Search.",
+      "timestamp": "2020-07-14T00:00:00",
+      "timestamp_raw": "14 Jul 2020",
+      "keywords": [
+        "roger stone",
+        "trump",
+        "commutation",
+        "geoffrey berman",
+        "weinstein",
+        "covid-19 vaccine",
+        "sec",
+        "doj",
+        "antitrust",
+        "barnes & noble",
+        "supreme court",
+        "georgia",
+        "6th circuit",
+        "pill mill",
+        "mallinckrodt",
+        "california couple",
+        "varsity blues",
+        "novartis",
+        "fcpa",
+        "donziger",
+        "ico fraud",
+        "jackson lewis",
+        "twitter",
+        "facebook",
+        "gibson dunn",
+        "boies schiller",
+        "foley & lardner",
+        "grim reaper",
+        "ross intelligence",
+        "spartan race",
+        "westlaw",
+        "jobs",
+        "legal industry"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031302",
+      "summary": "An email was sent from “)” to Marc Weinstein on July 16, 2020, regarding the acceptance of an Epstein NY property (EFTA00031302). An unnamed attachment was included.",
+      "timestamp": "2020-07-16T00:00:00",
+      "timestamp_raw": "July 16, 2020",
+      "keywords": [
+        "efta00031302",
+        "epstein",
+        "weinstein",
+        "marc a.",
+        "property",
+        "acceptance",
+        "2020",
+        "jul 16",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00031304",
+            "similarity": 0.636,
+            "index": 38,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00024502",
+      "summary": "On July 16, 2020, at 5:30 PM UTC, a Skype meeting occurred with Marc A. Weinstein ([REDACTED]) and Andrew Tomback ([REDACTED]) regarding Epstein’s New York property. The meeting’s conference ID was 612 758 867. A reminder was set to display 15 minutes before the start. Dial-in numbers were provided for various countries, including Brazil, Canada, China, France, Germany, India, Ireland, Israel, Japan, Korea (Seoul), Singapore, United Kingdom, and United States. The document also contains information on connecting via computer or mobile device, a Skype Web App option, and instructions for meeting organizers regarding dial-in PIN resets. EFTA00024502 and EFTA00024503 are referenced.",
+      "timestamp": "2020-07-16T00:00:00",
+      "timestamp_raw": "July 16, 2020",
+      "keywords": [
+        "epstein",
+        "property",
+        "skype",
+        "meeting",
+        "dial-in",
+        "conference id",
+        "weinstein",
+        "andrew tomback",
+        "redaction analysis",
+        "efta00024502"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00009914",
+            "similarity": 0.538,
+            "index": 60,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00024501",
+      "summary": "An email from Weinstein. t\\1arc A. to Andrew Tomback regarding Epstein’s New York property is documented. The email includes dial-in numbers for international conferencing, specifying different options for meetings with and without presentations or video. It provides instructions on joining meetings via telephone or Skype Web App, with a focus on resetting the dial-in PIN for meeting organizers. The document is identified as EFTA00024501.",
+      "timestamp": "2020-07-16T00:00:00",
+      "timestamp_raw": "16 Jul 2020",
+      "keywords": [
+        "epstein",
+        "ny property",
+        "redaction analysis",
+        "efta00024501",
+        "skype",
+        "dial-in numbers",
+        "meetings",
+        "weinstein",
+        "andrew tomback",
+        "conference id"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031304",
+      "summary": "Marc Weinstein received an email on July 16, 2020, regarding the acceptance of a property belonging to Jeffrey Epstein (identified as “EFTA00031304”). The email was from “l” to “Weinstein, Marc A.” and was attached as an unnamed document.",
+      "timestamp": "2020-07-16T00:00:00",
+      "timestamp_raw": "July 16, 2020",
+      "keywords": [
+        "efta00031304",
+        "epstein",
+        "weinstein",
+        "marc a.",
+        "property",
+        "acceptance",
+        "2020",
+        "jul 16",
+        "unnamed"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00031302",
+            "similarity": 0.636,
+            "index": 35,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031303",
+      "summary": "On July 16, 2020, at 5:30 PM +0000, Marc Weinstein (marc.weinstein@hugheshubbard.com) participated in a Skype meeting (Conference ID: 612 758 867) regarding the acceptance of Jeffrey Epstein’s New York property. The event was classified as “X-PERSONAL,” had a priority of 5, and was created and last modified on July 16, 2020.",
+      "timestamp": "2020-07-16T00:00:00",
+      "timestamp_raw": "July 16, 2020",
+      "keywords": [
+        "efta00031303",
+        "epstein",
+        "weinstein",
+        "marc a.",
+        "skype meeting",
+        "2020-07-16",
+        "property",
+        "conference id",
+        "x-personal",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015954",
+      "summary": "On July 16, 2020, Marc Weinstein of Hughes Hubbard & Reed LLP sent emails to coordinate a call regarding the NY property of Jeffrey Epstein. He requested a call between 1:00-1:45 PM and offered a dial-in option. Two individuals responded, agreeing to the call time and confirming their availability. The emails included standard legal disclaimers regarding confidential information and email transmission security.",
+      "timestamp": "2020-07-16T00:00:00",
+      "timestamp_raw": "July 16, 2020",
+      "keywords": [
+        "epstein",
+        "ny property",
+        "marc weinstein",
+        "hughes hubbard & reed",
+        "dial-in",
+        "call",
+        "2020",
+        "legal",
+        "redacted"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00015956",
+            "similarity": 0.583,
+            "index": 41,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00015956",
+      "summary": "Marc Weinstein of Hughes Hubbard & Reed LLP contacted [REDACTED] on July 16, 2020, regarding an update on the Epstein NY property. Weinstein proposed a call time between 1:00-1:45, and offered to use a dial-in option. The email included standard confidentiality disclaimers.",
+      "timestamp": "2020-07-16T00:00:00",
+      "timestamp_raw": "July 16, 2020",
+      "keywords": [
+        "epstein",
+        "ny property",
+        "marc weinstein",
+        "hughes hubbard & reed",
+        "redaction analysis",
+        "efta00015956",
+        "call",
+        "dial-in",
+        "2020",
+        "update"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00015954",
+            "similarity": 0.583,
+            "index": 40,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024500",
+      "summary": "Marc A. Weinstein of Huhes Hubbard & Reed LLP sent an email to [REDACTED] inquiring about an update on a New York property owned by Jeffrey Epstein. He requested a call today between 1:00-1:45 to discuss the update. The email includes standard confidentiality disclaimers.",
+      "timestamp": "2020-07-16T00:00:00",
+      "timestamp_raw": "16 Jul 2020",
+      "keywords": [
+        "epstein",
+        "ny property",
+        "marc weinstein",
+        "white collar defense",
+        "huhes hubbard & reed llp",
+        "redaction analysis",
+        "efta00024500"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00020664",
+            "similarity": 0.556,
+            "index": 43,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00020664",
+      "summary": "Marc A. Weinstein of Hughes Hubbard & Reed LLP sent an email on July 16, 2020, to inquire about an update regarding the New York property owned by Jeffrey Epstein. The email was sent to [REDACTED] and included Cc’s to Ian, Alison, Maurene, and Andrew Tomback. The original email request was from Alex to determine if Weinstein would have time for a call between 1:00-1:45 PM regarding the property.",
+      "timestamp": "2020-07-16T00:00:00",
+      "timestamp_raw": "July 16, 2020",
+      "keywords": [
+        "epstein",
+        "ny property",
+        "marc weinstein",
+        "hughes hubbard & reed",
+        "white collar defense",
+        "redaction analysis",
+        "efta00020664"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00024500",
+            "similarity": 0.556,
+            "index": 42,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031305",
+      "summary": "On July 16, 2020, at 5:30 PM GMT, Marc Weinstein of Hughes Hubbard &amp; Birch (marc.weinstein@hugheshubbard.com) participated in a Skype meeting (Conference ID: 612 758 867) regarding the acceptance of Epstein’s New York property. The event was classified as “X-PERSONAL,” had a priority level of 5, and was created/modified on July 16, 2020. The DTSTAMP was July 16, 2020, 3:43 PM GMT.",
+      "timestamp": "2020-07-16T00:00:00",
+      "timestamp_raw": "July 16, 2020",
+      "keywords": [
+        "epstein",
+        "ny property",
+        "2020-07-16",
+        "marc weinstein",
+        "skype meeting",
+        "conference id",
+        "x-personal",
+        "redaction analysis",
+        "efta00031305"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020773",
+      "summary": "An Assistant U.S. Attorney from the Southern District of New York is coordinating with Marc Weinstein and Andrew Tomback regarding the production of materials related to the estate of Jeffrey Epstein. The Attorney agrees with a plan to scan photographs and produce them electronically. They are open to receiving original materials like a photo book if scanning is not feasible. Loose, unlabeled discs are not requested currently, but their production will be considered if they contain photos. The Attorney emphasizes that the government isn’t requesting a privilege waiver but intends to seek a formal position on whether the estate will waive attorney-client privilege for discovery review in the United States v. Maxwell case. Until a formal position is obtained, the government will assume the privilege remains in effect.",
+      "timestamp": "2020-07-17T00:00:00",
+      "timestamp_raw": "17 Jul 2020",
+      "keywords": [
+        "efta00020773",
+        "redaction analysis",
+        "estate",
+        "jeffrey epstein",
+        "sdny investigation",
+        "privilege",
+        "discovery",
+        "production",
+        "united states v. maxwell",
+        "photographs"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020320",
+      "summary": "A U.S. Attorney’s Office from the Southern District of New York (SDNY) sent a letter to Andrew Tomback and Marc Weinstein regarding an ongoing investigation. The letter, attached as a PDF named “2020-07-26,_JE,_letter to_trustees_counsel.pdf,” is a follow-up to previous discussions.",
+      "timestamp": "2020-07-26T00:00:00",
+      "timestamp_raw": "2020-07-26",
+      "keywords": [
+        "efta00020320",
+        "sdny investigation",
+        "weinstein",
+        "marc a.",
+        "redaction analysis",
+        "u.s. attorney",
+        "southern district of new york",
+        "letter to trustees",
+        "andy",
+        "andrew tomback"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020668",
+      "summary": "On July 27, 2020, Marc Weinstein of Hughes Hubbard & Reed LLP responded to an inquiry regarding the Estate of Jeffrey E. Epstein’s actions related to the SDNY investigation. The Co-Executors confirmed they would not utilize Section 2.5(B) of the 1953 Trust to suggest retaliation against individuals cooperating with law enforcement. They also stated they would notify the U.S. Attorney’s Office before any disbursements to Ghislaine Maxwell and would not waive applicable privileges, including attorney-client privilege, regarding seized materials. An attached letter from the Assistant U.S. Attorney confirms receipt of the Co-Executors’ response.",
+      "timestamp": "2020-07-27T00:00:00",
+      "timestamp_raw": "July 27, 2020",
+      "keywords": [
+        "sdny investigation",
+        "jeffrey epstein",
+        "ghislaine maxwell",
+        "weinstein",
+        "hughes hubbard & reed",
+        "trust",
+        "privilege",
+        "retaliation",
+        "law enforcement",
+        "estate"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031989",
+      "summary": "On July 27, 2020, Marc Weinstein of Hughes Hubbard & Reed LLP communicated on behalf of the Co-Executors of the Estate of Jeffrey E. Epstein. The Co-Executors confirmed they would not use Section 2.5(B) of the 1953 Trust to suggest retaliation against individuals cooperating with law enforcement investigations. They also stated they would notify the US Attorney’s Office for the Southern District of New York in advance of any disbursements to Ghislaine Maxwell and would not waive applicable privileges, including attorney-client privilege, regarding seized materials. An attached letter from the Assistant U.S. Attorney for the Southern District of New York provided context for this communication.",
+      "timestamp": "2020-07-27T00:00:00",
+      "timestamp_raw": "July 27, 2020",
+      "keywords": [
+        "epstein",
+        "sdny investigation",
+        "jeffrey epstein",
+        "ghislaine maxwell",
+        "trust",
+        "attorney-client privilege",
+        "hughes hubbard & reed",
+        "white collar defense",
+        "united states attorney's office"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026618",
+      "summary": "Suzannah B. Troy, an artist, sent a critical mention alert on September 10, 2020, regarding Dr. Robert Hadden’s case involving allegations of corruption by the NYPD, New York District Attorney, and individuals like Dr. Andrew Fagelman and Delita Hooks. The alert claims these individuals facilitated the cover-up of crimes, referencing Jeffrey Epstein, Ghislaine Maxwell, and Harvey Weinstein. It alleges systemic enabling of wrongdoing and suggests that the city of New York and other powerful enablers were involved in protecting corrupt actors. The alert utilizes Critical Mention, a service that monitors global media coverage and provides real-time email alerts.",
+      "timestamp": "2020-09-10T00:00:00",
+      "timestamp_raw": "September 10, 2020",
+      "keywords": [
+        "robert hadden",
+        "jeffrey epstein",
+        "cy vance",
+        "nypd",
+        "delita hooks",
+        "perjury",
+        "whistleblower",
+        "sex offender registry",
+        "criminals",
+        "enablers"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023750",
+      "summary": "*   Jack Scarola is corresponding with an attorney (identified as [REDACTED]) regarding the transcript’s availability. *   Marc Weinstein and Andrew Tomback, attorneys representing the executors of Epstein’s estate, have been provided with Scarola’s contact information. *   The sender confirms they haven't shared details about Scarola’s client’s investigation. *   There’s an inquiry about potential protective orders or agreements governing the disclosure of materials from the civil case. *   Court reporting and video evidence confirmation indicates the original deposition transcript (Volume I) is missing. *   Mike Danchuk’s detailed notes from the deposition are attached, describing the deposition and highlighting the patterns of grooming and victimization involving vulnerable young women. *   A standard legal disclaimer is included regarding the confidentiality and privileged nature of the communication.",
+      "timestamp": "2020-09-22T00:00:00",
+      "timestamp_raw": "22 Sep 2020",
+      "keywords": [
+        "epstein",
+        "deposition",
+        "transcript",
+        "estate",
+        "attorneys",
+        "protective order",
+        "cma case",
+        "jack scarola",
+        "mike danchuk",
+        "redaction"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020865",
+      "summary": "Marc A. Weinstein, a partner at Hughes Hubbard & Reed LLP, is assisting the Assistant United States Attorney in the SDNY investigation. The investigation revolves around obtaining a transcript, initially requested by Jack Scarola (plaintiff’s counsel), regarding a deposition. Weinstein initially connected with Scarola to facilitate the transcript’s delivery, requesting a letter waiving any potential protective orders.  He then identified a need to confirm the deponent’s name and sought a dial-in for a call. The Assistant U.S. Attorney requested a copy of the transcript, inquiring about potential confidentiality restrictions and offering to provide a letter waiving any such restrictions.  The emails reveal a back-and-forth regarding the deponent’s identity (initially unclear) and the timeframe for a call. Finally, Weinstein confirmed a time for a call with the Assistant U.S. Attorney and Andy.",
+      "timestamp": "2020-09-30T00:00:00",
+      "timestamp_raw": "30 Sep 2020",
+      "keywords": [
+        "weinstein",
+        "marc a.",
+        "sdny investigation",
+        "transcript",
+        "jack scarola",
+        "hughes hubbard & reed llp",
+        "us attorney",
+        "protective order",
+        "deposition",
+        "efta00020865"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020864",
+      "summary": "Marc A. Weinstein responded to an email regarding an SDNY investigation. The email exchange occurred on September 30, 2020, and involved Andrew Tomback and the USAHUB-USAJouma1111 distribution list.",
+      "timestamp": "2020-09-30T00:00:00",
+      "timestamp_raw": "September 30, 2020",
+      "keywords": [
+        "efta00020864",
+        "sdny investigation",
+        "weinstein",
+        "marc a.",
+        "redaction analysis",
+        "usahub",
+        "email",
+        "correspondence"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020870",
+      "summary": "Marc Weinstein, a partner at Hughes Hubbard & Reed LLP, is facilitating the retrieval of a transcript related to an SDNY investigation. The investigation centers around a deposition, likely from 2009, involving a plaintiff represented by Jack Scarola. Weinstein is coordinating with the US Attorney's Office and the plaintiff’s counsel, who is unaware of any protective order.  He initially requests a call to discuss the transcript and then, after realizing the deponent's name is missing, asks for it. The US Attorney’s office provides information regarding Jeffrey Epstein’s representation of the involved parties. A scheduling conflict is resolved for a team call on Friday at 10 AM to discuss the transcript. The entire communication is marked with cautions regarding email security and confidentiality.",
+      "timestamp": "2020-09-30T00:00:00",
+      "timestamp_raw": "September 30, 2020",
+      "keywords": [
+        "sdny investigation",
+        "transcript",
+        "jack scarola",
+        "weinstein",
+        "hughes hubbard & reed",
+        "us attorney's office",
+        "protective order",
+        "deposition",
+        "litigation",
+        "email"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020881",
+      "summary": "Marc Weinstein, a partner at Hughes Hubbard & Reed LLP, is assisting the Assistant United States Attorney’s Office in the SDNY investigation. He initially contacted Jack Scarola, an attorney representing the plaintiff, to obtain a transcript. Weinstein requested a letter confirming the absence of a protective order, seeking to ensure the Estate could provide the transcript to the US Attorney’s Office. He then inquired about the identity of the deponent for the transcript, and followed up on the possibility of a call to discuss the matter. The US Attorney’s Office provided contact information for Jack Scarola and confirmed the deposition occurred in 2009, involving Jeffrey Epstein.  There was ongoing discussion about confidentiality restrictions and the need for a confirmation regarding the lack of a protective order.",
+      "timestamp": "2020-09-30T00:00:00",
+      "timestamp_raw": "30 Sep 2020",
+      "keywords": [
+        "weinstein",
+        "investigation",
+        "transcript",
+        "sdny",
+        "jack scarola",
+        "hughes hubbard & reed",
+        "us attorney",
+        "deposition",
+        "protective order",
+        "efta00020881"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023698",
+      "summary": "An email thread, dated October 2, 2020, regarding an SDNY investigation, was sent from [REDACTED] to Marc A. Weinstein, with Andrew Tomback copied. The email is titled “RE: SDNY investigation.”",
+      "timestamp": "2020-10-02T00:00:00",
+      "timestamp_raw": "October 2, 2020",
+      "keywords": [
+        "efta00023698",
+        "redaction analysis",
+        "sdny investigation",
+        "weinstein",
+        "marc a.",
+        "andrew tomback"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023699",
+      "summary": "Marc Weinstein, a partner at Hughes Hubbard & Reed LLP, is assisting the US Attorney's Office in obtaining a transcript related to an SDNY investigation. Initially, he contacted Jack Scarola to request the transcript, which was originally a deposition. Concerns arose about potential confidentiality restrictions, leading Weinstein to request a letter from the plaintiff’s counsel (represented by the US Attorney) confirming the lack of a protective order and waiving any claims related to its disclosure. Weinstein connected with the plaintiff’s attorney, confirming that the plaintiff’s name is [REDACTED] who is represented by Jack Scarola, and asked for a dial-in for a call. The US Attorney confirmed the lack of a protective order. The email chain details the process of securing the transcript and navigating potential legal concerns.",
+      "timestamp": "2020-11-02T00:00:00",
+      "timestamp_raw": "02 Oct 2020",
+      "keywords": [
+        "transcript",
+        "sdny investigation",
+        "us attorney",
+        "marc weinstein",
+        "jack scarola",
+        "hughes hubbard & reed",
+        "protective order",
+        "confidentiality",
+        "deposition",
+        "efta00023699"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019126",
+      "summary": "Marc A. Weinstein of Hughes Hubbard & Reed LLP sent an email to “Mrs’” (likely a recipient’s name) on November 9, 2020, requesting a call to provide an update regarding the Epstein Estate. The email included a standard confidentiality warning regarding the transmission of the message.",
+      "timestamp": "2020-11-09T00:00:00",
+      "timestamp_raw": "November 9, 2020",
+      "keywords": [
+        "efta00019126",
+        "weinstein",
+        "marc a.",
+        "epstein estate",
+        "hughes hubbard & reed",
+        "white collar defense",
+        "update",
+        "confidential",
+        "email",
+        "call"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00029982",
+            "similarity": 0.615,
+            "index": 68,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00028118",
+      "summary": "An email was sent from \"Weinstein\" to Marc Weinstein on November 9, 2020, regarding the acceptance of the Epstein Estate (EFTA00028118). An unnamed attachment was included.",
+      "timestamp": "2020-11-09T00:00:00",
+      "timestamp_raw": "November 9, 2020",
+      "keywords": [
+        "efta00028118",
+        "epstein estate",
+        "weinstein",
+        "marc a.",
+        "acceptance",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00028836",
+            "similarity": 0.5,
+            "index": 10,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019130",
+      "summary": "Marc A. Weinstein emailed Andrew Tomback on November 9, 2020, regarding the Epstein Estate. The email included dial-in numbers for international conference calls with a Conference ID of 570579045. It outlined instructions for joining meetings via telephone (with or without presentations/video) and provided guidance for guests joining Skype for Business meetings. The document is labeled EFTA00019130.",
+      "timestamp": "2020-11-09T00:00:00",
+      "timestamp_raw": "November 9, 2020",
+      "keywords": [
+        "epstein estate",
+        "dial-in numbers",
+        "skype",
+        "meetings",
+        "weinstein",
+        "marc a",
+        "conference id",
+        "redaction analysis",
+        "onlinemeetingcenter",
+        "efta00019130"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00009914",
+      "summary": "Marc Weinstein scheduled a Skype meeting on November 9, 2020, at 4:30 PM - 5:00 PM Eastern Time (UTC-05:00) with Conference ID 570 579 045 and Dial-In Number +1 (201) 630-0824 to discuss the Epstein Estate.  Additional dial-in numbers were provided for international participants including Brazil, Canada, China, France, Germany, India, Ireland, Israel, Japan, Korea, Singapore, United Kingdom, and United States. The meeting details included instructions for joining via computer or mobile device, or by telephone.",
+      "timestamp": "2020-11-09T00:00:00",
+      "timestamp_raw": "November 9, 2020",
+      "keywords": [
+        "epstein estate",
+        "skype",
+        "meeting",
+        "dial-in",
+        "weinstein",
+        "conference id",
+        "andrew tomback",
+        "redaction analysis",
+        "utc-05:00",
+        "2020"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00024502",
+            "similarity": 0.538,
+            "index": 36,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019131",
+      "summary": "An event titled “Epstein Estate” took place on November 9, 2020, from 21:30 to 22:00. Marc A. Weinstein organized it via a Skype meeting with Conference ID 570 579 045. The event had a priority of 5. Several dial-in numbers were provided for attendees globally, including Brazil, Canada, China, France, Germany, India, Ireland, Israel, Japan, Korea, Singapore, United Kingdom, and United States. The document outlines instructions for joining the meeting via telephone and provides troubleshooting advice for first-time Skype for Business guests.",
+      "timestamp": "2020-11-09T00:00:00",
+      "timestamp_raw": "November 9, 2020",
+      "keywords": [
+        "epstein estate",
+        "skype meeting",
+        "weinstein",
+        "dial-in numbers",
+        "conference id",
+        "andrew tomback",
+        "2020-11-09",
+        "redaction analysis",
+        "event",
+        "mobile phone"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00009915",
+            "similarity": 0.545,
+            "index": 63,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00028119",
+      "summary": "On November 9, 2020, at 21:30:00 UTC, a Skype meeting occurred with Marc Weinstein and the Epstein Estate. The meeting, identified by Conference ID 570 579 045, was classified as X-PERSONAL. The meeting was created on November 9, 2020, at 16:22:32 UTC and remains unchanged.",
+      "timestamp": "2020-11-09T00:00:00",
+      "timestamp_raw": "November 9, 2020",
+      "keywords": [
+        "efta00028119",
+        "epstein estate",
+        "marc weinstein",
+        "skype meeting",
+        "redaction analysis",
+        "2020-11-09",
+        "x-personal",
+        "conference id",
+        "event",
+        "priority"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00009915",
+            "similarity": 0.545,
+            "index": 63,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00009915",
+      "summary": "A Skype meeting took place on November 9, 2020, at 4:30 PM - 5:00 PM (UTC-05:00) Eastern Time. Marc Weinstein organized the meeting with Andrew Tomback, related to the Epstein Estate. The meeting used Conference ID 570 579 045 and provided a list of international dial-in numbers for access via telephone.  The meeting details were recorded and associated with document EFTA00009915 and EFTA00009916.",
+      "timestamp": "2020-11-09T00:00:00",
+      "timestamp_raw": "November 9, 2020",
+      "keywords": [
+        "epstein estate",
+        "marc weinstein",
+        "skype meeting",
+        "2020-11-09",
+        "dial-in numbers",
+        "conference id",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00028119",
+            "similarity": 0.545,
+            "index": 62,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019131",
+            "similarity": 0.545,
+            "index": 61,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029984",
+      "summary": "An email was sent from [REDACTED] to Marc Weinstein on November 9, 2020, regarding an update on the Epstein Estate. Andrew Tomback is copied, and the email is associated with the \"USAHUB-USAJouma1111\" alias. The email is labeled as a reply to an update titled “Epstein Estate update.”",
+      "timestamp": "2020-11-09T00:00:00",
+      "timestamp_raw": "November 9, 2020",
+      "keywords": [
+        "epstein estate",
+        "redaction analysis",
+        "marc weinstein",
+        "usahub",
+        "andrew tomback"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024818",
+      "summary": "Marc A. Weinstein of Hughes Hubbard & Reed LLP sent an email on November 9, 2020, to inquire about a call regarding an update on the Epstein Estate. He offered to conduct the call himself or push it to the following day. The email included a forwarded message from Weinstein to Andrew Tomback regarding a request for a call to discuss a new development related to the estate. The email contained standard disclaimers regarding confidential information and email transmission security.",
+      "timestamp": "2020-11-09T00:00:00",
+      "timestamp_raw": "November 9, 2020",
+      "keywords": [
+        "epstein estate",
+        "marc weinstein",
+        "hughes hubbard & reed",
+        "ktde collar defense",
+        "call",
+        "update",
+        "november 9 2020",
+        "email",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00029985",
+            "similarity": 0.538,
+            "index": 66,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019129",
+            "similarity": 0.583,
+            "index": 69,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00029985",
+      "summary": "On November 9, 2020, Marc Weinstein of Hughes Hubbard & Reed LLP was contacted by [REDACTED] regarding an update on the Epstein Estate. [REDACTED] requested a call this afternoon to discuss a new development. Weinstein responded with a similar request for a call, and [REDACTED] confirmed availability. Weinstein included a standard confidentiality disclaimer in his email.",
+      "timestamp": "2020-11-09T00:00:00",
+      "timestamp_raw": "November 9, 2020",
+      "keywords": [
+        "epstein estate",
+        "marc weinstein",
+        "hughes hubbard & reed",
+        "redaction analysis",
+        "email",
+        "november 9",
+        "2020",
+        "call",
+        "update",
+        "confidential",
+        "efta00029985"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00024818",
+            "similarity": 0.538,
+            "index": 65,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00019127",
+            "similarity": 0.5,
+            "index": 71,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00026834",
+      "summary": "*   The primary focus is on identifying the attorneys representing the estate, initially led by inquiries about Marc Weinstein and Andrew Tomback. *   A private investigator, Roy Black, is mentioned in connection with a criminal investigation. *   There’s an ongoing effort to determine whether communications involving private investigators are protected by attorney-client privilege. *   Jack Goldberger is identified as an attorney representing Epstein, and emails referencing him are flagged for privilege review. *   A request is made to remove “Goldberger hits” (likely referring to emails or information related to Goldberger’s representation) from the database. *   The email chain involves discussions about privilege issues, database reviews, and coordination between individuals.",
+      "timestamp": "2020-11-12T00:00:00",
+      "timestamp_raw": "12 Oct 2020",
+      "keywords": [
+        "epstein",
+        "marc weinstein",
+        "andrew tomback",
+        "jack goldberger",
+        "private investigators",
+        "estate",
+        "privilege"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029982",
+      "summary": "Marc A. Weinstein of Hughes Hubbard & Reed LLP is corresponding with an individual and Andrew Tomback regarding an update on the Epstein Estate. Weinstein proposes a call this afternoon to discuss a new development. The emails include standard confidentiality disclaimers regarding email transmission security. Redactions are present in the document.",
+      "timestamp": "2020-12-09T00:00:00",
+      "timestamp_raw": "09 Nov 2020",
+      "keywords": [
+        "weinstein",
+        "marc a.",
+        "epstein estate",
+        "hughes hubbard & reed",
+        "email",
+        "redaction",
+        "november 9",
+        "2020",
+        "call",
+        "update",
+        "white collar defense"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00019126",
+            "similarity": 0.615,
+            "index": 57,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00019127",
+            "similarity": 0.5,
+            "index": 71,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00019129",
+      "summary": "An email chain discusses a call regarding the Epstein Estate update. Marc Weinstein proposes a call this afternoon, but [REDACTED] suggests postponing it to the following day to allow for more review time. The email thread includes a forwarded message from Weinstein outlining the request for an update.",
+      "timestamp": "2020-12-09T00:00:00",
+      "timestamp_raw": "09 Nov 2020",
+      "keywords": [
+        "epstein estate",
+        "marc weinstein",
+        "hughes hubbard & reed",
+        "redaction analysis",
+        "call",
+        "update",
+        "images",
+        "deadline",
+        "november 9 2020",
+        "usanys"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00024818",
+            "similarity": 0.583,
+            "index": 65,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020833",
+      "summary": "Marc Weinstein of Hughes Hubbard & Reed LLP sent an email regarding a potential fabricated warranty deed related to a Palm Beach property owned by Jeffrey Epstein. He attached a warranty deed (OR 31849 39 Wlipdf) and noted a similar deed had been filed for a New Mexico property. The email included standard confidentiality disclaimers.",
+      "timestamp": "2020-12-09T00:00:00",
+      "timestamp_raw": "09 Nov 2020",
+      "keywords": [
+        "warranty deed",
+        "epstein",
+        "false",
+        "fabricated",
+        "deed",
+        "palm beach",
+        "new mexico",
+        "hughes hubbard & reed",
+        "marc weinstein",
+        "redaction"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019127",
+      "summary": "An email chain discusses a call regarding the Epstein Estate update. Marc A. Weinstein requests a call to provide an update, proposing options for the call’s timing and leadership. Another individual expresses willingness to join the call, stating they will continue reviewing images. A standard confidentiality disclaimer is included within the email.",
+      "timestamp": "2020-12-09T00:00:00",
+      "timestamp_raw": "09 Nov 2020",
+      "keywords": [
+        "epstein estate",
+        "marc weinstein",
+        "call",
+        "update",
+        "redaction",
+        "efta00019127",
+        "hughes hubbard & reed",
+        "usanys",
+        "november 9",
+        "2020"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00029982",
+            "similarity": 0.5,
+            "index": 68,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00029985",
+            "similarity": 0.5,
+            "index": 66,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029068",
+      "summary": "Marc Weinstein of Hughes Hubbard & Reed LLP received an email regarding a potentially fabricated warranty deed for a Palm Beach property (EFTA00029068). A colleague, Andrew Tomback, informed Weinstein that their office was declining to investigate the matter, advising Weinstein to contact local authorities. Weinstein had previously sent a warranty deed for a similar property in New Mexico (EFTA00029069). Both emails included standard disclaimers regarding confidential information and email transmission security.",
+      "timestamp": "2020-12-11T00:00:00",
+      "timestamp_raw": "11 Nov 2020",
+      "keywords": [
+        "epstein",
+        "warranty deed",
+        "marc weinstein",
+        "hughes hubbard & reed",
+        "investigation",
+        "false deed",
+        "palm beach",
+        "new mexico",
+        "efta00029068"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019088",
+      "summary": "This document is a collection of news articles from Law360, a legal news publication, covering a variety of legal cases and developments as of March 30, 2021. Key stories include: *   **Toyota Investigation:** Toyota is being investigated for possible bribery of Thai judges and government officials to overturn an import tax judgment. *   **Donziger Case:** The Second Circuit Court of Appeals rejected arguments to overturn Steven Donziger’s home confinement. *   **EDNY Resources:** The U.S. Attorney’s Office for the Eastern District of New York is increasing resources to combat anti-Asian hate crimes. *   **Supreme Court Cases:** Decisions were made regarding Hillary Clinton’s email case, Ghislaine Maxwell’s charges, and a request to hear a case involving a threat against a judge. *   **SEC Actions:** The SEC is seizing websites posing as COVID-19 vaccine makers and has taken action against former engine maker executives for accounting fraud. *   **Parnas Bail:** Bail conditions for Lev Parnas were relaxed amid selective prosecution claims. *   **Flynn Judge Threat:** A New York man pleaded guilty to threatening a judge overseeing the Michael Flynn case. *   **Weinstein Case:** A sexual assault case against Harvey Weinstein was paused to attempt mediation. *   **Various Other Cases:** Articles detail lawsuits involving Insys Therapeutics, Chevron, architectural firms, and disputes related to court access and intellectual property rights. *   **Industry News:** The document includes bonus announcements for BigLaw firms and a spotlight on Brad Caldwell's successful litigation strategy.",
+      "timestamp": "2021-03-30T00:00:00",
+      "timestamp_raw": "March 30, 2021",
+      "keywords": [
+        "toyota",
+        "bribery",
+        "thai judges",
+        "u.s. authorities",
+        "import tax",
+        "donziger",
+        "chevron",
+        "anti-asian hate crimes",
+        "clinton",
+        "email server",
+        "covid-19",
+        "ghislaine maxwell",
+        "epstein",
+        "parnas",
+        "flynn judge",
+        "weinstein",
+        "sec fraud",
+        "madoff funds",
+        "architectural bribery",
+        "pittsburgh court access",
+        "opioid scripts",
+        "insys therapeutics",
+        "health fraud",
+        "legal privilege",
+        "biglaw bonuses",
+        "brad caldwell",
+        "mcdonald's",
+        "facebook judge",
+        "california supreme court",
+        "imf",
+        "thomson reuters",
+        "ross intelligence"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018019",
+      "summary": "An email was sent from \"USANYS\" to \" \" regarding a call with Andy Tomback and Marc Weinstein (Epstein estate) on March 31, 2021. The email is attached as EFTA00018019.",
+      "timestamp": "2021-03-31T00:00:00",
+      "timestamp_raw": "March 31, 2021",
+      "keywords": [
+        "efta00018019",
+        "andy tomback",
+        "marc weinstein",
+        "epstein estate",
+        "redaction analysis",
+        "call",
+        "usanys"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00032446",
+            "similarity": 0.625,
+            "index": 75,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00032446",
+      "summary": "This email details a tentative phone call between individuals identified as Andy Tomback and Marc Weinstein (representing the Epstein estate) on March 31, 2021, regarding EFTA00032446. No attachments were included.",
+      "timestamp": "2021-03-31T00:00:00",
+      "timestamp_raw": "March 31, 2021",
+      "keywords": [
+        "efta00032446",
+        "andy tomback",
+        "marc weinstein",
+        "epstein estate",
+        "call",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00018019",
+            "similarity": 0.625,
+            "index": 74,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018020",
+      "summary": "On April 5, 2021, a call occurred between Andy Tomback and Marc Weinstein (Epstein estate) from 7:30 PM to 8:00 PM. The call was marked as X-PERSONAL and created on March 31, 2021. One attendee is redacted.",
+      "timestamp": "2021-04-05T00:00:00",
+      "timestamp_raw": "April 5, 2021",
+      "keywords": [
+        "efta00018020",
+        "redaction analysis",
+        "andy tomback",
+        "marc weinstein",
+        "epstein estate",
+        "2021-04-05",
+        "personal",
+        "x-personal",
+        "call",
+        "dtstamp"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032447",
+      "summary": "A tentative call was scheduled for 2021-04-05 19:30:00 - 20:00:00 +0000 with Andy Tomback and Marc Weinstein (Epstein estate). The call was classified as X-PERSONAL. One attendee is redacted.",
+      "timestamp": "2021-04-05T00:00:00",
+      "timestamp_raw": "2021-04-05",
+      "keywords": [
+        "efta00032447",
+        "andy tomback",
+        "marc weinstein",
+        "epstein estate",
+        "redaction",
+        "event",
+        "call",
+        "2021-04-05",
+        "personal",
+        "priority"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029939",
+      "summary": "Marc A. Weinstein, a partner at Hughes Hubbard & Reed LLP, is corresponding with an Assistant United States Attorney regarding attorney-client privilege assertions related to seized electronic devices from Jeffrey Epstein’s residences. Specifically, the U.S. Attorney is seeking clarification on whether the estate is asserting privilege over a 2005 computer seized from Palm Beach. Weinstein proposes a call early next week to discuss the matter. Redactions obscure the identities of the individuals involved.",
+      "timestamp": "2021-04-09T00:00:00",
+      "timestamp_raw": "09 Apr 2021",
+      "keywords": [
+        "weinstein",
+        "marc a.",
+        "epstein",
+        "jeffrey",
+        "privilege",
+        "fbi",
+        "devices",
+        "new york",
+        "united states attorney",
+        "redaction"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026910",
+      "summary": "The document details a communication chain regarding attorney-client privilege assertions related to seized electronic devices from Jeffrey Epstein’s residences. The Estate is asserting privilege across multiple devices, including those seized in New York, the USVI, and Palm Beach, Florida. A request is made to determine if the Estate is also asserting privilege regarding the 2005 Palm Beach seizure.  Multiple parties are involved – Hughes Hubbard & Reed LLP (Marc Weinstein), McLaughlin Stern LLP (ATomback), and the Assistant United States Attorney for the Southern District of New York. Scheduling conflicts are discussed, and a meeting time of 3:30 PM on Monday is proposed. Redactions obscure the content of several emails.",
+      "timestamp": "2021-04-12T00:00:00",
+      "timestamp_raw": "12 Apr 2021",
+      "keywords": [
+        "epstein",
+        "privilege",
+        "fbi",
+        "devices",
+        "new york",
+        "2019",
+        "2005",
+        "attorney-client",
+        "redaction",
+        "southern district of new york"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023202",
+      "summary": "This document is a collection of emails related to a legal case, likely involving a subpoena for records, primarily focusing on obtaining flight manifests and related materials. The emails detail requests for information from an assistant U.S. Attorney to Hughes Hubbard & Reed LLP, specifically to Marc A. Weinstein, regarding the production of documents. There’s a timeline spanning from October 2021 to April 2021, with repeated requests for updates on the status of the production, concerns about trial timelines, and confirmations of investigation findings. The emails highlight a series of delays and attempts to expedite the process, with Weinstein repeatedly promising to deliver the materials “next week” or “soon.” Redactions are present throughout the document.",
+      "timestamp": "2021-11-24T00:00:00",
+      "timestamp_raw": "24 Oct 2021",
+      "keywords": [
+        "subpoena",
+        "weinstein",
+        "estate",
+        "defense",
+        "discovery",
+        "documents",
+        "request",
+        "trial",
+        "flight logs",
+        "surveillance",
+        "following up"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037127",
+      "summary": "Boies, a lawyer, faced criticism for his handling of the Theranos reporting and admitted a mistake in hiring Black Cube. Following negative press, the firm reduced its legal staff by approximately 150 lawyers, with internal politics, including expensive office space, cited as a significant factor in the departures. Some clients, including victims of Jeffrey Epstein, were reportedly chosen to improve Boies’s image. At the time of the discussion, Donald Trump was facing a hush-money case led by Alvin Bragg.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00037127",
+        "boies",
+        "theranos",
+        "fraud",
+        "weinstein",
+        "black cube",
+        "jeffrey epstein",
+        "alvin bragg",
+        "donald trump",
+        "hush-money"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032577",
+      "summary": "Key articles include: *   **Trump and Cohen:** Michael Cohen withdrew from a House panel hearing due to ongoing “threats” from Donald Trump, casting uncertainty on Trump’s testimony. *   **Jay-Z & Criminal Justice Reform:** Jay-Z, Meek Mill, and sports team owners launched a $50 million effort to reform criminal justice laws. *   **Rock Capital Trader Sentencing:** A former Rock Capital Markets trader was sentenced to five years in prison for false profits. *   **Manafort Plea Breach:** Paul Manafort was ordered to appear for a hearing regarding a plea breach. *   **Weinstein’s New Legal Team:** Harvey Weinstein hired Casey Anthony attorney Jose Baez and Harvard Law professor Ronald S. Sullivan. *   **Deutsche Bank Scrutiny:** Deutsche Bank is under investigation by global law enforcement agencies regarding a money laundering scheme. *   **Barclays Executives Accused:** Former Barclays executives were accused of deceiving shareholders. *   **Various Legal Cases:** Coverage includes a lawsuit against Barclays PLC, a “shell factory” attorney’s reduced sentence, D.C. Circuit judges criticizing an investment advisory firm, a DOJ wire act opinion, and ongoing disputes within the legal industry. *   **Trade Secret Prosecutions:** A focus on the increasing prosecutions of trade secret cases. *   **Legal Industry Trends:** Articles discuss lobbying revenue, judicial nomination processes, and changes within legal firms. *   **Notable Cases & Developments:** Includes updates on cases involving USAA patents, former Snell & Wilmer chair’s death, and a lawsuit against Reed Smith LLP. *   **Government Agency Updates:** Articles cover developments from the California Supreme Court, the SEC, the FBI, and other governmental agencies. *   **Job Listings:** Includes a few job postings. The document appears to be a snapshot of legal news at a specific point in time, offering a broad overview of significant cases, regulatory actions, and industry trends.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "cohen",
+        "trump",
+        "congressional hearing",
+        "trade secrets",
+        "barclays",
+        "danske bank",
+        "wire act",
+        "law360",
+        "weinstein",
+        "manafort",
+        "justice",
+        "sec",
+        "doj",
+        "fbi",
+        "banks",
+        "legal ethics",
+        "cyber security",
+        "lobbying",
+        "judicial nominations",
+        "arbitration",
+        "pacer",
+        "uk watchdog",
+        "kennedys cmk",
+        "job listings"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032913",
+      "summary": "Key stories include: *   **DOJ vs. Gizmodo:** The U.S. Department of Justice successfully defended its refusal to confirm or deny records related to alleged Trump wiretap investigations, a ruling against Gizmodo Media Group. *   **Various Legal Cases:** Several other legal cases are reported on, including a former Long Island councilman’s tax evasion plea, a Geico appraisal dispute, a New York law firm’s debt collection practices, a speech or debate clause case against Rep. Christopher Collins, a fraud case involving Rakoff, a proposed class action against Arizona tea, and intellectual property disputes (Pinduoduo, TeeFLii, etc.). *   **Law Firm Activity:** The document includes updates on law firm activity, such as personnel changes (attorneys joining or leaving firms), and mentions of specific law firms (Aaronson Rappaport, Abrams Fensterman, etc.) involved in the cases. *   **Regulatory Actions:** There are reports on regulatory actions, including the SEC, FTC, and various state agencies. *   **Judicial Decisions & Disputes:** Several court rulings and disputes are covered, including the Second Circuit reviving a Mexican citizen’s deportation case, and challenges to judicial nominees. *   **Job Postings**: A small section lists several job openings with law firms, highlighting various legal specializations. The document appears to be a snapshot of legal news delivered via Law360’s platform.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "doj",
+        "gizmodo",
+        "wiretap",
+        "trump",
+        "judge",
+        "tax evasion",
+        "appraisal",
+        "geico",
+        "debt collection",
+        "collins",
+        "insider trading",
+        "new york",
+        "securities",
+        "fraud",
+        "ginseng",
+        "intellectual property",
+        "pinduoduo",
+        "copyright",
+        "arbitration",
+        "employment",
+        "wta",
+        "mlb",
+        "competition",
+        "forex",
+        "bankruptcy",
+        "sizmek",
+        "litigation",
+        "legal industry",
+        "kavanaugh",
+        "bias suit",
+        "weinstein",
+        "college admissions",
+        "jobs",
+        "attorney"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    }
+  ]
+}

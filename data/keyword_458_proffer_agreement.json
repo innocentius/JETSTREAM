@@ -1,0 +1,1232 @@
+{
+  "keyword": "proffer agreement",
+  "count": 31,
+  "keyword_match_count": 31,
+  "content_match_count": 11,
+  "total_files": 42,
+  "timeline": [
+    {
+      "file_id": "EFTA00030151",
+      "summary": "*   A proffer meeting is being scheduled between Alex Conlon (Kaplan Hecker & Fink LLP) and an unknown recipient. *   The meeting is intended to be with an attorney and potentially Jenna Dabbs. *   The meeting could involve the client, but confirmation is requested. *   The sender requests the recipient’s client’s current last name and any phone numbers associated with the client or relevant individuals (e.g., Jeffrey Epstein). *   Proposed dates and times for the meeting are Friday at 11:00 AM, and Thursday between 9-11AM or after 4PM. *   A standard proffer agreement is attached.",
+      "timestamp": "2019-04-03T00:00:00",
+      "timestamp_raw": "03 Apr 2019",
+      "keywords": [
+        "proffer",
+        "attorney",
+        "scheduling",
+        "epstein",
+        "agreement",
+        "client",
+        "names",
+        "phone numbers",
+        "friday",
+        "jenna"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00030267",
+            "similarity": 0.667,
+            "index": 1,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00030267",
+      "summary": "The initial request for the proffer was made on April 3, 2019, with a proposed meeting time of Friday at 11:00 AM at the client’s office.  Alex Conlon requests information about the client's current name and any phone numbers associated with her and/or Jeffrey Epstein. The other parties involved in the meeting are Alex Hess and Jenna Dabbs. A follow-up email offered availability on Thursday and Friday, and confirmed the intention to provide a standard proffer agreement. The entire communication involves redactions of sensitive information.",
+      "timestamp": "2019-04-03T00:00:00",
+      "timestamp_raw": "April 3, 2019",
+      "keywords": [
+        "proffer",
+        "attorney",
+        "meeting",
+        "agreement",
+        "epstein",
+        "phone numbers",
+        "jenna",
+        "alex conlon",
+        "scheduling",
+        "client"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00030151",
+            "similarity": 0.667,
+            "index": 0,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030829",
+      "summary": "An email chain discusses providing Michael Bachner with materials related to an Epstein investigation. The materials include a non-prosecution agreement filed in Florida civil proceedings and a blank proffer agreement. The Assistant U.S. Attorney for the Southern District of New York offers contact information for the team and requests a follow-up conversation.",
+      "timestamp": "2019-07-09T00:00:00",
+      "timestamp_raw": "09 Jul 2019",
+      "keywords": [
+        "epstein investigation",
+        "michael bachner",
+        "non-prosecution agreement",
+        "proffer agreement",
+        "florida",
+        "u.s. attorney",
+        "southern district of new york",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032704",
+      "summary": "An Assistant U.S. Attorney contacted Joe Nascimento regarding a subpoena issued to Alan Ross, a former partner who passed away in 2018. The U.S. Attorney requested a meeting to discuss the situation, and Joe agreed to meet on Tuesday morning. Email exchanges occurred to finalize the time and include a blank proffer agreement.",
+      "timestamp": "2019-07-10T00:00:00",
+      "timestamp_raw": "10 Jul 2019",
+      "keywords": [
+        "joe nascimento",
+        "proffer agreement",
+        "u.s. attorney",
+        "epstein",
+        "miami",
+        "legal",
+        "meeting",
+        "tuesday",
+        "criminal law"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024704",
+      "summary": "This document is a proffer agreement between the government (United States Attorney for the Southern District of New York) and a client regarding information provided during a meeting on July 12, 2019. Key points include: *   **Not a Cooperation Agreement:** The agreement clarifies it’s not a formal cooperation or plea agreement, and the government won’t make motions or enter into such agreements based on the information provided. *   **Limited Use of Statements:** The government can use statements made by the client during the meeting, except in specific circumstances (false statements, obstruction, perjury, or if the client becomes a fugitive). *   **Government’s Rights:** The government retains the right to use information from the meeting for investigative purposes, cross-examination, and rebuttal during the client’s prosecution. *   **Sentencing Considerations:** The government can use statements and evidence in assessing a sentence under 18 U.S.C. § 3553(f) and sentencing guidelines. *   **Constitutional Waiver:** The client agrees to waive certain constitutional and evidentiary protections related to the information. *   **Information Sharing:** The Office will share information with other prosecutor’s offices under the terms of this agreement. *   **Scope Limitation:** The agreement applies solely to statements made during the July 12, 2019 meeting.",
+      "timestamp": "2019-07-12T00:00:00",
+      "timestamp_raw": "July 12, 2019",
+      "keywords": [
+        "proffer agreement",
+        "cooperation agreement",
+        "prosecution",
+        "sentencing",
+        "united states government",
+        "testimony",
+        "evidence",
+        "plea agreement",
+        "first step act",
+        "false statements",
+        "obstruction of justice",
+        "perjury"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00027643",
+            "similarity": 0.571,
+            "index": 6,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00015011",
+            "similarity": 0.5,
+            "index": 21,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00017844",
+            "similarity": 0.533,
+            "index": 27,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00020793",
+      "summary": "The document consists of email exchanges regarding an investigation, likely related to Jeffrey Epstein. It involves discussions about a “reverse proffer” – a process where a witness provides information in exchange for immunity – and potential testimony before a grand jury. Key individuals involved include Michael Bachner of Bachner & Associates, PC, and an Assistant U.S. Attorney from the Southern District of New York.  Attachments include a non-prosecution agreement and a proffer agreement.  There are repeated disclaimers regarding privileged and confidential information within the emails.",
+      "timestamp": "2019-07-12T00:00:00",
+      "timestamp_raw": "12 Jul 2019",
+      "keywords": [
+        "epstein investigation",
+        "subpoena",
+        "fifth amendment",
+        "proffer agreement",
+        "bachner & associates",
+        "u.s. attorney"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027643",
+      "summary": "This document is a proffer agreement between the government (represented by the United States Attorney for the Southern District of New York) and a client (referred to as “Client”) regarding information provided during a meeting on July 12, 2019. Key points include: *   **Not a Cooperation Agreement:** The agreement clarifies it’s not a formal cooperation or plea agreement, and the government won’t make motions or offer immunity. *   **Limited Use of Statements:** The government can use statements made by the client during the meeting, except in specific circumstances (false statements, obstruction, perjury, or if the client becomes a fugitive). *   **Government’s Rights:** The government retains the right to use information from the meeting for investigative purposes, cross-examination, and rebuttal during the prosecution. *   **Sentencing Considerations:** The government can use statements and evidence in assessing a reduction in sentence under specific guidelines. *   **Waiver of Constitutional Rights:** The client agrees to waive certain constitutional protections related to the use of statements. *   **Information Sharing:** The office will share information with other prosecutor's offices under the conditions outlined in the agreement. *   **Scope Limitation:** The agreement applies solely to statements made during the specific meeting.",
+      "timestamp": "2019-07-12T00:00:00",
+      "timestamp_raw": "July 12, 2019",
+      "keywords": [
+        "proffer agreement",
+        "cooperation agreement",
+        "prosecution",
+        "sentencing",
+        "united states government",
+        "statements",
+        "testimony",
+        "evidence",
+        "criminal prosecution",
+        "plea agreement"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00024704",
+            "similarity": 0.571,
+            "index": 4,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028641",
+      "summary": "This document is a proffer agreement between the United States Government and Joseph Nascimento, Esq., regarding information provided during a meeting held on July 12, 2019. Key points include: *   It’s *not* a cooperation agreement; the government will not enter into any formal agreement with Nascimento. *   The government won't present meeting statements as evidence unless for specific offenses (false statements, obstruction, perjury, or as a fugitive) or for cross-examination if he testifies. *   The government *can* use meeting information for investigative purposes, cross-examination, and rebuttal arguments. *   If Nascimento seeks a sentence reduction, the government may use meeting statements and evidence. *   The agreement aims to waive constitutional and legal protections regarding the statements. *   The agreement is limited to statements made *during* the specific July 12, 2019 meeting.",
+      "timestamp": "2019-07-12T00:00:00",
+      "timestamp_raw": "July 12, 2019",
+      "keywords": [
+        "agreement",
+        "cooperation",
+        "prosecution",
+        "statements",
+        "evidence",
+        "sentencing",
+        "united states",
+        "government",
+        "client",
+        "testimony",
+        "proffer"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014508",
+      "summary": "This document is a series of emails related to a reverse proffer investigation stemming from an arrest related to the Epstein case. Michael Bachner, of Bachner & Associates, is coordinating with an Assistant U.S. Attorney and another attorney to schedule a meeting for a reverse proffer with a client. The initial notification involves a client’s arrest in Queens County on a RICO charge. Discussions revolve around scheduling times for the proffer, addressing concerns about time constraints, and exploring the potential invocation of the Fifth Amendment privilege by a witness. Attachments include a non-prosecution agreement and a blank proffer agreement, highlighting the legal complexities and potential legal strategies involved. Redaction notices are present throughout the document due to legal restrictions.",
+      "timestamp": "2019-07-15T00:00:00",
+      "timestamp_raw": "15 Jul 2019",
+      "keywords": [
+        "epstein investigation",
+        "rico charge",
+        "reverse proffer",
+        "united states attorney",
+        "new york",
+        "proffer agreement",
+        "fifth amendment",
+        "michael bachner",
+        "arrest",
+        "queens county"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00014598",
+            "similarity": 0.5,
+            "index": 12,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00021434",
+      "summary": "The document consists of email exchanges between U.S. Department of Justice (NY FBI) investigators and a lawyer, Michael Bachner, regarding a potential reverse proffer with a subject in the Epstein investigation. The subject was seeking to avoid a grand jury appearance and potential arrest.  Dates for a meeting were discussed, primarily centering around July 15-18, with proposed times varying.  Bachner expressed concerns about the subject’s potential invocation of the Fifth Amendment and requested time to evaluate the situation, seeking clarification on the scope of the proffer and its potential impact on a grand jury appearance. Attachments included a non-prosecution agreement and a blank proffer agreement.",
+      "timestamp": "2019-07-15T00:00:00",
+      "timestamp_raw": "15 Jul 2019",
+      "keywords": [
+        "epstein investigation",
+        "reverse proffer",
+        "fbi",
+        "new york",
+        "attorney",
+        "subpoena",
+        "fifth amendment",
+        "proffer agreement",
+        "non-prosecution agreement"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021428",
+      "summary": "The documents detail scheduling discussions and information exchange related to the Epstein investigation. Key points include: *   Multiple individuals (FBI, NY attorneys, and a private legal firm) were coordinating meetings and phone calls to discuss a reverse proffer. *   Proposed meeting times were discussed, primarily focusing on July 15th - 18th, with options at 11:00 AM, 3:30 PM, and various times on Thursday. *   A witness’s doctor’s appointment was factored into the scheduling. *   The legal team sent over documents including a non-prosecution agreement and a standard proffer agreement for review. *   The witness indicated a desire to assert her Fifth Amendment privilege against self-incrimination if questioned.",
+      "timestamp": "2019-07-15T00:00:00",
+      "timestamp_raw": "15 Jul 2019",
+      "keywords": [
+        "epstein investigation",
+        "fbi",
+        "new york",
+        "florida",
+        "proffer",
+        "witness interview",
+        "reverse proffer",
+        "grand jury",
+        "7/16",
+        "6:00 pm",
+        "michael bachner",
+        "attorney",
+        "united states attorney"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00014598",
+            "similarity": 0.6,
+            "index": 12,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00014564",
+      "summary": "The document is a series of emails related to an investigation, likely involving Jeffrey Epstein. An Assistant U.S. Attorney, Michael Bachner, is coordinating with a legal team (Bachner & Associates, PC) regarding a RICO charge against a client. Key points include: *   **RICO Charge:** A client has been arrested on a state RICO charge in Queens County. *   **Scheduling Conflicts:** There are discussions about scheduling a meeting/proffer session, with proposed times ranging from Thursday afternoon to Wednesday at 3:30 PM. *   **Reverse Proffer:** The focus involves a “reverse proffer,” meaning the prosecution will offer information to the witness in exchange for their testimony. *   **Fifth Amendment Concerns:**  The legal team expresses concern about the witness potentially invoking their Fifth Amendment privilege against self-incrimination. *   **Document Sharing:** Documents, including a non-prosecution agreement and a proffer agreement, were shared with Bachner for review.",
+      "timestamp": "2019-07-15T00:00:00",
+      "timestamp_raw": "15 Jul 2019",
+      "keywords": [
+        "epstein",
+        "rico",
+        "investigation",
+        "bachner",
+        "new york",
+        "subpoena",
+        "proffer",
+        "court",
+        "attorney",
+        "united states attorney"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014598",
+      "summary": "Michael Bachner, representing Bachner & Associates, PC, was coordinating with the U.S. Attorney’s Office regarding the Epstein investigation. Initial discussions centered around rescheduling a conference due to a client’s arrest on a RICO charge.  The U.S. Attorney proposed several dates for a reverse proffer, including the 16th, 17th, 18th, and requested a meeting at 3:30 PM on the 16th.  Bachner expressed a need to evaluate matters and requested communication regarding a witness’s potential invocation of the Fifth Amendment privilege. Documents, including a non-prosecution agreement and a proffer agreement, were exchanged.",
+      "timestamp": "2019-07-17T00:00:00",
+      "timestamp_raw": "17 Jul 2019",
+      "keywords": [
+        "epstein investigation",
+        "michael bachner",
+        "new york",
+        "rico charge",
+        "proffer",
+        "united states attorney",
+        "reverse proffer",
+        "7/16",
+        "6:00 pm",
+        "grand jury",
+        "fifth amendment"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00021428",
+            "similarity": 0.6,
+            "index": 10,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00014508",
+            "similarity": 0.5,
+            "index": 8,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019342",
+      "summary": "Emails discuss a forfeiture related to Jeffrey Epstein, involving individuals within the United States Attorney’s Office for the Southern District of New York. One email suggests a potential witness, possibly a former associate, is hesitant to cooperate without protection or a proffer agreement. Another email indicates a desire to contact counsel, emphasize the ongoing investigation, and explore the witness’s willingness to provide a victim impact statement under a proffer. A third email reports that Geoff, another individual involved, is more optimistic about the case and suggests a meeting.",
+      "timestamp": "2019-08-14T00:00:00",
+      "timestamp_raw": "14 Aug 2019",
+      "keywords": [
+        "epstein forfeiture",
+        "usanys",
+        "redaction",
+        "proffer agreement",
+        "investigation",
+        "cooperation",
+        "victimisation",
+        "geoff",
+        "expectations managing",
+        "united states attorney"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020083",
+      "summary": "An Assistant United States Attorney from the Southern District of New York is requesting the original proffer agreement related to the Epstein investigation from a contractor (\"Contractor\"). The contractor confirms they will bring the agreement to the Assistant United States Attorney’s office. The email chain details the urgency of the request due to the Assistant United States Attorney being on trial.",
+      "timestamp": "2019-08-29T00:00:00",
+      "timestamp_raw": "29 Aug 2019",
+      "keywords": [
+        "proffer agreement",
+        "epstein",
+        "united states attorney",
+        "florida",
+        "southern district of new york",
+        "contract",
+        "investigation",
+        "agreement",
+        "assistant",
+        "trial"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020447",
+      "summary": "*   A series of emails discuss an investigation regarding the death of Jeffrey Epstein. *   Johnny Contreras, housed in the MCC, is a key individual of interest. He was in a cell adjacent to Epstein's during the time of death and is willing to speak with investigators with counsel present. *   Discussions involve coordinating a proffer agreement with Andy Patel and obtaining notes or a 302 from the proffer. *   Confirmation is sought regarding attendance at a meeting with Contreras. *   The emails involve multiple individuals and organizations, including USANYE, USANYS, and USANYS.",
+      "timestamp": "2019-09-03T00:00:00",
+      "timestamp_raw": "03 Sep 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "johnny contreras",
+        "proffer",
+        "investigation",
+        "andy patel",
+        "shu",
+        "mcc",
+        "usanye",
+        "302",
+        "mitigation"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00022358",
+      "summary": "An individual contacted a group regarding an investigation related to Jeffrey Epstein, specifically seeking current counsel for “M.” One party (Brendan Quigley) offered to forward the attorney’s contact information to the investigator to avoid direct contact with “M.” A proffer agreement was subsequently sent as an attachment. A confidentiality notice was included in the email.",
+      "timestamp": "2020-06-05T00:00:00",
+      "timestamp_raw": "05 Jun 2020",
+      "keywords": [
+        "efta00022358",
+        "investigation",
+        "subpoena",
+        "civil case",
+        "epstein",
+        "counsel",
+        "contact info",
+        "proffer agreement",
+        "redacted",
+        "sdny"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00022356",
+      "summary": "An individual’s attorney contacted someone regarding an investigation related to Jeffrey Epstein’s case, specifically seeking counsel information. The sender offered to relay the attorney’s request to Brendan Quigley and indicated they couldn’t comment on counsel status. A proffer agreement was subsequently attached and sent to Brendan Quigley.",
+      "timestamp": "2020-06-05T00:00:00",
+      "timestamp_raw": "05 Jun 2020",
+      "keywords": [
+        "investigation",
+        "subpoena",
+        "civil case",
+        "epstein",
+        "attorney",
+        "document",
+        "testimony",
+        "proffer agreement",
+        "confidentiality",
+        "redaction"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00022432",
+            "similarity": 0.538,
+            "index": 30,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00023782",
+      "summary": "On July 28, 2020, an Assistant U.S. Attorney from the Southern District of New York sent a communication to Gary Bloxsome regarding a proffer agreement and information related to Title 18, United States Code, Section 1001. The proffer agreement, a standard form, is attached. The email details the elements required to prove a violation of the statute, emphasizing the “knowingly and willfully” requirement. The Assistant U.S. Attorney also confirmed an extension of the Negotiation Period to August 10, 2020, previously agreed upon.",
+      "timestamp": "2020-07-28T00:00:00",
+      "timestamp_raw": "July 28, 2020",
+      "keywords": [
+        "proffer agreement",
+        "united states code",
+        "title 18",
+        "1001",
+        "falsification",
+        "interview",
+        "negotiation period",
+        "mlat",
+        "southern district of new york",
+        "jennifer richardson"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023817",
+      "summary": "This redacted document details a communication chain between Blackfords LLP (a UK law firm) and the Assistant U.S. Attorney for the Southern District of New York regarding a case involving a potential indictment related to 18 U.S.C. 1001. The core of the communication centers around a \"proffer agreement\" and the exchange of legal information regarding potential interview protocols and protections, including elements of the offense and related jury instructions. Key elements include: *   **Initial Contact:** Jennifer Richardson (Blackfords) confirms a teleconference with Gary Bloxsome (Blackfords) and Daniel Cundy, and follows up with a request for dial-in details. *   **U.S. Attorney’s Information:** The U.S. Attorney provides the proffer agreement, detailed legal information relating to 18 U.S.C. 1001 (including elements of the offense and related jury instructions), and requests information about potential MLAT protections. *   **Agreement Extension:** The U.S. Attorney proposes extending the negotiation period for two weeks, confirming a previously agreed-upon extension. *   **Redactions:** Significant portions of the document are redacted, obscuring specific details related to the client and the investigation.",
+      "timestamp": "2020-08-03T00:00:00",
+      "timestamp_raw": "03 Aug 2020",
+      "keywords": [
+        "blackfords llp",
+        "usanys",
+        "attorney",
+        "teleconference",
+        "mlat",
+        "proffer agreement",
+        "18 u.s.c. 1001",
+        "covid-19",
+        "gdpr",
+        "negotiation period"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00022201",
+      "summary": "Attorney’s Office (Southern District of New York) strategy for interviewing a client (likely related to the Maxwell investigation) regarding communications with Ghislaine Maxwell and Jeffrey Epstein. The Attorney offers a standard proffer agreement with protections against compelled testimony, but not broad immunity. Key points include: *   **Interview Scope:** The Attorney intends to question the client about relationships with Maxwell and Epstein, communications related to them, and any knowledge of potential sexual activity. *   **Protections:** The proffer agreement includes a clause restricting use of interview statements outside criminal investigations, prosecutions, or civil actions initiated by the US government. *   **No Broad Immunity:** The Attorney declines to offer broad immunity to the client. *   **Legal Framework:** The Attorney references 18 U.S.C. Section 1001 (perjury) and provides relevant jury instructions. *   **Timeline & Next Steps:** The Attorney proposes a follow-up call on August 11th and extends the negotiation period of the proffer agreement for two weeks. *   **Document Exchange:** The Attorney requests the client’s documents and provides a standard proffer agreement for review.",
+      "timestamp": "2020-08-10T00:00:00",
+      "timestamp_raw": "10 Aug 2020",
+      "keywords": [
+        "proffer agreement",
+        "mlat",
+        "interview",
+        "witness statements",
+        "false statements",
+        "criminal investigation",
+        "united states government",
+        "immunity",
+        "voluntary interview",
+        "ghislaine maxwell",
+        "jeffrey epstein",
+        "united states code 1001",
+        "evidence"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015011",
+      "summary": "This document is a proffer agreement between a client and the United States Attorney’s Office for the Southern District of New York, dated October 7, 2020. It outlines the understanding regarding the client’s statements made during a video conference meeting. Key points include: *   The meeting is not a cooperation agreement, and the government doesn't commit to a plea or immunity agreement. *   The government won’t present the client’s statements as evidence except in specific circumstances (false statements, perjury, or if the client becomes a fugitive). *   The government can use the meeting statements as evidence in any prosecution, including for cross-examination and rebuttal. *   The client acknowledges potential use of information for sentence reduction under 18 U.S.C. § 3553(f). *   The client waives rights regarding suppression of statements or leads obtained. *   The Office will share information with other prosecutors under the agreement’s terms. *   The agreement applies only to statements made during the specific meeting.",
+      "timestamp": "2020-10-07T00:00:00",
+      "timestamp_raw": "October 7, 2020",
+      "keywords": [
+        "proffer agreement",
+        "cooperation agreement",
+        "united states attorney",
+        "sentencing guidelines",
+        "false statements",
+        "perjury",
+        "united states code",
+        "first step act",
+        "evidence",
+        "prosecution",
+        "plea agreement",
+        "criminal prosecution"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00024704",
+            "similarity": 0.5,
+            "index": 4,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00017844",
+            "similarity": 0.643,
+            "index": 27,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00023258",
+      "summary": "Attorney’s Office (Southern District of New York), Glen McGorty (Crowell & Moring LLP), and Mr. [REDACTED]. *   The initial purpose of the meeting is to discuss Mr. [REDACTED]'s interactions with an employee in Saint Thomas and his contact with Epstein. *   A second, shorter WebEx interview is proposed for the week of November 9th to gather more information. *   Technical issues arise with forwarding the WebEx invitation, requiring assistance from Josh Morrissey in IT. *   A signed proffer agreement was previously attached to one of the emails.",
+      "timestamp": "2020-11-26T00:00:00",
+      "timestamp_raw": "26 Oct 2020",
+      "keywords": [
+        "webex",
+        "glen mcgorty",
+        "united states attorney",
+        "saint thomas",
+        "epstein",
+        "timeline",
+        "interview",
+        "contact",
+        "redaction",
+        "crowell & moring"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00019203",
+            "similarity": 0.667,
+            "index": 23,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00019203",
+      "summary": "The document outlines the scheduling and preparation for a second interview with a subject (identified only as “Mr.”) regarding interactions with U.S. Customs and Border Protection in Saint Thomas and connections to Epstein.  The interview is to be conducted via WebEx, initially proposed for November 12th, but flexible between November 10th and 12th.  The prosecution team, led by Glen McGorty of Crowell & Moring LLP, is seeking to understand the timeline, nature, and extent of the subject’s interactions, focusing on details about interactions with an CBP employee and any contact with Epstein.  Multiple email exchanges detail logistical arrangements, including sending a proffer agreement and confirming WebEx invitations for various individuals, including Daniel Zelenko and Danielle Giffuni. Technical issues with forwarding the WebEx invitation are addressed.",
+      "timestamp": "2020-12-10T00:00:00",
+      "timestamp_raw": "10 Nov 2020",
+      "keywords": [
+        "webex",
+        "united states attorney",
+        "crowell & moring",
+        "daniel zelenko",
+        "glen mcgorty",
+        "timeline",
+        "saint thomas",
+        "customs and border protection",
+        "epstein",
+        "interview"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00023258",
+            "similarity": 0.667,
+            "index": 22,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015006",
+      "summary": "The document is a series of emails related to a planned WebEx meeting between the Southern District of New York’s Assistant United States Attorney and an individual, “Mr.”, regarding interactions with CBP employees and Jeffrey Epstein in the Virgin Islands. The meeting aims to gather information about Mr.’s knowledge of CBP employees’ involvement with Epstein, potential facilitation of his travel, and any favors Epstein may have received.  Multiple scheduling attempts are made, culminating in a finalized date and time for a second, shorter proffer interview.  The emails also include standard attorney-client confidentiality warnings and details about the Crowell & Moring LLP legal team involved.",
+      "timestamp": "2020-12-17T00:00:00",
+      "timestamp_raw": "17 Nov 2020",
+      "keywords": [
+        "cbp",
+        "epstein",
+        "virgin islands",
+        "proffer agreement",
+        "fbi",
+        "united states attorney",
+        "crowell & moring",
+        "webex",
+        "interviews",
+        "timeline"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00015013",
+            "similarity": 0.538,
+            "index": 25,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00015013",
+      "summary": "This document details a series of email exchanges concerning a proffer agreement related to an investigation, likely involving Jeffrey Epstein. The core of the communications revolves around scheduling a WebEx meeting between the US Attorney’s Office (Southern District of New York), Glen McGorty (Crowell & Moring LLP), and an unidentified individual (“Mr.”). The initial email attached the fully executed proffer agreement. Subsequent emails focus on refining the meeting details – proposing dates and times (primarily November 9th-12th) – and outlining the planned questioning, which includes inquiries about Mr.’s interactions with CBP employees and any potential favors he may have extended. FBI agents are involved to investigate CBP topics and timeline of interactions. There are numerous redactions within the document, suggesting sensitive information is being concealed.",
+      "timestamp": "2020-12-18T00:00:00",
+      "timestamp_raw": "18 Nov 2020",
+      "keywords": [
+        "usanys",
+        "epstein",
+        "cbp",
+        "webex",
+        "proffer agreement",
+        "glen mcgorty",
+        "crowell & moring",
+        "southern district of new york",
+        "united states attorney",
+        "timeline"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00015006",
+            "similarity": 0.538,
+            "index": 24,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020852",
+      "summary": "The document outlines a series of communications regarding a planned WebEx meeting between the U.S. Attorney’s Office (Southern District of New York), Crowell & Moring LLP, and Mr. [REDACTED] to discuss interactions involving CBP employees and Jeffrey Epstein. The meeting's purpose is to review a proffer agreement and gather information about Mr. [REDACTED]'s knowledge of CBP employees' involvement with Epstein in the Virgin Islands.  Key topics include CBP employee interactions, potential steps taken to aid Epstein’s travel, and favors Epstein may have extended to CBP employees. Scheduling for a second interview is being discussed for the week of November 9th, and the team is coordinating with IT to ensure a smooth technical setup.  Several emails detail the logistics, attached agreements, and requests for assistance.",
+      "timestamp": "2020-12-18T00:00:00",
+      "timestamp_raw": "18 Nov 2020",
+      "keywords": [
+        "mcgorty",
+        "glen",
+        "epstein",
+        "cbp",
+        "virgin islands",
+        "webex",
+        "proffer agreement",
+        "united states attorney",
+        "zelenko",
+        "danielle",
+        "giffuni",
+        "danielle"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00024932",
+            "similarity": 0.733,
+            "index": 29,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00017844",
+      "summary": "This document is a proffer agreement between the United States Government and a client (identified as “Client”) regarding information to be shared during a meeting on April 27, 2021. Key points include: *   **Not a Cooperation Agreement:** The agreement clarifies it is not a formal cooperation agreement, plea agreement, or immunity agreement. *   **Limited Use of Statements:** The Government will not introduce Client’s statements as evidence unless for specific offenses (false statements, obstruction, perjury) or if Client becomes a fugitive. *   **Government’s Rights:** The Government retains the right to use information from the meeting for investigative purposes, cross-examination, and rebuttal arguments. *   **Sentencing Considerations:** The Government may utilize Client’s statements during sentencing proceedings under specific conditions related to the First Step Act. *   **Waiver of Rights:** The Client agrees to waive certain constitutional and legal protections related to the statements. *   **Information Sharing:** The Office will share information with requesting prosecutor offices, contingent on adherence to this agreement. *   **Scope:** The agreement applies solely to statements made during the specified meeting.",
+      "timestamp": "2021-04-27T00:00:00",
+      "timestamp_raw": "April 27, 2021",
+      "keywords": [
+        "proffer agreement",
+        "cooperation agreement",
+        "prosecution",
+        "united states attorney",
+        "sentencing guidelines",
+        "evidence",
+        "testimony",
+        "false statements",
+        "perjury",
+        "immunity",
+        "plea agreement"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00015011",
+            "similarity": 0.643,
+            "index": 21,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00024704",
+            "similarity": 0.533,
+            "index": 4,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00019831",
+            "similarity": 0.5,
+            "index": 41,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00024938",
+      "summary": "He’s scheduling a WebEx with Danielle Giffuni and potentially other individuals including Josh Morrissey (IT) to gather information about CBP employees, interactions with Epstein in the Virgin Islands, and potential facilitation of travel. The meetings aim to explore the roles of CBP employees and investigate connections to Epstein's activities.",
+      "timestamp": "2021-05-06T00:00:00",
+      "timestamp_raw": "06 May 2021",
+      "keywords": [
+        "efta00024938",
+        "webex",
+        "danielle giffuni",
+        "glen mcgorty",
+        "zelenko",
+        "fbi",
+        "cbp",
+        "proffer agreement",
+        "southern district of new york",
+        "tuesday",
+        "november 10th"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024932",
+      "summary": "This document outlines the scheduling and preparation for a series of WebEx meetings related to an investigation involving Mr. [REDACTED] and his potential interactions with Jeffrey Epstein. The initial meetings were planned to discuss CBP employee interactions with Epstein in the Virgin Islands, focusing on inquiries about favors, timelines, and potential knowledge of Epstein’s activities. A proffer agreement was exchanged, and subsequent meetings were scheduled for a shorter, follow-up interview. The US Attorney’s office, through Glen McGorty of Crowell & Moring LLP, is coordinating with FBI agents and seeking to gather information regarding Mr. [REDACTED]'s involvement and knowledge. Technical issues with forwarding the WebEx invitation were addressed, and the meetings were aimed at obtaining detailed information about Mr. [REDACTED]'s connections and activities.",
+      "timestamp": "2021-05-06T00:00:00",
+      "timestamp_raw": "06 May 2021",
+      "keywords": [
+        "mcgorty",
+        "glen",
+        "zelenko",
+        "daniel",
+        "giffuni",
+        "danielle",
+        "united states attorney",
+        "southern district of new york",
+        "cbp",
+        "epstein",
+        "virgin islands",
+        "proffer agreement",
+        "webex",
+        "timeline",
+        "interactions"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00020852",
+            "similarity": 0.733,
+            "index": 26,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00022432",
+      "summary": "Brendan Quigley received emails regarding an SDNY investigation related to the Jeffrey Epstein case. He responded to a request from an attorney seeking information about current counsel. Quigley offered to pass along contact information to the attorney. A proffer agreement was subsequently sent as an attachment. The communications involved multiple redacted recipients.",
+      "timestamp": "2021-05-06T00:00:00",
+      "timestamp_raw": "06 May 2021",
+      "keywords": [
+        "sdny investigation",
+        "redaction",
+        "brenda quigley",
+        "subpoena",
+        "civil case",
+        "epstein",
+        "attorney",
+        "contact information",
+        "proffer agreement",
+        "confidentiality"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00022356",
+            "similarity": 0.538,
+            "index": 17,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00028337",
+            "similarity": 0.538,
+            "index": 31,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00028337",
+      "summary": "An email exchange occurred between individuals regarding an SDNY investigation involving Rodgers and a civil case connected to Jeffrey Epstein. One party (From: [REDACTED]) received an inquiry from an attorney seeking information about Rodgers’ current counsel. They offered to pass along Brendan’s contact information to the attorney to avoid direct contact with Rodgers. An attached proffer agreement was also shared. A confidentiality notice was included, stating the email and attachments are privileged and confidential.",
+      "timestamp": "2021-05-06T00:00:00",
+      "timestamp_raw": "06 May 2021",
+      "keywords": [
+        "efta00028337",
+        "sdny investigation",
+        "rodgers",
+        "civil case",
+        "epstein",
+        "subpoena",
+        "proffer agreement",
+        "confidentiality",
+        "brendan",
+        "attorney"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00022432",
+            "similarity": 0.538,
+            "index": 30,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00022435",
+      "summary": "The initial meeting was focused on gathering information about Mr. Epstein’s interactions with CBP personnel in Saint Thomas. The planned second interview is slated for November 9th, and Glen is requesting that Josh Morrissey, an IT specialist, be added to the invitees to ensure technical support. The meeting’s goals include questioning Mr. Epstein’s connections to CBP employees and exploring any potential facilitation of his travel.",
+      "timestamp": "2021-05-07T00:00:00",
+      "timestamp_raw": "07 May 2021",
+      "keywords": [
+        "webex",
+        "meeting",
+        "glen mcgorty",
+        "danielle giffuni",
+        "daniel zelenko",
+        "fbi",
+        "cbp",
+        "proffer agreement",
+        "united states attorney",
+        "interview"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029694",
+      "summary": "Joe Nascimento sent a proffer agreement to [REDACTED] regarding a matter involving Jeffrey Epstein, referencing an FBI investigation. The agreement required initialing and returning to Nascimento.",
+      "timestamp": "2021-05-14T00:00:00",
+      "timestamp_raw": "14 May 2021",
+      "keywords": [
+        "efta00029694",
+        "proffer agreement",
+        "epstein",
+        "fbi",
+        "joe nascimento",
+        "redaction",
+        "initials",
+        "miami",
+        "fl",
+        "legal"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00024748",
+            "similarity": 0.538,
+            "index": 37,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00024684",
+      "summary": "This file contains a series of email exchanges between Joe Nascimento, an attorney, and various parties, primarily related to scheduling a meeting and discussing ongoing investigations concerning Ghislaine Maxwell. The emails detail arrangements for a meeting on May 14th, followed by subsequent discussions regarding availability and logistical details. There are multiple references to a proffer agreement, redactions of sensitive information, and ongoing investigations by the U.S. Attorney's Office. The communication also involves discussions about the deceased Alan Ross, a former partner, and his involvement in the investigation. Key elements include scheduling conflicts, logistical arrangements (WebEx, travel), and requests for information, indicating an active legal case.",
+      "timestamp": "2021-05-14T00:00:00",
+      "timestamp_raw": "14 May 2021",
+      "keywords": [
+        "efta00024684",
+        "proffer agreement",
+        "webex",
+        "scheduling",
+        "meeting",
+        "miami",
+        "joe nascimento",
+        "investigation",
+        "redaction",
+        "email"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029183",
+      "summary": "Emails exchanged between individuals, including Joe Nascimento and the FBI (NY), regarding a proffer agreement and notes potentially related to a “302.” An attachment containing the proffer agreement with updated initials was sent on May 14, 2021, and a subsequent attachment was sent on May 17, 2021, correcting an earlier mis-sent attachment. The subject matter references “Epstein.”",
+      "timestamp": "2021-05-14T00:00:00",
+      "timestamp_raw": "May 14, 2021",
+      "keywords": [
+        "efta00029183",
+        "redaction analysis",
+        "fbi",
+        "proffer agreement",
+        "epstein",
+        "joe nascimento",
+        "miami",
+        "legal agreement",
+        "email",
+        "attachments"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00024748",
+            "similarity": 0.538,
+            "index": 37,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028695",
+            "similarity": 0.538,
+            "index": 38,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00028620",
+      "summary": "This document consists of email exchanges between Joe Nascimento, Esq., of ROSS AMSEL RABEN NASCIMENTO, PLLC, and a U.S. Attorney (USANYS) regarding a proffer agreement with a client potentially involved in a case. The emails detail scheduling discussions, starting with initial requests for a meeting on August 14th, moving to a meeting on May 14th, and ultimately solidifying a meeting for September 4th.  Throughout the exchanges, there are redactions indicating sensitive information was removed. The communication revolves around coordinating a proffer agreement, confirming availability, and discussing logistical details such as the preferred day and time for the meeting. The U.S. Attorney expresses ongoing interest in the investigation and the client's status. The initial outreach is prompted by a report of a client’s arrest, and an update from a former partner of the arrested subject.",
+      "timestamp": "2021-05-14T00:00:00",
+      "timestamp_raw": "14 May 2021",
+      "keywords": [
+        "efta00028620",
+        "proffer letter",
+        "joe nascimento",
+        "sanys",
+        "webex",
+        "meeting",
+        "epstein",
+        "miami",
+        "fl",
+        "investigation",
+        "attorney",
+        "agreement"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024748",
+      "summary": "On May 17, 2021, Joe Nascimento sent a proffer agreement with updated initials to [REDACTED] regarding a matter involving Jeffrey Epstein. On May 14, 2021, [REDACTED] had previously sent a similar proffer agreement to [REDACTED] (NY) (FBI) for initialing.",
+      "timestamp": "2021-05-17T00:00:00",
+      "timestamp_raw": "May 17, 2021",
+      "keywords": [
+        "efta00024748",
+        "redaction analysis",
+        "epstein",
+        "proffer agreement",
+        "joe nascimento",
+        "fbi",
+        "miami",
+        "fl",
+        "legal agreement",
+        "initials"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00029183",
+            "similarity": 0.538,
+            "index": 35,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00029694",
+            "similarity": 0.538,
+            "index": 33,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00028695",
+            "similarity": 0.667,
+            "index": 38,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00028695",
+      "summary": "Email exchanges between individuals, including Joe Nascimento, and the FBI (NY) regarding a proffer agreement related to Jeffrey Epstein. An initial attachment was sent incorrectly, and a revised proffer agreement with updated initials was subsequently attached. The emails indicate a request for initials to be added to the agreement and a confirmation of its delivery. The document includes contact information for Ross Amsel Raben Nascimento, PLLC.",
+      "timestamp": "2021-05-18T00:00:00",
+      "timestamp_raw": "18 May 2021",
+      "keywords": [
+        "efta00028695",
+        "redaction analysis",
+        "epstein",
+        "fbi",
+        "proffer agreement",
+        "joe nascimento",
+        "miami",
+        "legal agreement",
+        "initials",
+        "criminal law firm"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00024748",
+            "similarity": 0.667,
+            "index": 37,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00029183",
+            "similarity": 0.538,
+            "index": 35,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027642",
+      "summary": "An Assistant United States Attorney from the Southern District of New York is requesting a scanned copy of a proffer agreement (dated 2021-10-01) from [REDACTED]. The original scan was located in the Witnesses & Cooperators folder and the Assistant Attorney is having difficulty locating it, suggesting it should be updated as of 9/21.",
+      "timestamp": "2021-10-01T00:00:00",
+      "timestamp_raw": "2021-10-01",
+      "keywords": [
+        "proffer",
+        "scan",
+        "agreement",
+        "united states attorney",
+        "southern district of new york",
+        "redacted",
+        "witnesses",
+        "cooperation",
+        "2021",
+        "november"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021968",
+      "summary": "This document is a redaction analysis report for a case involving Ghislaine Maxwell, specifically United States v. Ghislaine Maxwell (20 Cr. 330 INN). It details the production of various documents and materials related to the case, primarily from November 2021 to October 2021. The materials include: *   **Testifying Witness 3500 Material:** Includes notes from phone calls, testimonies, and interview notes. *   **Resume and Contract:**  A resume and contract relating to the case. *   **Steve Hadley:** Documents related to Steve Hadley's involvement (CV, notes, email correspondence). *   **FBI Reports:** Multiple FBI reports (302) relating to the investigation. *   **Palm Beach Police Reports:** A collection of Palm Beach Police Department reports. *   **Emails and Other Correspondence:** A large number of emails, letters, voicemails, and text messages exchanged between various individuals, including those related to the defense team. *   **Exhibits:** Various exhibits, including transcripts, W2s, and other documentation. The report lists the date of production, a brief description of the material, and the attorney who produced it to the defense. It is heavily redacted, indicating sensitive information is omitted.  The documents are organized by case identifier (EFTA00021968 and EFTA00021970).",
+      "timestamp": "2021-11-06T00:00:00",
+      "timestamp_raw": "11/6/2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states v.",
+        "testifying witness",
+        "3500 material",
+        "phone call",
+        "testimony",
+        "interview notes",
+        "resume",
+        "contract",
+        "article",
+        "notes",
+        "fbi report",
+        "criminal history check",
+        "emails",
+        "erna",
+        "deposition",
+        "grand jury transcript",
+        "proffer agreement",
+        "palm beach police report",
+        "voicemail",
+        "records"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019831",
+      "summary": "This document is a proffer agreement between a client and the United States Attorney’s Office for the Southern District of New York. Key points include: 1.  The client is providing information and responses to the government’s evaluation of a prosecutive decision, but no formal cooperation agreement is being established. 2.  The government will not present the client's statements as evidence in a case-in-chief or sentencing proceeding, except in specific circumstances (false statements, obstruction, perjury, or if the client becomes a fugitive). 3.  The government retains the right to use information from the meeting for investigative purposes, cross-examination, and rebuttal arguments. 4.  The government may utilize the client's statements and related evidence to potentially qualify the client for a sentence reduction under specific guidelines. 5.  The client waives certain rights related to the suppression of statements or leads obtained through the agreement. 6.  The Office will share information with other prosecutor’s offices only if they honor the agreement’s provisions. 7.  The agreement solely covers statements made during the specified meeting and does not extend to other statements.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "proffer agreement",
+        "cooperation agreement",
+        "prosecution",
+        "united states attorney",
+        "sentencing guidelines",
+        "federal rules of evidence",
+        "first step act",
+        "statements",
+        "evidence",
+        "testimony"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00017844",
+            "similarity": 0.5,
+            "index": 27,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    }
+  ]
+}

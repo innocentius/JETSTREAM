@@ -1,0 +1,1460 @@
+{
+  "keyword": "booking",
+  "count": 26,
+  "keyword_match_count": 26,
+  "content_match_count": 28,
+  "total_files": 54,
+  "timeline": [
+    {
+      "file_id": "EFTA00037185",
+      "summary": "The document contains email correspondence related to a FIT application submitted by an individual to Jeffrey Epstein. One email, dated February 9, 2007, indicates receipt of the application but requests a faxed essay. A subsequent email, dated February 9, 2007, expresses concern about the lack of response and requests a flight booking to New York. The document is flagged for redaction analysis.",
+      "timestamp": "2007-02-09T00:00:00",
+      "timestamp_raw": "February 9, 2007",
+      "keywords": [
+        "epstein",
+        "yahoo mail",
+        "jeffrey epstein",
+        "fax",
+        "application",
+        "email",
+        "new york",
+        "february 2007",
+        "documents",
+        "mobile"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037186",
+      "summary": "An email chain discusses travel arrangements for an individual (RS) traveling from Cape Town to New York. The emails request a flight booking for February 27th to New York, a return flight to London, and confirmation of a meeting with Jeffery regarding the flight booking. Additionally, the sender requests that Jeffery be informed about the individual’s intention to visit three modelling agencies.",
+      "timestamp": "2007-02-09T00:00:00",
+      "timestamp_raw": "9 Feb 2007",
+      "keywords": [
+        "yahoo mail",
+        "dropbox",
+        "flight booking",
+        "new york",
+        "uk",
+        "visa",
+        "modelling agencies",
+        "february 27th",
+        "investment portfolio",
+        "travel sites"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028655",
+      "summary": "Epstein, 2018R01618). These requests involve travel to West Palm Beach and/or Fort Lauderdale, Florida, for meetings and interviews with victims. A core issue is the scheduling conflict arising from planned interviews in Florida necessitating a flight directly to San Francisco instead of returning to New York.  A $100 cancellation fee for a previously-scheduled New York to San Francisco flight is being questioned.  Reimbursement for the cancellation fee is being requested, along with clarification on necessary forms (SF-1164) for a potential reimbursement.  The requests involve multiple individuals and various departments within the U.S. Attorney's Office (SDNY), including discussions about booking methods (CWT, E2), flight record locators, and hotel room reservations. Most requests are ultimately denied reimbursement for the cancellation fee.",
+      "timestamp": "2019-05-28T00:00:00",
+      "timestamp_raw": "28 May 2019",
+      "keywords": [
+        "travel approval",
+        "refund",
+        "cancellation fee",
+        "san francisco",
+        "reimbursement",
+        "flight",
+        "west palm beach",
+        "e2",
+        "sf-1164",
+        "interview",
+        "victim",
+        "florida",
+        "booking",
+        "reservation"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023234",
+      "summary": "A legal assistant with the U.S. Attorney’s Office (SDNY) is requesting approval for travel to West Palm Beach, Florida, for investigative meetings and interviews related to the Epstein case (EFTA00023234). The initial request involves a personal trip to San Francisco that necessitated a flight cancellation fee of $100. Subsequent requests detail a planned trip for next week to conduct interviews related to the Epstein investigation, including flight and hotel bookings. There are multiple attempts to consolidate reservations and confirm refundable booking options. Redactions obscure specific details like names, flight numbers, and reservation codes.",
+      "timestamp": "2019-05-28T00:00:00",
+      "timestamp_raw": "28 May 2019",
+      "keywords": [
+        "travel approval",
+        "refund",
+        "cancellation",
+        "flight",
+        "san francisco",
+        "west palm beach",
+        "reimbursement",
+        "e2",
+        "authorization",
+        "interviews",
+        "united states v. epstein"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00027760",
+            "similarity": 0.571,
+            "index": 5,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00027756",
+      "summary": "Requests include trips to West Palm Beach and/or Fort Lauderdale, Florida, for meetings and interviews with victims.  The trips vary in duration and timing, with some proposing short, last-minute bookings and others attempting to coordinate around victim interview schedules.  One individual wants to book a flight directly to San Francisco to avoid returning to New York after Florida interviews.  A $100 cancellation fee for a previously booked flight is being questioned for reimbursement.  Confirmation and authorization for these travel arrangements are being sought.",
+      "timestamp": "2019-05-28T00:00:00",
+      "timestamp_raw": "28 May 2019",
+      "keywords": [
+        "travel approval",
+        "flights",
+        "west palm beach",
+        "san francisco",
+        "refunds",
+        "interviews",
+        "florida",
+        "united states v. epstein",
+        "reservations"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027760",
+      "summary": "Epstein, 2018R01618). The initial request was for three days, then later adjusted to potentially two days. *   The traveler planned to fly Tuesday night and return either Wednesday or Thursday, with the possibility of shortening the trip. A conference room booking request was also included. *   There were multiple confirmations and inquiries regarding the ability to book a single flight itinerary to San Francisco, bypassing a return flight due to scheduling conflicts related to interviews. *   A $100 cancellation fee was incurred on a previous flight due to the need to rebook to San Francisco. Reimbursement for this fee was requested. *   The traveler had previously booked a personal trip to San Francisco, which was canceled due to the work travel.",
+      "timestamp": "2019-05-28T00:00:00",
+      "timestamp_raw": "28 May 2019",
+      "keywords": [
+        "travel approval",
+        "flight",
+        "cancellation",
+        "reimbursement",
+        "west palm beach",
+        "san francisco",
+        "e2",
+        "reservations",
+        "interview",
+        "florida",
+        "united states v. epstein"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00023234",
+            "similarity": 0.571,
+            "index": 3,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029502",
+      "summary": "An email chain discusses scheduling a meeting with Jeffrey Epstein. One individual requests booking the meeting for an executive for tomorrow (June 10, 2019) at noon, 1 PM, or 3 PM. The individual also asks for any associated written materials to be sent in advance. The email thread involves multiple individuals within USANYS (identified as a contractor).",
+      "timestamp": "2019-06-10T00:00:00",
+      "timestamp_raw": "June 10, 2019",
+      "keywords": [
+        "epstein",
+        "meeting",
+        "usanys",
+        "contractor",
+        "redaction",
+        "efta00029502"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018400",
+      "summary": "Matt Sutherland, a Senior Booking Producer I at Inside Edition, received an inquiry from Anthony Weiner regarding whether Weiner was expected to testify against Jeffrey Epstein or if he had cooperated prior to Epstein’s arrest. The email was sent on July 9, 2019, and included a forwarded message from an unknown sender.",
+      "timestamp": "2019-07-09T00:00:00",
+      "timestamp_raw": "July 9, 2019",
+      "keywords": [
+        "epstein",
+        "weiner",
+        "inside edition",
+        "request",
+        "testify",
+        "arrest",
+        "booking producer",
+        "matt sutherland",
+        "efta00018400"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015576",
+      "summary": "This document is a series of email exchanges requesting travel approval for investigative work related to the Epstein case (2018R01618). The requests involve travel to Palm Beach, Florida, and Los Angeles, California, for victim interviews. Key details include: *   **Purpose:** Investigation into enticement of minors for sexual activity. *   **Travel Details:** Requests for approval to travel for specific dates, with plans to stay in hotels and use conference rooms. *   **Vehicle Requirements:** Use of compact or economy rental cars, with restrictions on insurance coverage. *   **Expense Reimbursement:** Guidelines regarding lodging tax exemptions, per diem rates, and refueling charges. *   **Booking System:** Utilizing the E2 system for booking travel arrangements. *   **Approval Status:** Multiple approvals were granted for the travel requests.",
+      "timestamp": "2019-07-09T00:00:00",
+      "timestamp_raw": "09 Jul 2019",
+      "keywords": [
+        "travel approval",
+        "e2",
+        "state tax exemption",
+        "per diem",
+        "rental cars",
+        "epstein investigation",
+        "victim interviews",
+        "palm beach",
+        "florida",
+        "conference room",
+        "travel coordinator",
+        "us government car rental agreement"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00015593",
+            "similarity": 0.692,
+            "index": 9,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00015593",
+      "summary": "The document is a series of email exchanges related to travel authorization requests for investigations concerning the Epstein case (2018R01618). Requests involve travel to Florida (Palm Beach, West Palm Beach, Fort Lauderdale) and Los Angeles for victim interviews. Specific details include requested travel dates, duration, and a request for conference room reservations. Standard travel procedures are outlined, such as utilizing specific vehicle types, adhering to per diem rates, submitting receipts promptly, and using designated E2 solutions for booking. Approvals were granted for multiple trips.",
+      "timestamp": "2019-07-10T00:00:00",
+      "timestamp_raw": "10 Jul 2019",
+      "keywords": [
+        "travel approval",
+        "florida",
+        "travel authorization",
+        "e2",
+        "per diem",
+        "conference room",
+        "victim interviews",
+        "epstein investigation",
+        "state tax exemption",
+        "rental cars"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00015576",
+            "similarity": 0.692,
+            "index": 8,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00015589",
+            "similarity": 0.538,
+            "index": 10,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019713",
+            "similarity": 0.538,
+            "index": 24,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00015589",
+      "summary": "This document is a record of travel approval requests related to an ongoing investigation, “United States v. Epstein” (2018R01618), concerning enticement of minors for sexual activity. Multiple requests were submitted to authorize travel to Florida (Palm Beach, West Palm Beach, and Los Angeles) and potentially Fort Lauderdale, for interviews and meetings.  Standard procedures included utilizing E2 solutions for booking travel, adhering to specific vehicle rental guidelines (compact/economy vehicles, no insurance in CONUS), and submitting receipts the day after the trip. Approvals were granted for conference room reservations and the travel was primarily driven by the need to interview victims. The requests emphasized minimizing trip duration and using cost-effective options when available.",
+      "timestamp": "2019-07-10T00:00:00",
+      "timestamp_raw": "10 Jul 2019",
+      "keywords": [
+        "travel approval",
+        "florida",
+        "travel authorization",
+        "e2",
+        "per diem",
+        "hotel",
+        "conference room",
+        "epstein",
+        "victim interviews",
+        "tax exemption"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00015593",
+            "similarity": 0.538,
+            "index": 9,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00019713",
+            "similarity": 0.538,
+            "index": 24,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00023822",
+      "summary": "It’s a declaration from the custodian of records for the business, certifying that the flight details and passenger information were accurately recorded at or near the time of the event. The record includes booking information, passenger details (including name, flight information, contact details), and security-related notes (e.g., preferred seating, corporate security clearance). It also contains details on the ticket itself, including fare, taxes, and payment information.  The document uses various data fields and record locator systems (like Sabre) to track the flight details.",
+      "timestamp": "2019-07-20T00:00:00",
+      "timestamp_raw": "July 20, 2019",
+      "keywords": [
+        "efta00023822",
+        "efta00023833",
+        "efta00023840",
+        "efta00023844",
+        "efta00023847",
+        "efta00023852",
+        "efta00023854",
+        "efta00023856",
+        "aa167",
+        "flight",
+        "record locator",
+        "custodians",
+        "subpoena",
+        "rules 902(11) & 803(6)",
+        "evidence",
+        "business records",
+        "taxes",
+        "passenger information",
+        "booking",
+        "american airlines"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013184",
+      "summary": "An email chain discusses reports related to the July 23 incident, primarily concerning Jeffrey Epstein. One individual (USANYS) requests travel records, specifically airline tickets and AmEx flight bookings (over 4,800 from the past ten years), related to a woman and her ex-wife, potentially connected to Epstein. Another individual (REDACTED) has some travel records but doesn't have specific names or BOP documentation regarding suicide watch or communications with BOP. A request is made to forward any travel records or information about the ex-wife.",
+      "timestamp": "2019-08-11T00:00:00",
+      "timestamp_raw": "11 Aug 2019",
+      "keywords": [
+        "epstein",
+        "flights",
+        "travel records",
+        "amex",
+        "july 23 incident",
+        "usanys",
+        "records",
+        "arrest planning",
+        "ex-wife",
+        "bop"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032289",
+      "summary": "On August 12, 2019, Rebekah Donaleski informed a recipient that she would be unable to attend an event (“Wednesday”) due to working the Epstein death investigation. She had previously requested someone to book a reservation and return trip for the same day. The sender expressed gratitude for her assistance and apologized for the last-minute cancellation.",
+      "timestamp": "2019-08-12T00:00:00",
+      "timestamp_raw": "August 12, 2019",
+      "keywords": [
+        "rail",
+        "reservation",
+        "booking",
+        "wednesday",
+        "epstein",
+        "investigation",
+        "dutch case file",
+        "sentencing",
+        "testimony",
+        "victims"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036813",
+      "summary": "A promotional email from CheapTickets to [REDACTED] at @bop.gov, dated August 15, 2019, encourages the recipient to consider a vacation package with discounts on hotels, cars, cruises, flights, and event tickets. The email offers a coupon and specifies booking deadlines of September 8, 2019, through March 31, 2020. It includes links to manage the account, customer care, privacy policy, and unsubscribe options. The email is associated with the document identifier EFTA00036813.",
+      "timestamp": "2019-08-15T00:00:00",
+      "timestamp_raw": "August 15, 2019",
+      "keywords": [
+        "cheaptickets",
+        "vacation",
+        "deals",
+        "hotels",
+        "flights",
+        "cruises",
+        "packages",
+        "travel",
+        "booking",
+        "coupons"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020080",
+      "summary": "Gloria Allred is assisting a Jane Epstein victim who wants to travel from Las Vegas to New York to attend a hearing on Tuesday. Communication involves multiple individuals attempting to arrange travel, including booking flights, confirming airport details, and obtaining the victim’s date of birth. There are requests for contact information (phone numbers) and confirmations regarding travel arrangements. An assistant, Diane, has already provided the victim’s driver’s license information. The communications occur primarily on August 25, 2019, and involve discussions about funding and the urgency of the trip.",
+      "timestamp": "2019-08-25T00:00:00",
+      "timestamp_raw": "August 25, 2019",
+      "keywords": [
+        "gloria allred",
+        "epstein victim",
+        "new york",
+        "flight",
+        "travel",
+        "dob",
+        "las vegas",
+        "hearing",
+        "child care",
+        "phone number"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015135",
+      "summary": "A traveler, lavoire Tirknt, purchased a round-trip flight with JetBlue Airways from Los Angeles to New York and back on August 26th and 27th, 2019. The ticket price was $393.49 with $37.63 in fees. The itinerary includes non-stop flights (Flight MMRMJA) departing at 11:17 AM on August 26th and returning at 7:30 PM on August 27th. The flight class is Coach (Y/Z) and seat 22C. The booking was handled by CWTSATOTRAVEL, with a reference code of SABRE OV4C. Additional information includes contact details for CWTSATOTRAVEL, TSA, and the Vacation Center, along with guidelines regarding baggage fees and travel requirements for U.S. citizens traveling between designated U.S. territories.",
+      "timestamp": "2019-08-26T00:00:00",
+      "timestamp_raw": "Aug 26, 2019",
+      "keywords": [
+        "jetblue",
+        "flight",
+        "los angeles",
+        "new york jfk",
+        "august 26",
+        "2019",
+        "august 27",
+        "2019",
+        "travel",
+        "receipt",
+        "ticket",
+        "booking",
+        "cwtsatotravel"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015134",
+      "summary": "An email exchange discusses missing e-ticket receipts for airfare related to travel cases, specifically the “Epstein Case.” The total airfare cost is approximately $8,000, covering flights from locations including West Palm FL, Los Angeles CA, Fort Lauderdale FL, Dayton OH, Los Angeles CA, Washington DC, Las Vegas, and Barcelona Spain to New York City. An invoice for a $1.429.02 flight is also included. The email also contains automated notifications regarding voucher processing and offers for hotel and rental car bookings.",
+      "timestamp": "2019-08-26T00:00:00",
+      "timestamp_raw": "26 Aug 2019",
+      "keywords": [
+        "efta00015134",
+        "airfare",
+        "epstein case",
+        "usanys",
+        "travel",
+        "receipts",
+        "hotel reservations",
+        "nyc",
+        "august 26",
+        "2019",
+        "e-ticket"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032136",
+      "summary": "An email was sent requesting travel arrangements to West Palm Beach, Florida, for an unspecified \"Epstein case.\" The sender, \"a,\" is traveling with an unknown individual (\"s\"). The request included booking flights: departing from Newark (EWR) to Palm Beach (PBI) on September 3rd at 9:20 am and returning from Palm Beach (PBI) to JFK on September 4th at 6:12 pm. A room at the Hilton Palm Beach (600 Okeechobee Blvd, West Palm Beach) was requested, specifically a conference room available Tuesday and Wednesday, and ideally one named \"the social.\" The trip is scheduled to check in on September 3rd and check out on September 4th.",
+      "timestamp": "2019-08-28T00:00:00",
+      "timestamp_raw": "28 Aug 2019",
+      "keywords": [
+        "efta00032136",
+        "west palm beach",
+        "epstein",
+        "travel",
+        "hilton palm beach",
+        "pbi",
+        "jfk",
+        "conference room",
+        "flights",
+        "booking"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019683",
+      "summary": "An email request is made to the U.S. Attorney’s Office (SDNY) to book travel and a conference room for a trip to West Palm Beach, FL, from September 3rd to September 4th, 2019, for the Epstein case. The travel details include flights from Newark (EWR) to Palm Beach (PBI) and JFK, and hotel reservations at the Hilton Palm Beach. A conference room booking is requested for Tuesday and Wednesday.",
+      "timestamp": "2019-08-28T00:00:00",
+      "timestamp_raw": "28 Aug 2019",
+      "keywords": [
+        "efta00019683",
+        "west palm beach",
+        "fl",
+        "travel",
+        "conference room",
+        "hilton palm beach",
+        "epstein case",
+        "airfare",
+        "hotel",
+        "pbi",
+        "jfk"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00024430",
+            "similarity": 0.5,
+            "index": 20,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00024430",
+      "summary": "HIMMES requested travel arrangements for a trip to West Palm Beach, Florida, for the Epstein case. The travel is to take place from September 3rd to September 4th, utilizing flights from Newark (EWR) to Palm Beach (PBI) and returning from Palm Beach (PBI) to JFK.  Specific requests include booking at the Hilton Palm Beach hotel (600 Okeechobee Blvd) and a conference room for Tuesday and Wednesday. The outbound flight is scheduled for 9:20 AM on September 3rd and the inbound flight for 6:12 PM on September 4th.",
+      "timestamp": "2019-08-28T00:00:00",
+      "timestamp_raw": "28 Aug 2019",
+      "keywords": [
+        "travel",
+        "west palm beach",
+        "epstein case",
+        "hilton palm beach",
+        "flights",
+        "ewr",
+        "pb1",
+        "jfk",
+        "conference room",
+        "hotel"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00019683",
+            "similarity": 0.5,
+            "index": 19,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028193",
+      "summary": "An email was sent requesting travel arrangements for an Epstein victim to fly from Palm Beach, FL to New York City (SDNY) on September 12, 2019. The purpose of the trip is to meet with AUSAs and agents at 5pm. Accommodation is required for one night at a hotel in NYC, with a return flight to Palm Beach scheduled for September 13, 2019. The email includes the victim’s full name, date of birth, and email address.",
+      "timestamp": "2019-09-12T00:00:00",
+      "timestamp_raw": "September 12, 2019",
+      "keywords": [
+        "efta00028193",
+        "travel",
+        "booking",
+        "epstein",
+        "victim",
+        "usao funds",
+        "palm beach",
+        "new york",
+        "9/12",
+        "9/13"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00015296",
+            "similarity": 0.538,
+            "index": 22,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00015296",
+      "summary": "An email chain discusses booking travel for an Epstein victim to fly from Palm Beach, FL to New York City (SDNY) on September 12, 2019. The travel includes a hotel stay in NYC for one night, September 12th, and a return flight to Palm Beach on September 13, 2019. The purpose of the trip is for the victim to meet with AUSAs and agents at 5pm on September 12th. The email includes details like the victim's full name, date of birth, flight information, and hotel requirements.",
+      "timestamp": "2019-09-12T00:00:00",
+      "timestamp_raw": "September 12, 2019",
+      "keywords": [
+        "efta00015296",
+        "travel",
+        "booking",
+        "airfare",
+        "hotel",
+        "epstein",
+        "usao funds",
+        "palm beach",
+        "new york",
+        "9/12"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00028193",
+            "similarity": 0.538,
+            "index": 21,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038634",
+      "summary": "An FBI Victim Services Division program manager (SE) forwarded archived emails related to the Epstein/Maxwell investigation. The emails detail communications regarding flight bookings (October 19, 2019) from New York to Jamaica, NY, including Expedia bookings and lodging arrangements at the Moxy NYC Downtown hotel. The emails also outline transportation reimbursement policies and coverage for airport and field office travel.  Five emails are referenced, with this being the first.",
+      "timestamp": "2019-10-19T00:00:00",
+      "timestamp_raw": "October 19, 2019",
+      "keywords": [
+        "epstein",
+        "maxwell",
+        "fbi",
+        "victim services",
+        "email",
+        "flight itinerary",
+        "new york",
+        "expedia",
+        "redaction",
+        "richmond ra"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019713",
+      "summary": "The request includes booking a hotel room and conference room. The traveler intends to travel from November 3rd to 5th, and the request emphasizes using the E2 system for booking and authorization.  Rental car guidelines are outlined, including restrictions on vehicle types and no reimbursement for insurance.  Receipts must be submitted the day after the trip.  Previous similar travel requests (regarding the Epstein investigation in 2018) are referenced. Approvals were granted for the travel and conference room.",
+      "timestamp": "2019-11-04T00:00:00",
+      "timestamp_raw": "November 4, 2019",
+      "keywords": [
+        "travel authorization",
+        "e2",
+        "hotel",
+        "conference room",
+        "west palm beach",
+        "tax exemption",
+        "rental cars",
+        "per diem",
+        "travel approval",
+        "epstein investigation"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00015589",
+            "similarity": 0.538,
+            "index": 10,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00015593",
+            "similarity": 0.538,
+            "index": 9,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025336",
+      "summary": "*   The traveler was instructed to check per diem rates, lodging tax exemptions, and utilize an E2 system for booking travel, including air, rail, and hotel reservations. *   Rental cars must be booked through E2-E2 Solutions, limited to compact or economy vehicles, and insurance should be declined in CONUS and accepted elsewhere. *   Receipts must be submitted within one day of trip completion. *   The traveler is scheduled to travel to Florida for an FBI meeting related to the Epstein investigation (2018R01618), requesting approval for one or zero nights of travel.",
+      "timestamp": "2019-11-11T00:00:00",
+      "timestamp_raw": "11 Oct 2019",
+      "keywords": [
+        "flights",
+        "travel",
+        "booking",
+        "per diem",
+        "lodging",
+        "tax exemption",
+        "rental cars",
+        "e2 solutions",
+        "fbi",
+        "epstein"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038636",
+      "summary": "A reservation was made for a Moxy NYC Downtown hotel room from October 22nd to October 24th, 2019, under confirmation number EFTA00038636. The booking included a standard room with one queen bed and offers benefits such as free Wi-Fi and Marriott Bonvoy points. The total cost includes a negotiated local rate, daily off-site parking fees (USD 48), and potential additional fees and taxes. The reservation requires a credit card for guarantee and has a cancellation policy with a fee for late cancellations.  The hotel emphasizes its space-saving and experience-focused design, offering a co-working space and bar with complimentary drinks.",
+      "timestamp": "2019-11-18T00:00:00",
+      "timestamp_raw": "18 Oct 2019",
+      "keywords": [
+        "moxy nyc downtown",
+        "reservation",
+        "marriott bonvoy",
+        "hotel",
+        "booking",
+        "cancellation",
+        "room",
+        "charges",
+        "wi-fi",
+        "points"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028805",
+      "summary": "Multiple requests were made for travel authorization to West Palm Beach, Florida, for interviews related to the Epstein investigation (2018R01618), concerning enticement of minors for sexual activity. The requests involved travel between November 4th and potentially later dates, including flights and hotel room reservations. The requests consistently sought permission for a short timeframe, aiming to minimize travel time and requested a conference room booking for the interviews. The requests were made by multiple individuals within the U.S. Attorney’s Office.",
+      "timestamp": "2019-11-22T00:00:00",
+      "timestamp_raw": "22 Oct 2019",
+      "keywords": [
+        "travel approval",
+        "west palm beach",
+        "epstein investigation",
+        "travel request",
+        "florida",
+        "interviews",
+        "conference room",
+        "jetblue",
+        "scheduling"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00010268",
+            "similarity": 0.583,
+            "index": 28,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00015915",
+            "similarity": 0.5,
+            "index": 29,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00010268",
+      "summary": "These requests involve airfare (JetBlue), hotel reservations (Hilton West Palm Beach), and conference room bookings. Approvals are granted for the travel and conference room reservations, often referencing previous similar requests. The purpose of the travel is to conduct interviews, primarily focusing on victim interviews regarding enticement of minors for sexual activity. Redactions obscure sender and recipient email addresses.",
+      "timestamp": "2019-11-28T00:00:00",
+      "timestamp_raw": "28 Oct 2019",
+      "keywords": [
+        "west palm beach",
+        "travel approval",
+        "jetblue",
+        "conference room",
+        "epstein investigation",
+        "interviews",
+        "florida",
+        "reservations",
+        "united states v. epstein",
+        "2018r01618"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00028805",
+            "similarity": 0.583,
+            "index": 27,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00015915",
+            "similarity": 0.583,
+            "index": 29,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00015915",
+      "summary": "The document consists of email chains requesting travel approvals for investigations related to the Epstein case (2018R01618). Multiple requests are made for travel to Los Angeles, West Palm Beach, and potentially Fort Lauderdale, Florida, spanning from November 2019 to April 2019. These requests involve flights, hotel bookings (often without conference rooms), and specify dates for interviews with victims.  A consistent request is made to reserve conference rooms for the interviews. The emails are sent from various U.S. Attorney’s office personnel and frequently reference previous similar requests.",
+      "timestamp": "2019-12-07T00:00:00",
+      "timestamp_raw": "07 Nov 2019",
+      "keywords": [
+        "jetblue",
+        "travel approval",
+        "los angeles",
+        "west palm beach",
+        "epstein investigation",
+        "florida",
+        "interviews",
+        "flight booking",
+        "2018r01618"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00010268",
+            "similarity": 0.583,
+            "index": 28,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028805",
+            "similarity": 0.5,
+            "index": 27,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021358",
+      "summary": "Multiple requests are made for travel arrangements related to the Epstein investigation (2018R01618) to locations including Los Angeles, Santa Monica, and West Palm Beach/Fort Lauderdale. These requests involve flights (JetBlue), hotel bookings (Doubletree), and requests for conference room reservations. The travel dates vary, but generally span from November 13-14 to late November/early December, with the purpose being interviews related to enticement of minors for sexual activity. Redactions obscure specific individuals’ names and contact information.",
+      "timestamp": "2019-12-08T00:00:00",
+      "timestamp_raw": "08 Nov 2019",
+      "keywords": [
+        "travel approval",
+        "jetblue",
+        "lax",
+        "santa monica",
+        "florida",
+        "epstein",
+        "interviews",
+        "conference room",
+        "united states attorney",
+        "2018r01618"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010276",
+      "summary": "An email chain discusses an itinerary (Ref: JXCKWJ) involving travel arrangements, including a questionnaire and hotel/rental car booking options. The email was sent between multiple individuals, including [REDACTED] and [REDACTED]. A confidential/proprietary information disclaimer is included in the original email.",
+      "timestamp": "2020-01-24T00:00:00",
+      "timestamp_raw": "24 Jan 2020",
+      "keywords": [
+        "itinerary",
+        "travel",
+        "questionnaire",
+        "hotels",
+        "rental cars",
+        "confidential",
+        "proprietary",
+        "redaction",
+        "email",
+        "booking"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026857",
+      "summary": "This document consists of email exchanges related to travel requests for interviews and investigations, primarily concerning the Epstein case (2018R01618). Multiple requests are made for travel to Pensacola, FL, Stockholm, Sweden, Los Angeles, and West Palm Beach, Florida, involving teams of individuals. These requests include specific flight details (e.g., American Airlines flights with layovers), requests for refundable tickets, and the need for conference room reservations. The emails highlight a persistent pattern of travel requests tied to the Epstein investigation and demonstrate a need for logistical coordination regarding flight bookings, timing, and accommodation.",
+      "timestamp": "2020-02-12T00:00:00",
+      "timestamp_raw": "12 Feb 2020",
+      "keywords": [
+        "travel",
+        "approval",
+        "flights",
+        "pns",
+        "lga",
+        "jfk",
+        "pensacola",
+        "florida",
+        "interview",
+        "booking",
+        "refundable",
+        "stockholm",
+        "sweden",
+        "epstein",
+        "investigation"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023263",
+      "summary": "This document details a series of requests for travel approvals, primarily for interviews related to the Epstein investigation (2018R01618). These requests involve travel to locations including Pensacola, FL, Los Angeles, and West Palm Beach, Florida, often involving multiple individuals and varying timelines. The requests typically involve requesting permission for conference rooms and utilizing American Airlines for flights. Multiple email exchanges demonstrate the iterative process of securing approval, with details regarding flight options, refundable tickets, and specific dates being negotiated and confirmed. Notably, there are redactions within the document related to specific individuals and email content.",
+      "timestamp": "2020-02-12T00:00:00",
+      "timestamp_raw": "12 Feb 2020",
+      "keywords": [
+        "travel",
+        "flight",
+        "pensacola",
+        "florida",
+        "booking",
+        "approval",
+        "airline",
+        "lga",
+        "pns",
+        "contract",
+        "conference room",
+        "interviews",
+        "reservations",
+        "united",
+        "delta",
+        "american airlines"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025084",
+      "summary": "The document is a redacted email chain concerning travel requests for investigations related to the Epstein case (2018R01618). Multiple requests are made for travel to Pensacola, Florida, Los Angeles, Stockholm, Sweden, and potentially other locations, primarily for interviews and conference room bookings.  The requests consistently involve American Airlines flights, specific dates, and a need for refundable tickets.  A recurring theme is seeking approval for travel expenses and conference room reservations due to ongoing investigative work.  The emails detail scheduling difficulties, flight changes, and attempts to secure the most cost-effective and refundable options.",
+      "timestamp": "2020-02-12T00:00:00",
+      "timestamp_raw": "12 Feb 2020",
+      "keywords": [
+        "travel approval",
+        "flights",
+        "pensacola",
+        "jfk",
+        "pns",
+        "lga",
+        "schedules",
+        "refundable",
+        "booking",
+        "interviews",
+        "west palm beach"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032879",
+      "summary": "Multiple requests are being submitted for travel approvals to conduct interviews related to the Epstein investigation (2018R01618). These requests involve travel to locations including Pensacola, Florida; Stockholm, Sweden; Los Angeles, California; West Palm Beach, Florida, and Fort Lauderdale, Florida.  Each request involves a team of individuals and requests approval for a conference room during the interviews. The requests consistently reference prior similar investigations and prioritize minimizing travel time.  Cost-conscious booking options are requested.",
+      "timestamp": "2020-02-12T00:00:00",
+      "timestamp_raw": "12 Feb 2020",
+      "keywords": [
+        "travel approval",
+        "epstein investigation",
+        "pensacola",
+        "florida",
+        "stockholm",
+        "sweden",
+        "los angeles",
+        "west palm beach",
+        "conference room",
+        "2018r01618"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00029663",
+            "similarity": 0.538,
+            "index": 37,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00023274",
+      "summary": "This document contains a series of email exchanges related to travel requests for investigative purposes, primarily linked to the Epstein investigation (2018R01618). The requests involve travel to various locations including Pensacola, Florida, Stockholm, Sweden, Los Angeles, and West Palm Beach, Florida, for witness interviews. Flight options are repeatedly proposed, often with refundable options being highlighted. Hotel accommodations, particularly at the Hilton Garden Inn (specifically the “HGI PENSACOLA AIRPORT MEDICAL” location), and conference room bookings are consistently requested, often with specific dates and durations. There's a recurring need to secure domestic-flagged carrier flights and consideration for costs. The travel arrangements are driven by scheduling conflicts, witness availability, and the need for a brief, focused investigative period.",
+      "timestamp": "2020-02-13T00:00:00",
+      "timestamp_raw": "13 Feb 2020",
+      "keywords": [
+        "travel approval",
+        "pensacola",
+        "florida",
+        "flight",
+        "hotel",
+        "conference room",
+        "interview",
+        "booking",
+        "delta",
+        "charlotte",
+        "nc",
+        "cost",
+        "scheduling",
+        "epstein investigation",
+        "united states v. epstein"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029663",
+      "summary": "The document consists of a series of emails requesting travel approvals for investigations related to the Epstein case (2018R01618).  These requests involve travel to locations including Los Angeles, Stockholm, West Palm Beach, and Fort Lauderdale, Florida, primarily for interviews.  The requests consistently involve a team of individuals, seek approval for hotel bookings and conference rooms, and specify expected travel dates with flexible timelines.  The emails repeatedly reference prior similar requests and a desire for domestic-flagged carrier flights to minimize costs.  The content is heavily redacted.",
+      "timestamp": "2020-02-13T00:00:00",
+      "timestamp_raw": "13 Feb 2020",
+      "keywords": [
+        "travel approval",
+        "los angeles",
+        "epstein investigation",
+        "stockholm",
+        "sweden",
+        "conference room",
+        "florida",
+        "interviews",
+        "united states v. epstein",
+        "booking"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00032879",
+            "similarity": 0.538,
+            "index": 35,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029670",
+      "summary": "A request was made to approve travel to Los Angeles for February 26-28 for three interviews related to the Epstein investigation. The initial request suggested switching from the DoubleTree Santa Monica hotel due to high costs and construction issues to the Beverly Hilton, which was within the per diem and offered a better location. A separate reservation was made on E2 for a hotel, and flight arrangements were pending. Approval was subsequently granted for the travel and a conference room request.",
+      "timestamp": "2020-02-13T00:00:00",
+      "timestamp_raw": "13 Feb 2020",
+      "keywords": [
+        "travel approval",
+        "hotel",
+        "los angeles",
+        "per diem",
+        "beverly hilton",
+        "conference room",
+        "booking",
+        "epstein investigation",
+        "february 2020",
+        "reservation"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021141",
+      "summary": "This document consists of a series of email exchanges regarding travel approvals for investigative work, primarily related to the Epstein investigation (2018R01618). The core requests involve travel to locations including Pensacola, Florida, Los Angeles, Stockholm, Sweden, and West Palm Beach/Fort Lauderdale, Florida, for interviews with witnesses. Flight options, particularly refundable domestic flights versus nonrefundable ones, are frequently discussed. Hotel bookings and conference room reservations are also repeatedly requested, often with specific time constraints. The emails highlight a need to coordinate schedules, consider alternative flight options, and manage expenses related to the investigation.",
+      "timestamp": "2020-02-13T00:00:00",
+      "timestamp_raw": "13 Feb 2020",
+      "keywords": [
+        "travel approval",
+        "flights",
+        "pensacola",
+        "florida",
+        "interview",
+        "conference room",
+        "booking",
+        "refundable",
+        "domestic",
+        "international",
+        "cost"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00021133",
+            "similarity": 0.643,
+            "index": 40,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00021133",
+      "summary": "A recurring request is made for permission to travel to locations including Pensacola, Florida, Los Angeles, Stockholm, and West Palm Beach to conduct interviews with witnesses. Key elements consistently requested are refundable flight options (particularly avoiding penalty fares), a preference for “unrestricted coach” fares, and the reservation of conference rooms at hotels for the interviews.  The requests involve multiple individuals and agencies, including the U.S. Attorney’s Office and Legal Assistants. There are repeated requests to shorten the travel timeframe based on scheduling constraints.",
+      "timestamp": "2020-02-13T00:00:00",
+      "timestamp_raw": "13 Feb 2020",
+      "keywords": [
+        "travel approval",
+        "flights",
+        "refundable",
+        "penalty fares",
+        "pensacola",
+        "florida",
+        "conference room",
+        "booking",
+        "restrictions",
+        "domestic",
+        "international",
+        "u.s. attorney"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00021141",
+            "similarity": 0.643,
+            "index": 39,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021123",
+      "summary": "Multiple individuals within the U.S. Attorney’s Office (SDNY) are requesting permission and arrangements for travel to Pensacola, Florida, Los Angeles, and Stockholm, Sweden, primarily for conducting interviews with witnesses. Key elements of the requests include: *   **Flight Details:** Specific flight codes (e.g., Delta JFK to PNS) are proposed, with some flights being refundable and others not. *   **Hotel Booking:** Requests are made for hotel accommodations, specifically the Hilton Garden Inn (PNS Airport Medical). *   **Conference Room Requests:** Requests for conference room bookings at the hotel locations for interview sessions are consistently made. *   **Penalty Fare Avoidance:** Guidance is provided on avoiding penalty fares by selecting “unrestricted coach” fare options. *   **Scheduling Flexibility:** The requests emphasize a need for flexible scheduling to accommodate witness availability. *   **Recurring Requests:** The travel requests are part of a pattern of similar requests related to the Epstein investigation.",
+      "timestamp": "2020-02-13T00:00:00",
+      "timestamp_raw": "13 Feb 2020",
+      "keywords": [
+        "flights",
+        "pensacola",
+        "refund",
+        "delta",
+        "booking",
+        "conference room",
+        "travel approval",
+        "penalty fares",
+        "coach",
+        "restrictions"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029668",
+      "summary": "A booking confirmation was sent for a trip to The Beverly Hilton in Beverly Hills, CA, from February 25th to February 29th, 2020. The confirmation number is HH-3185860597. The traveler’s name is [REDACTED], and the booking was made through CWTSato Travel in Washington, DC. The reservation includes one room with a king bed and a high floor. The average nightly rate is $181.00 USD (before taxes and fees), with taxes and fees adding $29.24 USD per night, totaling $210.24 USD. The Sabre Record Locator is CCXAXQ.",
+      "timestamp": "2020-02-13T00:00:00",
+      "timestamp_raw": "13 Feb 2020",
+      "keywords": [
+        "efta00029668",
+        "beverly hills",
+        "hilton hotels",
+        "booking confirmation",
+        "sabre record locator",
+        "cwtsato travel",
+        "hotel confirmation",
+        "feb 25",
+        "9876 wilshire blvd"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014405",
+      "summary": "This document is a series of email exchanges related to travel requests for interviews and conference room bookings, primarily concerning the Epstein investigation (2018R01618). The requests consistently involve travel to locations like Pensacola, Florida, Los Angeles, Stockholm, and West Palm Beach. The requests repeatedly seek approval for travel dates, flights, and a conference room reservation for interviews.  A recurring theme is the need to secure flights (often Delta) and a conference room, and a request for cost-consciousness in booking options. The requests are submitted by U.S. Attorneys and Legal Assistants seeking approval and assistance with logistics.",
+      "timestamp": "2020-02-19T00:00:00",
+      "timestamp_raw": "19 Feb 2020",
+      "keywords": [
+        "travel approval",
+        "pensacola",
+        "florida",
+        "conference room",
+        "flights",
+        "hotel",
+        "epstein investigation",
+        "interviews",
+        "booking",
+        "scheduling"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014402",
+      "summary": "This document is a travel itinerary and receipt for a trip from New York (JFK) to Atlanta and Pensacola, Florida, with a hotel stay in Pensacola. The itinerary includes two Delta Air Lines flights on February 19th and 20th, 2020, with specific flight times, equipment types, and seat assignments. A hotel reservation at the HGI Pensacola Airport Medical location is also included, with confirmation details and rates. The document details associated fees, taxes, and total charges of $717.76. It also provides contact information for CWTSATOTRAVEL and includes terms and conditions regarding fare guarantees, transaction fees, and return policies for unused tickets.",
+      "timestamp": "2020-02-19T00:00:00",
+      "timestamp_raw": "Feb 19, 2020",
+      "keywords": [
+        "delta air lines",
+        "flight",
+        "hotel",
+        "pensacola",
+        "booking",
+        "receipt",
+        "confirmation",
+        "airline",
+        "travel",
+        "usd"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023314",
+      "summary": "This document is a travel itinerary for a trip from New York JFK to Los Angeles, booked through CWT and SatoTravel. The trip includes a JetBlue Airways flight (123) departing February 26, 2020, and returning on March 2, 2020, with a connecting flight on JetBlue Airways (624). Accommodation is at The Beverly Hilton from February 26th to February 28th. The total cost of the trip is $444.80, including fees and taxes.  Contact information for CWT and SatoTravel is provided, along with important disclaimers regarding fare guarantees and refund policies. Baggage fee information is also included.",
+      "timestamp": "2020-02-26T00:00:00",
+      "timestamp_raw": "February 26, 2020",
+      "keywords": [
+        "jetblue airways",
+        "usa",
+        "los angeles",
+        "february 26",
+        "2020",
+        "hotel beverly hilton",
+        "flight confirmation",
+        "air domestic",
+        "receipt",
+        "booking"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038030",
+      "summary": "An email was sent regarding travel to London. The sender requests confirmation of AD IOD approval, booking flights/hotels, and obtaining quarantine waivers from Legat London. The email includes an attached document (\"London Travel.docx\") and asks for any questions.",
+      "timestamp": "2020-11-02T00:00:00",
+      "timestamp_raw": "02 Oct 2020",
+      "keywords": [
+        "efta00038030",
+        "london travel",
+        "ad iod",
+        "quarantine waiver",
+        "legat london",
+        "fbi ny",
+        "booking",
+        "flights",
+        "hotels",
+        "confirmation"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032480",
+      "summary": "An email chain discusses travel advisories issued by the State Department due to the COVID-19 pandemic, advising against travel to Level 4 locations and recommending reconsideration of travel abroad. The Special Issuance Agency (SIA) is only issuing passports for life-or-death emergencies within 72 hours.  Guidance is requested regarding booking travel, specifically concerning the Fly America Act and obtaining approval via email for travel on tourist passports. Attachments include a travel advisory PDF and a MI_London PDF.",
+      "timestamp": "2020-11-02T00:00:00",
+      "timestamp_raw": "02 Oct 2020",
+      "keywords": [
+        "travel advisory",
+        "covid-19",
+        "state department",
+        "passports",
+        "travel restrictions",
+        "email",
+        "approval",
+        "fly america act",
+        "international travel",
+        "quarantine"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031450",
+      "summary": "Danielle requests confirmation of a hotel booking for a client attending a meeting at the Southern District of New York court. Glen McGorty confirms a 2 p.m. meeting time and expresses anticipation for the in-person meeting with the client. The initial email chain discusses COVID-19 screening forms and scheduling logistics for the meeting.",
+      "timestamp": "2021-08-13T00:00:00",
+      "timestamp_raw": "13 Aug 2021",
+      "keywords": [
+        "sdny",
+        "covid",
+        "screening forms",
+        "travel request",
+        "hotel confirmation",
+        "danielle",
+        "glen",
+        "united states attorney",
+        "new york",
+        "meeting"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030640",
+      "summary": "This document is a series of email exchanges regarding scheduling a meeting and travel arrangements related to a case. Key points include: *   A redacted expert disclosure is being reviewed. *   The sender wants to discuss the case over the phone. *   Travel arrangements are being coordinated, including Amtrak bookings and potential business class tickets. *   Hotel reservations were made at the Hotel 50 Bowery for the dates of November 1-10, 2021. *   The recipient needs personal information for travel logistics (name, DOB, address, etc.). *   The initial meeting is planned for November 2nd or 3rd after 3:00 PM via phone, with a potential in-person meeting scheduled for November 12th or 13th. *   The recipient is traveling to Italy on November 17th and returning to NYC on November 27th.",
+      "timestamp": "2021-12-02T00:00:00",
+      "timestamp_raw": "02 Nov 2021",
+      "keywords": [
+        "scheduling",
+        "travel",
+        "hotel",
+        "reimbursement",
+        "disclosure",
+        "rates",
+        "nyc",
+        "amtrak",
+        "meeting",
+        "conference call"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019445",
+      "summary": "An Assistant United States Attorney is requesting travel arrangements for a fact witness in the Maxwell trial. The witness is to fly in and out on the evening of a specific date, and the request suggests booking her at the same hotel as previously booked travel. The witness’s travel dates are subject to potential changes pending the trial’s progress.",
+      "timestamp": "2021-12-19T00:00:00",
+      "timestamp_raw": "19 Nov 2021",
+      "keywords": [
+        "maxwell trial",
+        "fact witness",
+        "travel request",
+        "hotel",
+        "united states attorney",
+        "new york",
+        "travel dates",
+        "trial",
+        "witness",
+        "booking"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037164",
+      "summary": "A redacted email chain discusses scheduling an interview with an administrator. The sender, referencing a previous conversation, expresses difficulty securing an interview slot due to their attorney’s insistence on dates around the October 19th deadline, needing time to prepare an objection. The original email from September 20th requests assistance in booking an interview.",
+      "timestamp": "2023-09-20T00:00:00",
+      "timestamp_raw": "Sep 20, 2023",
+      "keywords": [
+        "efta00037164",
+        "redaction analysis",
+        "autumn planting",
+        "interview",
+        "objection",
+        "deadline",
+        "october",
+        "email",
+        "linda",
+        "solitaire time"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00006025",
+      "summary": "This document is an attendance and expense report related to a case investigation, likely involving a victim and related personnel. It contains a list of attendees, contact information (including addresses across multiple states), a breakdown of stall expenses (mileage, lodging, etc.), travel arrangements, and flight details. Key data points include: *   **Attendees:** A list of names and affiliations (e.g., Victim, Attorney, Guest, Therapist, FBI Agents). *   **Contact Information:** Addresses for victims and guests in various locations (Las Vegas, Miami, Asheville, etc.). *   **Expenses:** Mileage reimbursement, lodging costs, and other travel-related expenditures. *   **Travel Arrangements:** Details of flights, arrival/departure times, and hotel reservations. *   **Notes:**  Includes reasons for flight cancellations (illness, weather) and a request for a one-way ticket to Miami. *   **Exemption Certificate:** A form related to federal employee purchases, used to justify expenditures.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "victim",
+        "attorney",
+        "guest",
+        "name",
+        "flight",
+        "travel",
+        "address",
+        "mileage",
+        "florida",
+        "date",
+        "booking",
+        "conference",
+        "hotel",
+        "efta00006025"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025091",
+      "summary": "Maxwell was hired by Jeffrey Epstein through headhunter Russell, initially for an event planning role with the New York Knicks (which fell through) and then as a general assistant. She had prior experience in office supplies and retail sales. *   **Work Environment:** Maxwell worked primarily out of Epstein's Villard House mansion (until around 2009), then at 575 Lexington Ave, and later returned to the mansion after 2012, primarily when Epstein was in New York. She worked with a staff including a maid, houseman, and chef. *   **Daily Routine:** Maxwell’s role involved scheduling Epstein’s daily massages (generally 1-2 times per day, similar to gym visits), managing travel arrangements (using travel agencies and online booking), and handling general administrative tasks. **Specific Details & Interactions:** *   **Fraternization Rules:** Epstein instructed Maxwell not to fraternize with anyone associated with his work. *   **Massage Schedule:** Masseuses were usually first-name basis, and Maxwell diligently documented their names and contact information. Massages were often rescheduled due to Epstein's busy schedule. *   **Financial Matters:** Epstein handled client money and investments. Money transfers, often for expedited deliveries, were handled via messengers, primarily through the office. *   **Travel:** Maxwell managed international and domestic travel, utilizing various agencies and airlines, including Epstein’s private plane. *   **Events and Island Visits:** Maxwell visited Little St. James Island and the New Mexico ranch for project oversight, primarily focusing on construction. *   **Legal Matters:**  Maxwell had a brief meeting with Nate Dershowitz regarding a non-prosecution agreement related to the Florida case. *   **Departure:** Maxwell resigned in July 2019 due to feeling betrayed by Epstein’s actions. **Key Observations & Statements:** *   Maxwell never witnessed any inappropriate behavior by Epstein or any concerns about abuse. *   She described Epstein as demanding and intense. *   Maxwell noted significant changes in the office environment, including a transition to Mac computers and iPhones, and the shredding of old files. *   She never directly participated in any obstruction of justice or dishonest behavior. **Important Note:** The entire document is presented as part of an redaction analysis.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "attorney proffer",
+        "je",
+        "maxwell",
+        "massages",
+        "epstein",
+        "frq",
+        "travel",
+        "new york knicks",
+        "monster.com",
+        "mansion",
+        "villard house",
+        "lexington ave",
+        "blackmail",
+        "subpoenas",
+        "fl",
+        "non-prosecution",
+        "west execs"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    }
+  ]
+}

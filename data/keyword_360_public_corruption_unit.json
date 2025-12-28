@@ -1,0 +1,1868 @@
+{
+  "keyword": "public corruption unit",
+  "count": 41,
+  "keyword_match_count": 41,
+  "content_match_count": 33,
+  "total_files": 74,
+  "timeline": [
+    {
+      "file_id": "EFTA00032502",
+      "summary": "Emails dated November 29, 2018, detail discussions regarding an investigation related to Jeffrey Epstein. Participants include individuals within the United States Attorney’s Office for the Southern District of New York (USANYS), specifically the Chief Public Corruption Unit and FBI-NY’s sex crimes squad. The discussion centers on initiating an investigation, potentially involving a subpoena, and coordinating with the FBI to obtain the original investigative file. A link to a Miami Herald article is referenced. The emails involve coordination between multiple USANYS personnel regarding the investigation.",
+      "timestamp": "2018-11-29T00:00:00",
+      "timestamp_raw": "November 29, 2018",
+      "keywords": [
+        "epstein",
+        "fbi",
+        "usanys",
+        "subpoena",
+        "redaction",
+        "investigation",
+        "corruption",
+        "miami herald",
+        "us attorney",
+        "sex crimes"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023709",
+      "summary": "A communication occurred between the Chief Public Corruption Unit of the United States Attorney’s Office for the Southern District of New York and multiple recipients regarding a memo related to “Epstein.” The email chain includes individuals associated with “USANYS” and “[REDACTED],” with a request for an opening memo to be brought in. The email was sent on November 30, 2018.",
+      "timestamp": "2018-11-30T00:00:00",
+      "timestamp_raw": "November 30, 2018",
+      "keywords": [
+        "epstein",
+        "redaction",
+        "usanys",
+        "corruption",
+        "united states attorney",
+        "southern district of new york",
+        "memo",
+        "opening",
+        "efta00023709"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00027926",
+            "similarity": 0.5,
+            "index": 5,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00024830",
+            "similarity": 0.6,
+            "index": 73,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00016453",
+      "summary": "Emails dated December 6, 2018, discuss a Google Alert set up to track news related to Jeffrey Epstein. Multiple individuals within the US Attorney’s Office for the Southern District of New York are exchanging links to a NBC News article detailing a probe into Epstein’s sweetheart deal. One email inquires about a USAO It, referencing case number 2018R01618.",
+      "timestamp": "2018-12-06T00:00:00",
+      "timestamp_raw": "December 6, 2018",
+      "keywords": [
+        "epstein",
+        "redaction",
+        "usanys",
+        "google alert",
+        "nbc news",
+        "probe",
+        "sweetheart deal",
+        "usao",
+        "public corruption unit"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013445",
+      "summary": "A meeting update regarding a “fast track” pipeline is being shared. The Deputy Chief of the Public Corruption Unit of the U.S. Attorney’s Office for the Southern District of N suggests MG would benefit from a more detailed understanding of the facts.  A document titled “Fast_Track_Meeting_1Q_-_Pipeline_Update.docx” is attached.",
+      "timestamp": "2019-01-21T00:00:00",
+      "timestamp_raw": "21 Jan 2019",
+      "keywords": [
+        "fast track",
+        "efta00013445",
+        "public corruption",
+        "u.s. attorney",
+        "meeting",
+        "pipeline",
+        "knowledge",
+        "facts",
+        "mg"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029182",
+      "summary": "An email was sent from the Deputy Chief, Public Corruption Unit of the U.S. Attorney’s Office for the York, to [REDACTED] and [REDACTED], requesting a meeting regarding “Epstein.” The email was sent on January 28, 2019.",
+      "timestamp": "2019-01-28T00:00:00",
+      "timestamp_raw": "January 28, 2019",
+      "keywords": [
+        "epstein",
+        "redaction",
+        "analysis",
+        "efta00029182",
+        "u.s. attorney's office",
+        "public corruption unit",
+        "york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027926",
+      "summary": "Geoffrey Berman (USANYS) sent an email on February 19, 2019, to [REDACTED] requesting detailed briefing memos regarding Epstein, to be delivered by Thursday morning from the Chief Public Corruption Unit of the United States Attorney's Office for the Southern District of New York. The email included a reference to file EFTA00027926.",
+      "timestamp": "2019-02-19T00:00:00",
+      "timestamp_raw": "February 19, 2019",
+      "keywords": [
+        "efta00027926",
+        "geoffrey berman",
+        "epstein",
+        "briefings",
+        "redaction",
+        "usanys",
+        "corruption",
+        "united states attorney",
+        "southern district of new york"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00023709",
+            "similarity": 0.5,
+            "index": 1,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00024830",
+            "similarity": 0.6,
+            "index": 73,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00024713",
+      "summary": "A communication regarding detailed briefing memos was sent on February 19, 2019, from the Chief Public Corruption Unit of the United States Attorney’s Office for the Southern District of New York to Geoffrey Berman and others. The memo requested teams provide the briefings by Thursday morning, covering information related to Epstein.",
+      "timestamp": "2019-02-19T00:00:00",
+      "timestamp_raw": "February 19, 2019",
+      "keywords": [
+        "redaction",
+        "briefings",
+        "usanys",
+        "epstein",
+        "new york",
+        "united states attorney",
+        "corruption unit"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027700",
+      "summary": "On March 1, 2019, an individual (aa) received a response to an inquiry about an Epstein investigation from the Public Corruption Unit of the U.S. Attorney’s Office for the Southern District of New York. The unit’s Deputy Chief introduced himself and offered a call for the following day or Monday. A previous email chain initiated on February 28, 2019, involved a request for a phone call around 1:30/2 p.m. regarding the investigation.",
+      "timestamp": "2019-03-01T00:00:00",
+      "timestamp_raw": "March 1, 2019",
+      "keywords": [
+        "epstein",
+        "redaction",
+        "usanys",
+        "southern district of new york",
+        "public corruption unit",
+        "ausas",
+        "phone call",
+        "meeting",
+        "2019",
+        "2025"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00027046",
+            "similarity": 0.667,
+            "index": 8,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00027046",
+      "summary": "On March 1, 2019, the Public Corruption Unit of the U.S. Attorney’s Office for the Southern District of New York contacted individuals regarding an investigation related to Jeffrey Epstein. One individual responded with availability for a call at 1:30 PM. Another individual, a Deputy Chief, initiated the contact, introducing the unit and inquiring about a call time the following day or Monday. The email chain includes redacted names and email addresses.",
+      "timestamp": "2019-03-01T00:00:00",
+      "timestamp_raw": "March 1, 2019",
+      "keywords": [
+        "epstein",
+        "redaction",
+        "u.s. attorney",
+        "southern district of new york",
+        "public corruption unit",
+        "ausas",
+        "phone call",
+        "2019",
+        "2025",
+        "efta00027046"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00027700",
+            "similarity": 0.667,
+            "index": 7,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00027228",
+            "similarity": 0.5,
+            "index": 36,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00009883",
+      "summary": "An email was sent from the Deputy Chief, Public Corruption Unit, U.S. Attorney's Office for the Southern District of New York to [REDACTED] and [REDACTED], with CC to [REDACTED], regarding a contact with the National Coordinator for Child Exploitation and Interdiction, in ODAG. The email refers to EFTA00009883.",
+      "timestamp": "2019-03-01T00:00:00",
+      "timestamp_raw": "01 Mar 2019",
+      "keywords": [
+        "epstein",
+        "redaction",
+        "efta00009883",
+        "u.s. attorney",
+        "child exploitation",
+        "odag",
+        "public corruption unit",
+        "southern district of new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00017960",
+            "similarity": 0.556,
+            "index": 14,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00027228",
+            "similarity": 0.625,
+            "index": 36,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00027045",
+      "summary": "An email dated March 1, 2019, from Epstein, Chief Public Corruption Unit of the United States Attorney's Office for the Southern District of New York, to an unknown recipient regarding an update concerning a division, labeled EFTA00027045.",
+      "timestamp": "2019-03-01T00:00:00",
+      "timestamp_raw": "March 1, 2019",
+      "keywords": [
+        "efta00027045",
+        "corruption",
+        "united states attorney",
+        "division",
+        "update",
+        "epstein"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020792",
+      "summary": "A communication thread exists between the Chief Public Corruption Unit of the United States Attorney’s Office for the Southern District of New York and an individual (identified as [REDACTED]) regarding a request to recall the name of a “Chief of Staff” for inclusion in an Epstein memo.",
+      "timestamp": "2019-03-12T00:00:00",
+      "timestamp_raw": "12 Mar 2019",
+      "keywords": [
+        "efta00020792",
+        "redaction analysis",
+        "usanys",
+        "chief of staff",
+        "epstein",
+        "corruption",
+        "united states attorney",
+        "southern district of new york"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00024830",
+            "similarity": 0.5,
+            "index": 73,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00013211",
+      "summary": "An email thread discusses identifying potential victim witnesses related to Jeffrey Epstein’s activities. The emails involve multiple individuals within the Chief Public Corruption Unit of the United States Attorney’s Office for the Southern District of New York.  Specifically, one individual (identified as [REDACTED]) references reviewing old Epstein 302s and grand jury testimony, identifying several individuals and another 3-5, as “potentially significant victim witnesses” due to their age and conduct. The thread explores scheduling a discussion about these individuals and whether to attempt to engage with those not yet contacted.",
+      "timestamp": "2019-04-16T00:00:00",
+      "timestamp_raw": "16 Apr 2019",
+      "keywords": [
+        "epstein victims",
+        "redaction analysis",
+        "efta00013211",
+        "united states attorney's office",
+        "grand jury testimony",
+        "victim witnesses",
+        "corruption"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013274",
+      "summary": "A communication from the Chief Public Corruption Unit of the United States Attorney’s Office for the Southern District of New York requests information on attempts to engage potential victim witnesses related to Jeffrey Epstein’s activities, specifically referencing names identified from reviews of Epstein’s 302s and grand jury testimony. The email asks about whether these names have been contacted and proposes whether further engagement should be pursued.",
+      "timestamp": "2019-04-16T00:00:00",
+      "timestamp_raw": "16 Apr 2019",
+      "keywords": [
+        "epstein",
+        "victims",
+        "redaction",
+        "witnesses",
+        "corruption",
+        "united states",
+        "attorney",
+        "grand jury",
+        "massages",
+        "engagement"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00017960",
+      "summary": "An email was sent from a U.S. Attorney’s Office for the Southern District of New York Co-Chief, Public Corruption Unit, to an unidentified recipient regarding “Epstein.” The email requests the recipient to “swing by when you have a second.”",
+      "timestamp": "2019-05-09T00:00:00",
+      "timestamp_raw": "09 May 2019",
+      "keywords": [
+        "epstein",
+        "redaction",
+        "efta00017960",
+        "u.s. attorney",
+        "public corruption unit",
+        "southern district of new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00009883",
+            "similarity": 0.556,
+            "index": 9,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00027228",
+            "similarity": 0.833,
+            "index": 36,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00032316",
+      "summary": "A communication is being sent from the Co-Chief, Public Corruption Unit of the U.S. Attorney’s Office for the Southern District of New York to “a” regarding a memo about Jeffrey Epstein. The sender requests the shortened memo be completed before a recipient, referred to as “she,” leaves around 2:00 PM.",
+      "timestamp": "2019-05-10T00:00:00",
+      "timestamp_raw": "10 May 2019",
+      "keywords": [
+        "epstein",
+        "efta00032316",
+        "memo",
+        "usanys",
+        "public corruption unit",
+        "shortened",
+        "2019",
+        "leaving"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031974",
+      "summary": "On May 10, 2019, Jeffrey Epstein sent a revised and shortened memo for ODAG (U.S. Attorney's Office for the Southern District of New York, Public Corruption Unit) to Audrey Strauss, Co-Chief, Public Corruption Unit. The memo was attached to an email sent from his iPhone.",
+      "timestamp": "2019-05-10T00:00:00",
+      "timestamp_raw": "May 10, 2019",
+      "keywords": [
+        "epstein memo",
+        "odag",
+        "strauss audrey",
+        "public corruption unit",
+        "u.s. attorney's office",
+        "memo",
+        "2019-05-10",
+        "revised",
+        "attachments"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029441",
+      "summary": "An email was sent from a U.S. Attorney’s Office for the Southern District of New York Co-Chief, Public Corruption Unit, to an unknown recipient regarding ODAG update memos. The sender notes a historical trend of these memos being related to “MC” matters, but the current memo concerns Jeffrey Epstein and requests the recipient’s preference for review before it is sent to Audrey.",
+      "timestamp": "2019-06-19T00:00:00",
+      "timestamp_raw": "19 Jun 2019",
+      "keywords": [
+        "efta00029441",
+        "odag",
+        "redaction",
+        "epstein",
+        "mc",
+        "u.s. attorney's office",
+        "public corruption unit",
+        "memos",
+        "review",
+        "audrey"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030506",
+      "summary": "An email exchange occurred between [REDACTED], [REDACTED], and [REDACTED] regarding ODAG update memos. One party requested to review the memos, particularly due to their connection to Epstein, while the other party initially intended to send them directly to Audrey. The subject of the memos was related to the Public Corruption Unit within the U.S. Attorney’s Office for the Southern District of New York.",
+      "timestamp": "2019-06-19T00:00:00",
+      "timestamp_raw": "19 Jun 2019",
+      "keywords": [
+        "efta00030506",
+        "odag",
+        "update memos",
+        "redaction",
+        "epstein",
+        "mc",
+        "public corruption unit",
+        "u.s. attorney's office",
+        "southern district of new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010577",
+      "summary": "An email chain discusses a document titled \"Epstein NPA Appendix.\" The Office of Professional Responsibility (OPR) at the U.S. Department of Justice is assisting with obtaining a copy of the appendix, which includes a list of victims entitled to compensation. The Chief Public Corruption Unit of the United States Attorney's Office for the Southern District of New York is requesting assistance in retrieving this non-public appendix (EFTA00010577 and EFTA00010578).",
+      "timestamp": "2019-06-27T00:00:00",
+      "timestamp_raw": "27 Jun 2019",
+      "keywords": [
+        "epstein",
+        "npa",
+        "redaction",
+        "opr",
+        "victims",
+        "compensation",
+        "justice",
+        "u.s. department of justice",
+        "southern district of new york",
+        "dodag"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014466",
+      "summary": "An email from the Public Corruption Unit of the United States Attorney's Office for the Southern District of New York to an unnamed recipient discusses a case involving Jeffrey Epstein. The email states that a list of victims obtained from the NPA does not include the principal New York victim, and that all listed victims appear to be from Florida.",
+      "timestamp": "2019-06-27T00:00:00",
+      "timestamp_raw": "27 Jun 2019",
+      "keywords": [
+        "epstein",
+        "victims",
+        "florida",
+        "npa",
+        "redaction",
+        "ny",
+        "public corruption",
+        "united states attorney's office",
+        "side-letter"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014460",
+      "summary": "The Office of Professional Responsibility (OPR) at the U.S. Department of Justice is assisting with a request for a non-public appendix related to the Epstein NPA. The Chief Public Corruption Unit is seeking this appendix, which contains a list of victims entitled to compensation, and inquired if ODAG had a copy or could retrieve it. The email thread indicates OPR will provide a copy separately.",
+      "timestamp": "2019-06-27T00:00:00",
+      "timestamp_raw": "27 Jun 2019",
+      "keywords": [
+        "epstein npa",
+        "opr",
+        "victims",
+        "compensation",
+        "justice",
+        "department of justice",
+        "redaction analysis",
+        "emi",
+        "odag",
+        "u.s. attorney"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021300",
+      "summary": "On July 6, 2019, multiple individuals were communicating regarding the Daily Beast’s reporting on the Jeffrey Epstein arrest and indictment. The FBI was leaking details of the sealed indictment, specifically the content of the arrest and indictment shared by two officials. The case was being handled by the Public Corruption Unit of the Southern District of New York, with assistance from the FBI and human-trafficking officials.  Several individuals, including Kaplan Hecker, were contacted in relation to the case.",
+      "timestamp": "2019-07-06T00:00:00",
+      "timestamp_raw": "July 6, 2019",
+      "keywords": [
+        "fbi",
+        "daily beast",
+        "epstein",
+        "sex trafficking",
+        "indictment",
+        "redaction",
+        "southern district of new york",
+        "kaplan hecker",
+        "public corruption unit",
+        "arrest"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00021281",
+            "similarity": 0.538,
+            "index": 24,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00021279",
+            "similarity": 0.538,
+            "index": 25,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00021277",
+      "summary": "On July 6, 2019, multiple news outlets, including the New York Times and Miami Herald, reported the arrest of Jeffrey Epstein on charges related to sex trafficking of minors. The case is being handled by the Public Corruption Unit of the Southern District of New York, with assistance from human-trafficking officials and the FBI. The FBI is leaking the details of the sealed indictment.",
+      "timestamp": "2019-07-06T00:00:00",
+      "timestamp_raw": "July 6, 2019",
+      "keywords": [
+        "efta00021277",
+        "jeffrey epstein",
+        "sex trafficking",
+        "arrest",
+        "indictment",
+        "southern district of new york",
+        "fbi",
+        "new york times",
+        "miami herald",
+        "daily beast"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021281",
+      "summary": "On July 6, 2019, individuals were discussing the FBI’s involvement in a case related to Jeffrey Epstein’s arrest for sex trafficking of minors. The FBI was leaking details of a sealed indictment, which was being handled by the Public Corruption Unit of the Southern District of New York, alongside human-trafficking officials. Kaplan Hecker had already been contacted by the FBI, and efforts were underway to contact her as well. The Daily Beast was reporting on the leaked indictment and Epstein's arrest. EFTA00021281 and EFTA00021282 were referenced.",
+      "timestamp": "2019-07-06T00:00:00",
+      "timestamp_raw": "July 6, 2019",
+      "keywords": [
+        "fbi",
+        "daily beast",
+        "epstein",
+        "sex trafficking",
+        "indictment",
+        "southern district of new york",
+        "kaplan hecker",
+        "redaction analysis",
+        "efta00021281",
+        "efta00021282"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00021300",
+            "similarity": 0.538,
+            "index": 22,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00021279",
+            "similarity": 0.538,
+            "index": 25,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00021279",
+      "summary": "The FBI contacted Kaplan Hecker and others, including two other victims and their attorneys, regarding a Daily Beast article about Jeffrey Epstein’s arrest. The Public Corruption Unit of the Southern District of New York, along with human-trafficking officials and the FBI, is handling the case involving the leaked press release, sealed indictment, and details of the arrest shared by two officials.  The Daily Beast article referenced the indictment.",
+      "timestamp": "2019-07-07T00:00:00",
+      "timestamp_raw": "07 Jul 2019",
+      "keywords": [
+        "fbi",
+        "epstein",
+        "sex trafficking",
+        "daily beast",
+        "indictment",
+        "public corruption unit",
+        "new york",
+        "kaplan hecker",
+        "redaction analysis",
+        "efta00021279"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00021281",
+            "similarity": 0.538,
+            "index": 24,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00021300",
+            "similarity": 0.538,
+            "index": 22,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028322",
+      "summary": "Jeffrey Epstein is obtaining subpoenas for several individuals, including Ghislaine Maxwell (his known client and one of his pilots), Miami household staff, a recruiter, and another pilot. Subpoenas have also been issued to individuals with knowledge of offenses, though many victims have not been subpoenaed to date. The subpoenas are being handled by the Chief Public Corruption Unit of the United States Attorney's Office for the Southern District of New York.",
+      "timestamp": "2019-07-10T00:00:00",
+      "timestamp_raw": "10 Jul 2019",
+      "keywords": [
+        "epstein",
+        "subpoenas",
+        "ghislaine maxwell",
+        "victims",
+        "pilot",
+        "miami",
+        "recruiter",
+        "offenses",
+        "corruption",
+        "united states attorney"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015531",
+      "summary": "An email was sent from the Co-Chief, Public Corruption Unit of the U.S. Attorney’s Office for the Southern District of New York to [REDACTED] and [REDACTED], with CC’d to [REDACTED]. The email discusses a response to a government opposition to a bail motion, including an attached PDF named “2019-07-12,_JE,_govemment_opposition_to_bail_motioniwith_exhibits.pdf”.",
+      "timestamp": "2019-07-12T00:00:00",
+      "timestamp_raw": "2019-07-12",
+      "keywords": [
+        "efta00015531",
+        "redaction analysis",
+        "pstem",
+        "government opposition",
+        "bail motion",
+        "u.s. attorney's office",
+        "southern district of new york",
+        "response",
+        "exhibits"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018185",
+      "summary": "This email, dated July 12, 2019, originates from the Co-Chief of the Public Corruption Unit of the U.S. Attorney’s Office for EFTA00018185 and is addressed to an unidentified recipient. It concerns a draft request for the release of Jo Bail, attached as “2019-07-12 JE_responsejo_bail_release_request_draft_5_-_CLEAN.docx.”",
+      "timestamp": "2019-07-12T00:00:00",
+      "timestamp_raw": "July 12, 2019",
+      "keywords": [
+        "efta00018185",
+        "redaction analysis",
+        "efta",
+        "u.s. attorney's office",
+        "2019-07-12",
+        "release request",
+        "corruption unit"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014479",
+      "summary": "An email was sent from the Chief Public Corruption Unit of the United States Attorney’s Office for the Southern District of New York to Stewart, Crai A. regarding an “Epstein filing.” The email included a defense letter (2019.07.16 Defense Letter.pdf) and was sent on July 16, 2019. Several recipients are redacted.",
+      "timestamp": "2019-07-16T00:00:00",
+      "timestamp_raw": "July 16, 2019",
+      "keywords": [
+        "epstein",
+        "usanys",
+        "redaction",
+        "stewart",
+        "crai a.",
+        "defense letter",
+        "southern district of new york",
+        "united states attorney's office",
+        "corruption unit",
+        "2019.07.16"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018383",
+      "summary": "A communication, dated July 18, 2019, from the U.S. Attorney’s Office for the Southern District of New York’s Public Corruption Unit (specifically a Co-Chief) requests a meeting with individuals at USANYS to discuss Epstein’s finances. The communication includes multiple redacted names and contact information.",
+      "timestamp": "2019-07-18T00:00:00",
+      "timestamp_raw": "July 18, 2019",
+      "keywords": [
+        "epstein finances",
+        "usanys",
+        "redaction analysis",
+        "public corruption unit",
+        "southern district of new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00026572",
+            "similarity": 0.571,
+            "index": 47,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00022540",
+      "summary": "Emails exchanged between individuals regarding contact with the Palm Beach Sheriff’s Office in relation to an investigation, specifically concerning Jeffrey Epstein’s time serving a sentence. Communication occurred with the Palm Beach Police Department and the U.S. Attorney’s Office for the Southern District of New York. Updates were provided regarding contact attempts, a device analysis, and a planned interview. Redactions were present in the document.",
+      "timestamp": "2019-07-26T00:00:00",
+      "timestamp_raw": "26 Jul 2019",
+      "keywords": [
+        "palm beach sherriff's office",
+        "epstein",
+        "redaction",
+        "investigation",
+        "usanys",
+        "contact",
+        "interview",
+        "florida",
+        "cart",
+        "public corruption unit"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00022545",
+      "summary": "An email exchange regarding proposed divisions including TD, RC, and Epstein, and the Chief, Public Corruption Unit of the United States Attorney’s Office for the Southern District of New York (1 St. Andrew's Plow, EFTA00022545) occurred on July 30, 2019. A response “Fine by me” was received.",
+      "timestamp": "2019-07-30T00:00:00",
+      "timestamp_raw": "July 30, 2019",
+      "keywords": [
+        "efta00022545",
+        "redaction",
+        "td",
+        "rc",
+        "epstein",
+        "united states attorney",
+        "public corruption unit",
+        "southern district of new york",
+        "updates",
+        "division"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00022348",
+      "summary": "On August 2, 2019, an individual contacted a U.S. Attorney’s Office representative regarding the Epstein issue. The representative confirmed that no contact had been made from the U.S. Attorney’s Office to a Palm Beach County Sheriff’s Office Violent Crimes Division Homicide contact. On July 26, 2019, the same representative requested contact information for the PBSO point of contact to pass along to relevant parties.",
+      "timestamp": "2019-08-02T00:00:00",
+      "timestamp_raw": "August 2, 2019",
+      "keywords": [
+        "efta00022348",
+        "pbso",
+        "epstein",
+        "redaction analysis",
+        "palm beach county sheriffs office",
+        "violent crimes",
+        "homicide",
+        "u.s. attorney's office",
+        "public corruption unit",
+        "southern district of new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00022324",
+      "summary": "An email was sent on August 5, 2019, from an unidentified sender to an unidentified recipient. The email stated that the sender had “just walked out” and that the Epstein team was available if the recipient was still present. The email was sent from an iPhone and referenced case file EFTA00022324.",
+      "timestamp": "2019-08-05T00:00:00",
+      "timestamp_raw": "August 5, 2019",
+      "keywords": [
+        "efta00022324",
+        "redaction",
+        "epstein",
+        "u.s. attorney",
+        "public corruption unit",
+        "august 5",
+        "2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00027228",
+            "similarity": 0.5,
+            "index": 36,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00036390",
+      "summary": "On August 14, 2019, the Metropolitan Correctional Center, New York, announced a tour for representatives from the Department of Justice and the SDNY USA0 on August 15, 2019, at 10:00 a.m. Attendees included the Principal Deputy Attorney General, Advisor at AG’s office, Geoffrey Berman, several Deputy US Attorneys, Chief of the Criminal Division, SDNY, Counsel to the US Attorney, Chief of the Public Corruption Unit, SDNY, and multiple AUSAs. The Supervisory Attorney requested notification of attendees’ arrival.",
+      "timestamp": "2019-08-14T00:00:00",
+      "timestamp_raw": "August 14, 2019",
+      "keywords": [
+        "united states government",
+        "memorandum",
+        "metropolitan correctional center",
+        "new york",
+        "department of justice",
+        "sdny",
+        "tour",
+        "august 15",
+        "2019",
+        "geoffrey berman",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027228",
+      "summary": "An email was sent from the Co-Chief, Public Corruption Unit of the U.S. Attorney's Office for the Southern District of New York to an individual, requesting a call regarding “Epstein.” The email was sent on August 20, 2019.",
+      "timestamp": "2019-08-20T00:00:00",
+      "timestamp_raw": "August 20, 2019",
+      "keywords": [
+        "epstein",
+        "redaction",
+        "u.s. attorney",
+        "public corruption unit",
+        "southern district of new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00022324",
+            "similarity": 0.5,
+            "index": 34,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00017960",
+            "similarity": 0.833,
+            "index": 14,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00009883",
+            "similarity": 0.625,
+            "index": 9,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00011024",
+      "summary": "Audrey Strauss (USANYS) docketed letters exchanged between Bruce Green and Judge Berman, dated September 4, 2019. The letters are attached to the email.",
+      "timestamp": "2019-09-04T00:00:00",
+      "timestamp_raw": "September 4, 2019",
+      "keywords": [
+        "efta00011024",
+        "bruce green",
+        "judge berman",
+        "redaction analysis",
+        "letters",
+        "usanys",
+        "public corruption unit",
+        "southern district of new york",
+        "2019",
+        "september 4"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018226",
+      "summary": "An email was sent from the FBI ([REDACTED]) to Ted ([REDACTED]) requesting a status call regarding Jeffrey Epstein. The email was sent on December 5, 2019, and included a follow-up email from the U.S. Attorney's Office for the Southern District of New York’s Public Corruption Unit on November 25, 2019.",
+      "timestamp": "2019-12-05T00:00:00",
+      "timestamp_raw": "December 5, 2019",
+      "keywords": [
+        "epstein",
+        "fbi",
+        "redacted",
+        "status call",
+        "usanys",
+        "southern district of new york",
+        "u.s. attorney's office",
+        "2019",
+        "2025",
+        "time to chat"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00017939",
+      "summary": "Stephen Boyd received an indictment charging two correctional officers at Metropolitan Correctional Center (MCC) with failures related to Jeffrey Epstein’s suicide. The indictment was filed with the court and is now a public document. The sender, [REDACTED], provided the document to Boyd for potential use in further assistance.",
+      "timestamp": "2019-12-19T00:00:00",
+      "timestamp_raw": "19 Nov 2019",
+      "keywords": [
+        "efta00017939",
+        "mcc indictment",
+        "jeffrey epstein",
+        "suicide",
+        "correctional officers",
+        "usanys",
+        "public corruption unit",
+        "stephen e. boyd",
+        "strauss",
+        "audrey"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029283",
+      "summary": "Mark Steward, Executive Director at the FCA, is requesting information about the investigation into Jeffrey Epstein, specifically regarding JP Morgan and ongoing work related to Epstein’s network. He’s asking if anyone in his office is handling the investigation and who specifically. The email chain includes recipients within the FCA, including Kate Tuckley, Kelly Eldred, and Harry Caldecott, and references the FCA’s public corruption unit and oversight of the Epstein case. It also contains several images and includes standard FCA legal disclaimers regarding confidentiality and data protection.",
+      "timestamp": "2019-12-28T00:00:00",
+      "timestamp_raw": "28 Nov 2019",
+      "keywords": [
+        "fca",
+        "mark steward",
+        "jeffrey epstein",
+        "jp morgan",
+        "redaction",
+        "investigation",
+        "corruption unit",
+        "uk",
+        "london",
+        "email"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018100",
+      "summary": "A U.S. Attorney from the Southern District of New York (“USANYS”) is requesting filings related to Jeffrey Epstein’s bail proceedings. He wants to provide these filings to Civ Div and is inquiring about any filings that were done under seal.",
+      "timestamp": "2020-01-17T00:00:00",
+      "timestamp_raw": "17 Jan 2020",
+      "keywords": [
+        "epstein",
+        "redaction",
+        "filings",
+        "bail",
+        "civ div",
+        "usanys",
+        "public corruption unit",
+        "southern district of new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00017751",
+      "summary": "An email exchange occurred between individuals associated with the U.S. Attorney’s Office for the Southern District of New York regarding an attachment named “2019.12.19_Epstein_6(e)_App_&_Ordendocx”. One individual, identified as the Co-Chief, Public Corruption Unit, indicated they would “come by in a second”.",
+      "timestamp": "2020-01-29T00:00:00",
+      "timestamp_raw": "29 Jan 2020",
+      "keywords": [
+        "epstein",
+        "usanys",
+        "redaction",
+        "corruption",
+        "u.s. attorney's office",
+        "2020",
+        "2019",
+        "app",
+        "docx",
+        "southern district of new york"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030803",
+      "summary": "An email was sent from the Co-Chief, Public Corruption Unit of the U.S. Attorney’s Office for the Southern District of New York to “a” on April 7, 2020, at 18:06:34 +0000. The email included an attachment named “_with_attachments.pdf” and was related to case EFTA00030803.",
+      "timestamp": "2020-04-07T00:00:00",
+      "timestamp_raw": "April 7, 2020",
+      "keywords": [
+        "efta00030803",
+        "redaction analysis",
+        "usanys",
+        "corruption",
+        "u.s. attorney's office",
+        "southern district of new york",
+        "2020",
+        "public corruption unit"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025554",
+      "summary": "An email exchange occurred between individuals associated with the U.S. Attorney’s Office for the Southern District of New York and Civ Dlv regarding a call involving Jeffrey Epstein. One party expressed a desire to join the call and inquired about waiting. The email contained redactions.",
+      "timestamp": "2020-06-01T00:00:00",
+      "timestamp_raw": "01 Jun 2020",
+      "keywords": [
+        "efta00025554",
+        "usanys",
+        "redaction",
+        "epstein",
+        "civ dlv",
+        "public corruption unit",
+        "u.s. attorney's office",
+        "southern district of new york",
+        "call",
+        "june 2020"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00019100",
+            "similarity": 0.583,
+            "index": 45,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00019100",
+      "summary": "An email was sent from the Co-Chief, Public Corruption Unit of the U.S. Attorney's Office for the Southern District of New York to an individual identified as “USANYS” on June 1, 2020, inquiring about participation in a call involving “Civ Dlv” and Jeffrey Epstein. The email included the subject line “You gonna join the Epstein call with Civ Dlv? No pressure, just let me know if we should wait”.",
+      "timestamp": "2020-06-01T00:00:00",
+      "timestamp_raw": "June 1, 2020",
+      "keywords": [
+        "efta00019100",
+        "usanys",
+        "epstein",
+        "civ dlv",
+        "public corruption",
+        "redaction",
+        "u.s. attorney's office",
+        "southern district of new york",
+        "june 2020"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00025554",
+            "similarity": 0.583,
+            "index": 44,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019235",
+      "summary": "On July 20, 2020, emails were exchanged regarding a “Brass Meeting.” One individual requested a prosecution memo and updates on team submissions. Others confirmed availability for meeting times (Monday 11-2:30, Tuesday 1-2:30, Thursday 11-2) and inquired about the meeting’s purpose. The emails involved multiple individuals within the U.S. Attorney’s Office, Southern District of New York, specifically the Deputy Chief, Public Corruption Unit.",
+      "timestamp": "2020-07-20T00:00:00",
+      "timestamp_raw": "July 20, 2020",
+      "keywords": [
+        "efta00019235",
+        "brass meeting",
+        "prosecution memo",
+        "redaction",
+        "meeting",
+        "u.s. attorney",
+        "public corruption unit",
+        "southern district of new york",
+        "july 2020",
+        "email"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026572",
+      "summary": "A communication, dated October 2, 2020, was sent from the Chief, Public Corruption Unit, U.S. Attorney's Office for the Southern District of New York, to multiple recipients regarding PC updates. An attached document, “PC_Unitr_Short_Form_Update.10.2.20.docx”, was included.",
+      "timestamp": "2020-10-02T00:00:00",
+      "timestamp_raw": "October 2, 2020",
+      "keywords": [
+        "efta00026572",
+        "redaction analysis",
+        "pc updates",
+        "usanys",
+        "public corruption unit",
+        "southern district of new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00018383",
+            "similarity": 0.571,
+            "index": 30,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026828",
+      "summary": "A letter, dated October 7, 2020, was sent from the U.S. Attorney’s Office, Southern District of New York (Deputy Chief, Public Corruption Unit) to counsel regarding discovery conditions related to a case involving Maxwell. A follow-up call was scheduled to discuss the matter.",
+      "timestamp": "2020-10-07T00:00:00",
+      "timestamp_raw": "October 7, 2020",
+      "keywords": [
+        "efta00026828",
+        "maxwell letter",
+        "usanys",
+        "redaction analysis",
+        "discovery",
+        "mdc",
+        "gm counsel",
+        "u.s. attorney's office",
+        "southern district of new york",
+        "2020-10-07"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027424",
+      "summary": "On November 6, 2020, the Public Corruption Unit reported on the case of US v. Ghislaine Maxwell. Ghislaine Maxwell was indicted on six counts related to facilitating Jeffrey Epstein’s abuse of minor girls, arrested in New Hampshire, and detained. Discovery production occurred on August 21, 2020, with a second production of electronic materials planned. The team is collaborating with various agencies, including the USAO-SDFL and OPR, to obtain and review relevant materials. Discussions with Maxwell’s counsel regarding a felony disposition are underway. An interview with Prince Andrew is being pursued through an MLAT after his counsel declined a voluntary interview. Maxwell anticipates a renewed bail application and the team intends to oppose it.",
+      "timestamp": "2020-11-06T00:00:00",
+      "timestamp_raw": "November 6, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "corruption",
+        "indictment",
+        "bail",
+        "prince andrew",
+        "usao",
+        "discovery",
+        "electronic materials",
+        "mlat",
+        "public corruption unit"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024817",
+      "summary": "This document is a monthly update from the Deputy Chief of the Public Corruption Unit, U.S. Attorney’s Office, Southern District of New York, regarding case EFTA00024817. The update is attached as a Word document named “PC_Unitr_Short_Form_Update.11.6.20.docx”.",
+      "timestamp": "2020-12-06T00:00:00",
+      "timestamp_raw": "06 Nov 2020",
+      "keywords": [
+        "efta00024817",
+        "pcu",
+        "monthly update",
+        "usanys",
+        "public corruption unit",
+        "redaction",
+        "southern district of new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00018836",
+            "similarity": 0.545,
+            "index": 54,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00013269",
+      "summary": "An email was sent from the Chief, Public Corruption Unit of the U.S. Attorney’s Office for the Southern District of N to [REDACTED] and [REDACTED], with CC to [REDACTED]. The email, titled “PCU Updates,” included an attachment named “PC_Unitr_Short_Form_Update.1.8.21_(002).docx.” The email relates to EFTA00013269.",
+      "timestamp": "2021-01-08T00:00:00",
+      "timestamp_raw": "08 Jan 2021",
+      "keywords": [
+        "efta00013269",
+        "redaction analysis",
+        "pcu",
+        "public corruption unit",
+        "u.s. attorney's office",
+        "southern district",
+        "update",
+        "short-form update",
+        "2021",
+        "2025"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024989",
+      "summary": "On January 13, 2021, the Chief from the U.S. Attorney’s Office for the Southern District of New York requested assistance in scheduling a meeting with “and the Brass” regarding a topic (“?”).  Potential times were discussed including tomorrow at 1 PM and Friday at 3 PM, as well as next Tuesday at 3:30 PM. Monday was ruled out due to MLK Day. All sender and recipient names have been redacted.",
+      "timestamp": "2021-01-13T00:00:00",
+      "timestamp_raw": "January 13, 2021",
+      "keywords": [
+        "efta00024989",
+        "redaction",
+        "time",
+        "availability",
+        "chief",
+        "public corruption unit",
+        "u.s. attorney's office",
+        "southern district of new york",
+        "brass",
+        "chat"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024990",
+      "summary": "Emails discuss scheduling a meeting with “chiefs” and “Brass” to discuss a topic related to the Public Corruption Unit. Proposed meeting times include tomorrow at 1 PM, Friday at 3:30 PM, and next Tuesday at 3:30 PM. A conflict arose on Friday at 3:00 PM, necessitating a shift to 3:30 PM.",
+      "timestamp": "2021-01-14T00:00:00",
+      "timestamp_raw": "14 Jan 2021",
+      "keywords": [
+        "efta00024990",
+        "conflict",
+        "time",
+        "availability",
+        "chat",
+        "chief",
+        "public corruption unit",
+        "friday",
+        "tuesday",
+        "mlk day"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018836",
+      "summary": "This document is a PCU Monthly Update sent from the Deputy Chief of the Public Corruption Unit, U.S. Attorney's Office, Southern District of New York, to [REDACTED] and [REDACTED], with CCs to [REDACTED]. The update is attached as PC_Unitr_Short_Form_Update.3.5.21.rd.docx. The email is dated March 5, 2021.",
+      "timestamp": "2021-03-05T00:00:00",
+      "timestamp_raw": "March 5, 2021",
+      "keywords": [
+        "efta00018836",
+        "pcu",
+        "redaction",
+        "usanys",
+        "public corruption unit",
+        "u.s. attorney's office",
+        "southern district of new york",
+        "monthly update",
+        "2021",
+        "update"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00024817",
+            "similarity": 0.545,
+            "index": 50,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024030",
+      "summary": "An email chain discusses a review of a 30,000-document SDFL Epstein file scanned by a vendor in October. The goal is to determine what documents have been produced to meet pretrial disclosure deadlines. A team of paralegals and an intern are conducting the review, with requests for additional support from Darcy. The deadline for completion is the end of April.",
+      "timestamp": "2021-03-17T00:00:00",
+      "timestamp_raw": "17 Mar 2021",
+      "keywords": [
+        "efta00024030",
+        "maxwell review",
+        "sdfl epstein file",
+        "relativity",
+        "vendor",
+        "paralegals",
+        "disclosure deadlines",
+        "usanys",
+        "public corruption unit",
+        "pretrial"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018995",
+      "summary": "An email chain discusses the location of documents related to the Jeffrey Epstein investigation held by the West Palm Beach Regional Office of the U.S. Attorney’s Office, SDFL. A managing assistant provides information about secured boxes containing case files and materials gathered for an OPR inquiry.  A scanner was used by OPR to scan documents for their DOJ accounts. The Chief of the Public Corruption Unit requests access to review and scan these documents for their own case regarding Ghislaine Maxwell's prosecution.",
+      "timestamp": "2021-03-17T00:00:00",
+      "timestamp_raw": "17 Mar 2021",
+      "keywords": [
+        "epstein",
+        "documents",
+        "west palm beach",
+        "opr",
+        "doj",
+        "scanner",
+        "inventory",
+        "ghislaine maxwell",
+        "sdfl",
+        "usanys"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019491",
+      "summary": "A U.S. Attorney’s Office for the Southern District of New York (Chief, Public Corruption Unit) is requesting approval for a friendly subpoena to be issued to counsel for Minor Victim-4, a victim of Jeffrey Epstein’s abuse. The subpoena is intended to obtain non-privileged materials related to the victim’s 2008 settlement with Epstein, primarily for trial preparation and potential use as a Giglio witness. The team intends to send an email for approval.",
+      "timestamp": "2021-03-26T00:00:00",
+      "timestamp_raw": "26 Mar 2021",
+      "keywords": [
+        "subpoena",
+        "maxwell team",
+        "epstein",
+        "settlement",
+        "2008",
+        "giglio",
+        "witness",
+        "trial",
+        "victim",
+        "corruption"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027174",
+      "summary": "Maxwell filed a substantive trial adjournment letter at 12:00 PM on April 22, 2021. A response is due at 5:00 PM. The sender wants to discuss the trial team’s availability with a recipient, and attached documents related to the request for adjournment and a government letter. Several individuals confirmed receipt and awareness of the situation.",
+      "timestamp": "2021-04-22T00:00:00",
+      "timestamp_raw": "April 22, 2021",
+      "keywords": [
+        "maxwell",
+        "redacted",
+        "letter",
+        "adjournment",
+        "trial",
+        "response",
+        "availability",
+        "u.s. attorney's office",
+        "public corruption unit",
+        "2021"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030985",
+      "summary": "This email, dated May 7, 2021, from the Chief, Public Corruption Unit of the U.S. Attorney's Office for the York district, is sent to [REDACTED] and [REDACTED] with a copy to [REDACTED]. The email includes an attached document titled \"PC_Unitr_Short_Form_Update.5.7.21.docx\" providing monthly updates from the PCU.",
+      "timestamp": "2021-05-07T00:00:00",
+      "timestamp_raw": "May 7, 2021",
+      "keywords": [
+        "efta00030985",
+        "pcu",
+        "redaction analysis",
+        "public corruption unit",
+        "u.s. attorney's office",
+        "york",
+        "monthly updates"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029702",
+      "summary": "On June 23, 2021, an individual (USANYS) requested information related to a FOIA disclosure concerning Noel and Thomas. A 5:45 PM call was scheduled with The Times. Another individual (USANYS) suggested a 1-2 week extension for the disclosure to allow for internal review of recently completed interviews related to deferred prosecution agreements. The Chief, Public Corruption Unit, U.S. Attorney’s Office, Southern District of New York, was involved in the discussion.",
+      "timestamp": "2021-06-23T00:00:00",
+      "timestamp_raw": "June 23, 2021",
+      "keywords": [
+        "foia",
+        "disclosure",
+        "times",
+        "extension",
+        "pae",
+        "noel",
+        "thomas",
+        "deferred prosecution agreements",
+        "interviews",
+        "usanys"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00022014",
+            "similarity": 0.538,
+            "index": 61,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00022014",
+      "summary": "On June 23, 2021, discussions occurred regarding a Freedom of Information Act (FOIA) request related to Noel and Thomas. A one-week extension was initially requested from The Times. A draft extension request letter was circulated for review. A phone call was scheduled with The Times to discuss the request and clarify information to be shared. The request was prompted by recently completed interviews and a need to confirm compliance with deferred prosecution agreements. A Chief from the Public Corruption Unit within the U.S. Attorney’s Office Southern District of New York was involved in the coordination.",
+      "timestamp": "2021-06-23T00:00:00",
+      "timestamp_raw": "June 23, 2021",
+      "keywords": [
+        "foia",
+        "disclosure",
+        "times",
+        "extension",
+        "court",
+        "pae",
+        "interviews",
+        "prosecution",
+        "usanys",
+        "redaction"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00029702",
+            "similarity": 0.538,
+            "index": 60,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029617",
+      "summary": "An email exchange occurred between Stacey Richman of Richman Hill & Associates PLLC and an individual identified as “Chief, Public Corruption Unit” from the U.S. Attorney’s Office, Southern District of New York, regarding a call about Mark Epstein. The Chief initiated the contact seeking information related to Epstein’s demise. Stacey Richman responded, confirming availability for a call the following day at 11:30 AM, noting a prior court appearance. Redactions obscure the sender's identity and details of the call.",
+      "timestamp": "2021-07-02T00:00:00",
+      "timestamp_raw": "02 Jul 2021",
+      "keywords": [
+        "stacey richman",
+        "mark epstein",
+        "usanys",
+        "redaction",
+        "bronx",
+        "law offices",
+        "call",
+        "court appearance",
+        "public corruption unit",
+        "efta00029617"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00011529",
+      "summary": "A communication from [REDACTED] to [REDACTED] regarding an update, attached with the “Public_Corruption_Unit_August_2021.docx” document, originating from the Southern District of New York and identified as EFTA00011529.",
+      "timestamp": "2021-09-09T00:00:00",
+      "timestamp_raw": "09 Sep 2021",
+      "keywords": [
+        "efta00011529",
+        "redaction analysis",
+        "usanys",
+        "southern district of new york",
+        "public corruption unit",
+        "august 2021",
+        "update",
+        "corruption"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00011530",
+      "summary": "An email was sent on September 10, 2021, updating a recipient on the Public Corruption Unit’s activities. The update included a new template for monthly reports, which now incorporates a section for specially allocated FTE (Full-Time Equivalent) reporting for the previous two months.  The email requests resubmission of previous reports using the updated template.",
+      "timestamp": "2021-09-10T00:00:00",
+      "timestamp_raw": "September 10, 2021",
+      "keywords": [
+        "efta00011530",
+        "redaction analysis",
+        "unit update reports",
+        "fte",
+        "template",
+        "usanys",
+        "southern district of new york",
+        "public corruption unit",
+        "september 2021",
+        "report"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035812",
+      "summary": "The Department of Justice Office of the Inspector General investigated allegations of false certifications and statements made by BOP employees – Lieutenant Roberto and Senior Officer Material Handler Supervisor Tova Noel – regarding the OIG’s investigation into Jeffrey Epstein’s death at the Metropolitan Correctional Center, New York. The USAO SDNY, after consulting with its Public Corruption Unit supervisor, determined not to prosecute either employee.",
+      "timestamp": "2021-09-20T00:00:00",
+      "timestamp_raw": "September 20, 2021",
+      "keywords": [
+        "efta00035812",
+        "redaction analysis",
+        "justice department",
+        "inspector general",
+        "bureau of prisons",
+        "jeffrey epstein",
+        "prosecution",
+        "false certifications",
+        "new york",
+        "southern district of new york"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018777",
+      "summary": "This document is an email outlining cross-riffs for October 1, 2021, sent from the Deputy Chief of the Public Corruption Unit, Southern District of New York, to an individual identified as \").\" .<. The email includes contact information for the sender and the case file number EFTA00018777.",
+      "timestamp": "2021-10-01T00:00:00",
+      "timestamp_raw": "October 1, 2021",
+      "keywords": [
+        "efta00018777",
+        "redaction analysis",
+        "cross riffs",
+        "usanys",
+        "public corruption unit",
+        "southern district of new york",
+        "october 2021",
+        "email",
+        "attachments",
+        "deputy chief"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029539",
+      "summary": "A draft document titled “Public Corruption Unit – November 2021” was sent from the Deputy Chief of the Public Corruption Unit, Southern District of New York, to an unidentified recipient. The document includes redactions and is due on November 5, 2021.  The sender’s contact information is provided. The document’s file identifier is EFTA00029539.",
+      "timestamp": "2021-11-05T00:00:00",
+      "timestamp_raw": "November 5, 2021",
+      "keywords": [
+        "efta00029539",
+        "redaction analysis",
+        "usanys",
+        "public corruption unit",
+        "november 2021",
+        "southern district of new york",
+        "draft",
+        "suggestions",
+        "additions",
+        "update"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028207",
+      "summary": "An email chain discusses a draft document titled \"Bail Oppo Draft\" (likely a government opposition motion for bail).  Multiple individuals, including a Deputy Chief from the Public Corruption Unit of the Southern District of New York, exchanged edits and reminders regarding its completion by Monday.  A folder location for the document is specified as \\\\Usa.doi.gov\\clouthmiS\\stAndrews\\shared\\uSvEpstein-201.8R03.61.8‘Sail\\GM‘2023.-13.-08.",
+      "timestamp": "2021-12-06T00:00:00",
+      "timestamp_raw": "06 Nov 2021",
+      "keywords": [
+        "bail oppo",
+        "draft",
+        "redaction",
+        "usanys",
+        "motion for bail",
+        "government opposition",
+        "public corruption",
+        "southern district of new york",
+        "email",
+        "docx"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023353",
+      "summary": "An email chain concerning “GX-52G” is being shared between individuals within the Southern District of New York’s Public Corruption Unit. Attachments include documents related to a motion to exclude a government exhibit, a Maxwell reply to ISO motions in limine, and materials from a 2009 obstruction case. One individual requests a copy of the email chain.",
+      "timestamp": "2021-12-12T00:00:00",
+      "timestamp_raw": "12 Nov 2021",
+      "keywords": [
+        "efta00023353",
+        "gx-52g",
+        "redaction",
+        "motion to exclude",
+        "government exhibit",
+        "maxwell",
+        "obstruction case",
+        "302s",
+        "defense motions",
+        "southern district of new york"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026622",
+      "summary": "The Public Corruption Unit, comprised of 20 AUSAs, prosecuted a wide range of corruption cases in 2019. Locally, they charged NYPD officers with theft and fraud, a Brooklyn Supreme Court Justice with obstructing a federal investigation, and correctional officers with abuse of power and falsifying records related to inmate deaths. Nationally, the unit pursued campaign finance violations involving Lev Parnas and Igor Fruman, prosecuted a fraudulent PAC operator, and brought extortion charges against Michael Avenatti related to Nike and Stephanie Clifford (“Stormy Daniels”). Additionally, they pursued sex trafficking charges against Jeffrey Epstein, and investigated corruption within college basketball, including bribery charges against defendants attempting to pay university coaches.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "public corruption unit",
+        "campaign finance",
+        "extortion",
+        "fraud",
+        "correctional officers",
+        "jeffrey epstein",
+        "michael avenatti",
+        "new york city",
+        "federal investigation",
+        "bribery"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025171",
+      "summary": "The Public Corruption Unit within the AUSAs handled numerous cases involving abuse of power by local and national officials. These cases included: *   **Traditional Corruption:** Excessive force involving a mentally disturbed homeless victim, bribery involving NYPD officers accepting gun licenses, and obstructing a federal investigation. *   **High-Profile Cases:** Charges against Lev Parnas and Igor Fruman (campaign finance), Michael Avenatti (extortion and fraud), Jeffrey Epstein (sex trafficking), Stephen Calk (bank bribery), and Natalie Mayflower Sours Edwards (leak of suspicious activity reports). *   **Financial Fraud:** Cases involving fraudulent PACs, wire fraud schemes targeting political donations, and restitution/forfeiture orders. *   **2019 Cases:** Extortion charges against Michael Avenatti (Nike), charges against Jeffrey Epstein (sex trafficking), and prosecutions related to college basketball bribery.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "corruption",
+        "public corruption unit",
+        "law enforcement",
+        "federal correctional officers",
+        "campaign finance",
+        "michael avenatti",
+        "jeffrey epstein",
+        "extortion",
+        "fraud",
+        "wire fraud"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027423",
+      "summary": "This document is a short form update regarding case EFTA00027423, prepared by the Deputy Chief of the Public Corruption Unit, U.S. Attorney’s Office, Southern District of New York. It includes an attached document named PC_Unitr_Short_Form_Update.12.4.20.docx.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00027423",
+        "public corruption",
+        "u.s. attorney",
+        "short form update",
+        "desk",
+        "cell",
+        "update",
+        "2020",
+        "docx",
+        "efta"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024830",
+      "summary": "A communication occurred between the Chief Public Corruption Unit of the United States Attorney's Office for the Southern District of New York and an individual (identified as USANYS) regarding a meeting in White Plains. The communication included a request to contact a cell phone number and a reference to \"Epstein.\" Two redactions are present in the document.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "epstein",
+        "usanys",
+        "redaction",
+        "white plains",
+        "corruption",
+        "united states attorney",
+        "southern district of new york"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00020792",
+            "similarity": 0.5,
+            "index": 11,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00027926",
+            "similarity": 0.6,
+            "index": 5,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00023709",
+            "similarity": 0.6,
+            "index": 1,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    }
+  ]
+}

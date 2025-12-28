@@ -1,0 +1,2272 @@
+{
+  "keyword": "dial-in",
+  "count": 35,
+  "keyword_match_count": 35,
+  "content_match_count": 54,
+  "total_files": 89,
+  "timeline": [
+    {
+      "file_id": "EFTA00010583",
+      "summary": "A meeting regarding “CAFIs/Epstein” was originally scheduled for Friday but is now being rescheduled for Monday at 2:00 PM. Dial-in information is pending and a calendar invite will be circulated. The communication originated from [REDACTED] to [REDACTED] and [REDACTED] within the USANYS system.",
+      "timestamp": "2019-06-30T00:00:00",
+      "timestamp_raw": "30 Jun 2019",
+      "keywords": [
+        "efta00010583",
+        "cafis",
+        "epstein",
+        "redaction",
+        "usanys",
+        "call",
+        "calendar",
+        "rescheduled",
+        "2019",
+        "june"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00010584",
+            "similarity": 0.5,
+            "index": 2,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00014522",
+      "summary": "An email exchange occurred between (USANYS) and an unknown recipient regarding a rescheduled call about \"CAFIs/Epstein.\" The call was originally scheduled for Friday but moved to Monday at 2:00 PM. Dial-in information was not yet available but would be circulated via a calendar invite.",
+      "timestamp": "2019-07-01T00:00:00",
+      "timestamp_raw": "01 Jul 2019",
+      "keywords": [
+        "efta00014522",
+        "usanys",
+        "cafis",
+        "epstein",
+        "redaction",
+        "call",
+        "july 2019",
+        "calendar invite",
+        "rescheduled",
+        "monday"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00010584",
+            "similarity": 0.5,
+            "index": 2,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00010584",
+      "summary": "El will not attend a call originally scheduled for Friday concerning CAFIs/Epstein. The call is being rescheduled for Monday at 2:00 PM. Dial-in information will be circulated via a calendar invite.",
+      "timestamp": "2019-07-01T00:00:00",
+      "timestamp_raw": "01 Jul 2019",
+      "keywords": [
+        "efta00010584",
+        "cafis",
+        "epstein",
+        "redaction",
+        "usanys",
+        "call",
+        "calendar",
+        "july 2019"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00014522",
+            "similarity": 0.5,
+            "index": 1,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00010583",
+            "similarity": 0.5,
+            "index": 0,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021517",
+      "summary": "A scheduling call was confirmed for Wednesday at 9 AM regarding scheduling issues related to Jeffrey Epstein.  The call dial-in number is EFTA00021517.  Separate communication suggests contacting Special Agent directly at [REDACTED] or potentially speaking with her in court on Wednesday.  Property return coordination was also offered through Special Agent.",
+      "timestamp": "2019-07-29T00:00:00",
+      "timestamp_raw": "29 Jul 2019",
+      "keywords": [
+        "epstein",
+        "scheduling",
+        "call",
+        "return of property",
+        "special agent",
+        "court",
+        "wednesday",
+        "efta00021517",
+        "dial-in",
+        "redaction"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014542",
+      "summary": "A series of emails discuss scheduling a call regarding Epstein scheduling issues, referencing the dial-in number EFTA00014542. One email suggests contacting Special directly for the return of property and mentions a planned court appearance on Wednesday.",
+      "timestamp": "2019-07-29T00:00:00",
+      "timestamp_raw": "29 Jul 2019",
+      "keywords": [
+        "epstein",
+        "scheduling",
+        "call",
+        "efta00014542",
+        "redaction",
+        "property",
+        "wednesday",
+        "july 29",
+        "2019"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024398",
+      "summary": "On 2019-08-13 from 13:30 to 14:00, there was an “Update Conference Call – Epstein” (Class: X-PERSONAL) attended by (USANYS) <I, EFTA00024398. The event was created on 2019-08-13 00:47:52 +0000 and last modified on the same date and time. It had a priority of 5 and a DTSTAMP of 2019-08-13 00:32:16 +0000.",
+      "timestamp": "2019-08-13T00:00:00",
+      "timestamp_raw": "2019-08-13",
+      "keywords": [
+        "efta00024398",
+        "epstein",
+        "conference call",
+        "update",
+        "2019-08-13",
+        "dial-in",
+        "x-personal",
+        "priority",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024407",
+      "summary": "Martin G. Weinberg emailed Marty, Michael Miller, Reid Weingarten, and Alex regarding a potential civil forfeiture discussion related to the US v. Epstein case. He offered availability at 9:30 AM the following morning and requested a dial-in be circulated.",
+      "timestamp": "2019-08-14T00:00:00",
+      "timestamp_raw": "14 Aug 2019",
+      "keywords": [
+        "efta00024407",
+        "martin g. weinberg",
+        "us v epstein",
+        "civil forfeiture",
+        "dial-in",
+        "alex",
+        "michael",
+        "martin o. weinberg",
+        "boston",
+        "ma"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020174",
+      "summary": "On August 14, 2019, Michael Miller (Steptoe & Johnson LLP) contacted Martin G. Weinberg and Michael C. Miller regarding the investigation of Jeffrey Epstein’s death (“US v Epstein”). Miller provided contact information for Assistant U.S. Attorneys assigned to the case.  Miller proposed a dial-in time of 9:30 AM the following day and Weinberg and Miller agreed. Weinberg and Miller were authorized to discuss potential civil forfeiture issues.",
+      "timestamp": "2019-08-14T00:00:00",
+      "timestamp_raw": "August 14, 2019",
+      "keywords": [
+        "epstein",
+        "us v epstein",
+        "michael miller",
+        "martin g. weinberg",
+        "steptoe & johnson llp",
+        "dial-in",
+        "civil forfeiture",
+        "redaction analysis",
+        "attorney",
+        "contact information"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00032373",
+            "similarity": 0.538,
+            "index": 9,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00014337",
+      "summary": "Martin Weinberg and his colleagues (Alex and Mike) are authorized to discuss potential civil forfeiture issues with the recipient. They were available for a discussion at 9:30 AM the following morning and requested a dial-in. The email chain is related to the case “US v Epstein.”",
+      "timestamp": "2019-08-14T00:00:00",
+      "timestamp_raw": "14 Aug 2019",
+      "keywords": [
+        "epstein",
+        "civil forfeiture",
+        "martin weinberg",
+        "us",
+        "dial-in",
+        "authorization",
+        "boston",
+        "ma",
+        "legal discussion"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032373",
+      "summary": "Michael Miller of Steptoe & Johnson LLP offered a dial-in number (80943#) for a discussion scheduled for 9:30 AM on August 15, 2019, regarding “US v Epstein.” Martin G. Weinberg and Alex (name redacted) were authorized to continue the discussion concerning potential civil forfeiture issues. Martin G. Weinberg confirmed the 9:30 AM time and requested a dial-in be circulated.",
+      "timestamp": "2019-08-15T00:00:00",
+      "timestamp_raw": "August 15, 2019",
+      "keywords": [
+        "epstein",
+        "us v",
+        "michael miller",
+        "steptoe & johnson llp",
+        "martin g. weinberg",
+        "dial-in",
+        "redaction analysis",
+        "civil forfeiture",
+        "legal discussion",
+        "2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00020174",
+            "similarity": 0.538,
+            "index": 7,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037494",
+      "summary": "FBI New York is coordinating daily conference calls at 3:30 PM regarding the Epstein case. The calls utilize the VCAC Bridge Line. Information regarding “dial-in details” is being forwarded between FBI agents and [REDACTED]. The purpose of the calls is to discuss aspects of the case and forensics, with a focus on a jail incident.  SSA, FBI New York, CID (FBI), and ASAC personnel are involved in these daily calls.",
+      "timestamp": "2019-08-26T00:00:00",
+      "timestamp_raw": "26 Aug 2019",
+      "keywords": [
+        "epstein",
+        "fbi",
+        "ny",
+        "cart",
+        "call",
+        "conference",
+        "details",
+        "redaction",
+        "vcac",
+        "bridge line"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037504",
+      "summary": "An UNCLASSIFIED conference call, titled “Epstein Conference Call - Updates,” took place on September 6, 2019, from 2:00 PM to 3:00 PM. The call was organized by the FBI Victim Services Division Program Manager and involved attendees including [REDACTED], [REDACTED], and [REDACTED]. The conference call utilized the dial-in number 1-877-446-3914 and guest code 787677. The call was scheduled following a previous discussion.",
+      "timestamp": "2019-09-06T00:00:00",
+      "timestamp_raw": "September 6, 2019",
+      "keywords": [
+        "epstein",
+        "conference call",
+        "unclassified",
+        "fbi",
+        "victim services",
+        "2019-09-06",
+        "redaction",
+        "scheduling",
+        "dial-in",
+        "guest code"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037502",
+      "summary": "An unclassified conference call, titled “Epstein Conference Call - Updates,” took place on September 6, 2019, from 2:00 PM to 3:00 PM. The call was organized by the Department of Justice (DO) and the FBI, with a participant from [REDACTED]. Attendees included FBI personnel from New York (NY) and others from the FBI. The purpose was to discuss updates following a previous low-side discussion. Contact information for accessing the call, including dial-in details and contact information for the FBI Victim Services Division, is provided.",
+      "timestamp": "2019-09-06T00:00:00",
+      "timestamp_raw": "September 6, 2019",
+      "keywords": [
+        "epstein",
+        "conference call",
+        "fbi",
+        "unclassified",
+        "2019",
+        "september 6",
+        "redaction",
+        "event",
+        "victim services",
+        "call"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038033",
+      "summary": "An FBI-organized event titled “Epstein: Miami Brief Final Call” took place on October 11, 2019, from 2:00 PM to 3:00 PM GMT. The event was held in the 9th Floor Conf Room or Conf Line and was classified as X-PERSONAL. Attendees included representatives from the FBI, the Office of the Attorney General (OGA), and the Department of Justice (DO) and its contractors. A reminder message with a guest code and dial-in information was to be displayed 15 minutes prior to the start. The document is identified as EFTA00038033.",
+      "timestamp": "2019-10-11T00:00:00",
+      "timestamp_raw": "October 11, 2019",
+      "keywords": [
+        "epstein",
+        "miami",
+        "fbi",
+        "redaction",
+        "event",
+        "conference",
+        "2019-10-11",
+        "attendees",
+        "confidential",
+        "efta00038033"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024297",
+      "summary": "An event titled “Epstein estate” took place on October 23, 2019, from 6:30 PM to 7:00 PM GMT. Marc A. Weinstein (redacted) organized the event via a Skype meeting with Conference ID 803 102 52. Attendees included Tomback, Andrew (redacted). A reminder was set to display 15 minutes before the start, including dial-in numbers for various countries: Brazil, Canada, China, France, Germany, India, Ireland, Israel, Japan, Singapore, United Kingdom, United States. The document also provides instructions for joining the meeting via computer or mobile device, and offers troubleshooting steps via Skype Web App and the “Help” link. Additionally, it includes a dial-in PIN for a specific number (+12016300824).",
+      "timestamp": "2019-10-23T00:00:00",
+      "timestamp_raw": "October 23, 2019",
+      "keywords": [
+        "epstein estate",
+        "skype",
+        "dial-in numbers",
+        "weinstein",
+        "marc a.",
+        "2019-10-23",
+        "redaction",
+        "conference id",
+        "meeting",
+        "attendees"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028831",
+      "summary": "This email discusses a civil forfeiture matter, “US v. Epstein,” involving the EFTA00028831 document. It provides dial-in numbers and conference ID information for meetings, including options for one-touch dial-in from mobile phones and connecting via computer or network. It also offers troubleshooting advice for joining meetings via Skype for Business.",
+      "timestamp": "2019-11-17T00:00:00",
+      "timestamp_raw": "17 Oct 2019",
+      "keywords": [
+        "efta00028831",
+        "us v. epstein",
+        "civil forfeiture",
+        "weinstein",
+        "marc a.",
+        "skype",
+        "dial-in",
+        "conference id",
+        "meeting",
+        "epstein"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024296",
+      "summary": "Marc Weinstein sent an email to Andrew Tomback regarding the Epstein estate. The email included dial-in numbers for various countries and provided instructions for joining a Skype for Business meeting, differentiating between meetings with presentations/video and those without. The email also offered assistance for first-time users joining the meeting from a computer. The document is identified as EFTA00024296.",
+      "timestamp": "2019-11-23T00:00:00",
+      "timestamp_raw": "23 Oct 2019",
+      "keywords": [
+        "epstein estate",
+        "redaction analysis",
+        "dial-in numbers",
+        "skype for business",
+        "meeting organizers",
+        "weinstein",
+        "tomback",
+        "conference id",
+        "presentations",
+        "video"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029636",
+      "summary": "Marc Weinstein of Hughes Hubbard &amp; Birch contacted Andrew Tomback of White &amp; Case on November 25, 2019, regarding a call related to the Epstein estate. The communication included dial-in numbers for international participants, categorized by country and region, and instructions for joining meetings via telephone or computer with video/presentation capabilities. The document identifies the file as EFTA00029636.",
+      "timestamp": "2019-11-25T00:00:00",
+      "timestamp_raw": "November 25, 2019",
+      "keywords": [
+        "epstein estate",
+        "marc weinstein",
+        "skype for business",
+        "dial-in numbers",
+        "hmi onlinemeetingcenter",
+        "redaction analysis",
+        "andrew tomback",
+        "meetings",
+        "conference id",
+        "2019"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029252",
+      "summary": "This document is a redacted email exchange between Mark Steward and several individuals within the Financial Conduct Authority (FCA) concerning an urgent investigation, likely related to Jeffrey Epstein’s activities and JP Morgan. Mark Steward is requesting a follow-up call, initially proposing a time of 10am New York time/3pm London time, but ultimately requesting a dial-in instead. Kate Tuckley suggests a dial-in. Ted [REDACTED] expresses an existing active investigation and proposes discussing it on Monday. The exchange involves coordinating with colleagues and referencing the ongoing investigation into Mr. Epstein, particularly concerning JP Morgan's involvement. The email concludes with standard FCA legal disclaimers regarding confidentiality and information handling.",
+      "timestamp": "2019-11-28T00:00:00",
+      "timestamp_raw": "November 28, 2019",
+      "keywords": [
+        "fca",
+        "mark steward",
+        "jeff epstein",
+        "jp morgan",
+        "london",
+        "investigation",
+        "redaction",
+        "dial-in",
+        "thanksgiving",
+        "united states"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029637",
+      "summary": "On December 2, 2019, at 3:30 PM GMT, a Skype meeting titled “Epstein Estate Call” occurred, organized by Marc Weinstein of Hughes Hubbard &amp;amp; Palmer. The meeting attendee was [REDACTED], and also included Tomback, Andrew of WhiteCase. The meeting utilized the dial-in number +1 (201) 630-0824 and conference ID 169269771. Additional dial-in numbers were provided for various countries including Brazil, Canada, China, France, Germany, India, Ireland, Israel, Japan, Singapore, United Kingdom, and United States. A reminder message was to be displayed 15 minutes before the start.",
+      "timestamp": "2019-12-02T00:00:00",
+      "timestamp_raw": "December 2, 2019",
+      "keywords": [
+        "epstein",
+        "skype",
+        "meeting",
+        "dial-in",
+        "weinstein",
+        "redaction",
+        "conference id",
+        "attendees",
+        "event",
+        "marc a.weinstein"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018119",
+      "summary": "Mark Steward, the Executive Director of Enforcement and Market Oversight at the FCA, is requesting a meeting to discuss additional material received regarding an ongoing investigation, likely related to Jeffrey Epstein and JP Morgan. He initially proposed Friday at 3-4 pm, but due to the volume of the material, the timeline is pushed back to Friday at 3-4 pm, with a confirmation request for Thursday. Kate Tuckley, acting as a private secretary, relays this request. Jason Cowley (USDOJ) and Kelly Eldred are also involved in the communications. Ultimately, a dial-in call is proposed instead of a phone call due to the time difference and the urgency of the matter. The communications indicate the investigation is ongoing and potentially linked to a previous client of JP Morgan.",
+      "timestamp": "2019-12-03T00:00:00",
+      "timestamp_raw": "03 December 2019",
+      "keywords": [
+        "fca",
+        "redaction",
+        "mark steward",
+        "kate tuckley",
+        "jefferey epstein",
+        "jp morgan",
+        "investigation",
+        "london",
+        "data",
+        "email",
+        "usanys"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018136",
+      "summary": "Mark Steward initially proposed a Friday call at 3 PM (UK time) but then requested a shift to Tuesday at 3 PM (UK time) due to the volume of information. Kate Tuckley then suggested a dial-in option instead of a call due to the late hour in London. The discussion revolved around reviewing material related to an ongoing investigation into Jeffrey Epstein and JP Morgan, with the FCA seeking further information.",
+      "timestamp": "2019-12-04T00:00:00",
+      "timestamp_raw": "December 4, 2019",
+      "keywords": [
+        "fca",
+        "mark steward",
+        "kate tuckley",
+        "kelly eldred",
+        "harry caldecott",
+        "redaction",
+        "investigation",
+        "epstein",
+        "jpmorgan",
+        "uk time"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018113",
+      "summary": "This redaction analysis document details an exchange of emails between various individuals at the Financial Conduct Authority (FCA) and a US-based entity (USANYS). The core of the communication revolves around an urgent request to investigate Jeffrey Epstein’s financial dealings, specifically in relation to JP Morgan. Initially, Mark Steward (FCA Enforcement and Market Oversight Director) requested information about the ongoing investigation. Kate Tuckley (FCA Private Secretary) suggested a dial-in call instead of a physical meeting due to US holidays.  Ultimately, the FCA directed the individual to utilize a dial-in option to discuss the matter, with the USANYS team overseeing the case.  The email chain includes standard procedural details, contact information, and disclaimers regarding confidentiality and data protection.",
+      "timestamp": "2019-12-28T00:00:00",
+      "timestamp_raw": "28 Nov 2019",
+      "keywords": [
+        "fca",
+        "mark steward",
+        "investigation",
+        "jeffrey epstein",
+        "jp morgan",
+        "efta00018113",
+        "dial-in",
+        "private secretary",
+        "kelly eldred",
+        "usanys"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032712",
+      "summary": "This document is a redacted email chain concerning an urgent matter involving the Financial Conduct Authority (FCA) and USANYS. Initially, Ted (from USANYS) requests a dial-in instead of a phone call to discuss an ongoing investigation. Kate Tuckley, working for the FCA, suggests a 4:15 PM UK time slot. Mark Steward, also with the FCA, responds, confirming the investigation is active and asking for a discussion. He then seeks confirmation from the FCA about handling the investigation related to Jeffrey Epstein and JP Morgan, looping in additional FCA staff for support. The email chain continues with further requests for clarification and availability, concluding with standard FCA legal disclaimers and contact information.",
+      "timestamp": "2019-12-28T00:00:00",
+      "timestamp_raw": "28 Nov 2019",
+      "keywords": [
+        "fca",
+        "usanys",
+        "redaction",
+        "investigation",
+        "ted",
+        "mark steward",
+        "jeffry epstein",
+        "jp morgan",
+        "dial-in",
+        "confidential"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030654",
+      "summary": "The document is a series of emails exchanged between individuals at the Financial Conduct Authority (FCA) and external parties regarding an ongoing investigation, likely related to Jeffrey Epstein’s activities and potentially involving JP Morgan. Kate Tuckley initially requests a dial-in meeting, prompting Mark Steward to inquire about the investigation’s status and availability for a discussion.  Steward then seeks confirmation from his team about handling the Epstein investigation, specifically regarding JP Morgan, and asks for information about related work.  The emails highlight an urgent need to discuss the matter, referencing a US holiday and the complexity of the investigation, and include standard FCA communication disclaimers and information.",
+      "timestamp": "2019-12-28T00:00:00",
+      "timestamp_raw": "28 Nov 2019",
+      "keywords": [
+        "fca",
+        "investigation",
+        "epstein",
+        "jpmorgan",
+        "confidential",
+        "urgent",
+        "us holiday",
+        "mark steward",
+        "ted",
+        "jefferey epstein"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023813",
+      "summary": "Department of Justice (DOJ) regarding an investigation involving Jeffrey Epstein and his associates. *   **DOJ Request:** The DOJ, via an Assistant U.S. Attorney, requests a consensual, voluntary law enforcement interview with the client (represented by Gary Bloxsome) regarding their relationship with Jeffrey Epstein and related allegations. *   **Blackfords Representation:** Gary Bloxsome confirms that Blackfords LLP represents HRH the Duke of York. *   **Scheduling:** The DOJ proposes a preliminary call for January 10th at 14:00 GMT, and Blackfords confirms availability. *   **Details Requested:** The DOJ requests dial-in details for the call. *   **Legal Context:** The communication highlights the DOJ’s investigation and their preference for contacting legal counsel when dealing with represented individuals.",
+      "timestamp": "2020-01-10T00:00:00",
+      "timestamp_raw": "10 Jan 2020",
+      "keywords": [
+        "u.s. department of justice",
+        "jennifer richardson",
+        "gary bloxsome",
+        "gdpr",
+        "redaction",
+        "legal investigation",
+        "jeffrey epstein",
+        "blackfords llp",
+        "solicitor-advocate",
+        "phone conference"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021072",
+      "summary": "On 2020-01-23 from 20:00:00 to 20:30:00 +0000, The Bloom Firm (marcelino@thebloomfirm.com) organized a call with attendees teri@thebloornfirm.com, colleen@thebloomfirm.com, and themselves. The call was hosted via UberConference at https://www.uberconference.com/thebloomfirm with a dial-in number of 818-405-0476, and no PIN was required.",
+      "timestamp": "2020-01-23T00:00:00",
+      "timestamp_raw": "2020-01-23",
+      "keywords": [
+        "epstein",
+        "call",
+        "bloom firm",
+        "the bloom firm",
+        "uberconference",
+        "2020",
+        "2020-01-23",
+        "teri@thebloomfirm.com",
+        "colleen@thebloomfirm.com",
+        "efta00021072"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023132",
+      "summary": "Gloria Allred (Allred, Maroko & Goldberg) communicated via email regarding a call with the SONY Epstein team. The initial contact was initiated by the SONY Epstein team requesting a call to provide an update and discuss clients. Allred confirmed her availability for a call, suggesting either 3:00 PM or 4:00 PM EST on March 26th or 27th. The SONY Epstein team provided a conference line (dial-in code: 933571) and offered to send a Zoom number. The communications involved multiple redactions of sender and recipient information.",
+      "timestamp": "2020-03-26T00:00:00",
+      "timestamp_raw": "26 Mar 2020",
+      "keywords": [
+        "gloria allred",
+        "los angeles",
+        "litigation",
+        "zoom",
+        "conference call",
+        "march 2020",
+        "sony epstein",
+        "united states attorney"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016228",
+      "summary": "The document is a series of email exchanges primarily between Gloria Allred and multiple individuals, including a US Attorney, regarding scheduling a call to discuss updates and client views. The call is to occur around 3:00 PM EST, with offers of alternative times (4:00 PM EST and 3PM EST). Conference line details (dial-in code 933571) are also provided. The exchange involves coordination for a meeting to discuss client feedback and updates, with references to previous conversations and a request for an update on client views. The document also includes information about Gloria Allred's induction into the National Women's Hall of Fame.",
+      "timestamp": "2020-03-31T00:00:00",
+      "timestamp_raw": "31 Mar 2020",
+      "keywords": [
+        "gloria allred",
+        "call",
+        "conference line",
+        "zoom",
+        "time",
+        "3:00 pm",
+        "usavoice",
+        "clients",
+        "los angeles",
+        "ca"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00024279",
+            "similarity": 0.538,
+            "index": 29,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00024279",
+      "summary": "The document is a series of email exchanges between Gloria Allred and multiple recipients, primarily within the Epstein team at the Southern District of New York, concerning a scheduled call to discuss updates and client information. The call was initially proposed for 3:00 PM EST or 4:00 PM EST, with the offer of a conference line provided (dial-in code 933571).  Several recipients requested alternative times and offered to send a Zoom number.  The document highlights logistical arrangements, including the need for a USAVoice account login reset, and confirms the date of the call (March 31, 2020). Redactions obscure specific names and potentially sensitive details within the emails.",
+      "timestamp": "2020-03-31T00:00:00",
+      "timestamp_raw": "March 31, 2020",
+      "keywords": [
+        "call",
+        "conference line",
+        "gloria allred",
+        "zoom",
+        "time",
+        "update",
+        "3pm est",
+        "usavoice",
+        "number",
+        "clients"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00016228",
+            "similarity": 0.538,
+            "index": 28,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030336",
+      "summary": "A Webex meeting was scheduled for 2020-05-04 from 17:45:00 to 18:15:00 +0000 with the meeting number 470 899 616 and password RxPNmCtV685. The meeting was related to a request for information regarding Jeffrey Epstein. Participants could join via Webex, dial-in number, or mobile app. The service allows recording of audio and other information, requiring consent from attendees. The email contains a legal disclaimer regarding confidentiality and protected information.",
+      "timestamp": "2020-05-04T00:00:00",
+      "timestamp_raw": "2020-05-04",
+      "keywords": [
+        "epstein",
+        "webex",
+        "meeting",
+        "recording",
+        "legal",
+        "privilege",
+        "confidential",
+        "disclosure",
+        "attendee",
+        "2020"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028560",
+      "summary": "On June 8, 2020, multiple individuals within the USANYS communicated regarding Prince Andrew and an ongoing federal criminal investigation into sex trafficking involving Jeffrey Epstein. A dial-in number (877-720-9282 - 8146826) was provided for a call scheduled for 2:15 PM. A proposed statement was drafted to be issued in response to a press release from Prince Andrew’s counsel, advocating for a brief, forward-looking approach. The statement highlighted Prince Andrew’s refusal to cooperate with the investigation, citing his lack of interviews and prior declinations. EFTA00028561 was referenced.",
+      "timestamp": "2020-06-08T00:00:00",
+      "timestamp_raw": "June 8, 2020",
+      "keywords": [
+        "prince andrew",
+        "usanys",
+        "redaction",
+        "investigation",
+        "criminal",
+        "epstein",
+        "trafficking",
+        "statement",
+        "interview",
+        "federal"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026403",
+      "summary": "A Webex meeting occurred on 2020-07-06 from 17:15:00 to 18:00:00 +0000. The meeting was categorized as \"X-PERSONAL\" priority 5. Attendees were alerted 15 minutes prior to the start via a Webex notification. Joining instructions included a Webex link, a dial-in number (1995719104@usao.webex.com and 207.182.190.20), and instructions for joining via Microsoft Lync or Skype for Business. A help resource link is provided: http://help.webex.com.",
+      "timestamp": "2020-07-06T00:00:00",
+      "timestamp_raw": "2020-07-06",
+      "keywords": [
+        "webex",
+        "efta00026403",
+        "meeting",
+        "alarm",
+        "reminder",
+        "join",
+        "date",
+        "location",
+        "video system",
+        "microsoft lync"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020366",
+      "summary": "On July 8, 2020, at 1:00 PM GMT, individuals from Hughes Hubbard & Reed LLP (specifically, an “I Partner” and Chair of White Collar Defense) were scheduled to participate in a call regarding the Epstein estate. The call was initiated by an unknown sender and intended for recipients listed as [REDACTED]. The email contains a standard confidentiality disclaimer.",
+      "timestamp": "2020-07-08T00:00:00",
+      "timestamp_raw": "July 8, 2020",
+      "keywords": [
+        "epstein estate",
+        "hughes hubbard & reed",
+        "white collar defense",
+        "dial-in",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020393",
+      "summary": "On July 9, 2020, United States District Judge Alison J. Nathan ordered a remote arraignment, initial conference, and bail hearing for Ghislaine Maxwell in the Southern District of New York. The hearing is scheduled for July 14, 2020, at 1:00 PM and will be conducted via video/teleconference with a public audio feed available at 855-268-7844 and 214-416-0400.  A separate dial-in number will be provided for non-speaking counsel, alleged victims, and family members. Limited in-person seating (approximately 60) will be available in the Jury Assembly Room, with priority given to credentialed press and on a first-come, first-serve basis.  Photography, recording, and rebroadcasting of proceedings are prohibited.",
+      "timestamp": "2020-07-09T00:00:00",
+      "timestamp_raw": "July 9, 2020",
+      "keywords": [
+        "united states district court",
+        "ghislaine maxwell",
+        "arraignment",
+        "bail hearing",
+        "video teleconference",
+        "18 u.s.c. § 3771",
+        "covid-19",
+        "electronic filing"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037991",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] with a copy to [REDACTED]. The email’s subject is “Scheduling Order.” It includes the Court’s order for a conference, along with dial-in information for accessing the audio feed, and is attached as “2020.07.09_Scheduling_Order.pdf”. The email was sent on July 10, 2020.",
+      "timestamp": "2020-07-10T00:00:00",
+      "timestamp_raw": "July 10, 2020",
+      "keywords": [
+        "efta00037991",
+        "redaction analysis",
+        "scheduling order",
+        "conference",
+        "audio feed",
+        "2020",
+        "dial-in"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020392",
+      "summary": "An email was sent from EFTA00020392 to [REDACTED] regarding a bail hearing for Maxwell. The email attached a scheduling order containing dial-in information for public access to the audio feed of the hearing, intended for potential victims.",
+      "timestamp": "2020-07-10T00:00:00",
+      "timestamp_raw": "10 Jul 2020",
+      "keywords": [
+        "maxwell",
+        "detention hearing",
+        "bail",
+        "victims",
+        "audio feed",
+        "court order",
+        "logistics",
+        "efta00020392"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015954",
+      "summary": "On July 16, 2020, Marc Weinstein of Hughes Hubbard & Reed LLP sent emails to coordinate a call regarding the NY property of Jeffrey Epstein. He requested a call between 1:00-1:45 PM and offered a dial-in option. Two individuals responded, agreeing to the call time and confirming their availability. The emails included standard legal disclaimers regarding confidential information and email transmission security.",
+      "timestamp": "2020-07-16T00:00:00",
+      "timestamp_raw": "July 16, 2020",
+      "keywords": [
+        "epstein",
+        "ny property",
+        "marc weinstein",
+        "hughes hubbard & reed",
+        "dial-in",
+        "call",
+        "2020",
+        "legal",
+        "redacted"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00015956",
+            "similarity": 0.583,
+            "index": 38,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00015956",
+      "summary": "Marc Weinstein of Hughes Hubbard & Reed LLP contacted [REDACTED] on July 16, 2020, regarding an update on the Epstein NY property. Weinstein proposed a call time between 1:00-1:45, and offered to use a dial-in option. The email included standard confidentiality disclaimers.",
+      "timestamp": "2020-07-16T00:00:00",
+      "timestamp_raw": "July 16, 2020",
+      "keywords": [
+        "epstein",
+        "ny property",
+        "marc weinstein",
+        "hughes hubbard & reed",
+        "redaction analysis",
+        "efta00015956",
+        "call",
+        "dial-in",
+        "2020",
+        "update"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00015954",
+            "similarity": 0.583,
+            "index": 37,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024502",
+      "summary": "On July 16, 2020, at 5:30 PM UTC, a Skype meeting occurred with Marc A. Weinstein ([REDACTED]) and Andrew Tomback ([REDACTED]) regarding Epstein’s New York property. The meeting’s conference ID was 612 758 867. A reminder was set to display 15 minutes before the start. Dial-in numbers were provided for various countries, including Brazil, Canada, China, France, Germany, India, Ireland, Israel, Japan, Korea (Seoul), Singapore, United Kingdom, and United States. The document also contains information on connecting via computer or mobile device, a Skype Web App option, and instructions for meeting organizers regarding dial-in PIN resets. EFTA00024502 and EFTA00024503 are referenced.",
+      "timestamp": "2020-07-16T00:00:00",
+      "timestamp_raw": "July 16, 2020",
+      "keywords": [
+        "epstein",
+        "property",
+        "skype",
+        "meeting",
+        "dial-in",
+        "conference id",
+        "weinstein",
+        "andrew tomback",
+        "redaction analysis",
+        "efta00024502"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00009914",
+            "similarity": 0.538,
+            "index": 54,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00024501",
+      "summary": "An email from Weinstein. t\\1arc A. to Andrew Tomback regarding Epstein’s New York property is documented. The email includes dial-in numbers for international conferencing, specifying different options for meetings with and without presentations or video. It provides instructions on joining meetings via telephone or Skype Web App, with a focus on resetting the dial-in PIN for meeting organizers. The document is identified as EFTA00024501.",
+      "timestamp": "2020-07-16T00:00:00",
+      "timestamp_raw": "16 Jul 2020",
+      "keywords": [
+        "epstein",
+        "ny property",
+        "redaction analysis",
+        "efta00024501",
+        "skype",
+        "dial-in numbers",
+        "meetings",
+        "weinstein",
+        "andrew tomback",
+        "conference id"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027959",
+      "summary": "The document is a series of email exchanges regarding a request for assistance with locating documents related to the Epstein/Maxwell investigation. Key points include: *   Multiple individuals (USANYS, ODAG, USANYS, OPR, SDFL, NDGA) are involved in coordinating document retrieval efforts. *   A dial-in meeting was proposed for Thursday at noon. *   Discussion centered on identifying appropriate document custodians within various organizations (ODAG, SDFL, NDGA, OPR). *   OPR was suggested as a potential resource due to a previous document collection effort. *   The US Attorney's Office for the Southern District of New York (USANYS) is seeking assistance from other agencies regarding discovery requests related to the SDFL investigation and NPA. *   There’s a focus on recusal issues and potential consequences related to the litigation.",
+      "timestamp": "2020-07-22T00:00:00",
+      "timestamp_raw": "22 Jul 2020",
+      "keywords": [
+        "epstein/maxwell",
+        "usanys",
+        "odag",
+        "sdfl",
+        "ndga",
+        "document collection",
+        "recusal",
+        "cvra",
+        "ghislaine maxwell",
+        "npa"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023817",
+      "summary": "This redacted document details a communication chain between Blackfords LLP (a UK law firm) and the Assistant U.S. Attorney for the Southern District of New York regarding a case involving a potential indictment related to 18 U.S.C. 1001. The core of the communication centers around a \"proffer agreement\" and the exchange of legal information regarding potential interview protocols and protections, including elements of the offense and related jury instructions. Key elements include: *   **Initial Contact:** Jennifer Richardson (Blackfords) confirms a teleconference with Gary Bloxsome (Blackfords) and Daniel Cundy, and follows up with a request for dial-in details. *   **U.S. Attorney’s Information:** The U.S. Attorney provides the proffer agreement, detailed legal information relating to 18 U.S.C. 1001 (including elements of the offense and related jury instructions), and requests information about potential MLAT protections. *   **Agreement Extension:** The U.S. Attorney proposes extending the negotiation period for two weeks, confirming a previously agreed-upon extension. *   **Redactions:** Significant portions of the document are redacted, obscuring specific details related to the client and the investigation.",
+      "timestamp": "2020-08-03T00:00:00",
+      "timestamp_raw": "03 Aug 2020",
+      "keywords": [
+        "blackfords llp",
+        "usanys",
+        "attorney",
+        "teleconference",
+        "mlat",
+        "proffer agreement",
+        "18 u.s.c. 1001",
+        "covid-19",
+        "gdpr",
+        "negotiation period"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020865",
+      "summary": "Marc A. Weinstein, a partner at Hughes Hubbard & Reed LLP, is assisting the Assistant United States Attorney in the SDNY investigation. The investigation revolves around obtaining a transcript, initially requested by Jack Scarola (plaintiff’s counsel), regarding a deposition. Weinstein initially connected with Scarola to facilitate the transcript’s delivery, requesting a letter waiving any potential protective orders.  He then identified a need to confirm the deponent’s name and sought a dial-in for a call. The Assistant U.S. Attorney requested a copy of the transcript, inquiring about potential confidentiality restrictions and offering to provide a letter waiving any such restrictions.  The emails reveal a back-and-forth regarding the deponent’s identity (initially unclear) and the timeframe for a call. Finally, Weinstein confirmed a time for a call with the Assistant U.S. Attorney and Andy.",
+      "timestamp": "2020-09-30T00:00:00",
+      "timestamp_raw": "30 Sep 2020",
+      "keywords": [
+        "weinstein",
+        "marc a.",
+        "sdny investigation",
+        "transcript",
+        "jack scarola",
+        "hughes hubbard & reed llp",
+        "us attorney",
+        "protective order",
+        "deposition",
+        "efta00020865"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026560",
+      "summary": "Kendall Felder, a General Manager at Melken Solutions, LLC, is coordinating a call at 11:30 AM on October 8, 2020, to discuss questions regarding a hard drive sent to the U.S. Attorney’s Office I SDNY. He is circulating call-in information (including a pin) and requesting the recipient to share an update file via email, inquiring about the size of an overlay file for e-mailing purposes. The emails contain confidentiality notices and restrictions on sharing the content.",
+      "timestamp": "2020-10-08T00:00:00",
+      "timestamp_raw": "October 8, 2020",
+      "keywords": [
+        "efta00026560",
+        "kendall felder",
+        "usanys",
+        "contractor",
+        "call",
+        "overlay file",
+        "update file",
+        "dial-in",
+        "melken solutions",
+        "hard drive"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038045",
+      "summary": "An FBI email, dated October 16, 2020, was sent from the FBI to the NY FBI and MilliS, regarding a briefing call about Jeffrey Epstein. The email included dial-in information for the call (303-586-4335 or 1-877-446-3914) and a passcode. A Special Agent (SA) was also scheduled to join the call.",
+      "timestamp": "2020-10-16T00:00:00",
+      "timestamp_raw": "October 16, 2020",
+      "keywords": [
+        "epstein",
+        "fbi",
+        "briefing call",
+        "dial-in",
+        "sa",
+        "2020",
+        "october",
+        "millis",
+        "efta00038045"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023254",
+      "summary": "On October 16, 2020, at 2:00 PM GMT, Maxwell participated in a tentative discussion via dial-in regarding images from Epstein devices. The event was classified as X-PERSONAL, had a priority of 5, and was created/modified on the same date. One attendee is redacted.",
+      "timestamp": "2020-10-16T00:00:00",
+      "timestamp_raw": "October 16, 2020",
+      "keywords": [
+        "efta00023254",
+        "maxwell",
+        "epstein",
+        "devices",
+        "redaction",
+        "2020-10-16",
+        "images",
+        "x-personal",
+        "dial-in"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038046",
+      "summary": "An FBI briefing call, designated EFTA00038046, took place on October 16, 2020, from 16:00:00 to 17:00:00 GMT. The organizer was the FBI, and attendees included representatives from ODAG, JMD, and NY (FBI). The call was marked as X-PERSONAL and had a priority of 5. A reminder message was to be displayed 15 minutes before the start, and the dial-in numbers were 303-586-4335 and 1-877-446-3914 with a guest passcode. The call was related to a conversation with SA.",
+      "timestamp": "2020-10-16T00:00:00",
+      "timestamp_raw": "October 16, 2020",
+      "keywords": [
+        "epstein",
+        "briefing call",
+        "fbi",
+        "2020",
+        "october 16",
+        "dial-in",
+        "guest passcode",
+        "redaction analysis",
+        "x-personal"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027056",
+      "summary": "On October 16, 2020, at 2:00 PM GMT, a meeting (EFTA00027056) took place via dial-in to discuss images related to “Epstein Devices,” classified as X-PERSONAL and given a priority of 5. The event was created on October 16, 2020, at 1:14:39 PM GMT and has not been modified since.",
+      "timestamp": "2020-10-16T00:00:00",
+      "timestamp_raw": "October 16, 2020",
+      "keywords": [
+        "efta00027056",
+        "maxwell",
+        "epstein",
+        "devices",
+        "images",
+        "2020",
+        "discussion",
+        "redaction analysis",
+        "x-personal"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023251",
+      "summary": "On 2020-10-16 at 14:00:00 +0000, a confidential (X-PERSONAL) event occurred titled \"Accepted: Maxwell - Discuss Images from Epstein Devices.\" The event took place via dial-in and lasted from 14:00:00 to 14:30:00 +0000.  EFTA00023251 was the attendee.",
+      "timestamp": "2020-10-16T00:00:00",
+      "timestamp_raw": "2020-10-16",
+      "keywords": [
+        "efta00023251",
+        "maxwell",
+        "epstein",
+        "devices",
+        "images",
+        "discuss",
+        "2020-10-16",
+        "x-personal",
+        "event",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038025",
+      "summary": "This email provides dial-in information for a call regarding the Epstein Briefing. The call is between the FBI (DO and NY) and ODAG (JMD) and CRT. The email was sent on October 20, 2020, with the subject \"Epstein Briefing Check-In.\"",
+      "timestamp": "2020-10-20T00:00:00",
+      "timestamp_raw": "October 20, 2020",
+      "keywords": [
+        "epstein",
+        "fbi",
+        "briefing",
+        "dial-in",
+        "october 2020",
+        "efta00038025",
+        "crt",
+        "odag",
+        "jmd"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030604",
+      "summary": "An event, titled “Epstein Image/Video File Review Protocol,” took place on 2020-10-20 from 17:00:00 to 17:30:00 GMT. It was organized, classified as “X-PERSONAL,” and created on 2020-10-20 at 04:39:48 GMT. The priority was set to 5, and a reminder with a 15-minute display message was scheduled before the start. The dial-in pin was specified as \"EFTA00030604\".",
+      "timestamp": "2020-10-20T00:00:00",
+      "timestamp_raw": "2020-10-20",
+      "keywords": [
+        "epstein",
+        "image",
+        "video",
+        "protocol",
+        "review",
+        "2020",
+        "efta00030604",
+        "personal",
+        "redaction",
+        "analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038178",
+      "summary": "An event, titled “Epstein Briefing Conference Call,” took place on 2020-10-23 from 18:30:00 to 19:30:00 GMT. The organizer created a personal, high-priority event. The call’s purpose was to discuss invitation/RSVP status, DOJ packet content requests, and refreshment/funding details. A reminder message was set to display 15 minutes prior to the call’s start.",
+      "timestamp": "2020-10-23T00:00:00",
+      "timestamp_raw": "2020-10-23",
+      "keywords": [
+        "epstein",
+        "conference call",
+        "doj",
+        "refreshments",
+        "funding",
+        "rsvp",
+        "packets",
+        "2020-10-23",
+        "dial-in",
+        "guest passcode"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023699",
+      "summary": "Marc Weinstein, a partner at Hughes Hubbard & Reed LLP, is assisting the US Attorney's Office in obtaining a transcript related to an SDNY investigation. Initially, he contacted Jack Scarola to request the transcript, which was originally a deposition. Concerns arose about potential confidentiality restrictions, leading Weinstein to request a letter from the plaintiff’s counsel (represented by the US Attorney) confirming the lack of a protective order and waiving any claims related to its disclosure. Weinstein connected with the plaintiff’s attorney, confirming that the plaintiff’s name is [REDACTED] who is represented by Jack Scarola, and asked for a dial-in for a call. The US Attorney confirmed the lack of a protective order. The email chain details the process of securing the transcript and navigating potential legal concerns.",
+      "timestamp": "2020-11-02T00:00:00",
+      "timestamp_raw": "02 Oct 2020",
+      "keywords": [
+        "transcript",
+        "sdny investigation",
+        "us attorney",
+        "marc weinstein",
+        "jack scarola",
+        "hughes hubbard & reed",
+        "protective order",
+        "confidentiality",
+        "deposition",
+        "efta00023699"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00009914",
+      "summary": "Marc Weinstein scheduled a Skype meeting on November 9, 2020, at 4:30 PM - 5:00 PM Eastern Time (UTC-05:00) with Conference ID 570 579 045 and Dial-In Number +1 (201) 630-0824 to discuss the Epstein Estate.  Additional dial-in numbers were provided for international participants including Brazil, Canada, China, France, Germany, India, Ireland, Israel, Japan, Korea, Singapore, United Kingdom, and United States. The meeting details included instructions for joining via computer or mobile device, or by telephone.",
+      "timestamp": "2020-11-09T00:00:00",
+      "timestamp_raw": "November 9, 2020",
+      "keywords": [
+        "epstein estate",
+        "skype",
+        "meeting",
+        "dial-in",
+        "weinstein",
+        "conference id",
+        "andrew tomback",
+        "redaction analysis",
+        "utc-05:00",
+        "2020"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00024502",
+            "similarity": 0.538,
+            "index": 39,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00009915",
+      "summary": "A Skype meeting took place on November 9, 2020, at 4:30 PM - 5:00 PM (UTC-05:00) Eastern Time. Marc Weinstein organized the meeting with Andrew Tomback, related to the Epstein Estate. The meeting used Conference ID 570 579 045 and provided a list of international dial-in numbers for access via telephone.  The meeting details were recorded and associated with document EFTA00009915 and EFTA00009916.",
+      "timestamp": "2020-11-09T00:00:00",
+      "timestamp_raw": "November 9, 2020",
+      "keywords": [
+        "epstein estate",
+        "marc weinstein",
+        "skype meeting",
+        "2020-11-09",
+        "dial-in numbers",
+        "conference id",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00019131",
+            "similarity": 0.545,
+            "index": 57,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00019130",
+      "summary": "Marc A. Weinstein emailed Andrew Tomback on November 9, 2020, regarding the Epstein Estate. The email included dial-in numbers for international conference calls with a Conference ID of 570579045. It outlined instructions for joining meetings via telephone (with or without presentations/video) and provided guidance for guests joining Skype for Business meetings. The document is labeled EFTA00019130.",
+      "timestamp": "2020-11-09T00:00:00",
+      "timestamp_raw": "November 9, 2020",
+      "keywords": [
+        "epstein estate",
+        "dial-in numbers",
+        "skype",
+        "meetings",
+        "weinstein",
+        "marc a",
+        "conference id",
+        "redaction analysis",
+        "onlinemeetingcenter",
+        "efta00019130"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019131",
+      "summary": "An event titled “Epstein Estate” took place on November 9, 2020, from 21:30 to 22:00. Marc A. Weinstein organized it via a Skype meeting with Conference ID 570 579 045. The event had a priority of 5. Several dial-in numbers were provided for attendees globally, including Brazil, Canada, China, France, Germany, India, Ireland, Israel, Japan, Korea, Singapore, United Kingdom, and United States. The document outlines instructions for joining the meeting via telephone and provides troubleshooting advice for first-time Skype for Business guests.",
+      "timestamp": "2020-11-09T00:00:00",
+      "timestamp_raw": "November 9, 2020",
+      "keywords": [
+        "epstein estate",
+        "skype meeting",
+        "weinstein",
+        "dial-in numbers",
+        "conference id",
+        "andrew tomback",
+        "2020-11-09",
+        "redaction analysis",
+        "event",
+        "mobile phone"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00009915",
+            "similarity": 0.545,
+            "index": 55,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030603",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] regarding a review protocol for an image video file related to Jeffrey Epstein. The email includes a dial-in invitation with a pin, designated as EFTA00030603.",
+      "timestamp": "2020-11-19T00:00:00",
+      "timestamp_raw": "19 Oct 2020",
+      "keywords": [
+        "epstein",
+        "image",
+        "video",
+        "protocol",
+        "redaction",
+        "efta00030603"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032011",
+      "summary": "On December 1, 2020, an email chain discusses a request related to a “Maxwell Call.” A draft letter and affidavit, prepared by Bobbi and Chris, were sent for review. Legal counsel from MDC approved the proposal, anticipating a letter to the court by Friday. A dial-in was requested for discussion regarding next steps, specifically a joint letter to the court due the following day.",
+      "timestamp": "2020-12-01T00:00:00",
+      "timestamp_raw": "December 1, 2020",
+      "keywords": [
+        "maxwell",
+        "efta00032011",
+        "usanys",
+        "letter",
+        "proposal",
+        "court",
+        "defense",
+        "mdc",
+        "bop",
+        "dial-in"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030417",
+      "summary": "On December 1, 2020, an email chain discusses a request for a defense letter regarding a case involving a warden (MDC). Bobbi and Chris rejected a proposal, attaching a draft letter and affidavit for review. A subsequent email on November 30, 2020, confirmed MDC legal approval for the letter submission by Friday. A request was made to circulate a dial-in, and a meeting was proposed for 1:00 PM to discuss next steps related to a joint letter to the court.",
+      "timestamp": "2020-12-01T00:00:00",
+      "timestamp_raw": "December 1, 2020",
+      "keywords": [
+        "efta00030417",
+        "usanys",
+        "maxwell call",
+        "defense request",
+        "mdc",
+        "letter",
+        "court",
+        "proposal",
+        "united states attorney",
+        "bobbi",
+        "chris"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038592",
+      "summary": "A series of emails discuss scheduling a meeting to discuss a bail submission review related to “Maxwell Finances.” The meeting was initially proposed for 2:00 PM with a dial-in code of 707522. Several individuals, including NYPD/FBI detectives, were involved in the coordination, with offers to meet via phone, video conference, or in a conference room. One individual offered to circulate a dial-in.",
+      "timestamp": "2020-12-09T00:00:00",
+      "timestamp_raw": "December 9, 2020",
+      "keywords": [
+        "maxwell finances",
+        "child exploitation",
+        "human trafficking",
+        "nypd",
+        "fbi",
+        "dial-in",
+        "conference room",
+        "redaction analysis",
+        "efta00038592",
+        "detective"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00038519",
+            "similarity": 0.538,
+            "index": 63,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038517",
+      "summary": "An email chain discusses scheduling a call regarding a recent bail submission review. The initial email proposes a call at 2:00 PM with a dial-in code (707522). Another individual expresses availability for the next hour and offers to circulate a dial-in. A subsequent message indicates a detective is available for a discussion, proposing phone, video conference, or an in-person meeting at the office, with alternative dates of tomorrow or Friday offered if today’s time is unsuitable.",
+      "timestamp": "2020-12-09T00:00:00",
+      "timestamp_raw": "December 09, 2020",
+      "keywords": [
+        "maxwell finances",
+        "redaction",
+        "dial-in",
+        "conference",
+        "phone",
+        "video conference",
+        "fbi",
+        "nypd",
+        "bail submission",
+        "human trafficking"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038519",
+      "summary": "A meeting was scheduled for December 9, 2020, at 2:00 PM via dial-in code 707522 to discuss a review of a recent bail submission related to Maxwell Finances. The discussion involved multiple individuals including M, Lazar', [REDACTED], and a Detective from the NYPD/FBI Child Exploitation Human Trafficking Task Force. Alternative times (next hour, next 2 hours, today, tomorrow, or Friday) were offered for the discussion via phone, video conference, or in-person at an office conference room.",
+      "timestamp": "2020-12-09T00:00:00",
+      "timestamp_raw": "December 9, 2020",
+      "keywords": [
+        "efta00038519",
+        "maxwell finances",
+        "dial-in",
+        "redaction",
+        "lazar'",
+        "detective",
+        "nypd",
+        "fbi",
+        "child exploitation",
+        "human trafficking"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038592",
+            "similarity": 0.538,
+            "index": 61,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00017894",
+      "summary": "This document provides multiple methods for joining a Webex meeting related to a Freedom of Information Act (FOIA) request concerning Epstein/Maxwell. These methods include: *   Webex meeting link: https://usao.webex.com/usao/j.php?MTID=mclbb5eedOecOce74c174ac88e8ccbd53 *   Meeting number: 199 962 1511 with password PMxMsPua532 *   Global call-in numbers: 1999621511@usamwebex.com and 207.182.190.20 *   Dial-in options for Microsoft Lync and Skype for Business: 1999621511.usao@lync.webex.com.",
+      "timestamp": "2021-03-10T00:00:00",
+      "timestamp_raw": "10 Mar 2021",
+      "keywords": [
+        "epstein",
+        "maxwell",
+        "foia",
+        "webex",
+        "meeting",
+        "join",
+        "phone",
+        "usa",
+        "password",
+        "lync"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018729",
+      "summary": "An event titled \"Epstein/Maxwell FOIA\" occurred on March 10, 2021, from 22:00:00 to 22:30:00 GMT. The event was organized by (USANYS) [REDACTED]. It was classified as X-PERSONAL.  A reminder message was scheduled to display 15 minutes before the start.  The meeting used the Webex meeting number 199 962 1511 with password PMxMsPua532. Multiple phone numbers and a Webex dial-in number were provided for access, including toll numbers and international dialing options. A link to Webex help documentation was also included.",
+      "timestamp": "2021-03-10T00:00:00",
+      "timestamp_raw": "March 10, 2021",
+      "keywords": [
+        "epstein",
+        "maxwell",
+        "foia",
+        "redaction",
+        "webex",
+        "meeting",
+        "usanys",
+        "event",
+        "2021-03-10",
+        "1999621511"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028183",
+      "summary": "Maxwell case (20 Cr. 330 (MN)). The FBI has provided an index of physical evidence (produced from the FBI-Miami office) but notes it’s not a complete list. The US Attorney is seeking a similar index from the FBI's New York office and exploring options for scheduling a review with the client, potentially on May 18th, utilizing a provided dial-in number. There are logistical discussions about availability and the timeline for obtaining the requested indices.",
+      "timestamp": "2021-03-12T00:00:00",
+      "timestamp_raw": "12 Mar 2021",
+      "keywords": [
+        "fbi",
+        "maxwell",
+        "evidence",
+        "spreadsheet",
+        "images",
+        "new york",
+        "discovery",
+        "litigation",
+        "confidential",
+        "review"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024012",
+      "summary": "On March 25, 2021, at 8:00 PM - 9:00 PM GMT, there was a tentative call with PAE regarding Jeffrey Epstein. The call used the dial-in number 844-215-6902 with code 707522. The event was marked as X-PERSONAL and created on March 25, 2021. EFTA00024012 was the attendee.",
+      "timestamp": "2021-03-25T00:00:00",
+      "timestamp_raw": "March 25, 2021",
+      "keywords": [
+        "efta00024012",
+        "epstein",
+        "pae",
+        "call",
+        "2021-03-25",
+        "dial-in",
+        "x-personal",
+        "event",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00027714",
+            "similarity": 0.8,
+            "index": 68,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00027716",
+            "similarity": 0.727,
+            "index": 69,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00027714",
+      "summary": "On March 25, 2021, at 8:30 PM GMT, a confidential (Class X-PERSONAL) call took place with PAE regarding Jeffrey Epstein. The call lasted from 8:30 PM to 9:00 PM GMT. The event was created on March 25, 2021, at 8:03 PM GMT.",
+      "timestamp": "2021-03-25T00:00:00",
+      "timestamp_raw": "March 25, 2021",
+      "keywords": [
+        "efta00027714",
+        "epstein",
+        "call",
+        "pae",
+        "2021-03-25",
+        "x-personal",
+        "redaction analysis",
+        "event",
+        "dial-in"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00024012",
+            "similarity": 0.8,
+            "index": 67,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00027716",
+            "similarity": 0.727,
+            "index": 69,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00027716",
+      "summary": "A call occurred on 2021-03-25 from 20:30:00 to 21:00:00 +0000 with PAE regarding Jeffrey Epstein. The call was classified as “X-PERSONAL,” had a priority of 5, and was created/modified on 2021-03-25. A reminder was set to display a message 15 minutes before the start. The file identifier is EFTA00027716.",
+      "timestamp": "2021-03-25T00:00:00",
+      "timestamp_raw": "2021-03-25",
+      "keywords": [
+        "efta00027716",
+        "epstein",
+        "pae",
+        "call",
+        "2021-03-25",
+        "dial-in",
+        "x-personal",
+        "redaction analysis",
+        "event",
+        "reminder"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00027714",
+            "similarity": 0.727,
+            "index": 68,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00024012",
+            "similarity": 0.727,
+            "index": 67,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032632",
+      "summary": "An email exchange concerning a moot related to the Epstein FOIA is documented. The email chain originates from an Assistant United States Attorney at 300 Quarropas Street, White Plains, NY 10601. It includes attachments of a Times’ reply brief and briefing/declaration documents. Participants include individuals from the Bureau of Prisons (BOP) and the email addresses of those involved are redacted. The email discusses an \"all-star cast,\" oversubscription, a dial-in invite, and the participation of BOP personnel.",
+      "timestamp": "2021-04-05T00:00:00",
+      "timestamp_raw": "05 Apr 2021",
+      "keywords": [
+        "epstein",
+        "foia",
+        "moot",
+        "times",
+        "bop",
+        "usanys",
+        "redaction",
+        "brief",
+        "attachments",
+        "conflict"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00009826",
+      "summary": "An event titled \"Epstein FOIA Next Steps - Noel Team\" took place on April 13, 2021, from 20:00:00 to 20:30:00 GMT. The event was marked as X-PERSONAL priority 5 and involved a dial-in with passcode EFTA00009826. A reminder alarm was set to display 15 minutes before the start.",
+      "timestamp": "2021-04-13T00:00:00",
+      "timestamp_raw": "April 13, 2021",
+      "keywords": [
+        "epstein",
+        "foia",
+        "next steps",
+        "noel team",
+        "2021",
+        "redaction analysis",
+        "efta00009826",
+        "event",
+        "attendee",
+        "dial in"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027380",
+      "summary": "Multiple individuals discussed scheduling a call regarding the Epstein FOIA case. The original appointment was set for Tuesday, April 13, 2021, at 4:00 PM - 4:30 PM (UTC-05:00) Eastern Time. Alternative times were proposed, including 10:00 AM, 6:00 PM, and 10:10 AM, with the dial-in passcode EFTA00027380.",
+      "timestamp": "2021-04-13T00:00:00",
+      "timestamp_raw": "April 13, 2021",
+      "keywords": [
+        "epstein",
+        "foia",
+        "redaction",
+        "oig",
+        "usanys",
+        "meeting",
+        "time",
+        "april 13",
+        "2021",
+        "call",
+        "efta00027380"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00009829",
+            "similarity": 0.571,
+            "index": 73,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00026920",
+            "similarity": 0.667,
+            "index": 74,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00031431",
+            "similarity": 0.615,
+            "index": 77,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00009829",
+      "summary": "On April 13, 2021, multiple individuals discussed scheduling a meeting regarding the Epstein FOIA request. Proposed times included 12:00 PM - 3:00 PM, 6:00 PM, and 10:00 AM - 10:30 AM. The original appointment was set for 4:00 PM - 4:30 PM Eastern Time (UTC-05:00). A dial-in passcode of EFTA00009830 was provided.",
+      "timestamp": "2021-04-13T00:00:00",
+      "timestamp_raw": "April 13, 2021",
+      "keywords": [
+        "epstein",
+        "foia",
+        "redaction",
+        "time",
+        "meeting",
+        "april 13",
+        "2021",
+        "usanys",
+        "proffer",
+        "window",
+        "6pm"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00027380",
+            "similarity": 0.571,
+            "index": 72,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00026920",
+            "similarity": 0.667,
+            "index": 74,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00031431",
+            "similarity": 0.75,
+            "index": 77,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00026920",
+      "summary": "Multiple individuals (identified as USANYS and redacted individuals) were coordinating a meeting regarding the Epstein FOIA request. Proposed meeting times included 10:00 AM, 6:00 PM, and various times between 12:00 PM and 3:00 PM on April 13, 2021. Russell was also available for the meeting. The meeting was scheduled for 4:00 PM - 4:30 PM (UTC-05:00) Eastern Time (US & Canada) and involved a dial-in connection with a passcode (EFTA00026921).  All sender addresses and recipient addresses have been redacted.",
+      "timestamp": "2021-04-13T00:00:00",
+      "timestamp_raw": "April 13, 2021",
+      "keywords": [
+        "foia",
+        "epstein",
+        "scheduling",
+        "redaction",
+        "usanys",
+        "april 13",
+        "2021",
+        "time",
+        "meeting"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00009829",
+            "similarity": 0.667,
+            "index": 73,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00027380",
+            "similarity": 0.667,
+            "index": 72,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00026922",
+            "similarity": 0.636,
+            "index": 76,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00031431",
+            "similarity": 0.727,
+            "index": 77,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00009825",
+      "summary": "An email was sent from [REDACTED] to ‘MISANarali•YS” (USANYS) regarding “Epstein FOR Next Steps - Noel Team.” The email, dated April 13, 2021, requested confirmation of a meeting time and offered an alternative for the following day, utilizing a dial-in with a specified passcode. The email referenced document EFTA00009825.",
+      "timestamp": "2021-04-13T00:00:00",
+      "timestamp_raw": "April 13, 2021",
+      "keywords": [
+        "epstein",
+        "efta00009825",
+        "noel team",
+        "redaction",
+        "usanys",
+        "misanarali•ys",
+        "dial in",
+        "passcode",
+        "2021",
+        "2025"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026922",
+      "summary": "Multiple individuals are discussing scheduling a meeting regarding the Epstein FOIA request. Proposed times include 10:00-10:11 AM, 6:00 PM, and various times between 12:00 PM and 3:00 PM. Several individuals express limited availability and suggest alternative times based on their schedules. A meeting was originally scheduled for April 13, 2021, from 4:00 PM to 4:30 PM (UTC-05:00) Eastern Time. A dial-in passcode (EFTA00026923) is provided.",
+      "timestamp": "2021-04-13T00:00:00",
+      "timestamp_raw": "April 13, 2021",
+      "keywords": [
+        "epstein",
+        "foia",
+        "united states attorney",
+        "april 13",
+        "2021",
+        "redaction",
+        "time",
+        "scheduling",
+        "conference call"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00026920",
+            "similarity": 0.636,
+            "index": 74,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031431",
+      "summary": "Multiple individuals (identified only as \"[REDACTED] (USANYS)\") were discussing scheduling a meeting regarding the \"Epstein FOIA Next Steps - Noel Team.\" Proposed times included 4:00 PM - 4:30 PM UTC-05:00 on April 13, 2021, and alternative times between 12:00 PM and 3:00 PM, or 6:00 PM, subject to redaction. The meeting utilized a dial-in connection with passcode EFTA00031431.",
+      "timestamp": "2021-04-13T00:00:00",
+      "timestamp_raw": "April 13, 2021",
+      "keywords": [
+        "epstein",
+        "foia",
+        "redaction",
+        "time",
+        "april 13",
+        "2021",
+        "usanys",
+        "meeting",
+        "6pm",
+        "efta00031431"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00026920",
+            "similarity": 0.727,
+            "index": 74,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00009829",
+            "similarity": 0.75,
+            "index": 73,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00027380",
+            "similarity": 0.615,
+            "index": 72,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00009899",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] regarding a scheduling order for a hearing. The email attached the scheduling order, including public dial-in information and a separate access line for victims. The sender offered to notify the court of the recipient’s intention to use the victim access line. A confidentiality notice was included.",
+      "timestamp": "2021-04-22T00:00:00",
+      "timestamp_raw": "22 Apr 2021",
+      "keywords": [
+        "scheduling order",
+        "dial in",
+        "victims",
+        "court",
+        "access line",
+        "confidential",
+        "redaction",
+        "email",
+        "hearing"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038603",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] on April 23, 2021, regarding an external conference. The email included an attachment, “2021.04.19_Scheduling_Orderpdf,” containing dial-in information for the conference and wished the recipient well during their trip. The document’s identification is EFTA00038603.",
+      "timestamp": "2021-04-23T00:00:00",
+      "timestamp_raw": "April 23, 2021",
+      "keywords": [
+        "conference",
+        "redaction",
+        "email",
+        "attachment",
+        "scheduling",
+        "order",
+        "dial-in",
+        "2021",
+        "efta00038603"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027267",
+      "summary": "The arraignment for Ghislaine Maxwell on the S2 Superseding Indictment has been rescheduled to April 23, 2021, at 2:30 p.m. at the Daniel Patrick Moynihan Courthouse in New York. All participants must adhere to the Southern District of New York’s COVID-19 related orders. Public access will be facilitated via a public dial-in number, details of which will be provided in a subsequent public order.",
+      "timestamp": "2021-04-23T00:00:00",
+      "timestamp_raw": "April 23, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states",
+        "court",
+        "indictment",
+        "arraignment",
+        "order",
+        "covid-19",
+        "new york",
+        "justice",
+        "docket"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00009900",
+      "summary": "An email was sent from \"a\" to \"[REDACTED]\" on April 23, 2021, regarding access information for \"EFTA00009900.\" The email included a scheduling order (2021.04.19_Scheduling_Order.pdf) and instructions for dial-in access.",
+      "timestamp": "2021-04-23T00:00:00",
+      "timestamp_raw": "April 23, 2021",
+      "keywords": [
+        "efta00009900",
+        "dial in",
+        "access info",
+        "scheduling",
+        "order",
+        "redaction",
+        "2021",
+        "2025",
+        "pdf",
+        "email"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038601",
+      "summary": "An external email meeting, designated \"Maxwell team call,\" took place on April 26, 2021, from 19:00:00 to 20:00:00 GMT. It was organized under a \"X-PERSONAL\" classification, created on April 23, 2021, and had a priority of 5. A reminder was set to display a message 15 minutes before the start.",
+      "timestamp": "2021-04-26T00:00:00",
+      "timestamp_raw": "April 26, 2021",
+      "keywords": [
+        "efta00038601",
+        "maxwell team",
+        "external email",
+        "call",
+        "2021-04-26",
+        "reminder",
+        "alarm",
+        "priority",
+        "event",
+        "dial-in"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016604",
+      "summary": "A tentative phone call occurred on June 4, 2021, from 16:00:00 to 16:30:00 GMT, regarding an Epstein FOIA case. The call was a dial-in and classified as X-PERSONAL with a priority of 5. The event was created and last modified on June 4, 2021. EFTA00016604 was the attendee.",
+      "timestamp": "2021-06-04T00:00:00",
+      "timestamp_raw": "June 4, 2021",
+      "keywords": [
+        "epstein foia",
+        "redaction analysis",
+        "efta00016604",
+        "call",
+        "2021-06-04",
+        "personal",
+        "dial-in",
+        "x-personal"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00025217",
+            "similarity": 0.556,
+            "index": 84,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00025217",
+      "summary": "On June 4, 2021, at 4:00 PM GMT, a call was accepted regarding the Epstein FOIA case (EFTA00025217). The call lasted 30 minutes, utilized dial-in code 707522, and was classified as X-PERSONAL. The event was created on June 4, 2021 at 1:02 PM GMT and last modified at the same time.  The priority was set to 5.",
+      "timestamp": "2021-06-04T00:00:00",
+      "timestamp_raw": "June 4, 2021",
+      "keywords": [
+        "epstein foia",
+        "redaction analysis",
+        "efta00025217",
+        "call",
+        "2021-06-04",
+        "x-personal"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00016604",
+            "similarity": 0.556,
+            "index": 83,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018210",
+      "summary": "Brian Burns of Smith Villazor LLP is inquiring about the status of a Rule 17(c) subpoena related to United States v. Maxwell. The subpoena was initially sent by defense counsel and Patrick Smith, an Assistant United States Attorney, is attempting to connect Brian Burns with the relevant attorney. There were multiple check-ins and confirmations regarding the subpoena’s status and a proposed meeting time of 2:30 PM on November 15, 2021, via a provided dial-in. Jordy Feldman connected Brian Burns with Patrick Smith, counsel for the defense.",
+      "timestamp": "2021-11-15T00:00:00",
+      "timestamp_raw": "November 15, 2021",
+      "keywords": [
+        "subpoena",
+        "rule 17(c)",
+        "united states attorney",
+        "smith villazor llp",
+        "brian burns",
+        "patrick smith",
+        "efta00018210",
+        "voir dire",
+        "new york",
+        "defense"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038937",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] regarding scheduling information for a court conference. The email attached a scheduling order with dial-in details for an October 21st conference, noting it was a telephone conference and that the final pretrial conference is scheduled for November 1st at 11 a.m. in person. The document is identified as EFTA00038937.",
+      "timestamp": "2021-11-20T00:00:00",
+      "timestamp_raw": "20 Oct 2021",
+      "keywords": [
+        "scheduling",
+        "conference",
+        "telephone",
+        "court",
+        "dial-in",
+        "email",
+        "october",
+        "november",
+        "11 a.m.",
+        "efta00038937"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026478",
+      "summary": "A United States Attorney’s Office representative is following up on a telephone conference scheduled for tomorrow at noon with Judge Nathan, involving the defendant. The conference details, including the defendant’s phone number and access code, were previously communicated by Bobbi Sternheim. An order regarding the conference, including separate dial-in options for press and public attendees, is attached.",
+      "timestamp": "2021-11-21T00:00:00",
+      "timestamp_raw": "21 Oct 2021",
+      "keywords": [
+        "telephone conference",
+        "nathan",
+        "united states attorney",
+        "court",
+        "order",
+        "october 21",
+        "defendant",
+        "access code",
+        "press",
+        "public"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010941",
+      "summary": "*   An email chain discusses the public access procedures for the trial of Ghislaine Maxwell held in the Southern District of New York. *   The trial began on November 29, 2021, with jury selection. *   Public access is permitted via the courtroom and overflow rooms with COVID-19 distancing measures. *   No further broadcast or telephonic dial-in is allowed. *   Visitors must complete a questionnaire and have their temperature taken upon entry, adhering to strict COVID-19 protocols including mask requirements. *   Edward Friedland requested an update to a webpage regarding access information, as the previous information was causing public attempts to access the matter by phone. *   Joseph Pecorino provided a link to the official court document outlining the procedures.",
+      "timestamp": "2021-11-29T00:00:00",
+      "timestamp_raw": "November 29, 2021",
+      "keywords": [
+        "maxwell link",
+        "ghislaine maxwell",
+        "s.d.n.y.",
+        "covid-19",
+        "courtroom",
+        "trial",
+        "victim access",
+        "united states v.",
+        "redaction",
+        "joseph pecorino"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    }
+  ]
+}

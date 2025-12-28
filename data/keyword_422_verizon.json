@@ -1,0 +1,1355 @@
+{
+  "keyword": "verizon",
+  "count": 45,
+  "keyword_match_count": 45,
+  "content_match_count": 6,
+  "total_files": 51,
+  "timeline": [
+    {
+      "file_id": "EFTA00032400",
+      "summary": "It details several ongoing Supreme Court cases and rulings from lower courts (DC, Federal, Sixth, Seventh, Ninth, and Eleventh Circuits). Key cases covered include: *   **Census Citizenship Question:** The Supreme Court will hear arguments regarding Commerce Secretary Wilbur Ross’s decision to include a citizenship question on the 2020 census. *   **Title VII Plaintiff’s Hurdles:** The Supreme Court will consider a Texas county’s challenge to a Fifth Circuit decision concerning requirements for federal discrimination suits. *   **FOIA Case:** The Supreme Court will rule on the standard for invoking a key exception to the Freedom of Information Act concerning data shared with the Office of Federal Contract Compliance Programs. *   **Social Media Terrorism Suits:** The Sixth Circuit’s dismissal of a suit blaming Facebook, Twitter, and YouTube for a mass shooting highlights the slim chance of success in Anti-Terrorism Act suits. *   **UPS Unionization:** The D.C. Circuit rejected UPS’s attempt to overturn a unionization ruling at a Pennsylvania distribution facility. *   **Kazakhstan Award:** The D.C. Circuit upheld Kazakhstan’s ability to recover a half-billion-dollar arbitration award. *   **Wireless Fee Ruling:** The D.C. Circuit will hear arguments regarding the FCC’s ruling on Verizon’s roaming rates. *   **IP Verdicts:** The Federal Circuit ruled on several intellectual property cases, including overturning a $7.5 million verdict against Novozymes, siding with iRobot, and upholding a Hologic patent. *   **Other Cases:** The report also covers decisions regarding UPS, antitrust issues, a Maryland distribution facility unionization, and several cases involving patent disputes, employment discrimination, and criminal proceedings. It further lists law firms involved in these cases and provides contact information and a jobs section. Finally, it includes analysis and insights on trends within the legal industry, such as the increasing role of practice groups and the shifting landscape of corporate legal departments.",
+      "timestamp": "2019-04-22T00:00:00",
+      "timestamp_raw": "April 22, 2019",
+      "keywords": [
+        "census",
+        "supreme court",
+        "title vii",
+        "apa",
+        "commerce secretary",
+        "wilbur ross",
+        "discrimination",
+        "foia",
+        "arbitration",
+        "patents",
+        "antitrust",
+        "litigation",
+        "legal analysis",
+        "law firms",
+        "arbitration",
+        "legal industry",
+        "#metoo",
+        "efta"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035375",
+      "summary": "Emails dated July 23, 2019, between multiple individuals discussing Jeffrey Epstein. One individual requested a draft email detailing Epstein’s actions, current status, and plans to move him to a GP unit for forwarding to IPPA and the Director. Another individual responded, stating they were in Virginia with slow email and would obtain the requested information. A third email referenced confusion regarding a memo and requested a draft email for forwarding.",
+      "timestamp": "2019-07-23T00:00:00",
+      "timestamp_raw": "July 23, 2019",
+      "keywords": [
+        "epstein",
+        "redaction",
+        "efta00035375",
+        "virginia",
+        "memo",
+        "ippa",
+        "director",
+        "email",
+        "samsung",
+        "verizon"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00034487",
+            "similarity": 0.667,
+            "index": 2,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034165",
+            "similarity": 0.818,
+            "index": 3,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034487",
+      "summary": "On July 23, 2019, an email was sent from [REDACTED] to [REDACTED] requesting a draft email detailing Jeffrey Epstein’s actions, current status, and plans to move him to a GP unit, suitable for forwarding to IPPA and the Director. The email included three previous email threads regarding Epstein, all originating from [REDACTED].",
+      "timestamp": "2019-07-23T00:00:00",
+      "timestamp_raw": "July 23, 2019",
+      "keywords": [
+        "epstein",
+        "redaction",
+        "email",
+        "memo",
+        "gp unit",
+        "ippa",
+        "director",
+        "verizon",
+        "samsung",
+        "smartphone"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035375",
+            "similarity": 0.667,
+            "index": 1,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00034165",
+            "similarity": 0.667,
+            "index": 3,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034165",
+      "summary": "On July 23, 2019, communications revolved around the case of Jeffrey Epstein. A request was made to draft an email detailing Epstein’s actions and current status, including plans to move him to a GP unit, suitable for forwarding to IPPA and the Director. Subsequent messages involved coordinating email delivery from Virginia due to slow email service and a reminder regarding a draft being worked on.",
+      "timestamp": "2019-07-23T00:00:00",
+      "timestamp_raw": "July 23, 2019",
+      "keywords": [
+        "epstein",
+        "redaction",
+        "virginia",
+        "email",
+        "memo",
+        "ippa",
+        "director",
+        "samsung",
+        "verizon",
+        "7/23/19"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034487",
+            "similarity": 0.667,
+            "index": 2,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035375",
+            "similarity": 0.818,
+            "index": 1,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034828",
+      "summary": "On July 25, 2019, an email exchange occurred regarding reports related to the Epstein incident. One individual requested copies of reports from another. The email exchange occurred between individuals associated with the USMS and an unidentified recipient.",
+      "timestamp": "2019-07-25T00:00:00",
+      "timestamp_raw": "July 25, 2019",
+      "keywords": [
+        "epstein",
+        "redaction",
+        "reports",
+        "usms",
+        "sdny",
+        "email",
+        "verizon",
+        "samsung",
+        "2019",
+        "incident"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035647",
+      "summary": "On July 27, 2019, an assessment was conducted regarding inmate Epstein (#76318-054). The Suicide Watch status was None, and a Psych Observation was noted for Epstein. The communication was sent from [REDACTED] to [REDACTED].",
+      "timestamp": "2019-07-27T00:00:00",
+      "timestamp_raw": "July 27, 2019",
+      "keywords": [
+        "inmate",
+        "epstein",
+        "suicide watch",
+        "psych observation",
+        "redaction",
+        "efta00035647",
+        "2019",
+        "2025",
+        "verizon",
+        "samsung"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00035279",
+            "similarity": 0.538,
+            "index": 6,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035279",
+      "summary": "On July 27, 2019, an update was sent regarding inmate Epstein (#76318-054, EFTA00035279) as a Suicide Watch. The update was generated by [REDACTED] and received by [REDACTED]. A follow-up confirmation was sent by [REDACTED] (EFTA00035280).",
+      "timestamp": "2019-07-27T00:00:00",
+      "timestamp_raw": "July 27, 2019",
+      "keywords": [
+        "suicide watch",
+        "psych observation",
+        "epstein",
+        "inmate",
+        "redaction analysis",
+        "efta00035279",
+        "76318-054",
+        "2019",
+        "2025",
+        "verizon"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035647",
+            "similarity": 0.538,
+            "index": 5,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034747",
+      "summary": "On July 27, 2019, inmate Jeffrey Epstein was assessed by a psychologist prior to his attorney visit and will remain under psychological observation, with a subsequent assessment scheduled for the following day. The communication was sent from a correctional facility and referenced case files SDNY_000 12203 and EFTA00034747.",
+      "timestamp": "2019-07-27T00:00:00",
+      "timestamp_raw": "July 27, 2019",
+      "keywords": [
+        "epstein",
+        "psychologist",
+        "observation",
+        "attorney",
+        "redaction",
+        "assessment",
+        "sdny",
+        "verizon",
+        "samsung",
+        "2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00035603",
+            "similarity": 0.818,
+            "index": 9,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035648",
+      "summary": "On July 27, 2019, an individual observed inmate Epstein (#76318-054) before and after a legal visit. The inmate reported dehydration due to limited bathroom breaks during the legal visit, anxiety about returning to SHU (Special Housing Unit) due to noise, and difficulty sleeping. A suicide watch was initiated but subsequently cleared. The observation was conducted by [REDACTED] using a Verizon Samsung Galaxy smartphone.",
+      "timestamp": "2019-07-27T00:00:00",
+      "timestamp_raw": "July 27, 2019",
+      "keywords": [
+        "suicide watch",
+        "psych observation",
+        "inmate",
+        "legal visit",
+        "dehydrated",
+        "shu",
+        "anxiety",
+        "noise",
+        "samsung",
+        "verizon"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035603",
+      "summary": "On July 27, 2019, inmate Jeffrey Epstein was assessed by a psychologist prior to an attorney visit and will remain under psychological observation, with a follow-up assessment scheduled for the next day.",
+      "timestamp": "2019-07-27T00:00:00",
+      "timestamp_raw": "July 27, 2019",
+      "keywords": [
+        "epstein",
+        "psychologist",
+        "observation",
+        "attorney",
+        "redaction",
+        "assessment",
+        "verizon",
+        "samsung",
+        "galaxy",
+        "2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034747",
+            "similarity": 0.818,
+            "index": 7,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034211",
+      "summary": "On July 27, 2019, an individual reported observing inmate Epstein (#76318-054) before a legal visit. The inmate reported feeling dehydrated due to limited bathroom breaks during his 12-hour attorney visit and anxiety related to being moved back to SHU and the resulting sleep disruption caused by inmate noise. A suicide watch was initiated, but subsequently cleared. The update was sent from a Verizon Samsung Galaxy smartphone.",
+      "timestamp": "2019-07-27T00:00:00",
+      "timestamp_raw": "July 27, 2019",
+      "keywords": [
+        "suicide watch",
+        "psych observation",
+        "legal visit",
+        "inmate epstein",
+        "dehydration",
+        "shu",
+        "anxiety",
+        "noise",
+        "samsung galaxy",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034216",
+      "summary": "This document is a memo, dated July 30, 2019, from [REDACTED] to [REDACTED] regarding case EFTA00034216. The memo is classified as CONFIDENTIAL and includes reference to SDNY_000 10537. It was sent from a Verizon Samsung Galaxy smartphone.",
+      "timestamp": "2019-07-30T00:00:00",
+      "timestamp_raw": "July 30, 2019",
+      "keywords": [
+        "efta00034216",
+        "redaction analysis",
+        "memo",
+        "confidential",
+        "sdny",
+        "verizon",
+        "samsung",
+        "2019",
+        "2025",
+        "fwd"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00033697",
+            "similarity": 0.538,
+            "index": 24,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034848",
+      "summary": "This document is a confidential email regarding a \"DHO Packet\" for Jeffrey Epstein, identified by case numbers SDNY_00012651 and EFTA00034848. The email was sent on July 30, 2019, at 6:00 PM (GMT-05:00) and involves redactions.",
+      "timestamp": "2019-07-30T00:00:00",
+      "timestamp_raw": "July 30, 2019",
+      "keywords": [
+        "efta00034848",
+        "jeffrey epstein",
+        "redaction",
+        "dho packet",
+        "sdny_00012651",
+        "76318-054",
+        "verizon",
+        "samsung",
+        "confidential"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034219",
+      "summary": "This document is a forwarded email chain regarding a DI-IO packet for Jeffrey Epstein (76318-054). The email originated on July 31, 2019, from [REDACTED] to [REDACTED], with the subject line \"DHO Packet for Epstein, Jeffrey 76318-054.\" It is marked as CONFIDENTIAL and includes the reference number EFTA00034219.",
+      "timestamp": "2019-07-31T00:00:00",
+      "timestamp_raw": "July 31, 2019",
+      "keywords": [
+        "epstein",
+        "jeffrey",
+        "dho packet",
+        "di-io packet",
+        "redaction analysis",
+        "sdny_000",
+        "76318-054",
+        "verizon",
+        "samsung",
+        "efta00034219"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034842",
+      "summary": "On August 4, 2019, a staff member communicated concerns about a lack of response from a Captain, citing multiple unanswered calls and a situation with vacant posts (13) across various units including SHU 3 & 4, 5 South, 7 South, and internal searches. The Captain, Lt. , was designated to act on their behalf for Monday and Tuesday, August 5th and 6th, due to the Captain’s absence. There were concerns about modified status, potential cancellations of religious services, and the use of non-custody inmates.",
+      "timestamp": "2019-08-04T00:00:00",
+      "timestamp_raw": "August 4, 2019",
+      "keywords": [
+        "danbury",
+        "captain",
+        "staff",
+        "roster",
+        "attorney visits",
+        "religious services",
+        "shu",
+        "verizon",
+        "samsung",
+        "confidential"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036683",
+      "summary": "An email was sent from [REDACTED] to an unknown recipient regarding Jeffrey Epstein. The email includes an attachment named “Epstein.eml” and states that the warden of NYM was not aware of any requests for suicide watch for Epstein from his attorneys.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "10 Aug 2019",
+      "keywords": [
+        "epstein",
+        "redaction",
+        "efta00036683",
+        "nym",
+        "attorneys",
+        "suicide watch",
+        "fwd",
+        "2019",
+        "verizon",
+        "samsung"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034515",
+      "summary": "On August 10, 2019, an email was sent from [REDACTED] to [REDACTED] regarding “Count Slips” (SDNY_000 11236, EFTA00034515). The email was forwarded by Fran on August 14, 2019.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "efta00034515",
+        "redaction analysis",
+        "count slips",
+        "sdny_000",
+        "2019",
+        "2025",
+        "verizon",
+        "samsung",
+        "confidential"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036686",
+      "summary": "On August 10, 2019, an individual reported an incident in New York. The sender, “[REDACTED],” requested recipients to provide updates via email or text message due to their continued high workload.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "efta00036686",
+        "nym",
+        "redaction",
+        "incident",
+        "new york",
+        "samsung galaxy",
+        "verizon",
+        "email",
+        "text",
+        "boss"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00036744",
+            "similarity": 0.667,
+            "index": 21,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034469",
+      "summary": "A timeline regarding Jeffrey Epstein’s incarceration is being investigated, with a disputed date of July 29 initially cited. Records show Epstein was released on July 30, 19, with an attorney visiting him throughout the day. An attorney log is pending.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "08/10/2019",
+      "keywords": [
+        "epstein",
+        "doj",
+        "redacted",
+        "date",
+        "attorney",
+        "psych ops",
+        "log book",
+        "sdny",
+        "verizon",
+        "samsung"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00035465",
+            "similarity": 0.538,
+            "index": 27,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00036742",
+      "summary": "On August 10, 2019, an individual informed multiple recipients (including individuals at the Bureau of Prisons) about an incident in New York. The sender stated everything was “as good as can be” and requested a quick email or text message for updates, noting the sender was busy.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "redaction",
+        "efta00036742",
+        "nym",
+        "verizon",
+        "samsung",
+        "email",
+        "text",
+        "8/10/19",
+        "bop",
+        "smartphonc"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036743",
+      "summary": "An investigation is being initiated by the Attorney General, potentially leading to significant disruption. The communication was sent from a Verizon Samsung Galaxy smartphone on August 10, 2019, at 20:41:05 +0000.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "investigation",
+        "ag",
+        "efta00036743",
+        "samsung",
+        "verizon",
+        "analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036744",
+      "summary": "An email chain discusses an incident in New York. One sender informs another that everything is “as good as can be” and requests a quick email or text update from recipients. The emails are sent from Verizon smartphones.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "10 Aug 2019",
+      "keywords": [
+        "nym",
+        "redaction",
+        "email",
+        "text",
+        "new york",
+        "incident",
+        "samsung",
+        "verizon",
+        "2019",
+        "boss"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00036686",
+            "similarity": 0.667,
+            "index": 17,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00036741",
+            "similarity": 0.667,
+            "index": 32,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00036655",
+            "similarity": 0.538,
+            "index": 33,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035359",
+      "summary": "On August 10, 2019, at 22:20:02 +0000, an email was sent from [REDACTED] to [REDACTED] regarding discrepancies in count slips. The 12am count slip read 73, while the 12am El slip read 72. An attached file named EFTA00035359 was also sent.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "count slips",
+        "redaction",
+        "efta00035359",
+        "2019",
+        "2025",
+        "text.htm",
+        "verizon",
+        "samsung",
+        "el"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036603",
+      "summary": "A document (EFTA00036603) transmitted on August 10, 2019, regarding a pending approval from the DOJ. The document contains a revised version with edits from the DOJ, sent by Orr. The original sender also forwarded an earlier version with the subject \"FYI - still not yet approved by DOJ.\"",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "efta00036603",
+        "doj",
+        "redaction",
+        "approval",
+        "version",
+        "edits",
+        "2019",
+        "august",
+        "pending",
+        "verizon"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00033697",
+      "summary": "This document is a forwarded email chain concerning “MCC Epstein.” The email originated on August 10, 2019, from [REDACTED] to [REDACTED], with a subject line of “MCC Epstein.” The email is marked as CONFIDENTIAL and associated with case number SDNY_00009136 and file EFTA00033697.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "efta00033697",
+        "mcc epstein",
+        "redaction",
+        "confidential",
+        "sdny",
+        "2019",
+        "2025",
+        "verizon",
+        "samsung",
+        "fwd"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034216",
+            "similarity": 0.538,
+            "index": 11,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00034494",
+            "similarity": 0.538,
+            "index": 26,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00036601",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] on August 10, 2019, regarding document EFTA00036601. The email attached a file named TEXT.htm.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "efta00036601",
+        "redaction",
+        "documents",
+        "ranges",
+        "2019",
+        "2025",
+        "analysis",
+        "verizon",
+        "samsung",
+        "text.htm"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034494",
+      "summary": "An email chain, dated August 10, 2019, discusses a timeline referred to as “NYM Time Line.” The email originated from [REDACTED] and was forwarded by [REDACTED]. The email is classified as CONFIDENTIAL and includes the case identifier SDNY_00011145 and document identifier EFTA00034494. There were four redactions on page 1.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "efta00034494",
+        "nym",
+        "time line",
+        "redaction",
+        "confidential",
+        "sdny",
+        "2019",
+        "2025",
+        "verizon",
+        "samsung"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00033697",
+            "similarity": 0.538,
+            "index": 24,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035465",
+      "summary": "An email chain discusses a timeline related to Jeffrey Epstein’s incarceration, referencing a DOJ timeline of July 29th and a logbook indicating his release on July 30th with an attorney visit throughout the day. The email includes attachments, including a TEXT.htm file.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "10 Aug 2019",
+      "keywords": [
+        "epstein",
+        "redaction",
+        "doj",
+        "timeline",
+        "attorney",
+        "psych ops",
+        "2019",
+        "date",
+        "verizon",
+        "samsung"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034469",
+            "similarity": 0.538,
+            "index": 18,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035448",
+      "summary": "A request was made to identify the Security Housing Unit Lieutenant (SHU LT) and determine if he was present at the institution on Friday, along with his work hours if he was. The original message was forwarded from [REDACTED] to [REDACTED].",
+      "timestamp": "2019-08-11T00:00:00",
+      "timestamp_raw": "11 Aug 2019",
+      "keywords": [
+        "efta00035448",
+        "shu lt",
+        "memorandum(epstein)",
+        "redaction",
+        "ori",
+        "verizon",
+        "samsung",
+        "institution",
+        "work hours",
+        "8 11 19"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034362",
+      "summary": "An email chain, dated August 11, 2019, discusses a request from CBS News regarding Jeffrey Epstein. The email thread includes references to “CBS News Request - Epstein,” “SDNY_000 10806,” and “EFTA00034362.” Four redactions are present within the document.",
+      "timestamp": "2019-08-11T00:00:00",
+      "timestamp_raw": "August 11, 2019",
+      "keywords": [
+        "efta00034362",
+        "cbs news",
+        "epstein",
+        "redaction",
+        "confidential",
+        "sdny",
+        "verizon",
+        "samsung",
+        "2019",
+        "request"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036913",
+      "summary": "A message was sent from [REDACTED] to someone requesting that they be called if the recipient is asked to go to an identification body. The message was sent on August 11, 2019.",
+      "timestamp": "2019-08-11T00:00:00",
+      "timestamp_raw": "August 11, 2019",
+      "keywords": [
+        "redaction",
+        "analysis",
+        "efta00036913",
+        "body",
+        "id",
+        "call",
+        "2019",
+        "2025",
+        "verizon",
+        "samsung"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034371",
+      "summary": "A request was made on August 11, 2019, inquiring about the identity and whereabouts (specifically, Friday work hours) of an individual referred to as the “SHU LT” who was at an institution. The request was part of a chain of emails concerning a memorandum related to Jeffrey Epstein.",
+      "timestamp": "2019-08-11T00:00:00",
+      "timestamp_raw": "August 11, 2019",
+      "keywords": [
+        "efta00034371",
+        "shu lt",
+        "institution",
+        "redaction",
+        "memorandum",
+        "epstein",
+        "confidential",
+        "sdny_000",
+        "verizon",
+        "samsung"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036741",
+      "summary": "On August 11, 2019, a message was sent from [REDACTED] to [REDACTED] regarding an incident in New York. The sender, [REDACTED], reported that everything was “as good as can be” and requested a message be sent. On August 10, 2019, [REDACTED] sent a similar message to [REDACTED] regarding the same incident, noting the recipient's continued busyness and requesting a quick message.",
+      "timestamp": "2019-08-11T00:00:00",
+      "timestamp_raw": "August 11, 2019",
+      "keywords": [
+        "efta00036741",
+        "nym",
+        "redaction",
+        "email",
+        "text",
+        "samsung",
+        "verizon",
+        "2019",
+        "2025",
+        "incident"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00036744",
+            "similarity": 0.667,
+            "index": 21,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036655",
+      "summary": "On August 12, 2019, a Regional Director from the Northeast Region sent an email regarding an incident in New York. The sender requested recipients to send an email or text message to update the recipient, who is \"busy,\" on the situation. The email was sent from a Verizon Samsung Galaxy smartphone.",
+      "timestamp": "2019-08-12T00:00:00",
+      "timestamp_raw": "August 12, 2019",
+      "keywords": [
+        "nym",
+        "incident",
+        "new york",
+        "email",
+        "text",
+        "regional director",
+        "northeast region",
+        "verizon",
+        "samsung",
+        "efta00036655"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00036744",
+            "similarity": 0.538,
+            "index": 21,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036137",
+      "summary": "Steve Smith, a Federal Sales Representative for SigNet Technologies and Convergint Federal Solutions, contacted [REDACTED] on August 12, 2019, to discuss the status of a DVR. He proposed a morning call to review the current situation and plan next steps, following up on a prior message requesting a status update. [REDACTED] responded indicating they would be busy but would find time to speak. The email chain included standard disclaimers regarding confidential information and unauthorized use.",
+      "timestamp": "2019-08-12T00:00:00",
+      "timestamp_raw": "August 12, 2019",
+      "keywords": [
+        "signet technologies",
+        "dvr status",
+        "steve smith",
+        "federal sales representative",
+        "redaction analysis",
+        "efta00036137",
+        "beltsville",
+        "md",
+        "verizon",
+        "convergint federal solutions"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036629",
+      "summary": "This document summarizes email correspondence regarding \"Psych Observation 7/24-30/19 (I/M companion utilized),\" including emails sent between August 12, 2019, and August 12, 2019, with subject lines referencing the observation and utilizing an \"I/M companion.\" The emails were sent between individuals identified as [REDACTED] and [REDACTED].",
+      "timestamp": "2019-08-12T00:00:00",
+      "timestamp_raw": "August 12, 2019",
+      "keywords": [
+        "efta00036629",
+        "psych observation",
+        "redaction analysis",
+        "companion",
+        "i/m",
+        "samsung galaxy",
+        "verizon",
+        "2019",
+        "2025",
+        "email"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035255",
+      "summary": "An email from MCC New York, dated 8/12/2019 at 3:35 PM, reports that an attachment named \"EFTA00035255\" cannot be opened due to corruption. The email discusses a psych observation from 7/8/19 6 pm until 7/10/19 at 9 am regarding Jeffrey Edward Epstein, Reg. No. 73618-054. The sender is using a Verizon Samsung Galaxy smartphone.",
+      "timestamp": "2019-08-12T00:00:00",
+      "timestamp_raw": "8/12/2019",
+      "keywords": [
+        "efta00035255",
+        "redaction",
+        "email",
+        "jeffrey epstein",
+        "psych observation",
+        "8/12/2019",
+        "corrupted",
+        "damaged",
+        "attachment",
+        "samsung galaxy"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036049",
+      "summary": "An email was sent from darden@bop.gov to [REDACTED] on August 13, 2019, regarding an Fmk Dashboard Report (EFTA00036049). The email included attachments named “DasItstarawarlinsa” and requested that the recipient ensure the report was addressed.  The email was sent from a Verizon Samsung Galaxy smartphone.",
+      "timestamp": "2019-08-13T00:00:00",
+      "timestamp_raw": "August 13, 2019",
+      "keywords": [
+        "fmk dashboard",
+        "report",
+        "redaction",
+        "efta00036049",
+        "august 13",
+        "2019",
+        "darden",
+        "bop.gov",
+        "samsung galaxy",
+        "dasitstarawarlinsa"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036625",
+      "summary": "An email chain discusses a request for someone to be available for the next couple of weeks to assist an individual (“He”) dealing with numerous requests. One email suggests the recipient, “[REDACTED],” be a go-to person. A second email, dated earlier, references ABS and the availability of assistance from NYM.",
+      "timestamp": "2019-08-14T00:00:00",
+      "timestamp_raw": "14 Aug 2019",
+      "keywords": [
+        "efta00036625",
+        "redaction",
+        "analysis",
+        "request",
+        "planning",
+        "verizon",
+        "samsung",
+        "galaxy",
+        "2019",
+        "2025"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036734",
+      "summary": "An email exchange occurred between J. (Regional Director, Northeast Region) and [REDACTED] regarding contact information for ODAG. J. forwarded information about the Warden’s private line and work cell, indicating ODAG may or may not contact the recipient or other staff. The email was sent on August 14, 2019.",
+      "timestamp": "2019-08-14T00:00:00",
+      "timestamp_raw": "August 14, 2019",
+      "keywords": [
+        "efta00036734",
+        "redaction",
+        "contact information",
+        "ori",
+        "warden",
+        "northeast region",
+        "odag",
+        "samsung galaxy",
+        "verizon",
+        "j."
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035628",
+      "summary": "An unsigned memo regarding the After Action Review Team NYM is being shared. The sender requests that computer services be available for the team’s access and anticipates discussing the memo further in the morning.",
+      "timestamp": "2019-08-14T00:00:00",
+      "timestamp_raw": "14 Aug 2019",
+      "keywords": [
+        "efta00035628",
+        "after action review",
+        "nym",
+        "memo",
+        "computer services",
+        "android",
+        "word",
+        "verizon",
+        "samsung",
+        "review team"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036409",
+      "summary": "An email was sent on August 15, 2019, requesting a list of 10 individuals with carriers to accommodate guests at an institution. The email was sent from a Verizon Samsung Galaxy smartphone.",
+      "timestamp": "2019-08-15T00:00:00",
+      "timestamp_raw": "August 15, 2019",
+      "keywords": [
+        "congressional",
+        "est",
+        "carriers",
+        "guests",
+        "institution",
+        "2019",
+        "august",
+        "samsung",
+        "smartphone",
+        "efta00036409"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036694",
+      "summary": "An email exchange concerning an autopsy report. One email asks if the institution has received or will receive a copy of the report, sent from a Verizon Samsung Galaxy smartphone. The email chain is labeled EFTA00036694.",
+      "timestamp": "2019-08-16T00:00:00",
+      "timestamp_raw": "16 Aug 2019",
+      "keywords": [
+        "autopsy",
+        "redaction",
+        "efta00036694",
+        "report",
+        "samsung",
+        "verizon",
+        "2019",
+        "2025",
+        "institution",
+        "copy"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036615",
+      "summary": "Email correspondence regarding an “Epstein Draft” (EFTA00036615) between individuals identified as [REDACTED], [REDACTED], and [REDACTED] on August 15th and 16th, 2019. The emails included acknowledgements of receipt and short notice regarding the draft.",
+      "timestamp": "2019-08-16T00:00:00",
+      "timestamp_raw": "16 Aug 2019",
+      "keywords": [
+        "epstein",
+        "draft",
+        "redaction",
+        "efta00036615",
+        "m. appreciate",
+        "verizon",
+        "samsung",
+        "smartphone",
+        "2019",
+        "2025"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036097",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] on August 16, 2019, regarding memos titled “Fuld MDC Brooklyn and MIT-NOVI York Memo.” The email included attachments and referenced HRMD. The email was sent from a Verizon Samsung Galaxy smartphone.",
+      "timestamp": "2019-08-16T00:00:00",
+      "timestamp_raw": "August 16, 2019",
+      "keywords": [
+        "efta00036097",
+        "mdc",
+        "brooklyn",
+        "new york",
+        "memo",
+        "redaction",
+        "hrmd",
+        "verizon",
+        "samsung",
+        "galaxy"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00033622",
+      "summary": "On August 17, 2019, an individual requested a legal visit scheduled for 8:00 AM the following morning. Another individual responded, acknowledging the last-minute request due to unforeseen circumstances. The communication included a warning regarding the confidential nature of the transmission and prohibited review, dissemination, distribution, or copying.",
+      "timestamp": "2019-08-17T00:00:00",
+      "timestamp_raw": "August 17, 2019",
+      "keywords": [
+        "legal visit",
+        "redaction",
+        "confidential",
+        "attorney",
+        "notes",
+        "transmittal",
+        "sunday visit",
+        "verizon",
+        "samsung",
+        "communication"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025239",
+      "summary": "This document is a discovery letter from the U.S. Department of Justice, Southern District of New York, to defense counsel regarding the United States v. Michael Thomas case (No. 19 Cr. 830). It outlines the materials being produced to the defense, including surveillance footage from the Special Housing Unit (MCC) at Rikers Island, commissary records, computer analysis results, inmate reports, photographs, BOP records, and phone records. The Government also discloses potential Brady material (information that should have been disclosed to the defense) stemming from inmate statements.  The letter requests reciprocal discovery from the defense, including access to the defendant’s books and records, prior statements of witnesses, and a response to a Rule 12.3 demand regarding a potential defense of actual or believed exercise of public authority. Finally, the letter highlights the Government’s policy regarding plea offers and emphasizes the need for written, signed offers to be considered.",
+      "timestamp": "2019-12-31T00:00:00",
+      "timestamp_raw": "December 31, 2019",
+      "keywords": [
+        "u.s. department of justice",
+        "montell figgins",
+        "michael thomas",
+        "mcc",
+        "surveillance footage",
+        "protective order",
+        "discovery",
+        "inmate records",
+        "bop",
+        "social media",
+        "cellmate records",
+        "financial records",
+        "apple",
+        "at&t",
+        "comcast",
+        "sprint",
+        "verizon",
+        "thirty minute round",
+        "3500 material",
+        "sentencing guidelines"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028482",
+      "summary": "On January 16, 2020, Stan Pottinger forwarded a CNN article detailing the Virgin Islands’ claim that Jeffrey Epstein disregarded environmental protections and showed disrespect for the law due to his polluting activities. The email originated from Pottinger’s Verizon Samsung Galaxy smartphone.",
+      "timestamp": "2020-01-16T00:00:00",
+      "timestamp_raw": "January 16, 2020",
+      "keywords": [
+        "jeffrey epstein",
+        "virgin islands",
+        "environmental protections",
+        "polluter",
+        "cnn",
+        "stan pottinger",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034218",
+      "summary": "Gardner provided Jeffrey Epstein with paperwork including visiting forms, a contact sheet, a social call, and a UDC. The paperwork was located in 5 North. The communication originated on July 30, 19 at 6:06 PM (GMT-05:00) from [REDACTED] to [REDACTED] regarding case file EFTA00034218.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00034218",
+        "jeffrey epstein",
+        "redaction",
+        "forms",
+        "contact sheet",
+        "udc",
+        "social call",
+        "bp-a0203",
+        "gardner",
+        "verizon"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00035407",
+            "similarity": 0.538,
+            "index": 49,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035407",
+      "summary": "Paperwork for Jeffrey Epstein (BP-A0203, EFTA00035407) was located in 5 North. This included visiting forms, a contact sheet, and instructions for adding contact information via social call and UDC. The message was sent on July 30, 19.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00035407",
+        "jeffrey epstein",
+        "redaction",
+        "forms",
+        "contact sheet",
+        "udc",
+        "social call",
+        "paperwork",
+        "verizon",
+        "samsung"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034218",
+            "similarity": 0.538,
+            "index": 48,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035662",
+      "summary": "A memo regarding an extension cord for inmate Epstein was sent by Ori to the Captain and Lieutenants. The memo is attached as file EFTA00035662.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00035662",
+        "extension cord",
+        "memo",
+        "epstein",
+        "inmate",
+        "redaction",
+        "2025-12-27",
+        "captain",
+        "verizon",
+        "samsung"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    }
+  ]
+}

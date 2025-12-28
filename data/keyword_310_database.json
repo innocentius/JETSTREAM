@@ -1,0 +1,2762 @@
+{
+  "keyword": "database",
+  "count": 30,
+  "keyword_match_count": 30,
+  "content_match_count": 69,
+  "total_files": 99,
+  "timeline": [
+    {
+      "file_id": "EFTA00037697",
+      "summary": "An FBI Forensic Accountant at the New York Field Office is investigating property ownership linked to Ghislaine Maxwell. Communications detail a potential property value of $4,950,000 sold by an LLC on July 6, 2000, to an unknown buyer. The initial investigation indicates the property was previously owned by an LLC and potentially partially or fully owned by Ghislaine Maxwell. The investigator requests further information including purchase and sale dates, prices, and previous owners from various real estate databases (ACRIS).",
+      "timestamp": "2000-07-06T00:00:00",
+      "timestamp_raw": "July 6, 2000",
+      "keywords": [
+        "ghislaine maxwell",
+        "fbi",
+        "forensic accountant",
+        "property",
+        "llc",
+        "sale",
+        "purchase",
+        "redaction",
+        "efta00037697",
+        "squad c-40"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00006770",
+      "summary": "Okay, this is a massive dataset of call detail records (CDRs) from MetroPCS (likely around 2006). Here's a breakdown of what we're looking at and how we can analyze it, along with some key considerations: **What We Have:** * **Extensive CDR Data:** This file contains numerous call records, each with timestamps (date and time), the originating and destination phone numbers, and durations of calls. * **Data Fields:** The records typically contain these fields (although the exact format might vary slightly): * **Timestamp:** Date and time of the call. * **Originating Phone Number (Caller ID):** The number that initiated the call. * **Destination Phone Number (Called ID):** The number that received the call. * **Duration:** The length of the call in seconds. * **Network Information:** (Potentially) Details about the network connection. * **Other:** Call types (e.g., outgoing, incoming), possibly other metadata. * **Large Volume:**  It's a very large file.  Analyzing it directly within a standard spreadsheet or even a large database might be slow and potentially overwhelming. **Potential Analyses & Questions We Could Answer:** 1.  **Call Volume & Patterns:** *   **Total Calls:**  How many calls were made/received in the dataset? *   **Peak Calling Times:** What times of day or days of the week had the highest call volume? *   **Call Duration Distribution:**  What were the typical call durations?  What was the range of call lengths? *   **Call Frequency:** How many calls were made between any two specific phone numbers? 2.  **Traffic Analysis (Between Specific Numbers):** *   **Most Frequent Callers/Recipients:** Which phone numbers were involved in the most calls (both as callers and recipients)? *   **Longest-Running Conversations:** Which pairs of numbers had the longest call durations? *   **Call Sequences:**  Could we identify patterns of calling (e.g., a number calling a set of other numbers in a specific sequence)? 3.  **Network Usage:** *   **Network Congestion:**  Could we identify times when the network was particularly busy (high call volume)? *   **Origin/Destination Zones:**  (If location data were included, which isn't explicitly shown here, but might be in other data sources linked to these calls)  Where were these calls originating from and going to geographically? 4.  **Fraud Detection (Potential):** *   **Unusual Call Patterns:**  Any calls that deviated significantly from typical calling patterns could be flagged for investigation. **Tools & Techniques for Analysis:** *   **Database Systems (SQL):**  The most efficient approach would be to load the data into a database (e.g., MySQL, PostgreSQL, SQLite) and then use SQL queries to extract and analyze the data.  This is essential for handling the large volume of records and performing complex aggregations. *   **Data Analysis Libraries (Python):** Python libraries like Pandas, NumPy, and Matplotlib can be used to process and visualize the data. Pandas is particularly good for working with tabular data. *   **Data Visualization Tools:** Tools like Tableau or Power BI could be used to create interactive dashboards and visualizations. *   **Big Data Technologies (If Necessary):** If the data volume is *extremely* large and doesn’t fit into a standard database, technologies like Apache Spark or Hadoop might be needed. However, this is unlikely for this dataset. **Challenges & Considerations:** *   **Data Quality:**  Assess the quality of the data. Are there any missing fields, inconsistencies, or errors in the data? This will impact the accuracy of your analysis. *   **Privacy:**  Be mindful of privacy concerns when working with call data.  Anonymize or de-identify the data if necessary to protect individuals' identities. *   **Data Structure:** Understand the precise format of the data.  Identify the names and types of each field. *   **Computational Resources:**  Processing a large dataset like this requires sufficient computing power and memory. **To help me give you more targeted guidance, could you tell me:** *   **What are you specifically hoping to learn from this data?** (e.g., \"I want to identify peak calling times,\" or \"I want to find the most frequent callers\"). *   **What tools are you comfortable using?** (e.g., \"I'm familiar with Excel,\" or \"I'm proficient in Python\"). *   **Do you have any specific questions you want to address?**",
+      "timestamp": "2006-12-22T00:00:00",
+      "timestamp_raw": "12-22-2006",
+      "keywords": [
+        "okay",
+        "here’s a breakdown of the information extracted from the provided text",
+        "focusing on key details about the metropcs call data.",
+        "**i. overall data structure**",
+        "*   **file name:** `16980.tre` (likely a table or data file).",
+        "*   **data range:**  the data covers calls from june 1",
+        "2006",
+        "to august 1",
+        "2006.",
+        "*   **record structure:**  each row (record) in the data represents a single phone call. it contains several fields",
+        "including:",
+        "*   `dialed number`: the destination phone number.",
+        "*   `destination number`: the metropcs phone number the call was initiated from.",
+        "*   `direction (dir)`: indicates whether the call was inbound or outbound (likely ‘s’ for outbound and ‘i’ for inbound).",
+        "*   `mm sec`: milliseconds.",
+        "*   `caller id`: the metropcs phone number that initiated the call.",
+        "**ii. specific call details (selected examples)**",
+        "*   **example 1:** (starting june 6",
+        "2006)",
+        "*   `dialed number`:  (not fully listed)",
+        "*   `destination number`:  (not fully listed)",
+        "*   **example 2:** (june 14",
+        "2006)",
+        "*   `dialed number`:  (not fully listed)",
+        "*   `destination number`:  (not fully listed)",
+        "*   **example 3:** (june 15",
+        "2006)",
+        "*   `dialed number`:  (not fully listed)",
+        "*   `destination number`:  (not fully listed)",
+        "**iii.  observations and potential analysis**",
+        "*   **call direction:** the data appears to show both inbound and outbound calls.",
+        "*   **time-based analysis:**  the data provides a timeline of calls",
+        "allowing for analysis of call patterns over time.",
+        "*   **duration:** the “mm sec” field could be used to calculate the duration of each call.",
+        "*   **number of calls:** the complete dataset would reveal the total number of calls made.",
+        "*   **frequency of calls:** further analysis would be possible with information on the frequency of calls between specific numbers or during certain times.",
+        "**iv. considerations & missing information**",
+        "*   **incomplete data:** this is an excerpt",
+        "so a complete dataset is needed for thorough analysis.",
+        "*   **column definitions:**  the exact meanings of all columns (especially `mm sec`) are not fully clear from this snippet.",
+        "*   **data quality:**  the data might contain errors or missing values.",
+        "to help you further",
+        "could you please tell me:",
+        "*   what is the *purpose* of this data?  (e.g.",
+        "are you trying to identify patterns",
+        "find specific calls",
+        "analyze call volume",
+        "or something else?)",
+        "*   are there other columns in the data file beyond those listed?",
+        "*   do you have a sample of the *complete* dataset (e.g.",
+        "a few more rows)?"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019163",
+      "summary": "An FBI Special Agent (SA) from the Miami Division contacted Adele Thonn, Conference Director for Jefferson Financial, Inc., to investigate attendance at a financial investment conference held in New Orleans between 1998-2000. The investigation focused on two specific individuals: Jeffrey Epstein and an unidentified person. Thonn provided hotel records from those years (Hyatt Regency, New Orleans; Windsor Court; Sheraton New Orleans), noting previous database transitions and record destruction. The initial inquiry was regarding the conference’s timing and hotel usage.",
+      "timestamp": "2011-04-15T00:00:00",
+      "timestamp_raw": "15 Apr 2011",
+      "keywords": [
+        "fbi",
+        "new orleans",
+        "conference",
+        "jeffrey epstein",
+        "hotels",
+        "2001",
+        "1998",
+        "1999",
+        "2000",
+        "investment conference"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031361",
+      "summary": "The document is a series of email exchanges between law enforcement (NYPD/FBI Child Exploitation Human Trafficking Task Force) and an Assistant United States Attorney regarding the investigation of Jeffrey Epstein.  The investigation involves reviewing 911 calls originating from Epstein’s alarm company, searching DAS databases for relevant information, and tracking Epstein’s phone number.  The communications include requests for sprint reports, DAS searches, and the review of SOMU records. Several individuals and locations are redacted.",
+      "timestamp": "2018-12-10T00:00:00",
+      "timestamp_raw": "December 10, 2018",
+      "keywords": [
+        "epstein",
+        "human trafficking",
+        "nypd",
+        "fbi",
+        "das search",
+        "child exploitation",
+        "task force",
+        "sprint reports",
+        "911 calls"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019518",
+      "summary": "An email chain discusses obtaining RSA tokens for access to Relativity, a web-based mass-document management system. A form needs to be completed and sent to a recipient for RSA token issuance. A Relativity database is being set up for the U.S. v. Epstein case, specifically requesting the upload of PDF files from the “USvEpstein-awestigation FBI materials” folder (reports, FOIA documents) while excluding files from a subfolder. There's an expectation of receiving a large volume of case files and a need for agent access to avoid delays. A privilege review isn't anticipated for the initial materials.",
+      "timestamp": "2019-01-11T00:00:00",
+      "timestamp_raw": "11 Jan 2019",
+      "keywords": [
+        "relativity",
+        "rsa token",
+        "fbi",
+        "u.s. v. epstein",
+        "ausas",
+        "database",
+        "documents",
+        "access",
+        "case files",
+        "privilege review"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00013438",
+            "similarity": 0.538,
+            "index": 5,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00013438",
+      "summary": "On January 14, 2019, an Assistant U.S. Attorney from the Southern District of New York requested the upload of PDF files from the EFTA00013438 folder to Relativity for review by AUSAs in the U.S. v. Eastern case. The request specified that files within the main folder should be uploaded, excluding files within a subfolder titled “Files combined and manifest.” The Assistant U.S. Attorney anticipated receiving a large volume of case files and wanted to establish a Relativity database to expedite the review process, noting that privilege review wasn’t initially needed for the specified materials.",
+      "timestamp": "2019-01-14T00:00:00",
+      "timestamp_raw": "January 14, 2019",
+      "keywords": [
+        "relativity",
+        "access",
+        "documents",
+        "efta00013438",
+        "fbi",
+        "case files",
+        "privilege review",
+        "u.s. v. eastern",
+        "database",
+        "review"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00019518",
+            "similarity": 0.538,
+            "index": 4,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037618",
+      "summary": "On April 24, 2019, U.S. Customs and Border Protection created a Traveler List (EFTA00037618) based on information for Jeffrey Epstein, Darren Indye, David Rodgers, and Lawrence Visoski. The list includes details such as names, dates of birth, modes of travel (private air), departure and arrival dates/times, locations (KBCT), and traveler status codes from various databases (NCIC, FDOC, etc.). The document is marked as \"For Official Use Only / Law Enforcement Sensitive.\"",
+      "timestamp": "2019-04-24T00:00:00",
+      "timestamp_raw": "April 24, 2019",
+      "keywords": [
+        "efta00037618",
+        "customs and border protection",
+        "traveler list",
+        "tecs",
+        "advance traveler information",
+        "jeffrey epstein",
+        "darren indieke",
+        "david rodgers",
+        "lawrence visoski",
+        "pax",
+        "travel"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028452",
+      "summary": "The investigation originated in Florida and is now primarily occurring in New York. *   **Collaboration:** The Southern District of New York’s Assistant U.S. Attorney is coordinating with a recipient to manage victim notification and communication. *   **FBI Involvement:** The FBI (C-20 squad and TFO officer) is actively involved, including data base entry and potential notification at the time of arrest. *   **Victim Contact:** The recipient is responsible for managing victim contact information, including a 800 number (866-874-8900) and notifying victims of charges and court dates. *   **Sensitivity:** There's a heightened awareness due to a previous U.S. Attorney’s Office failure to meet victims’ rights obligations, necessitating careful coordination. *   **Transition:** Need for seamless information exchange between the Southern District of New York, the USAO, and the FBI.",
+      "timestamp": "2019-06-26T00:00:00",
+      "timestamp_raw": "26 Jun 2019",
+      "keywords": [
+        "fbi",
+        "victims",
+        "investigation",
+        "press release",
+        "800 number",
+        "florida",
+        "new york",
+        "case",
+        "coordination",
+        "database"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037289",
+      "summary": "An email chain discusses a CNN report regarding a potential sexual assault case involving Jeffrey Epstein and a victim. The victim, identified as Mirna Alsharif, claims she was sexually assaulted by Epstein and his companion Ghislaine Maxwell in 1996 and reported the assault to the FBI in 1996. The email exchange involves individuals from the FBI New York Field Office (Criminal Branch C), the FBI NY Division, and CNN, with requests to verify the document’s existence and investigate the claims. References are made to a 2006-2007 investigation and a Sentinel database search.",
+      "timestamp": "2019-07-29T00:00:00",
+      "timestamp_raw": "29 Jul 2019",
+      "keywords": [
+        "cnn",
+        "jeffrey epstein",
+        "fbi",
+        "sexual assault",
+        "investigation",
+        "maxwell",
+        "new york",
+        "victim",
+        "affidavit",
+        "1996"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036164",
+      "summary": "Multiple users across FCI Sandstone, FCI Otisville, and the Department of Justice FBOP/FDC - Houston are experiencing a \"Database Error\" within the NICEVision Administrator application after installing a new update. The error occurs on both AMS and BOPNet computers. Restarting the AMS server resolves the issue, as confirmed by a SigNet Technologies technician who experienced the same problem at FCC Allenwood.  A workaround involving reverting to the previous AppSuite is suggested temporarily. The issue is being investigated by Qognify and SigNet Technologies’ support team.",
+      "timestamp": "2019-08-09T00:00:00",
+      "timestamp_raw": "8/9/2019",
+      "keywords": [
+        "hf",
+        "ams",
+        "nicevision",
+        "database error",
+        "windows 10",
+        "workstation",
+        "color issues",
+        "reboot",
+        "qognify",
+        "support"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036154",
+      "summary": "The document consists of electronic communications regarding the NICEVision camera system used by the Federal Bureau of Prisons (BOP). Communications detail experiences with NICEVision across multiple facilities, including FDC Miami, Victorville FCI, Danbury FCI, and Otisville FCI. Concerns are raised about a “Database Error” encountered during NICEVision login, and discussions revolve around the perceived benefits and challenges of the system. Input is sought from NICEVision users regarding troubleshooting the error and comparing NICEVision to previous systems like Viconet and Pelco.  The document includes contact information for various technicians and facilities.",
+      "timestamp": "2019-08-12T00:00:00",
+      "timestamp_raw": "8/12/2019",
+      "keywords": [
+        "nicevision",
+        "bop",
+        "electronics technician",
+        "fdc miami",
+        "federal bureau of prisons",
+        "database error",
+        "system",
+        "vision",
+        "camera system"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014355",
+      "summary": "On August 12, 2019, an individual requested access to Relativity database files related to the Epstein investigation. There were issues accessing the database, resulting in a request to confirm access permissions. The vendor provided new PDF files created from 66 original PDFs received in June, along with a flash drive for review. The files were to be uploaded to the \"Florida investigation FOIA files\" folder in Relativity. Instructions were given regarding indexing, specifically the need to include phone numbers in indexes and use document descriptions instead of file extensions. The discovery obligations were suspended due to recent events. EFTA00014356 was also referenced.",
+      "timestamp": "2019-08-12T00:00:00",
+      "timestamp_raw": "August 12, 2019",
+      "keywords": [
+        "relativity",
+        "epstein",
+        "pdf",
+        "index",
+        "flash drive",
+        "data",
+        "investigation",
+        "foia",
+        "vendor",
+        "records"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015361",
+      "summary": "*   **Christenson’s Role:** Christenson details her role processing Freedom of Information Act (FOIA) and Privacy Act (PA) requests related to inmate Jeffrey Epstein’s time at the Metropolitan Correctional Center (MCC) in New York.  Her responsibilities include analyzing, responding to, and monitoring these requests. *   **FOIA Requests:** The request stemmed from The New York Times’s efforts to obtain records regarding Epstein’s death. Specifically, the requests sought: log entries, inmate placement data, investigation reports, visitor records, and communication records related to the events leading up to and following Epstein’s death. *   **BOP Search & Redactions:** The BOP conducted a search for responsive records, primarily utilizing databases like SENTRY and BEMR.  Many records were withheld due to exemptions, primarily 7(A) (law enforcement proceedings) and 5 (internal agency communications). *   **Exemption Justifications:** The BOP cited concerns that releasing the information could interfere with ongoing law enforcement investigations or reveal investigative techniques. They used exceptions 7(A) and 7(E) *   **Aggregation of Requests:** Two separate FOIA requests were consolidated into a single request number (2019-05665). *   **Final Determination:** The BOP issued a final determination response denying the requests in full, citing the applicable exemptions. *   **Appeal:** Plaintiff, The New York Times, appealed the BOP’s determination, which was partially affirmed by the Office of Information Policy (OIP).",
+      "timestamp": "2019-08-13T00:00:00",
+      "timestamp_raw": "August 13, 2019",
+      "keywords": [
+        "bop",
+        "epstein",
+        "foia",
+        "prison records",
+        "suicide",
+        "mcc",
+        "investigation",
+        "security",
+        "data",
+        "inmate",
+        "logs",
+        "emails",
+        "legal support",
+        "requests",
+        "exemptions"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036156",
+      "summary": "This document is a collection of emails discussing the implementation of NICEVision within the Federal Bureau of Prisons (BOP). The emails express frustration with the transition, highlighting concerns about standardization, compatibility issues with existing systems (particularly Motorola, Medtel, and CEIA), and the perceived lack of input from BOP staff. Key points include: *   **Criticism of FITARA:** Several individuals criticize the FITARA law and its impact on BOP IT systems. *   **NICEVision Concerns:**  There’s widespread dissatisfaction with NICEVision, citing database errors, incompatibility, and a lack of user-friendliness. Some users believe the system is not well-suited for the BOP’s needs. *   **Standardization Debate:**  A core discussion revolves around standardizing camera systems nationwide, with arguments for and against adopting NICEVision. *   **SIGNET Contract:**  A significant concern is the BOP’s contract with SIGNET for DVR/NVR system maintenance, which is now focused solely on NICE, creating a potential bottleneck. *   **User Feedback:** The emails contain individual experiences and preferences regarding camera systems, with some users expressing nostalgia for older, familiar systems. The document appears to be a record of troubleshooting efforts and discussions surrounding the rollout of NICEVision within the BOP.",
+      "timestamp": "2019-08-13T00:00:00",
+      "timestamp_raw": "13 Aug 2019",
+      "keywords": [
+        "bop",
+        "nicevision",
+        "fitara",
+        "avigilon",
+        "motorola",
+        "pelco",
+        "vicon",
+        "ippa",
+        "system",
+        "standardization",
+        "contractors",
+        "windows",
+        "camera",
+        "miami",
+        "victorville",
+        "database error"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027120",
+      "summary": "An email update was sent on August 15, 2019, regarding case EFTA00027120. The sender noted they’d recorded the case in their database and would handle it independently in the future. The recipient was instructed to delete a previous email attachment.",
+      "timestamp": "2019-08-15T00:00:00",
+      "timestamp_raw": "August 15, 2019",
+      "keywords": [
+        "efta00027120",
+        "update",
+        "august",
+        "database",
+        "redaction analysis",
+        "pdf",
+        "correction",
+        "monthly",
+        "initial",
+        "case"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037736",
+      "summary": "On August 19, 2019, a Metropolitan Police response was received regarding an inquiry to interview Ms. [REDACTED]. Ms. [REDACTED] initially expressed willingness to be interviewed but subsequently retracted, citing concerns about Jeffrey Epstein’s death, personal safety, lack of value to the FBI, and confidentiality fears.  The police conducted checks revealing no record of Ms. [REDACTED] in the Police National Computer or Metropolitan Police databases. An Experian check linked her to multiple aliases and identified a residential address with a landline and voter registration dating back to October 2016, along with contact details including a redacted mobile and email address. The communication was forwarded by [REDACTED] and included a reference to EFTA00037736 and EFTA00037737.",
+      "timestamp": "2019-08-19T00:00:00",
+      "timestamp_raw": "August 19, 2019",
+      "keywords": [
+        "efta00037736",
+        "metropolitan police",
+        "fbi",
+        "marianne",
+        "jeffrey epstein",
+        "confidentiality",
+        "witness",
+        "investigation",
+        "redaction",
+        "email"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015428",
+      "summary": "This document is a declaration from Nicole McFarland, a Staff Attorney at the Metropolitan Correctional Center (MCC) within the Federal Bureau of Prisons (BOP), in support of the New York Times’ motion for summary judgment in a lawsuit. McFarland describes her role in responding to Freedom of Information Act (FOIA) requests concerning Jeffrey Epstein’s time at the MCC. Here’s a breakdown of the key factual content: *   **McFarland's Role:** She coordinates searches at the MCC when FOIA requests require it, working primarily with GOP’s Central Office. *   **Search Activities:** She directed staff to search various systems and files, including electronic and non-electronic records, the SENTRY database, email systems (SENTRY and TRULINCS), and the BEMR medical record system. *   **Specific Records Examined:** The searches focused on records related to: SHU log entries, Epstein’s quarters history, CIM clearance data, disciplinary records, intake screening forms, security designations, inmate profiles, incident reports, medical reports, visitor logs, phone logs, email communications, and special investigative reports. *   **Findings:** The searches primarily yielded information already documented in the Christenson Declaration. Key findings included: most records related to Epstein had been handed over to the Office of the Inspector General (OIG), and that MCC staff located some responsive records through their own searches, often overlapping with Central Office’s findings. Notably, no meeting minutes related to Epstein’s suicide watch removal were located. *   **Confirmation:** McFarland confirmed that no other individuals at the MCC (or former employees) were reasonably likely to possess responsive records.",
+      "timestamp": "2019-08-22T00:00:00",
+      "timestamp_raw": "August 22, 2019",
+      "keywords": [
+        "foia",
+        "bureau of prisons",
+        "mcc",
+        "inmate records",
+        "search",
+        "email",
+        "electronic files",
+        "trulinks",
+        "sentry",
+        "bop",
+        "christopher christenson",
+        "jeffrey epstein"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029621",
+      "summary": "This document is a Driver A nd Vehicle I nformation D atabase (D A V I D) individual summary page for an individual named [REDACTED] residing in Florida. The record includes personal information such as date of birth, address, Social Security number (partially redacted), driver’s license details, and vehicle registration information. The data originates from a system maintained by the Department of Highway Safety & Motor Vehicles and includes information from various agencies like ChoicePoint and potentially other states (indicated by references like \"New York Deed Transfer Records\").  Several sections provide details on potential addresses, phone numbers, vehicle registrations, and property ownership linked to the individual. The report also highlights potential risks associated with the individual's information, referencing SAFESCAN services and flagging a Social Security number issued within the last five years, suggesting a potential concern for identity theft. Finally, the report indicates that due to privacy regulations, complete data from all states may not be available and lists a wide array of supplemental data sources explored, including criminal histories, business affiliations, and watercraft records.",
+      "timestamp": "2019-09-12T00:00:00",
+      "timestamp_raw": "09/12/2019",
+      "keywords": [
+        "florida",
+        "driver license",
+        "database",
+        "dl/id number",
+        "status",
+        "date of birth",
+        "restrictions",
+        "ssn",
+        "vehicle",
+        "address"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038502",
+      "summary": "This document is a Person Encounter List generated by U.S. Customs and Border Protection (CBP) on September 23, 2019, at 14:20 EDT. It details interactions with travelers (specifically Ghislaine Maxwell) at various international airports and locations between 2017 and 2019, including arrival and departure locations, carrier codes, and CBP site codes. The data includes flight numbers, dates, times, and status codes (e.g., “APIS” for Automated Passport Control, “REF” for reference). The list appears to be part of a larger database of CBP encounters.",
+      "timestamp": "2019-09-23T00:00:00",
+      "timestamp_raw": "September 23, 2019",
+      "keywords": [
+        "customs",
+        "border protection",
+        "dhs",
+        "tecs",
+        "person encounter list",
+        "passport",
+        "apis",
+        "maxwell",
+        "noelle",
+        "doe",
+        "documents",
+        "date",
+        "time",
+        "carrier",
+        "bos",
+        "lhr",
+        "bos doh",
+        "bos lhr",
+        "bos nrt",
+        "bos lhr",
+        "airport codes (jfk",
+        "lhr",
+        "bos",
+        "etc.)",
+        "data",
+        "redaction",
+        "analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037650",
+      "summary": "*   A search of Massachusetts databases (ISO, Coplink, LPR) yielded negative results for Maxwell regarding accidents, traffic stops, and criminal history. The only report listed was from Gloucester PD, involving Borgerson. *   A search for Scott Borgerson revealed a 2018 ISO insurance claim associated with one of his registered vehicles. Beverly PD was listed in his Coplink reports, but no PD report was available. *   LPR searches across the turnpike did not yield results, requiring contact with Mass DOT for access. *   Maxwell’s MA DL was active until 2022. *   The request was initiated by the NYPD/NY FBI (CE HTTF).",
+      "timestamp": "2019-12-10T00:00:00",
+      "timestamp_raw": "December 10, 2019",
+      "keywords": [
+        "ghislaine maxwell",
+        "scott borgerson",
+        "massachusetts",
+        "vehicle registration",
+        "criminal history",
+        "coplink",
+        "iso",
+        "lpr",
+        "beverly pd",
+        "massachusetts dot",
+        "driver's history"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029746",
+      "summary": "A lawsuit filed by the attorney general of the Virgin Islands, Denise N. George, seeks to seize Jeffrey Epstein’s private islands, Little Saint James and Great Saint James, and dissolve his shell companies due to allegations of decades-long sex trafficking of hundreds of young women and girls, some as young as 11, facilitated through a database and coordinated by Epstein and his associates. The lawsuit alleges Epstein used the islands as a hub for concealing his activities, tracked victims’ movements, and engaged in illegal construction projects.  Evidence shows Epstein brought girls to the islands as recently as 2018 and refused investigators access.  The legal action aims to compensate victims and prevent the estate from using assets for a proposed victim’s compensation fund with confidentiality restrictions.  Investigations into Epstein’s death and his activities are ongoing, and multiple women have filed similar lawsuits against the estate.",
+      "timestamp": "2020-01-15T00:00:00",
+      "timestamp_raw": "15 Jan 2020",
+      "keywords": [
+        "jeffrey epstein",
+        "trafficking",
+        "virgin islands",
+        "lawsuit",
+        "caribbean",
+        "sexual abuse",
+        "database",
+        "victims",
+        "estate",
+        "assets"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00016836",
+            "similarity": 0.667,
+            "index": 21,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00016836",
+      "summary": "A lawsuit filed by the Attorney General of the Virgin Islands, Denise N. George, alleges that Jeffrey Epstein trafficked dozens of young girls and women (as young as 11) on his private Caribbean islands, Little Saint James and Great Saint James, until at least 2018. The lawsuit details the use of a database to track victims, instances of Epstein bringing girls to the islands, and attempts to conceal his activities. Evidence suggests he operated with impunity, engaging in illegal construction and exploiting victims through fraudulent modeling visas.  The lawsuit seeks the forfeiture of Epstein’s assets and aims to compensate victims. Investigations continue, and legal complications arise regarding the allocation of his substantial wealth and the handling of potential criminal charges against associates.",
+      "timestamp": "2020-01-15T00:00:00",
+      "timestamp_raw": "15 Jan 2020",
+      "keywords": [
+        "jeffrey epstein",
+        "trafficking",
+        "virgin islands",
+        "caribbean",
+        "sexual abuse",
+        "lawsuit",
+        "database",
+        "victims",
+        "little saint james",
+        "great saint james"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00029746",
+            "similarity": 0.667,
+            "index": 20,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00019223",
+            "similarity": 0.538,
+            "index": 22,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00019223",
+      "summary": "George, seeks to seize Jeffrey Epstein’s assets – including his private islands, Little Saint James and Great Saint James, and numerous shell companies – due to allegations of decades-long sex trafficking involving hundreds of young women and girls, some as young as 11. The lawsuit details Epstein's operation, including a computerized database tracking victims, frequent travel with girls, and illegal construction projects. Evidence suggests Epstein continued trafficking until at least 2018. The legal proceedings aim to establish accountability and potentially compensate victims, addressing concerns about the estate’s attempts to conceal criminal activity and establish a victim’s compensatory fund with confidentiality restrictions. Investigations are ongoing, and multiple women have filed similar lawsuits.",
+      "timestamp": "2020-01-15T00:00:00",
+      "timestamp_raw": "15 Jan 2020",
+      "keywords": [
+        "jeffrey epstein",
+        "trafficking",
+        "virgin islands",
+        "lawsuit",
+        "victim's compensation",
+        "sexual abuse",
+        "little saint james",
+        "great saint james",
+        "darren indyke",
+        "denise george"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00016836",
+            "similarity": 0.538,
+            "index": 21,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016912",
+      "summary": "The document is a series of email exchanges concerning the upload and privilege review of data related to the Epstein investigation. Key points include: *   Discussions about locating data within the Relativity database, specifically regarding folders named \"2020-01-23\" and \"Search Warrant Returns.\" *   Reports on the release of data from the NP and STR folders, with delays attributed to large data volumes. *   Confirmation of a hard drive received from FBI CART containing seized device materials. *   Requests for the hard drive to be returned after data upload for subsequent privilege review. *   Multiple inquiries regarding the status of data uploads and delays.",
+      "timestamp": "2020-01-23T00:00:00",
+      "timestamp_raw": "2020-01-23",
+      "keywords": [
+        "epstein",
+        "relativity",
+        "subpoena returns",
+        "search warrant returns",
+        "data",
+        "vendor",
+        "fbi",
+        "privilege review",
+        "folder",
+        "upload"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00020803",
+            "similarity": 0.538,
+            "index": 24,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00029754",
+            "similarity": 0.538,
+            "index": 27,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00020803",
+      "summary": "The document records email correspondence regarding the upload and privilege review of materials related to the Epstein case. The materials originated from a hard drive received from the FBI CART, containing data seized during searches. Discussions centered on locating the materials within the Relativity database, specifically under the “Search Warrant Returns” folder. There were concerns about the volume of data and potential issues with the vendor (PAE) releasing it. Updates were provided on the status of data uploads, including the release of the “NP” folder and segregated “PP hits.” Requests were made for guidance on folder structure and for the return of the hard drive once the materials were uploaded. The final email included a document named “STR_Epstein_Privilege Terms_02. I 4.2020.pdf”.",
+      "timestamp": "2020-02-23T00:00:00",
+      "timestamp_raw": "23 Feb 2020",
+      "keywords": [
+        "epstein",
+        "relativity",
+        "search warrant returns",
+        "subpoena returns",
+        "data upload",
+        "fbi",
+        "privilege review",
+        "folder structure",
+        "vendor",
+        "data volume"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00016912",
+            "similarity": 0.538,
+            "index": 23,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023337",
+      "summary": "An individual received a dataset from the FBI related to the US v. Epstein case. The dataset contained issues including a lack of functionality to link emails and attachments, a missing link between the load file and native files, and mismatched control numbers. The sender requested the FBI to resend the data with these corrections applied.",
+      "timestamp": "2020-03-05T00:00:00",
+      "timestamp_raw": "05 Mar 2020",
+      "keywords": [
+        "fbi",
+        "epstein",
+        "data",
+        "email",
+        "attachments",
+        "database",
+        "load file",
+        "control numbers",
+        "redaction",
+        "us v."
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00020843",
+            "similarity": 0.818,
+            "index": 26,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00020843",
+      "summary": "An email chain discusses issues with a dataset provided by the FBI related to the US v. Epstein case. The dataset lacks functionality to link emails and attachments, has a broken link to native files, and contains mismatched control numbers. The sender requests the FBI to correct these issues and resend the data.",
+      "timestamp": "2020-03-06T00:00:00",
+      "timestamp_raw": "06 Mar 2020",
+      "keywords": [
+        "epstein",
+        "fbi",
+        "data",
+        "email",
+        "attachments",
+        "load file",
+        "database",
+        "corrections",
+        "us v.",
+        "redaction"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00023337",
+            "similarity": 0.818,
+            "index": 25,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029754",
+      "summary": "The document contains email exchanges regarding the upload and privilege review of extensive search materials related to the Epstein case. Key issues include: *   **Data Volume & Duplication:** Significant concerns were raised about the large volume of data, particularly repeated documents, requiring de-duplication. *   **Folder Structure:** Discussions centered on the correct placement of the materials within the Relativity database, specifically regarding the categorization of data under “Search Warrant Returns” versus “Subpoena Returns.” *   **Vendor Delays:** The vendor (PAE) experienced difficulties releasing the data due to its size, causing delays in processing. *   **Data Delivery:** The FBI provided a hard drive with processed data from seized devices, and subsequent data sets were anticipated. *   **Ongoing Review:** The uploaded data was to be subject to the same privilege review previously conducted on Epstein search warrant returns.",
+      "timestamp": "2020-03-10T00:00:00",
+      "timestamp_raw": "10 Mar 2020",
+      "keywords": [
+        "epstein",
+        "relativity",
+        "search warrant returns",
+        "data",
+        "upload",
+        "privilege review",
+        "redaction",
+        "documents",
+        "folder structure",
+        "fbi"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00016912",
+            "similarity": 0.538,
+            "index": 23,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021023",
+      "summary": "The document details a significant challenge in reviewing over 1.3 million electronic documents seized during an investigation related to Ghislaine Maxwell. The data was received in a disorganized manner, lacking proper labeling and connection to the original source devices. Key issues include: *   **Data Organization:** The documents were dumped into a massive, unlabeled pile, with some large files excluded due to size limitations. *   **Lack of Metadata:** The data lacks essential metadata, such as email attachments and file linking, making review extremely difficult. *   **Identification Problems:** It's unclear which devices the documents originated from, whether the files are complete or partial, and what devices remain to be processed. There are discrepancies in control numbers and file naming conventions. *   **Technical Difficulties:** The team is struggling with issues related to the data format, requiring a revised data format and potential replication of previous data sets. *   **Coordination Efforts:** Multiple attempts are made to schedule a meeting to discuss the issues and establish a system for tracking and reviewing the documents, emphasizing the need for a clear device inventory and a tracking spreadsheet.",
+      "timestamp": "2020-03-11T00:00:00",
+      "timestamp_raw": "11 Mar 2020",
+      "keywords": [
+        "epstein",
+        "search warrant",
+        "documents",
+        "redaction",
+        "data",
+        "files",
+        "database",
+        "review",
+        "devices",
+        "meeting"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00028339",
+            "similarity": 0.538,
+            "index": 29,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00028339",
+      "summary": "The provided text is a series of email exchanges between US Attorney’s Office personnel and external parties regarding the review of documents seized in connection with the investigation of Jeffrey Epstein. The core issues revolve around difficulties in processing and understanding the vast amount of data received, specifically concerning discrepancies between search warrant returns and the actual files, missing metadata, and issues with file loading and database integration. Several key requests are made: a consolidated inventory of devices and data, a system for tracking the review and transfer process, and clarification on the origin and contents of the data files. There are repeated frustrations regarding the lack of clear identification and a need for a standardized spreadsheet to manage the complex data flow, leading to concerns about the effectiveness of the review process.",
+      "timestamp": "2020-04-07T00:00:00",
+      "timestamp_raw": "07 Apr 2020",
+      "keywords": [
+        "epstein",
+        "search warrant",
+        "documents",
+        "fbi",
+        "data",
+        "review",
+        "devices",
+        "spreadsheet",
+        "conference call",
+        "redaction"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00021023",
+            "similarity": 0.538,
+            "index": 28,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00029444",
+            "similarity": 0.615,
+            "index": 30,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00029444",
+      "summary": "This document concerns the redaction analysis of documents related to the search warrant executed on Jeffrey Epstein’s properties, specifically in New York and the Virgin Islands. Initially, there’s a series of emails coordinating a conference call to discuss the overwhelming volume of seized data (over a million documents) and the lack of clear tracking information.  Key issues raised include: the disorganized nature of the data transfers, a lack of device identification, difficulty linking emails to attachments, problems with the database structure (no links between native files and the loaded data), and inconsistencies in descriptions of seized items. Several individuals (Joseph Picarelli, FBI representatives, and US Attorney staff) attempted to establish a system for tracking the data, proposing spreadsheets and meetings to address the challenges of reviewing and processing the materials. There were concerns about duplicate data, the need for a standardized labeling system for devices, and the difficulty in correlating information between the search warrant returns and the actual seized items. The initial data transfer from a hard drive included both existing and potentially new materials, causing confusion about what had already been provided.  The ultimate goal was to establish a clear process for tracking and reviewing the seized data to facilitate the legal proceedings.",
+      "timestamp": "2020-04-08T00:00:00",
+      "timestamp_raw": "08 Apr 2020",
+      "keywords": [
+        "epstein",
+        "warrant",
+        "documents",
+        "search",
+        "fbi",
+        "data",
+        "review",
+        "spreadsheet",
+        "devices",
+        "files",
+        "conference call"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00028339",
+            "similarity": 0.615,
+            "index": 29,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00017143",
+      "summary": "Okay, here's a breakdown of the information provided in the text, focusing on key aspects and potential interpretations: **Overall Context:** *   **AT&T Data Query:** The document represents the output of a large data query run by AT&T on June 17, 2020. This query was focused on records generated between March 1, 2020, and June 15, 2020, utilizing the Eastern Time Zone. *   **Data Type - SMS Usage:** The primary focus of the query is on SMS (Short Message Service) usage data. **Detailed Breakdown of Data:** *   **Run Date & Time:** June 17, 2020, at an unspecified time. *   **Data Items:** The data displayed is categorized by: *   **Conn:**  Connection – likely representing the source of the SMS message (e.g., a phone number). *   **Originating:** The number from which the SMS message was sent. *   **Terminating:** The number to which the SMS message was sent. *   **Number:** Number of the SMS message. *   **Bytes:** The amount of data transmitted by the SMS message *   **Apn:** Access Point Name -  Defines the IP network connectivity. *   **DWI, Dose, EMU, SHSO, Wi-Fi, MIST, SHST**: Categories used to classify SMS messages by type or feature. *   **Record Listing (Example):** The text presents several entries illustrating this data, for instance: *   \"12777 06/15/20 16:52:03 2 03/10/20 12:00:00am - 06/15/2020 11:59:59pm \" This suggests records that are logged with all types of information (e.g. connection, originating, terminating) *   The final set of records listed is of a single date that is the end date of the query. **Key Observations and Implications:** *   **Massive Data Set:** The sheer number of records (hundreds, potentially thousands depending on the exact timeframe and granularity) highlights the volume of SMS traffic AT&T handles. *   **Analysis Potential:** This data would be invaluable for: *   **Network Planning:** Understanding peak SMS usage times and areas. *   **Fraud Detection:** Identifying unusual SMS patterns that could indicate fraud. *   **Customer Analytics:**  (With appropriate privacy safeguards) analyzing SMS patterns to understand customer behavior. **Further Research/Questions:** *   **Granularity:** What is the time resolution of the data? (e.g., is it per minute, per hour, etc.) *   **Data Format:**  How is the data structured (e.g., CSV, database table)? *   **Filtering Capabilities:** Were any filters applied to the query results? *   **Privacy Considerations:**  How are customer data privacy and security addressed within this data set? (Critical for compliance with regulations like GDPR or CCPA) To help me give you more tailored answers, could you please provide: *   The full text of the document (if possible). *   The intended use for this information? *   Specific questions you have about the data.",
+      "timestamp": "2020-06-17T00:00:00",
+      "timestamp_raw": "June 17, 2020",
+      "keywords": [
+        "okay",
+        "this is a comprehensive dataset from an at&t data query",
+        "focusing on mobile data usage and sms messaging. here’s a breakdown of the key information",
+        "categorized for clarity:",
+        "**1. overall query scope:**",
+        "*   **date range:** the query covers data from march 1",
+        "2020",
+        "to june 15",
+        "2020",
+        "using eastern time zone.",
+        "*   **data type:** the data includes  mobile data usage (bytes up) and sms messaging data.",
+        "*   **data source:** the query utilizes records within the at&t's operational data systems.",
+        "**2. detailed data breakdown:**",
+        "this section presents the data in a row-by-row fashion.  each row represents a single connection and includes:",
+        "*   **conn. (connection number):** unique identifier for each data connection.",
+        "*   **date:** the date of the data activity.",
+        "*   **time:** the time of the data activity.",
+        "*   **number (number):** the number of bytes transmitted over the connection.",
+        "*   **up (bytes up):** number of bytes transmitted",
+        "*   **apn (apn):** access point name -  the ip address the device connects to.",
+        "*   **dn (data network):** the specific data network.",
+        "*   **memb (memb):** (missing in some rows – indicates a potential data field not fully populated or present)",
+        "*   **mi (imsi):** mobile subscriber integrated services digital network – a unique identifier for the mobile device.",
+        "*   **max (maximum):**  (likely a maximum data transfer size – further confirmation needed)",
+        "*   **mum (mum):** (likely a minimum data transfer size – further confirmation needed)",
+        "*   **moms (moms):** (missing in some rows – likely a specific data field or parameter)",
+        "**3. observations and potential analysis:**",
+        "*   **large data volumes:** several rows indicate substantial data usage",
+        "suggesting significant mobile internet activity.",
+        "*   **sms messaging:**  the presence of the sms parameter shows messaging was tracked alongside data usage.",
+        "*   **varied apns:** different apns suggest diverse network connectivity scenarios (e.g.",
+        "different data plans or network types).",
+        "*   **missing data fields:** the presence of “mi”",
+        "“mum”",
+        "\"memb\" and \"moms\" indicates potential gaps in the data collected.  these might be fields not always tracked or available.",
+        "**4. potential uses of the data:**",
+        "*   **network performance analysis:** the data could be used to identify network bottlenecks",
+        "assess network congestion",
+        "or monitor data usage trends.",
+        "*   **customer segmentation:** apn data can be used to segment customers based on their data usage patterns or network preferences.",
+        "*   **fraud detection:**  anomalous data usage patterns or unusual apns could trigger fraud detection alerts.",
+        "*   **billing and reporting:**  the data can be used to accurately bill customers for data usage and generate reports on network usage.",
+        "**5. important considerations and notes**",
+        "*   **data context:** this is raw data. the meaning and significance of the numbers depend on the context of the at&t network and the specific devices using it.",
+        "*   **data accuracy:**  the accuracy of the data depends on the quality of the at&t’s data collection systems.",
+        "*   **missing data:** the presence of missing fields necessitates further investigation and potentially imputation techniques to fill in gaps.",
+        "to get a more in-depth analysis",
+        "you would need to:",
+        "*   understand the specific parameters and definitions used in the at&t data system.",
+        "*   clean and preprocess the data to address missing values and inconsistencies.",
+        "*   correlate the data with other at&t data sources (e.g.",
+        "customer demographics",
+        "service plans).",
+        "if you had questions about a specific field or want to perform a specific type of analysis",
+        "please let me know",
+        "and i can help you further."
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016455",
+      "summary": "An email chain discusses verifying victim information in a database related to the Jeffrey Epstein case. A Program Manager from the FBI Victim Services Division (VSD) is requesting someone to check the accuracy of victim information for a letter and draft language for victim notification system (VNS) updates. SA has identified names from an FBI list as victims in the original Epstein case, providing victim contact and attorney information. The FBI VSD is committed to providing services to victims regardless of the specific indictment.",
+      "timestamp": "2020-07-02T00:00:00",
+      "timestamp_raw": "02 Jul 2020",
+      "keywords": [
+        "fbi",
+        "victim services division",
+        "jeffrey epstein",
+        "victim info",
+        "database",
+        "language",
+        "notifications",
+        "vns",
+        "redaction",
+        "email"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020362",
+      "summary": "An email chain discusses verifying victim information in a database related to the Jeffrey Epstein case. A Program Manager from the FBI Victim Services Division (VSD) is cross-referencing an FBI list with another source and ensuring accuracy of victim information for letters and notifications. The email chain includes attachments containing victim names, contact information, and attorney information, as well as approved language for victim services notifications. The VSD is committed to providing services to victims regardless of the specific indictment.",
+      "timestamp": "2020-07-02T00:00:00",
+      "timestamp_raw": "02 Jul 2020",
+      "keywords": [
+        "fbi",
+        "victim services division",
+        "jeffrey epstein",
+        "victim",
+        "language",
+        "database",
+        "list",
+        "contact information",
+        "redaction",
+        "vns notifications"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020240",
+      "summary": "An email chain discusses the accuracy of victim information in a database related to the Jeffrey Epstein case. A request is made to verify the victim list included in an Excel spreadsheet (contact_list_only_31E-NY-3027571_6.26.2020.xlsx) provided by the FBI Victim Services Division (VSD). The VSD confirms the names on the spreadsheet are identified as victims in the original case against Jeffrey Epstein and includes victim contact information and attorney details. The FBI VSD is committed to providing services to victims of crimes related to Jeffrey Epstein, outlining resources and contact information for specialists.",
+      "timestamp": "2020-07-02T00:00:00",
+      "timestamp_raw": "02 Jul 2020",
+      "keywords": [
+        "jeffrey epstein",
+        "fbi",
+        "victim services division",
+        "victim services",
+        "data accuracy",
+        "redaction analysis",
+        "email correspondence",
+        "legal",
+        "victims",
+        "contact list"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020481",
+      "summary": "On August 11, 2020, an individual (identified only as “[REDACTED]”) submitted a tip to the FBI National Threat Operations Center reporting a sexual encounter with Jeffrey Epstein in the 2000s. The individual claims to have been 15 at the time and involved in a massage service facilitated by Jeffrey Epstein and his associate, Andy. Andy allegedly facilitated the exploitation of Russian girls for prostitution to wealthy men. The individual seeks confirmation of Epstein’s presence in Virginia Beach, information about Andy’s involvement, and verification of any addresses associated with Epstein. The initial tip included details about a conversation with Andy regarding government involvement and concerns about being pursued. FBI databases yielded no results from Sentinel, Guardian, and DIVS queries. The tip originated from an IP address and referrer linked to the FBI website.",
+      "timestamp": "2020-08-11T00:00:00",
+      "timestamp_raw": "August 11, 2020",
+      "keywords": [
+        "jeffrey epstein",
+        "sexual trafficking",
+        "virginia beach",
+        "fbi",
+        "tip",
+        "victim",
+        "andy",
+        "russia",
+        "prostitution",
+        "2000s",
+        "redaction"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016315",
+      "summary": "On September 14, 2020, the Office of the State Attorney for Palm Beach County responded to a request from the Assistant United States Attorney for the Southern District of New York regarding an investigation and prosecution concerning Jeffrey Epstein. The State Attorney provided 4,421 pages of un-redacted files, 43 audios, and 6 videos, along with two pages of “Case Relationships” from their electronic Stac database. These materials will be accessible through the agency’s CIP portal following account creation and verification.",
+      "timestamp": "2020-09-14T00:00:00",
+      "timestamp_raw": "September 14, 2020",
+      "keywords": [
+        "jeffrey epstein",
+        "state attorney",
+        "redaction analysis",
+        "palm beach county",
+        "united states attorney",
+        "electronic mail",
+        "cip portal",
+        "case relationships",
+        "stac database",
+        "prosecution"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023546",
+      "summary": "An email request was sent to create specific Relativity database tags for a review of documents related to the “US v. Epstein” case. The requested tags include: Reviewed, Witness Statement, Produce As Is, Produce With Redactions, Produce As Confidential, Produce As Highly Confidential, Work Product (Do Not Produce), Potential Brady, Hot Doc, For Further Review, and Tech Issue.",
+      "timestamp": "2020-09-20T00:00:00",
+      "timestamp_raw": "20 Sep 2020",
+      "keywords": [
+        "efta00023546",
+        "relativity",
+        "us v. epstein",
+        "tags",
+        "redactions",
+        "witness statement",
+        "produce",
+        "confidential",
+        "brady",
+        "hot doc"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00023548",
+            "similarity": 0.636,
+            "index": 39,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00019847",
+      "summary": "On September 23, 2020, an individual ([REDACTED]) created tags in the Relativity database (\"US v. Epstein\") for EFTA00019847 and EFTA00019848. The tags included: Reviewed, Witness Statement, Produce As Is, Produce With Redactions, Produce As Confidential, Produce As Highly Confidential, Work Product (Do Not Produce), Potential Brady, Hot Doc, For Further Review, and Tech Issue. A discussion regarding reviewing batches to ensure consistency was proposed for 4:00 PM that day.",
+      "timestamp": "2020-09-23T00:00:00",
+      "timestamp_raw": "September 23, 2020",
+      "keywords": [
+        "relativity",
+        "us v. epstein",
+        "tags",
+        "database",
+        "redactions",
+        "efta00019847",
+        "issue designation",
+        "review",
+        "witness statement",
+        "confidential"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023548",
+      "summary": "An individual requested the creation of specific tags within the “US v. Epstein” Relativity database: Reviewed, Witness Statement, Produce As Is, Produce With Redactions, Produce As Confidential, Produce As Highly Confidential, Work Product (Do Not Produce), Potential Brady, Hot Doc, For Further Review, and Tech Issue. The tags were subsequently created and made available for use.",
+      "timestamp": "2020-09-23T00:00:00",
+      "timestamp_raw": "23 Sep 2020",
+      "keywords": [
+        "relativity database",
+        "us v. epstein",
+        "tags",
+        "redactions",
+        "confidential",
+        "witness statement",
+        "brady",
+        "hot doc"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00023546",
+            "similarity": 0.636,
+            "index": 37,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028052",
+      "summary": "The document details the upload of approximately 40,000 files (300GB) related to the Epstein/Maxwell case to Relativity. A contractor ([REDACTED]) is preparing the files for review and marking as confidential. The files are being transferred to PAE for processing. Specific instructions are being provided regarding the marking of the documents (all confidential), the Bates numbering system, and the production format (single page TIFF images, database load files, or PDF production). Links to the production files are provided: Deutsche Bank and JP Morgan.  A request is made to review the files and adjust the production if necessary.",
+      "timestamp": "2020-09-24T00:00:00",
+      "timestamp_raw": "24 Sep 2020",
+      "keywords": [
+        "epstein",
+        "maxwell",
+        "relativity",
+        "production",
+        "confidential",
+        "documents",
+        "files",
+        "pae",
+        "database",
+        "search"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00028820",
+            "similarity": 0.818,
+            "index": 41,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00019851",
+            "similarity": 0.6,
+            "index": 45,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00023688",
+            "similarity": 0.538,
+            "index": 46,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00028820",
+      "summary": "*   Questions arise regarding the presence of a confidential stamp on native Excel files, and whether the documents require privilege review (specifically, excluding electronic search warrant returns). *   Links to Relativity pages for Deutsche Bank and JP Morgan documents are provided for review. *   Concerns are raised about data access within Relativity due to the format of the files (primarily images and video). *   Requests are made for details on document production format (tiff images, database load files, or PDF production), Bates number usage, and the placement of a confidential stamp. *   A legal specialist from the US Attorney’s Office SDNY is involved in coordinating the upload process.",
+      "timestamp": "2020-09-24T00:00:00",
+      "timestamp_raw": "24 Sep 2020",
+      "keywords": [
+        "relativity",
+        "epstein",
+        "maxwell",
+        "documents",
+        "production",
+        "confidential",
+        "data",
+        "search",
+        "pae",
+        "database"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00028052",
+            "similarity": 0.818,
+            "index": 40,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00019851",
+            "similarity": 0.6,
+            "index": 45,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00023688",
+            "similarity": 0.538,
+            "index": 46,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00023683",
+      "summary": "*   The documents are being produced by Deutsche Bank and JPMorgan. *   The contractor is responsible for exporting these productions to a specific Relativity folder structure. *   There are questions regarding the confidentiality of the documents, the use of a confidential stamp, and the preferred method of production (tiff images, database load files, or PDF). *   The contractor is clarifying that the documents are not intended for privileged review and that searches within the Relativity database are not possible due to the image format. *   The contractor initially provided links to Relativity pages, but those pages contained no data, leading to an inquiry. *   The contractor requested information on Bates numbering and preferred production methods. *   The initial upload is underway, with files being transferred to a drive for delivery to Relativity.",
+      "timestamp": "2020-09-24T00:00:00",
+      "timestamp_raw": "24 Sep 2020",
+      "keywords": [
+        "relativity",
+        "epstein",
+        "maxwell",
+        "production",
+        "documents",
+        "data",
+        "jpmorgan",
+        "deutsche bank",
+        "confidential",
+        "stamp",
+        "relativity page",
+        "usanys",
+        "contractor",
+        "redaction"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00028823",
+            "similarity": 0.588,
+            "index": 43,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00028823",
+      "summary": "*   The files are initially copied to a drive and will be uploaded to the Relativity database under the folder “US v. Epstein 4 FBI Case File 4 Images Seized During Search.” *   Requests are made regarding the stamping process (Confidential stamp, Bates number, preferred production format - TIFF images, database load files, or PDF), and clarification is given that searching the files after they've been loaded to Relativity is not possible due to their format. *   There is discussion about the appropriate handling of privileged review (only warrant returns should be privileged) and the lack of a confidential stamp option for Excel files. *   A link to the Relativity database is provided for review.",
+      "timestamp": "2020-09-24T00:00:00",
+      "timestamp_raw": "24 Sep 2020",
+      "keywords": [
+        "relativity",
+        "epstein",
+        "maxwell",
+        "deutsche bank",
+        "jpmorgan",
+        "data",
+        "production",
+        "confidential",
+        "files",
+        "upload",
+        "redaction",
+        "pae",
+        "usanys"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00023683",
+            "similarity": 0.588,
+            "index": 42,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00019851",
+            "similarity": 0.5,
+            "index": 45,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00029025",
+      "summary": "This redacted document details the production of electronic files related to the Epstein/Maxwell investigation for the US Attorney’s Office. Key discussions revolve around: *   **Text Reader Capabilities:** A contractor is investigating the Bureau of Prisons’ (BOP) computer systems to determine if they can open the files, aiming to prevent defense claims of inability to access them. *   **Production Format:** The contractor is producing files in their original format (Excel and TXT) to both Maxwell and defense counsel, initially converting them to ensure compatibility with the Metropolitan Detention Center (MDC). *   **Confidential Stamping:** There’s a request to apply a confidential stamp to the files, and a discussion about the method (native format vs. image placeholders). *   **Data Delivery:** Links to Relativity databases containing the production files (Deutsche Bank and JPMorgan) are provided. *   **Privilege Review:** A clarification is given that only certain documents (search warrant returns) require privilege review. *   **Initial Upload & Review:** The contractor is preparing to upload approximately 40,000 files (300GB) to Relativity for stamping, awaiting approval for direct upload or a preliminary review.",
+      "timestamp": "2020-09-25T00:00:00",
+      "timestamp_raw": "25 Sep 2020",
+      "keywords": [
+        "relativity",
+        "text reader",
+        "files",
+        "production",
+        "excel",
+        "confidential",
+        "database",
+        "usanys",
+        "discovery",
+        "conversion",
+        "format",
+        "stamp",
+        "images",
+        "relativityjgo"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019851",
+      "summary": "The document details the production of approximately 40,000 files (around 300GB) related to the Epstein/Maxwell investigation, intended for review and stamping with a confidential designation. The process involves converting the files to a format suitable for Relativity, with multiple parties (USANYS, a contractor, and MDC) involved in the review and distribution. Initial issues include concerns about data availability within Relativity, the absence of a confidential stamp on Excel files, and questions regarding the preferred production format (native vs. converted).  The contractor is responsible for managing the upload, conversion, and distribution of the files, while coordinating with USANYS and MDC for review and approval.",
+      "timestamp": "2020-09-25T00:00:00",
+      "timestamp_raw": "25 Sep 2020",
+      "keywords": [
+        "relativity",
+        "epstein",
+        "maxwell",
+        "production",
+        "data",
+        "files",
+        "excel",
+        "tiff",
+        "confidential",
+        "database",
+        "search",
+        "usanys",
+        "documents",
+        "redaction"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00028823",
+            "similarity": 0.5,
+            "index": 43,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028820",
+            "similarity": 0.6,
+            "index": 41,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028052",
+            "similarity": 0.6,
+            "index": 40,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00023688",
+            "similarity": 0.5,
+            "index": 46,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00023688",
+      "summary": "*   The documents, totaling approximately 40,000 and 300GB, are being converted from native formats (Excel files) to a format suitable for uploading to a Relativity database. *   There’s discussion about applying a “confidential” stamp to the documents and determining the appropriate Bates numbering system. *   The production includes materials from Deutsche Bank and JPMorgan. *   There are questions about whether the documents should be privileged reviewed and how they should be presented (e.g., TIFF images, database load files, or PDFs). *   Links to the Relativity production are provided for review. *   There's a concern regarding the lack of search functionality within the Relativity database due to the predominantly image/video format of the data.",
+      "timestamp": "2020-09-25T00:00:00",
+      "timestamp_raw": "25 Sep 2020",
+      "keywords": [
+        "relativity",
+        "epstein",
+        "maxwell",
+        "production",
+        "documents",
+        "confidential",
+        "data",
+        "files",
+        "judeo",
+        "st andrews"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00019851",
+            "similarity": 0.5,
+            "index": 45,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028820",
+            "similarity": 0.538,
+            "index": 41,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028052",
+            "similarity": 0.538,
+            "index": 40,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028041",
+      "summary": "The email chain concerns tagging and renaming files within the “US v. Epstein” Relativity database. Requests include: 1.  Removal of the “responsiveness review” field. 2.  Creation of the tag “3600”. 3.  Breaking the folder into review batches of 500 documents, assigning them to three recipients (including MI). 4.  Renaming the “Florida Investigation FOIA Files_2” folder to “FBI Files from Florida Office”. 5.  Implementing tags: “Reviewed”, “Witness Statement”, “Produce As Is”, “Produce With Redactions”, “Produce As Confidential”, “Produce As Highly Confidential”, “Work Product (Do Not Produce)”, “Potential Brady”, “Hot Doc”, “For Further Review”, and “Tech Issue”. 6.  Desire for all tags to be in one or multiple fields, and across both Epstein Relativity databases.",
+      "timestamp": "2020-09-29T00:00:00",
+      "timestamp_raw": "29 Sep 2020",
+      "keywords": [
+        "relativity database",
+        "us v. epstein",
+        "tags",
+        "redactions",
+        "florida investigation",
+        "fbi files",
+        "review batches",
+        "document tagging",
+        "confidential",
+        "witness statements"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026833",
+      "summary": "On October 11, 2020, [REDACTED] informed [REDACTED] that they were moving “Goldberger hits” (likely related to Jack Goldberger’s involvement) out of the Epstein search warrant database. This followed an email from [REDACTED] (using Jack Goldberger’s email address) requesting the removal of those hits. The email was flagged for privilege review due to the potential association with Jack Goldberger, who represented Epstein.",
+      "timestamp": "2020-10-11T00:00:00",
+      "timestamp_raw": "October 11, 2020",
+      "keywords": [
+        "epstein",
+        "goldberger",
+        "sw",
+        "search terms",
+        "redaction",
+        "usanys",
+        "email",
+        "database",
+        "privilege review",
+        "returns"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013258",
+      "summary": "On October 12, 2020, an individual (MI) inquired about a list of attorneys provided by Epstein’s lawyers regarding a SW return. Another individual ([REDACTED]) responded, noting the presence of communications from private investigators, including Roy Black, in connection with a criminal investigation and litigation.  The individual ([REDACTED]) then reported that \"Goldberger hits\" (communications related to Jack Goldberger) had been moved out of the database. Further emails referenced the tracking of Goldberger's communications and flagged an email address potentially belonging to Jack Goldberger for privilege review.",
+      "timestamp": "2020-10-12T00:00:00",
+      "timestamp_raw": "October 12, 2020",
+      "keywords": [
+        "epstein",
+        "private investigators",
+        "roy black",
+        "goldberger",
+        "privilege",
+        "estate attorneys",
+        "litigation",
+        "florida",
+        "search warrant database",
+        "email addresses"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026808",
+      "summary": "An email chain initiated on October 14, 2020, requests the creation of five saved searches related to the “U.S. v. Epstein (SW Returns)” relativity database. The searches target email addresses EFTA00026808 and EFTA00026809, and also includes searches for documents containing the words “Maxwell” or “Ghislaine.” A follow-up email on October 9, 2020, confirms the creation of the saved searches and provides contact information for the Southern District of New York United States Attorney. Two redactions are present in the document.",
+      "timestamp": "2020-10-14T00:00:00",
+      "timestamp_raw": "October 14, 2020",
+      "keywords": [
+        "relativity",
+        "saved searches",
+        "email",
+        "efta00026808",
+        "epstein",
+        "ghislaine",
+        "maxwell",
+        "search requests",
+        "us attorney",
+        "new york"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030549",
+      "summary": "An Assistant United States Attorney from the Southern District of New York is requesting a report from a contractor ([REDACTED] (USANYS)) summarizing search terms used in a responsiveness review of the Epstein search warrant database. The request was made on October 19, 2020, due to a tight turnaround for finalizing the review, and a preliminary report was received on October 20, 2020.",
+      "timestamp": "2020-10-19T00:00:00",
+      "timestamp_raw": "October 19, 2020",
+      "keywords": [
+        "epstein",
+        "search warrant",
+        "redaction",
+        "str report",
+        "responsiveness review",
+        "usanys",
+        "contractor",
+        "new york",
+        "documents",
+        "turnaround"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030524",
+      "summary": "On November 2, 2020, a request was made to produce documents from the “NYC024348”, “NYC024349”, and “NYC024350” folders within the “US v. Epstein (SW Returns)” database. Specifically, 347 documents were tagged as “Identified Responsive” in one folder, 39 in another, and 4,897 in the third. A vendor inquired about the scope of the search, and confirmations were received regarding the planned production. On October 28, 2020, a new request was submitted for searches on the same folders, using specific search terms and email addresses, all tagged as “Potentially Responsive.” The goal was to identify potentially responsive documents for review and subsequent production.",
+      "timestamp": "2020-11-02T00:00:00",
+      "timestamp_raw": "November 2, 2020",
+      "keywords": [
+        "maxwell case",
+        "usanys",
+        "contractor",
+        "relativity",
+        "nyc024348",
+        "nyc024349",
+        "nyc024350",
+        "responsive documents",
+        "epstein",
+        "search terms",
+        "email addresses",
+        "production"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013235",
+      "summary": "The contractor, (USANYS) [Contractor], is working with the US Attorney’s Office to load the files into Relativity for Bates stamping and review. There are questions regarding the file format (native files vs. imaged files), the desired production method (tiff images, database load files, or PDF), and the placement of confidential stamps. Initial file counts differ (22,000 vs. 41,000), and there’s a request to prioritize the stamping and download of the documents. Communication occurs between multiple individuals within the USANYS contractor and the US Attorney's Office, addressing logistical questions and confirming the process.",
+      "timestamp": "2020-11-09T00:00:00",
+      "timestamp_raw": "09 Oct 2020",
+      "keywords": [
+        "usanys",
+        "epstein",
+        "maxwell",
+        "relativity",
+        "files",
+        "database",
+        "images",
+        "production",
+        "bates",
+        "confidential",
+        "upload",
+        "drive",
+        "stamped"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00030592",
+            "similarity": 0.533,
+            "index": 54,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00030592",
+      "summary": "*   Due to the large file size, the data will be sent to the vendor on a 1TB hard drive. *   There’s a discrepancy between the number of files initially found (41,000) and the number present in the production (22,000), potentially due to un-imaged native files. *   The production data, including Bates-stamped documents, has been uploaded to Relativity. *   Instructions are given for marking documents as confidential and assigning Bates numbers. *   Requests are made for the production of native files alongside the stamped production. *   There are discussions about the best method for producing the documents (database load files, TIFF images, or PDF production). *   A timeline and updates are sought regarding the upload and stamping process. *   The initial materials consist of approximately 40,000 files totaling 300GB, currently being copied to a drive.",
+      "timestamp": "2020-11-09T00:00:00",
+      "timestamp_raw": "09 Oct 2020",
+      "keywords": [
+        "epstein",
+        "maxwell",
+        "relativity",
+        "database",
+        "hard drive",
+        "bates stamped",
+        "production",
+        "files",
+        "images",
+        "confidential"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00013235",
+            "similarity": 0.533,
+            "index": 53,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028052",
+            "similarity": 0.538,
+            "index": 40,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030598",
+      "summary": "An email chain discusses a flagged email address (“EFTA00030598”) related to the Epstein search warrant database. The email, originating from an unknown sender, contained a reference to an email potentially belonging to Jack Goldberger, who represented Jeffrey Epstein, and warrants a privilege review.",
+      "timestamp": "2020-11-11T00:00:00",
+      "timestamp_raw": "11 Oct 2020",
+      "keywords": [
+        "epstein",
+        "sw returns",
+        "redaction",
+        "privilege review",
+        "jack goldberger",
+        "email",
+        "database",
+        "search warrant"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026834",
+      "summary": "*   The primary focus is on identifying the attorneys representing the estate, initially led by inquiries about Marc Weinstein and Andrew Tomback. *   A private investigator, Roy Black, is mentioned in connection with a criminal investigation. *   There’s an ongoing effort to determine whether communications involving private investigators are protected by attorney-client privilege. *   Jack Goldberger is identified as an attorney representing Epstein, and emails referencing him are flagged for privilege review. *   A request is made to remove “Goldberger hits” (likely referring to emails or information related to Goldberger’s representation) from the database. *   The email chain involves discussions about privilege issues, database reviews, and coordination between individuals.",
+      "timestamp": "2020-11-12T00:00:00",
+      "timestamp_raw": "12 Oct 2020",
+      "keywords": [
+        "epstein",
+        "marc weinstein",
+        "andrew tomback",
+        "jack goldberger",
+        "private investigators",
+        "estate",
+        "privilege"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026806",
+      "summary": "An email chain discusses the transfer of data from a vendor to a Maxwell hard drive copy. The data, labeled “Volume001.dat”, is intended for uploading to the Relativity database via the USvEpstein database. A password, “ScanningMaxwell!99”, is provided for the drive. One individual was previously given an original drive to copy to a new drive. A request is made to send the copied drive to a specific recipient for upload once overlay files from the vendor are received.  The sender’s availability and contact information are also included.",
+      "timestamp": "2020-11-13T00:00:00",
+      "timestamp_raw": "13 Oct 2020",
+      "keywords": [
+        "hard drive",
+        "relativity",
+        "maxwell",
+        "vendor",
+        "copy",
+        "data",
+        "upload",
+        "usvepstein",
+        "redaction",
+        "password"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014379",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] regarding the case “US v. Epstein” accessed through the SW database. The email, dated November 13, 2020, was attached and included the message ID <BN3P110MB026018BCA88B68BCC7A8C34CE3E60®.BN3P110MB0260.NAMP110.PROD.OUTLOOK.COM>.  The email subject was “RE: US v. Epstein (SW database)”.",
+      "timestamp": "2020-11-13T00:00:00",
+      "timestamp_raw": "November 13, 2020",
+      "keywords": [
+        "epstein",
+        "us v.",
+        "sw database",
+        "redaction",
+        "efta00014379"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00022047",
+      "summary": "An email chain discusses the production of documents for the Maxwell case, specifically related to the Epstein Relativity Databases. One party (Sender) is requesting the production of 26,164 documents from the \"FBI Files from Florida Office\" folder, tagged with specific criteria. There are concerns about the volume of documents and a request for confirmation that the provided search encompasses all desired materials. A deadline of the end of October for delivery to 1St. Andrews is specified, with a request to load files into the US v Epstein database within a folder named \"USAO-SDFL Files.\" A hard drive containing scans of files from the USAO-SDFL is also being sent.",
+      "timestamp": "2020-11-14T00:00:00",
+      "timestamp_raw": "14 Oct 2020",
+      "keywords": [
+        "relativity",
+        "epstein",
+        "discovery tasks",
+        "maxwell",
+        "fbi files",
+        "rsa token",
+        "efta00022047",
+        "production",
+        "usao-sdfl",
+        "files"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00021983",
+            "similarity": 0.583,
+            "index": 60,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00021983",
+      "summary": "An email exchange discusses production tasks for the Maxwell case, specifically concerning documents related to the Epstein Relativity Databases. The sender requests the production of specific documents (EFTA00021983 and EFTA00021984) and asks about the desired level of redaction (as is, as is and confidential, or as is and highly confidential). All materials are to be delivered to 1St. Andrews by the end of October and uploaded to the US v Epstein database in a designated folder (\"USAO-SDFL Files\"). A drive containing scans of files from the USAO-SDFL is also being sent.",
+      "timestamp": "2020-11-14T00:00:00",
+      "timestamp_raw": "14 Oct 2020",
+      "keywords": [
+        "epstein",
+        "relativity",
+        "databases",
+        "discovery tasks",
+        "maxwell",
+        "usao-sdfl",
+        "relativity",
+        "files",
+        "production",
+        "efta00021983"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00022047",
+            "similarity": 0.583,
+            "index": 59,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027051",
+      "summary": "An email was sent from a USANYSCorner contractor to MINIIIr regarding a review of searches conducted within the US v. Epstein database. The searches included variations of “Epstein” and “Junk Search Terms,” with varying levels of confidentiality requested. The email requested confirmation of questions or issues.",
+      "timestamp": "2020-11-15T00:00:00",
+      "timestamp_raw": "15 Oct 2020",
+      "keywords": [
+        "epstein",
+        "us v.",
+        "database",
+        "redaction",
+        "contractor",
+        "search terms",
+        "confidential",
+        "highly confidential",
+        "efta00027051"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027052",
+      "summary": "The following exchanges concern a review of searches conducted for the “US v. Epstein” case. *   An individual requests exclusion of “Junk Search Terms (From)” hits from a responsiveness search and wants the search results saved. *   A subsequent request asks for the removal of the “Junk Search Terms (Keywords)” search, focusing solely on the “Epstein — Junk Search Terms (From)” search and running a responsiveness search on the remaining documents. *   A reviewer examines the searches and identifies the “Junk Search Terms (Keywords)” search as incorrectly identifying responsive documents. They request the search be run only on email files. *   Confirmation is received that the searches in the US v. Epstein database are complete and ready for review. *   Specific search queries for the US v. Epstein case are listed: “Epstein - Junk Search Terms (From)” and “Epstein - Junk Search Terms (Keywords)”.",
+      "timestamp": "2020-11-15T00:00:00",
+      "timestamp_raw": "15 Oct 2020",
+      "keywords": [
+        "epstein",
+        "us v. epstein",
+        "search terms",
+        "redaction",
+        "emails",
+        "junk search terms",
+        "responsive documents",
+        "documents",
+        "database",
+        "keywords"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029154",
+      "summary": "The Maxwell team requests the preparation of specific documents from the \"Florida investigation FOIA files\" within the \"US v Epstein\" database for production. This includes assigning Bates numbers to 298 \"Produce As Is\" documents, 1,668 \"Produce As Confidential\" documents, and 2 \"Produce As Highly Confidential\" documents, along with applying appropriate confidentiality stamps to the latter two groups.",
+      "timestamp": "2020-11-26T00:00:00",
+      "timestamp_raw": "26 Oct 2020",
+      "keywords": [
+        "maxwell discovery",
+        "relativity",
+        "foia",
+        "florida investigation",
+        "epstein",
+        "bates number",
+        "confidential",
+        "highly confidential",
+        "production",
+        "vendor"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010202",
+      "summary": "An Assistant United States Attorney from the Southern District of New York is requesting a Relativity token for an FBI analyst involved in a case related to the Epstein SW Database. The request includes an attached form for the agent to complete, specifically inquiring about the analyst’s phone usage (phone or Android) for RSA token access.",
+      "timestamp": "2020-12-04T00:00:00",
+      "timestamp_raw": "December 4, 2020",
+      "keywords": [
+        "relativity",
+        "rsa token",
+        "fbi",
+        "epstein",
+        "database",
+        "united states attorney",
+        "new york",
+        "access",
+        "agent",
+        "phone"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016464",
+      "summary": "A request was made to redact access to specific documents within the “US v. Epstein (SW Returns)” database. Specifically, 397,365 documents not tagged “Identified Responsive” were to be locked off, leaving 1,218,719 tagged documents accessible. The contractor, USANYS, was tasked with executing this redaction and placing the non-responsive documents in designated subfolders within the FBI’s Di Search Warrant Returns and New_Search Warrant Returns folders.",
+      "timestamp": "2020-12-04T00:00:00",
+      "timestamp_raw": "December 4, 2020",
+      "keywords": [
+        "epstein",
+        "relativity",
+        "usanys",
+        "contractor",
+        "search warrant",
+        "fbi",
+        "non-responsive",
+        "documents",
+        "data",
+        "lockdown"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00016526",
+            "similarity": 0.538,
+            "index": 67,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00011251",
+            "similarity": 0.538,
+            "index": 94,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00018161",
+      "summary": "A vendor is producing seven parts of a redacted document related to the US v. Epstein case (SW database) for the recipient. Parts 1-3 have been completed and exported, with Part 4 preparation underway. The vendor is using searches Q SDNY_PROD015 - PART 01, Q SDNY_PROD015 - PART 02, and Q SDNY_PROD015 - PART 03 to manage the production.",
+      "timestamp": "2020-12-04T00:00:00",
+      "timestamp_raw": "04 Nov 2020",
+      "keywords": [
+        "epstein",
+        "us v.",
+        "redaction",
+        "production",
+        "sdny_prod015",
+        "vendor",
+        "documents",
+        "export",
+        "parts",
+        "hard drive"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016526",
+      "summary": "On December 8, 2020, a contractor (USANYS) requested confirmation that a search within the “US v. Epstein (SW Returns)” database should be marked as Non-Responsive and locked off. The contractor proposed placing the Non-Responsive documents in subfolders within the “al Search Warrant Returns” and “USvE_20200728” parent folders. On December 4, 2020, a request was made to lock off access to 397,365 documents not tagged “Identified Responsive,” leaving 1,218,719 tagged documents accessible.",
+      "timestamp": "2020-12-08T00:00:00",
+      "timestamp_raw": "December 8, 2020",
+      "keywords": [
+        "efta00016526",
+        "non-responsive",
+        "maxwell relativity",
+        "usanys",
+        "contractor",
+        "search warrant returns",
+        "data",
+        "lockdown",
+        "documents",
+        "relativity"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00016464",
+            "similarity": 0.538,
+            "index": 65,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029269",
+      "summary": "Two emails were exchanged regarding the review of documents related to the US v. Maxwell and US v. Epstein cases. Chris ([REDACTED]) was requested by [REDACTED] to create batches of approximately 500 documents from the \"USAO-SDFL Files\" folder within the \"US v Epstein\" database, tagging them with \"Relevant to NPA.\" The batches were subsequently created and tagged in the database.",
+      "timestamp": "2020-12-16T00:00:00",
+      "timestamp_raw": "16 Nov 2020",
+      "keywords": [
+        "relativity",
+        "us v. maxwell",
+        "review batches",
+        "sdfl documents",
+        "usao-sdfl files",
+        "npa",
+        "contract",
+        "issue designation"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029268",
+      "summary": "A request was sent from the Maxwell team to [REDACTED] to review documents related to “US v. Maxwell” and “US v. Epstein” using Relativity. The request involved creating batches of approximately 500 documents from the “USAO-SDFL Files” folder within the “US v Epstein” database and applying the “Relevant to NPA” Issue Designation tag to existing tags.",
+      "timestamp": "2020-12-16T00:00:00",
+      "timestamp_raw": "16 Nov 2020",
+      "keywords": [
+        "relativity",
+        "sdfl",
+        "batches",
+        "review",
+        "maxwell",
+        "npa",
+        "us v. maxwell",
+        "documents",
+        "usao-sdfl files",
+        "epstein"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021720",
+      "summary": "This document details a collaborative effort between the U.S. Department of Justice (DOJ), specifically the Southern District of New York, and French authorities investigating the case of “Brunel.” The initial communication revolves around a meeting where a DOJ attorney briefed French investigating judges on the case details, including Brunel’s initial detention, potential sentence length, and concerns about confidentiality. Key points discussed include the DOJ’s interest in assisting with contacting witnesses, particularly adult victims, and utilizing a database of data gathered from Epstein’s residences and devices.  The French authorities expressed interest in this data, contingent on refining search terms and a reciprocal sharing of evidence.  They also highlighted concerns about confidentiality and the need for a “good faith effort” to share information.  The document outlines a proposed path forward involving the drafting and translation of an MLAT request, with the DOJ coordinating efforts to provide targeted search terms and potentially share photographic evidence.  Ultimately, the exchange is characterized by a need for mutual cooperation and reciprocal sharing of information to effectively investigate the case.",
+      "timestamp": "2021-01-12T00:00:00",
+      "timestamp_raw": "12 Jan 2021",
+      "keywords": [
+        "france",
+        "usanys",
+        "crm",
+        "brunel",
+        "investigation",
+        "search terms",
+        "mlat",
+        "confidentiality",
+        "victims",
+        "records",
+        "data",
+        "cooperation",
+        "paris"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026466",
+      "summary": "An Assistant United States Attorney is querying a search warrant database regarding the frequency of \"gmax\" searches. The Attorney reports 3,835 hits, which they find low. A previous email indicates that most of Maxwell's emails were found on one thumb drive from a New York residence, and that there were limited emails between Epstein and Maxwell.",
+      "timestamp": "2021-01-24T00:00:00",
+      "timestamp_raw": "24 Jan 2021",
+      "keywords": [
+        "epstein",
+        "maxwell",
+        "relativity",
+        "thumb drives",
+        "search warrant",
+        "gmax",
+        "united states attorney",
+        "new york residence",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020902",
+      "summary": "This is an automatic reply email from someone named Epstein regarding the Epstein SW database. The sender was out of the office on January 25, 2021, and would return on January 26, 2021.  Questions should be directed to the recipient, alMIE>. The document is labeled EFTA00020902.",
+      "timestamp": "2021-01-25T00:00:00",
+      "timestamp_raw": "January 25, 2021",
+      "keywords": [
+        "epstein",
+        "database",
+        "automatic reply",
+        "efta00020902",
+        "iim",
+        "almie",
+        "2021",
+        "january 25",
+        "2021",
+        "january 26",
+        "2021"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030887",
+      "summary": "An email request was sent from “1==e” to “[REDACTED]” (USANYS Contractor) on January 25, 2021, requesting the creation of review batches for an Epstein database. The batches should contain approximately 500 documents each, and should include materials responsive to the search terms “gmax” and “gmaxl”.",
+      "timestamp": "2021-01-25T00:00:00",
+      "timestamp_raw": "January 25, 2021",
+      "keywords": [
+        "epstein",
+        "database",
+        "redaction",
+        "search warrant",
+        "batches",
+        "documents",
+        "gmax",
+        "gmaxl",
+        "contractor",
+        "usanys"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028201",
+      "summary": "On February 17, 2021, a contractor (USANYS) informed a user that a “filepath” field has been added to the \"Epstein Relativity Database\" to display the NYC serial number of documents. This follows a previous request from the user to add a column to the database showing the NYC serial number for documents related to “US v. Epstein (SW Returns).” The contractor provided a screenshot illustrating the use of the “filepath” field. The Assistant United States Attorney from the Southern District of New York is listed as EFTA00028202.",
+      "timestamp": "2021-02-17T00:00:00",
+      "timestamp_raw": "February 17, 2021",
+      "keywords": [
+        "epstein database",
+        "relativity",
+        "nyc serial number",
+        "filepath",
+        "contractor",
+        "usanys",
+        "redaction",
+        "database",
+        "us v. epstein",
+        "document"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021373",
+      "summary": "A request was made by an Assistant United States Attorney from the Southern District of New York to Chris (USANYS Contractor) regarding adding a column to the \"US v. Epstein (SW Returns)\" Relativity database to display the NYC serial number for each document. The request stemmed from a previous assistance Chris provided in adding this column. The email chain details the specific query and the desired action.",
+      "timestamp": "2021-02-17T00:00:00",
+      "timestamp_raw": "17 Feb 2021",
+      "keywords": [
+        "epstein",
+        "relativity",
+        "database",
+        "nyc",
+        "serial number",
+        "document",
+        "contractor",
+        "usanys",
+        "redaction",
+        "chris"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021372",
+      "summary": "An email exchange occurred between an unknown sender and recipient regarding a question about an “Epstein Relativity Database.” The email exchange, dated February 17, 2021, was attached to a message named “Question re Epstein Relativity Database.msg.” The recipient’s address was redacted.",
+      "timestamp": "2021-02-17T00:00:00",
+      "timestamp_raw": "February 17, 2021",
+      "keywords": [
+        "epstein",
+        "relativity database",
+        "redaction",
+        "usahub",
+        "question",
+        "message",
+        "outlook",
+        "pdf",
+        "analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026567",
+      "summary": "An Assistant United States Attorney in the Southern District of New York is reviewing a privilege log (SDFL_privilege_Iog.pdf) submitted by the defense in a case involving the “NPA.” The log contains an entry for a file folder and an attorney with an unknown name (“”) who is not found through searches or NY attorney registration databases. The Assistant U.S. Attorney is seeking suggestions on how to investigate this individual.",
+      "timestamp": "2021-02-17T00:00:00",
+      "timestamp_raw": "17 Feb 2021",
+      "keywords": [
+        "npa",
+        "privilege log",
+        "sdfl",
+        "attorney",
+        "sdny",
+        "ecf",
+        "investigation",
+        "coordination",
+        "ed",
+        "google search"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018732",
+      "summary": "Email correspondence between attorneys regarding FOIA requests related to Jeffrey Epstein and Ghislaine Maxwell. One attorney requests a comprehensive list of all FOIA requests received by the office, including production details and AUSA point of contact information. Another attorney clarifies that the FOIA Tracking Database only covers requests directed to the office and does not track those handled by other agencies like the FBI. References are made to specific case files (NYT v BOP, Epstein victim Touhy requests) and a discussion about discovery versus FOIA. An attachment referencing a PPI letter about discovery vs. FOIA is mentioned.",
+      "timestamp": "2021-03-10T00:00:00",
+      "timestamp_raw": "10 Mar 2021",
+      "keywords": [
+        "epstein",
+        "foia",
+        "ghislaine maxwell",
+        "civ div",
+        "radar online",
+        "discovery",
+        "sdny",
+        "united states attorney",
+        "caseview",
+        "ppi"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00017740",
+      "summary": "Multiple individuals within the US Attorney’s Office for the Southern District of New York (SDNY) are collaborating on a project to compile a comprehensive list of all FOIA requests related to Jeffrey Epstein and Ghislaine Maxwell. One individual is working with EOUSA and providing updates. Another individual is requesting a review of the FOIA Tracking Database to identify missing cases, specifically referencing a civil case involving Radar Online. Correspondence discusses the distinction between FOIA requests handled by the office and those handled by other agencies like the FBI, and the use of a letter regarding discovery versus FOIA. EFTA00017740 and EFTA00017741 are identified as FOIA request tracking numbers.",
+      "timestamp": "2021-03-11T00:00:00",
+      "timestamp_raw": "11 Mar 2021",
+      "keywords": [
+        "foia",
+        "jeffrey epstein",
+        "ghislaine maxwell",
+        "redaction analysis",
+        "usanys",
+        "assistant united states attorney",
+        "southern district of new york",
+        "radar online",
+        "discovery",
+        "litigation"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030080",
+      "summary": "Several individuals within the US Attorney’s Office for the Southern District of New York (SDNY) are involved in tracking and responding to Freedom of Information Act (FOIA) requests related to the Jeffrey Epstein and Ghislaine Maxwell cases.  Emails detail a request for a comprehensive list of all FOIA requests received by the office concerning these individuals, along with information on production made in response to those requests and the assigned AUSA point of contact.  The FOIA tracking database primarily focuses on requests directed to the office itself and doesn't cover related FBI or litigation cases.  There’s a discussion about discrepancies in a list of cases and the need to identify missing FOIA requests, specifically referencing a case involving Radar Online.  A letter is attached outlining the complexities of FOIA requests versus discovery in litigation.",
+      "timestamp": "2021-03-12T00:00:00",
+      "timestamp_raw": "12 Mar 2021",
+      "keywords": [
+        "epstein",
+        "maxwell",
+        "foia",
+        "redaction",
+        "usanys",
+        "ausa",
+        "webex",
+        "case",
+        "requests",
+        "tracking database"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031940",
+      "summary": "An email chain discusses granting access to the Relativity platform, specifically the US v Epstein and US v Epstein (SW Returns) databases. A form was attached for the recipient to sign and return to gain access.",
+      "timestamp": "2021-03-17T00:00:00",
+      "timestamp_raw": "17 Mar 2021",
+      "keywords": [
+        "relativity",
+        "access",
+        "epstein",
+        "databases",
+        "form",
+        "rules of behavior",
+        "efta00031940"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027397",
+      "summary": "This email is an automatic reply from an individual named “I” regarding an Epstein SW database. The sender will be out of the office from April 28, 2021, to April 30, 2021, returning on May 3, 2021.  Questions should be directed to “1”). The email is associated with the file EFTA00027397.",
+      "timestamp": "2021-04-28T00:00:00",
+      "timestamp_raw": "April 28, 2021",
+      "keywords": [
+        "epstein database",
+        "automatic reply",
+        "efta00027397",
+        "april 28",
+        "2021",
+        "may 3",
+        "2021"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038687",
+      "summary": "An email request was made to compile a photobook for trial witnesses, specifically focusing on Jeffrey Epstein and Ghislaine Maxwell. The sender, EFTA00038687, desired formal photographs (license or passport-style) from the late 1990s or early 2000s for each individual to utilize with NYPD database searches for similar-looking fillers.",
+      "timestamp": "2021-06-16T00:00:00",
+      "timestamp_raw": "16 Jun 2021",
+      "keywords": [
+        "photobook",
+        "maxwell",
+        "epstein",
+        "witnesses",
+        "trial",
+        "nypd",
+        "photos",
+        "fillers",
+        "license",
+        "passport"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018023",
+      "summary": "Customs and Border Protection (CBP) Task Force Officer provided travel records for Maxwell and Epstein, focusing on TECS travel records. *   CBP confirmed that outbound travel records between 1990-2000 were not recorded in the CBP database. *   A comprehensive Excel spreadsheet containing all travel crossings for Maxwell is attached, organized chronologically. *   The communication involved multiple parties including the U.S. Attorney's Office and the Assistant United States Attorney. *   The email chain emphasizes the sensitive and confidential nature of the information, with specific dissemination restrictions.",
+      "timestamp": "2021-07-30T00:00:00",
+      "timestamp_raw": "30 Jul 2021",
+      "keywords": [
+        "cbp",
+        "travel records",
+        "tecs",
+        "maxwell",
+        "epstein",
+        "database",
+        "1990-2000",
+        "travel crossings",
+        "us customs and border protection"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00031980",
+            "similarity": 0.583,
+            "index": 85,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00031980",
+      "summary": "*   A CBP Task Force Officer provided travel records for Maxwell and Epstein to an Assistant United States Attorney. *   The records, accessed through TECS, cover 2000 and onward due to limitations in the CBP database prior to that time (1990-2000). *   The records included two name variations for the individual and were provided in an Excel spreadsheet for cross-referencing. *   The communication emphasized the sensitive nature of the information and restricted dissemination to law enforcement and intelligence agencies. *   The sender requested further information and clarification regarding the case.",
+      "timestamp": "2021-07-30T00:00:00",
+      "timestamp_raw": "30 Jul 2021",
+      "keywords": [
+        "cbp",
+        "travel records",
+        "tecs",
+        "maxwell",
+        "epstein",
+        "dob",
+        "document numbers",
+        "name variations",
+        "1990-2000",
+        "us customs and border protection"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00018023",
+            "similarity": 0.583,
+            "index": 84,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025075",
+      "summary": "This document is a series of emails exchanged between U.S. Customs and Border Protection (CBP) and the U.S. Attorney’s Office – SDNY, regarding travel records for Maxwell and Epstein.  CBP Task Force Officer confirms that outbound travel records from 1990-2000 are not recorded in their database due to changes in tracking procedures. They provided travel records from 2000 onwards, including a detailed Excel spreadsheet for one individual (with a name variation), and indicated that further travel records beyond 2000 are available upon request. The communications emphasize the sensitive and confidential nature of the information and restrict its dissemination to authorized law enforcement personnel only.",
+      "timestamp": "2021-08-02T00:00:00",
+      "timestamp_raw": "02 Aug 2021",
+      "keywords": [
+        "cbp",
+        "travel records",
+        "tecs",
+        "data",
+        "2000",
+        "outbound departures",
+        "maxwell",
+        "epstein",
+        "travel crossings",
+        "usa",
+        "u.s. customs and border protection"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018077",
+      "summary": "An Assistant United States Attorney from the Southern District of New York requested a review of item USGME00032574 within the Epstein search warrant database due to a subject line (“joint defense agreement”) that prompted caution. The email was sent from [REDACTED] to [REDACTED] with CCs including [REDACTED].",
+      "timestamp": "2021-08-04T00:00:00",
+      "timestamp_raw": "04 Aug 2021",
+      "keywords": [
+        "epstein",
+        "database",
+        "redaction",
+        "joint defense agreement",
+        "usgme00032574",
+        "usanys",
+        "efta00018077",
+        "southern district of new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032762",
+      "summary": "An Assistant United States Attorney from the Southern District of New York requests redaction assistance for documents related to the Epstein SW database. The documents are considered \"hot docs\" – previously produced in discovery – and are part of a larger email batch review.",
+      "timestamp": "2021-08-13T00:00:00",
+      "timestamp_raw": "13 Aug 2021",
+      "keywords": [
+        "efta00032762",
+        "redaction analysis",
+        "doe review",
+        "emails",
+        "epstein",
+        "discovery",
+        "united states attorney",
+        "southern district of new york",
+        "batches",
+        "hot docs"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015186",
+      "summary": "The U.S. Department of Justice, via the Southern District of New York, is producing discovery materials related to the case of *United States v. Ghislaine Maxwell* (20 Cr. 330). The materials, stamped with control numbers SDNY_GM_02762507 through SDNY_GM_02763017, include files from JPMC, FAA, FedEx, and databases pertaining to Ghislaine Maxwell and Jeffrey Epstein, along with photographs. The production is governed by a Protective Order, specifically paragraphs 7, 8, 9, 10, 15, and 17. The DOJ states they are producing these files as an abundance of caution and acknowledges ongoing discovery obligations.",
+      "timestamp": "2021-10-07T00:00:00",
+      "timestamp_raw": "October 7, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states v.",
+        "protective order",
+        "sdny",
+        "justice department",
+        "discovery materials",
+        "confidential",
+        "fbi",
+        "jpmc",
+        "database files",
+        "photographs"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034611",
+      "summary": "This document is a custodian document search checklist related to an “Inmate Death” legal hold (LHN-CIV-2019-00204). It guides an individual through a process to identify and assess potentially responsive documents across various media – electronic files (home drives, shared drives, emails, databases), physical files (office, repositories), and other media (CDs/DVDs). The checklist requires the individual to detail where they store relevant information, who else has access, and to confirm they haven’t altered or destroyed any potentially responsive documents. It also covers information regarding government and personal devices used for work, including data transfers and potential relevant communications. Finally, it requests identification of other employees with relevant information and details any social media activity related to the case. The checklist concludes with signature and date fields.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "redaction analysis",
+        "legal hold",
+        "inmate death",
+        "responsive documents",
+        "email",
+        "databases",
+        "electronic files",
+        "hard copy files",
+        "agency counsel",
+        "search checklist"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00034811",
+            "similarity": 0.818,
+            "index": 91,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034811",
+      "summary": "This document is a Custodian Document Search Checklist related to an “Inmate Death” legal hold (LHN-CIV-2019-00204). It’s a standard form used to investigate and document a user’s potential involvement with documents relevant to the legal hold. The checklist covers electronic files (email, databases, home/shared drives, removable media), hard copy files, and other media. It prompts the user to identify locations of potentially responsive documents, list access permissions, and acknowledge their responsibility to preserve documents.  The form also seeks information regarding other employees, devices used, and any social media activity that might be relevant to the litigation. Finally, it includes a section for indicating if no responsive documents were found.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "redaction analysis",
+        "inmate death",
+        "legal hold",
+        "electronic files",
+        "email",
+        "databases",
+        "hard copy files",
+        "custodian checklist",
+        "agency counsel",
+        "responsive documents"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034611",
+            "similarity": 0.818,
+            "index": 90,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034574",
+      "summary": "This document is a Custodian Document Search Checklist related to an “Inmate Death” legal hold (LHN-CIV-2019-00204) overseen by agency counsel and the Department of Justice. It’s a standard form used to investigate potential responsive documents across various media – electronic files (home drives, shared drives, emails, databases), archived electronic files, physical files (office, repositories), and other media like CDs/DVDs. The checklist prompts the user to identify locations of potentially responsive documents, who has access, and to confirm they haven’t altered or destroyed any relevant information. It also covers device inventory, data transfer history, and potential social media involvement related to the litigation. The checklist concludes with acknowledgements regarding tracking and metadata preservation and includes signature/date fields. If no responsive documents are found, a separate section confirms this outcome.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "redaction",
+        "legal hold",
+        "documents",
+        "emails",
+        "databases",
+        "files",
+        "search",
+        "agency",
+        "counsel",
+        "responsive"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00033996",
+            "similarity": 0.667,
+            "index": 93,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00033996",
+      "summary": "This document is a Custodian Document Search Checklist related to an “Inmate Death” legal hold (LHN-CIV-2019-00204). It’s a form completed by an employee to detail their search for potentially responsive documents within their agency. The employee outlines their searches across various media – electronic files (including home drives, shared drives, emails, and databases), archived electronic files, hard copy files, and other media like CDs/DVDs. The checklist requires the employee to identify locations of potentially responsive documents, list individuals with access to relevant files/devices, and confirm they haven’t altered or destroyed any potentially responsive materials.  The form also probes for information about data transfers, social media activity, and other employees who may possess relevant information. Finally, it includes a space for the employee’s signature and a section indicating if no responsive documents were found.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "redaction",
+        "legal hold",
+        "documents",
+        "emails",
+        "databases",
+        "files",
+        "search",
+        "agency",
+        "attorney",
+        "confidential"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034574",
+            "similarity": 0.667,
+            "index": 92,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00011251",
+      "summary": "The FBI has limited its review of materials related to Jeffrey Epstein’s devices to documents tagged \"Responsive\" in Relativity, images and videos identified as responsive, and specific iPad/iPhone portions flagged responsive by SDNY. Moving forward, the sender requests confirmation if any non-responsive material is encountered and proposes action to lock it off. A request is made to lock off 397,365 non-responsive documents from the “US v. Epstein (SW Returns)” database, leaving 1,218,719 responsive documents accessible.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "epstein",
+        "relativity",
+        "fbi",
+        "responsive",
+        "non-responsive",
+        "documents",
+        "search warrant",
+        "data",
+        "maxwell",
+        "us v. epstein"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00016464",
+            "similarity": 0.538,
+            "index": 65,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029155",
+      "summary": "This document is a redaction analysis report detailing the contents of an “Epstein Device,” likely related to investigations involving Jeffrey Epstein. The report lists numerous files and data categories found within the device, categorized by type (e.g., call logs, messages, photos, videos, databases, and device events). These categories contain a massive number of individual entries, ranging from thousands to tens of thousands, including specific names, phone numbers, and file names. The data encompasses various communication methods (WhatsApp, email, etc.), locations, and digital assets. The report appears to be a comprehensive inventory of the data recovered from the device, intended for analysis as part of a legal or investigative process.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00029155",
+        "epstein device",
+        "contents",
+        "swan",
+        "appecatcos",
+        "usage log",
+        "calendar",
+        "call log",
+        "messages",
+        "whatsapp",
+        "camera",
+        "cocacids",
+        "device events",
+        "names",
+        "11/40 ip connections",
+        "trackings",
+        "el entries",
+        "iam14s lines",
+        "raccersgs",
+        "vatatsapp",
+        "databases",
+        "dectillvs",
+        "images",
+        "ten",
+        "sims",
+        "archives",
+        "user accounts",
+        "web bookreams",
+        "web hickey",
+        "location",
+        "call logs",
+        "deleted",
+        "audio",
+        "video"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019513",
+      "summary": "An Assistant United States Attorney requested a redaction analysis for EFTA00019513.pdf, generated on December 24, 2025. The email chain details a request to investigate a phone number registered under SORNA, including a WhatsApp search. Simultaneously, a database search was requested for 301 E 66 Street, an address associated with Jeffrey Epstein and potential model housing for Mc2. Attached documents include a DAS search result (over 2000 records) and a WhatsApp search screenshot.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00019513",
+        "fbi",
+        "whatsapp",
+        "das search",
+        "301 e 66 street",
+        "sorna",
+        "epstein",
+        "models",
+        "mc2",
+        "human trafficking"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034478",
+      "summary": "This document is a Custodian Document Search Checklist related to an investigation, likely a legal case involving an inmate death (LHN-CIV-2019-00204). It details a search conducted by an individual (identified only as “[REDACTED]”) for potentially responsive documents across various media – electronic files (home drives, shared drives, emails, databases), archived electronic files, physical files (office, repositories), and other media (CDs, etc.). The checklist requires the individual to identify locations of potentially responsive documents and report any relevant information, including access to shared drives and email accounts, government and personal devices, social media usage, and any potential transfers of files. The checklist emphasizes the obligation to retain and protect responsive documents and to notify agency counsel of any alterations or destruction. The search ultimately resulted in no responsive documents being found.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "redaction analysis",
+        "legal hold",
+        "inmate death",
+        "email",
+        "databases",
+        "electronic files",
+        "documents",
+        "agency",
+        "attorney client communication",
+        "metadata"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025189",
+      "summary": "A request for $200,000 in case-related expenses has been submitted for the “In re Jeffrey Epstein” case (2018R01618) within the Southern District of New York. The request covers database hosting/discovery costs ($100,000) and travel expenses ($100,000).  The case involves investigating Ghislaine Maxwell for related crimes and considering civil forfeiture actions against properties valued at over $100 million.  The investigation centers on alleged sex trafficking activity spanning multiple locations and potentially involving 50 victims. Allowable expenses include travel, subpoena costs, and discovery costs related to seized electronic devices. Expenses such as expert witness testimony, office equipment, and salaries are not reimbursable from the Assets Forfeiture Fund.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00025189",
+        "forfeiture",
+        "assets",
+        "litigation",
+        "expenses",
+        "criminal",
+        "jeffrey epstein",
+        "ghislaine maxwell",
+        "civil forfeiture",
+        "victim"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    }
+  ]
+}

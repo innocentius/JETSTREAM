@@ -1,0 +1,1246 @@
+{
+  "keyword": "interlochen center for the arts",
+  "count": 36,
+  "keyword_match_count": 36,
+  "content_match_count": 2,
+  "total_files": 38,
+  "timeline": [
+    {
+      "file_id": "EFTA00017055",
+      "summary": "Jeff Jocks of Sondee, Racine & Doren, PLC, received a subpoena from Maurene, an Assistant United States Attorney for the Southern District of New York, regarding Jeffrey Epstein and Ghislaine Maxwell. The subpoena was addressed to Interlochen Center for the Arts and included a confidentiality request.",
+      "timestamp": "2020-02-06T00:00:00",
+      "timestamp_raw": "06 Feb 2020",
+      "keywords": [
+        "efta00017055",
+        "jeffrey epstein",
+        "ghislaine maxwell",
+        "subpoena",
+        "interlochen center for the arts",
+        "maurene",
+        "sondeeracine",
+        "united states attorney",
+        "confidentiality",
+        "new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00026849",
+            "similarity": 0.636,
+            "index": 4,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00026863",
+            "similarity": 0.636,
+            "index": 5,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00020846",
+      "summary": "The U.S. Department of Justice, Southern District of New York, issued a grand jury subpoena to the Interlochen Center for the Arts on February 6, 2020, requesting records related to financial contributions and visits by Jeffrey Epstein and Ghislaine Maxwell to the Interlochen Arts Camp and Academy. The subpoena demands documentation of donations, tuition payments, and dates of visits.  A rider attached to the subpoena specifically requests records pertaining to these individuals. The request includes a Declaration of Custodian of Records to authenticate the provided documents.  A non-disclosure request is included, urging the recipient not to disclose information about the investigation.",
+      "timestamp": "2020-02-06T00:00:00",
+      "timestamp_raw": "February 6, 2020",
+      "keywords": [
+        "grand jury subpoena",
+        "interlochen center for the arts",
+        "jeffrey jocks",
+        "federal bureau of investigation",
+        "18 u.s.c. § 2423",
+        "criminal investigation",
+        "records request",
+        "united states attorney"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026978",
+      "summary": "A subpoena was issued by the Assistant United States Attorney for the Southern District of New York to the Interlochen Center for the Arts, requesting information regarding Jeffrey Epstein and Ghislaine Maxwell. The subpoena was attached to an email dated February 6, 2020, and the recipient was instructed to maintain confidentiality.",
+      "timestamp": "2020-02-06T00:00:00",
+      "timestamp_raw": "February 6, 2020",
+      "keywords": [
+        "epstein",
+        "maxwell",
+        "interlochen",
+        "subpoena",
+        "donor records",
+        "maurene",
+        "united states attorney",
+        "southern district of new york",
+        "2020-02-06"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026851",
+      "summary": "The document details a court order issued by a U.S. Magistrate Judge to Interlochen Center for the Arts, restricting their ability to disclose a grand jury subpoena. The subpoena seeks records of students who attended Interlochen Arts Camp and Academy between 1994 and 1998, as part of an ongoing federal criminal investigation. To protect the investigation, Interlochen is ordered not to disclose the subpoena’s existence for 180 days, except for necessary dissemination to government personnel. The order mandates that all materials be filed under seal, and a grand jury subpoena is included, requesting specified student records.",
+      "timestamp": "2020-02-10T00:00:00",
+      "timestamp_raw": "February 10, 2020",
+      "keywords": [
+        "interlochen center for the arts",
+        "subpoena",
+        "federal investigation",
+        "grand jury",
+        "20 u.s.c. § 1232g(b)(1)(i)",
+        "28 u.s.c. § 1651",
+        "redaction analysis",
+        "records",
+        "witness intimidation",
+        "evidence tampering"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026849",
+      "summary": "Maurene, an Assistant United States Attorney from the Southern District of New York, sent a subpoena and non-disclosure order to Jeff Jocks of Sondee, Racine & Doren, PLC regarding information about Jeffrey Epstein and Ghislaine Maxwell, specifically addressed to Interlochen Center for the Arts. Jeff Jocks confirmed receipt of the documents.",
+      "timestamp": "2020-02-12T00:00:00",
+      "timestamp_raw": "12 Feb 2020",
+      "keywords": [
+        "subpoena",
+        "interlochen center for the arts",
+        "jeffrey epstein",
+        "ghislaine maxwell",
+        "united states attorney",
+        "new york",
+        "maurene",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00017055",
+            "similarity": 0.636,
+            "index": 0,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00026863",
+            "similarity": 0.778,
+            "index": 5,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00026863",
+      "summary": "Jeff Jocks of Sondee, Racine & Doren, PLC received a subpoena and non-disclosure order from Maurene, an Assistant United States Attorney for the Southern District of New York, regarding information about Jeffrey Epstein and Ghislaine Maxwell from Interlochen Center for the Arts. The subpoena was attached to an email on February 12, 2020, and Jocks confirmed receipt on February 13, 2020. The subpoena was addressed to Interlochen Center for the Arts.  The document contains redactions of recipient and subject line information.",
+      "timestamp": "2020-02-12T00:00:00",
+      "timestamp_raw": "February 12, 2020",
+      "keywords": [
+        "subpoena",
+        "interlochen center for the arts",
+        "jeffrey epstein",
+        "ghislaine maxwell",
+        "maurene",
+        "united states attorney",
+        "sondeeracine",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00026849",
+            "similarity": 0.778,
+            "index": 4,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00017055",
+            "similarity": 0.636,
+            "index": 0,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020844",
+      "summary": "A U.S. Attorney’s office (Maurene) sent a subpoena to Interlochen Center for the Arts requesting records related to Jeffrey Epstein and Ghislaine Maxwell. Jeff Jocks, representing Sondeer, Racine & Doren, PLC, acknowledged receipt of the subpoena and attached a document. The U.S. Attorney followed up with a request to confirm whether the production included all records of tuition payments made by Epstein or his entities to Interlochen students. George Donnini was also copied on the email chain.",
+      "timestamp": "2020-03-08T00:00:00",
+      "timestamp_raw": "08 Mar 2020",
+      "keywords": [
+        "interlochen center for the arts",
+        "epstein",
+        "subpoena",
+        "records",
+        "tuition payments",
+        "maurene",
+        "jeff jocks",
+        "george donnini",
+        "united states attorney",
+        "sondee racine"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00032202",
+            "similarity": 0.636,
+            "index": 7,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00018434",
+            "similarity": 0.667,
+            "index": 9,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00030520",
+            "similarity": 0.583,
+            "index": 12,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00032202",
+      "summary": "Attorney from the Southern District of New York sent a subpoena to Interlochen Center for the Arts seeking records related to Jeffrey Epstein and Ghislaine Maxwell. *   Jeff Jocks of Sondee, Racine & Doren, PLC responded to the subpoena and confirmed receipt of the documents. *   A follow-up inquiry was made regarding whether the production included all tuition payments made by Epstein or his entities to Interlochen students. *   George Donnini of Butzel Long was also involved in the communication, assisting with the subpoena response. *   The communications were subject to confidentiality notices and were conducted amidst a legal proceeding (a trial starting the following week).",
+      "timestamp": "2020-04-08T00:00:00",
+      "timestamp_raw": "08 Apr 2020",
+      "keywords": [
+        "subpoena",
+        "interlochen center for the arts",
+        "epstein",
+        "maurene",
+        "united states attorney",
+        "jeff jocks",
+        "sondeer racine & doren",
+        "tuition payments"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00020844",
+            "similarity": 0.636,
+            "index": 6,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00018434",
+            "similarity": 0.636,
+            "index": 9,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00030520",
+            "similarity": 0.7,
+            "index": 12,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00018430",
+            "similarity": 0.545,
+            "index": 13,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00032131",
+      "summary": "*   A subpoena was issued requesting records of tuition payments made by Epstein or his entities to Interlochen students. *   The legal team is seeking confirmation that all tuition records were included in the production. *   Maurene (an Assistant United States Attorney) sent the initial subpoena to Interlochen, requesting confidentiality. *   Jeff Jocks acknowledged receipt of the subpoena and confirmed its delivery. *   There are redactions present in the document.",
+      "timestamp": "2020-04-08T00:00:00",
+      "timestamp_raw": "08 Apr 2020",
+      "keywords": [
+        "interlochen center for the arts",
+        "epstein",
+        "subpoena",
+        "tuition payments",
+        "sondee",
+        "racine & doren",
+        "jeffrey jocks",
+        "maurene",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00018430",
+            "similarity": 0.5,
+            "index": 13,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00018434",
+      "summary": "Jocks stated that Interlochen only retains tuition payment information for 7 years and that no payments were found for Epstein or his entities. A follow-up inquiry from Maurene (USANYS) on April 8, 2020, prompted further confirmation from Jocks regarding all tuition payments made by Epstein to Interlochen.  Jocks confirmed that Interlochen’s records did not reflect any such payments.  Finally, Jocks confirmed receipt of the subpoena on February 6, 2020.",
+      "timestamp": "2020-10-30T00:00:00",
+      "timestamp_raw": "October 30, 2020",
+      "keywords": [
+        "interlochen center for the arts",
+        "epstein",
+        "subpoena",
+        "jeff jocks",
+        "maurene",
+        "sondee racine",
+        "tuition payments",
+        "united states attorney",
+        "response",
+        "interlochen"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00032202",
+            "similarity": 0.636,
+            "index": 7,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00020844",
+            "similarity": 0.667,
+            "index": 6,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00030520",
+            "similarity": 0.583,
+            "index": 12,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00028690",
+      "summary": "Jeff Jocks of Sondee, Racine & Doren, PLC was contacted by the Assistant United States Attorney for the Southern District of New York regarding a subpoena to Interlochen Center for the Arts concerning Jeffrey Epstein and Ghislaine Maxwell.  Initial discussions revolved around a call to discuss the subpoena on Monday, November 2, 2020.  Subsequent emails documented a lack of response from Interlochen regarding tuition payment records, with the U.S. Attorney repeatedly requesting confirmation. Interlochen asserted that they only retain tuition payment information for 7 years and had no records of Epstein’s payments.  The investigation continued through March 2020 with further requests for confirmation and discussion of the subpoena’s scope.",
+      "timestamp": "2020-11-02T00:00:00",
+      "timestamp_raw": "November 2, 2020",
+      "keywords": [
+        "interlochen center for the arts",
+        "epstein",
+        "subpoena",
+        "sondeeracine",
+        "michigan",
+        "attorney",
+        "tuition payments",
+        "confidentiality",
+        "united states attorney"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00030520",
+            "similarity": 0.5,
+            "index": 12,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00018430",
+            "similarity": 0.5,
+            "index": 13,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00013279",
+            "similarity": 0.583,
+            "index": 16,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00019142",
+      "summary": "Jocks stated that Interlochen only retains tuition payment information for 7 years and has no records of payments by Epstein or his entities.  The USAO followed up on a prior inquiry from April 2020, seeking confirmation that all tuition payments from Epstein were included in the production.  Jeff Jocks subsequently confirmed receipt of documents related to the subpoena on February 6, 2020.",
+      "timestamp": "2020-11-02T00:00:00",
+      "timestamp_raw": "November 2, 2020",
+      "keywords": [
+        "interlochen center for the arts",
+        "epstein",
+        "subpoena",
+        "attorney",
+        "united states attorney",
+        "payment",
+        "tuition",
+        "response",
+        "conference line",
+        "michigan"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00019133",
+            "similarity": 0.538,
+            "index": 14,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00020889",
+            "similarity": 0.667,
+            "index": 15,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00013279",
+            "similarity": 0.538,
+            "index": 16,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00030520",
+      "summary": "Attorney’s Office (Southern District of New York) sent a subpoena to Interlochen Center for the Arts seeking records related to Jeffrey Epstein and Ghislaine Maxwell. *   Jeff Jocks, representing Sondee, Racine & Doren, PLC, received the subpoena and forwarded it to Maurene, an Assistant U.S. Attorney. *   Maurene followed up with Jocks, requesting confirmation that the production included all tuition payment records made by Epstein or his entities to Interlochen students. *   Jocks responded with a receipt confirming receipt of the subpoena. *   There was a prior exchange of emails between the U.S. Attorney’s office and Jocks regarding the subpoena.",
+      "timestamp": "2020-11-29T00:00:00",
+      "timestamp_raw": "29 Oct 2020",
+      "keywords": [
+        "subpoena",
+        "interlochen center for the arts",
+        "epstein",
+        "maurene",
+        "jeff jocks",
+        "united states attorney",
+        "tuition payments",
+        "sondeeracine",
+        "redaction"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00028690",
+            "similarity": 0.5,
+            "index": 10,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00018434",
+            "similarity": 0.583,
+            "index": 9,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00032202",
+            "similarity": 0.7,
+            "index": 7,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00018430",
+            "similarity": 0.8,
+            "index": 13,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00018430",
+      "summary": "A U.S. Attorney’s office (Southern District of New York) sent a subpoena to Jeffrey L. Jocks, an attorney representing Interlochen Center for the Arts, seeking records regarding Jeffrey Epstein and Ghislaine Maxwell. Jocks responded, stating that Interlochen’s records showed no tuition payments from Epstein or his entities and that payment information is only retained for 7 years.  The U.S. Attorney followed up with repeated requests for confirmation of the subpoena’s response, with Jocks initially unable to recall the response and then confirming receipt. Another attorney, George B. Donnini, was also involved in the communication chain regarding the subpoena.",
+      "timestamp": "2020-11-30T00:00:00",
+      "timestamp_raw": "30 Oct 2020",
+      "keywords": [
+        "interlochen center for the arts",
+        "epstein",
+        "subpoena",
+        "sondeeracine",
+        "united states attorney",
+        "tuition payments",
+        "redaction",
+        "jeffrey jocks",
+        "maurene"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00030520",
+            "similarity": 0.8,
+            "index": 12,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00028690",
+            "similarity": 0.5,
+            "index": 10,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00032131",
+            "similarity": 0.5,
+            "index": 8,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019133",
+      "summary": "Jeff Jocks of Sondee, Racine & Doren, PLC responded, stating Interlochen does not have records of payments by Epstein or his entities, and tuition payment information is only retained for 7 years. *   **Follow-Up Inquiry (April 2020):** A subsequent inquiry from a US Attorney’s office (Southern District of New York) in April 2020 requested confirmation that all tuition payments by Epstein were included in the initial production. *   **Continued Inquiry (March 2020):** The US Attorney’s office continued to pursue confirmation, prompting Jeff Jocks to acknowledge the complexity of the situation and limited availability for discussion. *   **Receipt Confirmation (February 2020):** Jeff Jocks confirmed receipt of documents produced by the US Attorney’s office related to the subpoena. *   **Scheduling a Call:** Initial scheduling attempts for a call to discuss the subpoena took place between Alison and Jeff Jocks, with a proposed conference line. Note: The text contains redactions which are not included in this summary.",
+      "timestamp": "2020-11-30T00:00:00",
+      "timestamp_raw": "30 Oct 2020",
+      "keywords": [
+        "interlochen center for the arts",
+        "epstein",
+        "subpoena",
+        "sondeeracine",
+        "attorney",
+        "payment",
+        "tuition",
+        "redaction",
+        "united states attorney",
+        "new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00019142",
+            "similarity": 0.538,
+            "index": 11,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00020889",
+            "similarity": 0.818,
+            "index": 15,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00013279",
+            "similarity": 0.667,
+            "index": 16,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00020889",
+      "summary": "Jeff Jocks, an attorney with Sondee, Racine & Doren, PLC, was responding to a subpoena regarding Jeffrey Epstein and Ghislaine Maxwell’s connections to Interlochen Center for the Arts. He offered availability for calls to discuss the subpoena and the response provided by the Assistant United States Attorney’s office, who had requested records of tuition payments made by Epstein or his entities. The response indicated Interlochen only kept tuition payment information for 7 years and found no records of Epstein payments. There were multiple email exchanges regarding scheduling and the scope of the requested information, with some sections redacted.",
+      "timestamp": "2020-11-30T00:00:00",
+      "timestamp_raw": "30 Oct 2020",
+      "keywords": [
+        "interlochen center for the arts",
+        "epstein",
+        "subpoena",
+        "sondeeracine",
+        "attorney",
+        "payment",
+        "tuition",
+        "response",
+        "redaction",
+        "united states attorney"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00019133",
+            "similarity": 0.818,
+            "index": 14,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00019142",
+            "similarity": 0.667,
+            "index": 11,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00013279",
+            "similarity": 0.667,
+            "index": 16,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00029315",
+            "similarity": 0.538,
+            "index": 26,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00013279",
+      "summary": "This redacted document details a series of email exchanges surrounding a subpoena issued to Interlochen Center for the Arts concerning Jeffrey Epstein and Ghislaine Maxwell. An Assistant United States Attorney (USAO) initially requested documentation regarding tuition payments made by Epstein or his entities. Interlochen repeatedly stated they had no records of such payments, citing a seven-year retention limit for tuition information. A phone call was scheduled to discuss the matter, but ultimately yielded no further relevant information. The correspondence involved attorneys from Sondeer, Racine & Doren, PLC, who facilitated the communication and confirmed receipt of documents.",
+      "timestamp": "2021-01-05T00:00:00",
+      "timestamp_raw": "05 Jan 2021",
+      "keywords": [
+        "interlochen center for the arts",
+        "epstein",
+        "subpoena",
+        "payments",
+        "tuition",
+        "redaction",
+        "sondeeracine",
+        "michigan",
+        "attorney",
+        "united states attorney"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00020889",
+            "similarity": 0.667,
+            "index": 15,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019133",
+            "similarity": 0.667,
+            "index": 14,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019142",
+            "similarity": 0.538,
+            "index": 11,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00024879",
+            "similarity": 0.5,
+            "index": 17,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00024879",
+      "summary": "This document summarizes an email exchange between Jeffrey L. Jocks of Sondee, Racine & Doren, PLC and an Assistant United States Attorney from the Southern District of New York regarding a subpoena issued to Interlochen Center for the Arts. The subpoena sought records related to Jeffrey Epstein and Ghislaine Maxwell’s interactions with Interlochen, specifically concerning tuition payments. Jocks initially responded to the subpoena, stating that Interlochen did not retain any payment records for Epstein or his entities, citing a seven-year retention policy. Subsequent emails involved follow-up inquiries regarding these records, discussions about scheduling calls, and confirmations of receipt. The core finding is that Interlochen possessed no payment records directly linked to Epstein, though this was initially contested and investigated.",
+      "timestamp": "2021-01-07T00:00:00",
+      "timestamp_raw": "07 Jan 2021",
+      "keywords": [
+        "interlochen center for the arts",
+        "subpoena",
+        "jeffrey jocks",
+        "epstein",
+        "payments",
+        "tuition",
+        "sondee",
+        "racine & doren",
+        "michigan",
+        "interlochen",
+        "united states attorney"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00013279",
+            "similarity": 0.5,
+            "index": 16,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00022997",
+            "similarity": 0.5,
+            "index": 23,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00027717",
+      "summary": "This document details the process of obtaining records from Interlochen Center for the Arts through a subpoena, initiated by the United States Attorney’s Office in the Southern District of New York.  The initial request, dated March 25, 2021, sought records related to Jeffrey Epstein and Ghislaine Maxwell. Subsequent emails involved confirmation of receipt, scheduling of calls to discuss the subpoena and the requested documents, and clarification of the scope of the information being sought.  Notably, Sondeeracine & Doren, PLC acted as legal counsel for the U.S. Attorney’s Office, facilitating communication and coordinating efforts. Interlochen repeatedly stated that they did not possess any relevant tuition payment information for Epstein or his entities. The investigation spanned from March 2021 through early 2020, with ongoing communication and requests for clarification regarding the specific records being sought.",
+      "timestamp": "2021-03-25T00:00:00",
+      "timestamp_raw": "March 25, 2021",
+      "keywords": [
+        "interlochen center for the arts",
+        "subpoena",
+        "jeffrey epstein",
+        "payments",
+        "records",
+        "sondeeracine",
+        "michigan",
+        "communication",
+        "email",
+        "interlochen"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019032",
+      "summary": "This document is a record of email exchanges between Jeffrey L. Jocks of Sondee, Racine & Doren, PLC and an Assistant United States Attorney (USA) regarding a subpoena issued to Interlochen Center for the Arts. The subpoena sought records related to Jeffrey Epstein and Ghislaine Maxwell’s connections to Interlochen.  Initially, the USA inquired about tuition payments made by Epstein and his entities. Jocks responded stating that Interlochen did not have any records reflecting such payments, citing a seven-year retention limit for tuition information. Subsequent emails involved follow-up questions and confirmation of document receipt, with Jocks repeatedly asserting the absence of relevant records. The correspondence reveals a prolonged investigation and a persistent effort to determine the extent of Epstein’s involvement at Interlochen.",
+      "timestamp": "2021-03-25T00:00:00",
+      "timestamp_raw": "25 Mar 2021",
+      "keywords": [
+        "jeff jocks",
+        "interlochen center for the arts",
+        "subpoena",
+        "epstein",
+        "sondee racine doren",
+        "michigan",
+        "tuition payments",
+        "interlochen",
+        "calls",
+        "emails",
+        "confidentiality"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019582",
+      "summary": "This document details a series of email exchanges surrounding a subpoena issued to the Interlochen Center for the Arts regarding records pertaining to Jeffrey Epstein and Ghislaine Maxwell. Initially, Jeff Jocks, representing Sondee, Racine & Doren, PLC, requests confirmation that Interlochen has responded to the subpoena and seeks verification of all tuition payments made by Epstein or his entities. Subsequent communications involve an Assistant United States Attorney, coordinating with Jocks and another attorney (George Donnini), discussing the scope of the records produced, and confirming receipt of documents. There are repeated inquiries about tuition payment records, highlighting the difficulty in obtaining information and a lack of responsive documentation from Interlochen. Multiple redactions are present throughout the document.",
+      "timestamp": "2021-03-26T00:00:00",
+      "timestamp_raw": "26 Mar 2021",
+      "keywords": [
+        "interlochen center for the arts",
+        "subpoena",
+        "epstein",
+        "jeffrey epstein",
+        "ghislaine maxwell",
+        "records",
+        "notification",
+        "student records",
+        "payment",
+        "sondee",
+        "racine & doren",
+        "usanys"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019493",
+      "summary": "This document details the process of obtaining student records from the Interlochen Center for the Arts as part of a legal investigation, likely related to Jeffrey Epstein. It begins with an initial request for records from Assistant U.S. Attorney Alison, who then contacts Jeff Jocks of Sondee, Racine & Doren, PLC to assist. Jocks, in turn, communicates with Interlochen, primarily through Assistant U.S. Attorney Alison, requesting specific records regarding tuition payments made by Epstein or his entities. Interlochen provides a response stating they lack information on Epstein’s payments.  Multiple communications occur over several weeks, primarily focusing on clarifying the scope of the requested records and scheduling calls to discuss the findings. The investigation ultimately yielded no records of Epstein’s payments to Interlochen.",
+      "timestamp": "2021-03-26T00:00:00",
+      "timestamp_raw": "26 Mar 2021",
+      "keywords": [
+        "interlochen center for the arts",
+        "subpoena",
+        "jeffrey jocks",
+        "sondee racine & doren",
+        "payment records",
+        "epstein",
+        "records",
+        "interlochen records",
+        "tuition payments",
+        "michigan",
+        "231-947-0400"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019503",
+      "summary": "The U.S. Department of Justice, via Assistant U.S. Attorney Audrey Strauss, issued a grand jury subpoena to the Interlochen Center for the Arts on March 26, 2021, requesting student records related to alleged violations of federal criminal law (18 U.S.C. §§ 2423(a), 1591). The subpoena demands that Interlochen refrain from disclosing its existence to third parties.  If records are produced electronically, they must be accompanied by a Declaration of Custodian of Records confirming their authenticity. Failure to comply will result in contempt of court and potential civil and criminal penalties. The subpoena specifies a court appearance date of April 12, 2021, at 10 a.m.",
+      "timestamp": "2021-03-26T00:00:00",
+      "timestamp_raw": "March 26, 2021",
+      "keywords": [
+        "grand jury subpoena",
+        "interlochen center for the arts",
+        "federal investigation",
+        "18 u.s.c. § 2423(a)",
+        "criminal investigation",
+        "united states attorney",
+        "records request",
+        "testimony"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00022997",
+      "summary": "This document details the process of obtaining records from the Interlochen Center for the Arts as part of a subpoena related to the investigation involving Jeffrey Epstein and Ghislaine Maxwell. Initially, an attorney, Jeff Jocks of Sondeer, Racine & Doren, PLC, received a subpoena and began the process of requesting student records. Subsequent emails exchanged between the U.S. Attorney's office and Jocks involved clarifying the scope of the requested documents, confirming receipt of materials, and investigating whether Epstein or his entities had made tuition payments to Interlochen. There were repeated inquiries regarding tuition payment records, with Interlochen ultimately stating they didn't possess records of Epstein’s payments, highlighting a significant point of contention in the investigation. The redactions indicate sensitive information was removed from the document.",
+      "timestamp": "2021-04-26T00:00:00",
+      "timestamp_raw": "26 Apr 2021",
+      "keywords": [
+        "interlochen center for the arts",
+        "subpoena",
+        "epstein",
+        "payments",
+        "records",
+        "tuition",
+        "sondeeracine",
+        "jeffrey jocks",
+        "interlochen",
+        "compliance"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00024879",
+            "similarity": 0.5,
+            "index": 17,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00025041",
+            "similarity": 0.615,
+            "index": 34,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00024672",
+      "summary": "This document details the process of obtaining records from the Interlochen Center for the Arts through a subpoena, initiated by the U.S. Attorney’s Office in the Southern District of New York. Jeff Jocks of Sondee, Racine & Doren, PLC was tasked with executing the subpoena. Initial communications involved confirming receipt of the subpoena and confirming the scope of documents sought, primarily concerning tuition payments by Jeffrey Epstein and Ghislaine Maxwell.  Multiple attorneys at the U.S. Attorney’s office followed up repeatedly, requesting confirmation of document production and details regarding payments. Interlochen provided documents, stating they had no records of tuition payments by Epstein or his entities.  The investigation involved a series of emails and phone calls between the U.S. Attorney’s office and Mr. Jocks, highlighting efforts to clarify the information and confirm its completeness.",
+      "timestamp": "2021-05-12T00:00:00",
+      "timestamp_raw": "12 May 2021",
+      "keywords": [
+        "subpoena",
+        "interlochen center for the arts",
+        "jeffrey epstein",
+        "ghislaine maxwell",
+        "email",
+        "documents",
+        "records",
+        "payment",
+        "tuition",
+        "response",
+        "united states attorney"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00029315",
+            "similarity": 0.5,
+            "index": 26,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00029339",
+      "summary": "On May 13, 2021, Sondée Racine & Doren, PLC, represented Interlochen Center for the Arts in response to a Grand Jury Subpoena issued by the Assistant United States Attorney for the Southern District of New York. The firm provided executed custodian certifications and a document production (flash drive with Bates range INT000001-INT000096) related to Interlochen. Interlochen committed to full cooperation while reserving all privileges and rights, requesting treatment of the materials as exempt from disclosure under the Freedom of Information Act and as confidential. They stipulated that the information would remain confidential unless made public by the court and requested prompt destruction of any privileged or work-product protected documents produced by the U.S. government.",
+      "timestamp": "2021-05-13T00:00:00",
+      "timestamp_raw": "May 13, 2021",
+      "keywords": [
+        "interlochen center for the arts",
+        "grand jury subpoena",
+        "freedom of information act",
+        "foia",
+        "united states attorney",
+        "custodian of records",
+        "legal documents",
+        "privilege",
+        "work product",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029315",
+      "summary": "This document comprises a series of email exchanges between an Assistant United States Attorney (USA) from the Southern District of New York and Jeffrey Jocks, an attorney at Sondee, Racine & Doren, PLC, regarding a subpoena issued to the Interlochen Center for the Arts. The subpoena seeks records related to Jeffrey Epstein and Ghislaine Maxwell. Initially, the USA requests confirmation of receipt and then follows up on the production of documents, specifically inquiring about all tuition payments made by Epstein or his entities to Interlochen. Jocks responds, confirming receipt and stating that Interlochen does not hold such payment information. Subsequent exchanges involve further clarification of the requested documents and a confirmation of the final response from Interlochen, indicating they possess no records of Epstein payments. Throughout the exchange, there's a strong emphasis on confidentiality and the protection of privileged information.",
+      "timestamp": "2021-05-13T00:00:00",
+      "timestamp_raw": "13 May 2021",
+      "keywords": [
+        "interlochen center for the arts",
+        "subpoena",
+        "epstein",
+        "tuition",
+        "payment",
+        "documents",
+        "records",
+        "attorney",
+        "response",
+        "interlochen"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00024672",
+            "similarity": 0.5,
+            "index": 24,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00020889",
+            "similarity": 0.538,
+            "index": 15,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019142",
+            "similarity": 0.538,
+            "index": 11,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00029327",
+            "similarity": 0.5,
+            "index": 30,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00029342",
+      "summary": "This document summarizes a series of email exchanges concerning a subpoena issued to the Interlochen Center for the Arts seeking records related to Jeffrey Epstein and Ghislaine Maxwell. Initially, a contractor, Jeff Jocks of Sondee, Racine & Doren, PLC, received the subpoena and confirmed receipt and that Interlochen did not possess any records pertaining to payments by Epstein or Epstein entities. Subsequent emails involved an Assistant United States Attorney requesting confirmation that all tuition payments by Epstein were included in the production, and exploring the possibility of a phone call to discuss the matter. Throughout the exchanges, the Assistant U.S. Attorney repeatedly sought confirmation of the completeness of the provided documents, and the contractor confirmed that Interlochen possessed no relevant records, ultimately citing a seven-year retention limit on tuition payment information.",
+      "timestamp": "2021-05-14T00:00:00",
+      "timestamp_raw": "14 May 2021",
+      "keywords": [
+        "subpoena",
+        "interlochen center for the arts",
+        "usanys",
+        "contractor",
+        "redaction",
+        "epstein",
+        "discovery",
+        "production",
+        "tuition",
+        "payment"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00029327",
+            "similarity": 0.5,
+            "index": 30,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00028607",
+      "summary": "This document details a series of email exchanges surrounding a subpoena issued to the Interlochen Center for the Arts regarding records related to Jeffrey Epstein and Ghislaine Maxwell. Initially, an assistant U.S. attorney (US Attorney) requests confirmation of tuition payments made by Epstein to Interlochen, prompting a series of responses from Jeff Jocks of Sondee, Racine & Doren, PLC. Jocks initially confirms receipt of the subpoena and provides updates, eventually stating that Interlochen does not have any records reflecting Epstein’s payments. The correspondence involves several clarifications and confirmations regarding the scope of the subpoena and the types of documents sought. Throughout the exchanges, confidentiality is repeatedly emphasized.",
+      "timestamp": "2021-05-14T00:00:00",
+      "timestamp_raw": "14 May 2021",
+      "keywords": [
+        "subpoena",
+        "interlochen center for the arts",
+        "jeff jocks",
+        "sondeeracine",
+        "email",
+        "michigan",
+        "payment",
+        "photograph",
+        "records",
+        "subpoena"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00028595",
+            "similarity": 0.583,
+            "index": 29,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00028595",
+      "summary": "Attorney’s Office (Southern District of New York) to Interlochen Center for the Arts regarding records pertaining to Jeffrey Epstein and Ghislaine Maxwell.  Jeff Jocks, of Sondee, Racine & Doren, PLC, acted as the attorney representing the U.S. Attorney’s Office. Initially, the subpoena requested all records of tuition payments made by Epstein or his entities. Interlochen responded, stating they only kept tuition payment information for seven years and had no records of payments by Epstein. A follow-up question arose regarding confirmation of all records being included, and ultimately, Interlochen confirmed they had provided all relevant documentation.  The emails detail requests for copies of photographs, scheduling a phone call to discuss the matter, and confirmations of receipt and understanding of the subpoena’s purpose.",
+      "timestamp": "2021-05-14T00:00:00",
+      "timestamp_raw": "14 May 2021",
+      "keywords": [
+        "interlochen center for the arts",
+        "subpoena",
+        "jeff jocks",
+        "sondeeracine",
+        "email",
+        "redaction",
+        "michigan",
+        "epstein",
+        "payment",
+        "documents"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00028607",
+            "similarity": 0.583,
+            "index": 28,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029327",
+      "summary": "This document is a record of communications related to a subpoena issued to the Interlochen Center for the Arts, concerning records related to Jeffrey Epstein and Ghislaine Maxwell. The primary actor is Assistant United States Attorney from the Southern District of New York, working with the legal firm Sondeeracine & Doren, PLC, specifically Jeff Jocks, to obtain documents. Initial requests for tuition payment information were made in April 2020 and followed up on throughout January and February 2021. Interlochen responded stating they did not hold any tuition records for Epstein or his entities, and that their records regarding tuition payments were limited to seven years. Multiple attempts were made to schedule calls and confirm receipt of documents. The communications involved detailed discussions about the scope of the subpoena and the requested records, ultimately leading to Interlochen asserting they possessed no relevant information.",
+      "timestamp": "2021-05-14T00:00:00",
+      "timestamp_raw": "14 May 2021",
+      "keywords": [
+        "subpoena",
+        "interlochen",
+        "usanys",
+        "epstein",
+        "records",
+        "tuition",
+        "payment",
+        "discovery",
+        "production",
+        "attorney",
+        "confidentality"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00029342",
+            "similarity": 0.5,
+            "index": 27,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00029315",
+            "similarity": 0.5,
+            "index": 26,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019649",
+      "summary": "A Daily Mail article discusses Jeffrey Epstein and Ghislaine Maxwell’s relationship with a 13-year-old girl who was his first victim. The interaction occurred at Interlochen Center for the Arts in north Michigan, a secluded arts camp. The information is sourced from a new book and accessible via a Daily Mail link.",
+      "timestamp": "2021-07-19T00:00:00",
+      "timestamp_raw": "19 Jul 2021",
+      "keywords": [
+        "jeffrey epstein",
+        "ghislaine maxwell",
+        "michigan",
+        "arts camp",
+        "interlochen center for the arts",
+        "victim",
+        "redaction analysis",
+        "daily mail"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023182",
+      "summary": "The initial request involves obtaining records related to tuition payments. There are multiple exchanges of emails between Jocks and an Assistant United States Attorney (US Attorney) regarding the subpoena, clarifying details like the availability of a custodian to testify, requesting specific documents (e.g., a color photograph from page 87), and confirming the scope of the requested records (specifically regarding tuition payments by Epstein or his entities).  Interlochen initially states they do not have color copies but eventually provides documentation.  The US Attorney repeatedly checks in on the progress and asks for confirmation that all relevant records are being produced. The correspondence includes notices of confidentiality and emphasizes the sensitive nature of the information.  The final email confirms receipt of documents, and the US Attorney expresses a need for further clarification.",
+      "timestamp": "2021-11-22T00:00:00",
+      "timestamp_raw": "22 Oct 2021",
+      "keywords": [
+        "efta00023182",
+        "interlochen center for the arts",
+        "subpoena",
+        "jeff jocks",
+        "sondeeracine",
+        "records custodian",
+        "epstein",
+        "payment",
+        "photographs",
+        "trial"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025018",
+      "summary": "This document details a series of emails and communications surrounding a subpoena issued to the Interlochen Center for the Arts. The subpoena seeks records related to Jeffrey Epstein and Ghislaine Maxwell. Multiple individuals, primarily from the U.S. Attorney’s office in the Southern District of New York and Jeff Jocks of Sondee, Racine & Doren, PLC, exchanged emails discussing the subpoena, the types of documents requested, and Interlochen’s responses. Interlochen initially stated it lacked records pertaining to tuition payments made by Epstein or his entities. Subsequent follow-up inquiries persisted over several months, with the U.S. Attorney’s office repeatedly seeking confirmation of the completeness of the provided documentation. The document highlights the complexities and delays involved in obtaining information in a legal proceeding, evidenced by repeated requests, confirmations, and explanations.",
+      "timestamp": "2021-11-22T00:00:00",
+      "timestamp_raw": "22 Oct 2021",
+      "keywords": [
+        "interlochen center for the arts",
+        "subpoena",
+        "jeffrey jocks",
+        "sondee racine doren",
+        "records custodian",
+        "tuition payments",
+        "epstein",
+        "interlochen",
+        "michigan",
+        "email",
+        "correspondence"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025041",
+      "summary": "This document details a series of email exchanges between Assistant U.S. Attorney (USA) and Jeff Jocks of Sondee, Racine & Doren, PLC regarding a subpoena issued to the Interlochen Center for the Arts. The subpoena sought records related to Jeffrey Epstein and Ghislaine Maxwell. Initial communications focused on scheduling a call to discuss the subpoena and the types of documents requested. Jocks provided the exhibits as requested and confirmed receipt of the subpoena. Subsequent emails involved clarifying the scope of the request, particularly regarding tuition payments made by Epstein and Epstein entities, and confirming that Interlochen would maintain confidentiality. There were repeated attempts to obtain confirmation of the full extent of the documents produced and to determine if all relevant records had been provided. Multiple redactions are present throughout the document.",
+      "timestamp": "2021-11-25T00:00:00",
+      "timestamp_raw": "25 Oct 2021",
+      "keywords": [
+        "interlochen center for the arts",
+        "subpoena",
+        "custodian",
+        "epstein",
+        "records",
+        "jeffrey jocks",
+        "sondeeracine",
+        "documents",
+        "payments",
+        "interlochen",
+        "efta00025041"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00022997",
+            "similarity": 0.615,
+            "index": 23,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032809",
+      "summary": "Jeff Jocks, of Sondee, Racine & Doren, PLC, is assisting with a subpoena related to Interlochen Center for the Arts, specifically concerning records related to Jeffrey Epstein and Ghislaine Maxwell. Initial communication began in October 2021, involving scheduling calls and confirming receipt of documents. Subsequent emails (starting in February 2020) detail requests for tuition payment records, clarifications about Interlochen's holdings, and confirmation of document delivery. There are numerous redactions throughout the communications, indicating sensitive information. The entire exchange culminated in the delivery of a subpoena in February 2020.",
+      "timestamp": "2021-11-25T00:00:00",
+      "timestamp_raw": "25 Oct 2021",
+      "keywords": [
+        "subpoena",
+        "interlochen center for the arts",
+        "jeffrey jocks",
+        "sondee",
+        "racine & doren",
+        "plc",
+        "michigan",
+        "email",
+        "redaction",
+        "efta00032809",
+        "tuition payments",
+        "interlochen"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028168",
+      "summary": "This document details a series of emails and communications surrounding a subpoena issued to the Interlochen Center for the Arts regarding records related to Jeffrey Epstein and Ghislaine Maxwell. Initially, an Assistant United States Attorney (USANYS) contacted Jeff Jocks of Sondeer, Racine & Doren, PLC to obtain these records. There were numerous back-and-forth exchanges regarding scheduling calls, confirming receipt of documents, and clarifying the scope of the requested information. Interlochen provided responses, stating they lacked specific payment records related to Epstein and denying any other relevant documentation. The communication covered timelines from January 2020 to December 2021, involving multiple individuals and attorneys, and numerous redactions within the document.",
+      "timestamp": "2021-12-04T00:00:00",
+      "timestamp_raw": "04 Nov 2021",
+      "keywords": [
+        "efta00028168",
+        "interlochen center for the arts",
+        "jeff jocks",
+        "dan besselsen",
+        "subpoena",
+        "sondeeracine",
+        "epstein",
+        "interlochen",
+        "records custodian",
+        "communication"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019438",
+      "summary": "Daniel Besselsen sent files (GX 742 and 743) to the FBI, including updated information regarding the \"Epstein Scholarship Lodge\" (formerly Green Lake Lodge). He offered to provide additional applications for a student in GX 742, specifically a summer Camp 1997 and high school application from 1999-2000.  He responded to a request for travel information, requiring the recipient to provide their name, date of birth, home address, and phone number. Redactions were present on pages 1 and 2.",
+      "timestamp": "2021-12-19T00:00:00",
+      "timestamp_raw": "19 Nov 2021",
+      "keywords": [
+        "efta00019438",
+        "gx 742",
+        "gx 743",
+        "daniel besselsen",
+        "travel",
+        "fbi",
+        "interlochen center for the arts",
+        "student applications",
+        "camp 1997",
+        "green lake lodge"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    }
+  ]
+}

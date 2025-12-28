@@ -1,0 +1,2472 @@
+{
+  "keyword": "travel authorization",
+  "count": 63,
+  "keyword_match_count": 63,
+  "content_match_count": 4,
+  "total_files": 67,
+  "timeline": [
+    {
+      "file_id": "EFTA00037750",
+      "summary": "An email chain discusses the last recorded deed for Little St. James Island. The deed, dated December 23, 2011, shows L.S.I. LLC (formerly Epstein) as the grantor to Nautilus Inc., with Jeffrey E. Epstein as the sole beneficial owner and president.  Inquiries are made regarding deeds from 1998 and 2002-2005, specifically to investigate potential asset violations. Travel authorization and photographic inventory of assets are requested.",
+      "timestamp": "2011-12-23T00:00:00",
+      "timestamp_raw": "December 23, 2011",
+      "keywords": [
+        "efta00037750",
+        "little st james island",
+        "deed",
+        "l.s.j llc",
+        "epstein",
+        "nautilus inc",
+        "jeffrey epstein",
+        "travel",
+        "inventory",
+        "photographs",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032493",
+      "summary": "Multiple requests were made for travel authorization to conduct meetings and interviews related to the United States v. Epstein investigation, specifically concerning enticement of minors for sexual activity. These requests involved travel to West Palm Beach, Florida, and potentially Fort Lauderdale.  Flight plans varied, including a proposed Tuesday night departure and Wednesday/Thursday or Friday return.  Approvals were granted by multiple individuals, with some confirmations and one offering to book a conference room at the hotel.  One request involved a change to the original plan to fly directly to San Francisco due to scheduling conflicts related to a wedding.  Recipient addresses and subject lines are redacted.",
+      "timestamp": "2019-05-24T00:00:00",
+      "timestamp_raw": "24 May 2019",
+      "keywords": [
+        "travel approval",
+        "san francisco",
+        "florida",
+        "west palm beach",
+        "interviews",
+        "epstein investigation",
+        "united states v. epstein",
+        "scheduling",
+        "meetings",
+        "sexual activity"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015580",
+      "summary": "This document pertains to travel authorization requests for investigations related to the Epstein case (2018R01618), specifically involving interviews with victims in Florida and Los Angeles. Requests are made for travel, including airfare, accommodation, and conference room reservations, typically spanning a few days. Approvals are consistently granted, often referencing specific dates and locations (Palm Beach, Florida, Los Angeles, West Palm Beach, Fort Lauderdale). Standard travel guidelines are outlined, including restrictions on vehicle rentals (compact/economy), reimbursement policies (no refueling charges, tax exemptions), and expense reporting procedures (same-day submission). The requests repeatedly emphasize a need for short trip durations and quick scheduling decisions.",
+      "timestamp": "2019-07-10T00:00:00",
+      "timestamp_raw": "10 Jul 2019",
+      "keywords": [
+        "travel approval",
+        "travel authorization",
+        "e2",
+        "florida",
+        "conference room",
+        "per diem",
+        "rental cars",
+        "victim interviews",
+        "epstein",
+        "united states v. epstein"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00015593",
+            "similarity": 0.667,
+            "index": 3,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00015589",
+            "similarity": 0.667,
+            "index": 4,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00015593",
+      "summary": "The document is a series of email exchanges related to travel authorization requests for investigations concerning the Epstein case (2018R01618). Requests involve travel to Florida (Palm Beach, West Palm Beach, Fort Lauderdale) and Los Angeles for victim interviews. Specific details include requested travel dates, duration, and a request for conference room reservations. Standard travel procedures are outlined, such as utilizing specific vehicle types, adhering to per diem rates, submitting receipts promptly, and using designated E2 solutions for booking. Approvals were granted for multiple trips.",
+      "timestamp": "2019-07-10T00:00:00",
+      "timestamp_raw": "10 Jul 2019",
+      "keywords": [
+        "travel approval",
+        "florida",
+        "travel authorization",
+        "e2",
+        "per diem",
+        "conference room",
+        "victim interviews",
+        "epstein investigation",
+        "state tax exemption",
+        "rental cars"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00015580",
+            "similarity": 0.667,
+            "index": 2,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00015589",
+            "similarity": 0.538,
+            "index": 4,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019713",
+            "similarity": 0.538,
+            "index": 25,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00015589",
+      "summary": "This document is a record of travel approval requests related to an ongoing investigation, “United States v. Epstein” (2018R01618), concerning enticement of minors for sexual activity. Multiple requests were submitted to authorize travel to Florida (Palm Beach, West Palm Beach, and Los Angeles) and potentially Fort Lauderdale, for interviews and meetings.  Standard procedures included utilizing E2 solutions for booking travel, adhering to specific vehicle rental guidelines (compact/economy vehicles, no insurance in CONUS), and submitting receipts the day after the trip. Approvals were granted for conference room reservations and the travel was primarily driven by the need to interview victims. The requests emphasized minimizing trip duration and using cost-effective options when available.",
+      "timestamp": "2019-07-10T00:00:00",
+      "timestamp_raw": "10 Jul 2019",
+      "keywords": [
+        "travel approval",
+        "florida",
+        "travel authorization",
+        "e2",
+        "per diem",
+        "hotel",
+        "conference room",
+        "epstein",
+        "victim interviews",
+        "tax exemption"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00015593",
+            "similarity": 0.538,
+            "index": 3,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00015580",
+            "similarity": 0.667,
+            "index": 2,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00019713",
+            "similarity": 0.538,
+            "index": 25,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00030292",
+      "summary": "Travel authorization 10415581 was approved for a trip to West Palm Beach, FL, from 2019-07-11 to 2019-07-14, related to “U.S. v. Epstein (2018R0618) - Victim Interviews.” The authorization is currently pending further approval. Links to E2 Single Sign On and Manual Login are provided for the DOJ Network. The email includes reference ID# T0007 and a disclaimer regarding confidential information.",
+      "timestamp": "2019-07-11T00:00:00",
+      "timestamp_raw": "2019-07-11",
+      "keywords": [
+        "travel authorization",
+        "efta00030292",
+        "u.s. v. epstein",
+        "west palm beach",
+        "doj",
+        "e2 solutions",
+        "email",
+        "approval",
+        "travel",
+        "2019-07-11"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00024435",
+            "similarity": 0.538,
+            "index": 8,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00030423",
+            "similarity": 0.5,
+            "index": 31,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00036871",
+      "summary": "On August 14, 2019, a Financial Program Specialist at the Federal Bureau of Prisons (BOP) responded to a question regarding per diem eligibility for staff traveling over 50 miles and exceeding 12 hours. The BOP-ADM/Acct Policy & Procedures, referencing GSA FTR 301-11.1, states that per diem is granted if the trip is over 12 hours and over 50 miles.  A subsequent page contains irrelevant text and a different document number (EFTA00036872).",
+      "timestamp": "2019-08-14T00:00:00",
+      "timestamp_raw": "August 14, 2019",
+      "keywords": [
+        "efta00036871",
+        "per diem",
+        "travel authorization",
+        "bop",
+        "gsa ftr 301-11.1",
+        "50 miles",
+        "12 hours",
+        "united states department of justice",
+        "federal bureau of prisons",
+        "metropolitan correctional ctr",
+        "new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030714",
+      "summary": "Travel authorization 10586462 was approved by an unidentified sender for witness interviews related to the U.S. v. Epstein case. The trip, concerning R19NYS 13781, is to West Palm Beach, FL, from September 3-4, 2019. The authorization is currently pending further approval. The email also includes standard E2Solutions usage information and a confidentiality notice.",
+      "timestamp": "2019-08-30T00:00:00",
+      "timestamp_raw": "30 Aug 2019",
+      "keywords": [
+        "travel authorization",
+        "efta00030714",
+        "u.s. v. epstein",
+        "witness interviews",
+        "west palm beach",
+        "fl",
+        "2019-09-03",
+        "2019-09-04",
+        "approval",
+        "doj network",
+        "e2 solutions"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00032628",
+            "similarity": 0.5,
+            "index": 9,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00030713",
+            "similarity": 0.5,
+            "index": 10,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00024435",
+      "summary": "Travel authorization 10586462 for the purpose of “R19NYS 13781 - U.S. v. Epstein - Witness Interviews” to West Palm Beach, FL, from 2019-09-03 to 2019-09-04 has been approved. The current status is pending further authorization approval. Relevant login links and contact information for support are provided. Reference ID# T0007.",
+      "timestamp": "2019-09-03T00:00:00",
+      "timestamp_raw": "2019-09-03",
+      "keywords": [
+        "travel authorization",
+        "efta00024435",
+        "approval",
+        "u.s. v. epstein",
+        "west palm beach",
+        "doj",
+        "e2 solutions",
+        "witness interviews",
+        "travel",
+        "florida"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00030292",
+            "similarity": 0.538,
+            "index": 5,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00028782",
+            "similarity": 0.538,
+            "index": 23,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00025257",
+            "similarity": 0.538,
+            "index": 29,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00030423",
+            "similarity": 0.5,
+            "index": 31,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00032628",
+      "summary": "Travel authorization 10586231 was approved for Trip ID 10586231, traveler name, for the purpose of R19NYS 13780 - U.S. v. Epstein - Witness Interviews, taking place in West Palm Beach, FL, from 2019-09-03 to 2019-09-04. The authorization is currently pending approval. Relevant login information for E2 Solutions is provided: https://dojnet.doj.gov/jmd/fs/e2-redirect.html and https://e2.gov.cwtsatotravel.com. A reference ID# T0007 is also included, along with a disclaimer regarding confidential information.",
+      "timestamp": "2019-09-03T00:00:00",
+      "timestamp_raw": "2019-09-03",
+      "keywords": [
+        "travel authorization",
+        "efta00032628",
+        "u.s. v. epstein",
+        "witness interviews",
+        "west palm beach",
+        "doj",
+        "e2 solutions",
+        "email notifications",
+        "2019-09-03",
+        "2019-09-04"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00030714",
+            "similarity": 0.5,
+            "index": 7,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00031719",
+            "similarity": 0.5,
+            "index": 11,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028835",
+            "similarity": 0.538,
+            "index": 24,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00030713",
+      "summary": "Travel authorization 10586462 was approved for Trip ID 10586462, related to “U.S. v. Epstein - Witness Interviews” in West Palm Beach, FL, from 2019-09-03 to 2019-09-04. The approval was initiated by [REDACTED] and is awaiting further approval. The email includes details about E2Solutions and a disclaimer regarding confidential information. Reference ID# T0007 is associated with this communication.",
+      "timestamp": "2019-09-03T00:00:00",
+      "timestamp_raw": "2019-09-03",
+      "keywords": [
+        "travel authorization",
+        "efta00030713",
+        "epstein",
+        "witness interviews",
+        "west palm beach",
+        "fl",
+        "doj network",
+        "e2 solutions",
+        "confidential",
+        "approval"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00030714",
+            "similarity": 0.5,
+            "index": 7,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031719",
+      "summary": "Travel authorization 10586231 was approved for Trip ID 10586231, relating to “U.S. v. Epstein - Witness Interviews” in West Palm Beach, FL, from 2019-09-03 to 2019-09-04. The authorization is currently pending further approval. Relevant login links for E2 Single Sign On and E2 Manual Login are provided. The email includes a reference ID# T0007 and a disclaimer regarding confidential information.",
+      "timestamp": "2019-09-03T00:00:00",
+      "timestamp_raw": "2019-09-03",
+      "keywords": [
+        "travel authorization",
+        "efta00031719",
+        "doj",
+        "epstein",
+        "witness interviews",
+        "west palm beach",
+        "fl",
+        "2019-09-03",
+        "2019-09-04",
+        "e2 solutions",
+        "pending authorization"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00032628",
+            "similarity": 0.5,
+            "index": 9,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031354",
+      "summary": "Travel authorization 10621156 for the trip to West Palm Beach, FL, from 2019-09-09 to 2019-09-10, has been approved. The purpose of the trip was victim interviews related to the U.S. v. Epstein case (2018R0618). The traveler is OBD-USA-USANYS-NEW YORK SOUTHERN (UNYS) (JO2104) and the minor customer is OBD-USA-USANYS-NEW YORK SOUTHERN (UNYS) (JO2104). Access links for E2 Single Sign On and E2 Manual Login are provided. Reference ID# is T0006.",
+      "timestamp": "2019-09-09T00:00:00",
+      "timestamp_raw": "2019-09-09",
+      "keywords": [
+        "travel authorization",
+        "e2 solutions",
+        "doj",
+        "travel",
+        "approval",
+        "united states",
+        "victim interviews",
+        "florida",
+        "efta00031354",
+        "2019-09-09"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00025257",
+            "similarity": 0.538,
+            "index": 29,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00031310",
+      "summary": "Travel authorization 10621156 was approved for a trip to West Palm Beach, FL, from September 9-10, 2019, for the purpose of victim interviews in the U.S. v. Epstein case (2018R0618). The authorization is currently pending further approval.  The email provides login information for E2 Solutions and includes a reference ID# T0007, along with confidentiality notices.",
+      "timestamp": "2019-09-12T00:00:00",
+      "timestamp_raw": "12 Sep 2019",
+      "keywords": [
+        "travel authorization",
+        "efta00031310",
+        "doj",
+        "epstein",
+        "west palm beach",
+        "2019-09-09",
+        "2019-09-10",
+        "e2 solutions",
+        "email",
+        "approval"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00031355",
+            "similarity": 0.615,
+            "index": 16,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00031353",
+      "summary": "Travel Authorization 10643456 was approved for a trip to Los Angeles, CA, from September 17-20, 2019, for the purpose of witness interviews related to the U.S. v. Epstein case. The authorization is pending further approval. The email provides login information for E2 Solutions and includes standard disclaimers regarding confidential information and email notifications. Reference ID# T0007 is associated with this authorization.",
+      "timestamp": "2019-09-12T00:00:00",
+      "timestamp_raw": "12 Sep 2019",
+      "keywords": [
+        "travel authorization",
+        "efta00031353",
+        "doj",
+        "los angeles",
+        "epstein",
+        "witness interviews",
+        "2019-09-17",
+        "2019-09-20",
+        "e2 solutions",
+        "approval"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00032629",
+            "similarity": 0.538,
+            "index": 15,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00032630",
+            "similarity": 0.667,
+            "index": 17,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00025335",
+            "similarity": 0.538,
+            "index": 18,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00032629",
+      "summary": "Travel authorization 10643456 was approved for a trip to Los Angeles, CA, from September 17-20, 2019, for the purpose of witness interviews related to the U.S. v. Epstein case. The authorization is currently pending further approval. Relevant login links and contact information for E2Solutions support are provided. The email contains a disclaimer regarding confidential information.",
+      "timestamp": "2019-09-13T00:00:00",
+      "timestamp_raw": "13 Sep 2019",
+      "keywords": [
+        "travel authorization",
+        "efta00032629",
+        "los angeles",
+        "u.s. v. epstein",
+        "witness interviews",
+        "doj",
+        "e2 solutions",
+        "email notifications",
+        "approval",
+        "2019-09-17"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00031353",
+            "similarity": 0.538,
+            "index": 14,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00032630",
+            "similarity": 0.538,
+            "index": 17,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00023238",
+            "similarity": 0.667,
+            "index": 20,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00023347",
+            "similarity": 0.5,
+            "index": 21,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00031355",
+      "summary": "Travel authorization 10621156 was approved for v. pstein’s trip to West Palm Beach, FL, from September 9-10, 2019, under purpose R19. The authorization is currently pending further approval. Relevant login links and contact information for E2Solutions support are provided. Reference ID# T0007 is associated with this authorization.",
+      "timestamp": "2019-09-13T00:00:00",
+      "timestamp_raw": "13 Sep 2019",
+      "keywords": [
+        "travel authorization",
+        "e2 solutions",
+        "doj",
+        "efta00031355",
+        "west palm beach",
+        "fl",
+        "2019-09-09",
+        "2019-09-10",
+        "approval",
+        "email",
+        "login"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00031310",
+            "similarity": 0.615,
+            "index": 13,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032630",
+      "summary": "Travel authorization 10643456 has been approved for a trip from 2019-09-17 to 2019-09-20 to Los Angeles, CA, for the purpose of witness interviews related to the U.S. v. Epstein case. The traveler is OBD-USA-USANYS-NEW YORK SOUTHERN (UNYS) (JO2104).  The email provides login information for E2 Solutions and includes standard confidentiality disclaimers. Reference ID# T0006 is associated with this authorization.",
+      "timestamp": "2019-09-17T00:00:00",
+      "timestamp_raw": "2019-09-17",
+      "keywords": [
+        "travel authorization",
+        "efta00032630",
+        "doj",
+        "los angeles",
+        "witness interviews",
+        "e2 solutions",
+        "2019-09-17",
+        "2019-09-20",
+        "travel",
+        "approval"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00032629",
+            "similarity": 0.538,
+            "index": 15,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00031353",
+            "similarity": 0.667,
+            "index": 14,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00025338",
+            "similarity": 0.538,
+            "index": 19,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00025335",
+      "summary": "Travel authorization 10643456-2 for witness interviews related to the U.S. v. Epstein case has been approved. The trip, involving traveler name and minor customer OBD-USA-USANYS-NEW YORK SOUTHERN (UNYS) (JO2104), took place from 2019-09-17 to 2019-09-20 in Santa Monica, CA. The current status is Authorization Approved, with login instructions provided for E2 Single Sign On and E2 Manual Login. Reference ID# T0006 is associated with this authorization.",
+      "timestamp": "2019-09-17T00:00:00",
+      "timestamp_raw": "2019-09-17",
+      "keywords": [
+        "travel authorization",
+        "e2 solutions",
+        "doj",
+        "santa monica",
+        "witness interviews",
+        "epstein",
+        "2019-09-17",
+        "2019-09-20",
+        "efta00025335",
+        "travel services"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00031353",
+            "similarity": 0.538,
+            "index": 14,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00025334",
+            "similarity": 0.538,
+            "index": 22,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00025338",
+      "summary": "Travel authorization 10643456-1 for the trip to Santa Monica, CA, from 2019-09-17 to 2019-09-20, regarding the U.S. v. Epstein witness interviews, has been approved. The traveler is OBD-USA-USANYS-NEW YORK SOUTHERN (UNYS) (JO2104).  Relevant login links and contact information for E2Solutions support are provided.  The email includes a confidentiality disclaimer.",
+      "timestamp": "2019-09-17T00:00:00",
+      "timestamp_raw": "2019-09-17",
+      "keywords": [
+        "travel authorization",
+        "efta00025338",
+        "doj",
+        "santa monica",
+        "witness interviews",
+        "e2 solutions",
+        "travel",
+        "approval",
+        "2019-09-17",
+        "e2 login"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00032630",
+            "similarity": 0.538,
+            "index": 17,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00023238",
+            "similarity": 0.538,
+            "index": 20,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00030423",
+            "similarity": 0.5,
+            "index": 31,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019843",
+            "similarity": 0.5,
+            "index": 33,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00023238",
+      "summary": "Travel authorization 10643456-1 for a trip to Santa Monica, CA, from September 17-20, 2019, for the purpose of U.S. v. Epstein - Witness Interviews, has been approved. The authorization is pending further approval. Relevant login information and contact details for support are provided, along with a disclaimer regarding confidential information. Reference ID# T0007 is included.",
+      "timestamp": "2019-09-24T00:00:00",
+      "timestamp_raw": "24 Sep 2019",
+      "keywords": [
+        "travel authorization",
+        "efta00023238",
+        "approval",
+        "santa monica",
+        "u.s. v. epstein",
+        "witness interviews",
+        "doj",
+        "e2 solutions",
+        "email notifications",
+        "2019-09-17"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00025338",
+            "similarity": 0.538,
+            "index": 19,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00032629",
+            "similarity": 0.667,
+            "index": 15,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00023347",
+            "similarity": 0.615,
+            "index": 21,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00025334",
+            "similarity": 0.667,
+            "index": 22,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00025375",
+            "similarity": 0.5,
+            "index": 30,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00023347",
+      "summary": "A travel authorization was approved for a trip with Trip ID R19NYS 13842, related to U.S. v. Epstein - Witness Interviews, to Santa Monica, CA, from September 17th to 20th, 2019. The current status is pending authorization approval. The email includes login links for E2 Single Sign On and E2 Manual Login, and details contact information for E2 Solutions support. Reference ID# T0007 is also provided.",
+      "timestamp": "2019-09-26T00:00:00",
+      "timestamp_raw": "26 Sep 2019",
+      "keywords": [
+        "travel authorization",
+        "efta00023347",
+        "u.s. v. epstein",
+        "witness interviews",
+        "santa monica",
+        "ca",
+        "doj",
+        "e2 solutions",
+        "travel services",
+        "email notifications",
+        "approval"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00023238",
+            "similarity": 0.615,
+            "index": 20,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00032629",
+            "similarity": 0.5,
+            "index": 15,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00025334",
+            "similarity": 0.5,
+            "index": 22,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028835",
+            "similarity": 0.5,
+            "index": 24,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00025375",
+            "similarity": 0.571,
+            "index": 30,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00025334",
+      "summary": "Travel authorization 10643456-2 was approved for a trip to Santa Monica, CA, from September 17-20, 2019, for the purpose of U.S. v. Epstein - Witness Interviews. The authorization is pending further approval. Relevant login links and contact information for E2Solutions support are provided. Reference ID# T0007.",
+      "timestamp": "2019-09-27T00:00:00",
+      "timestamp_raw": "27 Sep 2019",
+      "keywords": [
+        "travel authorization",
+        "efta00025334",
+        "santa monica",
+        "u.s. v. epstein",
+        "witness interviews",
+        "doj",
+        "e2 solutions",
+        "email notifications",
+        "2019-09-17",
+        "2019-09-20"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00023347",
+            "similarity": 0.5,
+            "index": 21,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00023238",
+            "similarity": 0.667,
+            "index": 20,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00025335",
+            "similarity": 0.538,
+            "index": 18,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00019843",
+            "similarity": 0.5,
+            "index": 33,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00021005",
+            "similarity": 0.5,
+            "index": 36,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00028782",
+      "summary": "A travel authorization has been approved for a trip to West Palm Beach, FL, from 2019-11-04 for witness interviews related to the U.S. v. Epstein case. The authorization, identified as EFTA00028782, is pending final approval.  It utilizes the E2 Solutions travel system with login instructions and includes a disclaimer regarding confidential information and email notification management.",
+      "timestamp": "2019-11-04T00:00:00",
+      "timestamp_raw": "2019-11-04",
+      "keywords": [
+        "travel authorization",
+        "efta00028782",
+        "witness interviews",
+        "u.s. v. epstein",
+        "west palm beach",
+        "doj",
+        "e2 single sign on",
+        "email notifications",
+        "approval",
+        "travel"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00024435",
+            "similarity": 0.538,
+            "index": 8,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00019843",
+            "similarity": 0.5,
+            "index": 33,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00028835",
+      "summary": "Travel authorization EFTA00028835 has been approved for a trip to West Palm Beach, FL, from November 4, 2019, for the purpose of witness interviews related to the U.S. v. Epstein case. The authorization is associated with traveler name, minor customer name, and trip ID.  Access information for E2 Solutions is provided, including login links and contact information for support. A reference ID of T0006 is also included.",
+      "timestamp": "2019-11-04T00:00:00",
+      "timestamp_raw": "November 4, 2019",
+      "keywords": [
+        "travel authorization",
+        "efta00028835",
+        "u.s. v. epstein",
+        "witness interviews",
+        "west palm beach",
+        "doj",
+        "e2 solutions",
+        "email notifications",
+        "redaction analysis",
+        "travel services"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00023347",
+            "similarity": 0.5,
+            "index": 21,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00032628",
+            "similarity": 0.538,
+            "index": 9,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00021005",
+            "similarity": 0.5,
+            "index": 36,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00019713",
+      "summary": "The request includes booking a hotel room and conference room. The traveler intends to travel from November 3rd to 5th, and the request emphasizes using the E2 system for booking and authorization.  Rental car guidelines are outlined, including restrictions on vehicle types and no reimbursement for insurance.  Receipts must be submitted the day after the trip.  Previous similar travel requests (regarding the Epstein investigation in 2018) are referenced. Approvals were granted for the travel and conference room.",
+      "timestamp": "2019-11-04T00:00:00",
+      "timestamp_raw": "November 4, 2019",
+      "keywords": [
+        "travel authorization",
+        "e2",
+        "hotel",
+        "conference room",
+        "west palm beach",
+        "tax exemption",
+        "rental cars",
+        "per diem",
+        "travel approval",
+        "epstein investigation"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00015589",
+            "similarity": 0.538,
+            "index": 4,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00015593",
+            "similarity": 0.538,
+            "index": 3,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021357",
+      "summary": "Travel authorization 10808018 for the purpose of witness interviews related to the U.S. v. Epstein case (R20NYS13180) has been approved. The traveler is OBD-USA-USANYS-NEW YORK SOUTHERN (UNYS) (JO2104). The trip dates are 2019-11-11.  Access information for the E2 Single Sign On and E2 Manual Login systems are provided. The email includes a reference ID# T0006 and a disclaimer regarding confidential information.",
+      "timestamp": "2019-11-11T00:00:00",
+      "timestamp_raw": "2019-11-11",
+      "keywords": [
+        "travel authorization",
+        "efta00021357",
+        "doj",
+        "e2",
+        "witness interviews",
+        "epstein",
+        "2019-11-11",
+        "travel",
+        "u.s. v.",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010356",
+      "summary": "Travel authorization 10810414-1 was approved for a trip to Santa Monica, CA, from November 13-15, 2019, for the purpose of a witness interview (“U.S. v. Epstein”). The trip is linked to Trip ID 1081 and traveler name is redacted. The authorization is currently pending further approval. Relevant login links and contact information for E2Solutions support are provided.",
+      "timestamp": "2019-11-13T00:00:00",
+      "timestamp_raw": "2019-11-13",
+      "keywords": [
+        "travel authorization",
+        "efta00010356",
+        "u.s. v. epstein",
+        "santa monica",
+        "doj",
+        "e2 solutions",
+        "witness interview",
+        "2019-11-13",
+        "2019-11-15",
+        "approval",
+        "email"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00025375",
+            "similarity": 0.571,
+            "index": 30,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00028805",
+      "summary": "Multiple requests were made for travel authorization to West Palm Beach, Florida, for interviews related to the Epstein investigation (2018R01618), concerning enticement of minors for sexual activity. The requests involved travel between November 4th and potentially later dates, including flights and hotel room reservations. The requests consistently sought permission for a short timeframe, aiming to minimize travel time and requested a conference room booking for the interviews. The requests were made by multiple individuals within the U.S. Attorney’s Office.",
+      "timestamp": "2019-11-22T00:00:00",
+      "timestamp_raw": "22 Oct 2019",
+      "keywords": [
+        "travel approval",
+        "west palm beach",
+        "epstein investigation",
+        "travel request",
+        "florida",
+        "interviews",
+        "conference room",
+        "jetblue",
+        "scheduling"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025257",
+      "summary": "Travel authorization 10777198 for the Epstein investigation witness interviews in West Palm Beach, FL, has been approved. The trip dates are November 4-5, 2019. The traveler's name is OBD-USA-USANYS-NEW YORK SOUTHERN (UNYS) (JO2104).  Links are provided for E2 Single Sign On and E2 Manual Login. The email includes standard disclaimers regarding confidential information and email notification management. Reference ID# T0006.",
+      "timestamp": "2019-11-29T00:00:00",
+      "timestamp_raw": "29 Oct 2019",
+      "keywords": [
+        "travel authorization",
+        "e2 solutions",
+        "doj",
+        "epstein",
+        "travel",
+        "florida",
+        "west palm beach",
+        "approval",
+        "united states",
+        "efta00025257"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00031354",
+            "similarity": 0.538,
+            "index": 12,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00024435",
+            "similarity": 0.538,
+            "index": 8,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025375",
+      "summary": "Travel authorization 10808018 was approved for witness interviews related to the U.S. v. Epstein case, taking place in Santa Monica, CA, from November 13-15, 2019. The authorization was initiated by [REDACTED] to [REDACTED]. The current status is pending further approval.  Relevant login information for the E2Solutions system is provided.",
+      "timestamp": "2019-12-07T00:00:00",
+      "timestamp_raw": "07 Nov 2019",
+      "keywords": [
+        "travel authorization",
+        "efta00025375",
+        "u.s. v. epstein",
+        "witness interviews",
+        "santa monica",
+        "ca",
+        "doj",
+        "e2 solutions",
+        "approval",
+        "2019-11-13",
+        "2019-11-15"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00010356",
+            "similarity": 0.571,
+            "index": 27,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00023347",
+            "similarity": 0.571,
+            "index": 21,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00023238",
+            "similarity": 0.5,
+            "index": 20,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00019843",
+            "similarity": 0.571,
+            "index": 33,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00030423",
+      "summary": "Travel authorization 10808018 was approved for a trip to Santa Monica, CA, from November 13-15, 2019, for the purpose of witness interviews related to the U.S. v. Epstein case (2018R01618). The authorization is currently pending further approval. Relevant login links for E2 solutions are provided, along with contact information for support and a disclaimer regarding confidential information. Reference ID# T0007 is also included.",
+      "timestamp": "2019-12-08T00:00:00",
+      "timestamp_raw": "08 Nov 2019",
+      "keywords": [
+        "travel authorization",
+        "efta00030423",
+        "u.s. v. epstein",
+        "santa monica",
+        "doj",
+        "e2 solutions",
+        "witness interviews",
+        "approval",
+        "travel",
+        "email",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00023238",
+            "similarity": 0.5,
+            "index": 20,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00025338",
+            "similarity": 0.5,
+            "index": 19,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00024435",
+            "similarity": 0.5,
+            "index": 8,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00019843",
+            "similarity": 0.571,
+            "index": 33,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00021005",
+            "similarity": 0.571,
+            "index": 36,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00010357",
+      "summary": "Travel authorization 10892303 was approved for a trip to Santa Monica, CA, from December 15-17, 2019, for the purpose of a witness interview (R20). The traveler’s name is redacted. The authorization is currently pending further approval. Relevant login links and contact information for E2Solutions are provided, along with a confidentiality notice. Reference ID# T0007 is associated with this communication.",
+      "timestamp": "2019-12-15T00:00:00",
+      "timestamp_raw": "2019-12-15",
+      "keywords": [
+        "travel authorization",
+        "efta00010357",
+        "santa monica",
+        "doj",
+        "e2 solutions",
+        "travel services",
+        "approval",
+        "california",
+        "2019-12-15",
+        "2019-12-17"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019843",
+      "summary": "Travel authorization 10893150 was approved for a trip to Santa Monica, CA, from December 15-17, 2019, for the purpose of witness interviews related to the U.S. v. Epstein case. The authorization is pending further approval. The email provides login information for E2 Solutions and includes a disclaimer regarding confidential information. Reference ID# T0007 is also included.",
+      "timestamp": "2019-12-15T00:00:00",
+      "timestamp_raw": "2019-12-15",
+      "keywords": [
+        "travel authorization",
+        "efta00019843",
+        "u.s. v. epstein",
+        "witness interviews",
+        "santa monica",
+        "ca",
+        "doj",
+        "e2 solutions",
+        "email notifications",
+        "approval",
+        "travel"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00030423",
+            "similarity": 0.571,
+            "index": 31,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00025375",
+            "similarity": 0.571,
+            "index": 30,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028782",
+            "similarity": 0.5,
+            "index": 23,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00021005",
+            "similarity": 0.692,
+            "index": 36,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00010355",
+            "similarity": 0.571,
+            "index": 38,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00019573",
+      "summary": "Travel authorization 10892303-1 for the trip to Santa Monica, CA, from December 15-18, 2019, has been approved. The purpose of the trip was a witness interview related to the U.S. v. Epstein case. The traveler is identified as OBD-USA-USANYS-NEW YORK SOUTHERN (UNYS) (JO2104).  The email provides login information for E2 Solutions and includes standard disclaimers regarding confidential information and email notifications. Reference ID# T0006 is also included.",
+      "timestamp": "2019-12-15T00:00:00",
+      "timestamp_raw": "2019-12-15",
+      "keywords": [
+        "travel authorization",
+        "e2 solutions",
+        "doj",
+        "santa monica",
+        "witness interview",
+        "efta00019573",
+        "travel",
+        "approval",
+        "california",
+        "epstein"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00021006",
+            "similarity": 0.818,
+            "index": 37,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00030437",
+      "summary": "Travel authorization 10892303 was approved for a trip to Santa Monica, CA, from December 15-17, 2019, for the purpose of a U.S. v. Epstein witness interview. The current status is pending further approval. The email provides instructions for accessing E2Solutions and includes a confidentiality notice.",
+      "timestamp": "2019-12-15T00:00:00",
+      "timestamp_raw": "2019-12-15",
+      "keywords": [
+        "travel authorization",
+        "e2solutions",
+        "u.s. v. epstein",
+        "santa monica",
+        "california",
+        "witness interview",
+        "doj network",
+        "email notifications",
+        "approval",
+        "efta00030437"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021005",
+      "summary": "Travel authorization 10894369 was approved for a trip to Santa Monica, CA, from December 15-17, 2019, for the purpose of witness interviews in the U.S. v. Epstein case. The authorization is currently pending further approval. Relevant login information and contact details for support are provided.",
+      "timestamp": "2019-12-15T00:00:00",
+      "timestamp_raw": "2019-12-15",
+      "keywords": [
+        "travel authorization",
+        "efta00021005",
+        "u.s. v. epstein",
+        "witness interviews",
+        "santa monica",
+        "ca",
+        "doj",
+        "e2 solutions",
+        "email notifications",
+        "redaction analysis",
+        "travel"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00019843",
+            "similarity": 0.692,
+            "index": 33,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00030423",
+            "similarity": 0.571,
+            "index": 31,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028835",
+            "similarity": 0.5,
+            "index": 24,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021006",
+      "summary": "Travel authorization 10892303 for the U.S. v. Epstein witness interview in Santa Monica, CA, has been approved. The authorization covers travel dates from December 15, 2019, to December 17, 2019.  It involves the Minor Customer name OBD-USA-USANYS-NEW YORK SOUTHERN (UNYS) (JO2104) and utilizes the E2 Solutions system with login links provided.  A reference ID# T0006 is associated with the authorization.",
+      "timestamp": "2019-12-15T00:00:00",
+      "timestamp_raw": "December 15, 2019",
+      "keywords": [
+        "travel authorization",
+        "efta00021006",
+        "travel",
+        "approval",
+        "doj",
+        "santa monica",
+        "witness interview",
+        "e2 solutions",
+        "california",
+        "epstein"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00019573",
+            "similarity": 0.818,
+            "index": 34,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010355",
+      "summary": "Travel authorization 10810414-1 was approved for a witness interview related to the U.S. v. Epstein case, taking place in Santa Monica, CA, from November 13th to 15th, 2019. The authorization is pending further approval. Relevant login links and contact information for E2Solutions support are provided. Reference ID# T0007.",
+      "timestamp": "2019-12-26T00:00:00",
+      "timestamp_raw": "26 Nov 2019",
+      "keywords": [
+        "travel authorization",
+        "efta00010355",
+        "u.s. v. epstein",
+        "witness interview",
+        "santa monica",
+        "ca",
+        "doj",
+        "e2 solutions",
+        "email notifications",
+        "approval",
+        "pending authorization"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00019843",
+            "similarity": 0.571,
+            "index": 33,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00023347",
+            "similarity": 0.571,
+            "index": 21,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00023238",
+            "similarity": 0.5,
+            "index": 20,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021052",
+      "summary": "The email chain pertains to travel arrangements for a USANYS traveler to Sweden, scheduled for February 3rd and 4th, 2020. Key details include: *   An ECC request package (ECC\\_package\\_2.3.20.pdf) was attached, requiring the traveler to determine the POC and check for visa requirements. *   EOUSA needs to be notified of visa requests and the traveler's OIA approval email. *   The traveler submitted a corrected itinerary (February 4th - 6th) and a questionnaire for review. *   A travel authorization is being routed to the traveler’s trip. *   Submission of the visa request package to EOUSA/RMP Travel is recommended 5 business days prior to departure.",
+      "timestamp": "2020-01-24T00:00:00",
+      "timestamp_raw": "24 Jan 2020",
+      "keywords": [
+        "travel",
+        "visa",
+        "eousa",
+        "itinerary",
+        "ecc",
+        "passport",
+        "state dept",
+        "oia",
+        "sweden",
+        "travel authorization"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031721",
+      "summary": "An email request is being submitted for travel to Stockholm, Sweden, for an Assistant U.S. Attorney and two other individuals (AUSAs S and S) by the U.S. Attorney’s Office for the Southern District of New York. The request includes an ECC package (ECC_package_2.3.2.20.pdf) and instructions for the traveler to determine the Point of Contact (POC), check for visa requirements via the State Department’s website, and submit the visa request package to EOUSA-RMP Travel at least 15 business days prior to departure to allow sufficient time for State Dept. authorization and foreign government processing. The delay in submission is due to a recently confirmed witness interview date.",
+      "timestamp": "2020-01-24T00:00:00",
+      "timestamp_raw": "24 Jan 2020",
+      "keywords": [
+        "ecc package",
+        "visa",
+        "travel",
+        "eousa",
+        "rmp",
+        "sweden",
+        "ausas",
+        "state dept",
+        "travel authorization"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00017039",
+      "summary": "Travel authorization 10982121 was approved for a trip to Stockholm, Sweden from February 3rd to February 6th, 2020, for the purpose of witness interviews related to the Epstein investigation (R20NYS 13341 - 2018R01618). The approval was granted by an individual redacted from the email, and the authorization is currently pending further approval. Relevant login information for the E2 Solutions system is provided.",
+      "timestamp": "2020-01-24T00:00:00",
+      "timestamp_raw": "24 Jan 2020",
+      "keywords": [
+        "travel authorization",
+        "stockholm",
+        "sweden",
+        "epstein investigation",
+        "witness interviews",
+        "approval",
+        "doj",
+        "e2 solutions",
+        "e2 login",
+        "2020-02-03",
+        "2020-02-06"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00027840",
+            "similarity": 0.692,
+            "index": 43,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00027841",
+            "similarity": 0.571,
+            "index": 44,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00027838",
+            "similarity": 0.571,
+            "index": 45,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00027837",
+      "summary": "Travel authorization 10982117 was approved for an investigation into Epstein, with a destination of Stockholm, Sweden, from February 3rd to February 7th, 2020. The current status is pending further authorization approval. The email also includes standard disclaimers about confidential information and E2Solutions support resources. Reference ID# T0007 is associated with this communication.",
+      "timestamp": "2020-01-27T00:00:00",
+      "timestamp_raw": "27 Jan 2020",
+      "keywords": [
+        "travel authorization",
+        "stockholm",
+        "sweden",
+        "epstein investigation",
+        "approval",
+        "doj network",
+        "e2 solutions",
+        "reference id",
+        "confidential",
+        "2020-02-03",
+        "2020-02-07"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00027841",
+            "similarity": 0.571,
+            "index": 44,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00021112",
+            "similarity": 0.5,
+            "index": 49,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00027840",
+      "summary": "A travel authorization was approved for a trip to Stockholm, Sweden, from February 3rd to February 8th, 2020, for the purpose of witness interviews related to the Epstein investigation (R20NYS 13342 - 2018R01618). The authorization was issued by [REDACTED] to [REDACTED] and is currently pending further approval. The email includes login information for E2 Single Sign On and E2 Manual Login, along with standard confidentiality disclaimers and a reference ID# T0007.",
+      "timestamp": "2020-01-28T00:00:00",
+      "timestamp_raw": "28 Jan 2020",
+      "keywords": [
+        "travel authorization",
+        "stockholm",
+        "sweden",
+        "approval",
+        "efta00027840",
+        "doj",
+        "epstein investigation",
+        "witness interviews",
+        "2020-02-03",
+        "2020-02-08",
+        "e2 solutions"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00017039",
+            "similarity": 0.692,
+            "index": 41,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00027841",
+            "similarity": 0.692,
+            "index": 44,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00027839",
+            "similarity": 0.571,
+            "index": 46,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00021112",
+            "similarity": 0.615,
+            "index": 49,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00027841",
+      "summary": "Travel authorization 10982117 was approved for an investigation trip to Stockholm, Sweden, from February 3rd to February 8th, 2020, regarding witness interviews (R20NYS 13342 - Epstein investigation). The trip is pending further authorization approval. Relevant links for E2 Single Sign On and manual login are provided. Reference ID# T0007 is associated with this authorization.",
+      "timestamp": "2020-01-28T00:00:00",
+      "timestamp_raw": "28 Jan 2020",
+      "keywords": [
+        "travel authorization",
+        "stockholm",
+        "sweden",
+        "efta00027841",
+        "doj network",
+        "e2 solutions",
+        "epstein investigation",
+        "witness interviews",
+        "approval",
+        "2020-02-03",
+        "2020-02-08"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00027840",
+            "similarity": 0.692,
+            "index": 43,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00027837",
+            "similarity": 0.571,
+            "index": 42,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00017039",
+            "similarity": 0.571,
+            "index": 41,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00021112",
+            "similarity": 0.5,
+            "index": 49,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00027838",
+      "summary": "Travel authorization 10982122 was approved for an investigation trip to Stockholm, Sweden, from February 3rd to February 6th, 2020, related to the Epstein investigation (R20NYS 13340). The trip’s purpose was witness interviews. The authorization is currently pending further approval. Relevant login links and contact information for E2Solutions support are provided. Reference ID# T0007 is also included.",
+      "timestamp": "2020-01-28T00:00:00",
+      "timestamp_raw": "28 Jan 2020",
+      "keywords": [
+        "travel authorization",
+        "stockholm",
+        "sweden",
+        "efta00027838",
+        "doj",
+        "e2 solutions",
+        "epstein",
+        "2020-02-03",
+        "2020-02-06",
+        "approval",
+        "travel services"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00017039",
+            "similarity": 0.571,
+            "index": 41,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00027839",
+            "similarity": 0.692,
+            "index": 46,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00016830",
+            "similarity": 0.571,
+            "index": 47,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00021112",
+            "similarity": 0.615,
+            "index": 49,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00027839",
+      "summary": "Travel authorization 10982122 has been approved for a trip to Stockholm, Sweden from February 3rd to February 6th, 2020, for the purpose of witness interviews related to the Epstein investigation (R20NYS 13340 - 2018R01618). The authorization is currently pending further approval. Relevant login links and contact information are provided, along with a disclaimer regarding confidential email content. Reference ID# T0007 is also included.",
+      "timestamp": "2020-01-28T00:00:00",
+      "timestamp_raw": "28 Jan 2020",
+      "keywords": [
+        "travel authorization",
+        "stockholm",
+        "sweden",
+        "e2 solutions",
+        "doj",
+        "approval",
+        "efta00027839",
+        "epstein investigation",
+        "2020-02-03",
+        "2020-02-06",
+        "travel services"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00027838",
+            "similarity": 0.692,
+            "index": 45,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00027840",
+            "similarity": 0.571,
+            "index": 43,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00017039",
+            "similarity": 0.692,
+            "index": 41,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00021112",
+            "similarity": 0.75,
+            "index": 49,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00016830",
+      "summary": "Travel authorization 10982121 was approved for an investigation (R20NYS 13341 - Epstein investigation) involving witness interviews in Stockholm, Sweden, from February 3rd to 6th, 2020. The authorization is currently pending further approval. Relevant login links and contact information for E2Solutions support are provided. Reference ID# T0007 is associated with this authorization.",
+      "timestamp": "2020-01-28T00:00:00",
+      "timestamp_raw": "28 Jan 2020",
+      "keywords": [
+        "travel authorization",
+        "stockholm",
+        "sweden",
+        "efta00016830",
+        "doj",
+        "e2",
+        "epstein",
+        "2020-02-03",
+        "2020-02-06",
+        "approval",
+        "witness interviews"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00027838",
+            "similarity": 0.571,
+            "index": 45,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00017039",
+            "similarity": 0.571,
+            "index": 41,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00031726",
+            "similarity": 0.571,
+            "index": 48,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00021112",
+            "similarity": 0.5,
+            "index": 49,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00031726",
+      "summary": "Travel authorization 10982122 for the purpose of witness interviews related to the Epstein investigation (R20NYS 13340 - 2018R01618) has been approved. The trip to Stockholm, Sweden, from February 3rd to 6th, 2020, was authorized for the traveler, OBD-USA-USANYS-NEW YORK SOUTHERN (UNYS) (JO2104), and the minor customer, and uses the E2 Solutions travel system with associated login links.  The email includes standard confidentiality and notification management information.",
+      "timestamp": "2020-02-06T00:00:00",
+      "timestamp_raw": "06 Feb 2020",
+      "keywords": [
+        "travel authorization",
+        "stockholm",
+        "sweden",
+        "efta00031726",
+        "doj",
+        "e2",
+        "travel",
+        "2020-02-03",
+        "2020-02-06",
+        "r20nys",
+        "witness interviews"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00016830",
+            "similarity": 0.571,
+            "index": 47,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021112",
+      "summary": "Travel authorization 10982122 was approved for a trip to Stockholm, Sweden from February 3rd to February 6th, 2020, for the purpose of witness interviews related to the Epstein investigation (R20NYS 13340 - 2018R01618). The authorization is currently pending approval. Relevant login links and contact information for support are provided. Reference ID# T0007 is associated with this authorization.",
+      "timestamp": "2020-02-06T00:00:00",
+      "timestamp_raw": "06 Feb 2020",
+      "keywords": [
+        "travel authorization",
+        "stockholm",
+        "sweden",
+        "e2 solutions",
+        "doj",
+        "epstein investigation",
+        "2020-02-03",
+        "2020-02-06",
+        "approval",
+        "efta00021112"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00016830",
+            "similarity": 0.5,
+            "index": 47,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00027839",
+            "similarity": 0.75,
+            "index": 46,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00027838",
+            "similarity": 0.615,
+            "index": 45,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023262",
+      "summary": "Travel authorization 11063042 was approved for a trip to Pensacola, FL, from 2020-02-19 to 2020-02-20 for the purpose of an Epstein Investigation – Witness interview. The traveler is identified as [Traveler name]. The current status is pending authorization approval. Relevant login links and contact information for E2Solutions are provided. Reference ID# T0007 is associated with this authorization.",
+      "timestamp": "2020-02-19T00:00:00",
+      "timestamp_raw": "2020-02-19",
+      "keywords": [
+        "travel authorization",
+        "pensacola",
+        "fl",
+        "e2 solutions",
+        "doj",
+        "epstein investigation",
+        "approval",
+        "efta00023262",
+        "2020-02-19",
+        "2020-02-20"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00030790",
+            "similarity": 0.615,
+            "index": 51,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00027826",
+            "similarity": 0.538,
+            "index": 52,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00030790",
+      "summary": "Travel authorization 11063042 has been approved for a trip to Pensacola, FL, from February 19-20, 2020. The purpose of the trip is a witness interview related to the Epstein Investigation (R20NYS 13403). The traveler is OBD-USA-USANYS-NEW YORK SOUTHERN (UNYS) (JO2104).  Login information for E2 Solutions is provided, and a note is included regarding the non-monitoring of replies and the ability to manage email notifications. Reference ID# T0006 is also included.",
+      "timestamp": "2020-02-19T00:00:00",
+      "timestamp_raw": "19 Feb 2020",
+      "keywords": [
+        "travel authorization",
+        "efta00030790",
+        "doj",
+        "e2 solutions",
+        "pensacola",
+        "fl",
+        "2020-02-19",
+        "2020-02-20",
+        "witness interview",
+        "epstein investigation",
+        "travel"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00023262",
+            "similarity": 0.615,
+            "index": 50,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00027826",
+            "similarity": 0.615,
+            "index": 52,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00027826",
+      "summary": "Travel authorization 11062816 for a trip to Pensacola, FL, has been approved. The trip is for an Epstein Investigation witness interview, February 19-20, 2020, involving the traveler, OBD-USA-USANYS-NEW YORK SOUTHERN (UNYS) (JO2104), and the purpose is R20NYS 13401.  Login details for E2 Single Sign On and E2 Manual Login are provided. Reference ID# T0006.",
+      "timestamp": "2020-02-19T00:00:00",
+      "timestamp_raw": "19 Feb 2020",
+      "keywords": [
+        "travel authorization",
+        "e2 solutions",
+        "doj",
+        "pensacola",
+        "fl",
+        "travel",
+        "approval",
+        "efta00027826",
+        "epstein investigation",
+        "witness interview"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00030790",
+            "similarity": 0.615,
+            "index": 51,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00023262",
+            "similarity": 0.538,
+            "index": 50,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026784",
+      "summary": "Travel authorization 11061344 was approved for an investigation into Epstein involving a witness interview in Los Angeles, CA, from February 26th to 29th, 2020. The approval is pending further authorization. The email provides login information for the E2Solutions travel system and includes standard confidentiality disclaimers. Reference ID# T0007 is associated with the authorization.",
+      "timestamp": "2020-02-19T00:00:00",
+      "timestamp_raw": "19 Feb 2020",
+      "keywords": [
+        "travel authorization",
+        "efta00026784",
+        "los angeles",
+        "epstein investigation",
+        "witness interview",
+        "doj",
+        "e2 solutions",
+        "2020-02-26",
+        "2020-02-29",
+        "pending authorization",
+        "travel id"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00020836",
+            "similarity": 0.615,
+            "index": 54,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00025090",
+            "similarity": 0.615,
+            "index": 57,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00020836",
+      "summary": "Travel authorization 11061344 has been approved for a trip to Los Angeles, CA, from February 26th to February 29th, 2020. The purpose of the trip is an Epstein Investigation - Witness interview. The traveler is OBD-USA-USANYS-NEW YORK SOUTHERN (UNYS) (JO2104). Relevant login links for E2 solutions are provided, along with a disclaimer regarding confidential information and email notification management. Reference ID# T0006 is associated with this authorization.",
+      "timestamp": "2020-02-21T00:00:00",
+      "timestamp_raw": "21 Feb 2020",
+      "keywords": [
+        "travel authorization",
+        "e2 solutions",
+        "doj",
+        "los angeles",
+        "epstein investigation",
+        "witness interview",
+        "travel services",
+        "efta00020836",
+        "2020-02-26",
+        "2020-02-29"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00026784",
+            "similarity": 0.615,
+            "index": 53,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00025090",
+            "similarity": 0.538,
+            "index": 57,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00021149",
+      "summary": "Travel authorization 11063602 was approved for Epstein Investigation witness interview in Beverly Hills, CA, from February 25th to 29th, 2020. The authorization is pending further approval. Relevant login details for E2 Solutions are provided, along with a disclaimer regarding confidential information and email notification management. Reference ID# T0007 is associated with this authorization.",
+      "timestamp": "2020-02-21T00:00:00",
+      "timestamp_raw": "21 Feb 2020",
+      "keywords": [
+        "travel authorization",
+        "efta00021149",
+        "epstein investigation",
+        "beverly hills",
+        "ca",
+        "2020-02-25",
+        "2020-02-29",
+        "e2 solutions",
+        "doj",
+        "witness interview"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00023289",
+            "similarity": 0.5,
+            "index": 56,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00023289",
+      "summary": "Travel authorization 11063602 has been approved for a witness interview related to the Epstein investigation, taking place in Beverly Hills, CA, from February 25th to 29th, 2020. The traveler’s ID is veier n1 la0m6e31, and the purpose is R20NYS 13404.  The email provides login information for the E2 Solutions travel system and includes standard confidentiality disclaimers. Reference ID# T0006 is also noted.",
+      "timestamp": "2020-02-21T00:00:00",
+      "timestamp_raw": "21 Feb 2020",
+      "keywords": [
+        "travel authorization",
+        "efta00023289",
+        "doj",
+        "e2",
+        "witness interview",
+        "epstein investigation",
+        "beverly hills",
+        "2020-02-25",
+        "2020-02-29",
+        "travel",
+        "authorization approved"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00021149",
+            "similarity": 0.5,
+            "index": 55,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025090",
+      "summary": "Travel authorization 11061344 was approved for an investigation into Jeffrey Epstein, specifically a witness interview in Los Angeles, CA, from February 26th to February 29th, 2020. The authorization is currently pending further approval. Relevant login information for E2 Solutions is provided, along with a disclaimer regarding confidential information and email notification management. Reference ID# T0007 is also included.",
+      "timestamp": "2020-02-21T00:00:00",
+      "timestamp_raw": "21 Feb 2020",
+      "keywords": [
+        "travel authorization",
+        "efta00025090",
+        "los angeles",
+        "epstein investigation",
+        "witness interview",
+        "doj",
+        "e2 solutions",
+        "approval",
+        "pending authorization",
+        "2020-02-26"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00020836",
+            "similarity": 0.538,
+            "index": 54,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00026784",
+            "similarity": 0.615,
+            "index": 53,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021148",
+      "summary": "Travel authorization 11061409 for an investigation into Epstein involving witness interviews in Beverly Hills, CA (2020-02-26 to 2020-03-03) was approved by [REDACTED]. The authorization is pending further approval. Relevant login information for E2 Solutions is provided: https://dojnet.doj.gov/jmd/fs/e2-redirect.html and https://e2.gov.cwtsatotravel.com. The reference ID is T0007.",
+      "timestamp": "2020-02-26T00:00:00",
+      "timestamp_raw": "2020-02-26",
+      "keywords": [
+        "travel authorization",
+        "efta00021148",
+        "epstein investigation",
+        "beverly hills",
+        "ca",
+        "2020-02-26",
+        "2020-03-03",
+        "e2 solutions",
+        "doj network",
+        "travel",
+        "approval"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00031714",
+            "similarity": 0.571,
+            "index": 60,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00014416",
+      "summary": "Travel authorization 11061409 was approved for R20NYS 13400 - E stein Investigation Witness interviews to the United States from February 26, 2020, to March 2, 2020. The current status is pending authorization approval. Relevant login links and contact information for E2Solutions support are provided. The email contains a confidentiality notice.",
+      "timestamp": "2020-02-26T00:00:00",
+      "timestamp_raw": "February 26, 2020",
+      "keywords": [
+        "travel authorization",
+        "efta00014416",
+        "united states",
+        "doj",
+        "e2",
+        "r20nys",
+        "investigation",
+        "2020-02-26",
+        "2020-03-02",
+        "approval",
+        "e stein"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031714",
+      "summary": "Travel authorization 11061409 for the trip to Beverly Hills, CA, from 2020-02-26 to 2020-03-03, has been approved. The purpose of the trip is witness interviews related to the Epstein investigation (R20NYS 13400). The traveler is OBD-USA-USANYS-NEW YORK SOUTHERN (UNYS) (JO2104).  The email provides login links for E2 Single Sign On and E2 Manual Login, along with contact information for E2 Solutions support and a disclaimer regarding confidential information. The reference ID is T0006.",
+      "timestamp": "2020-02-26T00:00:00",
+      "timestamp_raw": "2020-02-26",
+      "keywords": [
+        "travel authorization",
+        "efta00031714",
+        "doj",
+        "e2 solutions",
+        "epstein investigation",
+        "beverly hills",
+        "ca",
+        "2020-02-26",
+        "2020-03-03",
+        "r20nys",
+        "travel"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00021148",
+            "similarity": 0.571,
+            "index": 58,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010451",
+      "summary": "Travel authorization 11164814 was approved for an investigation, specifically an interview with Epstein as a witness, taking place in Santa Monica, CA, from December 15-18, 2019. The authorization is currently pending further approval. The email details the purpose, destination, dates, and current status of the travel, along with instructions for using E2Solutions and a disclaimer regarding confidential information. Reference ID# T0007 is also provided.",
+      "timestamp": "2020-04-16T00:00:00",
+      "timestamp_raw": "16 Apr 2020",
+      "keywords": [
+        "travel authorization",
+        "efta00010451",
+        "santa monica",
+        "epstein investigation",
+        "2019-12-15",
+        "2019-12-18",
+        "approval",
+        "doj network",
+        "e2solutions",
+        "witness interview"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00025382",
+            "similarity": 0.538,
+            "index": 62,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00025382",
+      "summary": "Travel authorization 11164814 was approved for an investigation trip to Santa Monica, CA, from December 15-18, 2019, concerning an Epstein investigation – a witness interview. The authorization is pending further approval. The email includes login details for E2 Single Sign On and E2 Manual Login within the DOJ Network. A reference ID# T0007 is also provided.",
+      "timestamp": "2020-05-01T00:00:00",
+      "timestamp_raw": "01 May 2020",
+      "keywords": [
+        "travel authorization",
+        "santa monica",
+        "efta00025382",
+        "doj",
+        "e2",
+        "epstein investigation",
+        "2019-12-15",
+        "2019-12-18",
+        "approval",
+        "witness interview"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00010451",
+            "similarity": 0.538,
+            "index": 61,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00025353",
+            "similarity": 0.667,
+            "index": 63,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00025353",
+      "summary": "Travel authorization 11164814 for OBD-USA-USANYS-NEW YORK SOUTHERN (UNYS) (JO2104) has been approved for a trip to Santa Monica, CA, from December 15-18, 2019, to conduct an Epstein investigation witness interview. The authorization is linked to reference ID# T0006 and includes login information for E2 Single Sign On and E2 Manual Login.  The sender advises that replies to the mailbox are not monitored and provides instructions for managing email notifications.",
+      "timestamp": "2020-05-01T00:00:00",
+      "timestamp_raw": "01 May 2020",
+      "keywords": [
+        "travel authorization",
+        "efta00025353",
+        "doj",
+        "e2",
+        "santa monica",
+        "witness interview",
+        "2019-12-15",
+        "2019-12-18",
+        "travel",
+        "approval"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00025382",
+            "similarity": 0.667,
+            "index": 62,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027064",
+      "summary": "*   The travel request includes details of the trip dates (October xx to October Yu, 2020) and the purpose of the visit. *   Multiple individuals (including USAEO-Foreign Travel, Assistant US Attorneys, and an iPad user) are involved in coordinating the travel approval and visa requirements. *   A visa is not required for the trip. *   A travel memo is attached to facilitate the approval process. *   The email chain involves requests for the recipient to forward approval for a travel authorization and provide information regarding the point of contact (POC) and additional steps for the traveler.",
+      "timestamp": "2020-11-18T00:00:00",
+      "timestamp_raw": "18 Oct 2020",
+      "keywords": [
+        "ausa",
+        "travel",
+        "uk",
+        "ecc package",
+        "visa",
+        "email",
+        "travel memo",
+        "victim/witness",
+        "jeffrey epstein",
+        "glaine maxwell",
+        "state dept.",
+        "travel authorization"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031454",
+      "summary": "AUSA requested travel arrangements for two witnesses – [REDACTED] and [REDACTED] – to appear in SDNY for trial preparation related to the Ghislaine Maxwell case (20 Cr. 330). Both witnesses are considered fact witnesses and victims-witnesses. They require hotel accommodations and will be accompanied by their husband and three minor children for emotional support due to the trauma associated with testifying about past abuse.  The request includes details regarding unusual expenses, specifically the travel of the family unit, and instructions for travel authorization, including guidelines for witness travel and potential use of the FEWS appropriation.",
+      "timestamp": "2021-08-16T00:00:00",
+      "timestamp_raw": "August 16, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states v.",
+        "sdny",
+        "witness travel request",
+        "fact witness",
+        "trial",
+        "grand jury",
+        "victim/witness unit",
+        "hotel required",
+        "abuse",
+        "travel expenses"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028458",
+      "summary": "*   The package included an itinerary and requested information regarding a Point of Contact (POC) and visa requirements. *   The sender was requesting approval for the travel authorization and awaiting OIA (Office of Intelligence Analysis) approval. *   Attachments included a draft ECC package, a questionnaire, and a flight itinerary. *   Communication involved multiple individuals and departments including USAEO-Foreign Travel, USANYS, and OIA. *   The document’s creation date was 2025-12-26.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "eousa",
+        "visa",
+        "passport",
+        "travel authorization",
+        "ecc package",
+        "itinerary",
+        "oia approval",
+        "state dept.",
+        "sweden",
+        "travel state.gov",
+        "travel memo"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    }
+  ]
+}

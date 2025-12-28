@@ -1,0 +1,3753 @@
+{
+  "keyword": "custody",
+  "count": 32,
+  "keyword_match_count": 32,
+  "content_match_count": 98,
+  "total_files": 130,
+  "timeline": [
+    {
+      "file_id": "EFTA00013359",
+      "summary": "Attorney’s Office for the Southern District of Florida’s 2006-2008 federal investigation of Jeffrey Epstein and the resolution of that investigation through a non-prosecution agreement (NPA). The investigation stemmed from a 2005 Palm Beach Police Department investigation prompted by a 14-year-old girl’s complaint. The investigation involved the FBI and an Assistant U.S. Attorney (AUSA).  The AUSA initially sought to indict Epstein on state charges but, after concerns about the case’s scope, offered a plea agreement to end the federal investigation. The NPA, finalized in 2007, required Epstein to plead guilty to state charges and register as a sexual offender in exchange for the federal government dropping the case. Following the NPA’s signing, Epstein attempted to renegotiate terms, leading to further government interventions. The government’s handling of the NPA and its communication with Epstein's victims was later challenged in federal court under the Crime Victims’ Rights Act (CVRA).  Ultimately, the court ruled that the government violated the CVRA by failing to consult with victims before signing the agreement and misleading them about the investigation's status. The investigation revealed that a key decision-maker, U.S. Attorney R. Alexander Acosta, made a decision to resolve the case through the NPA, despite concerns raised by his staff. The investigation also found a lack of transparency and coordination within the Department in its handling of the case.  Epstein was eventually incarcerated and later died in custody. OPR found that while Acosta made flawed judgments and failed to fully inform victims, he did not commit professional misconduct.",
+      "timestamp": "2006-07-19T00:00:00",
+      "timestamp_raw": "July 19, 2006",
+      "keywords": [
+        "jeffrey epstein",
+        "npa",
+        "department of justice",
+        "opr",
+        "victims",
+        "federal criminal investigation",
+        "southern district of florida",
+        "resolution",
+        "sexual activity",
+        "non-prosecution agreement",
+        "professional responsibility",
+        "miami herald",
+        "cvra",
+        "acosta",
+        "palm beach county",
+        "sex trafficking",
+        "criminal conduct"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024857",
+      "summary": "This document is an evidence log (FD-1087) pertaining to Case ID 31E-MM-108062, specifically relating to evidence item EFTA00024857. The item consists of a collection of VHS tapes, DVD-R discs, and related materials (envelopes, wireless CDs, and cassette tapes) seized from a location in Palm Beach, FL (345 South County Road) on August 28, 2006. The evidence was initially collected by unidentified individuals and subsequently transferred through a chain of custody involving multiple FBI offices (NY and Miami) and various personnel with signed acknowledgements.  The chain of custody is documented through a series of signatures and dates, indicating the transfer of possession.  The document indicates that some information was redacted and highlights the missing data from ACS records. The final custody was relinquished to the FBI.",
+      "timestamp": "2006-08-28T00:00:00",
+      "timestamp_raw": "August 28, 2006",
+      "keywords": [
+        "vhs tape",
+        "surveillance",
+        "dvd-r",
+        "palm beach",
+        "fbi",
+        "custody",
+        "evidence",
+        "miami",
+        "seizure",
+        "barcode",
+        "chain of custody"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00029921",
+            "similarity": 0.571,
+            "index": 3,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00029911",
+      "summary": "*   **Collection Date:** 08/28/2006 8:00 AM *   **Storage Location:** NY – NEW YORK, ECR8 *   **Bantode:** E6516715 *   **Chain of Custody Documentation:** Multiple pages detailing the transfer of custody of the evidence, with signatures and printed reasons for each transfer. *   **Barcode:** £4amer2---g61576725 *   **Reference Document:** FD-1087 is referenced.",
+      "timestamp": "2006-08-28T00:00:00",
+      "timestamp_raw": "08/28/2006",
+      "keywords": [
+        "evidence",
+        "white paper",
+        "pbpd 05-382",
+        "message printouts",
+        "fbi seizure",
+        "chain of custody",
+        "location",
+        "ecr8",
+        "bantode",
+        "receipt",
+        "storage location",
+        "inventory"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029921",
+      "summary": "*   **Collection Date:** The items were collected on August 28, 2006, at 8:00 AM. *   **Location:** The items were seized from a location in Palm Beach, FL (E03707388 - ECR8, Barcode E4229235). *   **Storage:** Currently held in New York (NY - NEW YORK). *   **Chain of Custody:** The document details a series of accepted and relinquished custody transfers, involving multiple individuals and agencies, primarily within the FBI. Specific names and reasons for transfers are redacted. *   **Retention:** The evidence has no retention period defined. *   **Acquisition Event:** The items were migrated on 2006-08-28.",
+      "timestamp": "2006-08-28T00:00:00",
+      "timestamp_raw": "August 28, 2006",
+      "keywords": [
+        "vhs tape",
+        "surveillance",
+        "dvd-r",
+        "subpoena",
+        "palm beach",
+        "florida",
+        "evidence",
+        "chain of custody",
+        "seizure",
+        "fd-1087",
+        "fbi"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00024857",
+            "similarity": 0.571,
+            "index": 1,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029903",
+      "summary": "This document is a chain of custody record for evidence (specifically, a box of documents and media) related to an unidentified case (identified by case ID 31E-MM-108062 and barcode E4229230). The evidence includes a taped conversation, audio tapes, copies of tapes, a micro tape, photo lineups, various white papers, receipts, and a cassette. The evidence was collected on August 28, 2006, and initially held in NY - NEW YORK, subsequently transferred to Miami (MM - MIAMI). The record details numerous transfers of custody with signed acknowledgements and reason codes, culminating in a final relinquishment of custody. Several entries are redacted. The document also references related case IDs and evidence logs.",
+      "timestamp": "2006-08-28T00:00:00",
+      "timestamp_raw": "August 28, 2006",
+      "keywords": [
+        "evidence",
+        "taped conversation",
+        "audio tape",
+        "white paper",
+        "palm beach",
+        "fl",
+        "fd-1087",
+        "chain of custody",
+        "receipt",
+        "cd",
+        "c-90 cassette",
+        "barocode",
+        "7/20/2021"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024847",
+      "summary": "This document is an evidence chain of custody record for item EFTA00024847, a box containing various printed materials (message printouts, white papers), a plastic stick, and other related items. The evidence was collected on August 28, 2006, and has a complex history of transfers and custody changes documented through multiple individuals accepting and relinquishing custody via signatures and dates/times. The chain of custody details the movement of the evidence from initial collection by the NY - NEW YORK area office to various agencies, including the FBI, culminating in multiple individuals accepting and transferring it. Several redactions are present in the document, obscuring specific names and details. The document includes information about the case ID, barcode, and a note referencing ED-1087.",
+      "timestamp": "2006-08-28T00:00:00",
+      "timestamp_raw": "August 28, 2006",
+      "keywords": [
+        "evidence",
+        "white paper",
+        "message",
+        "pbpd",
+        "chain of custody",
+        "fd-1087",
+        "fbi seizure",
+        "location",
+        "receipt item",
+        "storage location",
+        "redaction",
+        "e03707388",
+        "e4640430"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00024843",
+            "similarity": 0.5,
+            "index": 8,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00029918",
+      "summary": "*   **Collection Details:** The item was collected on August 28, 2006, from a location in Palm Beach, FL (345 South County Road), and migrated to NY holding office. *   **Chain of Custody:** The document details multiple chain-of-custody transfers, involving various individuals and agencies, with signatures and reasons for each transfer recorded. *   **Retention Status:** The item is currently being retained. *   **Missing Evidence:** There is an indication of missing evidence related to the case. *   **Date of Generation:** The document was generated on December 26, 2025, at 6:43:53 AM.",
+      "timestamp": "2006-08-28T00:00:00",
+      "timestamp_raw": "August 28, 2006",
+      "keywords": [
+        "efta00029918",
+        "fd-1087",
+        "chain of custody",
+        "palm beach",
+        "fl",
+        "fbi seizure",
+        "acquisition event",
+        "evidence log",
+        "2006-08-28",
+        "barcode",
+        "weapons checked",
+        "relinquished custody"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024850",
+      "summary": "This document is an evidence record (FD-1087) pertaining to case EFTA00024850, originating from a seizure in Palm Beach, Florida, on August 28, 2006. The evidence consists of a box containing various items including medical supplies, letters, invoices, and audio cassettes. The items were initially collected by unidentified individuals and subsequently transferred through a chain of custody involving multiple law enforcement agencies (NYPD, Miami PD, etc.).  Significant portions of the record, particularly pages 2 and 3, are redacted. The final page details the chain of custody, tracing the evidence’s movement between agencies and individuals, ending with a record of the evidence being checked and cleared by a firearms instructor. The case ID is 31E-MM-108062, and the barcode is E4229233.",
+      "timestamp": "2006-08-28T00:00:00",
+      "timestamp_raw": "August 28, 2006",
+      "keywords": [
+        "evidence",
+        "boxes",
+        "medical supplies",
+        "vhs cassette",
+        "sony micro cassette",
+        "paperwork",
+        "invoices",
+        "letterhead",
+        "miami",
+        "palm beach",
+        "chain of custody",
+        "receipt",
+        "acquisition event"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024843",
+      "summary": "This document pertains to evidence item EFTA00024843, a box containing various white papers and a phone printout collected on August 28, 2006, from a Palm Beach, FL address (previously redacted). The evidence was initially seized from ECR8 and transferred through a complex chain of custody involving multiple individuals and locations (NY and Miami) across different FBI offices. The chain of custody records demonstrate transfers between offices and individuals, with detailed signatures and timestamps. The documents also highlight missing inventory and a reliance on previous case files (FD-1081) for completeness. The current status is unresolved and ongoing.",
+      "timestamp": "2006-08-28T00:00:00",
+      "timestamp_raw": "August 28, 2006",
+      "keywords": [
+        "evidence",
+        "white paper",
+        "pbpd",
+        "receipt",
+        "message",
+        "location",
+        "barcode",
+        "collection date",
+        "storage location",
+        "chain of custody",
+        "fbi seizure"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00024847",
+            "similarity": 0.5,
+            "index": 5,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029907",
+      "summary": "Evidence Item 31E-MM-108062-1B4 consists of a box containing various white papers, messages, and a phone printout. The evidence was collected on August 28, 2006, from a location in Palm Beach, FL (345 South County Road). It was subsequently held in NY - NEW YORK and Miami (MM). The chain of custody involves multiple individuals accepting and relinquishing custody of the evidence, documented through signatures and dates/times. The acquisition event occurred on 2006-08-28, and the barcode is E6516714.  The document references several case IDs (7120/2021, 2383628, 02753564, 02753565, 02753566, 02753567, 02753568, 02753569, 02753570) and indicates missing retention information.",
+      "timestamp": "2006-08-28T00:00:00",
+      "timestamp_raw": "August 28, 2006",
+      "keywords": [
+        "efta00029907",
+        "evidence",
+        "white paper",
+        "7120/2021",
+        "fd-1087",
+        "palm beach",
+        "fl",
+        "33480",
+        "08/28/2006",
+        "chain of custody",
+        "barcode",
+        "acquisition event"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029899",
+      "summary": "This document is a chain of custody record for evidence (EFTA00029899) related to a case (Case ID: 31E-MM-108062). The evidence consists of massage tables (one peach, one green), a collection of documents including thrift rental agreements, CDs, a guest house message book, and electronic equipment. The evidence was initially collected on August 28, 2006, from a location in Miami, Florida, and subsequently transferred through multiple individuals and offices (NY, MM, ECR8) with documented signatures and dates.  A significant portion of the record contains redactions, particularly on pages 2 and 3, likely due to sensitive information. The final chain of custody record details the relinquishment of custody to a law enforcement agency on December 26, 2025. The barcode associated with the evidence is E4229229.",
+      "timestamp": "2006-08-28T00:00:00",
+      "timestamp_raw": "August 28, 2006",
+      "keywords": [
+        "massage table",
+        "evidence",
+        "fd-1087",
+        "receipt",
+        "chain of custody",
+        "efta00029899",
+        "ny",
+        "miami",
+        "2006-08-28",
+        "barcode",
+        "case id"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029914",
+      "summary": "The document is an evidence record for case EFTA00029914, pertaining to FD-1087. It details the collection of items on August 28, 2006, from a location in Palm Beach, FL (E03707388 - ECR8). The collected items include medical supplies, letters, invoices, Amazon.com receipts, white papers, messages, VHS cassettes, and miscellaneous paper items. The evidence was initially seized from [REDACTED] and has a barcode of E4229233. The chain of custody is tracked through multiple signatures and dates, documenting transfers of possession. There are redactions present on multiple pages.  The document includes details about the holding office, acquisition event, and various individuals involved in the seizure, logging, and custody transfers.",
+      "timestamp": "2006-08-28T00:00:00",
+      "timestamp_raw": "August 28, 2006",
+      "keywords": [
+        "evidence",
+        "medical supplies",
+        "vhs",
+        "cassette",
+        "paperwork",
+        "invoice",
+        "letterhead",
+        "amazon.com",
+        "white paper",
+        "palm beach"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029895",
+      "summary": "This document is a redaction analysis report for case EFTA00029895, detailing the chain of custody for evidence collected on August 28, 2006, from a Palm Beach, FL address. The evidence includes a variety of items: massage tables, photos (both framed and unframed), phone message books, file folders containing various documents and shredded paper, VHS tapes, CDs, soaps, and personal effects like a high school transcript and jelly. The evidence was initially collected by the FBI and subsequently transferred through multiple hands, documented by detailed chain-of-custody forms (FD-192 and evidence logs). The investigation originated in NY and involved Miami. Due to redactions, specifics of the investigation and individuals involved are obscured.",
+      "timestamp": "2006-08-28T00:00:00",
+      "timestamp_raw": "August 28, 2006",
+      "keywords": [
+        "massage table",
+        "framed photos",
+        "phone message books",
+        "vhs tapes",
+        "cds",
+        "nude girl photo",
+        "evidence",
+        "palm beach",
+        "custody chain",
+        "fd-1087",
+        "redacted"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024854",
+      "summary": "*   **Item Details:** An item (FD-1087) was collected on August 28, 2006, from a location in Palm Beach, FL (345 South County Road). *   **Collection & Transfer History:** The item was initially collected by the FBI and subsequently transferred through multiple custody transfers to various offices, including NY and Miami. There were multiple individuals accepting custody and signing the chain of custody form. *   **Storage:** The item was initially held in NY and later moved to Miami. *   **Redactions:** Significant portions of the document are redacted (marked as \"REDACTED\"). *   **Chain of Custody:** The document meticulously tracks the chain of custody, detailing each transfer and the individuals involved. *   **Evidence Check:** The evidence was checked and cleared by a firearms instructor. *   **Barcode/ID:** The barcode is E4229234, and the form is linked to FD-1087.",
+      "timestamp": "2006-08-28T00:00:00",
+      "timestamp_raw": "August 28, 2006",
+      "keywords": [
+        "efta00024854",
+        "fd-1087",
+        "palm beach",
+        "fl",
+        "chain of custody",
+        "acquisition event",
+        "fbi seizure",
+        "inventory",
+        "evidence log",
+        "storage location",
+        "date/time"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023516",
+      "summary": "It details the acquisition and transfer of numerous physical items collected on September 6, 2006, from 345 South County Road, Palm Beach, FL. The items include various tapes (VHS, MiniDV, 8mm), CDs, message books, folders, photos, and other documents. The cases are identified as 31E-MM-108062. The evidence was collected by the Miami owning office. The chain of custody documents multiple individuals involved in the handling of the evidence, with redactions present for the names of those individuals. There are multiple pages of detailed listings of items, categorized by case and date entered.",
+      "timestamp": "2006-09-06T00:00:00",
+      "timestamp_raw": "September 6, 2006",
+      "keywords": [
+        "efta00023516",
+        "trey",
+        "jeffrey epstein",
+        "palm beach",
+        "fl",
+        "33480",
+        "property",
+        "case number",
+        "miami",
+        "message books",
+        "phone books",
+        "photo frames",
+        "vhs tapes",
+        "cds",
+        "file folders",
+        "massage table",
+        "shredded paper",
+        "dates",
+        "chain of custody",
+        "redaction"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00033520",
+      "summary": "This document outlines the Bureau of Prisons’ suicide prevention program, effective March 15, 2007. Its purpose is to identify and manage potentially suicidal inmates through staff training and observation. Key changes include: three mock suicide emergency exercises per year (one in the SHU), specific criteria for suicide risk assessments and post-watch reports, designated suicide watch rooms (requiring regional director approval), and procedures for notifying psychology services upon inmate requests for protective custody. The program involves staff training, inmate observation, and documentation of all events. The document references various Bureau directives and standards, including those related to discipline, housing units, psychological services, and use of force.  It establishes a formal process for responding to inmate suicide attempts, including after-action reviews and documentation requirements. Finally, the document details procedures for managing inmates in SHUs and uses of inmate observers within the inmate companion program.",
+      "timestamp": "2007-03-15T00:00:00",
+      "timestamp_raw": "March 15, 2007",
+      "keywords": [
+        "suicide prevention",
+        "inmates",
+        "bureau of prisons",
+        "risk assessment",
+        "training",
+        "shu",
+        "intervention",
+        "treatment",
+        "supervision",
+        "criteria",
+        "procedures",
+        "observations",
+        "mental health",
+        "referral",
+        "assessment",
+        "emergency",
+        "mock emergency",
+        "documentation"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024861",
+      "summary": "This document is an evidence chain-of-custody record for a red rope containing a poetry book (“Invitation to Poetry”) and a Victoria’s Secret white bra and panties set. The evidence was initially collected on April 30, 2007, from an undisclosed location in West Palm Beach, Florida, and subsequently transferred through multiple hands within the FBI and NY State.  The chain of custody details numerous individuals involved in the receipt, storage, and transfer of the evidence, including signatures and dates for each custody transfer. The evidence was initially acquired as part of a case (7120/2021) and is marked as redacted. The last inventory was completed on July 20, 2021.",
+      "timestamp": "2007-04-30T00:00:00",
+      "timestamp_raw": "April 30, 2007",
+      "keywords": [
+        "evidence",
+        "rope",
+        "violet bra",
+        "poetry",
+        "fbi",
+        "chain of custody",
+        "miami",
+        "new york",
+        "receipt",
+        "acquisition event",
+        "redaction"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029925",
+      "summary": "*   **Collection Details:** Collected on April 30, 2007, at 8:00 AM from [REDACTED] in West Palm Beach, FL. *   **Storage & Inventory:** Currently held in NY - NEW YORK, finalized with unavailable data migration information. Last inventory on 07/20/2021. *   **Chain of Custody:**  Details of custody transfers through multiple individuals and agencies (MM - MIAMI, FBI, etc.) with signed receipts and reasons for relinquishing/accepting custody.  Several individuals’ names are redacted. *   **Legal & Administrative:** No legal caveats were noted. The evidence log is marked \"Missing\" and \"Unavailable in data migrated from ACS.\" *   **FD-1004 Form:** A revised evidence chain of custody form (FD-1004) with sections for initial receipt, accepted custody, and firearm certification. Several fields on this form are redacted.",
+      "timestamp": "2007-04-30T00:00:00",
+      "timestamp_raw": "April 30, 2007",
+      "keywords": [
+        "evidence",
+        "rope",
+        "victoria's secret",
+        "location",
+        "ecr8",
+        "2007-04-30",
+        "fbi",
+        "chain of custody",
+        "inventory",
+        "fd-1087"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029928",
+      "summary": "The item was initially found at 2210 48TH TERRACE NORTH, WEST PALM BEACH, FL, and was identified as a “BOOK-MASSAGE FOR DUMMIES”.  The evidence is currently held in NY - NEW YORK.  The chain of custody details numerous receipts, signatures, and relinquishments of custody, with significant redactions obscuring names and agencies. The barcode associated with the item is E6516712. The last inventory was completed on July 20, 2021.",
+      "timestamp": "2007-08-07T00:00:00",
+      "timestamp_raw": "August 7, 2007",
+      "keywords": [
+        "evidence",
+        "rope",
+        "book",
+        "massage",
+        "palm beach",
+        "fl",
+        "2007",
+        "fbi",
+        "chain of custody",
+        "receipt",
+        "inventory",
+        "storage location",
+        "barcode"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024864",
+      "summary": "The evidence was collected on August 7, 2007, from a redacted location in West Palm Beach, Florida, and initially held in New York (NY) and subsequently Miami (MM). The chain of custody involves multiple individuals and offices, including the FBI, involved in receipt, storage, and transfer of the evidence. Numerous signatures and dates are recorded throughout the chain, documenting each stage of handling. The record includes details about initial receipt, handling instructions (though many are redacted), and final disposition/storage location. Redactions obscure the names of individuals and specific locations.",
+      "timestamp": "2007-08-07T00:00:00",
+      "timestamp_raw": "August 7, 2007",
+      "keywords": [
+        "evidence",
+        "rope",
+        "massage",
+        "book",
+        "location",
+        "ecr8",
+        "barcode",
+        "collected",
+        "retention",
+        "chain of custody",
+        "receipt"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020596",
+      "summary": "It designates Ghislaine Maxwell as his agent, granting her broad authority over his financial accounts, including banking, brokerage, custody, investment management, and credit pledge activities. The form includes standard provisions regarding acknowledgment, revocation rights, and confidentiality. It’s marked as “Confidential Treatment Requested” and contains sections for notary acknowledgment and further account details.",
+      "timestamp": "2008-06-25T00:00:00",
+      "timestamp_raw": "June 25, 2008",
+      "keywords": [
+        "citadel",
+        "jpmorgan chase",
+        "efta00020596",
+        "account numbers",
+        "confidential treatment",
+        "form type",
+        "morgan account",
+        "jeffrey epstein",
+        "tax",
+        "durable power of attorney",
+        "efta00020597",
+        "efta00020598",
+        "efta00020601",
+        "efta00020602",
+        "efta00020603",
+        "efta00020604",
+        "efta00020605",
+        "efta00020606",
+        "efta00020607",
+        "efta00020608",
+        "efta00020609",
+        "efta00020610",
+        "efta00020611",
+        "efta00020612",
+        "efta00020613",
+        "efta00020614",
+        "efta00020615",
+        "efta00020616",
+        "efta00020617",
+        "efta00020618",
+        "efta00020619",
+        "efta00020620"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013834",
+      "summary": "Alan Dershowitz communicated with [REDACTED] via email on March 19 and 20, 2009. He expressed gratitude for their conversation and friendship. He confirmed that the United States Attorney's Office would not interfere with the Palm Beach Sheriffs Office’s administration of Jeffrey Epstein’s sentence, unless alternative custody or in-home detention were considered, at which point the USAO would object. He anticipated future contact regarding rental or purchase plans and a planned November visit.",
+      "timestamp": "2009-03-20T00:00:00",
+      "timestamp_raw": "20 Mar 2009",
+      "keywords": [
+        "dershowitz",
+        "epstein",
+        "palm beach sheriffs office",
+        "sentence",
+        "custody",
+        "detention",
+        "friendship",
+        "usao",
+        "rickles",
+        "november"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035737",
+      "summary": "This document is an unofficial FBI record concerning the death investigation of Jeffrey Epstein. It includes documents provided by DIG SA from MCC, specifically: L-Tier Daily Logs for August 9 and 10, a Weekly Signature Sheet for weeks of 7/28 and 8/4, an Incident Report from July 23, a Suicide Timeline (8/9-8/13), a memo regarding Epstein remains, a memo regarding an Epstein phone call (8/9), and Chain of Custody Logs from MCC. The record was received on October 16, 2009.",
+      "timestamp": "2009-10-16T00:00:00",
+      "timestamp_raw": "October 16, 2009",
+      "keywords": [
+        "jeffrey epstein",
+        "death investigation",
+        "mcc",
+        "fbi",
+        "import form",
+        "unsub",
+        "suicide timeline",
+        "chain of custody",
+        "incident report",
+        "ssa"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036893",
+      "summary": "This document outlines the patient care procedures at the Metropolitan Correctional Center, New York, focusing on sick call, urgent care, and overall health services for inmates. Here’s a breakdown of the key elements: *   **Purpose & Scope:** The supplement establishes procedures for providing medical, dental, and psychiatric services, alongside Program Statement 6031.01. *   **Policy:** Each inmate receives individual evaluation, with exceptions for translators and chaperones. Inmates pay a $2 copay for health care visits, and access to care isn't denied due to inability to pay. *   **Standards:** The operation adheres to the 4th Edition American Correctional Association Standards, along with several other Bureau of Prisons policies. *   **Services Offered:** The HSU provides a continuum of care (medical, psychiatric, dental) with contracted hospital support. Services include physical exams, urgent care, chronic care, and emergency treatment. *   **Staff & Responsibilities:** The Clinical Director oversees the health services unit, with specialized roles (Dental Officer, Pharmacist, etc.). *   **Procedures:** Intake includes initial assessments for urgent needs, and regular physical exams (within 14 & 30 days). Sick call operates through triage and scheduling. Urgent care is available 24/7 with a 4-minute response time. *   **Specifics:** The document details how emergencies are handled (transport, responder teams), addresses idle/convalescence status, outlines consultation processes, and clarifies the $2 copay system. It also provides guidelines for managing inmates with substance abuse, chronic conditions, and pregnant females.",
+      "timestamp": "2013-05-29T00:00:00",
+      "timestamp_raw": "May 29, 2013",
+      "keywords": [
+        "patient care",
+        "sick call",
+        "medical",
+        "psychiatric",
+        "dental",
+        "copayment",
+        "inmate",
+        "emergency",
+        "health services",
+        "procedures",
+        "directives",
+        "standards",
+        "evaluation",
+        "treatment",
+        "custody"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035815",
+      "summary": "This document, an outline drafted by Epstein, details BOP (Bureau of Prisons) policies and procedures relating to inmate conduct, property, and safety, primarily focusing on standards of conduct, use of government property, pretrial inmate management, and suicide prevention. Key areas covered include: *   **Standards of Conduct:** Detailed regulations regarding honest effort, impartiality, property protection, and reporting waste/fraud/abuse, referencing specific CFR sections and BOP Program Statements (e.g., 28 C.F.R. § 2635.101, P3420.11). It emphasizes the appearance of violations and the duty to report. *   **Property Management:** Rules for using government property (including office equipment, vehicles, and personal items) and managing inmate personal property, with specific allowances for SHU inmates and OTC medications. Procedures exist for inmate telephone usage, with monitoring requirements. *   **Inmate Management:** Protocols for conducting inmate counts (including 30-minute rounds and special accountability), managing SHU inmates (including observation and medication), and addressing suicide risk (including screening and suicide watch procedures). *   **Timeline & Analysis:** The document includes a timeline of events surrounding the death of Noel Epstein, a factual background, and an analysis of specific policy violations observed, namely falsified inmate counts, failure to conduct rounds, lack of cellmates, and violations related to phone/property usage. Essentially, the document presents a collection of BOP regulations and procedures intended to maintain order, security, and ethical conduct within correctional facilities.",
+      "timestamp": "2013-12-06T00:00:00",
+      "timestamp_raw": "12/6/2013",
+      "keywords": [
+        "standards of conduct",
+        "28 c.f.r.",
+        "pretrial inmates",
+        "bop program statement",
+        "shu",
+        "personal property",
+        "telephone regulations",
+        "inmate counts",
+        "suicide prevention",
+        "custody",
+        "regulations",
+        "ethics"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00033469",
+      "summary": "Key elements include: *   **Accountability System:** A core focus on double-counting, the use of control center records (including PP30 rosters and Sentry transactions), and a pass system (though not utilized) to track inmate movement. *   **Count Procedures:** Mandatory count times (12:00 AM, 3:00 AM, 5:00 AM, 10:00 AM, 4:00 PM, 10:00 PM) with a “dummy” observation rule. Lock-down accountability checks (conducted monthly) aim to verify inmate authorization in specific areas. *   **Record Keeping:** Detailed use of Bed Books, crew kits (with 3x5 cards), and the Daily Transfer Sheet to track inmate assignments and movements. *   **Operational Checks:** Regular census checks (8:30 AM and 12:30 PM) to ensure accurate inmate presence. Daily accountability checks are conducted to verify details assigned to work details. *   **Special Procedures:**  The use of Gate Passes (with a limited printout) for controlled movement, lockout accountability checks to verify inmate locations and the implementation of a lock-down census.",
+      "timestamp": "2014-11-13T00:00:00",
+      "timestamp_raw": "November 13, 2014",
+      "keywords": [
+        "inmate accountability",
+        "supervision",
+        "counts",
+        "roster",
+        "custody",
+        "control center",
+        "pass system",
+        "lock-down",
+        "bed books",
+        "census checks",
+        "unit assignments",
+        "detail cards",
+        "sentry",
+        "gate passes",
+        "out counts",
+        "daily accountability checks",
+        "correctional services",
+        "new york",
+        "ny"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035394",
+      "summary": "The MCC’s primary role is to confine pretrial individuals awaiting conviction, distinguishing them from convicted inmates.  The supplement establishes protocols for care, custody, and control, emphasizing that pretrial inmates are the responsibility of the U.S. Marshals Service until conviction. Key procedures include a thorough intake screening process (using forms BP-64 and BP-312), involving verification of legal documents, a physical and mental health assessment, and documenting inmate information. Pretrial inmates may be housed with convicted inmates under specific conditions requiring a waiver. The document details procedures for admission, visitation, release of funds/property, and handling of inmate records. It also outlines requirements for documenting inmate behavior, mental health status, and any security concerns, with a focus on identifying potentially disruptive or high-risk individuals. Finally, it specifies procedures related to religious programs, disciplinary actions, and death/serious illness protocols.",
+      "timestamp": "2014-11-13T00:00:00",
+      "timestamp_raw": "November 13, 2014",
+      "keywords": [
+        "pretrial inmates",
+        "metropolitan correctional center",
+        "new york",
+        "u.s. department of justice",
+        "federal bureau of prisons",
+        "confinement",
+        "procedures",
+        "directives",
+        "inmate classification",
+        "cmc clearance",
+        "intake screening",
+        "security",
+        "housing",
+        "separations",
+        "waiver",
+        "work assignments",
+        "medical intake",
+        "psychological counseling",
+        "legal resources",
+        "release of funds",
+        "attachment forms",
+        "policy supplements"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023428",
+      "summary": "A New York Times reporter, Danielle Ivory, submitted a Freedom of Information Act (FOIA) request to the Bureau of Prisons (BOP) for records related to Jeffrey Epstein’s time in custody at the Metropolitan Correctional Center (MCC). The request seeks logs of phone calls, email correspondence, visitor lists, and approved contact lists for Epstein. Ivory argues the request is in the public interest due to the significant public interest surrounding Epstein’s death, potential government involvement, and the newspaper’s role in informing the public. She requests the records be provided electronically and fees be waived, citing the public’s right to access government information and the importance of transparency. The BOP acknowledges the request and outlines response time, fee waiver provisions, and considerations regarding potential exemptions under FOIA.",
+      "timestamp": "2015-03-18T00:00:00",
+      "timestamp_raw": "Mar. 18, 2015",
+      "keywords": [
+        "epstein",
+        "foia",
+        "bureau of prisons",
+        "freedom of information act",
+        "jeffrey epstein",
+        "records request",
+        "mcc",
+        "email correspondence",
+        "phone logs",
+        "new york times"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029512",
+      "summary": "On July 6, 2019, Geoffrey Berman (USANYS) sent an email update to multiple recipients regarding the investigation involving Jeffrey Epstein. Judge Moses signed a search warrant, and the FBI received a flight manifest indicating Epstein and two pilots were scheduled to travel. Confirmation of the passengers was pending after the flight took off.",
+      "timestamp": "2019-07-06T00:00:00",
+      "timestamp_raw": "July 6, 2019",
+      "keywords": [
+        "epstein",
+        "fbi",
+        "search warrants",
+        "flight manifest",
+        "cbp",
+        "judge moses",
+        "usanys",
+        "geoffrey berman",
+        "updates",
+        "custody"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015598",
+      "summary": "On July 7, 2019, Jeffrey Epstein was arrested on sex trafficking charges. He is in custody awaiting arraignment on an upcoming indictment. The case is considered important due to the serious nature of the charges and the potential for bringing justice to dozens of victims, some as young as 14, who were abused. A press conference announcing the charges was planned for Monday morning at 11:00 AM.",
+      "timestamp": "2019-07-07T00:00:00",
+      "timestamp_raw": "July 7, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "sex trafficking",
+        "indictment",
+        "victims",
+        "arrests",
+        "prosecution",
+        "legal",
+        "charges",
+        "press conference",
+        "pcu"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00032971",
+            "similarity": 0.538,
+            "index": 30,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028362",
+            "similarity": 0.667,
+            "index": 31,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00030172",
+            "similarity": 0.667,
+            "index": 32,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00032971",
+      "summary": "On July 7, 2019, an arrest was made regarding Jeffrey Epstein on sex trafficking charges. Epstein was in custody awaiting arraignment on an upcoming indictment. The case was considered extremely serious and important, with the potential to bring justice for numerous victims, including those as young as 14. A team was congratulated for the swift prosecution, with a planned press conference to be held Monday morning.",
+      "timestamp": "2019-07-07T00:00:00",
+      "timestamp_raw": "July 7, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "sex trafficking",
+        "arrest",
+        "indictment",
+        "victims",
+        "prosecution",
+        "charges",
+        "usanys",
+        "pcu",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00015598",
+            "similarity": 0.538,
+            "index": 29,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00028362",
+            "similarity": 0.818,
+            "index": 31,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00030172",
+            "similarity": 0.538,
+            "index": 32,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00015597",
+            "similarity": 1.0,
+            "index": 33,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00028362",
+      "summary": "On July 7, 2019, an email was sent regarding the arrest of Jeffrey Epstein on sex trafficking charges. Epstein was in custody awaiting arraignment on an upcoming indictment. The email highlighted the significance of the case, emphasizing the serious nature of the charges and the potential for justice for numerous victims, including those as young as 14. A press conference was scheduled for Monday morning at 11:00 AM to formally announce the charges.",
+      "timestamp": "2019-07-07T00:00:00",
+      "timestamp_raw": "July 7, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "sex trafficking",
+        "arrest",
+        "victims",
+        "prosecution",
+        "indictment",
+        "usanys",
+        "pcu",
+        "charges",
+        "press conference"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00032971",
+            "similarity": 0.818,
+            "index": 30,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00015598",
+            "similarity": 0.667,
+            "index": 29,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00030172",
+            "similarity": 0.667,
+            "index": 32,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00015597",
+            "similarity": 0.818,
+            "index": 33,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00030172",
+      "summary": "On July 7, 2019, an individual (USANYS) forwarded a message regarding the arrest of Jeffrey Epstein on sex trafficking charges. Epstein was in custody awaiting arraignment on an upcoming indictment. The charges were considered an important and worthy prosecution involving numerous victims, including girls as young as 14, and represented a commitment to prosecuting powerful individuals. A press conference announcing the charges was scheduled for Monday morning at 11:00 AM.",
+      "timestamp": "2019-07-07T00:00:00",
+      "timestamp_raw": "July 7, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "sex trafficking",
+        "indictment",
+        "victims",
+        "usanys",
+        "redaction",
+        "prosecution",
+        "arrests",
+        "press conference",
+        "pcu"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00028362",
+            "similarity": 0.667,
+            "index": 31,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00032971",
+            "similarity": 0.538,
+            "index": 30,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00015598",
+            "similarity": 0.667,
+            "index": 29,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00015597",
+            "similarity": 0.538,
+            "index": 33,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00015597",
+      "summary": "On July 7, 2019, an individual (identified as “PCU”) informed Mat of the arrest of Jeffrey Epstein on sex trafficking charges. Epstein was in custody awaiting arraignment on an upcoming indictment. The case was described as critically important, involving potential charges against numerous victims, including those as young as 14, and represented a significant prosecution of a powerful individual. A press conference announcing the charges was scheduled for Monday morning at 11:00 AM.",
+      "timestamp": "2019-07-07T00:00:00",
+      "timestamp_raw": "July 7, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "sex trafficking",
+        "arrest",
+        "victims",
+        "prosecution",
+        "indictment",
+        "charges",
+        "usanys",
+        "pcu",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00030172",
+            "similarity": 0.538,
+            "index": 32,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028362",
+            "similarity": 0.818,
+            "index": 31,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00032971",
+            "similarity": 1.0,
+            "index": 30,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034617",
+      "summary": "On July 10, 2019, at 10:14 AM, the Chief Psychologist of the U.S. Department of Justice/Federal Bureau of Prisons requested a Protective Custody Order for Failure to Understand (POFU) for Jeffrey Epstein tomorrow, July 11, 2019, due to a crisis. The request was sent via email to the Metropolitan Correctional Center in New York.",
+      "timestamp": "2019-07-10T00:00:00",
+      "timestamp_raw": "July 10, 2019",
+      "keywords": [
+        "crisis",
+        "epstein",
+        "u.s. department of justice",
+        "federal bureau of prisons",
+        "metropolitan correctional center",
+        "pofu",
+        "psychologist",
+        "new york",
+        "confidential",
+        "sdny"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028158",
+      "summary": "On July 18, 2019, the court ruled that Jeffrey Epstein must remain in custody pending trial in the case of United States v. Jeffrey Epstein, 19 Cr. 490 (RMB). A status conference was scheduled for Wednesday, July 31, 2019, at 11:30 a.m. before Judge Richard M. Berman in the Southern District of New York Courthouse. Email correspondence regarding the update was exchanged between individuals within the USANYS (United States Attorney's Office, Southern District of New York) and other parties involved. EFTA00028158 and EFTA00028159 were referenced as identifiers for the update.",
+      "timestamp": "2019-07-18T00:00:00",
+      "timestamp_raw": "July 18, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "vw update",
+        "united states v. jeffrey epstein",
+        "richard m. berman",
+        "southern district of new york",
+        "courtroom 17b",
+        "july 18",
+        "2019",
+        "july 31",
+        "2019",
+        "incarceration",
+        "status conference"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020947",
+      "summary": "On July 19, 2019, a status update was sent regarding the United States v. Jeffrey Epstein case (19 Cr. 490 (RMB)). The court ruled that Epstein must remain in custody pending trial. A pretrial conference is scheduled for Wednesday, July 31, 2019, at 11:30 a.m. before Judge Richard M. Berman in the Southern District of New York Courthouse.",
+      "timestamp": "2019-07-19T00:00:00",
+      "timestamp_raw": "July 19, 2019",
+      "keywords": [
+        "epstein",
+        "jeffrey",
+        "vw update",
+        "court ruling",
+        "united states v.",
+        "richard m. berman",
+        "july 18",
+        "2019",
+        "july 31",
+        "2019",
+        "new york",
+        "courtroom 17b"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035031",
+      "summary": "Jeffrey Edward Epstein, inmate #76318-054 at NYM, presented to Health Services on 07/23/2019 due to an injury reported at 01:27 that evening. He stated he doesn’t know how the injury occurred, describing it as “just going to drink a little water and wake up snorting.” Examination revealed a circular erythema on his neck, approximately 2 inches wide and sparing the back of his neck, alongside a smaller erythema on his left knee. He was found with a rope around his neck and sitting on the floor by custody staff.  He was placed on suicide watch, assessed for self-inflicted injuries (T1490), and scheduled for follow-up with psychology services. The provider documented patient understanding of the plan of care and access to care.",
+      "timestamp": "2019-07-23T00:00:00",
+      "timestamp_raw": "07/23/2019",
+      "keywords": [
+        "jeffrey epstein",
+        "nym",
+        "injury",
+        "snorting",
+        "suicide watch",
+        "erythema",
+        "neck",
+        "rope",
+        "clinical encounter",
+        "pain",
+        "assessment",
+        "psychological services"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034714",
+      "summary": "He was previously on Suicide Watch. He is housed in the Special Housing Unit (SHU) and is scheduled to be reassessed tomorrow. He will likely return to the SHU with a specific inmate and may be cell-mates with inmate M. The Psychological Observation status indicates a temporary designation for an inmate experiencing mental status impairment or unpredictable behavior, not imminent suicidal ideation. He was initially requested into Protective Custody due to a publicized case involving the mailing of IEDs to prominent figures. Updates on his status, medical assessments, and attorney visits are being provided daily.",
+      "timestamp": "2019-07-24T00:00:00",
+      "timestamp_raw": "7/24/2019",
+      "keywords": [
+        "inmate epstein",
+        "shu",
+        "psychological observation",
+        "suicide watch",
+        "cell mate",
+        "self-mutilation",
+        "mental illness",
+        "psychological assessment",
+        "protective custody",
+        "tattooing"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035585",
+      "summary": "Inmate Epstein (#76318-054) was placed on Psychological Observation due to a deterioration of mental status, including disorganized thinking and poor self-care, following a self-mutilation incident and drug intoxication/withdrawal. He was previously on Suicide Watch and has been escorted to Health Services for an assessment and will subsequently meet with his attorney. The Psychological Observation status is a temporary designation until the inmate stabilizes. The inmate pleaded guilty to mailing improvised explosive devices to prominent Democratic figures, including Barack Obama, Joe Biden, Hillary Clinton, Cory Booker, Kamala Harris, and CNN, and is currently in Special Housing Unit (SHU) due to requesting protective custody.",
+      "timestamp": "2019-07-24T00:00:00",
+      "timestamp_raw": "24 Jul 2019",
+      "keywords": [
+        "epstein",
+        "psychological observation",
+        "suicide watch",
+        "shu",
+        "inmate",
+        "mental illness",
+        "self-mutilation",
+        "protective custody",
+        "barack obama",
+        "joe biden",
+        "hillary clinton",
+        "cnn"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00035383",
+            "similarity": 0.571,
+            "index": 40,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035383",
+      "summary": "Dr. indicates he is likely to be found competent. *   He is being housed in the Special Housing Unit (SHU) and will be cellmated with inmate I. *   The inmate has a prior conviction for mailing improvised explosive devices to prominent Democratic figures, including Barack Obama, Joe Biden, Hillary Clinton, Cory Booker, and Kamala Harris. *   He requested Protective Custody and is currently in the SHU awaiting an attorney visit. *   The Psychological Observation status is a temporary designation for inmates experiencing mental impairment, not imminent suicidal behavior.",
+      "timestamp": "2019-07-24T00:00:00",
+      "timestamp_raw": "24 Jul 2019",
+      "keywords": [
+        "epstein",
+        "shu",
+        "psychological observation",
+        "suicide watch",
+        "self-mutilation",
+        "mental illness",
+        "inmate",
+        "protective custody",
+        "code 228",
+        "tattoos"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035585",
+            "similarity": 0.571,
+            "index": 39,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031191",
+      "summary": "On July 25, 2019, a correctional officer documented daily activities at the Metropolitan Correctional Center in New York. The log recorded inmate counts, movement (including exits and returns from hospitals), sensitive information regarding inmate observations (like psychiatric or suicide watches), and administrative actions such as detentions and transfers. Fire alarm malfunctions and phone calls were also monitored, including WITSEC inquiries and STG/High Alert calls. Throughout the shifts, inmates were moved between housing units, hospitals, and placed in administrative detention, with specific instances noted for cell phone possession. Counts were conducted at various times, and the log tracked equipment inventories and security checks.",
+      "timestamp": "2019-07-25T00:00:00",
+      "timestamp_raw": "July 25, 2019",
+      "keywords": [
+        "correctional center",
+        "shu",
+        "inmate",
+        "count",
+        "arrest",
+        "detention",
+        "witsec",
+        "phone calls",
+        "fire alarm",
+        "prea",
+        "custody",
+        "lockdown",
+        "medical observation"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00033647",
+      "summary": "It details inmate counts, sensitive information (including inmate hospitalizations and psychiatric observations), restraint equipment checks, security procedures (metal detectors, roof checks, and phone monitoring – including WITSEC inquiries), and administrative actions like administrative detentions and transfers between housing units (SHU, 10-South, Local Hosp).  Specific inmate movements and releases are recorded, along with equipment inventory and maintenance. The log also tracks phone calls and counts to maintain a secure environment.",
+      "timestamp": "2019-07-29T00:00:00",
+      "timestamp_raw": "July 29, 2019",
+      "keywords": [
+        "lieutenant",
+        "shu",
+        "hospital",
+        "inmate",
+        "count",
+        "custody",
+        "detention",
+        "observation",
+        "restraint",
+        "alarm"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034842",
+      "summary": "On August 4, 2019, a staff member communicated concerns about a lack of response from a Captain, citing multiple unanswered calls and a situation with vacant posts (13) across various units including SHU 3 & 4, 5 South, 7 South, and internal searches. The Captain, Lt. , was designated to act on their behalf for Monday and Tuesday, August 5th and 6th, due to the Captain’s absence. There were concerns about modified status, potential cancellations of religious services, and the use of non-custody inmates.",
+      "timestamp": "2019-08-04T00:00:00",
+      "timestamp_raw": "August 4, 2019",
+      "keywords": [
+        "danbury",
+        "captain",
+        "staff",
+        "roster",
+        "attorney visits",
+        "religious services",
+        "shu",
+        "verizon",
+        "samsung",
+        "confidential"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00034788",
+            "similarity": 0.538,
+            "index": 44,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034788",
+      "summary": "On August 4, 2019, multiple individuals communicated regarding staffing assignments and concerns at Metro Liton Correctional Center. A Lieutenant, Lt., is designated to act as Captain for Monday and Tuesday, August 5th and 6th, due to the absence of the original Captain. Discussions involve managing vacant posts, assisting with rounds, handling non-custody inmates, and potential cancellations of religious services due to modified status. A request is made for someone to cover the roster committee meeting.",
+      "timestamp": "2019-08-04T00:00:00",
+      "timestamp_raw": "August 4, 2019",
+      "keywords": [
+        "danbury",
+        "captain",
+        "shu",
+        "staff",
+        "roster",
+        "blackberry",
+        "corrections",
+        "attorney visits",
+        "samsung",
+        "august"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034842",
+            "similarity": 0.538,
+            "index": 43,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00034840",
+            "similarity": 0.667,
+            "index": 45,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034840",
+      "summary": "On August 4, 2019, multiple individuals communicated regarding operational matters at the Metropolitan Correctional Center (MCC) in Danbury. A staff member informed the Captain that they were designated as the Captain for the weekend, noting a lack of communication from the individual who typically held the role. There were reports of vacant posts, including those in SHU 3 and 4, and a need to utilize non-custody inmates. A lieutenant was assigned to act as Captain in the sender’s absence, and the sender requested assistance with roster committee duties. The sender also mentioned a modified status affecting staff searches and potential cancellation of religious services.",
+      "timestamp": "2019-08-04T00:00:00",
+      "timestamp_raw": "August 4, 2019",
+      "keywords": [
+        "danbury",
+        "captain",
+        "roster",
+        "blackberry",
+        "metropolitan correctional center",
+        "staff",
+        "august",
+        "calls",
+        "attorney visits",
+        "shu"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034788",
+            "similarity": 0.667,
+            "index": 44,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036336",
+      "summary": "An email, dated August 6, 2019, from the Federal Bureau of Prisons (MCC New York) regarding an order for custody concerning a warehouse and a file named EFTA00036336. The email includes contact information for Camain Seereka, Glyneo Honor Graduate, Cusunb T&.1, and mentions a quote: \"Shit everythin, eNert, when/she:ad treated/like, nothing:\".",
+      "timestamp": "2019-08-06T00:00:00",
+      "timestamp_raw": "August 6, 2019",
+      "keywords": [
+        "efta00036336",
+        "warehouse",
+        "order",
+        "custody",
+        "redaction",
+        "bureau of prisons",
+        "new york",
+        "august 2019",
+        "camain seereka",
+        "glyneo honor graduate"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036307",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] on August 6, 2019, forwarding a checklist for inmate requests for Protective Custody. The email included attachments: a TEXT.htm file, a PC Request Application in English, a PC Request Application in Spanish, and a PC Checklist.docx file. The checklist was dated 11/7/2016.",
+      "timestamp": "2019-08-06T00:00:00",
+      "timestamp_raw": "August 6, 2019",
+      "keywords": [
+        "inmate",
+        "protective custody",
+        "checklist",
+        "application",
+        "pc request",
+        "spanish",
+        "redaction",
+        "efta00036307"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036163",
+      "summary": "This email announces available overtime shifts for August 10-11, 2019, at the Metropolitan Correctional Center in New York. The shifts require Non-Custody staff to cover custody posts. Specific posts listed include MW, DW, and EW units, along with control and internal locations, for both Saturday and Sunday. Staff are instructed to notify their supervisors and contact the Lieutenants Office at 6450 to sign up.",
+      "timestamp": "2019-08-07T00:00:00",
+      "timestamp_raw": "07 Aug 2019",
+      "keywords": [
+        "overtime",
+        "weekend",
+        "custody",
+        "staff",
+        "sign-up",
+        "metropolitan correctional center",
+        "nym",
+        "bop.gov",
+        "shift",
+        "lieutenant"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00036366",
+            "similarity": 0.667,
+            "index": 50,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00036405",
+      "summary": "An email announces limited availability of the sender from August 5th to August 9th due to being out of the office. An acting replacement is designated for those dates, reachable via phone and radio track 4. The email then details volunteer sign-ups for custody posts on August 10th and 11th, listing specific shifts and locations for Non-Custody staff. The Metropolitan Correctional Center in New York provides contact information including the address and phone number.",
+      "timestamp": "2019-08-07T00:00:00",
+      "timestamp_raw": "07 Aug 2019",
+      "keywords": [
+        "overtime",
+        "weekend",
+        "custody",
+        "staff",
+        "volunteer",
+        "sign-up",
+        "radio",
+        "supervisor",
+        "metropolitan correctional center",
+        "new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00036366",
+            "similarity": 0.667,
+            "index": 50,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00036756",
+            "similarity": 0.667,
+            "index": 125,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00036366",
+      "summary": "An email was sent on August 8, 2019, requesting volunteers for custody posts over the weekend of August 10-11, 2019. The email lists specific posts needing coverage, including MW, DW, and EW shifts, and directs interested individuals to contact the Lieutenants Office at 6450 to sign up. The email is from the Metropolitan Correctional Center in New York, NY.",
+      "timestamp": "2019-08-08T00:00:00",
+      "timestamp_raw": "August 8, 2019",
+      "keywords": [
+        "overtime",
+        "weekend",
+        "custody",
+        "staff",
+        "volunteer",
+        "sign-up",
+        "shift",
+        "metropolitan correctional center",
+        "new york",
+        "lieutenant"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00036405",
+            "similarity": 0.667,
+            "index": 49,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00036163",
+            "similarity": 0.667,
+            "index": 48,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00036756",
+            "similarity": 0.667,
+            "index": 125,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00027234",
+      "summary": "This document is a response from the U.S. Attorney’s Office for the Southern District of New York to requests for preservation and production of documents related to the Jeffrey Epstein case. The Office largely rejects the breadth of the requests, arguing they exceed the scope of Federal Rule of Criminal Procedure 16 and 26.2 (Brady rule), and the investigation’s production obligations. Specifically, the Office states it will only preserve and produce documents already within its possession, custody, or control. It denies requests to access documents held by other U.S. Attorney’s Offices, the Department of Justice components, or non-party entities. The Office acknowledges limited responsiveness to specific requests – regarding FBI files, communications between Main Justice and the Florida U.S. Attorney’s Offices, and certain victim communications – but maintains that these requests are often overly broad and irrelevant to the case. It emphasizes that internal Department of Justice communications are generally not discoverable under these circumstances.",
+      "timestamp": "2019-08-08T00:00:00",
+      "timestamp_raw": "August 8, 2019",
+      "keywords": [
+        "u.s. department of justice",
+        "jeffrey epstein",
+        "production obligations",
+        "brady",
+        "rule 16",
+        "discovery",
+        "non-party entities",
+        "communications",
+        "criminal procedure",
+        "work product"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028094",
+      "summary": "*   The requestor, the sole heir and next of kin, seeks information previously released to the New York Times via a FOIA request. *   The request includes a copy of a video tape from August 9, 2019, showing activity outside the SHU before Epstein’s death, and information about inmates on that tier and personnel involved. *   The requestor is specifically seeking details regarding the circumstances surrounding the movement of Epstein’s body before the medical examiner arrived and any related incident reports. *   Guidance was provided to submit a FOIA request to the BOP, referencing the NYT release, and a civil division of the office would forward the request.",
+      "timestamp": "2019-08-09T00:00:00",
+      "timestamp_raw": "August 9, 2019",
+      "keywords": [
+        "bop",
+        "foia",
+        "fbi",
+        "jeffrey epstein",
+        "new york times",
+        "video",
+        "shu",
+        "inmate",
+        "request",
+        "death",
+        "custody"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036166",
+      "summary": "On August 9, 2019, custody modifications were requested and documented, including: relocation of phones across multiple offices (SHU LT, 10 South, Business Office, Medical, and Reentry); adding a telephone line for a Tel-conference at the SHU LT; implementing an autodial phone in the 10 South office; programming a phone for the Procurement Specialist in the Business Office and adding a DID for Radiology in the Medical department; and a rewire of the office for the Communication Technician. The document includes contact information for MCC-New York.",
+      "timestamp": "2019-08-09T00:00:00",
+      "timestamp_raw": "August 9, 2019",
+      "keywords": [
+        "custody",
+        "phones",
+        "relocate",
+        "telephone",
+        "office",
+        "budget",
+        "radiology",
+        "rewire",
+        "communication",
+        "us department of justice"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035935",
+      "summary": "Department of Justice Office of the Inspector General into the custody, care, and supervision of Jeffrey Epstein at the Metropolitan Correctional Center in New York. The investigation focuses on the period of August 9-10, 2019, and specifically examines the SHU (Special Housing Unit) operations. Key findings include: *   **Failure to Conduct Accountability Measures:** The Material Handler, a key employee, failed to perform mandatory inmate counts and rounds in the SHU due to fatigue and pressure to work excessive overtime.  The 10:00 PM count was not conducted, and the count slips were falsified. *   **False Statements:** The Material Handler knowingly and willfully made false statements about completing these duties. *   **Overtime Issues:** The Material Handler worked 24 consecutive hours, contributing to his inability to fulfill his responsibilities. *   **Lack of Oversight:** Security camera footage was of poor quality, necessitating reliance on witness statements and records, which were then improperly utilized. *   **Recommendations:** The OIG recommends the BOP develop a plan to address staffing shortages. The report stresses the importance of adherence to BOP regulations regarding inmate accountability and the potential dangers of neglecting these duties. The investigation concluded with no prosecution due to the evidence.",
+      "timestamp": "2019-08-09T00:00:00",
+      "timestamp_raw": "August 9, 2019",
+      "keywords": [
+        "limited official use",
+        "jeffrey epstein",
+        "metropolitan correctional center",
+        "shu",
+        "inmate counts",
+        "bop",
+        "over time",
+        "false statements",
+        "investigation",
+        "custody",
+        "care",
+        "supervision"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035220",
+      "summary": "On August 9, 2019, Jeffrey Epstein, while in the custody of the US Marshals, was visited by attorneys and had a social call with cellmate Reyes Efrain before being found unresponsive in his cell. Medical personnel initiated CPR, intubation, and attempted transport to Beekman Hospital where he was pronounced dead. Following his death, investigators, including the FBI, US Marshals, medical examiners, and various institutional staff, responded to the scene. A timeline of events followed, including the collection of evidence, interviews with inmates and staff, notification of legal representatives and family, and ultimately, the removal of Epstein’s computer from the SHU. The circumstances surrounding Epstein’s death were investigated by multiple agencies, including the OIG.",
+      "timestamp": "2019-08-09T00:00:00",
+      "timestamp_raw": "August 9, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "reyes efrain",
+        "shu",
+        "cpr",
+        "medical emergency",
+        "beekman hospital",
+        "fbi",
+        "autopsy",
+        "coroner",
+        "usms",
+        "time of death"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035970",
+      "summary": "Department of Justice Office of the Inspector General into the custody, care, and supervision of Jeffrey Epstein at the Metropolitan Correctional Center in New York, specifically focusing on the period from August 9, 2019. The investigation was initiated due to concerns about Epstein’s cellmate situation and the handling of his transfer from suicide watch. Key findings include: *   **Cellmate Requirement:** Epstein was required to have a cellmate due to his psychological observation history. *   **Inmate 3’s Transfer:** Inmate 3, Epstein’s cellmate, was transferred from the facility on August 9, 2019, leaving Epstein without a designated cellmate. *   **Failure to Notify:** The Day Watch SHU Officer in Charge failed to immediately notify a supervisor about the need for a new cellmate, violating BOP standards and SHU Post Orders. They also offered inconsistent accounts regarding notifications made to other staff. *   **Lack of Cell Searches:** The officer failed to properly document cell searches, potentially missing opportunities to assess Epstein’s needs. There were concerns about an excessive amount of linens in his cell. *   **Inaccurate Count:** The 4:00 PM SHU count on August 9, 2019, was inaccurate due to a miscount of inmates, potentially hindering the realization that Inmate 3 was no longer present. *   **Draft Status:** The document is a draft and subject to revision, emphasizing the sensitivity of the information contained within. It’s marked for limited official use and strict confidentiality.",
+      "timestamp": "2019-08-09T00:00:00",
+      "timestamp_raw": "August 9, 2019",
+      "keywords": [
+        "limited official use",
+        "jeffrey epstein",
+        "metropolitan correctional center",
+        "shu",
+        "cellmate",
+        "investigation",
+        "review",
+        "department of justice",
+        "oig",
+        "psycholopy department"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00035954",
+            "similarity": 0.5,
+            "index": 59,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00019411",
+      "summary": "*   **Request:** They are formally requesting documents and records from the U.S. Department of Justice related to Jeffrey Epstein’s death at the Metropolitan Correctional Center (MCC) in New York. *   **Specific Requests:** The request includes protocols for inmate deaths, video recordings of entrances/exits and hallways, entry/exit logs, and logs of guards on duty, covering the period from August 9, 2019, to August 10, 2019. *   **Context of Death:** Epstein died in custody at the MCC on August 10, 2019, initially appearing as a suicide, prompting an FBI investigation and concern from Attorney General William P. Barr regarding irregularities. *   **Investigation:** The legal team intends to conduct their own investigation into the circumstances surrounding his death.",
+      "timestamp": "2019-08-09T00:00:00",
+      "timestamp_raw": "August 9, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "mcc",
+        "fbi",
+        "u.s. department of justice",
+        "inmate deaths",
+        "metropolitan correctional center",
+        "28 c.f.r.",
+        "requested evidence",
+        "suicide",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035946",
+      "summary": "This document is a draft investigation report by the U.S. Department of Justice Office of the Inspector General into the custody, care, and supervision of Jeffrey Epstein at the Metropolitan Correctional Center in New York. The investigation focused on discrepancies in inmate counts, particularly at 10:00 p.m. on August 9, 2019, where the SHU had a reported 73 inmates, while the Receiving and Discharge unit had zero. Senior Officer Specialist 6 admitted to “ghost counting” – altering count slips without a proper recount – to reflect a more favorable number of inmates. He acknowledged that he should have requested a new count, but did not. The investigation determined that he cleared the inaccurate 10:00 p.m. count, violating BOP policy, and that he continued to misreport inmate counts during subsequent counts (12:00 a.m., 3:00 a.m., and 5:00 a.m.) despite knowing they were inaccurate. The document emphasizes the poor quality of SHU video footage and the reliance on witness statements and BOP records to assess the situation. The report includes redacted portions of the document and the official name for the document used to record an institutional count (\"Bureau of Prisons Count Sheet\").",
+      "timestamp": "2019-08-09T00:00:00",
+      "timestamp_raw": "August 9, 2019",
+      "keywords": [
+        "limited official use",
+        "jeffrey epstein",
+        "metropolitan correctional center",
+        "count",
+        "inmate",
+        "bureau of prisons",
+        "shu",
+        "receiving and discharge",
+        "ghost counting",
+        "redaction",
+        "investigation",
+        "control center"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035954",
+      "summary": "Department of Justice Office of the Inspector General (OIG) into the custody, care, and supervision of Jeffrey Epstein at the Metropolitan Correctional Center in New York. The investigation, dated March 202X, focuses on a period around August 9, 2019. Key findings include: *   **Missing Cellmate Accountability:** The Evening Watch SHU Officer in Charge failed to properly account for Epstein’s cellmate, Inmate 3, resulting in Inmate 3 being permanently transferred from the facility without Epstein having a replacement. *   **False Record Keeping:** The Officer in Charge fabricated count slips to falsely indicate that mandatory rounds and inmate counts had been completed, violating BOP regulations and federal law. *   **Lack of Conduct:** The Officer in Charge failed to conduct assigned duties, including inmate counts and cell searches, and did not notify supervisory personnel when Epstein lacked a cellmate. *   **Witness Contradictions:** Witnesses, including the Officer in Charge, provided inconsistent accounts of events, leading to doubt about their candor during OIG interviews. *   **Potential Policy Violation:** The investigation suggests a broader failure of MCC New York SHU staff to adhere to established protocols regarding inmate supervision and accountability. The OIG concluded that the Officer in Charge’s actions constituted a violation of BOP standards, federal law (18 U.S.C. § 1001), and MCC New York SHU Post Orders. The U.S. Attorney’s Office declined prosecution due to lack of sufficient evidence.",
+      "timestamp": "2019-08-09T00:00:00",
+      "timestamp_raw": "August 9, 2019",
+      "keywords": [
+        "limited official use",
+        "jeffrey epstein",
+        "metropolitan correctional center",
+        "shu",
+        "inmate count",
+        "cellmate",
+        "investigation",
+        "department of justice",
+        "false statements",
+        "bop",
+        "misconduct"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035970",
+            "similarity": 0.5,
+            "index": 56,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030457",
+      "summary": "This document contains inmate history and data related to Jeffrey Edward Epstein (76318-054) at the Metropolitan Correctional Center (MCC) New York. It includes: *   **Inmate History:** A detailed record of his housing assignments (rooms and beds) from July 2019 through August 10, 2019, with dates and times of assignments. *   **Category:** QTR (likely meaning quarters), indicating a standard housing assignment. *   **Function:** FCL (likely referring to a specific function or program). *   **Discipline Data:** A chronological record of disciplinary actions (though none exist within the timeframe covered). *   **Security/Designation Data:** Information regarding his security level (W/M/66), offense (sex trafficking of minors), and custody classification, including his medical and psychological status. *   **Inmate Profile:** A comprehensive profile detailing his personal information (birthdate, address, etc.), program assignments, and other relevant details. *   **TRUVIEW Report:** A report documenting his interactions, including money received and sent, calls, and visits, from May 11, 2020. The document appears to be part of a larger system for tracking inmate information within the Federal Bureau of Prisons.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "inmate",
+        "jeffrey edward epstein",
+        "efta00030457",
+        "ncrbm",
+        "quarters",
+        "fcl",
+        "assignment",
+        "history",
+        "dates",
+        "nym",
+        "house",
+        "range",
+        "bed",
+        "206l",
+        "sex trafficking",
+        "cya",
+        "discipline",
+        "security",
+        "designation",
+        "custody",
+        "category",
+        "mental health",
+        "education",
+        "finance",
+        "religion",
+        "metropolitan correctional center",
+        "usm",
+        "doc"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023980",
+      "summary": "On August 10, 2019, United States Senator Ben Sasse wrote to Attorney General William P. Barr regarding the death of Jeffrey Epstein by apparent suicide while in federal Bureau of Prisons custody. Sasse expresses outrage at what he perceives as a systemic failure within the Department of Justice, citing Epstein’s previous suicide attempt and the apparent removal of suicide watch. He demands answers regarding whether Epstein was on suicide watch, why he was taken off, and the initiation of investigations into the Bureau of Prisons’ handling of Epstein's case and potential criminal activity surrounding it. He also requests confirmation that all evidence related to Epstein’s co-conspirators is being secured.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "suicide",
+        "justice department",
+        "child sex trafficking",
+        "attorney general",
+        "investigations",
+        "bureau of prisons",
+        "criminal activity"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027258",
+      "summary": "Attorney General William P. Barr issued a statement regarding Jeffrey Epstein’s death in federal custody, stating it raises serious questions. The FBI is conducting an investigation, and the Inspector General has opened a separate investigation into the circumstances surrounding Epstein’s death.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "10 Aug 2019",
+      "keywords": [
+        "william barr",
+        "jeffrey epstein",
+        "usdoj",
+        "attorney general",
+        "death",
+        "suicide",
+        "fbi",
+        "investigation",
+        "inspector general",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032092",
+      "summary": "This document is a Chain of Custody Log form, specifically BP-A0971, used by the U.S. Department of Justice, Federal Bureau of Prisons. It records the recovery and handling of evidence, item number M-19-00182 (clothing Epstein was transported to outside the hospital with), from August 10, 2019, at New York Presbyterian Hospital. The log details the individuals involved in the recovery, placement in an overnight drop box, transfer to a safe, and disposition of the evidence. Signatures, printed names, dates, and times are recorded at each stage of the process. The final disposition is marked as ‘Hold as evidence’ and ‘Destroy immediately’ is listed as an option. The FBI and Lab Analysis are noted as involved in the process.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "chain of custody",
+        "evidence",
+        "fbi",
+        "department of justice",
+        "evidence recovery",
+        "disposition",
+        "drop box",
+        "lab analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035431",
+      "summary": "An email chain discusses the death of Jeffrey Epstein while in custody at the Metropolitan Correctional Center (MCC) NY. The email, dated August 10, 2019, originates from EFTA00035431 and seeks answers regarding the circumstances of Epstein’s death, including notifications to his next of kin, life-saving measures taken, EMS and hospital involvement, FBI notification and investigation status, arrival date at MCC NY, and specific indictment details. An attached document, TEXT.htm, is referenced. The email also includes a link to a news article about Epstein’s death from abc13.com.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "efta00035431",
+        "press release",
+        "samsung",
+        "epstein",
+        "suicide",
+        "mcc ny",
+        "fbi",
+        "sentry",
+        "sex trafficking",
+        "life-saving measures"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036394",
+      "summary": "On August 10, 2019, an individual from the Bureau of Prisons (bop.gov) sent an email announcing they will be out of the office on August 9, 2019, and provided contact information for assistance. The email also listed vacant custody posts available for volunteer Non-Custody staff to sign up for over the weekend of August 11-12, 2019, at the Metropolitan Correctional Center in New York. The listed posts included specific areas within the facility.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "overtime",
+        "metropolitan correctional center",
+        "non-custody",
+        "custody posts",
+        "supervisor",
+        "lieutenant",
+        "attorney",
+        "new york",
+        "sign-up",
+        "weekend"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034363",
+      "summary": "On August 11, 2019, the Federal Bureau of Prisons (BOP) responded to a request from CBS News regarding Jeffrey Epstein’s time in custody. Matt Pieper, a CBS News Radio Anchor/Correspondent, inquired about whether Epstein was on suicide watch. The BOP’s Office of Public Affairs provided the Attorney General’s statement and declined to offer further comment on the matter.",
+      "timestamp": "2019-08-11T00:00:00",
+      "timestamp_raw": "August 11, 2019",
+      "keywords": [
+        "epstein",
+        "jeffrey",
+        "bureau of prisons",
+        "cbs news",
+        "suicide watch",
+        "attorney general",
+        "redaction",
+        "public affairs",
+        "fwd",
+        "request"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021012",
+      "summary": "On August 14, 2019, Geoffrey Berman, U.S. Attorney, sent a notification to Gloria Allred regarding Case Number 2018R01618 and Court Docket Number 19-CR-00490. The notification, provided by the U.S. Department of Justice Victim Notification System, explains that Jeffrey Epstein died in custody and the Department intends to seek dismissal of the indictment. However, the ongoing investigation necessitates continued outreach to potential victims and individuals with relevant information, encouraging contact with the FBI at 1-800-CALL-FBI. Wendy Olsen serves as the Victim Witness Coordinator for this case.",
+      "timestamp": "2019-08-14T00:00:00",
+      "timestamp_raw": "August 14, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "united states department of justice",
+        "victim notification system",
+        "prosecution",
+        "indictment",
+        "victim",
+        "law enforcement",
+        "investigation",
+        "gloria allred",
+        "case number"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036697",
+      "summary": "*   **Overtime Logs:** Overtime logs from August 4-10, 2019, show specific numbers of overtimes, augmentations, and mandated overtimes for each day. Custody staff are prioritized for overtime, followed by non-custody staff. *   **Sign-Up Sheets:** Questions are raised about the accuracy of overtime sign-up sheets – whether they represent the final list of those who received shifts. *   **Data Requests:** Numerous data requests are made including: authorized vs. onboard employee numbers, correctional officer counts, inmate counts, 3R bonus information, staffing levels for specific shifts, and details on the use of augmentation and overtime. *   **Process Inquiry:** Questions are asked about the BOP's “bid sheet” process for staff signing up for overtime shifts and whether this data is tracked and saved.",
+      "timestamp": "2019-08-14T00:00:00",
+      "timestamp_raw": "14 Aug 2019",
+      "keywords": [
+        "overtime",
+        "staffing",
+        "bop",
+        "mandatory ot",
+        "voluntary ot",
+        "mcc",
+        "correctional officers",
+        "sign-up logs",
+        "shifts",
+        "data",
+        "requests"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00036541",
+            "similarity": 0.5,
+            "index": 70,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00036559",
+      "summary": "*   Overtime logs from August 4-10, 2019, show the number of overtimes, augmentations, and mandated overtimes. *   Staff utilize an overtime program, prioritizing custody staff, followed by general staff sign-ups, email requests, and radio calls for volunteers. Mandates are used when staff are still needed. *   Requests are made for historical data, including employee numbers, correctional officer counts by PP, inmate counts, 3R bonus information, and staffing levels for specific shifts. *   The sender requests clarification on the use of augmentation versus overtime and tracking of mandatory versus voluntary OT.",
+      "timestamp": "2019-08-14T00:00:00",
+      "timestamp_raw": "14 Aug 2019",
+      "keywords": [
+        "overtime",
+        "staff",
+        "mandatory ot",
+        "volunteer ot",
+        "sign up logs",
+        "correctional officers",
+        "mcc",
+        "bop",
+        "roster",
+        "shifts",
+        "data analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00036546",
+            "similarity": 0.571,
+            "index": 71,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00036541",
+      "summary": "*   Requests were made for data including: employee numbers (authorized vs. on-board), correctional officer counts, inmate counts, salary information, overtime breakdowns (mandatory vs. voluntary), and specific bonus details. *   Staffing procedures at MCC New York involve prioritizing custody staff, followed by non-custody staff, with augmentations and mandatory overtime utilized as needed. *   Overtime logs from August 4-10, 2019, were provided, detailing the number of overtimes, augmentations, and mandated shifts. *   The sender requested clarification on the use of augmentation versus overtime, and the BOP’s breakdown of this usage.",
+      "timestamp": "2019-08-14T00:00:00",
+      "timestamp_raw": "14 Aug 2019",
+      "keywords": [
+        "mcc",
+        "overtime",
+        "staffing",
+        "correctional officers",
+        "mandatory ot",
+        "voluntary ot",
+        "sign up sheets",
+        "employee numbers",
+        "bop",
+        "data request"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00036697",
+            "similarity": 0.5,
+            "index": 68,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036546",
+      "summary": "Mandatory overtimes were significantly higher than volunteer overtimes. *   **Staffing Procedures:** The MCC utilizes a tiered system for overtime, starting with custody staff, followed by non-custody staff, then emails and radio calls for volunteers, and finally mandates for evening and morning shifts. Augmentation is used during the day shift. *   **Information Requests:** A series of questions are being posed regarding staffing levels, correctional officer data, inmate counts, bonus programs, and overtime procedures at MCC New York. These include requests for historical data and comparisons between authorized and onboard staff.",
+      "timestamp": "2019-08-14T00:00:00",
+      "timestamp_raw": "14 Aug 2019",
+      "keywords": [
+        "overtime",
+        "mandatory ot",
+        "volunteer ot",
+        "correctional officers",
+        "mcc",
+        "staffing shortages",
+        "bop",
+        "data request",
+        "sign up logs",
+        "roster",
+        "shift analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00036559",
+            "similarity": 0.571,
+            "index": 69,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036695",
+      "summary": "The document consists of email exchanges regarding Special Administrative Measures (SAMs) used within a correctional facility, specifically ADX and 10 South. SAMs significantly limit inmate communication and are typically applied in national security cases. There are limited SAM inmates housed in 10 South and ADX. The sender confirms “SAMs” are the common term and provides contact information for further discussion. One individual is out of custody the following day and intends to call to catch up.",
+      "timestamp": "2019-08-16T00:00:00",
+      "timestamp_raw": "16 Aug 2019",
+      "keywords": [
+        "adx",
+        "sam memos",
+        "inmate",
+        "usps",
+        "special administrative measures",
+        "10 south",
+        "communication",
+        "national security",
+        "confinement",
+        "tour"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036608",
+      "summary": "Staffing for Temporary Duty (TDY) assistance at MCC New York (NYM) includes: 1 Warden, 1 Deputy Warden, 1 Deputy Captain, 12 Lieutenants, 15 Correctional Officers (8 Custody, 7 Non-Custody), 1 Case Management Coordinator/CMC, 1 Supervisory Correctional Systems Specialist/SCSS, and 3-4 Correctional Systems Officers. Additional TDY officers will be scheduled on a rotational basis.  Additionally, teams are being developed for operational reviews, procedure recommendations, and staff training in Correctional Services, Correctional Services Expertise, Correctional Services Team, and Correctional Programs. The Correctional Services Administrator will return August 19, 2019, and the sender requests a list of personnel added to MCC, including the warden, lieutenants, and correctional officers.",
+      "timestamp": "2019-08-19T00:00:00",
+      "timestamp_raw": "August 19, 2019",
+      "keywords": [
+        "tdy",
+        "mcc nym",
+        "correctional officers",
+        "staffing",
+        "procedures",
+        "inmate accountability",
+        "special housing unit",
+        "r&d",
+        "training",
+        "warden"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027969",
+      "summary": "On August 21, 2019, items 1820 and 1821 were transferred from the OTD Digital Evidence Laboratory to SA and SA at approximately 12:06 AM. This transfer is documented within a chain of custody package (LA package) related to a death investigation involving Jeffrey Epstein, case ID 90A-NY-3151227.",
+      "timestamp": "2019-08-21T00:00:00",
+      "timestamp_raw": "August 21, 2019",
+      "keywords": [
+        "chain of custody",
+        "digital evidence",
+        "fbi",
+        "electronic communication",
+        "jeffrey epstein",
+        "victim",
+        "evidence lab",
+        "new york",
+        "90a-ny-3151227",
+        "forensic analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00033574",
+      "summary": "On August 29, 2019, Special Agent Wheeler returned property belonging to MICHAEL THOMAS to SHANNON FARRAR, representing Michael Thomas, at the LAW OFFICES OF MONTELL FIGGINS in Newark, New Jersey. The returned property included an APPLE iPhone XS (IMEI). A signed FD-597 and a copy of the FD-1004 Chain of Custody were also provided. The FBI Evidence Control Unit is requesting a change in the status of evidence item 1B44 to reflect the permanent return to the owner's lawyer.",
+      "timestamp": "2019-08-29T00:00:00",
+      "timestamp_raw": "August 29, 2019",
+      "keywords": [
+        "fbi",
+        "michael thomas",
+        "return of property",
+        "shannon farrar",
+        "fd-1004",
+        "fd-597",
+        "electronic communication",
+        "new york",
+        "newark",
+        "evidence control unit"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027732",
+      "summary": "This document is a discovery letter from the U.S. Department of Justice, Southern District of New York, regarding the case of *United States v. Tom Noel*. It outlines the materials being provided to defense counsel, including surveillance footage, commissary records, computer analysis results, inmate records, BOP records related to Jeffrey Epstein, evidence custody documents, health records, personnel records, and social media records.  The Government is producing these materials under Rule 16(a) of the Federal Rules of Criminal Procedure and under a protective order. They also disclose potential Brady material (information that should have been disclosed to the defense but wasn't) regarding inmate statements.  The Government requests reciprocal discovery from defense counsel, including access to the defendant’s books and records, prior witness statements, and a response to a Rule 12.3 demand regarding a claim of exercise of public authority. Finally, the letter emphasizes the Government’s policy regarding plea offers and highlights the potential for a sentence reduction if the defendant pleads guilty before the trial date.",
+      "timestamp": "2019-12-31T00:00:00",
+      "timestamp_raw": "December 31, 2019",
+      "keywords": [
+        "u.s. department of justice",
+        "southern district of new york",
+        "tom noel",
+        "mcc",
+        "surveillance footage",
+        "credit reports",
+        "financial records",
+        "inmate records",
+        "cell phone records",
+        "social media",
+        "protective order",
+        "discovery",
+        "bop",
+        "jeffrey epstein",
+        "tova noel"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018736",
+      "summary": "This document contains redaction analysis data pertaining to inmate Jeffrey Edward Epstein (Reg. No. 76318-054) held within a facility. It includes records from various NCRBM (National Correction Records Bureau) forms, detailing his quarters assignments (dated between July 7th and August 10th, 2019), CIM clearances, disciplinary actions (none recorded), security designations (including sex trafficking suspicion and designations), a male custody classification form, and an inmate profile. The profile outlines his demographics, contact information, assignment history (focused on mental health care and education), and relevant details like his date of birth and physical characteristics. The data indicates a lack of specific records for certain categories, such as a security designation record and a custody classification record.",
+      "timestamp": "2020-04-29T00:00:00",
+      "timestamp_raw": "04-29-2020",
+      "keywords": [
+        "jeffrey edward epstein",
+        "inmate",
+        "ncrbm",
+        "date",
+        "assignment",
+        "function",
+        "nym",
+        "house",
+        "sex trafficking",
+        "crime",
+        "discipline",
+        "custody",
+        "76318-054"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010360",
+      "summary": "On July 2, 2020, a communication was sent to NHD-SUPERVISORS regarding Ghislaine Maxwell’s custody at Merrimack DOC. Restrictions were implemented, including close monitoring, 15-minute observation watches, documented rounds, restricted staff communication, and limited communication with legal counsel (Lawrence Vogelman).  Supervisory Deputies were instructed not to make press statements and to track video footage from the medical cell via a designated form. EFTA00010360 was referenced.",
+      "timestamp": "2020-07-02T00:00:00",
+      "timestamp_raw": "July 2, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "custody",
+        "merrimack doc",
+        "srt personnel",
+        "usms",
+        "lawrence vogelman",
+        "restrictions",
+        "supervision",
+        "observation watch",
+        "inmate maxwell"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00010358",
+            "similarity": 1.0,
+            "index": 80,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00027469",
+            "similarity": 0.818,
+            "index": 81,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00014910",
+      "summary": "On July 2, 2020, a request was made to include Chris Everdell and Mark Cohen, Ghislaine Maxwell’s New York attorneys, in the list of permitted contacts for phone communication.  Restrictions were established regarding Maxwell’s stay at Merrimack DOC, including specific housing arrangements, observation times, documentation requirements for rounds and camera footage, and limitations on staff communication with the inmate, particularly regarding media inquiries.  Lawrence Vogelman was authorized as the primary legal contact, requiring a PIN for communication.",
+      "timestamp": "2020-07-02T00:00:00",
+      "timestamp_raw": "July 2, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "custody",
+        "vogelman",
+        "new york attorneys",
+        "everett",
+        "cohen",
+        "merrimack doc",
+        "srt personnel",
+        "united states marshal",
+        "supervision"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010358",
+      "summary": "On July 2, 2020, a U.S. Marshals Service supervisory deputy from the District of New Hampshire issued directives regarding Ghislaine Maxwell’s custody at Merrimack DOC. The directives included: housing in MI, SRT personnel posted in medical, a 15-minute observation watch, documented rounds, downloading of touch probe rounds and camera footage, authorization for communication with legal counsel (Lawrence Vogelman) requiring a PIN, and a prohibition on staff making statements to the press.",
+      "timestamp": "2020-07-02T00:00:00",
+      "timestamp_raw": "July 2, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "custody",
+        "merrimack doc",
+        "usms",
+        "supervision",
+        "restrictions",
+        "inmate maxwell",
+        "lawrence vogelman",
+        "srt personnel",
+        "observation watch"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00010360",
+            "similarity": 1.0,
+            "index": 78,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00027469",
+            "similarity": 0.818,
+            "index": 81,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00027469",
+      "summary": "On July 2, 2020, a U.S. Marshals Service supervisory deputy communicated restrictions regarding Ghislaine Maxwell’s housing and monitoring at Merrimack DOC. These restrictions included: housing in MI, SRT personnel postings, limited staff communication, a 15-minute observation watch, documented rounds, downloading touch probe round video, authorized communication with legal counsel (Lawrence Vogelman) requiring a PIN, and a prohibition on staff contact with the press. The email was forwarded to NHD-SUPERVISORS (USMS) and included a standard disclaimer regarding sensitive information.",
+      "timestamp": "2020-07-02T00:00:00",
+      "timestamp_raw": "July 2, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "custody",
+        "usms",
+        "merrimack doc",
+        "srt personnel",
+        "observation watch",
+        "legal counsel",
+        "lawrence vogelman",
+        "restrictions",
+        "inmate maxwell"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00010358",
+            "similarity": 0.818,
+            "index": 80,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00010360",
+            "similarity": 0.818,
+            "index": 78,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014916",
+      "summary": "Several email exchanges discuss Ghislaine Maxwell’s custody arrangements, primarily involving communication with attorneys Chris Everdell and Mark Cohen of Cohen & Gresser LLP and USMS supervision.  Requests are made to include these attorneys in authorized contacts.  Restrictions on Maxwell's communication are outlined, including observation watches, limited interaction with staff, and authorization of contact only after receiving a PIN from Lawrence Vogelman. A USMS directive detailing monitoring protocols and communication restrictions is also included.",
+      "timestamp": "2020-07-03T00:00:00",
+      "timestamp_raw": "03 Jul 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "custody",
+        "chris everdell",
+        "mark cohen",
+        "cohen & gresser llp",
+        "usms",
+        "legal counsel",
+        "phone contact",
+        "merrimack doc",
+        "observation watch"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00024543",
+            "similarity": 0.538,
+            "index": 85,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00014912",
+            "similarity": 0.538,
+            "index": 86,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00010367",
+      "summary": "*   There are restrictions placed on Maxwell’s communication, including limited contact with her attorney, Lawrence Vogelman, requiring a PIN. *   Staff are instructed to closely monitor Maxwell and adhere to specific protocols regarding observation, rounds, and video documentation. *   A request is made to add Maxwell’s two New York attorneys, Chris Everdell and Mark Cohen, to the list of approved contacts. *   Supervisory Deputy United States Marshals are involved in overseeing Maxwell’s situation and communicating directives. *   The communication is highly sensitive due to the case’s high profile status.",
+      "timestamp": "2020-07-03T00:00:00",
+      "timestamp_raw": "03 Jul 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "custody",
+        "usms",
+        "vogelman",
+        "attorney",
+        "merrimack doc",
+        "supervision",
+        "restrictions",
+        "observation",
+        "communication"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00010362",
+            "similarity": 0.667,
+            "index": 87,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00010370",
+            "similarity": 0.538,
+            "index": 88,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00010364",
+      "summary": "*   Multiple individuals are requesting contact information for Ghislaine Maxwell’s legal counsel, specifically Lawrence Vogelman and his New York-based attorneys, Chris Everdell and Mark Cohen. *   There are restrictions placed on Maxwell’s communication and supervision while at Merrimack DOC, including observation watches, staff protocols regarding communication, and monitoring of camera footage. *   A request is made to add Vogelman’s New York counsel to a list of approved contacts for communication with Maxwell. *   The emails are related to the custody and monitoring of Ghislaine Maxwell during her incarceration.",
+      "timestamp": "2020-07-03T00:00:00",
+      "timestamp_raw": "03 Jul 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "custody",
+        "usms",
+        "lawyer",
+        "contact number",
+        "vogelman",
+        "new york attorneys",
+        "everdell",
+        "cohen",
+        "restrictions",
+        "observation watch"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024543",
+      "summary": "The document is a series of emails discussing the contact protocols for Ghislaine Maxwell while she is in US Marshals custody at Merrimack DOC. Key points include: *   Requests are made to add Cohen & Gresser LLP attorneys, Chris Everdell and Mark Cohen, to the list of individuals Maxwell is permitted to speak with. *   There are concerns about the \"touchy\" nature of one attorney (“he”) and the need for USMS approval for contact. *   Strict monitoring protocols are established regarding Maxwell’s communication, including observation watches, limited conversations, and documentation of all interactions. *   Lawrence Vogelman, Maxwell’s legal counsel, is authorized to provide a PIN for communication with her. *   US Marshals are instructed to maintain strict confidentiality regarding the case.",
+      "timestamp": "2020-07-03T00:00:00",
+      "timestamp_raw": "03 Jul 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "chris everdell",
+        "mark cohen",
+        "usms",
+        "legal counsel",
+        "attorney",
+        "cohen & gresser llp",
+        "custody",
+        "contact number",
+        "redaction"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00014916",
+            "similarity": 0.538,
+            "index": 82,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00014912",
+            "similarity": 0.667,
+            "index": 86,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00014912",
+      "summary": "This document is a series of emails concerning the custody arrangements for Ghislaine Maxwell while she is detained at Merrimack DOC. Key points include: *   Requests are made to include Chris Everdell and Mark Cohen, attorneys at Cohen & Gresser LIP, on a list of approved contacts for Maxwell to speak with. *   There are discussions about communication protocols, including observation watches, staff restrictions on conversation, and approvals from USMS (specifically Gene) for legal counsel contact (Lawrence Vogelman). *   Detailed operational restrictions are outlined regarding Maxwell’s housing, monitoring, and communication, including SRT personnel, medical observation, and video documentation. *   A US Marshals supervisor provides these directives and emphasizes the high-profile nature of the case.",
+      "timestamp": "2020-07-03T00:00:00",
+      "timestamp_raw": "03 Jul 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "chris everdell",
+        "mark cohen",
+        "cohen & gresser",
+        "usms",
+        "legal counsel",
+        "attorney",
+        "contact number",
+        "custody",
+        "merrimack doc"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00024543",
+            "similarity": 0.667,
+            "index": 85,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00014916",
+            "similarity": 0.538,
+            "index": 82,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010362",
+      "summary": "*   **Request for Attorney Access:** One individual requests the addition of two New York attorneys (Chris Everdell and Mark Cohen) to the list of people Maxwell is permitted to speak with. *   **Custody Restrictions:** Detailed restrictions are placed on Maxwell’s housing and interactions, including close monitoring, specific observation times, documented rounds, and limitations on communication. *   **Communication Protocol:** Contact with Maxwell is primarily through her legal counsel, Lawrence Vogelman, who provides a PIN for communication. Staff are instructed not to speak to Maxwell outside of standard health and safety protocols. *   **Documentation and Oversight:** Third shift supervisors are responsible for downloading video footage and maintaining records of rounds.",
+      "timestamp": "2020-07-03T00:00:00",
+      "timestamp_raw": "03 Jul 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "custody",
+        "usms",
+        "attorney",
+        "vogelman",
+        "new york",
+        "merrimack doc",
+        "surveillance",
+        "restrictions",
+        "communication"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00010367",
+            "similarity": 0.667,
+            "index": 83,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00010370",
+            "similarity": 0.818,
+            "index": 88,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00010370",
+      "summary": "A series of emails discuss the custody of Ghislaine Maxwell at Merrimack DOC. One request is made to add Chris Everdell and Mark Cohen, Maxwell’s New York attorneys, to a list of approved contacts. Restrictions are outlined regarding Maxwell’s stay, including close monitoring, specific housing arrangements, limited staff communication, a 15-minute observation watch, documented rounds, authorized communication with Lawrence Vogelman (upon PIN approval), and a prohibition on staff speaking to the press. The emails are associated with case file EFTA00010370 and EFTA00010371.",
+      "timestamp": "2020-07-03T00:00:00",
+      "timestamp_raw": "03 Jul 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "custody",
+        "attorney",
+        "vogelman",
+        "new york",
+        "usms",
+        "merrimack doc",
+        "surveillance",
+        "communication",
+        "legal counsel"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00010362",
+            "similarity": 0.818,
+            "index": 87,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00010367",
+            "similarity": 0.538,
+            "index": 83,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024786",
+      "summary": "A draft protective order was sent from [REDACTED] to [REDACTED] on July 9, 2020, regarding discovery. The sender, experiencing an unexpected in-custody arrest related to a probation violation, acknowledged potential pushback on the draft and requested feedback and edits. The draft document, attached as 2020-07-03,_GM,_protective_orderjor discovery JAJN).docx, was created for case EFTA00024786.",
+      "timestamp": "2020-07-09T00:00:00",
+      "timestamp_raw": "July 9, 2020",
+      "keywords": [
+        "protective order",
+        "redaction",
+        "draft",
+        "arrest",
+        "warrant",
+        "discovery",
+        "suggestions",
+        "comments",
+        "edits",
+        "efta00024786"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024788",
+      "summary": "*   Defense counsel has been experiencing difficulties requesting and scheduling these calls, leading to confusion about the established protocol. *   Requests for calls were made by defense counsel, and the coordinating team facilitated those calls, including one urgent request received mid-day. *   A judge issued a deadline for a court filing, necessitating immediate communication between Maxwell and her defense team, which was initially hindered by the scheduling issues. *   The coordinating team is working to ensure defense counsel understands and follows the established protocol for requesting legal calls.",
+      "timestamp": "2020-07-10T00:00:00",
+      "timestamp_raw": "10 Jul 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "usms",
+        "legal calls",
+        "defense counsel",
+        "court conference",
+        "request",
+        "protocol",
+        "mdc",
+        "arraignment",
+        "inmate"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015968",
+      "summary": "A protective order proposal was drafted by defense counsel (Laura Menninger and Haddon, Morgan & Foreman, P.C.) regarding a case involving pretrial publicity and discovery. The proposal includes clarifications and modifications to a previous version, specifically addressing: *   Defining “Confidential” information, aligning with Second Circuit case law and privacy rights. *   Removing a “Highly Confidential” category. *   Suggesting a laptop-based access for the government to provide the client with confidential discovery materials for review while in custody. *   Requiring explicit marking of documents as confidential rather than relying on cover letters. *   Maintaining the ability for the party receiving the order to dispute designations. The sender (Christian Everdell) emphasizes the importance of a jury trial and the need to protect witnesses from harassment, advocating for equitable access to discovery for all parties.  A confidentiality notice is included in each email.",
+      "timestamp": "2020-07-17T00:00:00",
+      "timestamp_raw": "17 Jul 2020",
+      "keywords": [
+        "protective order",
+        "confidentiality",
+        "discovery",
+        "redaction",
+        "witness",
+        "government",
+        "court",
+        "privacy",
+        "legal",
+        "access"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020479",
+      "summary": "On August 10, 2020, an anonymous female caller reported to the FBI that her father, an attorney residing in Tarpon Springs, FL, was a former recruiter for Jeffrey Epstein. The caller, who was 28 years old at the time, claimed she and her siblings were subjected to sex trafficking throughout their childhood, beginning at age four, with her father and other individuals acting as “pimps.” She stated she met Epstein around the time Ghislaine Maxwell was around. The caller described instances of forced sexual activity, a “thumb” controlling her, and a child who expresses fear of her father. She also claimed to have taken a photograph of Prince Andrew and Ghislaine Maxwell in 2001.  The caller is currently seeking full custody of her child and fears he may also be trafficked.",
+      "timestamp": "2020-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2020",
+      "keywords": [
+        "epstein",
+        "jeffrey",
+        "child sex trafficking",
+        "fbi",
+        "tarpon springs",
+        "anonymous",
+        "ghislaine",
+        "pimps",
+        "custody",
+        "memory"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013329",
+      "summary": "This document details a dispute regarding unequal access to discovery and counsel for Ghislaine Maxwell and Justin Rivera in the case of United States v. Rivera et al. Here’s a breakdown of the key points: *   **The Issue:** Judge Engelmayer is demanding an explanation from the Bureau of Prisons (BOP) why Ghislaine Maxwell receives significantly greater access to electronic discovery and in-person counsel visits than Justin Rivera, despite similar court orders. *   **Rivera’s Situation:** Justin Rivera, detained at the MCC, is receiving limited laptop access (3 hours/day) and restricted videoconference time (6 hours/week) due to his housing situation within the general population. *   **Maxwell’s Situation:** Ghislaine Maxwell, housed in protective custody at the MDC outside the general population, has access to 13 hours/day for electronic discovery review and 15 hours/week for videoconferences. *   **The Argument:** Defense counsel argues the disparity is due to different housing situations – Maxwell's unique protective custody allows for greater access. They also raise concerns about potential bias based on race, gender, and class. *   **The Request:** The United States Attorney’s Office is preparing a declaration from the BOP to justify the differing treatment, outlining the reasons for Maxwell's enhanced access. *   **Timeline:** The declaration is due by December 31st, and the attorneys are coordinating to identify a suitable declarant and draft the explanation.",
+      "timestamp": "2020-12-30T00:00:00",
+      "timestamp_raw": "December 30, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "justin rivera",
+        "discovery access",
+        "counsel access",
+        "vtc",
+        "mdc",
+        "mcc",
+        "housing",
+        "bop",
+        "electronic discovery",
+        "court orders",
+        "litigation",
+        "sex trafficking"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00013342",
+            "similarity": 0.647,
+            "index": 95,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00023074",
+            "similarity": 0.588,
+            "index": 96,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00030063",
+            "similarity": 0.5,
+            "index": 97,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00030058",
+      "summary": "Rivera et al.). The US Attorney’s Office is preparing a declaration for Judge Engelmayer explaining why the accommodations provided to Maxwell at the MDC – specifically 13 hours daily laptop access and 15 hours of videoconference meetings – cannot be extended to Rivera at the MCC. The key difference cited is their vastly different housing situations: Maxwell is in protective custody outside the general population with significantly more access, while Rivera is in the general population with limited access. The judge expressed concern about the disparity, suggesting it appeared racially motivated. The team is working to finalize the declaration by December 31st, aiming to explain the rationale behind the differing treatment to the court.",
+      "timestamp": "2020-12-31T00:00:00",
+      "timestamp_raw": "December 31, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "justin rivera",
+        "usanys",
+        "discovery access",
+        "counsel",
+        "shu",
+        "vtc",
+        "mcc",
+        "mdc",
+        "contraband cellphone",
+        "redaction"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00030063",
+            "similarity": 0.667,
+            "index": 97,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00013342",
+      "summary": "**Key Points:** *   **The Issue:** Judge Engelmayer has expressed concern that Rivera is receiving significantly less access to electronic discovery review (13 hours/week vs. 3 hours/week) and limited counsel visits (15 hours/week vs. 6 hours/week) compared to Maxwell. *   **Differing Housing:** The core reason cited for the difference is the distinct housing situations: Maxwell has protective custody outside the general population at the MDC, granting her sole access to a computer and phone for 13 hours daily, while Rivera is in the general population at the MCC. *   **Court Orders:** Both defendants have court orders in place requiring the BOP to provide laptop access and videoconferencing time. *   **Optics and Concerns:** Judge Engelmayer views the disparity as “terrible optics” and raises concerns about potential bias based on race, gender, and class. *   **Deadline:** The BOP declaration is due by December 31st. *   **Ongoing Cases:** The situation relates to the ongoing criminal case against Rivera and potentially the civil litigation with Maxwell. The document outlines a plan to identify a declarant, draft the declaration, and schedule a call to discuss the issue further.",
+      "timestamp": "2020-12-31T00:00:00",
+      "timestamp_raw": "December 31, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "justin rivera",
+        "discovery access",
+        "counsel access",
+        "usanys",
+        "mdc",
+        "mcc",
+        "vtc",
+        "declarations",
+        "bop",
+        "housing",
+        "electronic discovery",
+        "accommodations",
+        "disparities",
+        "court orders"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00013329",
+            "similarity": 0.647,
+            "index": 93,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00023074",
+            "similarity": 0.526,
+            "index": 96,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00030063",
+            "similarity": 0.526,
+            "index": 97,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00023080",
+            "similarity": 0.579,
+            "index": 98,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00023074",
+      "summary": "Assistant US Attorneys are responding to a request from Judge Engelmayer to explain why Maxwell receives significantly more favorable accommodations (specifically, 13 hours daily laptop access and 15 hours of video conference access) than Rivera at the MCC, where Rivera is housed in the general population. Key points include: *   **Disparity in Access:** Rivera receives only 3 hours of laptop access and 6 hours of video conferencing weekly, while Maxwell has substantially more. *   **Housing Differences:** Maxwell resides in protective custody at the MDC outside the general population, affording her exclusive access to a computer and phone for approximately 13 hours daily. Rivera is housed in the general population at the MCC. *   **Court Orders:** Both defendants have court-ordered access to technology, but the MCC’s implementation of these orders differs significantly. *   **Legal Arguments:** Defense counsel argues the disparity is due to race, gender, and class, raising concerns about potential bias. *   **Declaration Request:** The US Attorney’s office is preparing a declaration from the BOP to justify the differing treatment. *   **Timeline:** The deadline for the BOP declaration is December 31, 2020.",
+      "timestamp": "2020-12-31T00:00:00",
+      "timestamp_raw": "December 31, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "justin rivera",
+        "discovery access",
+        "counsel access",
+        "usanys",
+        "mdc",
+        "mcc",
+        "protective custody",
+        "electronic discovery",
+        "vtc",
+        "bop",
+        "declaration",
+        "litigation",
+        "sentencing"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00013342",
+            "similarity": 0.526,
+            "index": 95,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00013329",
+            "similarity": 0.588,
+            "index": 93,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00030063",
+            "similarity": 0.556,
+            "index": 97,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00023080",
+            "similarity": 0.526,
+            "index": 98,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00030063",
+      "summary": "Rivera et al.  Judge Engelmayer has requested a BOP declaration explaining why Maxwell receives significantly greater access to electronic discovery and counsel visits compared to Rivera. The key differences stem from their vastly different housing situations: Maxwell is in protective custody with 13 hours a day of computer access, while Rivera shares a VTC room with 80 other inmates. The US Attorney’s office is working to draft a declaration explaining these differences, citing the court's concern about the optics of the disparity. Rivera's defense counsel argues that Rivera is being treated differently due to race, gender, and class.",
+      "timestamp": "2020-12-31T00:00:00",
+      "timestamp_raw": "December 31, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "justin rivera",
+        "usanys",
+        "mcc",
+        "mdc",
+        "discovery access",
+        "counsel",
+        "bop",
+        "shu",
+        "vtc",
+        "redaction",
+        "litigation",
+        "accommodations",
+        "electronic discovery"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00023074",
+            "similarity": 0.556,
+            "index": 96,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00013342",
+            "similarity": 0.526,
+            "index": 95,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00030058",
+            "similarity": 0.667,
+            "index": 94,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023080",
+      "summary": "**Key Points:** *   **Disparity in Access:** Judge Engelmayer has flagged a significant difference in accommodations, finding the access provided to Maxwell (13 hours daily laptop access, 15 hours weekly video conferencing) markedly better than that afforded to Rivera (3 hours daily laptop access, 6 hours weekly video conferencing). *   **Housing Differences:** The core reason for the disparity is the differing housing situations: Maxwell is in protective custody at the MDC with sole access to a computer and phone for 13 hours a day, while Rivera is housed in the general population at the MCC and shares VTC room access with 80 other inmates. *   **Court Orders:** There are two court orders in place: a laptop order requiring 3 hours of daily laptop access for Rivera and a videoconference order requiring 4 hours weekly for Rivera. *   **Concerns Raised:** Defense counsel has expressed concerns about racial and class bias in the treatment of Rivera, prompting Judge Engelmayer to emphasize the optics of the situation. *   **Deadline:** The BOP declaration is due by December 31st, 2020. *   **Ongoing Cases:** The issue impacts both the criminal case against Rivera and potentially related civil litigation.",
+      "timestamp": "2020-12-31T00:00:00",
+      "timestamp_raw": "December 31, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "justin rivera",
+        "discovery access",
+        "counsel access",
+        "mdc",
+        "mcc",
+        "vtc",
+        "declaration",
+        "bop",
+        "housing",
+        "electronic discovery",
+        "court orders",
+        "sex trafficking",
+        "united states v. rivera",
+        "judge engelmayer"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00023074",
+            "similarity": 0.526,
+            "index": 96,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00013342",
+            "similarity": 0.579,
+            "index": 95,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00013329",
+            "similarity": 0.75,
+            "index": 93,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00013337",
+            "similarity": 0.812,
+            "index": 99,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00013337",
+      "summary": "This redacted document concerns a dispute over unequal access to discovery and counsel for Ghislaine Maxwell and Justin Rivera in related criminal cases. It outlines a request from Judge Engelmayer for a BOP declaration explaining why Maxwell’s superior accommodations – 13 hours daily laptop access and 15 hours of video conferencing – cannot be extended to Rivera, who is housed in the general population at the MCC. The core issue stems from differing housing situations: Maxwell is in protective custody outside the general population at the MDC, allowing significantly more access. Rivera, detained in the general population at the MCC, receives only three hours of laptop access and six hours of video conferencing. The document details the specific accommodations provided to each defendant and highlights concerns about potential racial bias in the treatment. The BOP is being asked to submit a declaration justifying the disparity, with the deadline for submission being December 31, 2020.",
+      "timestamp": "2020-12-31T00:00:00",
+      "timestamp_raw": "December 31, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "justin rivera",
+        "discovery access",
+        "counsel access",
+        "bop",
+        "mdc",
+        "mcc",
+        "vtc",
+        "electronic discovery",
+        "housing",
+        "judge engelmayer",
+        "sex trafficking",
+        "declarations",
+        "united states v. rivera"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00023080",
+            "similarity": 0.812,
+            "index": 98,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00013342",
+            "similarity": 0.611,
+            "index": 95,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00013329",
+            "similarity": 0.688,
+            "index": 93,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013290",
+      "summary": "Ghislaine Maxwell’s legal counsel, Bobbi C. Sternheim, reports multiple instances of physical and verbal mistreatment by MDC staff while Maxwell is in custody. These include inappropriate physical contact during searches (specifically a mammography-like squeeze and threats of assault), inconsistent and contradictory directives from staff, inadequate nutrition (including spoiled food and meal omissions), and a perceived lack of responsiveness to Maxwell’s concerns. Sternheim claims the treatment is escalating, suggesting a targeted campaign against Maxwell, and threatens legal action including complaints to the Attorney General’s Office and notification of the court if further incidents occur. The situation is further complicated by the circumstances surrounding Jeffrey Epstein’s death and concerns about potential negligence within the BOP. The email also includes a note regarding COVID-19 impacting office operations and communication methods.",
+      "timestamp": "2021-01-07T00:00:00",
+      "timestamp_raw": "07 Jan 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "mdc",
+        "staff mistreatment",
+        "disciplinary charge",
+        "epstein",
+        "bop",
+        "confinement",
+        "nutrition",
+        "guard efta00013290"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024888",
+      "summary": "Ghislaine Maxwell’s legal counsel, Bobbi C. Sternheim, is reporting ongoing mistreatment and threats by MDC staff while Maxwell is in custody. Specifically, she reports physical assault (including inappropriate touching during a body search), verbal threats, inconsistent and contradictory instructions from staff regarding her belongings and routines, and inadequate food provisions. Maxwell’s counsel expresses concern about her safety, requests a change in guarding team, and warns of potential legal action (complaints to the Attorney General’s Office and notification of the Court) if the situation doesn't improve, citing parallels to the Jeffrey Epstein case and the BOP’s negligence. The email also includes details about a COVID-19 related office closure and revised communication methods.",
+      "timestamp": "2021-01-07T00:00:00",
+      "timestamp_raw": "07 Jan 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "bobbi sternheim",
+        "mdc",
+        "staff",
+        "abuse",
+        "threats",
+        "nutrition",
+        "detention",
+        "epstein",
+        "bop",
+        "complaint"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025204",
+      "summary": "On March 8, 2021, Laura Menninger, representing the US Attorney's Office (USANYS), requested a review of “HIGHLY CONFIDENTIAL” nude/partially nude images and videos related to the US v. Maxwell case. Specifically, they requested the FBI to prepare these materials for review by Maxwell and her counsel at 500 Pearl Street by Wednesday or Thursday. The request included confirming the existence of specific image categories seized from Epstein’s residences and Florida investigation evidence. Additionally, they requested a similar inventory of physical evidence from FBI-NY custody and logistics for review at 500 Pearl Street.",
+      "timestamp": "2021-03-08T00:00:00",
+      "timestamp_raw": "March 8, 2021",
+      "keywords": [
+        "maxwell",
+        "epstein",
+        "fbi",
+        "usanys",
+        "evidence",
+        "images",
+        "videos",
+        "confidential",
+        "review",
+        "inventory"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025206",
+      "summary": "Attorney from the Southern District of New York is coordinating a call with legal counsel (Laura Mennin at Haddon, Morgan & Foreman, P.C., and associates) regarding access to evidence in the case *US v. Maxwell* (20 Cr. 330 (MN)). *   The U.S. Attorney is providing an index of physical items in FBI custody from the FBI-Miami office (Bates range SDNY_GM_00172218-SDNY_GM_00173007) and scans of related items. *   Laura Mennin confirms availability for a call on March 10th at 1:30 PM ET/ 11:30 AM MST and offers alternative times. *   The communication includes standard confidentiality notices regarding the transmitted information.",
+      "timestamp": "2021-03-09T00:00:00",
+      "timestamp_raw": "09 Mar 2021",
+      "keywords": [
+        "us v. maxwell",
+        "fbi",
+        "laura mennin",
+        "evidence",
+        "confidential materials",
+        "redaction",
+        "discovery",
+        "sdny",
+        "haddon morgan & foreman"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028845",
+      "summary": "The document records communications regarding the sharing of evidence in the US v. Maxwell case (20 Cr. 330 (AJN)).  FBI personnel, primarily [REDACTED], are responding to requests from defense counsel (represented by Laura Menninger of Haddon, Morgan & Foreman, P.C.) for access to highly confidential images and physical evidence related to the case, specifically concerning Jeffrey Epstein’s devices and residences.  The requests involve detailed questions about the quantity, format, and metadata of the images, as well as requests for access to physical evidence items and spaces to review them. There is a request for a comprehensive inventory of physical evidence in both FBI-NY and FBI-Florida custody. The communications highlight logistical challenges and a need for timely preparation of materials for review.",
+      "timestamp": "2021-03-15T00:00:00",
+      "timestamp_raw": "15 Mar 2021",
+      "keywords": [
+        "fbi",
+        "maxwell",
+        "evidence",
+        "images",
+        "confidential",
+        "devices",
+        "physical evidence",
+        "defense",
+        "review",
+        "tapes",
+        "files"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030101",
+      "summary": "The document details the FBI’s plan to provide Laura Menninger (representing the defense team) with evidence related to the US v. Maxwell case, specifically focusing on highly confidential nude/partially nude images and physical evidence. Here’s a breakdown of the key information: *   **Evidence Provided:** The FBI will provide three categories of images seized from Jeffrey Epstein’s devices (approximately 2,100 electronic images/videos, 3,400 discs, and 7 hard copy images). The FBI will also provide two spreadsheets detailing all physical evidence in their custody, separated by FBI Miami and New York offices. *   **Review Process:** The defense team can review the evidence at the FBI’s Bronx warehouse, subject to a two-week notice requirement, business hours, and the presence of FBI agents and a prosecutor. They can bring digital cameras (without internet connectivity) to photograph items. *   **Technical Considerations:**  Electronic files require Cellebrite software for review of Apple devices. Metadata may or may not be recoverable from damaged devices. *   **Media Review:** The FBI anticipates providing access to all electronic media (excluding witness statements) for review at the FBI's Manhattan office within approximately three weeks. *   **Communication & Scheduling:**  The parties coordinate calls to discuss the evidence and scheduling of reviews, with the FBI initially indicating a potential review date of May 18th.",
+      "timestamp": "2021-03-16T00:00:00",
+      "timestamp_raw": "16 Mar 2021",
+      "keywords": [
+        "fbi",
+        "epstein",
+        "images",
+        "evidence",
+        "discovery",
+        "confidential",
+        "metadata",
+        "electronic devices",
+        "bronx",
+        "review",
+        "new york",
+        "miami"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032465",
+      "summary": "Maxwell case (20 Cr. 330 (AJN)). The request outlines specific conditions for reviewing the evidence, primarily related to physical items seized from the Bronx warehouse and electronic media. Key points include: *   **Access to Physical Evidence:** The defense team requires access to photograph and inspect bulky, electronic, and fragile items at the Bronx warehouse, necessitating a lawyer, investigator, and paralegal presence. *   **Electronic Media Review:** The government will provide the necessary equipment to play recordings, but the defense needs to inspect the outside of the recordings. Segregation of recordings based on \"witness statements\" is requested. *   **Space Requirements:** The defense needs a suitable space (potentially the largest proffer room or a locked courtroom) to accommodate the team and evidence. *   **Confidentiality:**  Strict protocols are in place for handling highly confidential materials, including the 2,100 images and 7 hard-copy materials. The FBI will provide a single laptop for reviewing the electronic images. *   **Timeline:** The FBI proposes arranging for the client to be produced to 500 Pearl Street during the week of April 12th and April 19th, followed by daily reviews. *   **Ongoing Communication:** Frequent communication is essential to address any issues or disagreements, and the FBI will provide updates on the availability of equipment and the status of the evidence review. *   **Excel Spreadsheet:** The FBI provides an index of physical evidence in its custody, alongside a discovery cover letter, and requests information regarding the number of people who will be present for the physical evidence review.",
+      "timestamp": "2021-04-02T00:00:00",
+      "timestamp_raw": "02 Apr 2021",
+      "keywords": [
+        "evidence",
+        "photographs",
+        "bronx warehouse",
+        "electronic devices",
+        "recordings",
+        "government",
+        "client",
+        "inspection",
+        "highly confidential",
+        "discovery",
+        "materials",
+        "review"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038561",
+      "summary": "The document details a coordinated FBI investigation involving the “C-20” team assisting with the review of evidence related to the Maxwell case. Key elements include: *   **Initial Coordination:** Emails exchanged between FBI agents in the New York Field Office (NYFO) discussing a call to logistics regarding support for the case. *   **Logistics & Schedule:** The review will occur April 13-15, 2021, from 9:00 AM to 4:30 PM at 500 Pearl Street. Marshals will produce Maxwell, and FBI agents with handcuff keys will monitor her. *   **Roles & Responsibilities:** Agents will assist with evidence review, escorting Maxwell, and coordinating with the AUSA and defense team. SOS (another FBI agent) will be available for consultation. *   **Resource Allocation:** A list of available FBI agents is provided, with requests for two or three agents per day. Proffer rooms are reserved for the review.",
+      "timestamp": "2021-04-09T00:00:00",
+      "timestamp_raw": "09 Apr 2021",
+      "keywords": [
+        "fbi",
+        "new york",
+        "maxwell",
+        "evidence",
+        "review",
+        "agent",
+        "case",
+        "500 pearl street",
+        "custody",
+        "handcuff key",
+        "trafficking",
+        "proffer",
+        "ausa"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038565",
+      "summary": "The document is an email chain regarding FBI assistance with a case involving a suspect named Maxwell. Agents are being requested to provide support at 500 Pearl Street from April 13th to 15th for evidence review and monitoring of Maxwell.  Specifically, agents are needed to pull Maxwell from Marshal custody, monitor her during the review, and escort her to the bathroom. An Assistant US Attorney (AUSA) and a Special Operations Section (SOS) agent will also be present.  Logistics, including prisoner transport and evidence handling, are being coordinated.",
+      "timestamp": "2021-04-09T00:00:00",
+      "timestamp_raw": "09 Apr 2021",
+      "keywords": [
+        "fbi",
+        "maxwell",
+        "evidence",
+        "review",
+        "500 pearl street",
+        "agents",
+        "handcuffs",
+        "prisoner",
+        "trafficking",
+        "investigation"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026926",
+      "summary": "Bobbi Sternheim contacted [REDACTED] requesting assistance in allowing Ghislaine Maxwell access to her legal materials while in custody. [REDACTED] responded that they would forward the request to the USMS and noted no objection, and Sternheim inquired about obtaining a court order from the Marshal. Sternheim’s law office provided contact information and a Covid-19 notice regarding their remote operations.",
+      "timestamp": "2021-04-14T00:00:00",
+      "timestamp_raw": "14 Apr 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "bobbi c sternheim",
+        "marshals",
+        "court order",
+        "usms",
+        "legal materials",
+        "cell block",
+        "covid-19",
+        "correspondence"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038560",
+      "summary": "On April 15, 2021, the FBI New York Field Office requested assistance (C-20 request) to support a review of evidence involving Maxwell and her defense team at 500 Pearl Street. Squad C-20 needed two or three agents to assist from April 13th to 15th, from 9:00 AM to 4:30 PM daily. The FBI agents would monitor Maxwell, who would be produced by Marshals, and provide custody. Three proffer rooms were reserved for evidence review, private defense meetings, and a break area.",
+      "timestamp": "2021-04-15T00:00:00",
+      "timestamp_raw": "April 15, 2021",
+      "keywords": [
+        "fbi",
+        "maxwell",
+        "evidence review",
+        "proffer room",
+        "agents",
+        "defense team",
+        "500 pearl street",
+        "marshals",
+        "handcuff key",
+        "inmate monitoring"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00022514",
+      "summary": "Defense counsel, Cohen & Gresser LLP, are requesting a court order directing the Material Transfer Custody (MDC) to accept two hard drives containing discovery materials for Ghislaine Maxwell’s review. The hard drives, created from a master set, organize discovery excluding “Highly Confidential” materials into a more user-friendly format. The government has indicated no objection to the request, but requires the MDC legal department to note any objections. The request seeks to facilitate Maxwell’s review of discovery materials within the MDC.",
+      "timestamp": "2021-04-30T00:00:00",
+      "timestamp_raw": "April 30, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states",
+        "court",
+        "discovery",
+        "protective order",
+        "hard drives",
+        "mdc",
+        "defense counsel",
+        "government",
+        "criminal case"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015083",
+      "summary": "On October 6, 2021, at 12:30 PM, the New York State Division of Criminal Justice Services responded to a delayed NCIC inquiry from the Los Angeles County Sheriff’s Office. The inquiry involved a search of the NCIC Protection Order File related to a subject with restrictions including: a stay-away order from a protected person and their residence/employment, restrictions on communication, prohibition of firearm possession, and temporary exclusive custody of a child. The response included warnings about unauthorized NCIC information release and adherence to CJIS security policies and regulations.",
+      "timestamp": "2021-10-06T00:00:00",
+      "timestamp_raw": "October 6, 2021",
+      "keywords": [
+        "ncic",
+        "fbi",
+        "new york",
+        "criminal justice services",
+        "protection order",
+        "dna",
+        "restraining order",
+        "firearms",
+        "communication",
+        "restricted files"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023125",
+      "summary": "A request was submitted to the Bureau of Prisons (BOP) seeking information related to the death of Jeffrey Epstein while in federal custody at the Metropolitan Correctional Center (MCC) in NYC. The requestor, the sole heir and next of kin, seeks the same information released to the New York Times via a FOIA request, including: *   A copy of the August 9th, 2019 video tape from the SHU. *   A list of inmates on that tier and their transfer history. *   Information on personnel directing actions on that tier and those present with EMTs. *   A copy of any incident report related to the movement of Epstein’s body before the medical examiner arrived. A legal advisor instructed the requestor to submit a FOIA request to the BOP, specifically referencing the NYT release, and to forward a copy of the request to the Civil Division for processing.",
+      "timestamp": "2021-11-28T00:00:00",
+      "timestamp_raw": "28 Oct 2021",
+      "keywords": [
+        "foia",
+        "bop",
+        "jeffrey epstein",
+        "mcc",
+        "shu",
+        "august 9th 2019",
+        "video tape",
+        "inmate list",
+        "civil division",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035810",
+      "summary": "On October 21, 2022, a Special Agent in Charge from the U.S. Department of Justice’s Office of the Inspector General requested the City of New York’s Office of the Chief Medical Examiner to transfer evidence related to OCME case file M19-019432, concerning Jeffrey Epstein. The request included evidence unit EU19-28179 (ligature/bed sheet material strip and chain of custody paperwork) and any other associated evidence. The OIG was to be notified upon readiness for pickup.",
+      "timestamp": "2022-10-21T00:00:00",
+      "timestamp_raw": "October 21, 2022",
+      "keywords": [
+        "efta00035810",
+        "doj oig",
+        "chief medical examiner",
+        "jeffrey epstein",
+        "ocme",
+        "evidence",
+        "chain of custody",
+        "m19-019432",
+        "eu19-28179",
+        "new york"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036016",
+      "summary": "On April 10, 2023, the Department of Justice’s Office of the Inspector General distributed a draft report titled “Investigation and Review of the Federal Bureau of Prisons’ Custody, Care, and Supervision of Jeffrey Epstein at the Metropolitan Correctional Center in New York, New York” to the FBI for review. The purpose was to allow the FBI to conduct a factual accuracy and sensitivity review of the report before its public release. The OIG requested the FBI to flag any inappropriate information for release, maintain a log of access, and emphasize the prohibition on further dissemination. The deadline for the FBI’s review and response was April 17, 2023.",
+      "timestamp": "2023-04-10T00:00:00",
+      "timestamp_raw": "April 10, 2023",
+      "keywords": [
+        "fbi",
+        "justice department",
+        "inspector general",
+        "federal bureau of prisons",
+        "jeffrey epstein",
+        "metropolitan correctional center",
+        "investigation",
+        "review",
+        "draft report",
+        "sensitivity review"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00036015",
+            "similarity": 0.818,
+            "index": 116,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00036015",
+      "summary": "On April 10, 2023, the Office of the Inspector General (OIG) of the Department of Justice released a draft report investigating the custody, care, and supervision of Jeffrey Epstein at the Metropolitan Correctional Center in New York. The draft report is intended for review by the FBI for factual accuracy and sensitivity. The FBI is requested to provide feedback by April 17, 2023, with restrictions on dissemination and discussion of the draft report outside of designated FBI personnel.",
+      "timestamp": "2023-04-10T00:00:00",
+      "timestamp_raw": "April 10, 2023",
+      "keywords": [
+        "fbi",
+        "justice department",
+        "inspector general",
+        "federal bureau of prisons",
+        "jeffrey epstein",
+        "metropolitan correctional center",
+        "new york",
+        "draft report",
+        "investigation",
+        "review"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00036016",
+            "similarity": 0.818,
+            "index": 115,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036014",
+      "summary": "The Office of the Inspector General (OIG) of the Department of Justice has prepared a draft report titled \"Investigation and Review of the Federal Bureau of Prisons' Custody, Care, and Supervision of Jeffrey Epstein at the Metropolitan Correctional Center in New York New York.\" This draft is being provided to the U.S. Attorney’s Office for the Southern District of New York (SDNY) for a factual accuracy and sensitivity review. SDNY is instructed to provide feedback by April 17, 2023, and to limit access to the draft report to only those employees who need to review it.",
+      "timestamp": "2023-04-17T00:00:00",
+      "timestamp_raw": "April 17, 2023",
+      "keywords": [
+        "efta00036014",
+        "federal bureau of prisons",
+        "jeffrey epstein",
+        "metropolitan correctional center",
+        "new york",
+        "u.s. attorney",
+        "inspector general",
+        "investigation",
+        "report",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035925",
+      "summary": "The BOP acknowledges the OIG’s review and intends to apply lessons learned across the agency. Key points of the BOP’s response include: *   **Focus on Accountability:** The BOP believes employees who fail to adhere to policies should be held accountable, but cautions against applying a single incident to the entire workforce. *   **Addressing Recommendations:** The BOP disagrees with the OIG’s assumption that flawed policies led to the death and offers specific responses to each recommendation: *   **Cellmate Assignments:** Agrees to a process for assigning cellmates after suicide watch, contingent on security concerns. *   **Continued Cellmates:** Agrees to continue cellmates for high-risk individuals until recommendations change. *   **Social/Legal Visit Approvals:** Agrees to evaluate and train for obtaining approvals for visits during suicide watch. *   **Accountability for Movemennt:** Agrees to improve methods of holding employees accountable for documenting inmate whereabouts. *   **Lieutenant Round Procedures:** Agrees to clarify the required duties for a lieutenant during rounds. *   **Cell Search Policy:** Disagrees with a specific, detailed cell search policy, asserting that current policies are sufficient. *   **Security Camera Systems:** Agrees to enhance policies to ensure cameras have recording capacity and are regularly checked. *   **Concerns with the Report:** The BOP expresses concerns about the report’s language, inconsistencies, and implied accusations regarding awareness of Epstein’s will and camera issues. *   **Commitment to Improvement:** The BOP states its ongoing commitment to improving its practices and ensuring the safety and security of individuals in its custody.",
+      "timestamp": "2023-06-16T00:00:00",
+      "timestamp_raw": "June 16, 2023",
+      "keywords": [
+        "bop",
+        "corrections",
+        "suicide watch",
+        "cellmates",
+        "policies",
+        "accountability",
+        "training",
+        "mental health",
+        "security",
+        "risk assessment"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035824",
+      "summary": "The Department of Justice Office of the Inspector General (OIG) investigated the custody, care, and supervision of Jeffrey Epstein at the Metropolitan Correctional Center in New York (MCC New York) following his death by suicide. The investigation found numerous failures by MCC New York staff, including: *   Failure to ensure Epstein had a cellmate after a previous suicide watch incident. *   Failure to conduct required inmate counts and rounds as mandated by BOP policy. *   Falsification of BOP records regarding inmate counts and rounds. *   Presence of excessive bedding and linens in Epstein’s cell, used to create a noose. The OIG determined there was no criminality associated with Epstein's death, but identified significant misconduct and operational challenges within the Bureau of Prisons (BOP) that contributed to the situation. Nine recommendations were made to improve BOP management, and the BOP agreed to implement them.",
+      "timestamp": "2023-06-22T00:00:00",
+      "timestamp_raw": "June 22, 2023",
+      "keywords": [
+        "jeffrey epstein",
+        "metropolitan correctional center new york",
+        "bop",
+        "suicide",
+        "investigations",
+        "oig",
+        "inmate counts",
+        "policy violations",
+        "cellmate",
+        "misconduct"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036011",
+      "summary": "The Bureau of Prisons (BOP) is responding to an Office of Inspector General (OIG) report regarding Jeffrey Epstein’s custody at the Metropolitan Correctional Center in New York. The BOP acknowledges eight recommendations from the OIG report and outlines the steps they are taking to address them. These include: 1.  Implementing a process for assigning cellmates after suicide watch, with exceptions. 2.  Ensuring continued cellmate assignment for high-risk inmates recommended by psychologists. 3.  Evaluating and standardizing the process for obtaining approval for social/legal visits during suicide watch. 4.  Evaluating inmate whereabouts and wellbeing methods. 5.  Updating Lieutenant round procedures. 6.  Addressing staffing shortages through an automated tool and recruitment incentives. 7.  Improving cell search procedures through staff training. 8.  Enhancing security camera system policies to include regular functionality checks. The BOP states that RSD and CPD are collaborating on implementing these changes, with updates to the Correctional Services Procedures Manual planned.",
+      "timestamp": "2023-09-11T00:00:00",
+      "timestamp_raw": "September 11, 2023",
+      "keywords": [
+        "bop",
+        "suicide watch",
+        "cellmate",
+        "recommendations",
+        "bureau of prisons",
+        "security",
+        "risk assessment",
+        "psychological observation",
+        "visitation",
+        "staffing shortages"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035907",
+      "summary": "The Federal Bureau of Prisons (FBOP) is responding to the Office of the Inspector General’s (OIG) final report regarding Jeffrey Epstein’s custody at the Metropolitan Correctional Center in New York.  The FBOP has completed its review and offers updates on six recommendations made by the OIG: 1.  **Cellmate Assignment:** The FBOP states guidance on assigning cellmates following suicide watch is drafted and under review, with exemptions based on individual or security considerations. 2.  **Continued Cellmates for High-Risk Inmates:**  Similar guidance is being drafted to ensure continued cellmates for inmates at high risk, with exemptions. 3.  **Social/Legal Visit Approvals:**  Guidance on obtaining and documenting approvals for social and legal visits is being drafted, aiming to mitigate security issues. 4.  **Inmate Wellbeing Accounting:**  The FBOP is modifying Program Statement 5500.14 to improve accounting for inmate whereabouts and wellbeing. 5.  **Lieutenant Round Training:**  Program Statement 5500.14 is being modified to clarify Lieutenant training requirements including cell searches, emergency mock discussions, and daily briefings. 6.  **Staffing Shortages:** The FBOP is analyzing incentives and will implement the Automated Staffing Tool, along with utilizing direct-hire authority and a nationwide salary rate request. Additionally, the FBOP highlights ongoing efforts to address cell search procedures, documenting camera system functionality, and implementing a new Security Camera Monthly Report effective June 1, 2024. The FBOP requests closure of Recommendation 7 after completing its evaluations and providing documentation, and indicates it is actively working on finalizing policy updates for Recommendations 8 and other areas.",
+      "timestamp": "2024-06-01T00:00:00",
+      "timestamp_raw": "June 1, 2024",
+      "keywords": [
+        "fbop",
+        "bureau of prisons",
+        "suicide watch",
+        "cellmates",
+        "recommendations",
+        "rsd",
+        "cpd",
+        "staffing shortages",
+        "training",
+        "security cameras",
+        "policy",
+        "investigations",
+        "metropolitan correctional center",
+        "oig",
+        "incentives"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035781",
+      "summary": "The FBOP has completed its review of the OIG’s recommendations and is providing an update on their progress. **Key Points:** *   **Recommendations:** The OIG made six recommendations concerning inmate cellmates, suicide watch protocols, social/legal visits, camera systems, inmate whereabouts, and staffing shortages. *   **FBOP Response:** The FBOP is implementing changes to address these recommendations, primarily through modifications to Program Statements (5321.09, 5270.12, 5324.08, and 5500.14) and the implementation of a monthly security camera reporting system. *   **Current Status:**  The FBOP is currently in the process of finalizing guidance related to cellmate assignments, social/legal visits, and camera systems. The implementation of the monthly security camera reporting system is underway and began June 1, 2024. The FBOP has implemented a staffing tool (AST) and is actively analyzing data related to recruitment and retention incentives. *   **Ongoing Work:** The FBOP acknowledges that progress on some recommendations, particularly those related to staffing shortages and the national salary rate, is ongoing and subject to departmental and union negotiation processes. *   **Reporting System:** A new monthly security camera report is being implemented with specific requirements for electronic technicians and facility managers to document camera status and repairs.",
+      "timestamp": "2024-06-01T00:00:00",
+      "timestamp_raw": "June 1, 2024",
+      "keywords": [
+        "fbop",
+        "suicide watch",
+        "cellmate",
+        "program review",
+        "recommendations",
+        "oig",
+        "housing",
+        "security",
+        "policy",
+        "implementation",
+        "data",
+        "recording",
+        "camera systems",
+        "mental health",
+        "unit management",
+        "shu",
+        "truscope",
+        "union negotiation"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035798",
+      "summary": "On October 17, 2024, the U.S. Department of Justice (DOJ) Office of the Inspector General (OIG), via Special Agent S, transferred custody of evidence related to DOJ OIG Case Number 2019-010614 to the Federal Bureau of Investigation (FBI). The evidence included: 16 Redwell Folders containing FBI CARTS Clone of Metropolitan Correctional Center New York (MCC New York) DVR system hard drives, 18 hard drives from FBI Lab # HQQ190816001 containing Clone of MCC New York DVR 1 System, a Magneto Optical Storage with FBI CART Archive, a Diamond Audio MP3 Player with headphones, and several Redwell Folders containing supporting documents and analysis.  Supporting documentation, including custody forms and logs, were also provided.",
+      "timestamp": "2024-10-17T00:00:00",
+      "timestamp_raw": "October 17, 2024",
+      "keywords": [
+        "justice department",
+        "fbi",
+        "evidence",
+        "custody",
+        "doj oig",
+        "new york city",
+        "redwell folders",
+        "dvr system",
+        "hard drives",
+        "fingerprint analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035776",
+      "summary": "The Federal Bureau of Prisons (BOP) is responding to the Office of the Inspector General’s (OIG) final report regarding Jeffrey Epstein’s custody at the Metropolitan Correctional Center in New York. The BOP has completed a review and offers an update on its plans to address six recommendations made by the OIG. Here’s a breakdown of the key points: *   **Overall Approach:** The BOP is revising Program Statements (5321.09, 5324.08, 5500.14, 5500.15, 4200.12) to comply with the OIG’s recommendations. These revisions require adherence to the standard BOP policy development and Union negotiation processes, meaning changes are subject to modification. *   **Specific Recommendations & Responses:** *   **Cellmate Assignment:** The BOP is revising Program Statement 5321.09 to establish a process for assigning cellmates after suicide watch, with exceptions considered. *   **Continued Cellmate Placement:** The BOP is revising Program Statement 5321.09 to ensure inmates at high risk remain with a cellmate until recommendations are changed. *   **Social/Legal Visit Approvals:** The BOP is revising Program Statement 5324.08 to standardize the process for obtaining approvals for social/legal visits for inmates on suicide watch. *   **Inmate Wellbeing Accounting:** The BOP is revising Program Statement 5500.14 to improve accounting for inmate whereabouts and wellbeing. *   **Lieutenant Round Procedures:** The BOP is revising Program Statement 5500.14 to clarify Lieutenant procedures during rounds. *   **Staffing Shortages:** The BOP is analyzing staffing incentives and reducing incentive spending due to budget constraints. They are also exploring funding options for a nationwide special salary rate. *   **Security Camera Systems:** The BOP is revising Program Statements 5500.15 and 4200.12 to mandate video recording capacity and regular system functionality checks. *   **OIG Monitoring:** The OIG will continue to monitor the BOP’s progress and consider closing recommendations once final policies are finalized and provided to the OIG for review.  The OIG will also track updates related to GAO and Congressional inquiries. *   **Ongoing Efforts:** The BOP is actively engaged in implementing these changes, though progress is contingent on the Union negotiation process and budgetary constraints.",
+      "timestamp": "2025-06-30T00:00:00",
+      "timestamp_raw": "June 30, 2025",
+      "keywords": [
+        "bop",
+        "jeffrey epstein",
+        "metropolitan correctional center",
+        "suicide watch",
+        "cellmates",
+        "program statement",
+        "union negotiation",
+        "staffing shortages",
+        "security cameras",
+        "risk assessment"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036756",
+      "summary": "This document is a volunteer sign-up for Non-Custody staff to cover custody posts over the weekend of August 10th and 11th at the Metropolitan Correctional Center in New York. Specific posts needing coverage are listed by shift (MW, DW, EW, Control) and location (SHU numbers, OP numbers, etc.). Supervisors must be notified in advance to work these shifts, and sign-ups should be coordinated with the Lieutenants Office at extension 6450.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "volunteer",
+        "custody",
+        "staff",
+        "sign-up",
+        "weekend",
+        "shift",
+        "supervisor",
+        "metropolitan correctional center",
+        "new york",
+        "efta00036756"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00036366",
+            "similarity": 0.667,
+            "index": 50,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00036405",
+            "similarity": 0.667,
+            "index": 49,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036447",
+      "summary": "This document outlines a suicide prevention program for inmates, primarily focused on minimizing liability for correctional agencies. Key points include: *   **High Liability Risk:** Inmate suicides pose significant liability risks for agencies and staff. *   **Statistics (FY 2012):** 29 suicides and 1,304 attempts were recorded, with a large percentage (62%) linked to mental illness and sex offenses. *   **Comprehensive Program:** The program mandates staff training, referrals to psychology, and continuous suicide watches. *   **Watch Procedures:** Watches are conducted with visual supervision, requiring detailed log entries (minimum 15-minute intervals) to monitor inmate behavior. *   **High-Risk Groups:** Pre-trial prisoners, mentally ill inmates, and those on protective custody are identified as high-risk. *   **Hot List:** Psychology provides a \"Hot List\" of inmates with potential suicidal tendencies. *   **Staff Responsibility:** Staff are required to report any concerns and prioritize communication with psychology, emphasizing the importance of consistent prevention efforts.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "suicide prevention",
+        "inmate suicide",
+        "mental illness",
+        "liability",
+        "suicide watch",
+        "psychology",
+        "correctional services",
+        "shu",
+        "referral",
+        "training",
+        "statistics",
+        "high-risk groups"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026660",
+      "summary": "This document is a personal history form completed for a defendant, Law Enforcement Senstone, taken into custody by the US Marshals Service. The form details the defendant's background, including personal information (name, address, family), medical history (conditions, medications, treatments), criminal history (arrests, convictions, aliases), security cautions (military, public officials, threats), and vehicle information. It also includes a checklist for arrestee processing and a section for additional information and risk assessments (e.g., planned murder, organized crime). Much of the information is redacted due to law enforcement sensitivity. The form is used to document the defendant's background for legal and investigative purposes.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "law enforcement",
+        "us marshals service",
+        "personal history",
+        "arrest",
+        "detention",
+        "federal custody",
+        "offense",
+        "criminal history",
+        "medications",
+        "psychiatric",
+        "injuries",
+        "address",
+        "date of birth",
+        "alias",
+        "security cautions",
+        "military",
+        "drugs",
+        "alcohol"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00033713",
+      "summary": "This is a Prisoner Custody Alert Notice for Jeffrey Edward Epstein (Prisoner Number: 76318054), issued by the U.S. Department of Justice, United States Marshals Service. The alert concerns a Sex Trafficking Conspiracy (18 USC 371) and indicates Mental Concerns, specifically Suicidal Tendencies. The document was prepared and received on December 27, 2025, and is a confidential form (USM-130).",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "jeffrey epstein",
+        "united states marshals service",
+        "prisoner alert",
+        "sex trafficking",
+        "conspiracy",
+        "mental concerns",
+        "suicidal tendencies",
+        "usms",
+        "redaction",
+        "efta00033713"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036540",
+      "summary": "Jeffrey Epstein, Registration Number 76318-054, was serving a pre-trial sentence of 66 years for sex trafficking conspiracy and sex trafficking of minors. He is Caucasian, male, 66 years old at the time of this record, and his custody status is unassigned/in.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "jeffrey epstein",
+        "inmate data",
+        "sex trafficking",
+        "sentencing",
+        "pre-trial release",
+        "race",
+        "caucasian",
+        "male",
+        "efta00036540"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    }
+  ]
+}

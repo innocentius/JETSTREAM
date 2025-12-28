@@ -1,0 +1,1346 @@
+{
+  "keyword": "cnn",
+  "count": 33,
+  "keyword_match_count": 33,
+  "content_match_count": 7,
+  "total_files": 40,
+  "timeline": [
+    {
+      "file_id": "EFTA00009977",
+      "summary": "On December 5, 2018, an Assistant Special Agent in Charge from the New York Field Office discussed a sealed Federal indictment related to Jeffrey Epstein with colleagues. A meeting was scheduled for December 6, 2018, to discuss next steps following the discussion.  On November 30, 2018, an Assistant United States Attorney proposed a call to determine a plan of action regarding information gathered on the Epstein matter, suggesting times of 3:00 or 3:30 PM. An article from the Miami Herald detailing a financial fraud case involving Epstein was shared.",
+      "timestamp": "2018-12-05T00:00:00",
+      "timestamp_raw": "December 5, 2018",
+      "keywords": [
+        "efta00009977",
+        "jeffrey epstein",
+        "indictment",
+        "fraud",
+        "case agents",
+        "new york field office",
+        "cnn",
+        "miami herald",
+        "trafficking",
+        "assistant special agent",
+        "united states attorney"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021275",
+      "summary": "An email chain discusses confirmation of Jeffrey Epstein’s arrest following his arrival at Teterboro Airport, NJ. One party (USANYS) confirms CNN is inquiring about the arrest. Discussions revolve around potential search warrants, specifically for Epstein’s Manhattan residence and whether the arrest relates to a “SW” (likely short for “special watch”) arrangement. Redactions obscure sender and recipient identities.",
+      "timestamp": "2019-07-06T00:00:00",
+      "timestamp_raw": "06 Jul 2019",
+      "keywords": [
+        "epstein",
+        "usanys",
+        "arrest",
+        "teterboro",
+        "search warrants",
+        "cnn",
+        "nyc",
+        "residence",
+        "plane",
+        "sw"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034637",
+      "summary": "Jeffrey Epstein appeared in federal court on Monday, July 8, 2019, in connection with federal sex trafficking charges. He was released on bond following a hearing where the judge raised concerns about his potential to flee and ordered him to be monitored electronically. The court set a hearing for July 23, 2019.",
+      "timestamp": "2019-07-08T00:00:00",
+      "timestamp_raw": "July 8, 2019",
+      "keywords": [
+        "efta00034637",
+        "redaction analysis",
+        "cnn",
+        "jeffrey epstein",
+        "court appearance",
+        "sdny",
+        "confidential"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018706",
+      "summary": "A CNN article, dated July 12, 2019, reports that Jeffrey Epstein allegedly hired private investigators to stalk his victims. The email correspondence is between [REDACTED] and [REDACTED], with [REDACTED] copied. The article’s URL is https://www.cnn.cotn/2019/07/12/usdeffery-epstein-witness-intimidation index.html.",
+      "timestamp": "2019-07-12T00:00:00",
+      "timestamp_raw": "July 12, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "private investigators",
+        "stalking",
+        "victims",
+        "cnn",
+        "redaction",
+        "analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035635",
+      "summary": "Inmate #76318-054 was placed on Psychological Observation due to deteriorating mental status, specifically exhibiting disorganized thinking, poor self-care, and an unpredictable behavior pattern. This observation occurred following a self-mutilation incident and a guilty plea to mailing improvised explosive devices to prominent Democratic figures, including former President Obama, Vice President Biden, and Secretary Clinton. He was previously on Suicide Watch and has been moved to Psychological Observation until tomorrow for reassessment. He is currently being evaluated at Health Services and will meet with his attorney following the assessment. He will be housed in the Special Housing Unit (SHU) with inmate I after his attorney visit.",
+      "timestamp": "2019-07-24T00:00:00",
+      "timestamp_raw": "7/24/2019",
+      "keywords": [
+        "inmate",
+        "psychological observation",
+        "suicide watch",
+        "shu",
+        "mental illness",
+        "self-mutilation",
+        "protective custody",
+        "federal medical center",
+        "cnn",
+        "inmate epstein"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00035585",
+            "similarity": 0.571,
+            "index": 5,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035585",
+      "summary": "Inmate Epstein (#76318-054) was placed on Psychological Observation due to a deterioration of mental status, including disorganized thinking and poor self-care, following a self-mutilation incident and drug intoxication/withdrawal. He was previously on Suicide Watch and has been escorted to Health Services for an assessment and will subsequently meet with his attorney. The Psychological Observation status is a temporary designation until the inmate stabilizes. The inmate pleaded guilty to mailing improvised explosive devices to prominent Democratic figures, including Barack Obama, Joe Biden, Hillary Clinton, Cory Booker, Kamala Harris, and CNN, and is currently in Special Housing Unit (SHU) due to requesting protective custody.",
+      "timestamp": "2019-07-24T00:00:00",
+      "timestamp_raw": "24 Jul 2019",
+      "keywords": [
+        "epstein",
+        "psychological observation",
+        "suicide watch",
+        "shu",
+        "inmate",
+        "mental illness",
+        "self-mutilation",
+        "protective custody",
+        "barack obama",
+        "joe biden",
+        "hillary clinton",
+        "cnn"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035635",
+            "similarity": 0.571,
+            "index": 4,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037306",
+      "summary": "An FBI agent from the New York Division (NY) received an email from Mirna Alsharif of CNN regarding a report of a sexual assault involving Jeffrey Epstein and Ghislaine Maxwell in 1996. The email included an excerpt from the Miami Herald detailing a new victim's affidavit claiming she was assaulted and her sister molested. Alsharif requested verification of a document's existence related to this report.",
+      "timestamp": "2019-07-26T00:00:00",
+      "timestamp_raw": "26 Jul 2019",
+      "keywords": [
+        "cnn",
+        "jeffrey epstein",
+        "sexual assault",
+        "fbi",
+        "new york",
+        "miami herald",
+        "affidavit",
+        "ghislaine maxwell",
+        "1996",
+        "efta00037306"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00037291",
+            "similarity": 0.667,
+            "index": 7,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037287",
+            "similarity": 0.667,
+            "index": 8,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037285",
+            "similarity": 0.818,
+            "index": 9,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037291",
+      "summary": "Emails between individuals at the FBI’s New York Field Office (Criminal - Branch C) and CNN regarding a potential victim of Jeffrey Epstein’s crimes. The victim, identified as Mirna Alsharif, claims she was sexually assaulted by Epstein and Ghislaine Maxwell in 1996 and reported the assault to the FBI in 1996. The emails discuss verification of a document related to this claim, referencing a Miami Herald report and Alsharif’s affidavit. A separate email from a “MAC” at the New York Field Office inquires about the victim’s connection to Sentinel and a 2006-2007 investigation.",
+      "timestamp": "2019-07-29T00:00:00",
+      "timestamp_raw": "29 Jul 2019",
+      "keywords": [
+        "cnn",
+        "jeffrey epstein",
+        "sexual assault",
+        "fbi",
+        "ghislaine maxwell",
+        "new york",
+        "1996",
+        "affidavit",
+        "victim",
+        "modeling"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037306",
+            "similarity": 0.667,
+            "index": 6,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00037287",
+            "similarity": 1.0,
+            "index": 8,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00037285",
+            "similarity": 0.818,
+            "index": 9,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00037289",
+            "similarity": 0.667,
+            "index": 10,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037287",
+      "summary": "An FBI New York agent received an email from CNN regarding a potential victim of Jeffrey Epstein, who reported a 1996 sexual assault and her then-15-year-old sister's molestation. The agent forwarded the email to colleagues, including SSA and the New York Field Office Criminal Branch, requesting verification of a document related to the alleged assault. The CNN contact, Mima Alsharif, provided details about the victim's claims, including her employment by Epstein and observations of “school-age girls” at his mansion.",
+      "timestamp": "2019-07-29T00:00:00",
+      "timestamp_raw": "29 Jul 2019",
+      "keywords": [
+        "fbi",
+        "cnn",
+        "jeffrey epstein",
+        "sexual assault",
+        "ghislaine maxwell",
+        "new york",
+        "1996",
+        "affidavit",
+        "victim",
+        "modeling"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037291",
+            "similarity": 1.0,
+            "index": 7,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00037306",
+            "similarity": 0.667,
+            "index": 6,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00037285",
+            "similarity": 0.818,
+            "index": 9,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00037289",
+            "similarity": 0.667,
+            "index": 10,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037293",
+            "similarity": 0.667,
+            "index": 11,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037285",
+      "summary": "An FBI New York team is investigating a potential sexual assault case involving Jeffrey Epstein and Ghislaine Maxwell, reportedly dating back to 1996. A CNN contact, Mima Alsharif, is seeking verification of a document related to a victim who claims she was assaulted and her sister molested by Epstein and Maxwell. The victim, identified as a former employee who worked at Epstein's mansion, provided an affidavit to federal court detailing the alleged incidents. Correspondence between FBI agents and other parties discusses the victim’s sister being interviewed by the FBI in Palm Beach and the potential connection to Sentinel records.",
+      "timestamp": "2019-07-29T00:00:00",
+      "timestamp_raw": "29 Jul 2019",
+      "keywords": [
+        "cnn",
+        "fbi",
+        "jeffrey epstein",
+        "ghislaine maxwell",
+        "sexual assault",
+        "victim",
+        "affidavit",
+        "new york",
+        "1996",
+        "miami herald"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037287",
+            "similarity": 0.818,
+            "index": 8,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00037291",
+            "similarity": 0.818,
+            "index": 7,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00037306",
+            "similarity": 0.818,
+            "index": 6,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00037289",
+            "similarity": 0.667,
+            "index": 10,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037293",
+            "similarity": 0.818,
+            "index": 11,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00037281",
+            "similarity": 1.0,
+            "index": 12,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037289",
+      "summary": "An email chain discusses a CNN report regarding a potential sexual assault case involving Jeffrey Epstein and a victim. The victim, identified as Mirna Alsharif, claims she was sexually assaulted by Epstein and his companion Ghislaine Maxwell in 1996 and reported the assault to the FBI in 1996. The email exchange involves individuals from the FBI New York Field Office (Criminal Branch C), the FBI NY Division, and CNN, with requests to verify the document’s existence and investigate the claims. References are made to a 2006-2007 investigation and a Sentinel database search.",
+      "timestamp": "2019-07-29T00:00:00",
+      "timestamp_raw": "29 Jul 2019",
+      "keywords": [
+        "cnn",
+        "jeffrey epstein",
+        "fbi",
+        "sexual assault",
+        "investigation",
+        "maxwell",
+        "new york",
+        "victim",
+        "affidavit",
+        "1996"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037285",
+            "similarity": 0.667,
+            "index": 9,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037287",
+            "similarity": 0.667,
+            "index": 8,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037291",
+            "similarity": 0.667,
+            "index": 7,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00037293",
+            "similarity": 0.538,
+            "index": 11,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037281",
+            "similarity": 0.667,
+            "index": 12,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037283",
+            "similarity": 0.667,
+            "index": 13,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037293",
+      "summary": "An email chain discusses a potential victim of Jeffrey Epstein’s crimes, identified as a woman who reported an assault in 1996 and whose younger sister was interviewed by the FBI.  The emails originate from FBI New York (SSA and MAC), CNN, and an attorney.  The victim claims to have worked for Epstein, witnessed “school-age girls” at his mansion, and alleges her sister was molested by Epstein and Ghislaine Maxwell.  The emails request verification of a document related to this claim.",
+      "timestamp": "2019-07-29T00:00:00",
+      "timestamp_raw": "29 Jul 2019",
+      "keywords": [
+        "fbi",
+        "cnn",
+        "jeffrey epstein",
+        "sexual assault",
+        "victim",
+        "fbi new york",
+        "miami herald",
+        "ghislaine maxwell",
+        "1996",
+        "new york"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037289",
+            "similarity": 0.538,
+            "index": 10,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037285",
+            "similarity": 0.818,
+            "index": 9,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00037287",
+            "similarity": 0.667,
+            "index": 8,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00037281",
+            "similarity": 0.818,
+            "index": 12,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00037283",
+            "similarity": 0.818,
+            "index": 13,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00037301",
+            "similarity": 0.818,
+            "index": 14,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037281",
+      "summary": "The email chain discusses a potential interview with an individual who claims to have been sexually assaulted by Jeffrey Epstein and his companion, Ghislaine Maxwell in 1996. The individual reported the assault to the FBI in 1996.  Several parties, including FBI New York, SSA, and CNN, are involved in coordinating the investigation and verifying the existence of a related document. The individual’s younger sister was previously interviewed by the FBI in the Palm Beach investigation.  A Miami Herald article is referenced alleging the victim’s claims.",
+      "timestamp": "2019-07-29T00:00:00",
+      "timestamp_raw": "29 Jul 2019",
+      "keywords": [
+        "cnn",
+        "jeffrey epstein",
+        "fbi",
+        "sexual assault",
+        "victim",
+        "ghislaine maxwell",
+        "1996",
+        "affidavit",
+        "new york",
+        "miami herald"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037293",
+            "similarity": 0.818,
+            "index": 11,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00037289",
+            "similarity": 0.667,
+            "index": 10,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037285",
+            "similarity": 1.0,
+            "index": 9,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00037283",
+            "similarity": 1.0,
+            "index": 13,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00037301",
+            "similarity": 1.0,
+            "index": 14,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037283",
+      "summary": "An email chain discusses a potential victim of Jeffrey Epstein and Ghislaine Maxwell, who reported a 1996 sexual assault to the FBI. The victim, identified as Mima Alsharif, claims to have been employed by Epstein and witnessed underage girls being brought into his mansion for modeling auditions. A related individual, the victim's younger sister, was previously interviewed by the FBI in the Palm Beach investigation. The FBI New York division is investigating the claims and seeking verification of a document related to the case.",
+      "timestamp": "2019-07-29T00:00:00",
+      "timestamp_raw": "29 Jul 2019",
+      "keywords": [
+        "cnn",
+        "jeffrey epstein",
+        "fbi",
+        "sexual assault",
+        "ghislaine maxwell",
+        "victim",
+        "new york",
+        "1996",
+        "affidavit",
+        "miami herald"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037281",
+            "similarity": 1.0,
+            "index": 12,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00037293",
+            "similarity": 0.818,
+            "index": 11,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00037289",
+            "similarity": 0.667,
+            "index": 10,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00037301",
+            "similarity": 1.0,
+            "index": 14,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037301",
+      "summary": "An email chain originating from FBI New York discusses a potential report from CNN regarding a sexual assault case involving Jeffrey Epstein and Ghislaine Maxwell. The email thread includes inquiries about a woman who claims to have been assaulted in 1996 and reported the incident to the FBI. A CNN correspondent, Mirna Alsharif, is contacting the FBI to verify the existence of a document detailing this report, citing excerpts from the Miami Herald.",
+      "timestamp": "2019-07-29T00:00:00",
+      "timestamp_raw": "29 Jul 2019",
+      "keywords": [
+        "cnn",
+        "jeffrey epstein",
+        "fbi",
+        "sexual assault",
+        "victim",
+        "ghislaine maxwell",
+        "new york",
+        "miami herald",
+        "affidavit",
+        "1996"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037283",
+            "similarity": 1.0,
+            "index": 13,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00037281",
+            "similarity": 1.0,
+            "index": 12,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00037293",
+            "similarity": 0.818,
+            "index": 11,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027097",
+      "summary": "A communication thread, dated August 12, 2019, between Erica Orden (CNN reporter) and [REDACTED] regarding a question about prosecutors’ motivations in the Jeffrey Epstein case. The question was: “Is it fair to say prosecutors saw the case not only as a way to bring Epstein to justice but as a rebuke to the NPA?”  The sender, [REDACTED], requested guidance for Erica Orden to provide.",
+      "timestamp": "2019-08-12T00:00:00",
+      "timestamp_raw": "August 12, 2019",
+      "keywords": [
+        "efta00027097",
+        "redaction",
+        "erica orden",
+        "cnn",
+        "epstein",
+        "npa",
+        "prosecution",
+        "justice",
+        "statement",
+        "questions"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019240",
+      "summary": "CNN is investigating whether questions regarding Jeffrey Epstein’s 2015/2016 Florida plea deal – specifically concerning potential sex trafficking or human trafficking – were not escalated to senior leadership within the U.S. Attorney’s Office for the Southern District of New York. A CNN reporter contacted a U.S. Attorney’s Office AUSA and a reporter believes another has similar information. CNN anticipates competition will pursue a similar story if they don’t.",
+      "timestamp": "2019-08-16T00:00:00",
+      "timestamp_raw": "16 Aug 2019",
+      "keywords": [
+        "epstein",
+        "cnn",
+        "trafficking",
+        "plea deal",
+        "florida",
+        "ausa",
+        "redaction",
+        "u.s. attorney's office",
+        "southern district of new york",
+        "journalist"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00026563",
+            "similarity": 0.667,
+            "index": 17,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00018900",
+            "similarity": 0.667,
+            "index": 18,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00026563",
+      "summary": "A U.S. Attorney’s Office for the Southern District of New York public affairs team was contacted by CNN regarding a story about an individual who visited the office in 2015/2016 to inquire about Jeffrey Epstein’s plea deal. This individual, represented by an attorney, discussed the matter with a sex trafficking/human trafficking AUSA, but the issue was not escalated to senior leadership and was ultimately not pursued. CNN is considering pursuing the story based on this information, and the team sought guidance.",
+      "timestamp": "2019-08-16T00:00:00",
+      "timestamp_raw": "16 Aug 2019",
+      "keywords": [
+        "epstein",
+        "plea deal",
+        "florida",
+        "trafficking",
+        "cnn",
+        "ausa",
+        "southern district of new york",
+        "sex trafficking",
+        "human trafficking",
+        "u.s. attorney's office"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00019240",
+            "similarity": 0.667,
+            "index": 16,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00018900",
+            "similarity": 0.818,
+            "index": 18,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00018900",
+      "summary": "A U.S. Attorney’s Office for the Southern District of New York public affairs team was contacted regarding a CNN story investigating a 2015-2016 meeting between individuals and a U.S. Attorney’s Office AUSA regarding Jeffrey Epstein’s plea deal in Florida. The individuals, represented by an attorney, discussed raising questions about the plea deal with the AUSA, but the matter was not escalated to senior leadership. CNN anticipates another news outlet will pursue the story if they do not.",
+      "timestamp": "2019-08-16T00:00:00",
+      "timestamp_raw": "16 Aug 2019",
+      "keywords": [
+        "epstein",
+        "ausa",
+        "cnn",
+        "trafficking",
+        "plea deal",
+        "florida",
+        "sex trafficking",
+        "human trafficking",
+        "redaction",
+        "u.s. attorney's office"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00026563",
+            "similarity": 0.818,
+            "index": 17,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00019240",
+            "similarity": 0.667,
+            "index": 16,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037323",
+      "summary": "On August 17, 2019, CNN reporter Mima Alsharif contacted the New York Office (NYO) regarding a claim that she and her sister were sexually assaulted and molested by Jeffrey Epstein and Ghislaine Maxwell in 1996. The NYO had previously informed Alsharif that they couldn’t comment due to an ongoing investigation. A New York Times reporter subsequently contacted the NYO, along with Alsharif’s attorney Ingrid McColley, seeking verification of a notification to the FBI in 1996 and a 2006 interview. McColley claimed she contacted the FBI after Epstein’s arrest but received no response.  A search of NYO records revealed no record of Alsharif or McColley contacting the FBI after Epstein's arrest.  A former employee, C-20, stated she worked for Epstein's in the 1990s and provided details of interactions including a visit to his New Mexico ranch and alleged massages. The NY Times was preparing to publish a story based on this information.",
+      "timestamp": "2019-08-17T00:00:00",
+      "timestamp_raw": "August 17, 2019",
+      "keywords": [
+        "epstein",
+        "maxwell",
+        "fbi",
+        "cnn",
+        "miami herald",
+        "sexual assault",
+        "ghislaine maxwell",
+        "1996",
+        "nyo",
+        "foia"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024171",
+      "summary": "On September 13, 2019, the Chief, Criminal Division of the United States Attorney’s Office, SDNY, requested the forwarding of “more problematic articles” related to the release of USMS records concerning the Jeffrey Epstein investigation. He had received original USMS records (USM 11s) to address inaccuracies in initial press coverage and offer support with any investigation concerns. Links to articles from the Miami Herald and CNN were provided as examples.",
+      "timestamp": "2019-09-13T00:00:00",
+      "timestamp_raw": "September 13, 2019",
+      "keywords": [
+        "epstein",
+        "usms",
+        "documents",
+        "redaction",
+        "release",
+        "usanys",
+        "poia",
+        "investigation",
+        "miami herald",
+        "cnn"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023938",
+      "summary": "Attorney’s Office for the Southern District of New York, primarily focusing on several key areas of enforcement: **1. National Security & Terrorism:** The office has a history of prosecuting individuals involved in terrorism (Hizballah, ISIS), explosive threats (CNN, Hillary Clinton), and related crimes, including obtaining convictions against figures like Ali Kourani, Cesar Sayoc, Akayed Ullah, and Paul Rosenfeld. **2. International Sanctions Enforcement:** The office actively pursues violations of U.S. and international sanctions, exemplified by seizing the North Korean cargo vessel “Wise Honest” and prosecuting schemes involving illicit Iranian oil money. **3. Public Corruption:** The office investigates and prosecutes corruption involving public officials, including cases against the Personal Attorney to the President (Michael Cohen), state officials (Joseph Percoco and Alain Kaloyeros), NYPD officers (bribery related to gun licenses), and Sheldon Silver. **4. Fraud & Financial Crimes:** The office prosecutes a wide range of fraud schemes, including those involving healthcare (Medicare/Medicaid fraud), cybercrime (targeting financial institutions and intellectual property), Ponzi schemes, and securities fraud (Bank of New York Mellon). **5. Civil Rights Enforcement:** The office actively pursues civil rights cases, including those under the Americans with Disabilities Act (accessibility improvements for the MTA), Fair Housing Act violations, and cases involving police misconduct and inmate abuse. **6. Violent Crime & Gangs:** The office investigates and prosecutes violent crime, including murders, gang-related offenses (Blood Hound Brims), and drug trafficking. **7. Opioid Crisis Enforcement:** The office investigates and prosecutes individuals and companies involved in the distribution of opioid drugs. **8. Cybercrime:** The office investigates and prosecutes cybercrime cases of national and international significance, including attacks on financial institutions and intellectual property theft. The document highlights the office's multi-faceted approach to law enforcement, encompassing both criminal and civil investigations and prosecutions.",
+      "timestamp": "2019-10-07T00:00:00",
+      "timestamp_raw": "October 7, 2019",
+      "keywords": [
+        "terrorism",
+        "international narcotics",
+        "law enforcement",
+        "hizballah",
+        "cnn",
+        "explosives",
+        "isis",
+        "sanctions",
+        "fraud",
+        "bribery",
+        "corruption",
+        "cybercrime",
+        "opioids",
+        "civil rights",
+        "public health",
+        "environmental protection",
+        "mount vernon",
+        "healthcare fraud",
+        "fair housing act",
+        "mta",
+        "accessibility"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029179",
+      "summary": "CNN has received information indicating potential criminal charges related to Epstein/MCC are expected next week. The information originates from the U.S. Department of Justice, specifically the Public Affairs team within the U.S. Attorney's Office for the Southern District of New York.",
+      "timestamp": "2019-12-14T00:00:00",
+      "timestamp_raw": "14 Nov 2019",
+      "keywords": [
+        "epstein",
+        "mcc",
+        "cnn",
+        "justice",
+        "department",
+        "charges",
+        "announcement",
+        "redaction",
+        "southern district of new york",
+        "united states"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037230",
+      "summary": "On January 10, 2020, an FBI agent forwarded a request from the DAD to NY regarding a missing surveillance video outside Jeffrey Epstein’s cell during his first suicide attempt. USA Today reported that prison authorities inadvertently deleted the relevant surveillance footage due to a computer system error listing the incorrect cell for Epstein’s cellmate. CNN reported the discovery of Epstein's death in his cell and subsequent requests for preserved footage, which were later revealed to be missing. The FBI also determined the footage did not exist, confirming the deletion was due to a system error.",
+      "timestamp": "2020-01-10T00:00:00",
+      "timestamp_raw": "January 10, 2020",
+      "keywords": [
+        "jeffrey epstein",
+        "fbi",
+        "surveillance video",
+        "missing video",
+        "prison",
+        "suicide attempt",
+        "mcc",
+        "prosecutors",
+        "conspiracy theories",
+        "new york"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028482",
+      "summary": "On January 16, 2020, Stan Pottinger forwarded a CNN article detailing the Virgin Islands’ claim that Jeffrey Epstein disregarded environmental protections and showed disrespect for the law due to his polluting activities. The email originated from Pottinger’s Verizon Samsung Galaxy smartphone.",
+      "timestamp": "2020-01-16T00:00:00",
+      "timestamp_raw": "January 16, 2020",
+      "keywords": [
+        "jeffrey epstein",
+        "virgin islands",
+        "environmental protections",
+        "polluter",
+        "cnn",
+        "stan pottinger",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00031827",
+            "similarity": 0.875,
+            "index": 25,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00031827",
+      "summary": "Stan Pottinger forwarded a CNN article from January 16, 2020, titled \"Jeffrey Epstein's disregard for environmental protections showed his disrespect for the law, Virgin Islands says.\" The article discusses a lawsuit against Jeffrey Epstein related to his environmental violations. The email thread expresses a critical view of Epstein as a \"world-historically appalling . . . polluter.\"",
+      "timestamp": "2020-01-16T00:00:00",
+      "timestamp_raw": "January 16, 2020",
+      "keywords": [
+        "jeffrey epstein",
+        "virgin islands",
+        "environmental protections",
+        "lawsuit",
+        "polluter",
+        "cnn",
+        "stan pottinger",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00028482",
+            "similarity": 0.875,
+            "index": 24,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029440",
+      "summary": "This email chain, dated July 15, 2020, discusses articles related to Ghislaine Maxwell’s plea of not guilty in the Epstein sex abuse case. The email includes links to articles from The Washington Post, The New York Times, Daily Mail, CNN, and NYPost covering her arrest, plea, and related details, including information about her purchasing a New Hampshire mansion. The document is identified as EFTA00029440.",
+      "timestamp": "2020-07-15T00:00:00",
+      "timestamp_raw": "July 15, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "redaction analysis",
+        "bail",
+        "sex abuse",
+        "washington post",
+        "new york times",
+        "cnn",
+        "daily mail",
+        "maxwell articles"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015286",
+      "summary": "This email, sent on July 31, 2020, from [REDACTED] to [REDACTED], includes a subject line of “SDNY Press Clippings, July 31, 2020” and contains links to news articles: BBC, CNN, and Medlake. An image named “image001.png” is attached. The document is labeled EFTA00015286.",
+      "timestamp": "2020-07-31T00:00:00",
+      "timestamp_raw": "July 31, 2020",
+      "keywords": [
+        "sdny press clippings",
+        "july 31",
+        "2020",
+        "redaction analysis",
+        "efta00015286",
+        "manvelt",
+        "bbc",
+        "cnn",
+        "medlake"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010955",
+      "summary": "This document is a collection of press clippings from August 11, 2020, concerning various news stories. The clippings include articles from Fox News, The Sun, CNN, Cheat Sheet, Wirecard, Bloomberg, WSJ, Vanity Fair, US News & World Report, The Washington Post, and the Washington Examiner. The stories cover topics such as Ghislaine Maxwell, Jeffrey Epstein, Tekashi 69, Wirecard’s financial issues, William Barr and Black Lives Matter, Turkey’s Halkbank, and Michael Flynn’s case. The clippings were sent from [REDACTED] to [REDACTED] with CC’d recipients listed as [REDACTED].",
+      "timestamp": "2020-08-11T00:00:00",
+      "timestamp_raw": "August 11, 2020",
+      "keywords": [
+        "sony",
+        "clippings",
+        "august 11",
+        "2020",
+        "maxwell",
+        "ghislaine maxwell",
+        "wirecard",
+        "jeffrey epstein",
+        "black lives matter",
+        "vanit fair",
+        "fox news",
+        "us news & world report"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021166",
+      "summary": "On September 9, 2020, Nicholas Blase, Public Affairs, sent press clippings to Robert Moder regarding various news stories. The clippings covered topics including: SDNY press clips from Maxwell, Reuters, ABC, Bloomberg, The Daily Beast, PopTimes UK, CNN, The Washington Post, CNBC, Deadline, and Politico. These stories involved investigations into former officials, Donald Trump’s alleged corruption, Chinese company trading typos, and oversight group findings related to disaster loan fraud.",
+      "timestamp": "2020-09-09T00:00:00",
+      "timestamp_raw": "September 9, 2020",
+      "keywords": [
+        "sdny press clips",
+        "september 9",
+        "2020",
+        "robert moder",
+        "bloomberg",
+        "reuters",
+        "deutsche bank",
+        "justice department",
+        "nicholas blase",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015193",
+      "summary": "An email dated October 5, 2020, from [REDACTED] to [REDACTED] with the subject “SDNY NEWS CLIPS, OCTOBER 5, 2020,” includes clippings from various news sources: The Wall Street Journal, Washington Times, Bulwark, CNN, The Daily Beast, Forbes, and NBC. The clippings cover topics including Treasury Department investigations, Mike Pompeo’s Bulwark article, William Barr’s coronavirus comments, and a John W. Dick leak exposing fraud scandal. EFTA00015193 is referenced as the document identifier.",
+      "timestamp": "2020-10-05T00:00:00",
+      "timestamp_raw": "October 5, 2020",
+      "keywords": [
+        "efta00015193",
+        "sdny news clips",
+        "october 5",
+        "2020",
+        "redaction analysis",
+        "fraud",
+        "wsj",
+        "cnn",
+        "daily beast",
+        "forbes",
+        "bulwark",
+        "nbc"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00011411",
+      "summary": "This file contains email exchanges related to news clippings from October 13, 2020, focusing primarily on Jeffrey Epstein’s legal issues and related news. The emails include links to articles from various sources like the NY Post, US News, CNN, Politico, The Hill, and The New York Times, covering topics such as Epstein’s financial transactions, a Maxwell trafficking event, and a New York governor’s COVID-19 shutdown. The emails appear to be part of a redaction analysis for document EFTA00011411.",
+      "timestamp": "2020-10-13T00:00:00",
+      "timestamp_raw": "October 13, 2020",
+      "keywords": [
+        "sdny",
+        "news clips",
+        "october 13",
+        "2020",
+        "redaction",
+        "efta00011411",
+        "maxwell",
+        "epstein",
+        "cnn",
+        "nyt",
+        "politico",
+        "us news"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00015207",
+            "similarity": 0.6,
+            "index": 32,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00025390",
+            "similarity": 0.6,
+            "index": 33,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00015207",
+      "summary": "This document is a forwarded email chain from October 13, 2020, containing news clippings related to Jeffrey Epstein and Maxwell/Epstein articles. The clippings cover a range of topics including: US news, legal proceedings, political commentary (specifically related to transportation and impeachment), cybersecurity breaches, and various news reports from outlets like CNN, Bloomberg, Politico, The Hill, Buzzfeed News, Business Insider, Breitbart, and NBC. The email also includes links to relevant articles and resources.",
+      "timestamp": "2020-10-13T00:00:00",
+      "timestamp_raw": "October 13, 2020",
+      "keywords": [
+        "maxwell",
+        "epstein",
+        "sdny",
+        "news clips",
+        "october 13",
+        "2020",
+        "politico",
+        "cnn",
+        "us news",
+        "mother jones",
+        "bloomberg",
+        "buzzfeed news"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00011411",
+            "similarity": 0.6,
+            "index": 31,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00025390",
+            "similarity": 0.6,
+            "index": 33,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00025390",
+      "summary": "Nicholas Blase (USANYS) forwarded news clippings related to Jeffrey Epstein and Maxwell/Epstein articles to “Blase, Nicholas (USANYS)” on October 13, 2020. The clippings cover various news sources including the NY Post, US News, Mother Jones, CNN, Politico, The Telegraph, NY Times, and others. They reference articles and reports concerning investigations, legal proceedings, and media coverage related to the individuals and events.",
+      "timestamp": "2020-10-13T00:00:00",
+      "timestamp_raw": "October 13, 2020",
+      "keywords": [
+        "maxwell",
+        "epstein",
+        "sdny",
+        "news clips",
+        "october 13",
+        "2020",
+        "redaction",
+        "usanys",
+        "ny post",
+        "cnn",
+        "politico",
+        "bloomberg"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00015207",
+            "similarity": 0.6,
+            "index": 32,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00011411",
+            "similarity": 0.6,
+            "index": 31,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030008",
+      "summary": "Email correspondence dated November 23, 2020, detailing news clippings from various sources regarding legal matters, political events, and financial news. The clippings include links to reports about the Maxwell case, investigations related to election denial, Antony Blinken’s appointment as Secretary of State, and articles from sources such as CNN, Yahoo News, the Wall Street Journal, Politico, and The Daily Beast. The email was sent from [REDACTED] to [REDACTED] with bcc’d to [REDACTED].",
+      "timestamp": "2020-11-23T00:00:00",
+      "timestamp_raw": "November 23, 2020",
+      "keywords": [
+        "sdny",
+        "news clips",
+        "november 23",
+        "2020",
+        "redaction analysis",
+        "efta00030008",
+        "legal",
+        "maxwell",
+        "irs",
+        "election deniers",
+        "yahoo",
+        "wsj"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027437",
+      "summary": "This document is a collection of news clippings from December 7, 2020, covering various topics including: the Bureau of Prisons defending Ghislaine Maxwell’s jail conditions, a lawsuit involving a Massachusetts slug, shooting incidents in the Bronx, discussions regarding the US March for Black Lives Matter, political updates related to the 2020 presidential election, stock trading questions involving Kelly Loeffler, and a sex trade investigation involving Black and Brown New Yorkers. The clippings originate from sources such as the NY Post, CNN, Reuters, Fox News, USA Today, Yahoo News, CNBC, Business Insider, ProPublica, and the New York Daily News.",
+      "timestamp": "2020-12-07T00:00:00",
+      "timestamp_raw": "December 7, 2020",
+      "keywords": [
+        "sdny news clips",
+        "2020",
+        "december 7",
+        "maxwell",
+        "reuters",
+        "cnn",
+        "usatoday",
+        "yahoo",
+        "politics",
+        "election",
+        "news"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028279",
+      "summary": "This document is a collection of news clippings from December 15, 2020, covering several stories. These include: *   **Peter Nygaard** arrest on sex trafficking charges, with reports from the NYT, The Guardian, Reuters, HuffPost, BBC News, and The Daily Beast. *   **Prince Andrew** remaining at his residence despite denials. *   **William Barr**’s resignation as Attorney General, with coverage from CNN, NYT, and NPR. *   **Hunter Biden** matters, including a special counsel request and reports from Fox News and The NY Post. *   **Hong Kong** commentary from The NY Post. *   **Trump**’s medical pardon investigation by Slate. *   **Turkey** alliance discussions from The Washington Post. *   **Steve Bannon**’s legal case transfer from the NY Daily News. The clippings were sent from ~ffl~MIE~MW to i~~III~Na.",
+      "timestamp": "2020-12-15T00:00:00",
+      "timestamp_raw": "December 15, 2020",
+      "keywords": [
+        "sdny",
+        "nygard",
+        "nyt",
+        "guardian",
+        "barr",
+        "biden",
+        "hunter biden",
+        "maxwell",
+        "reuters",
+        "ny post",
+        "bannon"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030068",
+      "summary": "Laura Mcnninger, of Haddon, Morgan and Foreman, P.C., sent an email to multiple recipients including Jeff Pagliuca, Christian Everdell, and BC Sternheim, requesting to view evidence in the case of *US v. Maxwell* (20 Cr. 330 (AJN)). The email attached a letter detailing the request and included a confidentiality notice emphasizing the sensitive nature of the materials.",
+      "timestamp": "2021-03-08T00:00:00",
+      "timestamp_raw": "08 Mar 2021",
+      "keywords": [
+        "efta00030068",
+        "us v. maxwell",
+        "laura mcnninger",
+        "evidence",
+        "confidential",
+        "scenes",
+        "dodd",
+        "c sternheim",
+        "request",
+        "haddon",
+        "morgan and foreman"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025231",
+      "summary": "Key highlights include: *   **New York Bar Opinions:** The New York State Bar Association issued an opinion permitting attorneys to rent out law office space in co-working environments. *   **Court Cases & Legal Actions:** Numerous court cases were reported, including: *   Dismissal of charges against Steve Bannon. *   A judge granting expedited discovery in a bankruptcy case involving Kossoff PLLC. *   Approval of a deferred prosecution agreement for Epstein guards. *   Settlements involving various allegations (e.g., fraud, intellectual property infringement, pandemic-related business losses). *   **Government & Regulatory Actions:** Reports on: *   The launch of a New York pandemic rental relief program. *   The Austrian bankers accused of laundering money for Odebrecht. *   Cuomo's nominations for New York State Court of Appeals. *   **Industry Trends:** Coverage of: *   Large law firms’ continued investment in racial justice initiatives. *   Lateral hiring activity by major firms. *   Trends in COVID-19's impact on law school faculty. *   **Various Firm Announcements:** Announcements of partner hires and other developments at law firms like Cooley, Dechert, Greenberg Traurig, and others. *   **Settlements and Agreements:** Several settlements were reported, including those related to securities, intellectual property, and various legal claims. The document presents a snapshot of legal news from May 26, 2021, and includes sections on policy & regulation, real estate & development, energy & environmental, insurance, cybersecurity & privacy, employment, mergers & acquisitions, private equity, expert analysis, and legal industry trends.",
+      "timestamp": "2021-05-26T00:00:00",
+      "timestamp_raw": "May 26, 2021",
+      "keywords": [
+        "new york bar",
+        "co-working biz",
+        "attorneys",
+        "opinion",
+        "singas",
+        "cannataro",
+        "cuomo",
+        "odebrecht",
+        "sec",
+        "gramins",
+        "bannon",
+        "kossoff pllc",
+        "epstein guards",
+        "pandemic rent relief",
+        "coronavirus regulations",
+        "real estate",
+        "mill creek",
+        "boston properties",
+        "mmg",
+        "energy",
+        "pdvsa",
+        "insurance",
+        "casino",
+        "cybersecurity",
+        "clearview ai",
+        "spokeo",
+        "noom",
+        "finance partner",
+        "tech attorney",
+        "cnn",
+        "dershowitz",
+        "immigration legal aid",
+        "doj",
+        "immigrants",
+        "judges"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018224",
+      "summary": "A search was conducted, and JE claimed NT assaulted him. JE was placed on suicide watch. NT found a note, and BB received messages about claims against NT. *   **July 23-27 1919:** NT found the note, BB visited NT and instructed him to pass the note to the next lawyer, and JW received the note. JE was moved from suicide watch and placed in SHU. *   **July 24-27 1919:** BB received reports regarding the assault claim, TR disagreed with BB’s decision to allow media contact, and BB contacted JW to give him the note. *   **July 28-29 1919:** BB’s investigators were unable to authenticate the note, BB advised TR, and BB and TR corroborated information about the note. *   **July 29 1919:** JE was moved to a different cell in SHU. *   **August 2-6 1919:** No discussions regarding the note. *   **August 9 1919:** NY was cleared of causing JE's injuries. *   **August 10 1919:** JE was found dead in his cell. *   **August 21 1919:** Stemheim was appointed. *   **August 23 1919:** The note was disclosed to the trial team with BS present, who witnessed the note on a phone and visited NT, who revealed a letter was left in his book. *   **November 10 1919:** CNN reported BB's statements about Epstein, threats to NT, and complaints about MCC conditions. *   **January 5 2020:** BB appeared on 60 Minutes discussing NT's information and the suicides. *   **January 5 2020:** A second note (Ross letter) was authenticated. *   **January 8 2020:** The Stemheim report was available. *   **January 16 2020:** A response to the Stemheim report was submitted. *   **EFTA00018225** – A related file.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "je",
+        "nt",
+        "note",
+        "suicide",
+        "prison",
+        "mcc",
+        "bb",
+        "authentication",
+        "ross",
+        "stemheim"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    }
+  ]
+}

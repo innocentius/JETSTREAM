@@ -1,0 +1,982 @@
+{
+  "keyword": "keywords",
+  "count": 25,
+  "keyword_match_count": 25,
+  "content_match_count": 0,
+  "total_files": 25,
+  "timeline": [
+    {
+      "file_id": "EFTA00029507",
+      "summary": "This document is an email correspondence regarding a file named EFTA00029507.pdf, accepted on June 10, 2019. The email details the acceptance of the file with no attachments.",
+      "timestamp": "2019-06-10T00:00:00",
+      "timestamp_raw": "June 10, 2019",
+      "keywords": [
+        "efta00029507",
+        "accepted",
+        "keywords",
+        "analysis",
+        "redaction",
+        "2019",
+        "2025",
+        "pdf",
+        "june"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020130",
+      "summary": "This document is a search warrant issued on July 21, 2019, by U.S. Magistrate Judge Barbara Moses for a search of property located at 9 East 71st Street, New York, NY. The warrant targets compact discs seized on July 7, 2019, and seeks to uncover evidence related to violations of Title 18, U.S. Code, Sections 371 and 1591 (sex trafficking of minors and conspiracy).  Specifically, investigators are authorized to seize documents, photographs, and recordings depicting minors engaged in sexually explicit conduct, as well as items related to the ownership or use of electronic devices involved in these activities. The warrant includes provisions for a forensic image of the seized devices and a thorough review of the electronic storage information (ESI) contained within, utilizing various search techniques.  A detailed inventory and return form is attached to the warrant, outlining the specific items being sought.",
+      "timestamp": "2019-07-21T00:00:00",
+      "timestamp_raw": "July 21, 2019",
+      "keywords": [
+        "search warrant",
+        "seizure",
+        "united states district court",
+        "law enforcement",
+        "18 u.s.c. § 371",
+        "1591",
+        "attachment a",
+        "esi",
+        "forensic image",
+        "keywords"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030747",
+      "summary": "This document is an email correspondence between an Assistant United States Attorney in the Southern District of New York and an individual regarding case file EFTA00030747. The email includes the subject line \"to fill in\" and the date Tue, 12 Nov 2019 22:23:46 +0000.",
+      "timestamp": "2019-12-12T00:00:00",
+      "timestamp_raw": "12 Nov 2019",
+      "keywords": [
+        "efta00030747",
+        "united states attorney",
+        "southern district of new york",
+        "redaction analysis",
+        "2019",
+        "assistant",
+        "keywords"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027052",
+      "summary": "The following exchanges concern a review of searches conducted for the “US v. Epstein” case. *   An individual requests exclusion of “Junk Search Terms (From)” hits from a responsiveness search and wants the search results saved. *   A subsequent request asks for the removal of the “Junk Search Terms (Keywords)” search, focusing solely on the “Epstein — Junk Search Terms (From)” search and running a responsiveness search on the remaining documents. *   A reviewer examines the searches and identifies the “Junk Search Terms (Keywords)” search as incorrectly identifying responsive documents. They request the search be run only on email files. *   Confirmation is received that the searches in the US v. Epstein database are complete and ready for review. *   Specific search queries for the US v. Epstein case are listed: “Epstein - Junk Search Terms (From)” and “Epstein - Junk Search Terms (Keywords)”.",
+      "timestamp": "2020-11-15T00:00:00",
+      "timestamp_raw": "15 Oct 2020",
+      "keywords": [
+        "epstein",
+        "us v. epstein",
+        "search terms",
+        "redaction",
+        "emails",
+        "junk search terms",
+        "responsive documents",
+        "documents",
+        "database",
+        "keywords"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023256",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] on December 4, 2020, with the subject \"Search Terms for Emails.\" The email included a message attachment named \"Search_Terms_foraEmails.msg.\" The email’s purpose was to provide search terms related to emails.",
+      "timestamp": "2020-12-04T00:00:00",
+      "timestamp_raw": "December 4, 2020",
+      "keywords": [
+        "efta00023256",
+        "redaction analysis",
+        "emails",
+        "search terms",
+        "2020",
+        "2025",
+        "keywords",
+        "subject",
+        "sender",
+        "message"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036323",
+      "summary": "EFTA00036323 and EFTA00036324 are identified documents.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00036323",
+        "redaction analysis",
+        "efta",
+        "keywords"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00005946",
+            "similarity": 0.5,
+            "index": 7,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00025518",
+            "similarity": 0.5,
+            "index": 8,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00010131",
+      "summary": "Please provide the text from “EFTA00010131.pdf” so I can summarize it for you. I need the content of the document to fulfill your request.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00010131",
+        "redaction analysis",
+        "keywords"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00030262",
+            "similarity": 0.5,
+            "index": 12,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033008",
+            "similarity": 0.5,
+            "index": 13,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037053",
+            "similarity": 0.5,
+            "index": 15,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00005946",
+      "summary": "The document is titled \"c\\kko‘f nut\" and utilizes identifiers EFTA00005946 through EFTA00005958. It consists of multiple pages with these identifiers, including \"I\" and \"i\" on pages 2 and 11 respectively.  A symbol \")\" appears on page 12.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00005946",
+        "redaction analysis",
+        "efta",
+        "pages",
+        "keywords"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00036323",
+            "similarity": 0.5,
+            "index": 5,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025518",
+      "summary": "This document is a redaction analysis for file EFTA00025518, generated on December 25, 2025, at 11:31:15. It contains a page with unintelligible markings and the file identifier \"EFTA00025518\".",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "redaction analysis",
+        "efta",
+        "pdf",
+        "2025",
+        "keywords"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00036323",
+            "similarity": 0.5,
+            "index": 5,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00017021",
+            "similarity": 0.5,
+            "index": 9,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00016338",
+            "similarity": 0.5,
+            "index": 10,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00017023",
+            "similarity": 0.5,
+            "index": 11,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00017021",
+      "summary": "The document is a redaction analysis for file EFTA00017021, generated on December 24, 2025, at 5:16:26 PM.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00017021",
+        "redaction analysis",
+        "pdf",
+        "keywords"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00025518",
+            "similarity": 0.5,
+            "index": 8,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00016338",
+            "similarity": 0.6,
+            "index": 10,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00017023",
+            "similarity": 0.6,
+            "index": 11,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033391",
+            "similarity": 0.6,
+            "index": 14,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00016338",
+      "summary": "Please provide the text from “EFTA00016338.pdf” so I can summarize it for you. I need the content of the document to fulfill your request.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00016338",
+        "redaction analysis",
+        "pdf",
+        "keywords"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00017021",
+            "similarity": 0.6,
+            "index": 9,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00025518",
+            "similarity": 0.5,
+            "index": 8,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00017023",
+            "similarity": 0.6,
+            "index": 11,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033391",
+            "similarity": 0.6,
+            "index": 14,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033028",
+            "similarity": 0.6,
+            "index": 16,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00017023",
+      "summary": "Please provide the text from the “EFTA00017023.pdf” file. I need the content of the document to create a summary for you.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "redaction analysis",
+        "efta00017023",
+        "pdf",
+        "keywords"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00016338",
+            "similarity": 0.6,
+            "index": 10,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00017021",
+            "similarity": 0.6,
+            "index": 9,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00025518",
+            "similarity": 0.5,
+            "index": 8,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00033391",
+            "similarity": 0.6,
+            "index": 14,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033028",
+            "similarity": 0.6,
+            "index": 16,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033125",
+            "similarity": 0.6,
+            "index": 17,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00030262",
+      "summary": "Please provide the text from \"EFTA00030262.pdf\" so I can summarize it for you. I need the content of the document to fulfill your request.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00030262",
+        "redaction analysis",
+        "keywords"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00010131",
+            "similarity": 0.5,
+            "index": 6,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00033008",
+            "similarity": 0.5,
+            "index": 13,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037053",
+            "similarity": 0.5,
+            "index": 15,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033021",
+            "similarity": 0.5,
+            "index": 18,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00033008",
+      "summary": "Please provide the text from the “EFTA00033008.pdf” file. I need the content of the document to summarize it for you.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00033008",
+        "redaction analysis",
+        "keywords"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00030262",
+            "similarity": 0.5,
+            "index": 12,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00010131",
+            "similarity": 0.5,
+            "index": 6,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00037053",
+            "similarity": 0.5,
+            "index": 15,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033021",
+            "similarity": 0.5,
+            "index": 18,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033120",
+            "similarity": 0.5,
+            "index": 23,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00033391",
+      "summary": "Please provide the text from the “EFTA00033391.pdf” file. I need the content of the document to summarize it for you.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "redaction analysis",
+        "efta00033391",
+        "pdf",
+        "keywords"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00017023",
+            "similarity": 0.6,
+            "index": 11,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00016338",
+            "similarity": 0.6,
+            "index": 10,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00017021",
+            "similarity": 0.6,
+            "index": 9,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00033028",
+            "similarity": 0.6,
+            "index": 16,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033125",
+            "similarity": 0.6,
+            "index": 17,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00010198",
+            "similarity": 0.6,
+            "index": 20,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037053",
+      "summary": "Please provide the text from “EFTA00037053.pdf” so I can summarize it for you. I need the content of the document to fulfill your request.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00037053",
+        "redaction analysis",
+        "keywords"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00033008",
+            "similarity": 0.5,
+            "index": 13,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00030262",
+            "similarity": 0.5,
+            "index": 12,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00010131",
+            "similarity": 0.5,
+            "index": 6,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00033021",
+            "similarity": 0.5,
+            "index": 18,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033120",
+            "similarity": 0.5,
+            "index": 23,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00033028",
+      "summary": "Please provide the text from “EFTA00033028.pdf” so I can summarize it for you. I need the content of the document to fulfill your request.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00033028",
+        "redaction analysis",
+        "pdf",
+        "keywords"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00033391",
+            "similarity": 0.6,
+            "index": 14,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00017023",
+            "similarity": 0.6,
+            "index": 11,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00016338",
+            "similarity": 0.6,
+            "index": 10,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00033125",
+            "similarity": 0.6,
+            "index": 17,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00010198",
+            "similarity": 0.6,
+            "index": 20,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033381",
+            "similarity": 0.6,
+            "index": 21,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00033125",
+      "summary": "Please provide the text from the “EFTA00033125.pdf” file. I need the content of the document to summarize it for you.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00033125",
+        "redaction analysis",
+        "pdf",
+        "keywords"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00033028",
+            "similarity": 0.6,
+            "index": 16,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033391",
+            "similarity": 0.6,
+            "index": 14,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00017023",
+            "similarity": 0.6,
+            "index": 11,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00010198",
+            "similarity": 0.6,
+            "index": 20,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033381",
+            "similarity": 0.6,
+            "index": 21,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00016340",
+            "similarity": 0.6,
+            "index": 22,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00033021",
+      "summary": "Please provide the text from “EFTA00033021.pdf” so I can summarize it for you. I need the content of the document to fulfill your request.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00033021",
+        "redaction analysis",
+        "keywords"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037053",
+            "similarity": 0.5,
+            "index": 15,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033008",
+            "similarity": 0.5,
+            "index": 13,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00030262",
+            "similarity": 0.5,
+            "index": 12,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00033120",
+            "similarity": 0.5,
+            "index": 23,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034759",
+      "summary": "Please provide the text from \"EFTA00034759.pdf\" so I can summarize it for you. I need the content of the document to fulfill your request.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00034759",
+        "redaction analysis",
+        "confidential",
+        "sdny",
+        "keywords"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010198",
+      "summary": "Please provide the text from “EFTA00010198.pdf” so I can summarize it for you. I need the content of the document to fulfill your request.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00010198",
+        "redaction analysis",
+        "pdf",
+        "keywords"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00033125",
+            "similarity": 0.6,
+            "index": 17,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033028",
+            "similarity": 0.6,
+            "index": 16,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033391",
+            "similarity": 0.6,
+            "index": 14,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00033381",
+            "similarity": 0.6,
+            "index": 21,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00016340",
+            "similarity": 0.6,
+            "index": 22,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033258",
+            "similarity": 0.6,
+            "index": 24,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00033381",
+      "summary": "Please provide the text from “EFTA00033381.pdf” so I can summarize it for you. I need the content of the document to fulfill your request.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "redaction analysis",
+        "efta00033381",
+        "pdf",
+        "keywords"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00010198",
+            "similarity": 0.6,
+            "index": 20,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033125",
+            "similarity": 0.6,
+            "index": 17,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033028",
+            "similarity": 0.6,
+            "index": 16,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00016340",
+            "similarity": 0.6,
+            "index": 22,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033258",
+            "similarity": 0.6,
+            "index": 24,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00016340",
+      "summary": "Please provide the text from “EFTA00016340.pdf” so I can summarize it for you. I need the content of the document to fulfill your request.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00016340",
+        "redaction analysis",
+        "pdf",
+        "keywords"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00033381",
+            "similarity": 0.6,
+            "index": 21,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00010198",
+            "similarity": 0.6,
+            "index": 20,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033125",
+            "similarity": 0.6,
+            "index": 17,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00033258",
+            "similarity": 0.6,
+            "index": 24,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00033120",
+      "summary": "Please provide the text from “EFTA00033120.pdf” so I can generate the summary as requested. I need the content of the document to fulfill your request.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00033120",
+        "redaction analysis",
+        "keywords"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00033021",
+            "similarity": 0.5,
+            "index": 18,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00037053",
+            "similarity": 0.5,
+            "index": 15,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033008",
+            "similarity": 0.5,
+            "index": 13,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00033258",
+      "summary": "Please provide the text from “EFTA00033258.pdf” so I can generate the summary as requested. I need the content of the document to fulfill your request.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "redaction analysis",
+        "efta00033258",
+        "pdf",
+        "keywords"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00016340",
+            "similarity": 0.6,
+            "index": 22,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033381",
+            "similarity": 0.6,
+            "index": 21,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00010198",
+            "similarity": 0.6,
+            "index": 20,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    }
+  ]
+}

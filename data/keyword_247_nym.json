@@ -1,0 +1,3975 @@
+{
+  "keyword": "nym",
+  "count": 62,
+  "keyword_match_count": 62,
+  "content_match_count": 83,
+  "total_files": 145,
+  "timeline": [
+    {
+      "file_id": "EFTA00006770",
+      "summary": "Okay, this is a massive dataset of call detail records (CDRs) from MetroPCS (likely around 2006). Here's a breakdown of what we're looking at and how we can analyze it, along with some key considerations: **What We Have:** * **Extensive CDR Data:** This file contains numerous call records, each with timestamps (date and time), the originating and destination phone numbers, and durations of calls. * **Data Fields:** The records typically contain these fields (although the exact format might vary slightly): * **Timestamp:** Date and time of the call. * **Originating Phone Number (Caller ID):** The number that initiated the call. * **Destination Phone Number (Called ID):** The number that received the call. * **Duration:** The length of the call in seconds. * **Network Information:** (Potentially) Details about the network connection. * **Other:** Call types (e.g., outgoing, incoming), possibly other metadata. * **Large Volume:**  It's a very large file.  Analyzing it directly within a standard spreadsheet or even a large database might be slow and potentially overwhelming. **Potential Analyses & Questions We Could Answer:** 1.  **Call Volume & Patterns:** *   **Total Calls:**  How many calls were made/received in the dataset? *   **Peak Calling Times:** What times of day or days of the week had the highest call volume? *   **Call Duration Distribution:**  What were the typical call durations?  What was the range of call lengths? *   **Call Frequency:** How many calls were made between any two specific phone numbers? 2.  **Traffic Analysis (Between Specific Numbers):** *   **Most Frequent Callers/Recipients:** Which phone numbers were involved in the most calls (both as callers and recipients)? *   **Longest-Running Conversations:** Which pairs of numbers had the longest call durations? *   **Call Sequences:**  Could we identify patterns of calling (e.g., a number calling a set of other numbers in a specific sequence)? 3.  **Network Usage:** *   **Network Congestion:**  Could we identify times when the network was particularly busy (high call volume)? *   **Origin/Destination Zones:**  (If location data were included, which isn't explicitly shown here, but might be in other data sources linked to these calls)  Where were these calls originating from and going to geographically? 4.  **Fraud Detection (Potential):** *   **Unusual Call Patterns:**  Any calls that deviated significantly from typical calling patterns could be flagged for investigation. **Tools & Techniques for Analysis:** *   **Database Systems (SQL):**  The most efficient approach would be to load the data into a database (e.g., MySQL, PostgreSQL, SQLite) and then use SQL queries to extract and analyze the data.  This is essential for handling the large volume of records and performing complex aggregations. *   **Data Analysis Libraries (Python):** Python libraries like Pandas, NumPy, and Matplotlib can be used to process and visualize the data. Pandas is particularly good for working with tabular data. *   **Data Visualization Tools:** Tools like Tableau or Power BI could be used to create interactive dashboards and visualizations. *   **Big Data Technologies (If Necessary):** If the data volume is *extremely* large and doesn’t fit into a standard database, technologies like Apache Spark or Hadoop might be needed. However, this is unlikely for this dataset. **Challenges & Considerations:** *   **Data Quality:**  Assess the quality of the data. Are there any missing fields, inconsistencies, or errors in the data? This will impact the accuracy of your analysis. *   **Privacy:**  Be mindful of privacy concerns when working with call data.  Anonymize or de-identify the data if necessary to protect individuals' identities. *   **Data Structure:** Understand the precise format of the data.  Identify the names and types of each field. *   **Computational Resources:**  Processing a large dataset like this requires sufficient computing power and memory. **To help me give you more targeted guidance, could you tell me:** *   **What are you specifically hoping to learn from this data?** (e.g., \"I want to identify peak calling times,\" or \"I want to find the most frequent callers\"). *   **What tools are you comfortable using?** (e.g., \"I'm familiar with Excel,\" or \"I'm proficient in Python\"). *   **Do you have any specific questions you want to address?**",
+      "timestamp": "2006-12-22T00:00:00",
+      "timestamp_raw": "12-22-2006",
+      "keywords": [
+        "okay",
+        "here’s a breakdown of the information extracted from the provided text",
+        "focusing on key details about the metropcs call data.",
+        "**i. overall data structure**",
+        "*   **file name:** `16980.tre` (likely a table or data file).",
+        "*   **data range:**  the data covers calls from june 1",
+        "2006",
+        "to august 1",
+        "2006.",
+        "*   **record structure:**  each row (record) in the data represents a single phone call. it contains several fields",
+        "including:",
+        "*   `dialed number`: the destination phone number.",
+        "*   `destination number`: the metropcs phone number the call was initiated from.",
+        "*   `direction (dir)`: indicates whether the call was inbound or outbound (likely ‘s’ for outbound and ‘i’ for inbound).",
+        "*   `mm sec`: milliseconds.",
+        "*   `caller id`: the metropcs phone number that initiated the call.",
+        "**ii. specific call details (selected examples)**",
+        "*   **example 1:** (starting june 6",
+        "2006)",
+        "*   `dialed number`:  (not fully listed)",
+        "*   `destination number`:  (not fully listed)",
+        "*   **example 2:** (june 14",
+        "2006)",
+        "*   `dialed number`:  (not fully listed)",
+        "*   `destination number`:  (not fully listed)",
+        "*   **example 3:** (june 15",
+        "2006)",
+        "*   `dialed number`:  (not fully listed)",
+        "*   `destination number`:  (not fully listed)",
+        "**iii.  observations and potential analysis**",
+        "*   **call direction:** the data appears to show both inbound and outbound calls.",
+        "*   **time-based analysis:**  the data provides a timeline of calls",
+        "allowing for analysis of call patterns over time.",
+        "*   **duration:** the “mm sec” field could be used to calculate the duration of each call.",
+        "*   **number of calls:** the complete dataset would reveal the total number of calls made.",
+        "*   **frequency of calls:** further analysis would be possible with information on the frequency of calls between specific numbers or during certain times.",
+        "**iv. considerations & missing information**",
+        "*   **incomplete data:** this is an excerpt",
+        "so a complete dataset is needed for thorough analysis.",
+        "*   **column definitions:**  the exact meanings of all columns (especially `mm sec`) are not fully clear from this snippet.",
+        "*   **data quality:**  the data might contain errors or missing values.",
+        "to help you further",
+        "could you please tell me:",
+        "*   what is the *purpose* of this data?  (e.g.",
+        "are you trying to identify patterns",
+        "find specific calls",
+        "analyze call volume",
+        "or something else?)",
+        "*   are there other columns in the data file beyond those listed?",
+        "*   do you have a sample of the *complete* dataset (e.g.",
+        "a few more rows)?"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035323",
+      "summary": "Department of Justice’s Federal Bureau of Prisons. The program’s purpose is to prevent self-destructive behavior and reduce the risk of inmate suicide. Key elements include: *   **Responsibilities:** The Chief Psychologist is the program coordinator. *   **Procedures:** All staff must immediately refer potentially suicidal inmates to Psychology Services. The Psychology Services Inmate Questionnaire (PSIQ) is used for initial screening. Inmates exhibiting suicidal thoughts or distress receive a suicide watch, typically involving continuous visual observation by inmate companions. *   **Maintenance:**  Suicidal inmates are placed in a designated 2nd floor suicide prevention area, subject to specific procedures regarding companions (gender restrictions), room inspections, and item restrictions. *   **Documentation:** Observations are recorded in a Suicide Watch Log Book. *   **Exceptions:** Specific rules apply for Unit 3 inmates, alternate watch rooms, and certain visitation/phone scenarios, all requiring approval from higher-level authorities. *   **Inmate Companions:**  Volunteers are recruited and trained to monitor inmates on suicide watch, receiving compensation for their time. *   **Staff Training:**  All staff receive training on recognizing suicidal behavior and implementing prevention techniques, with supplemental training for specific units and emergency response exercises. The directive rescinds an older version (NYM 5324.05c) and is effective upon issuance.",
+      "timestamp": "2007-04-05T00:00:00",
+      "timestamp_raw": "April 5, 2007",
+      "keywords": [
+        "suicide prevention program",
+        "inmates",
+        "psychology services",
+        "suicide watch",
+        "referral",
+        "procedures",
+        "directive",
+        "observation",
+        "questionnaire",
+        "mental health",
+        "intervention",
+        "staff responsibilities",
+        "restraints",
+        "unit 2",
+        "unit 3",
+        "9 south"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00034007",
+            "similarity": 0.556,
+            "index": 3,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00013715",
+      "summary": "An email was sent from an Assistant U.S. Attorney to Alex Acosta at the DOI on December 10, 2007, regarding a New York Magazine article featuring Jeffrey Epstein. The email included a link to the article: http://nymag.corninews/features/41826/.",
+      "timestamp": "2007-12-10T00:00:00",
+      "timestamp_raw": "December 10, 2007",
+      "keywords": [
+        "epstein",
+        "new york magazine",
+        "redaction analysis",
+        "efta00013715",
+        "alex acosta",
+        "doi",
+        "2007",
+        "florida",
+        "us attorney"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034007",
+      "summary": "This document outlines the Suicide Prevention Program for inmates at the Metropolitan Correctional Center, New York. Its primary purpose is to prevent self-destructive behavior and reduce fatalities. Here’s a breakdown of the key elements: *   **Purpose:** The program aims to avert loss of life and minimize the risk of further suicidal behavior. *   **Responsibilities:** The Chief Psychologist is the coordinator, with staff responsible for immediate referral of potentially suicidal inmates. *   **Procedures:** *   **Referral:** All staff must immediately refer inmates to Psychology Services. *   **Psychological Evaluation:** Inmates exhibiting suicidal thoughts or distress are placed on suicide watch, often involving continuous observation and daily interviews. *   **Observation & Containment:** Inmates on suicide watch are placed in a designated area with continuous visual observation and restricted access to potentially harmful items. *   **Inmate Companions:** Trained inmate companions assist in monitoring inmates on suicide watch. *   **Documentation:** Detailed records of observations, interventions, and inmate status are maintained in a Suicide Watch Log Book. *   **Training:** Staff receive training on recognizing suicidal behavior, referral protocols, and prevention techniques. *   **Directive Updates:** This supplement replaced an older directive (NYM 5324.05c) and references the original (P.S. 5324.08).",
+      "timestamp": "2013-05-21T00:00:00",
+      "timestamp_raw": "May 21, 2013",
+      "keywords": [
+        "suicide prevention",
+        "inmates",
+        "psychology services",
+        "referral",
+        "suicide watch",
+        "procedures",
+        "observation",
+        "evaluations",
+        "mental health",
+        "questionnaire",
+        "restraints",
+        "staff responsibilities"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035323",
+            "similarity": 0.556,
+            "index": 1,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036112",
+      "summary": "In July 2019, NYM - MCC New York (Northeast Region) processed 345 minor work orders, with 39.31% processed exceeding 7 days. There were zero pending work orders exceeding 7 days. Twelve preventive work orders and twelve planned event work orders were generated. Eighty-six BF projects were active with 525 completed, 12 completed in the last 12 months, and 12 exceeding 45 days. Thirty-two active PMs were past cycle, with a completion percentage of 26.20%. Nine active PEs were past cycle, with a completion percentage of 54.58%. One work order over $10,000 was active. The last program review was conducted on 12/22/2016 with a rating of 1 (Superior). The last operational review was conducted on 8/1/2018 to 7/31/2019, and the next review is due 10/22/2019 - 02/22/2020.",
+      "timestamp": "2016-12-22T00:00:00",
+      "timestamp_raw": "12/22/2016",
+      "keywords": [
+        "efta00036112",
+        "monthly facility report",
+        "nym mcc new york",
+        "work orders",
+        "preventive work orders",
+        "planned event work orders",
+        "bf projects",
+        "minor work orders",
+        "pm completion %",
+        "pe completion %",
+        "program review"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020779",
+      "summary": "An email was sent from Nick Lewin to [REDACTED] on March 20, 2019, forwarding an article from the New York Daily News regarding concerns from anonymous figures against the disclosure of documents related to the Jeffrey Epstein case. The article discusses sealed documents related to the Epstein case.",
+      "timestamp": "2019-03-20T00:00:00",
+      "timestamp_raw": "March 20, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "redaction analysis",
+        "disclosure",
+        "anonymous figures",
+        "new york daily news",
+        "efta00020779"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015194",
+      "summary": "This document is a series of increasingly frantic and accusatory emails from Chris Dilorio detailing a complex web of alleged financial fraud and illicit activity involving several prominent figures and organizations. The core accusations center around Apollo Global Management, Jeffrey Epstein, Leon Black, and the SEC. Here’s a breakdown of the key points: *   **Intimidation and Threat:** Dilorio claims he was intimidated by an anonymous individual linked to the Apollo/Epstein/Kushner connection and intends to pursue legal action against the SEC and those involved. *   **Suspicious Shell Companies:** Dilorio alleges that Apollo and others are using shell companies (like ESWW - Environmental Solutions Worldwide) to facilitate money laundering and engage in abusive shorting practices within the OTC market. *   **Connections to Kushner:** The emails detail connections between the Kushner family (Donald, Jared, and Kushner Companies) and Apollo, Epstein, and other individuals, including discussions about White House jobs and financial assistance. *   **SEC Allegations:** Dilorio vehemently accuses the SEC of intentionally allowing fraudulent activities to occur and actively facilitating the risks faced by investors. *   **Evidence Gathering:** Dilorio references numerous SEC filings, news articles (including those from NBC News and Seeking Alpha), and legal documents (like filings related to Krieger, Kim & Lewin LLP) to support his claims. *   **Significant Inflows:** Dilorio notes a significant influx of $60 billion+ into Apollo in 2018, suggesting a potential motive for the alleged fraudulent activities. *   **Overall Tone:** The emails convey a sense of paranoia, anger, and a determination to expose what Dilorio perceives as a vast and corrupt conspiracy. Essentially, Dilorio is building a circumstantial case alleging a deeply interconnected network of financial malfeasance involving powerful individuals and organizations, fueled by accusations of fraud and abuse.",
+      "timestamp": "2019-05-02T00:00:00",
+      "timestamp_raw": "02 May 2019",
+      "keywords": [
+        "efta00015194",
+        "apollo",
+        "epstein",
+        "kushner",
+        "sec",
+        "redaction",
+        "whistleblower",
+        "money laundering",
+        "penny stocks",
+        "financial fraud",
+        "leon black",
+        "joshua harris",
+        "stephanie avakian",
+        "o'melveny & myers",
+        "wilmerhale",
+        "shell companies"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00033545",
+      "summary": "The logs detail various activities within the NYM SHU and Housing Unit, Special (SHU) – specifically Level 1 (SHU), Level 2 (SHU), and Level 3 (9 SOUTH SHU).  These entries include shift changes, official counts, routine checks (body alarms, fire panels, inventory, keys, OC spray, radios), searches of areas, rounds by officers and lieutenants, and the feeding of inmates. Multiple users (TF59463, TF18923, TF18830, TF49363, TF18945, TF28247 and TF34228) logged these activities.",
+      "timestamp": "2019-06-23T00:00:00",
+      "timestamp_raw": "June 23, 2019",
+      "keywords": [
+        "prison log",
+        "nym",
+        "shu",
+        "housing unit",
+        "truintel",
+        "log entries",
+        "events",
+        "shift",
+        "user",
+        "body alarm check",
+        "fire alarm panel check",
+        "inventory sheet",
+        "key check",
+        "oc spray check",
+        "radio check",
+        "search (areas)",
+        "official count",
+        "rounds (officer)",
+        "beginning shift",
+        "end shift"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035714",
+      "summary": "Jeffrey Edward Epstein’s inmate history details his quarters assignments from July 6, 2019, to August 13, 2019. These assignments occurred within various locations including NYM 204-206 LAD House Z/Range 04/Bed 206L, NYM H01-001L, NYM Z05-124 LAD House Z/Range 05/Bed 124L, NYM 202-201 LAD House Z/Range 02/Bed 201L, NYM E06-547U, and NYM A01-001L. The assignments were conducted by NYM and associated with transaction ID SDNY_00017776.",
+      "timestamp": "2019-07-06T00:00:00",
+      "timestamp_raw": "July 6, 2019",
+      "keywords": [
+        "inmate history",
+        "jeffrey edward epstein",
+        "quarters",
+        "nym",
+        "assignment description",
+        "redaction analysis",
+        "fcl",
+        "doj",
+        "sentry",
+        "206lad"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036081",
+      "summary": "On July 6, 2019, an inmate arrived at the NYM facility, initially placed in the receiving area and then moved to general population. Due to a lack of prior notification from USMS regarding his high-profile status, staff were unaware. The Warden identified him as high-profile on July 7, 2019, and moved him to the Special Housing Unit. Subsequently, on July 8, 2019, he was moved to Psychology Observation for evaluation, which was not suicide watch, and returned to the SHU on July 10, 2019, with a cellmate until July 23, 2019.",
+      "timestamp": "2019-07-06T00:00:00",
+      "timestamp_raw": "July 6, 2019",
+      "keywords": [
+        "efta00036081",
+        "inmate",
+        "arrival",
+        "mcc",
+        "special housing unit",
+        "psychology observation",
+        "suicide watch",
+        "usms",
+        "timeline",
+        "receiving and discharge"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035552",
+      "summary": "As of July 8, 2019, the DNA Status of Inmates was recorded for various institutions (InSt., ALF, ALM, ALP, BER, BRO, CAA, DAN, DEV, ELK, FAI, FTD, LEW, LOR, MCK, NYM, OT', PHL, RBK, SCH, 202) detailing inmate counts, DNA need status, inmates over 7 days, inmates on FED WRIT, IAD, and STATE WRIT, and inmates in DNA PREBOP PND status. Specific counts for each institution are provided, with a total of 60 inmates in DNA need status, 100 with DNA numbers, and 89 with a PREBOP assignment.  259 state concurrence cases were noted.",
+      "timestamp": "2019-07-08T00:00:00",
+      "timestamp_raw": "July 8, 2019",
+      "keywords": [
+        "dna",
+        "inmates",
+        "status",
+        "need",
+        "redaction analysis",
+        "institutions",
+        "pnd",
+        "alf",
+        "dna prebop",
+        "arsd"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00033843",
+      "summary": "It includes: *   **Vision Screen (07/09/2019):**  Epstein’s vision was assessed with varying degrees of visual acuity in both distance and near vision, requiring corrective lenses. An optometrist evaluation was recommended. *   **Immunizations (07/07/2019 – 08/10/2019):** He received vaccinations against Hepatitis A & B, Measles/Mumps/Rubella, Smallpox, Tetanus, and Varicella. *   **Medical Duty Status (07/09/2019):**  His movement was restricted to the living quarters, with limited privileges including meals, pill line access, and bathroom use. He was barred from sports, weightlifting, and cardiovascular exercise. *   **Equipment:** He was permitted to have a CPAP machine. *   **Medication Summary (07/07/2019 – 08/10/2019):** He was prescribed Bisacodyl, Docusate Sodium, Milk of Magnesia, Methylprednisolone, and Omega 3. *   **Dental Health History Screen (07/26/2019):**  Dental examination revealed moderate to advanced gingival recession, crowding, and a need for possible treatment. *   **Cosign/Review (07/24/2019):**  A review of his medical treatment refusal was documented, with counseling provided. **Note:** Parts of several pages are redacted (indicated with “[REDACTED]”).",
+      "timestamp": "2019-07-09T00:00:00",
+      "timestamp_raw": "07/09/2019",
+      "keywords": [
+        "vision screen",
+        "jeffrey epstein",
+        "refractive error",
+        "od",
+        "os",
+        "ou",
+        "near vision",
+        "correction",
+        "glasses",
+        "refraction",
+        "optometrist",
+        "immunizations",
+        "measles",
+        "mumps",
+        "rubella",
+        "smallpox",
+        "tetanus",
+        "varicella",
+        "medical duty status",
+        "confinement",
+        "physical limitations",
+        "c-pap",
+        "insulin",
+        "dental health",
+        "dental exam",
+        "occlusion",
+        "oral hygiene",
+        "dental prostheses",
+        "treatment refusal",
+        "health services"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036570",
+      "summary": "Two SRO (Special Review Oversight) reports concerning inmate Epstein (76318-054) were conducted between July 10, 2019 and July 23, 2019, and July 29, 2019 and August 10, 2019, within SHU 7. Epstein was held in SHU for only two days (July 7-8, 2019) during the first review. Data related to Epstein’s SROs was stored in the DREV table, and efforts were made to reconstruct his 292 record from August 5-9, 2019, due to his death in NYM SHU on Saturday, August 4, 2019. The reconstruction task was prioritized and required obtaining SRO data to analyze Epstein’s activity prior to his death.",
+      "timestamp": "2019-07-10T00:00:00",
+      "timestamp_raw": "July 10, 2019",
+      "keywords": [
+        "epstein",
+        "sro",
+        "shu",
+        "data",
+        "redaction",
+        "nym",
+        "292 forms",
+        "inmate",
+        "reviews",
+        "reconstruction"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00036595",
+            "similarity": 0.538,
+            "index": 65,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035553",
+      "summary": "This document, labeled EFTA00035553, is a production report titled \"Prisoner Production 07-15-2019.\" It includes the files TEXT.htm, NYM 07-15-2019.pdf, and BRO_07-15-2019.pdf, dated July 12, 2019.",
+      "timestamp": "2019-07-12T00:00:00",
+      "timestamp_raw": "July 12, 2019",
+      "keywords": [
+        "prisoner production",
+        "efta00035553",
+        "2019",
+        "nym",
+        "bro"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00036853",
+            "similarity": 0.5,
+            "index": 59,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034679",
+      "summary": "This document concerns Prisoner Production data from July 15, 2019, specifically referencing files named TEXT.htm, NYM 07-15-2019.pdf, and BRO 07-15-2019.pdf. The data is associated with case number SDNY_00011970 and EFTA00034679. It was sent on July 7, 2019, and marked as CONFIDENTIAL.",
+      "timestamp": "2019-07-15T00:00:00",
+      "timestamp_raw": "July 15, 2019",
+      "keywords": [
+        "prisoner production",
+        "redaction",
+        "efta00034679",
+        "nym",
+        "bro",
+        "confidential",
+        "sdny_00011970"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035021",
+      "summary": "This document, dated 2025-12-27, relates to a redaction analysis for file EFTA00035021. It includes emails and PDFs (NYM 07-15-2019.pdf, BRO 07-15-2019.pdf) concerning Prisoner Production on 07-15-2019, identified with the case number SDNY_000 13191 and classified as CONFIDENTIAL.",
+      "timestamp": "2019-07-15T00:00:00",
+      "timestamp_raw": "07-15-2019",
+      "keywords": [
+        "efta00035021",
+        "prisoner production",
+        "redaction",
+        "nym",
+        "bro",
+        "confidential",
+        "sdny_000",
+        "2019",
+        "2025",
+        "analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034696",
+      "summary": "On July 22, 2019, the Metropolitan Correctional Center in New York documented daily operations, including counts, security checks, and inmate activity. The shift began with a count of 780 inmates, with variations in SHU and unit placements. Several incidents were recorded, including an anonymous threat of a stabbing, monitoring of STG/High Alert and WITSEC phone calls, and the placement of inmates in Administrative Detention due to reasons such as weapon possession. There were multiple counts taken throughout the day, along with responses to system malfunctions (fire alarm, pressure pump) and routine activities like trash runs and visitation. The shift ended with a count of 776 inmates.",
+      "timestamp": "2019-07-22T00:00:00",
+      "timestamp_raw": "July 22, 2019",
+      "keywords": [
+        "count",
+        "institution",
+        "shu",
+        "unit",
+        "count",
+        "nypd",
+        "body alarm",
+        "stabbing",
+        "detention",
+        "terrorist"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035576",
+      "summary": "On July 23, 2019, he reported feeling struck on the foot by an inmate, Epstein, during the late hours. He immediately called for staff assistance after observing Epstein sitting and staring at him. The inmate has a significant disciplinary record, including sanctions for fighting, giving/receiving money, and mail abuse, stemming from incidents dating back to 2017. His current assignment is separation, and he is part of a CIM packet. His disciplinary record includes a sanction for fighting with another person from February 2018.",
+      "timestamp": "2019-07-23T00:00:00",
+      "timestamp_raw": "July 23, 2019",
+      "keywords": [
+        "inmate",
+        "murder",
+        "drug conspiracy",
+        "discipline record",
+        "cell phone",
+        "separation assignment",
+        "fbi",
+        "chronological disciplinary record",
+        "nym",
+        "udc",
+        "sanctioned incident",
+        "fighting",
+        "money",
+        "email",
+        "corrections"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019348",
+      "summary": "*   **Incident Details:** Staff observed Epstein breathing heavily but responsive. He was restrained and medically examined, revealing a circular line of erythema at the base of his neck, friction marks, and a small erythema on his knee. He was placed on suicide watch. *   **Inmate Statements:** Epstein reported feeling extremely tired and stated that cellmate Nicholas Tartaglione was sleeping on the floor and had made threatening statements toward him. Tartaglione denied the allegations and stated that Epstein had been complaining and disruptive. *   **Medical Assessments:** Both Epstein and Tartaglione were medically assessed. Epstein showed the neck injuries and a minor knee injury. Tartaglione reported feeling well. *   **Further Investigation:** The investigation involved interviews with both inmates and staff, photographic documentation (including the rope), and a review of medical records. *   **Conclusion:**  Due to lack of evidence supporting Tartaglione's involvement, the investigation concluded without finding any evidence of an assault. **Note:** Much of the document contains redactions of sensitive information.",
+      "timestamp": "2019-07-23T00:00:00",
+      "timestamp_raw": "July 23, 2019",
+      "keywords": [
+        "inmate",
+        "jeffrey epstein",
+        "nicholas tartaglione",
+        "suicide",
+        "threat assessment",
+        "restraints",
+        "medical examination",
+        "neck injury",
+        "cellmate",
+        "shu",
+        "nym",
+        "investigation",
+        "handmade rope",
+        "mental health",
+        "behavioral observation"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00033588",
+      "summary": "Jeffrey Edward Epstein, inmate #76318-054 at NYM facility, presented to Health Services on 07/23/2019 due to an injury reported at 01:27. The injury involves a circular erythema on his neck (approximately 2 inches wide and 2/3 of the circumference) and a small erythema on his left knee. He reports not knowing how the neck injury occurred, stating he was \"snorting\" when it happened. He denies pain or respiratory issues.  He was found with a rope around his neck and sitting on the floor.  He is currently placed on suicide watch and scheduled for follow-up with psychology services. The assessment is for unspecified self-inflicted injuries, and the plan includes follow-up at Sick Call, continued suicide watch, and a plan of care discussion with the provider.",
+      "timestamp": "2019-07-23T00:00:00",
+      "timestamp_raw": "07/23/2019",
+      "keywords": [
+        "jeffrey epstein",
+        "nym",
+        "clinical encounter",
+        "injury",
+        "pain",
+        "suicide watch",
+        "erythema",
+        "rope",
+        "neck",
+        "symptoms",
+        "provider",
+        "treatment"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00035031",
+            "similarity": 0.6,
+            "index": 21,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034701",
+      "summary": "Jeffrey Edward Epstein, inmate #76318-054, presented to Health Services on 07/23/2019 due to an injury reported at approximately 01:27. He reported an unknown injury, stating he “just went to drink a little water and wake up snorting.” Examination revealed a circular erythema around his neck (2/3 circumference, 2 inches wide) with friction marks, and a small erythema on his left knee. He was found in his cell with a rope around his neck and sitting on the floor.  He appeared cooperative and denied pain. He was placed on suicide watch, scheduled for follow-up with psychology services and a Sick Call visit. The assessment noted a possible self-inflicted injury.",
+      "timestamp": "2019-07-23T00:00:00",
+      "timestamp_raw": "07/23/2019",
+      "keywords": [
+        "jeffrey epstein",
+        "nym",
+        "health services",
+        "clinical encounter",
+        "injury",
+        "07/23/2019",
+        "snorting",
+        "erythema",
+        "neck",
+        "suicide watch",
+        "psychological assessment"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00035031",
+            "similarity": 0.533,
+            "index": 21,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035031",
+      "summary": "Jeffrey Edward Epstein, inmate #76318-054 at NYM, presented to Health Services on 07/23/2019 due to an injury reported at 01:27 that evening. He stated he doesn’t know how the injury occurred, describing it as “just going to drink a little water and wake up snorting.” Examination revealed a circular erythema on his neck, approximately 2 inches wide and sparing the back of his neck, alongside a smaller erythema on his left knee. He was found with a rope around his neck and sitting on the floor by custody staff.  He was placed on suicide watch, assessed for self-inflicted injuries (T1490), and scheduled for follow-up with psychology services. The provider documented patient understanding of the plan of care and access to care.",
+      "timestamp": "2019-07-23T00:00:00",
+      "timestamp_raw": "07/23/2019",
+      "keywords": [
+        "jeffrey epstein",
+        "nym",
+        "injury",
+        "snorting",
+        "suicide watch",
+        "erythema",
+        "neck",
+        "rope",
+        "clinical encounter",
+        "pain",
+        "assessment",
+        "psychological services"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034701",
+            "similarity": 0.533,
+            "index": 20,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033588",
+            "similarity": 0.6,
+            "index": 19,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035180",
+      "summary": "*   **July 9th:** He refused an eye doctor evaluation recommended to diagnose ophthalmologic diseases, citing concerns about inability to diagnose. He assumed all responsibility for his condition and released the Bureau of Prisons from liability. *   **July 10th:** He refused a chest x-ray, fearing worsening of any findings. He similarly assumed responsibility and released the Bureau from liability. *   **July 24th:** He refused an eye doctor evaluation again, citing the same inability to diagnose. *   **July 30th:** He received an insulin regimen for pre-diabetes and received a neurological consultation following complaints of numbness in his right arm and other concerns. Throughout these refusals, Epstein consistently stated that he was assuming all responsibility for his health and releasing the Bureau of Prisons from liability.  He was documented receiving various medical care, including CPR and IV treatment, during an emergency situation on July 30th. The documents detail various medication orders, clinical encounters, and requests for further testing, primarily related to his eye health and overall condition.",
+      "timestamp": "2019-07-24T00:00:00",
+      "timestamp_raw": "7-24-2019",
+      "keywords": [
+        "medical treatment refusal",
+        "jeffrey epstein",
+        "eye doctor evaluation",
+        "ophthalmologic diseases",
+        "bureau of prisons",
+        "treatment",
+        "medications",
+        "x-ray",
+        "dental examination",
+        "nym",
+        "hypertension",
+        "prediabetes"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00022539",
+      "summary": "On July 25, 2019, Jeffrey Epstein was found unconscious in his cell at a federal jail in Manhattan with neck marks. Prison officials treated it as a possible suicide attempt. Epstein’s injuries were not serious, according to a law enforcement official briefed on the matter who requested anonymity. The Bureau of Prisons did not immediately respond to information requests.",
+      "timestamp": "2019-07-25T00:00:00",
+      "timestamp_raw": "July 25, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "suicide attempt",
+        "jail",
+        "manhattan",
+        "bureau of prisons",
+        "redaction analysis",
+        "efta00022539"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038235",
+      "summary": "The threat involved a planned execution of Jeffrey Epstein and requests for information to locate other victims. The initial post referenced a \"DEEPPASTE\" forum and urged readers to provide identifying details. Subsequent investigations, including attempts to contact the user and gather additional information from the Darknet, proved unsuccessful. The user’s account was reportedly deactivated, and the investigation was ultimately closed on May 12, 2020, with no outstanding leads.  The investigation focused on potential child sex trafficking related to Epstein’s activities.",
+      "timestamp": "2019-07-26T00:00:00",
+      "timestamp_raw": "July 26, 2019",
+      "keywords": [
+        "fbi",
+        "jeffrey epstein",
+        "darknet",
+        "threats",
+        "investigation",
+        "victim",
+        "child sex trafficking",
+        "electronic communication",
+        "deeppaste",
+        "epstein",
+        "new york",
+        "unknown subject"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037795",
+      "summary": "An FBI agent in New York is investigating a threat made against a US citizen living in Australia, a victim of the Jeffrey Epstein investigation. The threat was reported on July 28, 2019, by an anonymous individual. The victim, whose name and date of birth are redacted, has contacted the Australian Federal Police (AFP) and requested confirmation of the threat. The FBI is actively investigating the matter and informing relevant parties, including the AFP, about the situation.",
+      "timestamp": "2019-07-28T00:00:00",
+      "timestamp_raw": "July 28, 2019",
+      "keywords": [
+        "efta00037795",
+        "jeffrey epstein",
+        "threat",
+        "australia",
+        "fbi",
+        "us citizen",
+        "afp",
+        "victim",
+        "investigation",
+        "new york"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00037792",
+            "similarity": 0.538,
+            "index": 26,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00037792",
+      "summary": "An FBI agent (ALAT Criminal Matters, FBI) is coordinating with the FBI Legal Attaché in Canberra, Australia, regarding a threat made against a US citizen living in Australia who is also a victim in the Jeffrey Epstein investigation. The victim, whose name and DOB are redacted, contacted the AFP and requested confirmation of the threat made by an anonymous individual. The FBI agent is seeking information about the threat and coordinating with Interpol and the AFP. The Administrative Specialist (M) provides information about the victim’s location and the initial contact with the AFP.",
+      "timestamp": "2019-07-28T00:00:00",
+      "timestamp_raw": "28 Jul 2019",
+      "keywords": [
+        "fbi",
+        "australia",
+        "threat",
+        "us citizen",
+        "interpol",
+        "afp",
+        "canberra",
+        "jeffrey epstein",
+        "investigation",
+        "redaction"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00037795",
+            "similarity": 0.538,
+            "index": 25,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030511",
+      "summary": "*   Some Jeffrey Epstein victims want him prosecuted in South Florida in addition to the charges in New York. *   Federal prosecutors argue that reopening cases in South Florida would harm victims who have attempted to rebuild their lives and that some victims prioritize anonymity and refuse to participate in legal proceedings. *   A federal judge is considering whether to strike down parts of Epstein's 2007 immunity agreement, which was ruled a violation of the Crime Victims’ Rights Act. *   Victims' attorneys argue that prosecution is necessary and that the government’s concerns about victim harm are overstated.",
+      "timestamp": "2019-07-30T00:00:00",
+      "timestamp_raw": "30 Jul 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "south florida",
+        "victims",
+        "prosecution",
+        "criminal charges",
+        "crime victims' rights act",
+        "immunity",
+        "jane doe",
+        "legal case"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021530",
+      "summary": "An attorney, Colleen Mullen C, is handling reports from two women alleging they were fraudulently recruited by Jeffrey Epstein and subjected to forceful sexual assault at his residence (9 East 71st St., New York, NY 10021) around June 2004. The women claim they were paid hundreds of dollars for massages and believe sexually explicit pictures were taken without their consent. They wish to remain anonymous and request guidance if their identities are at risk of being revealed to Epstein's legal team. The attorney offers to coordinate interviews with the clients in New York.",
+      "timestamp": "2019-08-01T00:00:00",
+      "timestamp_raw": "01 Aug 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "victim reports",
+        "sexual assault",
+        "title 18",
+        "united states code",
+        "9 east 71st st",
+        "new york",
+        "travel",
+        "confidential",
+        "colleen mullen",
+        "the bloom firm"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00014578",
+            "similarity": 0.571,
+            "index": 29,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00014578",
+      "summary": "An email dated August 1, 2019, was sent from an attorney to another attorney regarding two clients who allege they were fraudulently recruited by Jeffrey Epstein to provide personal massages at his residence (9 East 71st St., New York, NY 10021) in exchange for payment. The clients claim Epstein forcefully sexually assaulted them around June 2004 without their consent, and that sexually explicit pictures were taken of them during the incidents. The clients wish to remain anonymous and request advice regarding potential public disclosure of their identities. The attorney offers to coordinate an interview with the clients in New York.",
+      "timestamp": "2019-08-01T00:00:00",
+      "timestamp_raw": "August 1, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "victim reports",
+        "sexual assault",
+        "fraudulent recruitment",
+        "19 cr. 490",
+        "title 18",
+        "united states code",
+        "2004",
+        "new york",
+        "travel",
+        "confidential"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00021530",
+            "similarity": 0.571,
+            "index": 28,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021420",
+      "summary": "Colleen Mullen, representing The Bloom Firm, is contacting a United States Attorney’s office regarding victim reports against Jeffrey Epstein. The reports allege fraudulent recruitment and forceful sexual assault occurring around June 2004 at Epstein’s residence. The clients wish to remain anonymous and request coordination for interviews in New York. The communication details a proposed call time (1 PM PST) and expresses concerns about potential public release of client identities.  Redactions are present on multiple pages.",
+      "timestamp": "2019-08-02T00:00:00",
+      "timestamp_raw": "02 Aug 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "victim reports",
+        "sexual assault",
+        "united states code",
+        "new york",
+        "9 east 71st st.",
+        "2004",
+        "prosecution",
+        "redaction"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036163",
+      "summary": "This email announces available overtime shifts for August 10-11, 2019, at the Metropolitan Correctional Center in New York. The shifts require Non-Custody staff to cover custody posts. Specific posts listed include MW, DW, and EW units, along with control and internal locations, for both Saturday and Sunday. Staff are instructed to notify their supervisors and contact the Lieutenants Office at 6450 to sign up.",
+      "timestamp": "2019-08-07T00:00:00",
+      "timestamp_raw": "07 Aug 2019",
+      "keywords": [
+        "overtime",
+        "weekend",
+        "custody",
+        "staff",
+        "sign-up",
+        "metropolitan correctional center",
+        "nym",
+        "bop.gov",
+        "shift",
+        "lieutenant"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036024",
+      "summary": "On August 8, 2019, a request was made to transfer the following inmates: Javon Bussey (#55210-053) and Efrain Reyes (#85993-054) from NYM to GEO. The transfer was requested for Friday, August 9, 2019, with a seven-day medication supply and medical summary included.",
+      "timestamp": "2019-08-08T00:00:00",
+      "timestamp_raw": "August 8, 2019",
+      "keywords": [
+        "prisoner transfer",
+        "efta00036024",
+        "nym",
+        "geo",
+        "bussey",
+        "reyes",
+        "medication",
+        "transfer",
+        "2019",
+        "scheduling"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00036106",
+            "similarity": 0.538,
+            "index": 33,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00036106",
+      "summary": "On August 8, 2019, an email was sent regarding the transfer of two inmates: Javon Bussey (Inmate #55210-053) and Efrain Reyes (Inmate #85993-054) from NYM to GEO. The transfer was requested for Friday, August 9, 2019, and included a request for a 7-day medication supply with a medical summary.",
+      "timestamp": "2019-08-08T00:00:00",
+      "timestamp_raw": "August 8, 2019",
+      "keywords": [
+        "prisoners",
+        "transfer",
+        "nym",
+        "geo",
+        "medication",
+        "bussey",
+        "reyes",
+        "efta00036106",
+        "2019",
+        "august 8"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00036024",
+            "similarity": 0.538,
+            "index": 32,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036683",
+      "summary": "An email was sent from [REDACTED] to an unknown recipient regarding Jeffrey Epstein. The email includes an attachment named “Epstein.eml” and states that the warden of NYM was not aware of any requests for suicide watch for Epstein from his attorneys.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "10 Aug 2019",
+      "keywords": [
+        "epstein",
+        "redaction",
+        "efta00036683",
+        "nym",
+        "attorneys",
+        "suicide watch",
+        "fwd",
+        "2019",
+        "verizon",
+        "samsung"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035502",
+      "summary": "On August 10, 2019, Jeffrey Edward Epstein (Reg# 76318-054) at NYM facility experienced a medical emergency involving cardiac arrest. Initial responders, including correctional officers, initiated CPR. Medical personnel (RN, paramedics) arrived and performed advanced life support, including intubation, epinephrine administration, and IV fluids. The inmate was unresponsive, exhibiting fixed and dilated pupils, circumferential bruising around the neck, and mottled skin. Despite interventions, the inmate was transported to a local ER with ongoing CPR. A consultation request for an Emergency Room and translator was initiated.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "cpr",
+        "emergency",
+        "resuscitation",
+        "iv",
+        "epinephrine",
+        "endotracheal tube",
+        "nym",
+        "cardiac arrest",
+        "ems"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00035007",
+            "similarity": 0.818,
+            "index": 39,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00034558",
+            "similarity": 0.667,
+            "index": 41,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033611",
+            "similarity": 0.818,
+            "index": 43,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00036580",
+      "summary": "An investigation is underway to reconstruct inmate Epstein’s 292 record from August 5-9, 2019, following his death in SHU 3 at NYM. Records from July 7-August 10, 2019, including Epstein’s movement between SHU 3 and other locations, were reviewed and documented in Epstein 292 forms. The SHU administration data was then added to the 292 history reports.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "epstein",
+        "shu",
+        "292 forms",
+        "inmate",
+        "records",
+        "death",
+        "nym",
+        "redaction analysis",
+        "history reports",
+        "august 5 2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00036643",
+            "similarity": 0.538,
+            "index": 58,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00036686",
+      "summary": "On August 10, 2019, an individual reported an incident in New York. The sender, “[REDACTED],” requested recipients to provide updates via email or text message due to their continued high workload.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "efta00036686",
+        "nym",
+        "redaction",
+        "incident",
+        "new york",
+        "samsung galaxy",
+        "verizon",
+        "email",
+        "text",
+        "boss"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00036744",
+            "similarity": 0.667,
+            "index": 42,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00036685",
+            "similarity": 0.5,
+            "index": 44,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00033610",
+      "summary": "This document is a clinical encounter finalized regarding Jeffrey Edward Epstein (Reg # 76318-054) within the MCC New York facility, Department of Justice, Bureau of Prisons. It was sent on August 10, 2019, and is marked as confidential, referencing case number SDNY_00008855 and file EFTA00033610.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "efta00033610",
+        "jeffrey epstein",
+        "code epstein",
+        "department ofjustice",
+        "bureau o1 prisons",
+        "nym",
+        "clinical encounter",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035007",
+      "summary": "On August 10, 2019, Jeffrey Epstein was found unresponsive in his cell at the NYM facility. Initial responders initiated CPR. Medical staff administered epinephrine, sodium bicarbonate, and oxygen. An endotracheal tube was placed, and an 18-gauge IV was established. The inmate was transported to the Special Housing Unit (HSU) and subsequently to a local emergency room while continuing to receive CPR. A cardiac arrest diagnosis was made, and a consultation with the emergency room was requested as emergent. The encounter involved numerous interventions including medications, airway management, and resuscitation efforts.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "cpr",
+        "epinephrine",
+        "iv",
+        "endotracheal tube",
+        "emergency",
+        "resuscitation",
+        "nym",
+        "cardiac arrest",
+        "paramedics"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035502",
+            "similarity": 0.818,
+            "index": 35,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00034558",
+            "similarity": 0.818,
+            "index": 41,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00033611",
+            "similarity": 1.0,
+            "index": 43,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00036742",
+      "summary": "On August 10, 2019, an individual informed multiple recipients (including individuals at the Bureau of Prisons) about an incident in New York. The sender stated everything was “as good as can be” and requested a quick email or text message for updates, noting the sender was busy.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "redaction",
+        "efta00036742",
+        "nym",
+        "verizon",
+        "samsung",
+        "email",
+        "text",
+        "8/10/19",
+        "bop",
+        "smartphonc"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034558",
+      "summary": "On August 10, 2019, Jeffrey Epstein was found unresponsive in his cell at NYM facility. Emergency medical personnel responded and initiated CPR. The inmate was found with circumferential bruising around the neck, fixed and dilated pupils, and no palpable pulses. Treatment included endotracheal intubation, IV access with a 18g peripheral IV, administration of epinephrine and sodium bicarbonate, and oxygen via a BVM. CPR continued until EMS and paramedics arrived. The inmate was then transported to an emergency room with ongoing CPR. A consultation request was made for a translator and ambulance service due to the cardiac arrest.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "cpr",
+        "emergency",
+        "resuscitation",
+        "iv",
+        "medications",
+        "endotracheal tube",
+        "nym",
+        "paramedics",
+        "cardiac arrest"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035007",
+            "similarity": 0.818,
+            "index": 39,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00035502",
+            "similarity": 0.667,
+            "index": 35,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00033611",
+            "similarity": 0.818,
+            "index": 43,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00036744",
+      "summary": "An email chain discusses an incident in New York. One sender informs another that everything is “as good as can be” and requests a quick email or text update from recipients. The emails are sent from Verizon smartphones.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "10 Aug 2019",
+      "keywords": [
+        "nym",
+        "redaction",
+        "email",
+        "text",
+        "new york",
+        "incident",
+        "samsung",
+        "verizon",
+        "2019",
+        "boss"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00036686",
+            "similarity": 0.667,
+            "index": 37,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00036685",
+            "similarity": 0.75,
+            "index": 44,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00036741",
+            "similarity": 0.667,
+            "index": 56,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00036655",
+            "similarity": 0.538,
+            "index": 64,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00033611",
+      "summary": "On August 10, 2019, Jeffrey Epstein (Reg # 76318-054) at NYM facility experienced a medical emergency, classified as a resuscitation event requiring CPR. Initial responders (correctional officers) found him unresponsive in his cell.  Medical personnel initiated interventions including endotracheal intubation, IV access with a peripheral IV (18g left AC), administration of epinephrine and sodium bicarbonate, oxygen via a BVM, and continuous cardiac monitoring. Despite these efforts, the inmate sustained an asystole and was transported to a local ER with CPR in progress. A consultation request for an emergency room was initiated.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "cpr",
+        "epinephrine",
+        "iv",
+        "endotracheal tube",
+        "nym",
+        "emergency",
+        "cardiac arrest",
+        "resuscitation",
+        "paramedics"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034558",
+            "similarity": 0.818,
+            "index": 41,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00035007",
+            "similarity": 1.0,
+            "index": 39,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00035502",
+            "similarity": 0.818,
+            "index": 35,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036685",
+      "summary": "On August 10, 2019, emails were exchanged regarding an incident in New York. One individual (identified as “Boss”) was busy and requested recipients to send an email or text message for updates. Another individual sent an initial email regarding the incident, stating that everything was as good as could be expected, and that a quick message would be helpful. The emails were sent from Samsung Galaxy smartphones and involved multiple redacted recipients.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "efta00036685",
+        "nym",
+        "redaction",
+        "new york",
+        "august 10",
+        "2019",
+        "email",
+        "text",
+        "samsung",
+        "boss",
+        "incident"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00036744",
+            "similarity": 0.75,
+            "index": 42,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00036686",
+            "similarity": 0.5,
+            "index": 37,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00036741",
+            "similarity": 0.5,
+            "index": 56,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035069",
+      "summary": "On August 10, 2019, the Associate Warden of MCC New York sent an email referencing case file EFTA00035069 and stating they have the “actual bog” available for later use. The email included contact information for the Associate Warden and NYM/AW-Programs@bop.gov.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "efta00035069",
+        "bop",
+        "associate warden",
+        "nym",
+        "mcc new york",
+        "8/10/2019",
+        "redaction analysis",
+        "programs",
+        "new york",
+        "attachment"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034494",
+      "summary": "An email chain, dated August 10, 2019, discusses a timeline referred to as “NYM Time Line.” The email originated from [REDACTED] and was forwarded by [REDACTED]. The email is classified as CONFIDENTIAL and includes the case identifier SDNY_00011145 and document identifier EFTA00034494. There were four redactions on page 1.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "efta00034494",
+        "nym",
+        "time line",
+        "redaction",
+        "confidential",
+        "sdny",
+        "2019",
+        "2025",
+        "verizon",
+        "samsung"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019805",
+      "summary": "The report details his movements and assignments from August 10, 2019, through the time of creation (December 25, 2025). Key details include: *   **Initial Admission:**  He was admitted on August 10, 2019, at 0747 from USM.  A pre-sent admit occurred on July 6, 2019, at 2124. *   **Court Appearances:** He had a court appearance scheduled for July 8, 2019, at 0920 with a return scheduled for 0747. *   **Housing Assignments:** He was assigned to various beds within the facility (Z/Range 04, 05, 02, 01, 06, and 547U) with specific dates and times of assignment and movement. *   **Assignments & Activities:** He had assignments including care level care, court appearances, SEX TRAFFICKING CONSP., SEX TRAFFICKING OF MINORS,  guard duty, and supervision ( SECUR THRT RAPE H). There were multiple assignments associated with “Attorney Visit” at various times. *   **No Discipline Record:** There are no disciplinary records (as of August 10, 2019) listed in the chronological log. *   **No Current Sentence Data:** There are no current or prior sentence data details recorded. *   **Further Investigation:** The report notes the existence of ongoing investigation related to sex trafficking. The document is part of a series of NYMHM reports (533.01) providing assignment history.  The report is incomplete; it indicates that more pages were to follow.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "efta00019805",
+        "jeffrey epstein",
+        "nym",
+        "inmate history",
+        "adm-rel",
+        "fcl",
+        "date/time",
+        "regno",
+        "category",
+        "assignment",
+        "hosp",
+        "court",
+        "quarters",
+        "rft",
+        "assignments",
+        "discipline",
+        "sentence monitoring",
+        "data",
+        "security",
+        "r6318-054",
+        "usa",
+        "sex trafficking"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030457",
+      "summary": "This document contains inmate history and data related to Jeffrey Edward Epstein (76318-054) at the Metropolitan Correctional Center (MCC) New York. It includes: *   **Inmate History:** A detailed record of his housing assignments (rooms and beds) from July 2019 through August 10, 2019, with dates and times of assignments. *   **Category:** QTR (likely meaning quarters), indicating a standard housing assignment. *   **Function:** FCL (likely referring to a specific function or program). *   **Discipline Data:** A chronological record of disciplinary actions (though none exist within the timeframe covered). *   **Security/Designation Data:** Information regarding his security level (W/M/66), offense (sex trafficking of minors), and custody classification, including his medical and psychological status. *   **Inmate Profile:** A comprehensive profile detailing his personal information (birthdate, address, etc.), program assignments, and other relevant details. *   **TRUVIEW Report:** A report documenting his interactions, including money received and sent, calls, and visits, from May 11, 2020. The document appears to be part of a larger system for tracking inmate information within the Federal Bureau of Prisons.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "inmate",
+        "jeffrey edward epstein",
+        "efta00030457",
+        "ncrbm",
+        "quarters",
+        "fcl",
+        "assignment",
+        "history",
+        "dates",
+        "nym",
+        "house",
+        "range",
+        "bed",
+        "206l",
+        "sex trafficking",
+        "cya",
+        "discipline",
+        "security",
+        "designation",
+        "custody",
+        "category",
+        "mental health",
+        "education",
+        "finance",
+        "religion",
+        "metropolitan correctional center",
+        "usm",
+        "doc"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019947",
+      "summary": "Jane Lytvynenko, a reporter with BuzzFeed News, is contacting an undisclosed recipient regarding reports of Jeffrey Epstein’s death and requesting confirmation. The email includes her contact information and an anonymous tip reference (EFTA00019947).",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "10 Aug 2019",
+      "keywords": [
+        "epstein",
+        "buzzfeed news",
+        "jane lytvynenko",
+        "confirmation",
+        "death",
+        "reporter",
+        "tip",
+        "efta00019947"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034358",
+      "summary": "This document is an email update regarding the timeline of investigations involving Jeffrey Edward Epstein (Reg. No. 73618-054). It includes two redaction notations and attachments named “TEXT.htm” and “Epstein, Jeffrey Edward, Reg. No. 73618-054_1.docx”. The email is sent from an unknown sender to NYM/Executive Staff@bop.gov and is marked as CONFIDENTIAL.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "8/10/2019",
+      "keywords": [
+        "epstein",
+        "jeffrey edward",
+        "redaction analysis",
+        "timeline",
+        "bop.gov",
+        "sdny",
+        "reg. no. 73618-054"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00034473",
+            "similarity": 0.556,
+            "index": 137,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034116",
+      "summary": "A BuzzFeed News reporter, Jane Lytvynenko, contacted a team (NYM/Exec Assistant) regarding a potential leak concerning the response to Jeffrey Epstein’s death. She provided evidence of posts on 4chan, published 45 minutes before ABC News reported the death, and requested verification of the information and a statement on the situation.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "8/10/2019",
+      "keywords": [
+        "epstein",
+        "death",
+        "4chan",
+        "buzzfeed news",
+        "leak",
+        "paramedics",
+        "reporting",
+        "mainstream media",
+        "troll",
+        "jane lytvynenko"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034497",
+      "summary": "The document is a Bureau of Prisons Count Sheet from the New York Metropolitan Correctional Center (NYMFC) dated August 10, 2019. It details an outcount performed at 01:20:48, involving a census of various sections (A-Z) within Unit ZA. The count yielded a total of 758 individuals. The sheet includes sections for recording the names and signatures of officials involved in preparing, taking, and clearing the count. Several pages contain redacted information marked \"[REDACTED]\".",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "efta00034497",
+        "count",
+        "metropolitan correctional center",
+        "unit",
+        "signature",
+        "redaction",
+        "bureau of prisons",
+        "nymfc",
+        "sdny",
+        "count sheet"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035475",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] on August 10, 2019, regarding a timeline labeled “NYM Time Line” (EFTA00035475). The email was forwarded from Vcrizon via a Samsung Galaxy smartphone. Two redactions are present on page 1.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "efta00035475",
+        "nym time line",
+        "redaction",
+        "fwd",
+        "samsung",
+        "vcrizon",
+        "2019",
+        "2025",
+        "analysis",
+        "time line"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00033616",
+      "summary": "This document is a confidential Daily Activities Report-Lieutenants Log, dated August 11, 2019, generated on August 5, 2019 (LOC). It includes associated documents: Daily Activities Report-Lieutenants LOC (05-04-2019.docx) and LIEUTENANT’S LOG 08-11-2019.docm. The report is associated with case number SDNY_00008873 and EFTA00033616.  The report was sent to various personnel including NYM Duty Officers, Executive Staff, Lieutenants, and Psychology Services within the Bureau of Prisons.",
+      "timestamp": "2019-08-11T00:00:00",
+      "timestamp_raw": "August 11, 2019",
+      "keywords": [
+        "efta00033616",
+        "redaction analysis",
+        "lieutenant's log",
+        "daily activities report",
+        "nym",
+        "bop",
+        "2019",
+        "2025",
+        "confidential",
+        "loc"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036597",
+      "summary": "A 292 history report for inmate Epstein is requested, covering the week of August 4th, 2019 (Monday, August 5th – Friday, August 9th). The report aims to reconstruct Epstein’s record due to the inability to access J3P1 and his subsequent death in the SHU cell on Saturday morning, August 11th.",
+      "timestamp": "2019-08-11T00:00:00",
+      "timestamp_raw": "8/11/2019",
+      "keywords": [
+        "epstein",
+        "history report",
+        "shu",
+        "nym",
+        "inmate",
+        "records",
+        "august 4th",
+        "death",
+        "reconstruction",
+        "j3p1"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00036643",
+            "similarity": 0.538,
+            "index": 58,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00036741",
+      "summary": "On August 11, 2019, a message was sent from [REDACTED] to [REDACTED] regarding an incident in New York. The sender, [REDACTED], reported that everything was “as good as can be” and requested a message be sent. On August 10, 2019, [REDACTED] sent a similar message to [REDACTED] regarding the same incident, noting the recipient's continued busyness and requesting a quick message.",
+      "timestamp": "2019-08-11T00:00:00",
+      "timestamp_raw": "August 11, 2019",
+      "keywords": [
+        "efta00036741",
+        "nym",
+        "redaction",
+        "email",
+        "text",
+        "samsung",
+        "verizon",
+        "2019",
+        "2025",
+        "incident"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00036685",
+            "similarity": 0.5,
+            "index": 44,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00036744",
+            "similarity": 0.667,
+            "index": 42,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035208",
+      "summary": "This email chain pertains to Jeffrey Edward Epstein’s case file (Reg. No. 73618-054), specifically regarding Attorney Confidential Log Books (Parts 1-4). An Associate Warden at MCC New York sent an email referencing a physical “bog” (likely a document) and an attached HTML file (“TEXT.htm”). A reply confirms receipt of the attached file and reference to the EFTA00035208 case file.",
+      "timestamp": "2019-08-11T00:00:00",
+      "timestamp_raw": "11 Aug 2019",
+      "keywords": [
+        "epstein",
+        "jeffrey edward",
+        "attorney conf log book",
+        "bop",
+        "nym",
+        "aw",
+        "efta00035208"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036643",
+      "summary": "An email chain discusses reconstructing inmate Epstein’s (76318-054) 292 data records from August 5th to August 9th, 2019, following his death in NYM SHU. Black investigated Epstein’s SHU history, including multiple moves between SHU 3, and populated this data into 292 reports. Chen requested this reconstruction as a time-critical task. Attached documents include various 292 reports related to Epstein's time in SHU 3.",
+      "timestamp": "2019-08-12T00:00:00",
+      "timestamp_raw": "12 Aug 2019",
+      "keywords": [
+        "epstein",
+        "shu",
+        "292 data",
+        "redaction analysis",
+        "inmate",
+        "nym",
+        "records",
+        "august 2019",
+        "death",
+        "reconstruction"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00036597",
+            "similarity": 0.538,
+            "index": 55,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00036580",
+            "similarity": 0.538,
+            "index": 36,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036853",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] on August 12, 2019, regarding “Prisoner Production” for August 13, 2019. The email included attachments: TEXT.htm, NYM_08-13-2019.pdf, and BRO_08-13-2019.pdf, and referenced document EFTA00036853 and EFTA00036854.",
+      "timestamp": "2019-08-12T00:00:00",
+      "timestamp_raw": "August 12, 2019",
+      "keywords": [
+        "prisoner production",
+        "efta00036853",
+        "redaction analysis",
+        "2019",
+        "pdf",
+        "nym",
+        "bro"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035553",
+            "similarity": 0.5,
+            "index": 13,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035218",
+      "summary": "This document is a redaction analysis related to case file EFTA00035218. It concerns Jeffrey Edward Epstein (Reg. No. 73618-054) and includes updates regarding a timeline involving the warden and OIG, scheduled to arrive on Sunday, and contact information for the Associate Warden at MCC New York.",
+      "timestamp": "2019-08-12T00:00:00",
+      "timestamp_raw": "12 Aug 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "warden",
+        "oig",
+        "timeline",
+        "new york",
+        "nym",
+        "isp",
+        "efta00035218",
+        "73618-054",
+        "updates"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036912",
+      "summary": "A Warden at MCC New York (150 Park Row, New York, NY 10007) is checking in with an inmate associated with EFTA00036912, following a recent inmate suicide at NYM. The Warden offers support and invites the inmate to contact the ICE Coordinator.",
+      "timestamp": "2019-08-12T00:00:00",
+      "timestamp_raw": "8/12/2019",
+      "keywords": [
+        "efta00036912",
+        "inmate suicide",
+        "nym",
+        "mcc new york",
+        "bop",
+        "warden",
+        "coordinator",
+        "2019",
+        "new york",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034376",
+      "summary": "An email was sent from Certified-Law Enforcement to the Forats Registration Compliance Unit requesting information on Jeffrey Epstein. An ODF file named \"JeftrevEpsteinReouest.odf\" was attached to the email.",
+      "timestamp": "2019-08-12T00:00:00",
+      "timestamp_raw": "8/12/2019",
+      "keywords": [
+        "jeffrey epstein",
+        "redaction",
+        "request for information",
+        "enforcement",
+        "registration compliance",
+        "nym",
+        "confidential",
+        "efta00034376"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036679",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] requesting a review of inmates currently on watch, recently on watch, or flagged as Psych Alerts. The request directs the appropriate Psych Service employee to contact the NYM Chief Psych or Acting Chief to verify proper evaluations, housing, and completion of psych evaluation documentation and PDS. Completion notification is requested.",
+      "timestamp": "2019-08-12T00:00:00",
+      "timestamp_raw": "12 Aug 2019",
+      "keywords": [
+        "psych review",
+        "inmate",
+        "psych alerts",
+        "evaluations",
+        "documentation",
+        "pds",
+        "watch",
+        "nym",
+        "administrator",
+        "redacted"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036655",
+      "summary": "On August 12, 2019, a Regional Director from the Northeast Region sent an email regarding an incident in New York. The sender requested recipients to send an email or text message to update the recipient, who is \"busy,\" on the situation. The email was sent from a Verizon Samsung Galaxy smartphone.",
+      "timestamp": "2019-08-12T00:00:00",
+      "timestamp_raw": "August 12, 2019",
+      "keywords": [
+        "nym",
+        "incident",
+        "new york",
+        "email",
+        "text",
+        "regional director",
+        "northeast region",
+        "verizon",
+        "samsung",
+        "efta00036655"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00036744",
+            "similarity": 0.538,
+            "index": 42,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036595",
+      "summary": "An email chain discusses reconstructing inmate Epstein’s 292 record for the week of August 5-9, 2019, following his death in the SHU cell at NYM. The sender, unable to access J3P1, requested the recipient prioritize the reconstruction of the record. An attached 292 history report (week of August 4th) was also provided.",
+      "timestamp": "2019-08-12T00:00:00",
+      "timestamp_raw": "12 Aug 2019",
+      "keywords": [
+        "epstein",
+        "inmate",
+        "redaction",
+        "data",
+        "reconstruction",
+        "history",
+        "record",
+        "shu",
+        "nym",
+        "292"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00036570",
+            "similarity": 0.538,
+            "index": 12,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036911",
+      "summary": "An email was sent from the Associate Warden of MCC New York to an unknown recipient regarding a “Watch Call.” The Warden expresses concern about the recipient’s well-being following a recent inmate suicide and offers assistance. An attached file named “TEXT.htm” was included.",
+      "timestamp": "2019-08-12T00:00:00",
+      "timestamp_raw": "12 Aug 2019",
+      "keywords": [
+        "efta00036911",
+        "inmate suicide",
+        "nym",
+        "warden",
+        "call",
+        "redaction",
+        "2019",
+        "mcc new york",
+        "text.htm",
+        "watch call"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036320",
+      "summary": "On August 12, 2019, a communication was sent to Metropolitan Correctional Center staff regarding staff assignments within Special Housing Units (SHU). The communication, titled “Staff Assignments in SHU (Please Read),” indicated that certain staff members were temporarily restricted from entering, performing work, or being assigned to SHU posts until further notice, subject to Captain approval. The communication included attachments and listed recipients including Lieutenants, Captain, and the NYM/Lieutenants team.",
+      "timestamp": "2019-08-12T00:00:00",
+      "timestamp_raw": "August 12, 2019",
+      "keywords": [
+        "shu",
+        "redaction analysis",
+        "efta00036320",
+        "bop",
+        "staff assignments",
+        "lieutenant",
+        "special housing unit",
+        "metropolitan correctional center"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00033703",
+      "summary": "An email exchange between the Associate Warden of MCC New York and an unidentified sender discusses Jeffrey Edward Epstein, Reg. No. 73618-054, updating information on August 13, 2019. The email originates from the New York Medical/Associate Warden Programs address at the Bureau of Prisons.",
+      "timestamp": "2019-08-13T00:00:00",
+      "timestamp_raw": "August 13, 2019",
+      "keywords": [
+        "epstein",
+        "jeffrey edward",
+        "redaction analysis",
+        "efta00033703",
+        "bop",
+        "nym",
+        "sdny"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00034473",
+            "similarity": 0.556,
+            "index": 137,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00036733",
+      "summary": "On August 13, 2019, a request was made to deploy 3-4 Lead Technical Specialists (LTs) from a region to NYM for 30 days, followed by a rotation of 3-4 more LTs for another 30 days. The request included consideration of LTs from multiple locations and, if necessary, outside the region, subject to approval from Regional Directors (RDs) after consultation with other Customer Success Account Managers (CSAs).",
+      "timestamp": "2019-08-13T00:00:00",
+      "timestamp_raw": "August 13, 2019",
+      "keywords": [
+        "efta00036733",
+        "lts",
+        "tdy",
+        "nym",
+        "warden",
+        "csas",
+        "rds",
+        "region",
+        "2019",
+        "august"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036117",
+      "summary": "A Maintenance Worker Supervisor (Maintenance Worker Foreman) position (WS-4749-08) at MCC New York, NY has been posted on USAJOBS under announcement NYM-2019-0051. The open period is August 13, 2019 – August 20, 2019, accepting the first 55 applications. The announcement will close at 11:59 p.m. EST on August 20, 2019, when the 55th application is received. All U.S. citizens are eligible to apply.",
+      "timestamp": "2019-08-13T00:00:00",
+      "timestamp_raw": "August 13, 2019",
+      "keywords": [
+        "maintenance worker supervisor",
+        "usajobs",
+        "deu vacancy",
+        "nym-2019-0051",
+        "mcc new york",
+        "u.s. citizens",
+        "application",
+        "foreman",
+        "ws-4749-08"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035628",
+      "summary": "An unsigned memo regarding the After Action Review Team NYM is being shared. The sender requests that computer services be available for the team’s access and anticipates discussing the memo further in the morning.",
+      "timestamp": "2019-08-14T00:00:00",
+      "timestamp_raw": "14 Aug 2019",
+      "keywords": [
+        "efta00035628",
+        "after action review",
+        "nym",
+        "memo",
+        "computer services",
+        "android",
+        "word",
+        "verizon",
+        "samsung",
+        "review team"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034804",
+      "summary": "Fran sent an unsigned memo titled “After Action Review Team NYM.pdf” to a recipient on August 14, 2019, at 12:52:36 AM. The memo requests computer services be available for the after action review team and includes a reminder to get rest before the meeting the following day. The memo was shared from Word for Android.",
+      "timestamp": "2019-08-14T00:00:00",
+      "timestamp_raw": "August 14, 2019",
+      "keywords": [
+        "after action review",
+        "nym",
+        "memo",
+        "confidential",
+        "access",
+        "word",
+        "android",
+        "samsung",
+        "efta00034804"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036625",
+      "summary": "An email chain discusses a request for someone to be available for the next couple of weeks to assist an individual (“He”) dealing with numerous requests. One email suggests the recipient, “[REDACTED],” be a go-to person. A second email, dated earlier, references ABS and the availability of assistance from NYM.",
+      "timestamp": "2019-08-14T00:00:00",
+      "timestamp_raw": "14 Aug 2019",
+      "keywords": [
+        "efta00036625",
+        "redaction",
+        "analysis",
+        "request",
+        "planning",
+        "verizon",
+        "samsung",
+        "galaxy",
+        "2019",
+        "2025"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036620",
+      "summary": "An After Action Memo was sent on August 14, 2019, regarding the arrival of an After Action Team (NYM) to be formatted and a signed copy will be provided later that week. The memo included attachments: TEXT.htm, After_Action_Review_Team_NYM.docx, and vcf.",
+      "timestamp": "2019-08-14T00:00:00",
+      "timestamp_raw": "August 14, 2019",
+      "keywords": [
+        "after action memo",
+        "efta00036620",
+        "review",
+        "team",
+        "format",
+        "document",
+        "analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036860",
+      "summary": "An email was sent from the Associate Warden of MCC New York to [REDACTED] regarding incomplete Nasal Naloxone training. The email requests the recipient log in to BLU and complete the training, notifying the sender upon completion. The email is dated August 16, 2019, and references HSD-0630-BXX Nasal Naloxone Administration NYM.",
+      "timestamp": "2019-08-16T00:00:00",
+      "timestamp_raw": "August 16, 2019",
+      "keywords": [
+        "nasal naloxone",
+        "training",
+        "blu",
+        "naloxone",
+        "administration",
+        "efta00036860",
+        "redaction",
+        "mandatory",
+        "hsd-0630-bxx",
+        "nym"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036617",
+      "summary": "The email chain discusses an “Epstein Draft” and TDY (Temporary Duty Assignment) officers from other locations (specifically, MCC NYM) assisting with overtime (OT) at the Northeast Region. Approximately 15 officers were TDY during a 30-day period, and the OT was largely provided by these additional staff. A question is raised about whether providing this information would demonstrate additional staff availability and alleviate concerns about current staff fatigue. The document includes attachments: TEXT.htm and EFTA00036618.",
+      "timestamp": "2019-08-16T00:00:00",
+      "timestamp_raw": "16 Aug 2019",
+      "keywords": [
+        "epstein",
+        "draft",
+        "overtime",
+        "staff",
+        "mcc",
+        "nym",
+        "tdy",
+        "regional director",
+        "shortages",
+        "officers"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036373",
+      "summary": "On August 16, 2019, the U.S. Dept. of Justice’s Federal Bureau of Prisons Sacramento Intelligence Unit sent an email regarding a “SIS ADVISORY FRAUDULENT LEGAL VISITS” to [REDACTED]. An attached document, “Fradulent_Legal_Visits_08152019.pdf”, and a web page TEXT.htm were included. The inmate file EFTA00036373 was referenced.",
+      "timestamp": "2019-08-16T00:00:00",
+      "timestamp_raw": "August 16, 2019",
+      "keywords": [
+        "bop",
+        "fraudulent legal visits",
+        "sis advisory",
+        "redaction analysis",
+        "nym",
+        "bureau of prisons",
+        "fbi",
+        "legal visits",
+        "fraud",
+        "sacramento"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036619",
+      "summary": "An email chain discusses information requested regarding personnel sent on Temporary Duty (TDY) to Naval Air Station Mid-America (NYM). One individual ([REDACTED]) requested details about staff being sent to NYM, specifically including personnel additions to the Mission Control Center (MCC), such as wardens, lieutenants, and commanding officers. Another individual ([REDACTED]) was providing updates on finalizing numbers and offered preliminary information.",
+      "timestamp": "2019-08-16T00:00:00",
+      "timestamp_raw": "16 Aug 2019",
+      "keywords": [
+        "efta00036619",
+        "nym",
+        "tdy",
+        "staff",
+        "mcc",
+        "personnel",
+        "warden",
+        "lieutenants",
+        "cos",
+        "follow up"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036861",
+      "summary": "The sender is requesting the recipient to complete the HSD•0630•BXX Nasal Naloxone Administration NYM training within the BLU system and notify them upon completion.",
+      "timestamp": "2019-08-16T00:00:00",
+      "timestamp_raw": "8/16/2019",
+      "keywords": [
+        "nasal naloxone",
+        "training",
+        "blu",
+        "efta00036861",
+        "hsd0630",
+        "nym",
+        "naloxone administration",
+        "associate warden",
+        "new york",
+        "business office"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036608",
+      "summary": "Staffing for Temporary Duty (TDY) assistance at MCC New York (NYM) includes: 1 Warden, 1 Deputy Warden, 1 Deputy Captain, 12 Lieutenants, 15 Correctional Officers (8 Custody, 7 Non-Custody), 1 Case Management Coordinator/CMC, 1 Supervisory Correctional Systems Specialist/SCSS, and 3-4 Correctional Systems Officers. Additional TDY officers will be scheduled on a rotational basis.  Additionally, teams are being developed for operational reviews, procedure recommendations, and staff training in Correctional Services, Correctional Services Expertise, Correctional Services Team, and Correctional Programs. The Correctional Services Administrator will return August 19, 2019, and the sender requests a list of personnel added to MCC, including the warden, lieutenants, and correctional officers.",
+      "timestamp": "2019-08-19T00:00:00",
+      "timestamp_raw": "August 19, 2019",
+      "keywords": [
+        "tdy",
+        "mcc nym",
+        "correctional officers",
+        "staffing",
+        "procedures",
+        "inmate accountability",
+        "special housing unit",
+        "r&d",
+        "training",
+        "warden"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027247",
+      "summary": "The consultant suggests requesting extensive documentation related to Epstein’s case, including training outlines, intake forms, psychological records, incident reports, logbooks, observation records, and data from BOP systems (PDS/BEMR, SENTRY). He emphasizes the need for transparency and accountability within the BOP, citing issues with leadership and policy implementation. The consultant believes a thorough investigation requires detailed scrutiny of BOP operational procedures and data rather than relying solely on legislative changes.",
+      "timestamp": "2019-08-23T00:00:00",
+      "timestamp_raw": "23 Aug 2019",
+      "keywords": [
+        "bop",
+        "epstein",
+        "nadler",
+        "investigative",
+        "training",
+        "suicide watch",
+        "data system",
+        "psychological intake",
+        "redaction",
+        "policy"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036420",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] regarding the deployment of FAI TDY volunteers to NYM. The sender proposes that staff arrive on Sunday, August 25, 2019, to facilitate scheduling and ensure seamless transition. Key personnel needs identified include Lieutenants, Security Officers, EPOs, Line Staff, and coverage for specific operational areas like SHU operations and housing units.",
+      "timestamp": "2019-08-25T00:00:00",
+      "timestamp_raw": "August 25, 2019",
+      "keywords": [
+        "efta00036420",
+        "fai tdy",
+        "volunteers",
+        "nym",
+        "roster",
+        "coverage",
+        "staff",
+        "sunday",
+        "august 25",
+        "2019",
+        "transition"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037868",
+      "summary": "An FBI Legal Attaché from Canberra, Australia, is coordinating with the FBI in New York regarding a threat made against a US citizen living in Australia who is also a victim in the Jeffrey Epstein investigation. The citizen contacted the AFP (Australian Federal Police) for confirmation of the threat, which originated from an anonymous individual. The FBI requests details including a dark net URL, screenshots, the username of the threat maker, the exact wording of the threat, and any subsequent commentary. The FBI is investigating the threat and providing information to the AFP.",
+      "timestamp": "2019-09-07T00:00:00",
+      "timestamp_raw": "07 Sep 2019",
+      "keywords": [
+        "threat",
+        "fbi",
+        "australia",
+        "us citizen",
+        "dark net",
+        "threat made",
+        "fbi legal attache",
+        "jeffrey epstein",
+        "afp",
+        "queensland police"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023369",
+      "summary": "This document is a judge’s ruling regarding the government’s motion to use pseudonyms and redact certain identifying information during a criminal trial involving allegations of sexual abuse. The judge denies the defense’s argument that using pseudonyms prejudices the defendant, citing numerous court precedents that support the government’s position.  Specifically, the judge grants the government’s request to refer to certain witnesses and exhibits by pseudonyms to protect the privacy and potential harassment of alleged victims. This decision is based on the Crime Victims Rights Act and the government’s justification of protecting the victims from adverse consequences. The judge instructs the jury to repeatedly emphasize the presumption of innocence and the government’s burden of proof, mitigating any potential prejudice.  Furthermore, the judge requires the government to confer with witnesses and propose a limiting instruction for the jury, and jointly submit a plan for managing exhibits with redactions by November 10th.",
+      "timestamp": "2019-10-17T00:00:00",
+      "timestamp_raw": "October 17, 2019",
+      "keywords": [
+        "redaction analysis",
+        "victims rights act",
+        "pseudonyms",
+        "evidence",
+        "witnesses",
+        "burden of proof",
+        "jury instructions",
+        "disclosure",
+        "crime",
+        "abuse",
+        "credibility",
+        "identity"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027102",
+      "summary": "On November 8, 2019, at 7:22 AM, Jeffrey Epstein’s inmate detail report (EFTA00027102) indicated he was inactive at NYM-Z-A, Quarters Z04-206LAD in DC. His TRUFACS balance was $566.27, TRULPHONE $0.00, and TRULINCS $0.00. On November 13, 2019, the report continued with no AKAs/Nicknames, Security Threat Group information, current charges, or ARS history data. User ID GOV0100 accessed the report.",
+      "timestamp": "2019-11-08T00:00:00",
+      "timestamp_raw": "November 8, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "federal bureau of prisons",
+        "truview",
+        "inmate detail report",
+        "dc",
+        "nym",
+        "trufacs",
+        "trufone",
+        "trulincs",
+        "status"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038382",
+      "summary": "A communication, dated November 25, 2019, from an individual (“From”) to Edward ([REDACTED]), discusses materials allegedly obtained from Jeffrey Epstein’s home. The materials consist of video footage depicting alleged sexual activity involving minors, including multiple videos with varying durations.  A request is made for 1 Bitcoin (btc) to be sent to a wallet address to facilitate the anonymous delivery of a USB drive containing the materials. The sender emphasizes the confidentiality and exclusivity of the information and requests immediate confirmation.",
+      "timestamp": "2019-11-25T00:00:00",
+      "timestamp_raw": "November 25, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "redaction analysis",
+        "bitcoin",
+        "litigation",
+        "video footage",
+        "minor",
+        "rape fantasy",
+        "protonmail",
+        "zorro",
+        "confidential"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038817",
+      "summary": "Jill Greenfield, a partner at Fieldfisher, is assisting with an investigation related to the Epstein case. She is coordinating with the NYPD/FBI and prosecutors from the Southern District of New York regarding a client who is a victim of sexual assault and entitled to anonymity under UK Statute. Greenfield proposes a call to discuss details and potential interview arrangements, emphasizing the client’s right to anonymity and requesting confirmation of the team’s interest in the case. Fieldfisher provides contact information and a standard email disclaimer regarding bank details and confidentiality.",
+      "timestamp": "2020-01-28T00:00:00",
+      "timestamp_raw": "28 Jan 2020",
+      "keywords": [
+        "epstein investigation",
+        "jill greenfield",
+        "fieldfisher",
+        "human trafficking",
+        "child exploitation",
+        "new york",
+        "fbi",
+        "solicitors",
+        "london",
+        "sexual assault"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00038760",
+            "similarity": 0.727,
+            "index": 88,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00038803",
+            "similarity": 0.538,
+            "index": 90,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038760",
+      "summary": "Jill Greenfield, a partner at Fieldfisher, is involved in an investigation regarding the Epstein case, specifically concerning a client potentially involved in sexual assault. She is coordinating with the FBI (N. NY) and the NYPD/FBI Child Exploitation Human Trafficking Task Force.  She proposes scheduling a call to discuss details and the client's request for an interview in London, emphasizing the client’s right to anonymity under UK Statute.  Fieldfisher provides contact information and a disclaimer regarding bank details and email communication.",
+      "timestamp": "2020-02-01T00:00:00",
+      "timestamp_raw": "01 Feb 2020",
+      "keywords": [
+        "epstein investigation",
+        "jill greenfield",
+        "fieldfisher",
+        "fbi",
+        "new york",
+        "solicitors",
+        "anonymity",
+        "sexual assault",
+        "london"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038817",
+            "similarity": 0.727,
+            "index": 87,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00038778",
+            "similarity": 0.545,
+            "index": 89,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038803",
+            "similarity": 0.583,
+            "index": 90,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038778",
+      "summary": "Jill Greenfield, a partner at Fieldfisher, is facilitating communication regarding an investigation related to the Epstein case. She is corresponding with a detective from the NYPD/FBI Child Exploitation Human Trafficking Task Force and the USAWS team, primarily discussing a potential client interview in London. The client is entitled to anonymity under UK Statute due to being a victim of sexual assault. Fieldfisher confirms they do not intend to change bank details and advises caution regarding any communication suggesting altered bank information.",
+      "timestamp": "2020-02-01T00:00:00",
+      "timestamp_raw": "01 Feb 2020",
+      "keywords": [
+        "epstein investigation",
+        "jill greenfield",
+        "fieldfisher",
+        "london",
+        "usaws",
+        "prosecutors",
+        "sexual assault",
+        "anonymity"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038760",
+            "similarity": 0.545,
+            "index": 88,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00038803",
+            "similarity": 0.5,
+            "index": 90,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00038803",
+      "summary": "Jill Greenfield, a partner at Fieldfisher, is communicating with the FBI regarding the Epstein investigation. She is coordinating with the AUSA (likely a US Attorney) to arrange a phone call to discuss details and questions. Greenfield’s client, a victim of sexual assault, is seeking an interview in London and asserts her right to anonymity under UK statute. The FBI has contacted her to explore the possibility of an interview, and she has provided available time slots for a call. There is a discussion regarding confirming the parameters of interest in the client and a caution given about verifying bank details.",
+      "timestamp": "2020-02-01T00:00:00",
+      "timestamp_raw": "01 Feb 2020",
+      "keywords": [
+        "epstein investigation",
+        "jill greenfield",
+        "fieldfisher",
+        "uk statute",
+        "sexual assault",
+        "london",
+        "fbi",
+        "nypd",
+        "prosecutors",
+        "new york"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00038778",
+            "similarity": 0.5,
+            "index": 89,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038760",
+            "similarity": 0.583,
+            "index": 88,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00038817",
+            "similarity": 0.538,
+            "index": 87,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014387",
+      "summary": "This document is a redacted email exchange between a U.S. Attorney’s office (Fieldfisher) and a partner at a UK law firm, Jill Greenfield, regarding an investigation into Jeffrey Epstein’s activities. Here’s a breakdown of the key content: *   **Initial Contact & Inquiry:** The exchange begins with Jill Greenfield responding to an inquiry about a potential interview with a client involved in the Epstein investigation. *   **Client Background:** The U.S. Attorney outlines the client’s situation – not a target, but likely a “suspect” analogue – and their limited knowledge based on witness accounts. They emphasize the client was likely a victim. *   **Interview Protocols:** The U.S. Attorney details their planned interview approach, emphasizing voluntary participation, the client's ability to decline questions, and potential for breaks. They outline desired topics of discussion, including the client's interactions with Epstein and Ghislaine Maxwell. *   **Anonymity and Sensitivity:** The U.S. Attorney repeatedly stresses the importance of protecting the client's anonymity and avoiding re-victimization, noting their policies extend to protecting the identities of other victims. *   **Logistical Details:** The exchange covers logistical considerations such as the likely composition of the interview team (prosecutors and FBI officers), note-taking procedures (FBI Form 302), and the possibility of travel arrangements. *   **Confirmation & Next Steps:** The email concludes with a confirmation of the interest in speaking with the client and an offer to address any further questions. The document is heavily redacted, obscuring specific details related to the client and the investigation.",
+      "timestamp": "2020-02-12T00:00:00",
+      "timestamp_raw": "12 Feb 2020",
+      "keywords": [
+        "epstein investigation",
+        "jill greenfield",
+        "fbi",
+        "u.s. attorney",
+        "interviews",
+        "notes",
+        "anonymity",
+        "victims",
+        "law enforcement",
+        "travel"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029675",
+      "summary": "This redacted document details an ongoing investigation into Jeffrey Epstein’s activities, specifically involving a U.S. Attorney’s office and a UK-based legal team (Fieldfisher). The primary focus is on speaking with a key witness, referred to as “her,” who has connections to Epstein and Ghislaine Maxwell. Here’s a breakdown of the key points: *   **Investigation Focus:** The U.S. Attorney’s office is investigating Epstein’s conduct, primarily seeking information about the witness’s interactions with him and Maxwell, including employment details and any instructions given. *   **Witness Comfort & Voluntary Participation:** The team emphasizes that any discussion would be entirely voluntary, with the witness having complete control over the topics discussed and the ability to decline questions at any time. *   **Meeting Logistics:** The team intends to meet in pairs (prosecutors and law enforcement) to ensure efficiency and demonstrate a supportive approach. They’re open to meeting in the U.K. or the U.S., depending on the witness’s preference. *   **Notes & Access:** Access to notes taken during interviews would be limited to the investigative team. The team is willing to check on specific access requests regarding anonymity. *   **Anonymity & Confidentiality:** The team maintains strict confidentiality regarding the identities of those they meet with, protecting the witness’s identity. They are careful to avoid triggering retraumatization during discussions about abuse. *   **Initial Scope:** The initial conversations would focus on broad aspects of the witness's relationship with Epstein and Maxwell, not necessarily delving into the specifics of abuse unless the witness is comfortable. The document is characterized by a cautious and sensitive approach, prioritizing the witness's comfort and well-being throughout the investigative process.",
+      "timestamp": "2020-02-21T00:00:00",
+      "timestamp_raw": "21 Feb 2020",
+      "keywords": [
+        "epstein investigation",
+        "victim",
+        "witness",
+        "u.s. attorney",
+        "fbi",
+        "notes",
+        "anonymity",
+        "interview",
+        "uk",
+        "employment",
+        "maxwell"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026794",
+      "summary": "The investigation is being conducted by U.S. prosecutors from the Southern District of New York. The client’s involvement is centered around her interactions with Epstein and Ghislaine Maxwell. Key points of communication include: *   **Initial Request for Information:** Greenfield’s client wants to help with the investigation and requests a meeting to discuss it. She wants a morning meeting with introductions and a discussion, followed by afternoon questions. She also requests permission for a US lawyer friend to be present. *   **Prosecutor’s Response:** The U.S. prosecutors outline their approach: voluntary discussions, no pressure to disclose uncomfortable topics, and a preference for introducing themselves and explaining the investigation. They typically work in pairs (two prosecutors and two officers) for efficiency. *   **Further Inquiry:** Greenfield asks about who would have access to notes and whether the client’s anonymity would be protected. The prosecutors confirm that investigative team members (prosecutors and FBI officers) would have access to notes, but disclosure is limited. They also ensure the client’s anonymity is maintained by not publicly disclosing the names of individuals they meet with. *   **Meeting Logistics:** The prosecutors suggest a meeting where they simply introduce themselves and explain the process, with no obligation for the client to discuss sensitive details. They emphasize that the meeting would be entirely voluntary and flexible. *   **Overall Approach:** The prosecutors stress a sensitive, careful approach to the investigation, prioritizing the client’s comfort and well-being, and confirming the client is not a target of the investigation.",
+      "timestamp": "2020-02-22T00:00:00",
+      "timestamp_raw": "22 Feb 2020",
+      "keywords": [
+        "epstein investigation",
+        "victim",
+        "meeting",
+        "questions",
+        "us attorney",
+        "uk",
+        "interview",
+        "comfort level",
+        "abuse",
+        "employment",
+        "witnesses"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023283",
+      "summary": "She initially requests a morning meeting with introductions and discussion about the investigation, followed by an afternoon question-and-answer session. The witness wants a friend, a US lawyer, to be present during the meeting. The investigating team (two prosecutors and two FBI officers) typically meets in pairs to ensure efficiency and prioritize the witness's comfort. They primarily focus on the witness's interactions with Epstein and Maxwell, including employment details and observations, without requiring discussion of specific abuse details unless the witness is comfortable. The team emphasizes that any meeting would be voluntary and the witness has the right to decline questions. They offer to travel to the UK to conduct the interview and are willing to pay for the witness's travel expenses. Access to notes will be limited to the investigative team and supervisors. Anonymity is maintained, and the team is committed to a sensitive approach to avoid re-victimization.",
+      "timestamp": "2020-02-23T00:00:00",
+      "timestamp_raw": "23 Feb 2020",
+      "keywords": [
+        "epstein investigation",
+        "victim",
+        "witness",
+        "interview",
+        "travel",
+        "u.s.",
+        "uk",
+        "client",
+        "questions",
+        "support",
+        "counsel",
+        "attorney",
+        "meeting",
+        "abuse",
+        "employment",
+        "notes"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00029681",
+            "similarity": 0.55,
+            "index": 95,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00029681",
+      "summary": "prosecutors (specifically an Assistant U.S. Attorney from the Southern District of New York) and a UK law firm (Fieldfisher) regarding an investigation into Jeffrey Epstein’s activities. The primary communication is between Jill Greenfield (a partner at Fieldfisher) and the Assistant U.S. Attorney. **Key Points:** *   **Initial Inquiry:** The U.S. prosecutors are seeking to speak with a specific individual (\"her\") who had connections to Epstein and Ghislaine Maxwell. *   **Client’s Concerns:** The individual (“her”) expresses a desire to meet, outlining requests for a morning meeting, questions about the investigation, and the presence of a friend (a U.S. lawyer) who could be present for support. *   **Prosecutor’s Response:** The prosecutor outlines their approach: a voluntary, flexible discussion where the client controls the topics discussed; meetings in pairs; and a willingness to travel to the U.S. to conduct the interview, offering to cover travel and lodging costs. *   **Logistics & Protocol:** The prosecutor explains their typical interview process – two prosecutors and two officers in the room; note-taking by an agent and subsequent FBI Form 302 reports; and limited dissemination of notes. They also address anonymity concerns, stating they do not disclose the names of witnesses. *   **Sensitivity & Trauma:** The prosecutor emphasizes a sensitive and careful approach, avoiding re-victimization, and offering to simply introduce the team and explain the process without requiring the client to discuss abuse. *   **Further Communication:** The parties agree to continue communication via email or phone and explore the possibility of the prosecutor traveling to the UK to meet.",
+      "timestamp": "2020-02-24T00:00:00",
+      "timestamp_raw": "24 Feb 2020",
+      "keywords": [
+        "epstein investigation",
+        "victim witness",
+        "client",
+        "interview",
+        "u.s.",
+        "uk",
+        "conversation",
+        "questions",
+        "travel",
+        "meeting",
+        "abuse",
+        "employment",
+        "defense",
+        "anonymity",
+        "notes"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00023283",
+            "similarity": 0.55,
+            "index": 94,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018736",
+      "summary": "This document contains redaction analysis data pertaining to inmate Jeffrey Edward Epstein (Reg. No. 76318-054) held within a facility. It includes records from various NCRBM (National Correction Records Bureau) forms, detailing his quarters assignments (dated between July 7th and August 10th, 2019), CIM clearances, disciplinary actions (none recorded), security designations (including sex trafficking suspicion and designations), a male custody classification form, and an inmate profile. The profile outlines his demographics, contact information, assignment history (focused on mental health care and education), and relevant details like his date of birth and physical characteristics. The data indicates a lack of specific records for certain categories, such as a security designation record and a custody classification record.",
+      "timestamp": "2020-04-29T00:00:00",
+      "timestamp_raw": "04-29-2020",
+      "keywords": [
+        "jeffrey edward epstein",
+        "inmate",
+        "ncrbm",
+        "date",
+        "assignment",
+        "function",
+        "nym",
+        "house",
+        "sex trafficking",
+        "crime",
+        "discipline",
+        "custody",
+        "76318-054"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00022307",
+      "summary": "prosecutors (specifically, an Assistant U.S. Attorney from the Southern District of New York) and a UK-based legal team (Jill Greenfield and Louise Scott of a personal injury law firm) regarding an investigation into Jeffrey Epstein’s activities. The investigation involves a client of the UK team, referred to as “I,” who was involved with Epstein and Ghislaine Maxwell. Key points of communication include: *   **Initial Contact & Information Gathering:** The U.S. team expresses a desire to speak with “I” to understand her involvement and the circumstances surrounding her interactions with Epstein. *   **Meeting Plans:** Discussions revolve around proposed meeting arrangements, including the possibility of a meeting in London and potential interviews with \"I\" and her attorney.  The U.S. team proposes a two-person team for meetings. *   **Anonymity & Comfort Levels:** A significant focus is on ensuring “I’s” comfort and maintaining her anonymity. The U.S. team emphasizes that any discussion would be voluntary, with “I” free to decline questions or topics. *   **Scope of Inquiry:** The U.S. team outlines the general areas of interest – her contact with Epstein and Maxwell, the nature of her employment, and observations about the abuse she experienced – while acknowledging a desire to avoid specifics if \"I\" is uncomfortable. *   **Team Composition:** The U.S. team describes the composition of their investigative team (two prosecutors and two law enforcement officers). *   **Logistical Details:** Discussions touch on potential travel arrangements, access to notes, and the possibility of the U.S. team traveling to the UK. *   **Coronavirus Impact:**  The pandemic is mentioned as a factor disrupting travel plans. The overall tone is one of careful consideration for the witness's well-being and sensitivity regarding the potentially traumatic nature of the investigation.",
+      "timestamp": "2020-07-06T00:00:00",
+      "timestamp_raw": "06 Jul 2020",
+      "keywords": [
+        "epstein investigation",
+        "communication",
+        "travel",
+        "pandemic",
+        "interview",
+        "witness",
+        "client",
+        "maxwell",
+        "uk",
+        "united states"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00028762",
+            "similarity": 0.5,
+            "index": 98,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00028762",
+      "summary": "prosecutors (specifically, an Assistant U.S. Attorney from the Southern District of New York) and a UK-based legal team (represented by Jill Greenfield and Louise Scott) regarding an investigation into Jeffrey Epstein’s activities, specifically involving Ghislaine Maxwell. Key points include: *   **Investigation Focus:** The U.S. prosecutors are investigating Epstein’s activities, but not targeting the witness directly. *   **Initial Contact:** The team is seeking to interview a key witness (the client) to gather information. *   **Interview Approach:** The prosecutors propose a voluntary, sensitive interview process, emphasizing the witness’s control over topics discussed, and offering to conduct the meeting remotely. *   **Meeting Logistics:** They suggest a two-person team (prosecutors and law enforcement) for the meeting, and options for the meeting to be held in the U.S. or UK. *   **Note-Taking & Anonymity:** They outline their note-taking process and commitment to maintaining the witness’s anonymity. *   **Topics of Discussion:** The prosecutors primarily want to understand the witness's interactions with Epstein and Maxwell, focusing on employment details and observations. *   **Redaction:** The document contains redacted sections of emails.",
+      "timestamp": "2020-07-06T00:00:00",
+      "timestamp_raw": "06 Jul 2020",
+      "keywords": [
+        "epstein investigation",
+        "redaction",
+        "uk",
+        "travel",
+        "pandemic",
+        "interview",
+        "client",
+        "maxwell",
+        "consent",
+        "met police",
+        "attorney"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00022307",
+            "similarity": 0.5,
+            "index": 97,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00017769",
+      "summary": "Attorney’s Office (Southern District of New York) and a client involved in the Epstein investigation. The initial purpose is to gather information about the client’s interactions with Jeffrey Epstein and Ghislaine Maxwell.  Jill Greenfield, a partner at Fieldfisher, is facilitating the communication. Initially, a video conference via BlueJeans is proposed.  The U.S. Attorney wants to discuss the client’s general employment and experiences with Epstein, emphasizing a voluntary and sensitive approach, with no requirement to discuss abuse specifics. Concerns are raised about the client’s anonymity and the potential for discussing sensitive topics.  The U.S. Attorney seeks clarification on who would be in the meeting, access to notes, and the handling of the client's anonymity, prompting discussions about the team’s composition, note-taking procedures, and the protection of the client’s identity. A proposed meeting in London is suggested, but logistical challenges related to international travel (specifically the coronavirus pandemic) are quickly identified, leading to a shift towards a phone call.",
+      "timestamp": "2020-07-07T00:00:00",
+      "timestamp_raw": "07 Jul 2020",
+      "keywords": [
+        "efta00017769",
+        "louise scott",
+        "epstein investigation",
+        "bluejeans",
+        "kyle philips",
+        "jill greenfield",
+        "fieldfisher",
+        "covid-19",
+        "united states attorney",
+        "jeffrey epstein"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024774",
+      "summary": "Initial inquiries involve contacting a UK-based witness, Jill Greenfield, and her client, to gather information. Early discussions center on the best method of communication (WebEx vs. BlueJeans), and the logistical details of meeting, including potential attendee lists (Kyle Philips, Jill Greenfield, and potentially a US lawyer friend). Concerns are raised about anonymity and the voluntary nature of any discussions, emphasizing sensitivity and avoiding re-victimization. As the investigation progresses, a shift occurs due to the pandemic, leading to a halt on international travel and a renewed focus on obtaining a summary of the witness’s information. The lawyers repeatedly stress the voluntary nature of any interview, the importance of the witness’s comfort level, and the limitations on accessing notes and disclosing information to other parties. Ultimately, the communication aims to establish a framework for a sensitive and productive interview process.",
+      "timestamp": "2020-07-08T00:00:00",
+      "timestamp_raw": "08 Jul 2020",
+      "keywords": [
+        "epstein investigation",
+        "redaction",
+        "webex",
+        "louise scott",
+        "kyle philips",
+        "jill greenfield",
+        "fbi",
+        "victims",
+        "maxwell",
+        "united states",
+        "united kingdom"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021938",
+      "summary": "An email chain discusses a Sunday Times news story regarding Ghislaine Maxwell’s federal indictment, specifically focusing on “Minor Victim 3.” A reporter, Dipesh Gadher, seeks clarification on whether publishing the victim’s name is legally permissible and when prosecutors intend to publicly identify Maxwell’s victims. The email exchange involves individuals at USANYS Contractor and concerns the protection of a victim’s anonymity.",
+      "timestamp": "2020-07-24T00:00:00",
+      "timestamp_raw": "24 Jul 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "victim 3",
+        "sunday times",
+        "federal indictment",
+        "sex trafficking",
+        "jeffrey epstein",
+        "nbc dateline",
+        "anonymity",
+        "legal issues",
+        "dipesh gadher"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021933",
+      "summary": "An individual advised someone to seek legal counsel regarding “Maxwell” and emphasized the importance of understanding grand jury secrecy. Another individual forwarded an email from EFTA00021933 requesting guidance on naming alleged victims, citing their adulthood and prior waivers of anonymity. A response from the United States Department of Justice’s press office declined to answer the inquiry, directing further inquiries to the press office.",
+      "timestamp": "2020-07-24T00:00:00",
+      "timestamp_raw": "24 Jul 2020",
+      "keywords": [
+        "maxwell",
+        "legal liability",
+        "legal advice",
+        "grand juries",
+        "ethics",
+        "victims",
+        "anonymity",
+        "united states department of justice",
+        "redaction analysis",
+        "efta00021933"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020470",
+      "summary": "On August 3, 2020, an anonymous tipster reported suspected human trafficking involving Jeffrey Epstein and Prince Andrew to the FBI NTOC via tips.fbi.gov. The tip included claims of organized pedophilia, references to specific locations (Bahamas, Ipanema, Brazil, Florianopolis), and the alleged presence of evidence, including keys and tapes. The tipster claimed the activity had been ongoing for 15 years.  A follow-up communication on August 4, 2020, included redacted complainant and witness information, along with details about the subject, Jeffrey Epstein, and the source IP address (Finland) and referrer URL (FBI.gov/tips).",
+      "timestamp": "2020-08-03T00:00:00",
+      "timestamp_raw": "August 3, 2020",
+      "keywords": [
+        "jeffrey epstein",
+        "child sex trafficking",
+        "fbi",
+        "human trafficking",
+        "bahamas",
+        "brazil",
+        "tipster",
+        "threat operations center",
+        "redaction analysis",
+        "public corruption"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020479",
+      "summary": "On August 10, 2020, an anonymous female caller reported to the FBI that her father, an attorney residing in Tarpon Springs, FL, was a former recruiter for Jeffrey Epstein. The caller, who was 28 years old at the time, claimed she and her siblings were subjected to sex trafficking throughout their childhood, beginning at age four, with her father and other individuals acting as “pimps.” She stated she met Epstein around the time Ghislaine Maxwell was around. The caller described instances of forced sexual activity, a “thumb” controlling her, and a child who expresses fear of her father. She also claimed to have taken a photograph of Prince Andrew and Ghislaine Maxwell in 2001.  The caller is currently seeking full custody of her child and fears he may also be trafficked.",
+      "timestamp": "2020-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2020",
+      "keywords": [
+        "epstein",
+        "jeffrey",
+        "child sex trafficking",
+        "fbi",
+        "tarpon springs",
+        "anonymous",
+        "ghislaine",
+        "pimps",
+        "custody",
+        "memory"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020340",
+      "summary": "An anonymous civilian crime report regarding human trafficking was received on August 19, 2020. The report, attached as “08 19 2020 About People Involved in Child trafficking.pdf”, was forwarded to [REDACTED] for review and potential forwarding to other agencies. The email originated from [REDACTED] and included redactions.",
+      "timestamp": "2020-08-19T00:00:00",
+      "timestamp_raw": "August 19, 2020",
+      "keywords": [
+        "human trafficking",
+        "civilian crime report",
+        "anonymous",
+        "child trafficking",
+        "efta00020340"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020501",
+      "summary": "The tip included a direct link to the video. The individual provided an IP address resolving to North Port, Florida, and offered limited information about the situation, including uncertainty about the victim's location, identity, and control over travel documents. The initial tip was followed by a redacted report on August 25, 2020, detailing the source’s information and the video's content. Additional details regarding the source's location and browser were also recorded.",
+      "timestamp": "2020-08-24T00:00:00",
+      "timestamp_raw": "August 24, 2020",
+      "keywords": [
+        "jeffrey epstein",
+        "child sex trafficking",
+        "fbi",
+        "youtube",
+        "threat operations center",
+        "florida",
+        "34287",
+        "50d-ny-3027571",
+        "online tip",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010377",
+      "summary": "An email chain discusses the expiration of a warrant related to Ghislaine Maxwell, referred to as a \"triggerfish.\" One email requests confirmation that the warrant's seal can lapse, and another confirms this is permissible. The emails involve individuals and organizations using the acronyms USANH, USANYS, and .za.",
+      "timestamp": "2020-12-23T00:00:00",
+      "timestamp_raw": "December 23, 2020",
+      "keywords": [
+        "ghislaine maxwell",
+        "triggerfish",
+        "seal",
+        "warrant",
+        "extension",
+        "usanh",
+        "usanys",
+        "dnh",
+        "redaction",
+        "analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028840",
+      "summary": "*   He alleges a cover-up of suicides at FDC Miami involving BOP and DOJ officials, citing multiple inmate deaths and attempted suicides between 2018 and 2021 (including those of Latitia Houser, Orlando Lorenzo, Pedro Rene Gonzalez, Anibal Mustelier, and unidentified inmates). *   He claims the DOJ is prioritizing the Epstein case over the FDC Miami situation and actively obstructing investigations into BOP misconduct. *   Kabbaj details instances where inmates expressing suicidal ideation were not placed on suicide watch, leading to further deaths. *   He references a prior BOP scandal involving Sheikh Omar Abdel Rahman as evidence of systemic corruption and argues it reflects on America’s moral standing. *   He presents himself as a long-time investigator with a history of exposing government misconduct, referencing a 1998 case and claiming to be \"Q\" from investigation.org.",
+      "timestamp": "2021-03-13T00:00:00",
+      "timestamp_raw": "13 Mar 2021",
+      "keywords": [
+        "epstein",
+        "suicide",
+        "fdc miami",
+        "bop",
+        "doj",
+        "cover-up",
+        "investigation",
+        "fbi",
+        "misconduct",
+        "prison",
+        "suicide watch"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029956",
+      "summary": "Indyke, Richard D. Kahn, and Ghislaine Maxwell, alleging sexual assault, battery, emotional distress, and false imprisonment. *   **Dismissal Motion:** Doe moved to dismiss the case under Rule 41(a)(2) of the Federal Rules of Civil Procedure, citing the ongoing criminal prosecution of Ghislaine Maxwell. *   **Criminal Prosecution:** Maxwell is being prosecuted in the Southern District of New York for related criminal charges (ECF No. 20-CR-330). *   **Victims’ Compensation Program:** The Epstein Estate established a compensation program for victims, and Doe accepted an offer, requiring dismissal with prejudice. *   **Stipulation and Conditions:** To achieve dismissal, Doe sought to have the case dismissed with prejudice under the terms of a partially executed stipulation. However, Maxwell objected and proposed additional conditions regarding attorney’s fees, costs, and access to the release agreement. *   **Maxwell’s Objections:** Maxwell argued that the stipulation regarding fees and costs was problematic and that she should be allowed to seek fees as the prevailing party and to sue for abuse of process. She also requested a copy of the unredacted release agreement. *   **Court’s Order:** The Court granted the motion to dismiss with prejudice, subject to the proposed conditions – modification of the fee and cost provision, allowing Maxwell to seek fees as the prevailing party, and providing her with the unredacted release. The parties were given until March 19, 2021, to indicate their agreement.",
+      "timestamp": "2021-03-19T00:00:00",
+      "timestamp_raw": "March 19, 2021",
+      "keywords": [
+        "efta00029956",
+        "jane doe",
+        "darren indyke",
+        "ghislaine maxwell",
+        "epstein estate",
+        "sexual assault",
+        "rule 41(a)(2)",
+        "dismissal",
+        "compensation program",
+        "criminal prosecution",
+        "prevailing party",
+        "rule 54(d)"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031435",
+      "summary": "This document is a letter from the U.S. Department of Justice, Southern District of New York, to Montell Figgins regarding the case of United States v. Michael Thomas (No. 19 Cr. 830). It provides additional discovery materials subject to a protective order. The materials include arrest documentation, FBI documents (including import forms, laboratory examination requests, and process reports), witness statements, an anonymized index, and US Marshals Service intake records.  Additionally, the government is providing information regarding disciplinary actions taken against inmate Tony McClam at the MCC and MDC, and a list of inmate deaths over the last ten years at those institutions. All materials are classified as \"Confidential\" and “Attorney’s Eyes Only.”",
+      "timestamp": "2021-04-14T00:00:00",
+      "timestamp_raw": "April 14, 2021",
+      "keywords": [
+        "united states v. michael thomas",
+        "montell figgins",
+        "fbi",
+        "protective order",
+        "discovery",
+        "criminal procedure",
+        "bates numbers",
+        "confidential",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027414",
+      "summary": "An email exchange occurred between individuals at [REDACTED] regarding a draft exclusion letter (EFTA00027414) concerning a \"STA\" (likely a specific term or acronym – redacted). One person requested minor edits, while another indicated no changes were needed. The letter was intended to be filed during the week of April 25, 2021.",
+      "timestamp": "2021-04-25T00:00:00",
+      "timestamp_raw": "April 25, 2021",
+      "keywords": [
+        "efta00027414",
+        "redaction analysis",
+        "sta exclusion",
+        "letter",
+        "edits",
+        "government",
+        "time",
+        "cases",
+        "april 2021"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031609",
+      "summary": "The U.S. Department of Justice, via Assistant U.S. Attorney Audrey Strauss, responded to a letter from defense counsel regarding assurances for Ghislaine Maxwell’s anonymity in the criminal proceedings. The Government stated that Maxwell’s name has not appeared on the public docket and that any documents containing her name are protected by a Protective Order. The Government also indicated it will not call Maxwell as a witness at trial and does not provide detailed previews of its case presentation.  Furthermore, the Government asserted it has no obligation to allow third parties input on trial proceedings and that legal precedent does not permit trials conducted under seal or restricting public access. Finally, the Government noted that UK privacy laws are not applicable and the Crime Victims' Rights Act does not apply due to Maxwell not being a victim of child sexual exploitation.",
+      "timestamp": "2021-04-30T00:00:00",
+      "timestamp_raw": "April 30, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states v.",
+        "united states department of justice",
+        "protective order",
+        "criminal proceedings",
+        "discovery materials",
+        "sixth amendment",
+        "privacy",
+        "confidential documents",
+        "court proceedings"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024671",
+      "summary": "On May 12, 2021, an Assistant United States Attorney discussed a request from Katya Jestin, representing a wealthy, anonymous client, to provide financial assistance to victims of Jeffrey Epstein. The attorney stated that the office could not connect the client with victim attorneys, provide victim contact information, or facilitate the transfer of funds to potential witnesses in the case. This communication occurred without informing any witnesses or their counsel.",
+      "timestamp": "2021-05-12T00:00:00",
+      "timestamp_raw": "May 12, 2021",
+      "keywords": [
+        "epstein",
+        "katya jestin",
+        "financial assistance",
+        "victims",
+        "attorneys",
+        "funding",
+        "redaction",
+        "legal",
+        "new york",
+        "witnesses"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020810",
+      "summary": "An email chain discusses a draft Military Instruction (MIL) regarding pseudonyms. The initial email (October 13, 2021) from an Assistant United States Attorney (Southern District of New York) attached a draft MIL and a brief containing case citations (pages 4-5) for review. A subsequent email (October 12, 2021) from the same Assistant United States Attorney announces the draft’s creation and plans for editing. The email also includes contact information and well wishes to the recipient.",
+      "timestamp": "2021-10-13T00:00:00",
+      "timestamp_raw": "October 13, 2021",
+      "keywords": [
+        "efta00020810",
+        "pseudonyms",
+        "mil",
+        "redaction",
+        "anonymity",
+        "usanys",
+        "new york",
+        "draft",
+        "california",
+        "assistant united states attorney"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018373",
+      "summary": "Ghislaine Maxwell’s legal team is requesting the court to release the names of potential jurors to attorneys as soon as the written questionnaires are distributed. They argue that withholding this information will prevent them from conducting necessary background research on jurors during voir dire, hindering their ability to challenge potential jurors and make informed peremptory challenges. This request is supported by a similar order issued in the *Sines v. Kessler* case, where the Western District of Virginia ordered a semi-anonymous jury and released all potential juror names to counsel. The lawyers cite concerns about juror privacy and the importance of thorough investigation, referencing previous court decisions and bar association opinions emphasizing the expected role of trial counsel in researching potential jurors and the potential for bias. They highlight a case (Parse) where a false juror statement led to a retrial, emphasizing the need for proactive research to uncover potential issues.  The team argues that delaying the release of juror names until voir dire would be impractical given the large number of potential jurors (600), and that it would deprive Ms. Maxwell of a fair trial.",
+      "timestamp": "2021-11-03T00:00:00",
+      "timestamp_raw": "November 3, 2021",
+      "keywords": [
+        "juror names",
+        "voir dire",
+        "background research",
+        "jury selection",
+        "written questionnaires",
+        "privacy",
+        "united states v. maxwell",
+        "sines v. kessler",
+        "impartial jury",
+        "due process",
+        "white supremacists",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010164",
+      "summary": "On November 9, 2021, Christian Everdell sent emails to multiple recipients, including Bobbi Sternheim, requesting input on a draft letter regarding pseudonyms for a legal case. He requested language additions by the following evening.  Everdell also proposed delivering four hard drives to a court hearing, suggesting either hand-off by a paralegal or mailing them.  Three joint letters concerning pseudonyms – for witness use, limiting instructions, and procedures for voir dire – were due to the court the next day, with requests for proposals to be submitted by close of business.",
+      "timestamp": "2021-11-09T00:00:00",
+      "timestamp_raw": "November 9, 2021",
+      "keywords": [
+        "pseudonyms",
+        "letter",
+        "security",
+        "drives",
+        "hearing",
+        "court",
+        "redacting",
+        "exhibits",
+        "joint letter",
+        "christian everdell"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028265",
+      "summary": "This document is a cover letter from the U.S. Government to Judge Alison J. Nathan regarding the protection of witness identities in the Ghislaine Maxwell trial (20 Cr. 330). The Government proposes specific procedures including: using witness nomenclature, a voir dire method involving a sealed list, a proposed jury instruction referencing first names or pseudonyms, and offering exhibits under seal or with redactions. The Government requests the Court accept its proposed redactions to protect victim identities and minimize potential public exposure. The defense agrees to the Government’s proposed nomenclature and procedures, but offers an alternative limiting instruction for the jury.",
+      "timestamp": "2021-11-10T00:00:00",
+      "timestamp_raw": "November 10, 2021",
+      "keywords": [
+        "redactions",
+        "witness identities",
+        "voir dire",
+        "pseudonyms",
+        "exhibits",
+        "nomenclature",
+        "sealed exhibits",
+        "jury instructions",
+        "ghislaine maxwell",
+        "united states v. ghislaine maxwell"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00028260",
+            "similarity": 0.667,
+            "index": 118,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00028260",
+      "summary": "The document is a letter from the U.S. Department of Justice to Judge Alison J. Nathan regarding protective measures for witnesses in the Ghislaine Maxwell trial (20 Cr. 330). The Government proposes specific procedures including: using witness pseudonyms or first names during trial, a voir dire process involving a sealed list of names, a proposed jury instruction, and offering exhibits under seal or with redactions. The Government requests the Court accept these proposals to minimize risk to witness identities. The defense accepts the Government’s nomenclature and proposed procedures, offering a slightly altered limiting instruction for the jury.",
+      "timestamp": "2021-11-10T00:00:00",
+      "timestamp_raw": "November 10, 2021",
+      "keywords": [
+        "redactions",
+        "witness identities",
+        "voir dire",
+        "exhibits",
+        "pseudonyms",
+        "nomenclature",
+        "sealed exhibits",
+        "jury instructions",
+        "victim names",
+        "court"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00028265",
+            "similarity": 0.667,
+            "index": 117,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023378",
+      "summary": "330). It outlines the judge’s orders regarding witness protection, specifically concerning the use of names during voir dire and trial. **Key Points:** *   **Court Order:** The judge ordered the prosecution and defense to submit lists of witnesses whose identities need protection, propose procedures for voir dire, and develop a jury instruction. *   **Government’s Position:** The government proposes using nomenclature for protected witnesses, providing a list to prospective jurors, and instructing the jury to treat names as protected. They seek to minimize the risk of public disclosure by limiting the use of victim names and proposing sealed exhibits. *   **Defense’s Position:** The defense accepts the government’s nomenclature and proposes a different jury instruction, emphasizing that the full names of witnesses are known to everyone involved. *   **Jury Instruction:** The judge issued a jury instruction stating that witnesses may use first names or pseudonyms due to privacy concerns, and that the full names are known to the government, the defendant, and the court. *   **Procedural Agreement:** The court directed the parties to avoid speaking objections and to request sidebar conferences if necessary. The government was granted a brief to ensure the witness list was accurate.",
+      "timestamp": "2021-11-10T00:00:00",
+      "timestamp_raw": "November 10, 2021",
+      "keywords": [
+        "redaction",
+        "witnesses",
+        "identities",
+        "jury instructions",
+        "exhibits",
+        "sealed",
+        "nomenclature",
+        "voir dire",
+        "pseudonyms",
+        "victims"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010040",
+      "summary": "The U.S. Department of Justice, specifically Damian Williams, is seeking clarification from Judge Alison J. Nathan regarding two aspects of the Ghislaine Maxwell trial. Firstly, they question the permissible scope of cross-examination regarding witnesses’ careers, specifically the “genre” of their work, fearing it could lead to identification of minor victims. Secondly, they request a court order preventing courtroom sketch artists from drawing exact likenesses of witnesses testifying under pseudonyms to protect their privacy. The request is based on precedent set in other cases and aligns with a three-part test for redactions.",
+      "timestamp": "2021-11-12T00:00:00",
+      "timestamp_raw": "November 12, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states v.",
+        "alison j. nathan",
+        "southern district of new york",
+        "cross-examination",
+        "pseudonyms",
+        "witnesses",
+        "redaction analysis",
+        "courtroom sketch artists",
+        "efta00010040"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010037",
+      "summary": "The U.S. Department of Justice, specifically Damian Williams, is requesting clarification from Judge Alison J. Nathan regarding two aspects of the Ghislaine Maxwell trial. Firstly, they seek clarification on the permissible scope of cross-examination regarding witnesses testifying under pseudonyms, particularly concerning inquiries about the “genre” of their careers and the potential risk of inadvertently identifying witnesses through detailed descriptions. Secondly, they request an order barring courtroom sketch artists from drawing exact likenesses of witnesses testifying under pseudonyms, citing a similar order in the Raniere case to ensure witness privacy and provide certainty before testimony. The proposed redactions align with the Lugosch test for protecting witness privacy.",
+      "timestamp": "2021-11-12T00:00:00",
+      "timestamp_raw": "November 12, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states",
+        "justice",
+        "court",
+        "cross-examination",
+        "witnesses",
+        "pseudonyms",
+        "redactions",
+        "privacy",
+        "trial"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023367",
+      "summary": "On November 23, 2021, a press guidance was issued in advance of the trial of Ghislaine Maxwell in the SDNY court. The guidance stated that witnesses would be testifying under pseudonyms due to the sensitive nature of the accusations involving sexual abuse and contact. Government exhibits will be provided through a file share, and media representatives are encouraged to establish a PACER account and contact the press office at (212) 637-2600 for questions.",
+      "timestamp": "2021-11-23T00:00:00",
+      "timestamp_raw": "November 23, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "sdny",
+        "press guidance",
+        "trial",
+        "pseudonym",
+        "sexual abuse",
+        "jeffrey epstein",
+        "u.s. v. maxwell",
+        "courtroom",
+        "media requests"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00029582",
+            "similarity": 0.667,
+            "index": 123,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00029582",
+      "summary": "The U.S. Attorney’s Office for the Southern District of New York (SDNY) issued press guidance regarding the upcoming trial of Ghislaine Maxwell, charged with conspiracy related to Jeffrey Epstein’s crimes. Several government witnesses will testify using pseudonyms due to the sensitive nature of the allegations involving victims of sexual abuse and contact. Government exhibits will be available through a secure file share. Media representatives are encouraged to establish PACER accounts and contact the press office at (212) 637-2600 for questions. The trial will be held before Judge Alison Nathan on November 23, 2021.",
+      "timestamp": "2021-11-23T00:00:00",
+      "timestamp_raw": "November 23, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "u.s. v.",
+        "sdny",
+        "press guidance",
+        "trial",
+        "pseudonym",
+        "sexual abuse",
+        "jeffrey epstein",
+        "evidence",
+        "media requests"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00023367",
+            "similarity": 0.667,
+            "index": 122,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00031173",
+            "similarity": 0.5,
+            "index": 127,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00024892",
+      "summary": "This document is a press guidance update regarding the trial of Ghislaine Maxwell, charged with conspiracy and sex trafficking related to Jeffrey Epstein’s activities. Key points include: *   The court has ruled that witnesses, who are not alleged victims, may testify under pseudonyms due to the sensitive nature of the expected testimony regarding illegal sexual abuse. *   Maxwell faces maximum penalties of five to ten years in prison per count, depending on the charge. *   A trial logistics order from Judge Nathan is attached. *   Government exhibits will be distributed through the SDNY file share. *   The trial will take place on November 23, 2021, before Judge Alison Nathan. *   Media representatives are encouraged to establish a PACER account.",
+      "timestamp": "2021-11-23T00:00:00",
+      "timestamp_raw": "November 23, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "sdny",
+        "united states attorney",
+        "trial logistics",
+        "sex trafficking",
+        "criminal sexual activity",
+        "witnesses",
+        "pseudonyms",
+        "victims",
+        "consent",
+        "jeffrey epstein"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019461",
+      "summary": "The document is a press guidance circulated by the U.S. Attorney’s Office for the Southern District of New York regarding the upcoming trial of Ghislaine Maxwell. Key points include: *   **Pseudonym Testimony:** Witnesses, particularly victims of sexual abuse, will testify under pseudonyms due to the sensitive nature of the allegations. *   **Media Policy:** Journalists are urged to respect the privacy of these witnesses and adhere to their policies regarding identifying sex crime victims without consent. *   **Trial Logistics:** The trial will be held on November 26, 2021, with a 9:30 AM final pretrial conference. Exhibits will be provided via a secure file share, and media representatives are encouraged to establish a PACER account. *   **Communication:** Media inquiries should be directed to the press office at (212) 637-2600.",
+      "timestamp": "2021-11-26T00:00:00",
+      "timestamp_raw": "November 26, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "sdny",
+        "u.s. v. ghislaine maxwell",
+        "press guidance",
+        "pseudonym",
+        "court order",
+        "trial",
+        "media requests",
+        "united states attorney's office",
+        "sexual abuse",
+        "consent",
+        "file share",
+        "pacer"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00016489",
+            "similarity": 0.533,
+            "index": 126,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00016489",
+      "summary": "The document is a press guidance note issued by the U.S. Attorney’s Office for the Southern District of New York regarding the trial of Ghislaine Maxwell. Key points include: *   Several witnesses will testify using pseudonyms due to the sensitive nature of the allegations (sexual abuse and contact). *   Media outlets are instructed not to identify these witnesses by name, aligning with policies against identifying sex crime victims without consent. *   Guidance is being provided in advance to streamline communication and manage media requests. *   Access to exhibits will be through a secure file share. *   Media representatives are encouraged to utilize the court's electronic filing system (PACER) and contact the press office for questions.",
+      "timestamp": "2021-11-26T00:00:00",
+      "timestamp_raw": "NOVEMBER 26, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "sdny",
+        "u.s. v. ghislaine maxwell",
+        "press guidance",
+        "pseudonym",
+        "witness",
+        "trial",
+        "court order",
+        "media requests",
+        "sunday times"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00019461",
+            "similarity": 0.533,
+            "index": 125,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00031173",
+            "similarity": 0.615,
+            "index": 127,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00031173",
+      "summary": "*   A journalist (Dipesh Gadher) is seeking clarification on whether he can identify witnesses who are testifying under pseudonyms due to the sensitive nature of the allegations. *   Guidance is being provided to media outlets stating that witnesses will be identified by their pseudonyms due to the nature of the alleged crimes. *   The trial is scheduled for November 26, 2021, at 9:30 a.m. in courtroom 318. *   Government exhibits will be provided via a secure file share. *   Media representatives are encouraged to establish a PACER account to access court filings. *   Contact information for the press office is provided for inquiries.",
+      "timestamp": "2021-11-26T00:00:00",
+      "timestamp_raw": "November 26, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "sdny",
+        "press guidance",
+        "u.s. v.",
+        "trial",
+        "witnesses",
+        "pseudonym",
+        "victim",
+        "sunday times",
+        "court order",
+        "media requests"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00016489",
+            "similarity": 0.615,
+            "index": 126,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00029582",
+            "similarity": 0.5,
+            "index": 123,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014889",
+      "summary": "On November 27, 2021, the U.S. Department of Justice, specifically the United States Attorney for the Southern District of New York, submitted a letter to Judge Alison J. Nathan regarding the upcoming trial in *United States v. Ghislaine Maxwell*. The letter outlines the Government’s anticipated order of witnesses for the first two to three days of the trial, including several witnesses who will testify under pseudonyms (“Jane,” “O,” “=,” and “a”). The Government reserves the right to adjust the witness order and potentially call additional witnesses during the trial. They requested the letter be filed under seal due to the inclusion of witness identities and pseudonyms.",
+      "timestamp": "2021-11-27T00:00:00",
+      "timestamp_raw": "November 27, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states v.",
+        "united states department of justice",
+        "alison j. nathan",
+        "federal court",
+        "witness order",
+        "trial",
+        "seal request"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016497",
+      "summary": "This document is a draft preliminary jury instruction for the case of *United States v. Maxwell* (Case 1:20-cr-00330-AJN). The judge, Alison J. Nathan, is providing guidance for the jury on the trial’s procedures and their role. Here’s a breakdown of the key content: *   **Trial Order:** The trial will begin with opening statements from the government and the defense. Following this, the government will present its evidence (witness testimony and exhibits), which the defense can cross-examine. The defense may then present its own case if it chooses to do so. Finally, both sides will deliver closing arguments. *   **Evidence Rules:** The jury must rely solely on the evidence presented in court – testimony, documents, and exhibits. Arguments, questions, objections, and any external information (media coverage, personal research) are not considered evidence. *   **Jury Conduct:** Jurors are instructed not to discuss the case with anyone, including fellow jurors, family, or friends. They should not conduct any independent research. All communication regarding the case must go through the judge’s deputy. The judge will maintain a neutral stance, determining the law, and the jury will determine the facts. *   **Presumption of Innocence:** The defendant is presumed innocent and must be found guilty beyond a reasonable doubt. The burden of proof rests solely with the prosecution. *   **Witness Pseudonyms:** Due to security concerns, witnesses will be referred to by first name or pseudonym, and the jury must adhere to this. *   **Concluding Remarks:** The judge emphasizes the importance of an open mind, common sense, and following all instructions carefully throughout the trial.",
+      "timestamp": "2021-11-27T00:00:00",
+      "timestamp_raw": "November 27, 2021",
+      "keywords": [
+        "jury",
+        "instructions",
+        "evidence",
+        "testimony",
+        "witness",
+        "defendant",
+        "maxwell",
+        "united states",
+        "criminal case",
+        "trial"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014896",
+      "summary": "On November 28, 2021, Judge Alison J. Nathan granted the Government’s request to file a letter motion under seal to protect the privacy interests of witnesses, including those subject to a court’s pseudonym order. The defendant, Ghislaine Maxwell, was ordered to respond by November 28, 2021, at 2:00 p.m. This relates to a motion regarding cross-examination of Government witnesses in the case *United States of America v. Ghislaine Maxwell* (20-CR-330 (MN)).",
+      "timestamp": "2021-11-28T00:00:00",
+      "timestamp_raw": "November 28, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "united states district court",
+        "government",
+        "cross-examination",
+        "witness",
+        "order",
+        "seal",
+        "privacy",
+        "litigation",
+        "criminal case"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028259",
+      "summary": "This document concerns the case of *US v. Maxwell*, case number 20 Cr. 330 (AJN), focusing on logistics related to the use of pseudonyms. A joint letter proposing logistics solutions was sent to Nathan NYSD Chambers and other recipients. The attached documents include a government-proposed redaction plan for the case file, which has been implemented and filed electronically.",
+      "timestamp": "2021-12-11T00:00:00",
+      "timestamp_raw": "11 Nov 2021",
+      "keywords": [
+        "efta00028259",
+        "us v. maxwell",
+        "pseudonyms",
+        "redaction",
+        "logistics",
+        "nathan chambers",
+        "government",
+        "sealing",
+        "new york",
+        "southern district of new york"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019451",
+      "summary": "A request for witness travel expenses was sent from the Assistant United States Attorney for the Southern District of New York to USANY to cover travel for a witness in the Maxwell case. The witness is testifying under a pseudonym and a travel request form (Fact_ Witness_ Travel_RequesUtrial).docx is attached.",
+      "timestamp": "2021-12-20T00:00:00",
+      "timestamp_raw": "20 Nov 2021",
+      "keywords": [
+        "witness",
+        "travel request",
+        "pseudonym",
+        "maxwell case",
+        "united states attorney",
+        "new york",
+        "travel",
+        "assistant",
+        "redacted",
+        "efta00019451"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038649",
+      "summary": "A lawsuit has been filed in the District of D.C. by Merson Law claimants regarding administrative claims. This lawsuit follows a previously dismissed lawsuit in the SDNY district, which was voluntarily dismissed after the court denied motions to proceed anonymously. The Assistant General Counsel of the FBI’s Litigation Branch is monitoring the situation and will provide updates.",
+      "timestamp": "2024-09-26T00:00:00",
+      "timestamp_raw": "26 Sep 2024",
+      "keywords": [
+        "efta00038649",
+        "lawsuit",
+        "epstein",
+        "merson law",
+        "plaintiffs",
+        "district of d.c.",
+        "sdny",
+        "litigation",
+        "federal bureau of investigation",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00033825",
+      "summary": "The encounter was a 14-day physician evaluation related to several chronic conditions.  He presented with hyperlipidemia, hypertension, and a history of sleep apnea (using a CPAP machine). He reported severe lower extremity pain, likely caused by spinal stenosis, and had been taking Medrol for this.  He also had a history of triglyceride elevations for which he discontinued Vascepa due to side effects.  During the encounter, physical exams revealed normal findings except for the pain, obesity, and abnormalities in his back. The provider ordered magnesium hydroxide for constipation, methylprednisolone for neuralgia, and continued existing medications. Subsequent encounters (July 7 and 9, 2019) involved further laboratory testing (including A1C, lipid profile, CMP, and urinalysis) and continued monitoring of his conditions, plus documentation of patient education.  The encounter concluded with no specific changes to his medications, except for the addition of magnesium hydroxide, and scheduled follow-up appointments.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00033825",
+        "jeffrey epstein",
+        "endocrine",
+        "lipid",
+        "hypertension",
+        "hyperlipidemia",
+        "chronic care",
+        "cpap",
+        "pain",
+        "medrol",
+        "vascepa",
+        "diabetes",
+        "sleep apnea",
+        "back pain",
+        "nym",
+        "clinical encounter",
+        "provider",
+        "medical history"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034757",
+      "summary": "Jeffrey Edward Epstein (DOB 01/20/1953) was referred for a competency evaluation regarding a charge of tattooing/self-mutilation (code 228, incident report 3282555).  A suicide risk assessment from 7/09/19 indicated no history of mental health treatment, suicidal ideation, intention, or self-harm behavior. A subsequent assessment on 7/23/19 was unclear about how he obtained marks around his neck.  His mental status exam revealed a neutral mood, coherent speech, and no hallucinations or delusions.  He denied current suicidal or self-harm ideation and agreed to report such thoughts.  The determination is that he is competent to proceed with the disciplinary process.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "inmate epstein",
+        "competency assessment",
+        "suicide risk",
+        "self-mutilation",
+        "disciplinary process",
+        "nym",
+        "bureau of prisons",
+        "psychotropic medication",
+        "mental status exam",
+        "jeffrey edward epstein"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024366",
+      "summary": "The initial assessment, conducted by the Chief Psychologist, revealed a history of denying mental health treatment, substance abuse, and self-harm.  He denied suicidal ideation, intention, or plans.  His current mental status was alert, oriented, and cooperative. He exhibited normal psychomotor activity, general appearance, and mood.  Risk factors included the high-profile case and legal situation.  The assessment concluded with a low acute suicide risk and an absent chronic suicide risk, leading to a CARE1-MH classification (indicating minimal need for intervention). The final note reiterates the classification and recommends continued observation.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "suicide risk",
+        "assessment",
+        "inmate",
+        "epstein",
+        "nym",
+        "risk factors",
+        "sex offense",
+        "trafficking",
+        "court",
+        "observation",
+        "psychological",
+        "treatment",
+        "history",
+        "denial",
+        "protective factors",
+        "static risk",
+        "dynamic risk"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034473",
+      "summary": "This document concerns Jeffrey Edward Epstein (Reg. No. 76318-054X) and includes an updated timeline. It’s a confidential document generated on December 27, 2025, and distributed to NYM/Executive Staff.  It references a related file: EFTA00034473.pdf.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "epstein",
+        "jeffrey edward",
+        "redaction analysis",
+        "nym",
+        "sdny",
+        "timeline",
+        "efta00034473"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00033703",
+            "similarity": 0.556,
+            "index": 68,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034358",
+            "similarity": 0.556,
+            "index": 50,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00033804",
+      "summary": "These encounters primarily addressed complaints of neuropathy, back pain, and hyperlipidemia. Initially, Epstein reported tingling/numbness in his hand and right arm, with no pain. Subsequent evaluations revealed a history of obstructive sleep apnea and hyperlipidemia, for which he was prescribed medication.  Medical staff noted concerns about possible nerve damage related to spinal stenosis, but further testing was pending.  Multiple providers documented observations related to his physical condition, medications, and patient education.  A final encounter involved a 6-month follow-up appointment.  One encounter involved a refusal of an optometrist evaluation.  Cosign documentation was required for certain orders and was subsequently provided by a physician.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "neuropathy",
+        "inmate",
+        "nym",
+        "provider",
+        "rn",
+        "blood pressure",
+        "pulse rate",
+        "pain",
+        "treatment",
+        "evaluation",
+        "medication",
+        "medical history",
+        "chronic care",
+        "physical exam",
+        "chronic",
+        "assessment",
+        "plan",
+        "facility"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032162",
+      "summary": "He was initially seen on 07/27/2019 reporting anxiety related to past SHU experiences, memory issues, and concerns about his neck marks.  Subsequent entries (07/28-07/31) documented ongoing observation, including issues with sleep, numbness, a concerning incident with a toilet, and questions about his accommodations. The prison psychologist provided supportive interventions and coping strategies, including handouts and educating him on procedures.  A suicide risk assessment was conducted on 07/23/2019 (and repeated on 08/01/2019), finding a low overall risk with protective factors present. A final assessment on 08/08/2019 noted his general well-being and continued monitoring with weekly rounds and monthly SHU reviews.  He was initially flagged due to a concern about a string around his neck, but the source of the marks remains unclear.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "psychology",
+        "shu",
+        "inmate",
+        "jeffrey edward epstein",
+        "clinical intervention",
+        "mental status",
+        "suicidal ideation",
+        "psychosis",
+        "depression",
+        "coping strategies",
+        "nym"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034232",
+      "summary": "It’s a memorandum from the Metropolitan Correctional Center, New York, regarding inmate Jeffrey Edward Epstein (Reg. No. 76318-054), who is accused of attempted self-harm (tattooing or self-mutilation – code 228). The report outlines a series of requests for data collection, including assessments of his competency to proceed with disciplinary action (PP44, PSDC, PSDG, PSSD, PDI5, PD16), and determines that no sanctions are currently executable.  The report also contains a clinical encounter report from a psychologist, assessing the inmate's mental state, and incident reports detailing the attempted suicide, including photographs and statements from staff and the inmate, including details about a cellmate's accusations of harassment. The document also includes a file of data related to the inmate’s sentence, including good conduct time data.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00034232",
+        "jeffrey epstein",
+        "76318-054",
+        "disciplinary",
+        "misconduct",
+        "tattoo",
+        "self-mutilation",
+        "shu",
+        "nypd",
+        "udc",
+        "gct",
+        "suspension",
+        "mental health",
+        "investigation",
+        "incident report",
+        "correctional center",
+        "nym",
+        "sentence monitoring",
+        "saturday",
+        "thursday"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00022196",
+      "summary": "A letter was sent from the Assistant United States Attorney for the Southern District of New York to [REDACTED] regarding a court order granting a pseudonym to a party in the case *US v. Maxwell, 20 Cr. 330 (AJN)*. The letter was submitted under seal as a formal submission.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "us v. maxwell",
+        "pseudonym",
+        "court order",
+        "redaction",
+        "letter",
+        "united states attorney",
+        "southern district of new york",
+        "2021-11-30_gm_pseudonym_order letter"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032184",
+      "summary": "This document is a redacted analysis of a PDF file (EFTA00032184.pdf) containing seemingly nonsensical and fragmented text. The content appears to be a chaotic mix of alphanumeric strings, acronyms (like MCC, OUTCUTIN, CM-61-\\fl,p), place names (e.g., London, Washington), and technical-sounding terms (e.g., “cv tc enoti0ndl0cinr,” “oxto\\oloct,” “Li/vitt”). There's an attempt to list various organizations and figures, but the connections and meaning are completely obscured by the random characters and disconnected phrases. The document appears to be a failed attempt at redaction, possibly resulting in a corrupted or incomplete file.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta",
+        "analysis",
+        "mcc",
+        "monitor",
+        "circuitin",
+        "coxoefon",
+        "otarvcai",
+        "coturttgoi",
+        "ncc",
+        "collor waoper",
+        "star",
+        "yin",
+        "efta00032184"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032174",
+      "summary": "He was initially seen for a suicide risk assessment. He denied any history of mental health treatment, suicidal ideation, substance abuse, or self-harm.  The assessment found no acute psychopathology or current suicidal risk. He was classified as a CC1-MH inmate, indicating minimal functional impairment and no need for regular mental health intervention.  Recommendations included continued observation and placement in a suitable housing unit.  The overall acute and chronic suicide risk was deemed Low and Absent, respectively.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "suicide risk",
+        "assessment",
+        "inmate",
+        "epstein",
+        "trafficking",
+        "charges",
+        "psychological observation",
+        "risk factors",
+        "mental health",
+        "treatment"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00037143",
+      "summary": "The Client consents to the Firm representing others with similar claims against the same defendants, including disclosing the Client’s pseudonym. The Client consents to joining their claims with those of other clients in lawsuits or claim resolution processes. The Client waives potential conflicts of interest arising from the Firm representing multiple clients with similar claims and acknowledges the Firm's right to continue representing other clients even upon the Client’s termination or in the event of a negative relationship. The Client understands that decisions regarding the representation will be made by the Firm, potentially jointly with other clients, and that settlement strategies and claim valuations may vary among cases.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "representation",
+        "claims",
+        "conflicts of interest",
+        "joint prosecution",
+        "settlement",
+        "waivers",
+        "decision making",
+        "clients",
+        "litigation",
+        "pseudonym"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,1338 @@
+{
+  "keyword": "import form",
+  "count": 30,
+  "keyword_match_count": 30,
+  "content_match_count": 10,
+  "total_files": 40,
+  "timeline": [
+    {
+      "file_id": "EFTA00033571",
+      "summary": "This document is an email return concurrence form (ED-1036 Rev. 10-16-2009) related to a death investigation, Case ID #: 90A-NY-3151227. The email concerns Jeffrey Epstein as a victim and was drafted on 09/05/2019. It was approved by SSA and marked as UNSUB(S).",
+      "timestamp": "2009-10-16T00:00:00",
+      "timestamp_raw": "10-16-2009",
+      "keywords": [
+        "efta00033571",
+        "fbi",
+        "evidence return",
+        "jeffrey epstein",
+        "death investigation",
+        "synopsis",
+        "unclassified",
+        "import form",
+        "ssa",
+        "email"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00035719",
+            "similarity": 0.538,
+            "index": 17,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035732",
+            "similarity": 0.538,
+            "index": 21,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035742",
+            "similarity": 0.538,
+            "index": 23,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035737",
+      "summary": "This document is an unofficial FBI record concerning the death investigation of Jeffrey Epstein. It includes documents provided by DIG SA from MCC, specifically: L-Tier Daily Logs for August 9 and 10, a Weekly Signature Sheet for weeks of 7/28 and 8/4, an Incident Report from July 23, a Suicide Timeline (8/9-8/13), a memo regarding Epstein remains, a memo regarding an Epstein phone call (8/9), and Chain of Custody Logs from MCC. The record was received on October 16, 2009.",
+      "timestamp": "2009-10-16T00:00:00",
+      "timestamp_raw": "October 16, 2009",
+      "keywords": [
+        "jeffrey epstein",
+        "death investigation",
+        "mcc",
+        "fbi",
+        "import form",
+        "unsub",
+        "suicide timeline",
+        "chain of custody",
+        "incident report",
+        "ssa"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035734",
+      "summary": "This document is an official FBI record regarding a death investigation. The record includes phone records for MCC Caller Station 6317, provided by the Office of Inspector General (OIG) on October 16, 2009. The case ID is 90A-NY-3151227, involving Jeffrey Epstein as a victim and classified as an UNSUB(S) death investigation.",
+      "timestamp": "2009-10-16T00:00:00",
+      "timestamp_raw": "October 16, 2009",
+      "keywords": [
+        "efta00035734",
+        "phone records",
+        "mcc caller station",
+        "jeffrey epstein",
+        "death investigation",
+        "fbi",
+        "ssa",
+        "import form",
+        "unclassified",
+        "90a-ny-3151227"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00035735",
+            "similarity": 0.818,
+            "index": 5,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00035720",
+            "similarity": 0.538,
+            "index": 15,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035731",
+      "summary": "This document is a redacted FBI import form, FD-1036, related to a death investigation involving Jeffrey Epstein. The form was drafted on 2025-12-27 and references an OIG referral (CIA-2019-05324) received on 10-16-2009, categorized as “Other.” The case ID is 90A-NY-3151227, noting Epstein as a victim and the investigation’s focus. It includes a facial record dated 09/23/2019.",
+      "timestamp": "2009-10-16T00:00:00",
+      "timestamp_raw": "10-16-2009",
+      "keywords": [
+        "fbi",
+        "epstein",
+        "death investigation",
+        "oig referral",
+        "cia",
+        "case id",
+        "unclassified",
+        "facial record",
+        "ssa",
+        "mcc"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035736",
+      "summary": "This document is an import form related to a case file (90A-NY-3151227) concerning the July 23, 2019 suicide attempt of Jeffrey Epstein. The form includes a photograph of a homemade rope taken from the scene. The document identifies Jeffrey Epstein as a victim and indicates an ongoing death investigation. It references serial 81 within the case file.",
+      "timestamp": "2019-07-23T00:00:00",
+      "timestamp_raw": "July 23, 2019",
+      "keywords": [
+        "efta00035736",
+        "fbi",
+        "photograph",
+        "rope",
+        "suicide",
+        "jeffrey epstein",
+        "incident",
+        "investigation",
+        "oig",
+        "form"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035735",
+      "summary": "This document is an import form, FD-1036, dated 09/24/2019, pertaining to a death investigation (Case ID 4: 90A-NY-3151227). The form includes phone records for MCC Caller Station 6385, provided by DIG SA on August 12, 2019. Jeffrey Epstein is identified as the victim. The form indicates UNSUB(S) and notes the investigation is regarding a death investigation.",
+      "timestamp": "2019-08-12T00:00:00",
+      "timestamp_raw": "August 12, 2019",
+      "keywords": [
+        "efta00035735",
+        "phone records",
+        "mcc caller station",
+        "jeffrey epstein",
+        "death investigation",
+        "fbi",
+        "import form",
+        "ssa",
+        "unclassified",
+        "90a-ny-3151227"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035734",
+            "similarity": 0.818,
+            "index": 2,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00035720",
+            "similarity": 0.538,
+            "index": 15,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035740",
+      "summary": "This document is an FBI Import Form related to an investigation into the death of Jeffrey Epstein. It details the receipt of MCC Annual Refresher Training forms and records from OIG SA dated August 13, 2019, and identifies Case ID U: 90A-NY-3151227, with Jeffrey Epstein as a victim and the investigation as a death investigation. The form was drafted on September 25, 2019.",
+      "timestamp": "2019-08-13T00:00:00",
+      "timestamp_raw": "August 13, 2019",
+      "keywords": [
+        "eba",
+        "fbi",
+        "mcc annual refresher training",
+        "jeffrey epstein",
+        "victim",
+        "death investigation",
+        "form",
+        "ssa",
+        "oig",
+        "2019"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035744",
+      "summary": "This is an FBI Import Form (FD-1036) related to a death investigation. The case ID is 90A-NY-3151227, involving the victim Jeffrey Epstein. On August 14, 2019, a SIS Lieutenant provided a drawing of the MCC 10th Floor, as part of the investigation. The form was generated on December 27, 2025.",
+      "timestamp": "2019-08-14T00:00:00",
+      "timestamp_raw": "August 14, 2019",
+      "keywords": [
+        "efta00035744",
+        "fbi",
+        "import form",
+        "mcc",
+        "drawing",
+        "jeffrey epstein",
+        "victim",
+        "death investigation",
+        "fd-1036",
+        "ssa"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00035720",
+            "similarity": 0.538,
+            "index": 15,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035727",
+            "similarity": 0.538,
+            "index": 19,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035745",
+            "similarity": 0.538,
+            "index": 25,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035743",
+      "summary": "This document is an unofficial FBI import form (FD-1034) relating to a death investigation. The investigation concerns Jeffrey Epstein, identified as a victim. An SIS Lieutenant provided a drawing of MCC 9 South on August 14, 2019, dated September 25, 2019. The case ID is 90A-NY-3151227.",
+      "timestamp": "2019-08-14T00:00:00",
+      "timestamp_raw": "August 14, 2019",
+      "keywords": [
+        "efta00035743",
+        "fbi",
+        "import form",
+        "mcc drawing",
+        "jeffrey epstein",
+        "victim",
+        "death investigation",
+        "fd-1034",
+        "ssa",
+        "sis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035746",
+      "summary": "This is an FBI import form related to a death investigation. On August 25, 2019, the Office of Inspector General (OIG) provided a computer analysis of the computers used by Michael Thomas and Tova Noel within the SHU of MCC. The case ID is 90A-NY-3151227, with Jeffrey Epstein listed as the victim. The form was approved by SSA and drafted on 09/26/2019.",
+      "timestamp": "2019-08-25T00:00:00",
+      "timestamp_raw": "August 25, 2019",
+      "keywords": [
+        "fbi",
+        "import form",
+        "computer analysis",
+        "oig",
+        "victim",
+        "death investigation",
+        "jeffrey epstein",
+        "shu",
+        "mcc",
+        "michael thomas"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035725",
+      "summary": "On September 9, 2019, the Federal Bureau of Investigation received emails from mCc concerning suicide watch and psychological observation of Jeffrey Epstein, as part of a death investigation (Case ID: 90A-NY-3151227). The emails were provided by the Office of the Inspector General (OIG SA).",
+      "timestamp": "2019-09-09T00:00:00",
+      "timestamp_raw": "September 9, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "suicide watch",
+        "psychological observation",
+        "federal bureau of investigation",
+        "import form",
+        "emails",
+        "ssa",
+        "death investigation",
+        "oig",
+        "mcc"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035724",
+      "summary": "This document is an “Other” Import Form related to a death investigation concerning Jeffrey Epstein. It was drafted on September 9, 2019, and references a memo from MCC dated August 10, 2019, provided by OIG SA. The case ID is 90A-NY-3151227 and identifies Epstein as a victim.",
+      "timestamp": "2019-09-09T00:00:00",
+      "timestamp_raw": "September 9, 2019",
+      "keywords": [
+        "epstein",
+        "death investigation",
+        "fbi",
+        "import form",
+        "memorandum",
+        "ssa",
+        "facial record",
+        "sdny",
+        "oig",
+        "90a-ny-3151227"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035721",
+      "summary": "This document is an import form, dated September 9, 2019, related to a death investigation (Case ID: 90A-NY-3151227). The form details the provision of MCC 30-minute round sheets from August 6, 2019, by the Digital Investigation Group (DIG SA) to SSA. Jeffrey Epstein is identified as a victim in the investigation.",
+      "timestamp": "2019-09-09T00:00:00",
+      "timestamp_raw": "September 9, 2019",
+      "keywords": [
+        "fbi",
+        "jeffrey epstein",
+        "death investigation",
+        "mcc",
+        "30 minute rounds",
+        "august 6",
+        "2019",
+        "ssa",
+        "unclassified",
+        "form",
+        "import form"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00035722",
+            "similarity": 0.615,
+            "index": 14,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035720",
+            "similarity": 0.615,
+            "index": 15,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035719",
+            "similarity": 0.5,
+            "index": 17,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035726",
+      "summary": "This document is an import form, dated September 9, 2019, pertaining to a memorandum from SOS R. regarding Jeffrey Epstein’s cellmate. The memorandum was produced on August 12, 2019, and is linked to Case ID 90A-NY-3151227, categorized as a death investigation with Jeffrey Epstein identified as a victim. The form was approved by SSA and drafted by the FBI.",
+      "timestamp": "2019-09-09T00:00:00",
+      "timestamp_raw": "September 9, 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "cellmate",
+        "death investigation",
+        "fbi",
+        "memorandum",
+        "sos",
+        "victim",
+        "case id",
+        "unclassified",
+        "import form"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00035749",
+            "similarity": 0.538,
+            "index": 28,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035757",
+            "similarity": 0.538,
+            "index": 34,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035722",
+      "summary": "On September 9, 2019, the Federal Bureau of Investigation (FBI) received a document related to a death investigation (Case ID: 90A-NY-3151227) involving Jeffrey Epstein as a victim. The document consists of 30-minute round sheets from August 10, 2019, from 8:00 am to 12:00 am, provided by the Digital Investigation Group (DIG SA). The document was approved by the Social Security Administration (SSA).",
+      "timestamp": "2019-09-09T00:00:00",
+      "timestamp_raw": "September 9, 2019",
+      "keywords": [
+        "fbi",
+        "import form",
+        "death investigation",
+        "jeffrey epstein",
+        "ssa",
+        "30 minute rounds",
+        "august 10",
+        "2019",
+        "case id",
+        "unclassified"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035721",
+            "similarity": 0.615,
+            "index": 12,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00035720",
+            "similarity": 0.538,
+            "index": 15,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035730",
+            "similarity": 0.667,
+            "index": 20,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035742",
+            "similarity": 0.538,
+            "index": 23,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035720",
+      "summary": "On September 9, 2019, the FBI received a document related to MCC 30-minute rounds conducted on August 5, 2019. The document, identified as FD-1036, includes round sheets provided by the Digital Investigation Group (DIG SA). The case ID is 90A-NY-3151227, and Jeffrey Epstein is identified as a victim in a death investigation.",
+      "timestamp": "2019-09-09T00:00:00",
+      "timestamp_raw": "September 9, 2019",
+      "keywords": [
+        "fbi",
+        "import form",
+        "mcc",
+        "jeffrey epstein",
+        "death investigation",
+        "ssa",
+        "2019",
+        "90a-ny-3151227",
+        "unclassified",
+        "fd-1036"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035722",
+            "similarity": 0.538,
+            "index": 14,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035721",
+            "similarity": 0.615,
+            "index": 12,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035744",
+            "similarity": 0.538,
+            "index": 7,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00035719",
+            "similarity": 0.538,
+            "index": 17,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035727",
+            "similarity": 0.538,
+            "index": 19,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035730",
+            "similarity": 0.538,
+            "index": 20,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035723",
+      "summary": "This document is an unofficial FBI import form, dated September 9, 2019, related to a death investigation involving Jeffrey Epstein. It includes MCC count slips from August 10, 2019, provided by the Office of Inspector General (OIG SA), and identifies Case ID #90A-NY-3151227 and the status of the investigation as UNSUB(S).",
+      "timestamp": "2019-09-09T00:00:00",
+      "timestamp_raw": "September 9, 2019",
+      "keywords": [
+        "efta00035723",
+        "fbi",
+        "import form",
+        "mcc count slips",
+        "jeffrey epstein",
+        "victim",
+        "death investigation",
+        "ssa",
+        "90a-ny-3151227",
+        "sdny_00017787"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035719",
+      "summary": "This document is an FBI Import Form, dated September 9, 2019, regarding an email sent on UNET. The email, titled \"Email Regarding MCC Staff Assignments on August 10, 2019,\" was forwarded by OIG SA to MCC SIS Lt. on August 11, 2019. The case ID is 90A-NY-3151227, and Jeffrey Epstein is identified as a victim in a death investigation.",
+      "timestamp": "2019-09-09T00:00:00",
+      "timestamp_raw": "September 9, 2019",
+      "keywords": [
+        "fbi",
+        "jeffrey epstein",
+        "email",
+        "mcc",
+        "staff assignments",
+        "death investigation",
+        "unet",
+        "ssa",
+        "unclassified",
+        "import form"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035720",
+            "similarity": 0.538,
+            "index": 15,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035721",
+            "similarity": 0.5,
+            "index": 12,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033571",
+            "similarity": 0.538,
+            "index": 0,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035728",
+      "summary": "This document is an official report from the Federal Bureau of Investigation's Digital Evidence Laboratory (DEL REX) regarding the examination of evidence items 1B1 to 1618. The report, dated 09/10/2019, details the uploading of a CART Process Report for cloning and imaging processes related to a death investigation involving Jeffrey Epstein as a victim (Case ID: 90A-NY-3151227). The report is classified as UNCLASSIFIED.",
+      "timestamp": "2019-09-10T00:00:00",
+      "timestamp_raw": "09/10/2019",
+      "keywords": [
+        "fbi",
+        "import form",
+        "digital evidence",
+        "cart process report",
+        "cloning",
+        "imaging",
+        "evidence items",
+        "jeffrey epstein",
+        "victim",
+        "death investigation"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035727",
+      "summary": "This document is an unofficial Federal Bureau of Investigation (FBI) Import Form, dated September 10, 2019, pertaining to a death investigation. The form, identified as FD-1036, includes a 30-minute round sheet provided by OIG SA regarding MCC ZB on July 27 and 29, 2019. The case ID is 90A-NY-3151227, and the victim is Jeffrey Epstein, with the investigation categorized as a death investigation.",
+      "timestamp": "2019-09-10T00:00:00",
+      "timestamp_raw": "September 10, 2019",
+      "keywords": [
+        "efta00035727",
+        "fbi",
+        "import form",
+        "death investigation",
+        "jeffrey epstein",
+        "ssa",
+        "mcc",
+        "30 minute round sheet",
+        "fd-1036",
+        "case id"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035720",
+            "similarity": 0.538,
+            "index": 15,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035744",
+            "similarity": 0.538,
+            "index": 7,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00035742",
+            "similarity": 0.538,
+            "index": 23,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035730",
+      "summary": "This document is an unofficial FBI Import Form, dated September 18, 2019, titled “MCC Count Slips for July 23, 2019 to August 9, 2019.” It was approved by SSA and drafted in connection with Case ID # 90A- NY-3151227, a death investigation involving Jeffrey Epstein as a victim. AUSA provided the MCC Count Slips on September 17, 2019.",
+      "timestamp": "2019-09-18T00:00:00",
+      "timestamp_raw": "September 18, 2019",
+      "keywords": [
+        "fbi",
+        "import form",
+        "mcc count slips",
+        "jeffrey epstein",
+        "death investigation",
+        "ssa",
+        "case id",
+        "2019",
+        "ausa",
+        "unclassified"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035720",
+            "similarity": 0.538,
+            "index": 15,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035722",
+            "similarity": 0.667,
+            "index": 14,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035721",
+            "similarity": 0.5,
+            "index": 12,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00035742",
+            "similarity": 0.538,
+            "index": 23,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035749",
+            "similarity": 0.538,
+            "index": 28,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035732",
+      "summary": "This is an FBI Import Form (FD-1036) dated 09/23/2019, related to a death investigation involving Jeffrey Epstein. The form is an “Other” type, specifically a “MCC Duty Officer Supplement,” approved by SSA. The Case ID is 90A-NY-3151227, and the investigation is classified as UNSUB(S); VICTIM; DEATH INVESTIGATION.  The document is designated UNCLASSIFIED and includes the identifier EFTA00035732.",
+      "timestamp": "2019-09-23T00:00:00",
+      "timestamp_raw": "09/23/2019",
+      "keywords": [
+        "efta00035732",
+        "fbi",
+        "import form",
+        "mcc duty officer",
+        "jeffrey epstein",
+        "death investigation",
+        "ssa",
+        "fd-1036",
+        "unclassified",
+        "synopsis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035720",
+            "similarity": 0.538,
+            "index": 15,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033571",
+            "similarity": 0.538,
+            "index": 0,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00035742",
+            "similarity": 0.667,
+            "index": 23,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035733",
+      "summary": "This document is an “Evidence Return” import form (FD-1036) from the FBI, Case ID #90A-NY-3151227, related to a death investigation involving Jeffrey Epstein as a victim. Evidence package 1B44 was returned on 8/28/19 by SA per EC 8/29/19 Ser. 68.",
+      "timestamp": "2019-09-24T00:00:00",
+      "timestamp_raw": "09/24/2019",
+      "keywords": [
+        "fbi",
+        "evidence return",
+        "jeffrey epstein",
+        "victim",
+        "investigation",
+        "form",
+        "case id",
+        "90a-ny-3151227",
+        "ec 8/29/19",
+        "sdny_00017797"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035742",
+      "summary": "This is an FBI import form, FD-1036, dated September 25, 2019, regarding a death investigation. The picture of Tova Noel was provided by OIG on August 14, 2019. Jeffrey Epstein is listed as a victim. The case ID is 90A-NY-3151227.",
+      "timestamp": "2019-09-25T00:00:00",
+      "timestamp_raw": "September 25, 2019",
+      "keywords": [
+        "fbi",
+        "import form",
+        "tova noel",
+        "death investigation",
+        "jeffrey epstein",
+        "ssa",
+        "unclassified",
+        "fd-1036",
+        "synopsis",
+        "case id"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035732",
+            "similarity": 0.667,
+            "index": 21,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035730",
+            "similarity": 0.538,
+            "index": 20,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035727",
+            "similarity": 0.538,
+            "index": 19,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00035749",
+            "similarity": 0.538,
+            "index": 28,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035755",
+            "similarity": 0.538,
+            "index": 31,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035757",
+            "similarity": 0.538,
+            "index": 34,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035738",
+      "summary": "This is an unofficial FBI import form, FD-1036, dated September 25, 2019, pertaining to a death investigation. The form details an inmate log from August 9 and 10, 2019, provided by OIG, referencing Jeffrey Epstein as a victim and case ID 90A-NY-3151227. The document was received on October 16, 2009.",
+      "timestamp": "2019-09-25T00:00:00",
+      "timestamp_raw": "September 25, 2019",
+      "keywords": [
+        "efta00035738",
+        "shu inmate log",
+        "jeffrey epstein",
+        "victim",
+        "death investigation",
+        "fbi",
+        "import form",
+        "ssa",
+        "august 9-10",
+        "2019"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035745",
+      "summary": "On September 25, 2019, an “Import Form” was created for a drawing titled “(U) MCC Suicide Watch 2nd Floor Drawing.” The drawing was provided by SIS Lt. on August 14, 2019, in connection with a death investigation involving Jeffrey Epstein, identified by Case ID 90A-NY-3151227, categorized as UNSUB(S) and a DEATH INVESTIGATION.",
+      "timestamp": "2019-09-25T00:00:00",
+      "timestamp_raw": "September 25, 2019",
+      "keywords": [
+        "efta00035745",
+        "suicide watch",
+        "mcc",
+        "jeffrey epstein",
+        "death investigation",
+        "import form",
+        "ssa",
+        "fd-1036",
+        "sis",
+        "drawing"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035744",
+            "similarity": 0.538,
+            "index": 7,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035741",
+      "summary": "This document is an FBI import form, FD-1036, related to a death investigation. The form includes a facial record of Michael Thomas, dated September 25, 2019, provided by OIG SA on August 14, 2019. Jeffrey Epstein is identified as a victim. The case ID is 90A-NY-3151227.",
+      "timestamp": "2019-09-25T00:00:00",
+      "timestamp_raw": "September 25, 2019",
+      "keywords": [
+        "michael thomas",
+        "fbi",
+        "jeffrey epstein",
+        "victim",
+        "death investigation",
+        "import form",
+        "ssa",
+        "facial record",
+        "unclassified",
+        "efta00035741"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00035749",
+            "similarity": 0.538,
+            "index": 28,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035754",
+            "similarity": 0.667,
+            "index": 30,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035755",
+            "similarity": 0.538,
+            "index": 31,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035739",
+      "summary": "This document is an “Import Form” regarding the MCC bed assignments for Jeffrey Epstein, dated September 25, 2019. It was provided by SIS Lt. on August 13, 2018, and is part of a death investigation case ID # 90A-NY-3151227, designating Epstein as a victim and noting the involvement of SSA approval.",
+      "timestamp": "2019-09-25T00:00:00",
+      "timestamp_raw": "September 25, 2019",
+      "keywords": [
+        "epstein",
+        "jeffrey",
+        "fbi",
+        "investigation",
+        "death",
+        "bed assignments",
+        "ssa",
+        "victim",
+        "unclassified",
+        "form"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035749",
+      "summary": "This is an official FBI Import Form, dated November 21, 2019, titled “CART Process Report for CART Submission ID:218509.” The report relates to a death investigation with Jeffrey Epstein as a victim (Case ID S: 90A-NY-3151227) and was approved by the SSA. The form is marked as UNCLASSIFIED and includes the case number EFTA00035749.",
+      "timestamp": "2019-11-21T00:00:00",
+      "timestamp_raw": "November 21, 2019",
+      "keywords": [
+        "fbi",
+        "import form",
+        "cart process report",
+        "jeffrey epstein",
+        "victim",
+        "death investigation",
+        "ssa",
+        "case id",
+        "unclassified",
+        "efta00035749"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035741",
+            "similarity": 0.538,
+            "index": 26,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035742",
+            "similarity": 0.538,
+            "index": 23,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035730",
+            "similarity": 0.538,
+            "index": 20,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00035754",
+            "similarity": 0.538,
+            "index": 30,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035755",
+            "similarity": 0.538,
+            "index": 31,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035757",
+            "similarity": 0.538,
+            "index": 34,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035751",
+      "summary": "This document is an unofficial Federal Bureau of Investigation Import Form, dated December 11, 2019, related to a digital evidence examination. It concerns Process Report #223558 regarding CART technical assistance for case ID #90A-NY-3151227, involving Jeffrey Epstein as a victim and a death investigation. The form was received on October 16, 2009.",
+      "timestamp": "2019-12-11T00:00:00",
+      "timestamp_raw": "December 11, 2019",
+      "keywords": [
+        "fbi",
+        "import form",
+        "del rex",
+        "digital evidence laboratory",
+        "sid",
+        "jeffrey epstein",
+        "victim",
+        "death investigation",
+        "process report",
+        "cart"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035754",
+      "summary": "This document is a redacted FBI import form (FD-1036) regarding a death investigation involving Michael Thomas. The form, dated December 13, 2019, details a work schedule provided by the Social Security Administration (SSA) on September 6, 2019. Jeffrey Epstein is listed as a victim, and the case ID is 90A-NY-3151227. The document is classified for release to the USA, Great Britain, and Ireland.",
+      "timestamp": "2019-12-13T00:00:00",
+      "timestamp_raw": "December 13, 2019",
+      "keywords": [
+        "eba",
+        "fbi",
+        "work schedules",
+        "michael thomas",
+        "jeffrey epstein",
+        "victim",
+        "death investigation",
+        "ssa",
+        "unclassified",
+        "import form"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035749",
+            "similarity": 0.538,
+            "index": 28,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035741",
+            "similarity": 0.667,
+            "index": 26,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00035755",
+            "similarity": 0.538,
+            "index": 31,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035755",
+      "summary": "This is a redacted FBI Import Form, specifically a Daily Assignment Log for Tova Noel, dated December 13, 2019. The log was generated by the OIG as part of a death investigation (Case ID: 90A-NY-3151227) involving Jeffrey Epstein as a victim. The document is officially approved by the SSA and designated as UNCLASSIFIED.",
+      "timestamp": "2019-12-13T00:00:00",
+      "timestamp_raw": "December 13, 2019",
+      "keywords": [
+        "efta00035755",
+        "tova noel",
+        "jeffrey epstein",
+        "victim",
+        "death investigation",
+        "import form",
+        "fbi",
+        "ssa",
+        "daily assignment log",
+        "unclassified"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035754",
+            "similarity": 0.538,
+            "index": 30,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035749",
+            "similarity": 0.538,
+            "index": 28,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035741",
+            "similarity": 0.538,
+            "index": 26,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035752",
+      "summary": "This document is an Import Form created by the FBI, Case ID #90A-NY-3151227, related to a death investigation involving Jeffrey Epstein. The form, dated December 13, 2019, was provided by the OIG SA and includes OIG Waiver Forms and references to documents SONY_00017816 and EFTA00035752. The form indicates UNSUB(S) and Jeffrey Epstein as the victim.",
+      "timestamp": "2019-12-13T00:00:00",
+      "timestamp_raw": "December 13, 2019",
+      "keywords": [
+        "fbi",
+        "investigation",
+        "jeffrey epstein",
+        "oig",
+        "waiver forms",
+        "death investigation",
+        "case id",
+        "2019",
+        "ssa",
+        "oig sa"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035756",
+      "summary": "This document is a Federal Bureau of Investigation (FBI) import form, specifically an \"Other\" type, relating to a death investigation. The form, dated February 4, 2020, includes a psychology report and interview notes for the case ID 8: 90A-NY-3151227, involving Jeffrey Epstein as a victim. The report is classified as UNCLASSIFIED and designates the case as UNSUB(S).",
+      "timestamp": "2020-02-04T00:00:00",
+      "timestamp_raw": "February 4, 2020",
+      "keywords": [
+        "efta00035756",
+        "fbi",
+        "psychology report",
+        "interview notes",
+        "death investigation",
+        "jeffrey epstein",
+        "victim",
+        "import form",
+        "unclassified",
+        "federal bureau of investigation"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035757",
+      "summary": "This is an email record from the Federal Bureau of Investigation, dated October 14, 2020, related to a death investigation identified as Case ID 8: 90A-NY-3151227. Jeffrey Epstein is listed as the victim. The email is part of a continuation chain (Ro 10-16-2009) and is classified as UNCLASSIFIED.",
+      "timestamp": "2020-10-14T00:00:00",
+      "timestamp_raw": "October 14, 2020",
+      "keywords": [
+        "fbi",
+        "import form",
+        "email",
+        "jeffrey epstein",
+        "victim",
+        "death investigation",
+        "fd-i036",
+        "synopsis",
+        "case id",
+        "unclassified"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035749",
+            "similarity": 0.538,
+            "index": 28,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035742",
+            "similarity": 0.538,
+            "index": 23,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035726",
+            "similarity": 0.538,
+            "index": 13,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025004",
+      "summary": "This document is an FBI Import Form (Fp-1023) dated October 19, 2020, concerning a Type 3 Assessment titled \"2020 Election Influence Threat – FBI Los Angeles Area of Responsibility.\" The assessment investigates potential foreign influence, specifically from Israel, Russia, and the UAE, targeting U.S. officials. Two attached documents, labeled “DELTA” and “ETA,” are included as enclosures. The document is marked as UNCLASSIFIED//FOUO.",
+      "timestamp": "2020-10-19T00:00:00",
+      "timestamp_raw": "October 19, 2020",
+      "keywords": [
+        "fbi",
+        "election influence",
+        "threat assessment",
+        "confidential human source",
+        "fouo",
+        "israel",
+        "russia",
+        "uae",
+        "epstein",
+        "trafficking"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031435",
+      "summary": "This document is a letter from the U.S. Department of Justice, Southern District of New York, to Montell Figgins regarding the case of United States v. Michael Thomas (No. 19 Cr. 830). It provides additional discovery materials subject to a protective order. The materials include arrest documentation, FBI documents (including import forms, laboratory examination requests, and process reports), witness statements, an anonymized index, and US Marshals Service intake records.  Additionally, the government is providing information regarding disciplinary actions taken against inmate Tony McClam at the MCC and MDC, and a list of inmate deaths over the last ten years at those institutions. All materials are classified as \"Confidential\" and “Attorney’s Eyes Only.”",
+      "timestamp": "2021-04-14T00:00:00",
+      "timestamp_raw": "April 14, 2021",
+      "keywords": [
+        "united states v. michael thomas",
+        "montell figgins",
+        "fbi",
+        "protective order",
+        "discovery",
+        "criminal procedure",
+        "bates numbers",
+        "confidential",
+        "redaction analysis"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024019",
+      "summary": "This document is a letter from the U.S. Department of Justice, Southern District of New York, to legal counsel regarding the case of *United States v. Tom Noel No. 19 Cr. 830*. It provides additional discovery materials as per Rule 16(a) of the Federal Rules of Criminal Procedure, subject to a protective order. The materials include arrest documentation, FBI documents (including import forms, laboratory examination requests, and process reports), witness statements, and information from the US Marshals Service and the Bureau of Prisons (BOP). The BOP information details disciplinary actions related to log entry falsification and lists inmate deaths over the last ten years at the MCC and MDC institutions. Access to this information is restricted and designated as “Protected Materials.”",
+      "timestamp": "2021-04-14T00:00:00",
+      "timestamp_raw": "April 14, 2021",
+      "keywords": [
+        "united states v. tom noel",
+        "fbi",
+        "protective order",
+        "confidential",
+        "discovery",
+        "arrest documentation",
+        "witness statements",
+        "bop",
+        "disciplinary actions",
+        "inmate deaths",
+        "mcc",
+        "mdc"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025002",
+      "summary": "This is an FBI import form documenting the provision of victim services related to a case involving Jeffrey Epstein and child trafficking. The case ID is D-NY-3027571. The document was drafted on or around 16-2011 and is officially recorded as UNCLASSIFIED.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "fbi",
+        "jeffrey epstein",
+        "child trafficking",
+        "import form",
+        "redaction analysis"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035753",
+      "summary": "This document is an unofficial FBI import form, Case ID #90A-NY-3151227, related to a death investigation involving Jeffrey Epstein. It was generated on December 27, 2025, and includes waiver forms provided by the OIG SA, specifically referencing SONY_00017817 and EFTA00035753. The form indicates the subject is UNSUB(S), Jeffrey Epstein (victim), and the date of the investigation is December 13, 2019.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "fbi",
+        "investigation",
+        "death",
+        "waiver forms",
+        "oig",
+        "jeffrey epstein",
+        "victim",
+        "form",
+        "other",
+        "unclassified"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    }
+  ]
+}

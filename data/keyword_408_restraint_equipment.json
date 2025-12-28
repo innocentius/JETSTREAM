@@ -1,0 +1,2522 @@
+{
+  "keyword": "restraint equipment",
+  "count": 37,
+  "keyword_match_count": 37,
+  "content_match_count": 18,
+  "total_files": 55,
+  "timeline": [
+    {
+      "file_id": "EFTA00033413",
+      "summary": "Counts varied between 789 and 792 inmates. SHU (Special Housing Unit) placements and movements were frequent, with inmates being moved between units and hospitals. There were several instances of inmates placed in administrative detention due to issues such as cell phone possession or refusal to obey orders. Telephone monitoring included WITSEC inquiries and STG/High Alert calls, though no alerts were triggered during the shifts. Restraint equipment was inventoried regularly, and metal detector checks were conducted. System malfunctions impacted the Public Address System. Visitation occurred on June 27th.",
+      "timestamp": "2019-06-27T00:00:00",
+      "timestamp_raw": "June 27, 2019",
+      "keywords": [
+        "lieutenant",
+        "count",
+        "shu",
+        "prea",
+        "institution",
+        "nypd",
+        "alarm",
+        "detention",
+        "cell phone",
+        "inmate"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00035665",
+            "similarity": 0.533,
+            "index": 3,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033428",
+            "similarity": 0.533,
+            "index": 7,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034908",
+            "similarity": 0.533,
+            "index": 16,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00033419",
+      "summary": "On July 2, 2019, a Metropolitan Correctional Center Lieutenant documented daily operations, including counts, inmate observations (psychological observations, administrative detentions), equipment checks, and security procedures.  Counts were conducted at 12:00 AM, 3:00 AM, 5:00 AM, 6:00 AM, and 10:00 AM.  Various inmate movements occurred, including transfers, returns, and administrative detentions.  Phone calls were monitored, including WITSEC inquiries.  The shift involved responding to alarms, conducting trash runs, and managing visitation. The counts varied throughout the shift, starting at 796, decreasing to 783, and then increasing to 788 before the shift ended.",
+      "timestamp": "2019-07-02T00:00:00",
+      "timestamp_raw": "July 2, 2019",
+      "keywords": [
+        "correctional center",
+        "count",
+        "inmates",
+        "psych obs",
+        "arrest",
+        "detention",
+        "fire alarm",
+        "nypd",
+        "phone check",
+        "restraint equipment",
+        "witsec",
+        "administrative detention"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00033444",
+            "similarity": 0.5,
+            "index": 21,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034135",
+      "summary": "This document is a daily log from the Metropolitan Correctional Center in New York, documenting the activities of a lieutenant overseeing a shift. The log records counts, inmate movements (including transfers to hospital and administrative detention), equipment checks (metal detectors, restraint equipment), and responses to alarms and phone calls. It details specific inmate events, such as the addition of new inmates (including one transferred from another unit), and mentions system malfunctions affecting the public address system. The log also records routine tasks like trash runs and provides inmate visitation statistics. The shift covers three days: July 6th, July 7th, and July 5th, with counts recorded at various times throughout each day.",
+      "timestamp": "2019-07-06T00:00:00",
+      "timestamp_raw": "July 06, 2019",
+      "keywords": [
+        "lieutenant",
+        "count",
+        "shu",
+        "hospital",
+        "usms",
+        "alarm",
+        "inventory",
+        "detention",
+        "phone check",
+        "institution",
+        "operations",
+        "fire alarm",
+        "records"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00035665",
+            "similarity": 0.625,
+            "index": 3,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033422",
+            "similarity": 0.857,
+            "index": 4,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00033435",
+            "similarity": 0.5,
+            "index": 9,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035665",
+      "summary": "On July 6th and 7th, 2019, the Metropolitan Correctional Center in New York documented daily operations led by a Lieutenant. The log details counts, security checks (including metal detector scans and restraint equipment inventories), inmate movements (including administrative detentions and WITSEC inquiries), and system malfunctions (specifically a PREA announcement system failure). There were several institutional counts throughout the shifts, along with body alarm testing, NYPD phone checks, and trash runs. The counts varied between 787 and 789, and SHU status and unit assignments were consistently recorded. Visitation records were also maintained.",
+      "timestamp": "2019-07-06T00:00:00",
+      "timestamp_raw": "July 06, 2019",
+      "keywords": [
+        "lieutenant",
+        "count",
+        "shu",
+        "institution",
+        "nypd",
+        "alarm",
+        "detention",
+        "usms",
+        "prea",
+        "inventory",
+        "operations",
+        "visitation",
+        "phone check"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034135",
+            "similarity": 0.625,
+            "index": 2,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033413",
+            "similarity": 0.533,
+            "index": 0,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00033422",
+            "similarity": 0.625,
+            "index": 4,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033435",
+            "similarity": 0.5,
+            "index": 9,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033580",
+            "similarity": 0.562,
+            "index": 14,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00033422",
+      "summary": "Several inmates were moved between units, including one transported to a local hospital. There were several instances of phone calls monitored, including STG and High Alert calls, and WITSEC inquiries.  Administrative detentions were recorded for inmates #50972-054 and #76318-054, with reasons and times documented.  The log details system malfunctions (fire alarm, PA system), trash runs, and standard operational procedures.  The final count at the end of each shift was recorded.",
+      "timestamp": "2019-07-06T00:00:00",
+      "timestamp_raw": "July 06, 2019",
+      "keywords": [
+        "lieutenant",
+        "count",
+        "shu",
+        "hospital",
+        "usms",
+        "alarm",
+        "inventory",
+        "detention",
+        "operations",
+        "phone check",
+        "institution",
+        "time",
+        "count",
+        "records"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035665",
+            "similarity": 0.625,
+            "index": 3,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034135",
+            "similarity": 0.857,
+            "index": 2,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034674",
+      "summary": "On July 9, 2019, the Metropolitan Correctional Center in New York documented daily operations, including counts, inventory checks, and inmate movements. Lieutenant’s logs recorded events such as fire alarm issues, body alarm testing, phone checks, and inmate placements in Administrative Detention, particularly for inmate I/M Epstein due to a psychological observation. There were several counts conducted throughout the shifts, with varying inmate totals. Specific incidents included inmate transfers to local hospitals, court appearances, and a trash run.  No STG/High Alert or WITSEC inquiries were recorded.",
+      "timestamp": "2019-07-09T00:00:00",
+      "timestamp_raw": "July 9, 2019",
+      "keywords": [
+        "daily log",
+        "lieutenant",
+        "count",
+        "shu",
+        "psych obs",
+        "inmate",
+        "restraint equipment",
+        "nypd",
+        "fire alarm",
+        "administrative detention",
+        "visitation",
+        "usms",
+        "institution"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00034067",
+            "similarity": 0.714,
+            "index": 6,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00033428",
+            "similarity": 0.529,
+            "index": 7,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033431",
+            "similarity": 0.533,
+            "index": 8,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034067",
+      "summary": "On July 9, 2019, a Metropolitan Correctional Center Lieutenant documented daily operations, including counts, inmate movements (including psychiatric observations and administrative detentions), and security checks.  The shift involved monitoring phone calls (including STG and WITSEC inquiries), conducting inventory, responding to alarms, and managing inmate visits.  Counts varied throughout the day, with a final count of 792 at the end of the shift. Several inmates were transferred between units or facilities, and a trash run was conducted. The fire alarm/sprinkler system was intermittently nonoperational.",
+      "timestamp": "2019-07-09T00:00:00",
+      "timestamp_raw": "July 9, 2019",
+      "keywords": [
+        "lieutenant",
+        "count",
+        "shu",
+        "fire alarm",
+        "restraint equipment",
+        "nypd",
+        "inmate",
+        "administrative detention",
+        "psych obs",
+        "institution",
+        "efta00034067"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034674",
+            "similarity": 0.714,
+            "index": 5,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00033428",
+            "similarity": 0.5,
+            "index": 7,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033431",
+            "similarity": 0.615,
+            "index": 8,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033441",
+            "similarity": 0.571,
+            "index": 15,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00033428",
+      "summary": "It details counts, inmate movements (including transfers to hospital, court, and administrative detention), equipment checks, phone monitoring (including WITSEC inquiries), and various institutional activities like feeding, trash collection, and visitation. There were issues with the fire alarm system, and several inmates were added or removed from the facility during the shift. The log recorded the times of various counts and shifts taken by the Lieutenant.",
+      "timestamp": "2019-07-09T00:00:00",
+      "timestamp_raw": "July 9, 2019",
+      "keywords": [
+        "lieutenant",
+        "count",
+        "shu",
+        "institution",
+        "arrest",
+        "psych obs",
+        "restraint equipment",
+        "nypd",
+        "alarm",
+        "detention",
+        "inmate",
+        "system",
+        "count",
+        "visitation"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034067",
+            "similarity": 0.5,
+            "index": 6,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034674",
+            "similarity": 0.529,
+            "index": 5,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033413",
+            "similarity": 0.533,
+            "index": 0,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00033435",
+            "similarity": 0.5,
+            "index": 9,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034970",
+            "similarity": 0.5,
+            "index": 28,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033707",
+            "similarity": 0.556,
+            "index": 37,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00033431",
+      "summary": "Key activities included routine counts, equipment checks, security checks (roof, metal detectors), handling of inmate movement (administrative detention, hospital transfers), and monitoring of phone calls (STG/High Alert and WITSEC inquiries). There were multiple instances of counts taken at 12:00 AM, 3:00 AM, 5:00 AM, and 12:00 PM, as well as at 8:00 AM, 9:30 AM, 1:00 PM, 2:00 PM, 3:15 PM, and 4:00 PM. The log details the assumption and relinquishment of duties by the Lieutenant, and references specific inmate names and their associated housing units and reasons for administrative detention. System malfunctions, particularly with the Public Address System, were noted. The final count at the end of the shift was 791.",
+      "timestamp": "2019-07-11T00:00:00",
+      "timestamp_raw": "July 11, 2019",
+      "keywords": [
+        "lieutenant",
+        "count",
+        "shu",
+        "restraint equipment",
+        "metal detector",
+        "institution",
+        "nypd",
+        "body alarm",
+        "administrative detention",
+        "inmate"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034067",
+            "similarity": 0.615,
+            "index": 6,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034674",
+            "similarity": 0.533,
+            "index": 5,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00033441",
+            "similarity": 0.5,
+            "index": 15,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034734",
+            "similarity": 0.533,
+            "index": 22,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034948",
+            "similarity": 0.5,
+            "index": 23,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00033435",
+      "summary": "On July 13, 2019, a correctional officer’s daily log documented operations at the Metropolitan Correctional Center in New York. The log recorded counts, security checks (including metal detectors and restraint equipment), fire/sprinkler system status, inmate movement (including FURLs and Administrative Detention), and communication checks (NYPD phone checks and STG/High Alert calls).  There were multiple institutional counts throughout the day, often accompanied by “Good Verbal” or “Clear” announcements.  Several system malfunctions (specifically PREA announcements) were noted. The shift involved managing inmate activities, conducting trash runs, and responding to inmate inquiries and potential security concerns.  The final count at the end of the shift was consistently 798 with varying SHU counts.",
+      "timestamp": "2019-07-13T00:00:00",
+      "timestamp_raw": "July 13, 2019",
+      "keywords": [
+        "lieutenant",
+        "count",
+        "shu",
+        "institution",
+        "nypd",
+        "alarm",
+        "restraint equipment",
+        "fire alarm",
+        "detention",
+        "count",
+        "operations",
+        "watch",
+        "system",
+        "inventory",
+        "security"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00033428",
+            "similarity": 0.5,
+            "index": 7,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035665",
+            "similarity": 0.5,
+            "index": 3,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034135",
+            "similarity": 0.5,
+            "index": 2,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00033580",
+            "similarity": 0.529,
+            "index": 14,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033459",
+            "similarity": 0.529,
+            "index": 39,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034539",
+      "summary": "Lieutenant’s shifts involved managing inmate activities, conducting counts, responding to alarms, and addressing issues like sprinkler malfunctions and bed space shortages. There were several inmate placements in administrative detention and ongoing monitoring of STG/High Alert phone calls and WITSEC inquiries. The counts varied throughout the day, with a final count of 799 recorded at the end of the shift.",
+      "timestamp": "2019-07-14T00:00:00",
+      "timestamp_raw": "July 14, 2019",
+      "keywords": [
+        "lieutenant",
+        "count",
+        "shu",
+        "suicide watch",
+        "psych obs",
+        "restraint equipment",
+        "nypd phone check",
+        "institution",
+        "alarm",
+        "detention",
+        "prea",
+        "confidental"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00034569",
+            "similarity": 0.562,
+            "index": 53,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034156",
+      "summary": "*   **Starting Counts:** The initial counts throughout the shifts varied between 796 and 799 inmates. *   **SHU Status:** The Special Housing Unit (SHU) contained approximately 78 inmates, with fluctuating numbers due to administrative detentions and movements. *   **Daily Activities:** The log detailed routine activities including counts, inventory checks, restraint equipment management, fire alarm testing, phone calls (including STG/High Alert monitoring and WITSEC inquiries), and inmate movements (e.g., to court, HA, ZA, general population). *   **Administrative Detentions:** Several inmates were placed in Administrative Detention throughout the shifts. *   **Visitation:** Visitation records noted 24 total inmates – 9 adults and 10 children. *   **Equipment Issues:** There were noted instances of system malfunctions, specifically relating to the Institution Public Address System used for PREA announcements.",
+      "timestamp": "2019-07-15T00:00:00",
+      "timestamp_raw": "July 15, 2019",
+      "keywords": [
+        "lieutenant",
+        "count",
+        "shu",
+        "arrest",
+        "witsec",
+        "detention",
+        "fire alarm",
+        "institution",
+        "nypd",
+        "census",
+        "visitation",
+        "inmate",
+        "unit",
+        "goldcrest",
+        "prea"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034896",
+      "summary": "Throughout the shifts, there were numerous institutional counts with varying results (798, 796, 785, 786, 787, 794, 77/5, 78/5, 76/5, 78/4, 79/5, 76/4). There were also issues with the PREA announcement system and a malfunctioning door panel.  No STG/High Alert or WITSEC phone calls were received. Visitation records were not available for this shift.",
+      "timestamp": "2019-07-16T00:00:00",
+      "timestamp_raw": "July 16, 2019",
+      "keywords": [
+        "lieutenant",
+        "count",
+        "shu",
+        "psych obs",
+        "hospice",
+        "usms guards",
+        "administrative detention",
+        "prea",
+        "lockdown",
+        "inmate",
+        "institutional",
+        "nypd",
+        "restraint equipment",
+        "confidental",
+        "visitation",
+        "comm. tech."
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00034948",
+            "similarity": 0.5,
+            "index": 23,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034902",
+      "summary": "It details inmate counts (ranging from 782 to 787), security procedures (including metal detector checks, restraint equipment inventories, and roof checks), inmate movements (administrative detention, court appearances, hospital transfers, and new commitments), and responses to alarms and phone calls. Specific inmate details, including names, identification numbers, and reasons for placement, are recorded. The log also includes observations regarding sensitive information, such as suicide watch and inmate companions, as well as details about visitation and daily operations like trash runs and feeding schedules.",
+      "timestamp": "2019-07-18T00:00:00",
+      "timestamp_raw": "July 18, 2019",
+      "keywords": [
+        "correctional center",
+        "lieutenant",
+        "count",
+        "suicide watch",
+        "shu",
+        "prea",
+        "restraint equipment",
+        "metal detector",
+        "nypd",
+        "admissions",
+        "inmates",
+        "visitation",
+        "fire alarm",
+        "system malfunction"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00034706",
+            "similarity": 0.5,
+            "index": 17,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034734",
+            "similarity": 0.5,
+            "index": 22,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033465",
+            "similarity": 0.5,
+            "index": 42,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00033580",
+      "summary": "On July 20, 2019, the Metropolitan Correctional Center in New York documented daily operations, primarily focused on maintaining security and conducting counts of the inmate population (780, with 71 in SHU). Lieutenant’s logs detailed routine activities including count confirmations, equipment checks, Restraint Equipment Cage inventories, and responses to incidents like a reported fight necessitating a lockdown. There were also monitoring of STG and WITSEC phone calls, occasional administrative detentions (zero recorded in this excerpt), and system malfunctions affecting the Public Address System. Shifts were rotated between morning, day, and evening watches, and there were specific observations regarding NYPD activity and trash collection.",
+      "timestamp": "2019-07-20T00:00:00",
+      "timestamp_raw": "July 20, 2019",
+      "keywords": [
+        "lieutenant",
+        "count",
+        "shu",
+        "nypd",
+        "alarm",
+        "lockdown",
+        "hospice",
+        "usms",
+        "detention",
+        "institution",
+        "fire alarm",
+        "operations"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00033435",
+            "similarity": 0.529,
+            "index": 9,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035665",
+            "similarity": 0.562,
+            "index": 3,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034135",
+            "similarity": 0.562,
+            "index": 2,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00033441",
+            "similarity": 0.533,
+            "index": 15,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034908",
+            "similarity": 0.562,
+            "index": 16,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00033441",
+      "summary": "Each shift involved counts, inventory checks (including restraint equipment and metal detectors), fire alarm system checks, and communication with external agencies (NYPD, USMS, and potentially WITSEC inquiries). There were multiple instances of verbal counts announced and confirmed. Several times, the institution was placed on lockdown for counts. The fire alarm system experienced malfunctions during the day shift. Temporary chit inventories were recorded. The Lieutenant’s duties rotated between shifts, and there were instances of inmates being placed in Administrative Detention. The number of inmates was consistently 780, with a SHU count of 71/5, fluctuating slightly across the shifts.",
+      "timestamp": "2019-07-21T00:00:00",
+      "timestamp_raw": "July 21, 2019",
+      "keywords": [
+        "lieutenant",
+        "count",
+        "shu",
+        "usms",
+        "hospice",
+        "restraint equipment",
+        "fire alarm",
+        "nypd",
+        "administrative detention",
+        "institution",
+        "count",
+        "prea"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00033580",
+            "similarity": 0.533,
+            "index": 14,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033431",
+            "similarity": 0.5,
+            "index": 8,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034067",
+            "similarity": 0.571,
+            "index": 6,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00034908",
+            "similarity": 0.6,
+            "index": 16,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034706",
+            "similarity": 0.5,
+            "index": 17,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034734",
+            "similarity": 0.5,
+            "index": 22,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034908",
+      "summary": "On July 21, 2019, a Metropolitan Correctional Center lieutenant documented daily operations, including counts, security checks (metal detectors, restraint equipment), and responses to alarms and phone calls. The shift involved multiple count rounds throughout the day, addressing system malfunctions (fire alarm, PA system), and managing inmate administrative detentions. There were no WITSEC inquiries or high-alert phone calls recorded during the shift. The lieutenant transitioned between morning, day, and evening watch duties, handling various tasks such as trash runs and maintaining security protocols. The final count at the end of the shift was 780 inmates, with 71 in SHU.",
+      "timestamp": "2019-07-21T00:00:00",
+      "timestamp_raw": "July 21, 2019",
+      "keywords": [
+        "lieutenant",
+        "count",
+        "shu",
+        "nypd",
+        "alarm",
+        "detention",
+        "fire alarm",
+        "institution",
+        "usms",
+        "prea",
+        "visitation",
+        "trash run",
+        "administrative detention"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00033441",
+            "similarity": 0.6,
+            "index": 15,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033580",
+            "similarity": 0.562,
+            "index": 14,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034674",
+            "similarity": 0.529,
+            "index": 5,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00034706",
+            "similarity": 0.529,
+            "index": 17,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033456",
+            "similarity": 0.5,
+            "index": 34,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034706",
+      "summary": "This document is a daily log of operations for a Metropolitan Correctional Center in New York, specifically the shift of a Lieutenant during July 23rd and 22nd, 2019. The log details inmate counts (ranging from 776 to 773), sensitive information (I/M - inmate medical), fire alarm issues, restraint equipment checks, and various security procedures like metal detector scans and phone checks. Several inmates were placed on suicide watch (Epstein #76318-054) and there were instances of WITSEC inquiries and administrative detentions. The log also records specific events such as count confirmations, release of inmates, and monitoring of STG/High Alert phone calls. Visitation details were also recorded.",
+      "timestamp": "2019-07-23T00:00:00",
+      "timestamp_raw": "July 23, 2019",
+      "keywords": [
+        "lieutenant",
+        "count",
+        "shu",
+        "fire alarm",
+        "suicide watch",
+        "prea",
+        "restraint equipment",
+        "nypd",
+        "institutional",
+        "detention",
+        "visitation",
+        "usms",
+        "monitoring"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034908",
+            "similarity": 0.529,
+            "index": 16,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033441",
+            "similarity": 0.5,
+            "index": 15,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034902",
+            "similarity": 0.5,
+            "index": 13,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00034077",
+            "similarity": 0.533,
+            "index": 19,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034970",
+            "similarity": 0.5,
+            "index": 28,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035504",
+            "similarity": 0.588,
+            "index": 49,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035581",
+      "summary": "Lieutenant’s logs recorded issues with fire alarm systems, restraint equipment inventory, and communication systems. Several inmates were placed on suicide watch, and there were instances of administrative detention. Phone calls were monitored for terrorist and WITSEC activity. Counts were conducted multiple times throughout the shifts, resulting in slight variations in inmate numbers. Visitation occurred on July 22, 2019, with 34 inmates visiting.",
+      "timestamp": "2019-07-23T00:00:00",
+      "timestamp_raw": "July 23, 2019",
+      "keywords": [
+        "usms",
+        "correction center",
+        "lieutenant's log",
+        "shu",
+        "prea",
+        "suicide watch",
+        "administrative detention",
+        "count",
+        "fire alarm",
+        "nypd",
+        "visitation",
+        "phone calls",
+        "monitoring",
+        "inmates",
+        "efta00035581"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034077",
+      "summary": "Key events included counts (776, 774, 770, 772, 774), inmate transfers (Ayllon, Reese, Epstein, Goswami, Martinez, Noble, Wright), administrative detentions, fire alarm issues, and monitoring of STG/High Alert phone calls and WITSEC inquiries. There were also instances of inmates being placed on suicide watch, receiving medical care, and participating in court appearances. Visitation records were maintained, along with data on phone calls and administrative detentions.",
+      "timestamp": "2019-07-24T00:00:00",
+      "timestamp_raw": "July 24, 2019",
+      "keywords": [
+        "lieutenant",
+        "count",
+        "shu",
+        "suicide watch",
+        "fire alarm",
+        "restraint equipment",
+        "inmate",
+        "usms",
+        "detention",
+        "phone check"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034706",
+            "similarity": 0.533,
+            "index": 17,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00035695",
+            "similarity": 0.615,
+            "index": 20,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033444",
+            "similarity": 0.692,
+            "index": 21,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033447",
+            "similarity": 0.615,
+            "index": 24,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035695",
+      "summary": "On July 25, 2019, the Metropolitan Correctional Center’s Lieutenant documented daily operations, including counts, inmate movements (e.g., Town Driver exit, inmate transfers to/from hospitals), and security checks. Sensitive information included inmate observations (psychiatric, suicide watch), phone calls monitored (including WITSEC inquiries), and administrative detentions (primarily related to cell phone possession).  Fire alarm system malfunctions were reported. Counts were conducted multiple times throughout the shifts, and various operational tasks, such as equipment inventories, phone checks, and trash runs, were performed. The log recorded changes in inmate status and location, totaling a fluctuating count of 774, 773, and 771 across the three shifts.",
+      "timestamp": "2019-07-25T00:00:00",
+      "timestamp_raw": "July 25, 2019",
+      "keywords": [
+        "lieutenant",
+        "count",
+        "shu",
+        "usms",
+        "psych obs",
+        "restraint equipment",
+        "fire alarm",
+        "phone check",
+        "administrative detention",
+        "witsec",
+        "inmate"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034077",
+            "similarity": 0.615,
+            "index": 19,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034067",
+            "similarity": 0.571,
+            "index": 6,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034674",
+            "similarity": 0.6,
+            "index": 5,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00033444",
+            "similarity": 0.643,
+            "index": 21,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034734",
+            "similarity": 0.6,
+            "index": 22,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034948",
+            "similarity": 0.562,
+            "index": 23,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00033444",
+      "summary": "On July 25, 2019, the Metropolitan Correctional Center’s Lieutenant documented daily operations, including counts, inmate movements (e.g., court appearances, transfers to nursing facilities or special housing), and maintenance issues (fire alarm malfunctions, equipment inventory). Several inmates were under observation (Psych Obs, Suicide Watch), and some were placed in Administrative Detention due to various reasons, including possession of cell phones. Phone calls were monitored, including WITSEC inquiries. Counts were conducted at various times throughout the shift, and the shift ended with a final count of 770 inmates.",
+      "timestamp": "2019-07-25T00:00:00",
+      "timestamp_raw": "July 25, 2019",
+      "keywords": [
+        "lieutenant",
+        "shu",
+        "count",
+        "fire alarm",
+        "inmate",
+        "detention",
+        "psych obs",
+        "restraint equipment",
+        "nypd",
+        "phone check",
+        "administrative detention",
+        "suicide watch"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035695",
+            "similarity": 0.643,
+            "index": 20,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034077",
+            "similarity": 0.692,
+            "index": 19,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034067",
+            "similarity": 0.643,
+            "index": 6,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00034734",
+            "similarity": 0.562,
+            "index": 22,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034948",
+            "similarity": 0.529,
+            "index": 23,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033447",
+            "similarity": 0.643,
+            "index": 24,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034734",
+      "summary": "On July 25, 2019, the Metropolitan Correctional Center in New York documented daily operations, including counts, inmate movements (to hospice, special housing, and court), and security checks. Lieutenant’s shifts involved managing staff, responding to alarms, conducting inventory, and maintaining order. There were several instances of inmate placement in administrative detention, primarily due to bail bonds or medical needs.  WITSEC inquiries and standard phone monitoring were also recorded. Counts varied throughout the shifts, with a final count of 770 recorded at the end of the shifts.",
+      "timestamp": "2019-07-25T00:00:00",
+      "timestamp_raw": "July 25, 2019",
+      "keywords": [
+        "lieutenant",
+        "count",
+        "shu",
+        "prea",
+        "fire alarm",
+        "restraint equipment",
+        "metal detector",
+        "nypd",
+        "witsec",
+        "administrative detention",
+        "inmate",
+        "visitation",
+        "phone check"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00033444",
+            "similarity": 0.562,
+            "index": 21,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035695",
+            "similarity": 0.6,
+            "index": 20,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033441",
+            "similarity": 0.5,
+            "index": 15,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00034948",
+            "similarity": 0.8,
+            "index": 23,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00033447",
+            "similarity": 0.5,
+            "index": 24,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034979",
+            "similarity": 0.533,
+            "index": 29,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034948",
+      "summary": "*   **Initial Count:** The beginning count for the Metropolitan Correctional Center in New York was 770 inmates. *   **Operational Issues:** Throughout the shifts, there were issues with the fire alarm system, the Institution Public Address System, and metal detectors, leading to delays and alternative methods of communication. *   **Inmate Status:** Several inmates were noted for specific observations, including I/M Epstein on psychiatric observation with a companion, Hossain in Special Housing Unit (pending classification), and Brown placed in administrative detention due to a threat assessment. *   **Counts & Changes:** Multiple institutional counts were conducted throughout the day, resulting in variations in inmate numbers. *   **Phone Calls & Alerts:** The log recorded monitoring of STG/High Alert phone calls and WITSEC inquiries. *   **Visitation:** Visitation data was recorded for both 9 South and 11 North units. *   **Final Count:** The final count at the end of the shifts was 770.",
+      "timestamp": "2019-07-26T00:00:00",
+      "timestamp_raw": "July 26, 2019",
+      "keywords": [
+        "lieutenant",
+        "count",
+        "shu",
+        "fire alarm",
+        "inmate",
+        "psych obs",
+        "prea",
+        "restraint equipment",
+        "metal detector",
+        "nypd",
+        "administrative detention",
+        "witsec",
+        "institutional lockdown",
+        "visitation",
+        "count"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034734",
+            "similarity": 0.8,
+            "index": 22,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00033444",
+            "similarity": 0.529,
+            "index": 21,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035695",
+            "similarity": 0.562,
+            "index": 20,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00033450",
+            "similarity": 0.526,
+            "index": 25,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034979",
+            "similarity": 0.5,
+            "index": 29,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033456",
+            "similarity": 0.562,
+            "index": 34,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00033447",
+      "summary": "On July 26, 2019, a Metropolitan Correctional Center Lieutenant’s log recorded daily operations, including counts, inmate movements, and security checks. Key events included fire alarm malfunctions, inmate placements in administrative detention (primarily due to threat assessments or court appearances), inmate transfers between housing units, and monitoring of phone calls for potential threats. The log documented specific inmate details, including observations related to psychological status and medical care. Visitation records were also noted.",
+      "timestamp": "2019-07-26T00:00:00",
+      "timestamp_raw": "July 26, 2019",
+      "keywords": [
+        "lieutenant",
+        "count",
+        "shu",
+        "fire alarm",
+        "inmate",
+        "detention",
+        "psychiatric",
+        "observation",
+        "restraint equipment",
+        "nypd",
+        "phone check"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034734",
+            "similarity": 0.5,
+            "index": 22,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033444",
+            "similarity": 0.643,
+            "index": 21,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034077",
+            "similarity": 0.615,
+            "index": 19,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00033607",
+            "similarity": 0.5,
+            "index": 32,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00033450",
+      "summary": "On July 27, 2019, the Metropolitan Correctional Center in New York documented daily operations, including counts, inmate movements, and security checks. Lieutenant’s logs recorded events such as fire alarm malfunctions, inmate placements (including those on psychiatric observation or in administrative detention), phone calls monitored (including WITSEC inquiries), and regular counts conducted at various times throughout the day. Specific inmates of note were Epstein and #76254-054. There were issues with the fire alarm system and a delay in conducting PREA announcements. Visitation records were also maintained, detailing adult and child inmate visits. The shifts transitioned between morning, day, evening, and mid-week watches.",
+      "timestamp": "2019-07-27T00:00:00",
+      "timestamp_raw": "July 27, 2019",
+      "keywords": [
+        "lieutenant",
+        "shu",
+        "count",
+        "fire alarm",
+        "psychiatric observation",
+        "administrative detention",
+        "witsec",
+        "institution",
+        "nypd",
+        "body alarm",
+        "inmate",
+        "operations lieutenant",
+        "restraint equipment",
+        "usms guards",
+        "psych obs"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034948",
+            "similarity": 0.526,
+            "index": 23,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033444",
+            "similarity": 0.5,
+            "index": 21,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035695",
+            "similarity": 0.529,
+            "index": 20,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00033456",
+            "similarity": 0.625,
+            "index": 34,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034565",
+            "similarity": 0.5,
+            "index": 50,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00033647",
+      "summary": "It details inmate counts, sensitive information (including inmate hospitalizations and psychiatric observations), restraint equipment checks, security procedures (metal detectors, roof checks, and phone monitoring – including WITSEC inquiries), and administrative actions like administrative detentions and transfers between housing units (SHU, 10-South, Local Hosp).  Specific inmate movements and releases are recorded, along with equipment inventory and maintenance. The log also tracks phone calls and counts to maintain a secure environment.",
+      "timestamp": "2019-07-29T00:00:00",
+      "timestamp_raw": "July 29, 2019",
+      "keywords": [
+        "lieutenant",
+        "shu",
+        "hospital",
+        "inmate",
+        "count",
+        "custody",
+        "detention",
+        "observation",
+        "restraint",
+        "alarm"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00035001",
+            "similarity": 0.5,
+            "index": 36,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00033601",
+      "summary": "The log details inmate counts, sensitive information, medical observations (including psychiatric observations and suicide watch), administrative detentions, phone calls (including WITSEC inquiries and STG/High Alert calls), restraint equipment inventory, and general operational activities like counts, searches, and releases. Specific inmate IDs and reasons for detention/observation are frequently noted. The log records various interruptions to standard procedures due to system malfunctions, and includes details about visitation and trash runs.",
+      "timestamp": "2019-07-29T00:00:00",
+      "timestamp_raw": "July 29, 2019",
+      "keywords": [
+        "lieutenant",
+        "shu",
+        "inmate",
+        "hospital",
+        "count",
+        "prea",
+        "restraint",
+        "metal detector",
+        "nypd",
+        "administration detention",
+        "suicide watch"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00033465",
+            "similarity": 0.615,
+            "index": 42,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034970",
+      "summary": "On July 30, 2019, a Metropolitan Correctional Center Lieutenant’s log documented daily operations, including counts, inmate movements (including hospital transfers and releases), security checks (metal detectors, restraint equipment, roof checks), and monitoring of phone calls (including WITSEC inquiries). The log recorded specific inmate activities, administrative detentions, and the operational status of various systems (fire alarm, public address system). Counts were conducted multiple times throughout the shifts, with variations in inmate numbers and locations. Visitation records were also maintained.",
+      "timestamp": "2019-07-30T00:00:00",
+      "timestamp_raw": "July 30, 2019",
+      "keywords": [
+        "lieutenant",
+        "count",
+        "shu",
+        "hospital",
+        "arrest",
+        "detention",
+        "nypd",
+        "phone check",
+        "restraint equipment",
+        "visitation",
+        "inmates",
+        "usms",
+        "psych obs",
+        "prea"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034706",
+            "similarity": 0.5,
+            "index": 17,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033428",
+            "similarity": 0.5,
+            "index": 7,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035665",
+            "similarity": 0.5,
+            "index": 3,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00033607",
+            "similarity": 0.667,
+            "index": 32,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034569",
+            "similarity": 0.5,
+            "index": 53,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034979",
+      "summary": "On July 31, 2019, the Metropolitan Correctional Center in New York documented daily operations, including counts, inmate movements, and security checks. Lieutenant’s log entries detail events such as inmate transfers (including Melendez and Davis), dry cell placements, administrative detentions (Blackwell, Mahmood, Benjamin, Darand, Ochoa, Robinson, Brissett, Barrow), and observations related to medical facilities and phone monitoring (WITSEC inquiries). Fire alarm issues and PA system malfunctions were noted.  Counts varied throughout the shift, with a starting count of 760 and ending counts of 758, 757, and 763, reflecting inmate releases and placements. Visitation records were also tracked.",
+      "timestamp": "2019-07-31T00:00:00",
+      "timestamp_raw": "July 31, 2019",
+      "keywords": [
+        "lieutenant",
+        "count",
+        "shu",
+        "hospital",
+        "usms",
+        "restraint equipment",
+        "metal detector",
+        "nypd",
+        "administrative detention",
+        "witsec"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034948",
+            "similarity": 0.5,
+            "index": 23,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034734",
+            "similarity": 0.533,
+            "index": 22,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035695",
+            "similarity": 0.5,
+            "index": 20,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00033456",
+            "similarity": 0.5,
+            "index": 34,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033465",
+            "similarity": 0.538,
+            "index": 42,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00033665",
+      "summary": "Lieutenant’s conducted shifts, monitoring phone calls (including WITSEC inquiries), managing administrative detentions (resulting in several inmate placements), and addressing system malfunctions (fire alarm, PA system). Inmate counts fluctuated throughout the day, with changes due to transfers, medical observations, and administrative actions. The shift involved numerous routine procedures and responses to specific inmate situations.",
+      "timestamp": "2019-08-01T00:00:00",
+      "timestamp_raw": "August 1, 2019",
+      "keywords": [
+        "lieutenant",
+        "count",
+        "shu",
+        "institution",
+        "usms",
+        "psych",
+        "restraint",
+        "metal detector",
+        "emergency",
+        "witsec",
+        "detention",
+        "inmate",
+        "observation",
+        "log"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034991",
+      "summary": "This document is a daily log of activities and events at the Metropolitan Correctional Center in New York, maintained by a Lieutenant. It details counts, inmate movements, security checks (metal detectors, restraint equipment), responses to alarms, phone calls (including WITSEC inquiries), and administrative detentions. There are frequent institution-wide counts, and occasional issues with communication systems (PA system, metal detectors). Visitation records are also noted. The log records the specific times and actions taken throughout each shift, categorized by the type of activity (e.g., “Institution Count,” “PREA Announcement,” “Body Alarm Testing”).",
+      "timestamp": "2019-08-02T00:00:00",
+      "timestamp_raw": "August 02, 2019",
+      "keywords": [
+        "usms guards",
+        "suicide watch",
+        "shu",
+        "prea",
+        "institution count",
+        "body alarm",
+        "administrative detention",
+        "witsec",
+        "visitation",
+        "lockdown",
+        "terrorist phone calls"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00033607",
+      "summary": "On August 3, 2019, the Metropolitan Correctional Center’s Lieutenant documented daily operations, including counts, inmate movements (specifically Melendez and Benjamin), and security checks. Key events included fire alarm issues, phone checks, body alarm testing, PREA announcements, and administrative detentions. Inmates were frequently placed in the Local Hospital and observed psychological observations. Throughout the shift, the Lieutenant transitioned between morning, day, and evening watches, managing inmate counts and responding to various incidents, including a hospital return for inmate Melendez. There were no recorded STG/High Alert phone calls or WITSEC inquiries.",
+      "timestamp": "2019-08-03T00:00:00",
+      "timestamp_raw": "August 3, 2019",
+      "keywords": [
+        "lieutenant",
+        "count",
+        "shu",
+        "hospital",
+        "usms",
+        "psych obs",
+        "detention",
+        "fire alarm",
+        "inventory",
+        "nypd",
+        "phone check",
+        "observation",
+        "administrative",
+        "visitation",
+        "inmates",
+        "restraint equipment"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034970",
+            "similarity": 0.667,
+            "index": 28,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033447",
+            "similarity": 0.5,
+            "index": 24,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00033630",
+      "summary": "On August 3, 2019, the Metropolitan Correctional Center’s Lieutenant’s log documented daily operations, including counts, inmate movements (specifically inmates Melendez and Benjamin), and security checks. Key events included fire alarm malfunctions, phone checks, body alarm testing, restraint equipment inventories, and several institutional counts. There were no WITSEC inquiries or administrative detentions recorded during this shift. The shift transitioned between morning, day, and evening watches, with associated changes in personnel and activities. The total inmate count remained consistent throughout the 24-hour period.",
+      "timestamp": "2019-08-03T00:00:00",
+      "timestamp_raw": "August 3, 2019",
+      "keywords": [
+        "us department of justice",
+        "metropolitan correctional center",
+        "count",
+        "shu",
+        "witsec",
+        "administrative detention",
+        "hospital",
+        "fire alarm",
+        "operations lieutenant",
+        "body alarm",
+        "institution count",
+        "prea"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00033456",
+      "summary": "This document is a daily log from August 4, 2019, detailing the activities and observations of a Metropolitan Correctional Center Lieutenant shift. Key events include: multiple institution counts (762 inmates), maintenance checks (metal detectors, restraint equipment, fire system), PREA announcements, phone checks, body alarm testing, inmate administrative detentions (though none during this specific shift), trash runs, and monitoring of STG/High Alert phone calls and WITSEC inquiries (both occurring zero times). The log records variations in inmate counts, equipment malfunctions (specifically the PA system), and the lieutenant’s transitions of duty between shifts.",
+      "timestamp": "2019-08-04T00:00:00",
+      "timestamp_raw": "August 4, 2019",
+      "keywords": [
+        "lieutenant",
+        "shu",
+        "count",
+        "institution",
+        "nypd",
+        "fire alarm",
+        "restraint equipment",
+        "prea",
+        "witsec",
+        "administrative detention",
+        "usms guards"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034979",
+            "similarity": 0.5,
+            "index": 29,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033450",
+            "similarity": 0.625,
+            "index": 25,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034948",
+            "similarity": 0.562,
+            "index": 23,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00033465",
+            "similarity": 0.5,
+            "index": 42,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035706",
+      "summary": "On August 4, 2019, the Metropolitan Correctional Center in New York documented daily operations, including counts, inventory checks, and security procedures. Lieutenant’s logs detailed activities across multiple shifts, noting operational issues like a malfunctioning PA system and metal detector problems.  Inmate activity included PREA announcements, restraint equipment management, temporary chit inventories, and the monitoring of STG international terrorist phone calls and WITSEC inquiries. Administrative detentions were recorded but consistently at zero. Counts were performed at 12:00 AM, 3:00 AM, 5:00 AM, 8:00 AM, and 10:00 AM, with variations in inmate counts and observations. There were no significant incidents or changes in inmate status.",
+      "timestamp": "2019-08-04T00:00:00",
+      "timestamp_raw": "August 4, 2019",
+      "keywords": [
+        "us department of justice",
+        "metropolitan correctional center",
+        "shift",
+        "day",
+        "date",
+        "count",
+        "shu",
+        "prea",
+        "restraint equipment",
+        "metal detector",
+        "institution",
+        "nypd",
+        "phone check",
+        "administrative detention",
+        "witsec",
+        "inmate",
+        "operations lieutenant",
+        "visitation",
+        "lockdowns"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034734",
+            "similarity": 0.524,
+            "index": 22,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035001",
+      "summary": "This document is a daily log of operations at the Metropolitan Correctional Center in New York, covering Sunday, August 4, 2019. It details count procedures (occurring multiple times throughout the day), inmate movements (including hospital transfers and psychiatric observations), equipment checks (metal detectors, restraint equipment), fire system status, and communication activities (phone checks, body alarm tests, and PREA announcements).  Several inmates were placed in administrative detention, though the reasons and specific details are redacted.  The log also records observations regarding the facility's security, including roof checks and temporary chit inventory. System malfunctions, specifically with the Public Address System and the fire pump system, were noted.",
+      "timestamp": "2019-08-04T00:00:00",
+      "timestamp_raw": "August 4, 2019",
+      "keywords": [
+        "lieutenant",
+        "count",
+        "shu",
+        "nypd",
+        "alarm",
+        "detention",
+        "fire",
+        "restraint",
+        "observation",
+        "visitation",
+        "phone check"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00033647",
+            "similarity": 0.5,
+            "index": 26,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035665",
+            "similarity": 0.5,
+            "index": 3,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00033707",
+      "summary": "There were instances of inmates placed in Administrative Detention due to pending SIS investigations.  Specific inmate names and case numbers were recorded along with the reasons for detention.  The Lieutenant addressed sensitive information, including inmate observations (psych obs, suicide watch), monitored phone calls (STG/High Alert and WITSEC inquiries), and responded to system malfunctions (fire alarm, PA system). There were variations in the count throughout the shifts, with a final count of 759 on Sunday. Visitation details were recorded, including adult and child visitors.",
+      "timestamp": "2019-08-05T00:00:00",
+      "timestamp_raw": "August 5, 2019",
+      "keywords": [
+        "lieutenant",
+        "corrections",
+        "shu",
+        "count",
+        "alarm",
+        "detention",
+        "psych obs",
+        "prea",
+        "inventory",
+        "nypd",
+        "visitation",
+        "inmate",
+        "medical",
+        "lockdown",
+        "system"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00033428",
+            "similarity": 0.556,
+            "index": 7,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00033459",
+            "similarity": 0.5,
+            "index": 39,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034569",
+            "similarity": 0.556,
+            "index": 53,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034603",
+      "summary": "The document is a daily log from the Metropolitan Correctional Center in New York documenting the activities and counts of August 5, 2019, under the watch of a Lieutenant. Key events included multiple institution counts (ranging from 744 to 762), inmate movements (including administrative detention and court appearances), security checks (fire alarm, metal detectors, restraint equipment), phone monitoring (STG and WITSEC inquiries), and inventory checks. The log also details specific inmate placements, times, and reasons for administrative detention. The shift transitioned between morning and evening watch with corresponding changes in events and counts.",
+      "timestamp": "2019-08-05T00:00:00",
+      "timestamp_raw": "August 5, 2019",
+      "keywords": [
+        "lieutenant",
+        "count",
+        "shu",
+        "prea",
+        "administrative detention",
+        "institution",
+        "nypd",
+        "body alarm",
+        "mental health",
+        "visitation",
+        "inmate",
+        "terrorist",
+        "monitoring"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00033431",
+            "similarity": 0.533,
+            "index": 8,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00034565",
+            "similarity": 0.556,
+            "index": 50,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00033459",
+      "summary": "On August 5, 2019, the Metropolitan Correctional Center’s Lieutenant’s Log documented daily operations, including counts, inmate movements (including administrative detentions and transfers), security checks (metal detectors, restraint equipment, roof checks), and communication monitoring (phone checks, STG/High Alert calls, WITSEC inquiries).  The log recorded equipment malfunctions (fire alarm system), inmate placements in various units, and shifts in inmate counts throughout the day. Specific inmate details, reasons for detentions, and associated registration numbers were consistently recorded.",
+      "timestamp": "2019-08-05T00:00:00",
+      "timestamp_raw": "August 5, 2019",
+      "keywords": [
+        "lieutenant",
+        "count",
+        "shu",
+        "prea",
+        "nypd",
+        "alarm",
+        "detention",
+        "inmate",
+        "institution",
+        "watch",
+        "system",
+        "phone check"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00033707",
+            "similarity": 0.5,
+            "index": 37,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033435",
+            "similarity": 0.529,
+            "index": 9,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033428",
+            "similarity": 0.562,
+            "index": 7,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00034806",
+            "similarity": 0.526,
+            "index": 52,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00033462",
+      "summary": "Key events include: daily counts, inmate movement (including placements on Suicide Watch, SHU, and in Administrative Detention due to issues like weapons possession), responses to alarms and system malfunctions (specifically a fire alarm), phone monitoring (including WITSEC inquiries), and visitation records. The logs detail inmate counts, shifts, and specific inmate actions and movements throughout the day.",
+      "timestamp": "2019-08-06T00:00:00",
+      "timestamp_raw": "August 06, 2019",
+      "keywords": [
+        "lieutenant",
+        "shu",
+        "suicide watch",
+        "nypd phone check",
+        "administrative detention",
+        "institution count",
+        "restraint equipment",
+        "fire alarm",
+        "witsec",
+        "inmate",
+        "body alarm",
+        "census",
+        "visitation",
+        "weapons possession"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034796",
+      "summary": "This document is a daily log from August 6th and 5th, 2019, maintained by a Lieutenant at the Metropolitan Correctional Center in New York. It details operational activities including inmate counts, security checks (metal detectors, roof inspections), inventory, and responses to alarms. Specific events recorded include inmate placements in SHU (Special Housing Unit), administrative detentions due to weapons possession, inmate transfers, and system malfunctions impacting communication. The log also records WITSEC inquiries and monitoring of STG high-alert phone calls. The counts fluctuate throughout the shifts, with a starting count of 759 decreasing to 757 and then 759.",
+      "timestamp": "2019-08-06T00:00:00",
+      "timestamp_raw": "August 06, 2019",
+      "keywords": [
+        "lieutenant",
+        "count",
+        "shu",
+        "suicide watch",
+        "bed space",
+        "prea",
+        "restraint equipment",
+        "metal detector",
+        "nypd",
+        "administrative detention",
+        "inmate",
+        "witness protection",
+        "visitation",
+        "phone check"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034948",
+            "similarity": 0.556,
+            "index": 23,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034734",
+            "similarity": 0.688,
+            "index": 22,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033444",
+            "similarity": 0.529,
+            "index": 21,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00033465",
+            "similarity": 0.714,
+            "index": 42,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00034565",
+            "similarity": 0.611,
+            "index": 50,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034569",
+            "similarity": 0.5,
+            "index": 53,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00033465",
+      "summary": "Throughout the shift, there were several inmate movements, including transfers (TRTY TRANS), administrative detentions, and changes in observation status (suicide watch, psych observation, dry cell).  There were issues with the Institution Public Address System, the Rear Gate Metal Detector, and the Fire Alarm system. Several body alarm tests were conducted, and routine counts were performed at 12:00 AM, 3:00 AM, and 5:00 AM. Visitation records were also noted, with a total of 46 adults and children visiting. There were no STG/High Alert phone calls or WITSEC inquiries reported during the shift.",
+      "timestamp": "2019-08-09T00:00:00",
+      "timestamp_raw": "August 9, 2019",
+      "keywords": [
+        "lieutenant",
+        "suicide watch",
+        "shu",
+        "count",
+        "restraint equipment",
+        "metal detector",
+        "nypd",
+        "prea",
+        "administrative detention",
+        "inmate"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034796",
+            "similarity": 0.714,
+            "index": 41,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00033456",
+            "similarity": 0.5,
+            "index": 34,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034979",
+            "similarity": 0.538,
+            "index": 29,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00035504",
+            "similarity": 0.6,
+            "index": 49,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034565",
+            "similarity": 0.667,
+            "index": 50,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033693",
+            "similarity": 0.5,
+            "index": 51,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034102",
+      "summary": "These included: *   **Counts:** Regular institution counts were conducted at 12:00 AM, 3:00 AM, 5:00 AM, 8:00 AM, and 10:00 AM. *   **Administrative Actions:** Several inmates were moved between units (e.g., PRE REMOVE, TREATY TRANS, Dry Cell), placed in Administrative Detention, or taken off suicide watch. *   **Technical Issues:** The Institution Public Address System and a Fire Panel were malfunctioning. *   **Phone Calls:** STG (High Alert) and potentially WITSEC phone calls were monitored. *   **Visitation:** 46 individuals visited the facility. *   **Shift Changes:** The Lieutenant transitioned between morning, day, and evening watches. The daily log details a standard set of security and operational procedures within the correctional facility.",
+      "timestamp": "2019-08-09T00:00:00",
+      "timestamp_raw": "August 9, 2019",
+      "keywords": [
+        "daily log",
+        "corrections",
+        "suicide watch",
+        "shu",
+        "nypd",
+        "phone check",
+        "restraint equipment",
+        "institution count",
+        "prea",
+        "transfers",
+        "inmate detention",
+        "visitation"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035430",
+      "summary": "On August 10, 2019, at the Metropolitan Correctional Center in New York, Lieutenant assumed duties at 12:00 AM. The daily count was 758 with 73 inmates in SHU.  Notable events included inmate observations (Psych Obs.) for several inmates, one inmate in a dry cell with staff intervention, a medical emergency involving unresponsive inmate Epstein requiring CPR and transport to a local hospital, and monitoring of STG International Terrorist phone calls and WITSEC inquiries. The final count at the end of the shift was 758 with 71 inmates in SHU, 5 in the 10-South SHU, and 4 in the Health/Administrative Observation units.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "metropolitan correctional center",
+        "united states department of justice",
+        "shu",
+        "psych obs",
+        "restraint equipment",
+        "institution count",
+        "emergency",
+        "cpr",
+        "administrative detention",
+        "terrorist phone calls"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031194",
+      "summary": "This document is a daily lieutenant’s log from the Metropolitan Correctional Center in New York, documenting activity for August 9th and 10th, 2019. It details counts, inmate observations (particularly psychiatric observation and suicide watch), medical emergencies (specifically the unresponsive inmate Epstein), transfers to special housing, and various operational activities like alarm testing, roof checks, and trash runs. There were multiple inmate placements in administrative detention, and no high-alert phone calls were monitored during the shifts. The log records the shift changes and the counts at various times throughout the day.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "correctional center",
+        "inmate",
+        "psych obs",
+        "shu",
+        "restraint equipment",
+        "count",
+        "emergency",
+        "transfer",
+        "dry cell",
+        "nypd",
+        "prea",
+        "hospitalization",
+        "observation",
+        "detention"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00036050",
+            "similarity": 0.611,
+            "index": 47,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00035358",
+      "summary": "On August 10, 2019, at the Metropolitan Correctional Center in New York, Lieutenant conducted morning operations, including a count of 758 inmates (73 in SHU), a fire alarm system issue, and restraint equipment inventory.  Throughout the shift, there were several body alarm tests and institutional counts. A medical emergency involving inmate Epstein (#76318-054) occurred at 6:33 AM, resulting in CPR and transport to a local hospital. The Lieutenant relieved duties at 8:00 AM, and the final count was 758 with 71 in SHU. WITSEC inquiries and administrative detentions were also noted.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "metropolitan correctional center",
+        "united states department of justice",
+        "prea",
+        "inmate count",
+        "shu",
+        "medical emergency",
+        "cpr",
+        "restraint equipment",
+        "administrative detention",
+        "terrorism"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036050",
+      "summary": "This document is a daily log from the Metropolitan Correctional Center in New York, detailing the activities of a correctional lieutenant across three shifts (Monday, Friday, and Saturday, August 9-10, 2019). Key events include inmate counts, sensitive observation placements (psych observation, dry cell, suicide watch), medical emergencies (inmate Epstein unresponsive), phone call monitoring (STG International Terrorist calls and WITSEC inquiries), administrative detentions (none recorded), and routine facility checks (metal detectors, roof checks, trash runs). Counts varied slightly between shifts, and several inmates were repeatedly placed on sensitive observation statuses.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "correctional center",
+        "lieutenant",
+        "count",
+        "shu",
+        "psych obs",
+        "dry cell",
+        "emergency",
+        "inmate",
+        "restraint equipment",
+        "nypd",
+        "institutional",
+        "observation",
+        "transfer",
+        "suicide watch",
+        "medical emergency"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00031194",
+            "similarity": 0.611,
+            "index": 45,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00036101",
+      "summary": "This document is a daily log from August 9th and 10th, 2019, kept by a Metropolitan Correctional Center Lieutenant detailing operations, inmate counts, medical emergencies, and security incidents. Key events include: *   **Counts:** Multiple institutional counts were conducted at 12:00 AM, 3:00 AM, and 5:00 AM, consistently recording 757 or 758 inmates. *   **Medical Emergency:** On August 10th, inmate Epstein was found unresponsive and received CPR before being transported to a hospital. *   **Restraints and Transfers:** Several inmates were placed in Administrative Detention and transferred to special housing, notably Fernandez and Mutimura. *   **System Issues:** Fire alarm/sprinkler system malfunctions and a malfunctioning Public Address System occurred. *   **Security Procedures:** Regular checks of metal detectors, restraint equipment, and roof security were performed. *   **Phone Monitoring:** STG International Terrorist phone calls and WITSEC inquiries were monitored. *   **Count Variations:** The final count varied between 756 and 758 throughout the shifts.",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "lieutenant",
+        "shu",
+        "count",
+        "medical emergency",
+        "restraint equipment cage",
+        "nypd phone check",
+        "institutional count",
+        "administrative detention",
+        "emergency services",
+        "dry cell"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035504",
+      "summary": "This document is a daily log of operations at the Metropolitan Correctional Center in New York City, covering the shift of a Lieutenant on August 11, 2019. Key events include: *   **Initial Counts:** The log begins with initial counts of 756 inmates, with varying numbers in Special Housing Units (SHU). *   **Operational Issues:** Frequent reports of system malfunctions, particularly with the Public Address System, lead to delays in announcements and procedures. *   **Inmate Management:** Several inmates are placed on suicide watch, requiring companion assignments and administrative detention. *   **Security Procedures:** Regular counts, metal detector checks, restraint equipment inventories, and roof checks are conducted. *   **Phone Monitoring:** STG and High Alert phone calls are monitored, with no WITSEC inquiries received during the shift. *   **Shift Changes:** The Lieutenant transitions between morning, day, and evening shifts, each with specific duties and observations. The log consistently records counts, inmate movements, and operational issues encountered throughout the shifts.",
+      "timestamp": "2019-08-11T00:00:00",
+      "timestamp_raw": "August 11, 2019",
+      "keywords": [
+        "lieutenant",
+        "shu",
+        "psych obs",
+        "suicide watch",
+        "administrative detention",
+        "count",
+        "restraint equipment",
+        "fire alarm",
+        "nypd",
+        "prea",
+        "inmate",
+        "detention",
+        "monitoring",
+        "system malfunction"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00033465",
+            "similarity": 0.6,
+            "index": 42,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034948",
+            "similarity": 0.556,
+            "index": 23,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034734",
+            "similarity": 0.5,
+            "index": 22,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00034565",
+            "similarity": 0.526,
+            "index": 50,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033693",
+            "similarity": 0.556,
+            "index": 51,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034569",
+            "similarity": 0.588,
+            "index": 53,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034565",
+      "summary": "On August 11, 2019, the Metropolitan Correctional Center in New York documented daily operations, including counts, sensitive inmate observations (psychological, suicide watch), administrative detentions, and phone call monitoring (STG and WITSEC inquiries). Lieutenant shifts were recorded, detailing specific events such as fire system malfunctions, equipment inventories, body alarm testing, NYPD phone checks, and trash runs.  Notable events included the placement of inmates on suicide watch, a new inmate commit from the FBI, and ongoing monitoring of potential threats. The counts varied throughout the shifts, with a starting count of 756 and fluctuations in SHU and observation statuses.",
+      "timestamp": "2019-08-11T00:00:00",
+      "timestamp_raw": "August 11, 2019",
+      "keywords": [
+        "lieutenant",
+        "count",
+        "shu",
+        "psych obs",
+        "prea",
+        "restraint equipment",
+        "metal detector",
+        "institution",
+        "nypd",
+        "body alarm",
+        "administrative detention",
+        "inmate",
+        "suicide watch",
+        "visitation",
+        "counts"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00035504",
+            "similarity": 0.526,
+            "index": 49,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033465",
+            "similarity": 0.667,
+            "index": 42,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034796",
+            "similarity": 0.611,
+            "index": 41,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00033693",
+            "similarity": 0.611,
+            "index": 51,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034569",
+            "similarity": 0.556,
+            "index": 53,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00033693",
+      "summary": "This document is a daily log of events recorded by the Lieutenant of the Metropolitan Correctional Center in New York on Monday, August 12, 2019. It details counts of inmates (ranging from 757 to 765), observations regarding inmate psychological status, equipment checks, phone calls monitored (including STG and WITSEC inquiries), administrative detentions (none recorded), and shift changes. There were intermittent system malfunctions affecting the Public Address System, and several inmate transfers occurred, primarily involving the Local Hospital. The log recorded specific times for various activities, including counts, equipment checks, phone checks, body alarm tests, and trash runs.",
+      "timestamp": "2019-08-12T00:00:00",
+      "timestamp_raw": "August 12, 2019",
+      "keywords": [
+        "lieutenant",
+        "shu",
+        "count",
+        "psych obs",
+        "prea",
+        "institution",
+        "nypd",
+        "metal detector",
+        "restraint equipment",
+        "inmate",
+        "detention",
+        "system malfunction",
+        "visitation",
+        "confidentia"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034565",
+            "similarity": 0.611,
+            "index": 50,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035504",
+            "similarity": 0.556,
+            "index": 49,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033465",
+            "similarity": 0.5,
+            "index": 42,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00034569",
+            "similarity": 0.588,
+            "index": 53,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033675",
+            "similarity": 0.5,
+            "index": 54,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00034806",
+      "summary": "On August 13, 2019, the Metropolitan Correctional Center in New York documented daily operations, including counts, inventory checks, and inmate movements. Lieutenant’s logs recorded events such as shift changes, phone checks, body alarm tests, and temporary inmate placements in administrative detention.  There were instances of WITSEC inquiries and a system malfunction affecting the Public Address System. The daily count consistently remained at 765, fluctuating slightly throughout the shifts due to new commitments, releases, and temporary placements.",
+      "timestamp": "2019-08-13T00:00:00",
+      "timestamp_raw": "August 13, 2019",
+      "keywords": [
+        "lieutenant",
+        "count",
+        "shu",
+        "prea",
+        "institution",
+        "nypd",
+        "body alarm",
+        "restraint equipment",
+        "metal detector",
+        "inmate",
+        "detention",
+        "operation",
+        "system",
+        "phone check",
+        "confident",
+        "witness",
+        "terrorist"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00033459",
+            "similarity": 0.526,
+            "index": 39,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00033431",
+            "similarity": 0.5,
+            "index": 8,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034569",
+      "summary": "Lieutenant’s shifts involved responding to alarms, conducting counts, managing administrative detentions, monitoring phone calls (including WITSEC inquiries), and handling inmate transfers between units and facilities. There were several instances of inmates placed on suicide watch or administrative detention. The daily log recorded issues with communication systems (fire alarm, PA system) and disruptions due to counts and other operational needs.",
+      "timestamp": "2019-08-15T00:00:00",
+      "timestamp_raw": "August 15, 2019",
+      "keywords": [
+        "lieutenant",
+        "suicide watch",
+        "shu",
+        "count",
+        "alarm",
+        "restraint equipment",
+        "inmate",
+        "detention",
+        "nypd",
+        "psych obs",
+        "prea",
+        "visitation",
+        "unit 9 north"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00033693",
+            "similarity": 0.588,
+            "index": 51,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00034565",
+            "similarity": 0.556,
+            "index": 50,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035504",
+            "similarity": 0.588,
+            "index": 49,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00033675",
+            "similarity": 0.769,
+            "index": 54,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00033675",
+      "summary": "This document is a daily log from the Metropolitan Correctional Center in New York City, August 15, 2019, kept by a Lieutenant. It details the activities, inmate movements, sensitive information (including inmates on suicide watch or in administrative detention), and security checks throughout the shifts. Key events include initial counts, phone checks, body alarm tests, inmate transfers (to hospitals, court, release, or SHU), and observations regarding the operational status of various systems. The log records inmate names, identification numbers, reasons for actions, and the units involved. There were multiple instances of inmates placed on suicide watch and/or administrative detention, and several transfers of inmates between different units and facilities.",
+      "timestamp": "2019-08-15T00:00:00",
+      "timestamp_raw": "August 15, 2019",
+      "keywords": [
+        "shu",
+        "suicide watch",
+        "psych obs",
+        "restraint equipment",
+        "count",
+        "nypd",
+        "alarm",
+        "detention",
+        "visitation",
+        "inmate"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00034569",
+            "similarity": 0.769,
+            "index": 53,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00033693",
+            "similarity": 0.5,
+            "index": 51,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00035504",
+            "similarity": 0.5,
+            "index": 49,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    }
+  ]
+}

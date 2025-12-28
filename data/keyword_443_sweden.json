@@ -1,0 +1,1631 @@
+{
+  "keyword": "sweden",
+  "count": 37,
+  "keyword_match_count": 37,
+  "content_match_count": 9,
+  "total_files": 46,
+  "timeline": [
+    {
+      "file_id": "EFTA00027830",
+      "summary": "This document is a questionnaire for United States Attorneys’ Offices and the Executive Office for United States Attorneys regarding foreign travel. It outlines a series of steps and questions to be addressed before travel, including: *   **Travel Details:** Collecting traveler information like name, position, destination, dates, and passport details. *   **Reservations & Approvals:** Requiring confirmed flight itineraries, lodging, and approval from OIA (Office of Inter-Agency Liaison Affairs) and potentially the State Department (eCC clearance). *   **Security & Training:** Assessing traveler security clearance levels, completion of HTSOS and FACT training, and addressing high-threat area travel. *   **Specific Case Questions:** Gathering details about the purpose of travel, case specifics (e.g., witness interviews, depositions), and potential involvement of foreign authorities. *   **Submission Process:** Specifies how to submit the completed questionnaire and attachments for approval. The document covers both general foreign travel and specific questions related to travel for conference/training events or travel to countries other than Canada for judicial assistance matters.",
+      "timestamp": "2016-04-28T00:00:00",
+      "timestamp_raw": "April 28, 2016",
+      "keywords": [
+        "foreign travel",
+        "usao",
+        "oia approval",
+        "passport",
+        "stockholm",
+        "sweden",
+        "questionnaire",
+        "destination",
+        "travel reservations",
+        "flight itinerary",
+        "high-threat area",
+        "htsos training",
+        "fact training",
+        "security clearance",
+        "ecc system",
+        "judicial assistance",
+        "witness interviews"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021052",
+      "summary": "The email chain pertains to travel arrangements for a USANYS traveler to Sweden, scheduled for February 3rd and 4th, 2020. Key details include: *   An ECC request package (ECC\\_package\\_2.3.20.pdf) was attached, requiring the traveler to determine the POC and check for visa requirements. *   EOUSA needs to be notified of visa requests and the traveler's OIA approval email. *   The traveler submitted a corrected itinerary (February 4th - 6th) and a questionnaire for review. *   A travel authorization is being routed to the traveler’s trip. *   Submission of the visa request package to EOUSA/RMP Travel is recommended 5 business days prior to departure.",
+      "timestamp": "2020-01-24T00:00:00",
+      "timestamp_raw": "24 Jan 2020",
+      "keywords": [
+        "travel",
+        "visa",
+        "eousa",
+        "itinerary",
+        "ecc",
+        "passport",
+        "state dept",
+        "oia",
+        "sweden",
+        "travel authorization"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031721",
+      "summary": "An email request is being submitted for travel to Stockholm, Sweden, for an Assistant U.S. Attorney and two other individuals (AUSAs S and S) by the U.S. Attorney’s Office for the Southern District of New York. The request includes an ECC package (ECC_package_2.3.2.20.pdf) and instructions for the traveler to determine the Point of Contact (POC), check for visa requirements via the State Department’s website, and submit the visa request package to EOUSA-RMP Travel at least 15 business days prior to departure to allow sufficient time for State Dept. authorization and foreign government processing. The delay in submission is due to a recently confirmed witness interview date.",
+      "timestamp": "2020-01-24T00:00:00",
+      "timestamp_raw": "24 Jan 2020",
+      "keywords": [
+        "ecc package",
+        "visa",
+        "travel",
+        "eousa",
+        "rmp",
+        "sweden",
+        "ausas",
+        "state dept",
+        "travel authorization"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00017039",
+      "summary": "Travel authorization 10982121 was approved for a trip to Stockholm, Sweden from February 3rd to February 6th, 2020, for the purpose of witness interviews related to the Epstein investigation (R20NYS 13341 - 2018R01618). The approval was granted by an individual redacted from the email, and the authorization is currently pending further approval. Relevant login information for the E2 Solutions system is provided.",
+      "timestamp": "2020-01-24T00:00:00",
+      "timestamp_raw": "24 Jan 2020",
+      "keywords": [
+        "travel authorization",
+        "stockholm",
+        "sweden",
+        "epstein investigation",
+        "witness interviews",
+        "approval",
+        "doj",
+        "e2 solutions",
+        "e2 login",
+        "2020-02-03",
+        "2020-02-06"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00027840",
+            "similarity": 0.692,
+            "index": 6,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00027841",
+            "similarity": 0.571,
+            "index": 7,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00027838",
+            "similarity": 0.571,
+            "index": 8,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00011385",
+      "summary": "An email chain discusses travel plans to Stockholm, Sweden, from February 3-7 for an interview related to the Epstein investigation. The sender, an Assistant U.S. Attorney from the Southern District of New York, requests approval and additional information or materials. The email thread confirms the travel is authorized and sets the stage for separate phone requests.",
+      "timestamp": "2020-01-27T00:00:00",
+      "timestamp_raw": "27 Jan 2020",
+      "keywords": [
+        "efta00011385",
+        "sweden",
+        "epstein",
+        "travel",
+        "approval",
+        "investigation",
+        "stockholm",
+        "u.s. attorney",
+        "redaction",
+        "february"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027837",
+      "summary": "Travel authorization 10982117 was approved for an investigation into Epstein, with a destination of Stockholm, Sweden, from February 3rd to February 7th, 2020. The current status is pending further authorization approval. The email also includes standard disclaimers about confidential information and E2Solutions support resources. Reference ID# T0007 is associated with this communication.",
+      "timestamp": "2020-01-27T00:00:00",
+      "timestamp_raw": "27 Jan 2020",
+      "keywords": [
+        "travel authorization",
+        "stockholm",
+        "sweden",
+        "epstein investigation",
+        "approval",
+        "doj network",
+        "e2 solutions",
+        "reference id",
+        "confidential",
+        "2020-02-03",
+        "2020-02-07"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00027841",
+            "similarity": 0.571,
+            "index": 7,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00021112",
+            "similarity": 0.5,
+            "index": 24,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00027840",
+      "summary": "A travel authorization was approved for a trip to Stockholm, Sweden, from February 3rd to February 8th, 2020, for the purpose of witness interviews related to the Epstein investigation (R20NYS 13342 - 2018R01618). The authorization was issued by [REDACTED] to [REDACTED] and is currently pending further approval. The email includes login information for E2 Single Sign On and E2 Manual Login, along with standard confidentiality disclaimers and a reference ID# T0007.",
+      "timestamp": "2020-01-28T00:00:00",
+      "timestamp_raw": "28 Jan 2020",
+      "keywords": [
+        "travel authorization",
+        "stockholm",
+        "sweden",
+        "approval",
+        "efta00027840",
+        "doj",
+        "epstein investigation",
+        "witness interviews",
+        "2020-02-03",
+        "2020-02-08",
+        "e2 solutions"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00017039",
+            "similarity": 0.692,
+            "index": 3,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00027841",
+            "similarity": 0.692,
+            "index": 7,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00027839",
+            "similarity": 0.571,
+            "index": 9,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00021112",
+            "similarity": 0.615,
+            "index": 24,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00027841",
+      "summary": "Travel authorization 10982117 was approved for an investigation trip to Stockholm, Sweden, from February 3rd to February 8th, 2020, regarding witness interviews (R20NYS 13342 - Epstein investigation). The trip is pending further authorization approval. Relevant links for E2 Single Sign On and manual login are provided. Reference ID# T0007 is associated with this authorization.",
+      "timestamp": "2020-01-28T00:00:00",
+      "timestamp_raw": "28 Jan 2020",
+      "keywords": [
+        "travel authorization",
+        "stockholm",
+        "sweden",
+        "efta00027841",
+        "doj network",
+        "e2 solutions",
+        "epstein investigation",
+        "witness interviews",
+        "approval",
+        "2020-02-03",
+        "2020-02-08"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00027840",
+            "similarity": 0.692,
+            "index": 6,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00027837",
+            "similarity": 0.571,
+            "index": 5,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00017039",
+            "similarity": 0.571,
+            "index": 3,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00021112",
+            "similarity": 0.5,
+            "index": 24,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00027838",
+      "summary": "Travel authorization 10982122 was approved for an investigation trip to Stockholm, Sweden, from February 3rd to February 6th, 2020, related to the Epstein investigation (R20NYS 13340). The trip’s purpose was witness interviews. The authorization is currently pending further approval. Relevant login links and contact information for E2Solutions support are provided. Reference ID# T0007 is also included.",
+      "timestamp": "2020-01-28T00:00:00",
+      "timestamp_raw": "28 Jan 2020",
+      "keywords": [
+        "travel authorization",
+        "stockholm",
+        "sweden",
+        "efta00027838",
+        "doj",
+        "e2 solutions",
+        "epstein",
+        "2020-02-03",
+        "2020-02-06",
+        "approval",
+        "travel services"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00017039",
+            "similarity": 0.571,
+            "index": 3,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00027839",
+            "similarity": 0.692,
+            "index": 9,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00016830",
+            "similarity": 0.571,
+            "index": 10,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00021112",
+            "similarity": 0.615,
+            "index": 24,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00027839",
+      "summary": "Travel authorization 10982122 has been approved for a trip to Stockholm, Sweden from February 3rd to February 6th, 2020, for the purpose of witness interviews related to the Epstein investigation (R20NYS 13340 - 2018R01618). The authorization is currently pending further approval. Relevant login links and contact information are provided, along with a disclaimer regarding confidential email content. Reference ID# T0007 is also included.",
+      "timestamp": "2020-01-28T00:00:00",
+      "timestamp_raw": "28 Jan 2020",
+      "keywords": [
+        "travel authorization",
+        "stockholm",
+        "sweden",
+        "e2 solutions",
+        "doj",
+        "approval",
+        "efta00027839",
+        "epstein investigation",
+        "2020-02-03",
+        "2020-02-06",
+        "travel services"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00027838",
+            "similarity": 0.692,
+            "index": 8,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00027840",
+            "similarity": 0.571,
+            "index": 6,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00017039",
+            "similarity": 0.692,
+            "index": 3,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00021112",
+            "similarity": 0.75,
+            "index": 24,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00016830",
+      "summary": "Travel authorization 10982121 was approved for an investigation (R20NYS 13341 - Epstein investigation) involving witness interviews in Stockholm, Sweden, from February 3rd to 6th, 2020. The authorization is currently pending further approval. Relevant login links and contact information for E2Solutions support are provided. Reference ID# T0007 is associated with this authorization.",
+      "timestamp": "2020-01-28T00:00:00",
+      "timestamp_raw": "28 Jan 2020",
+      "keywords": [
+        "travel authorization",
+        "stockholm",
+        "sweden",
+        "efta00016830",
+        "doj",
+        "e2",
+        "epstein",
+        "2020-02-03",
+        "2020-02-06",
+        "approval",
+        "witness interviews"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00027838",
+            "similarity": 0.571,
+            "index": 8,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00017039",
+            "similarity": 0.571,
+            "index": 3,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00031726",
+            "similarity": 0.571,
+            "index": 23,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00021112",
+            "similarity": 0.5,
+            "index": 24,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00031725",
+      "summary": "Emails discuss a travel approval form for Jeffrey Epstein, involving multiple individuals and entities including the Southern District of New York, EOUSA, and DOJ. A signed memo regarding the Sweden travel memo was delayed due to OIA approval issues but was finally sent out this morning. The sender indicates an intention to secure Office and DOJ approvals by this afternoon, with potential postponement to the following week if necessary.",
+      "timestamp": "2020-01-31T00:00:00",
+      "timestamp_raw": "31 Jan 2020",
+      "keywords": [
+        "epstein",
+        "travel approval",
+        "memo",
+        "doj",
+        "oia",
+        "sweden",
+        "signature",
+        "u.s. attorney",
+        "southern district of new york",
+        "redaction"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00021058",
+            "similarity": 0.538,
+            "index": 12,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00027842",
+            "similarity": 0.818,
+            "index": 14,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00016834",
+            "similarity": 0.538,
+            "index": 15,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00021058",
+      "summary": "On January 31, 2020, an Assistant U.S. Attorney from the Southern District of New York was discussing travel approval for a request related to Jeffrey Epstein with an unidentified recipient. The initial request for a travel approval form was delayed due to OIA approval issues, but the memo was finally submitted this morning. The Assistant U.S. Attorney suggested delaying the approval to next week, offering flexibility for a meeting until 3:00 PM that day or next week.",
+      "timestamp": "2020-01-31T00:00:00",
+      "timestamp_raw": "January 31, 2020",
+      "keywords": [
+        "epstein",
+        "travel approval form",
+        "memo",
+        "doj",
+        "oia",
+        "signature",
+        "u.s. attorney",
+        "sweden",
+        "2020",
+        "january"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00031725",
+            "similarity": 0.538,
+            "index": 11,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00027842",
+            "similarity": 0.538,
+            "index": 14,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00021059",
+            "similarity": 0.538,
+            "index": 16,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00026969",
+            "similarity": 0.538,
+            "index": 20,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00021061",
+      "summary": "Multiple individuals (identified only as [REDACTED]) were coordinating regarding travel approval for someone named Epstein. Discussions centered around scheduling a meeting for the travel approval form, with delays due to OIA approval from Sweden. One individual indicated they had signed and sent the memo and suggested postponing the meeting to the following week. Another offered flexibility in scheduling, stating they were available until 3:00 PM on January 31, 2020, and remained open to meeting next week.",
+      "timestamp": "2020-01-31T00:00:00",
+      "timestamp_raw": "January 31, 2020",
+      "keywords": [
+        "epstein",
+        "travel approval form",
+        "scheduling",
+        "u.s. attorney",
+        "doj",
+        "sweden",
+        "oia approval",
+        "meeting",
+        "january 2020",
+        "redaction"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027842",
+      "summary": "An email chain discusses the travel approval form for Jeffrey Epstein, specifically a Sweden travel memo. A U.S. Attorney from the Southern District of New York is seeking approval and anticipates a delay due to OIA approval processes. Updates are provided regarding the signed memo's status, with one individual stating it was sent “upstairs” and another reporting a significant delay in OIA approval. A meeting is offered for the day but is flexible to the following week.",
+      "timestamp": "2020-01-31T00:00:00",
+      "timestamp_raw": "31 Jan 2020",
+      "keywords": [
+        "epstein",
+        "travel approval",
+        "memo",
+        "doj",
+        "oia",
+        "sweden",
+        "u.s. attorney",
+        "southern district of new york",
+        "signature",
+        "approval"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00021058",
+            "similarity": 0.538,
+            "index": 12,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00031725",
+            "similarity": 0.818,
+            "index": 11,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00021059",
+            "similarity": 0.538,
+            "index": 16,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00017052",
+            "similarity": 0.538,
+            "index": 18,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00016916",
+            "similarity": 0.538,
+            "index": 19,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00016834",
+      "summary": "Emails dated February 3, 2020, and January 31, 2020, detail the approval process for travel related to “Epstein.” A travel approval form was being circulated between multiple individuals, including Assistant U.S. Attorneys from the Southern District of New York. There were delays in obtaining Office and DOJ approvals, particularly regarding an OIA approval for a Sweden travel memo. One individual confirmed submitting the signed form and indicated a possible delay to next week for approval. Another offered flexibility in scheduling a meeting until 3:00 PM on February 3, 2020, and throughout the following week.",
+      "timestamp": "2020-02-03T00:00:00",
+      "timestamp_raw": "February 3, 2020",
+      "keywords": [
+        "epstein",
+        "travel approval",
+        "travel memo",
+        "oia approval",
+        "doj approval",
+        "u.s. attorney",
+        "southern district of new york",
+        "redaction",
+        "signature",
+        "sweden"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00031725",
+            "similarity": 0.538,
+            "index": 11,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021059",
+      "summary": "Emails between February 3, 2020, and January 31, 2020, relate to obtaining travel approval for Jeffrey Epstein. Discussions center around scheduling a meeting and finalizing a travel memo for a Sweden trip. There were delays in obtaining Office and DOJ approvals. A travel approval form was signed and sent upstairs. The sender was available for meetings until 3:00 PM on February 3, 2020, and offered flexibility for the following week.",
+      "timestamp": "2020-02-03T00:00:00",
+      "timestamp_raw": "February 3, 2020",
+      "keywords": [
+        "epstein",
+        "travel approval",
+        "doj",
+        "u.s. attorney",
+        "oia approval",
+        "sweden",
+        "memo",
+        "calendar",
+        "signature",
+        "2020"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00027842",
+            "similarity": 0.538,
+            "index": 14,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00021058",
+            "similarity": 0.538,
+            "index": 12,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00031725",
+            "similarity": 0.538,
+            "index": 11,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00017052",
+            "similarity": 0.538,
+            "index": 18,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00016916",
+            "similarity": 0.538,
+            "index": 19,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00026969",
+            "similarity": 0.667,
+            "index": 20,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00026974",
+      "summary": "Several individuals exchanged messages regarding a travel approval form for someone named Epstein, likely related to a trip to Sweden. Scheduling conflicts and delays arose, with offers to meet at various times (1:00 PM, later in the afternoon, or next week). There were significant redactions in the messages, particularly concerning names and specific details. A travel memo for Sweden had been submitted with OIA and DOJ approvals pending.",
+      "timestamp": "2020-02-04T00:00:00",
+      "timestamp_raw": "04 Feb 2020",
+      "keywords": [
+        "epstein",
+        "travel approval",
+        "meeting",
+        "u.s. attorney",
+        "redacted",
+        "oia approval",
+        "doj approval",
+        "sweden",
+        "january 31",
+        "2020",
+        "february 4",
+        "2020"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00017052",
+      "summary": "Multiple individuals (identified only as \"[REDACTED]\") are coordinating regarding a travel approval form for someone related to Epstein. Discussions center around scheduling a meeting, primarily around 1:00 PM on February 4th, 2020, and potentially rescheduling to the following week due to delays in obtaining necessary approvals (specifically OIA and DOJ). There are multiple instances of individuals being unavailable and offering alternative times. A travel memo related to a trip to Sweden was submitted and signed, but experienced significant delays in approval.",
+      "timestamp": "2020-02-04T00:00:00",
+      "timestamp_raw": "04 Feb 2020",
+      "keywords": [
+        "epstein",
+        "travel approval",
+        "travel",
+        "approval",
+        "u.s. attorney",
+        "doj",
+        "sweden",
+        "memo",
+        "meeting",
+        "2020"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00021059",
+            "similarity": 0.538,
+            "index": 16,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00027842",
+            "similarity": 0.538,
+            "index": 14,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00016916",
+            "similarity": 0.667,
+            "index": 19,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00026969",
+            "similarity": 0.538,
+            "index": 20,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00026971",
+            "similarity": 0.538,
+            "index": 21,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00016916",
+      "summary": "Several individuals (identified only as [REDACTED]) were coordinating regarding a travel approval form for someone named Epstein. Discussions centered around scheduling a meeting for February 4th, with multiple individuals expressing unavailability and proposing alternative times, including the following week. There was a delay in obtaining OIA approval for travel to Sweden, and a memo was delivered regarding this travel. One individual indicated they would be available until 3:00 PM on February 4th.",
+      "timestamp": "2020-02-04T00:00:00",
+      "timestamp_raw": "04 Feb 2020",
+      "keywords": [
+        "epstein",
+        "travel approval",
+        "doj",
+        "u.s. attorney",
+        "sweden",
+        "memo",
+        "approval",
+        "calendar",
+        "meeting",
+        "redacted"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00017052",
+            "similarity": 0.667,
+            "index": 18,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00021059",
+            "similarity": 0.538,
+            "index": 16,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00027842",
+            "similarity": 0.538,
+            "index": 14,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00026969",
+            "similarity": 0.538,
+            "index": 20,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00026969",
+      "summary": "Emails between February 3rd and January 31st, 2020, discuss travel arrangements for “Epstein.” One party (identified only as “[REDACTED]”) offered to meet “[REDACTED]” to finalize travel approval. There were delays related to OIA approval from Sweden and a request for DOJ approval. The final approval was expected sometime between 1:00 PM and 3:00 PM on January 31st, with potential flexibility for the following week.",
+      "timestamp": "2020-02-04T00:00:00",
+      "timestamp_raw": "04 Feb 2020",
+      "keywords": [
+        "epstein",
+        "travel approval",
+        "scheduling",
+        "u.s. attorney",
+        "doj",
+        "oia",
+        "sweden",
+        "memo",
+        "calendar",
+        "2020"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00016916",
+            "similarity": 0.538,
+            "index": 19,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00017052",
+            "similarity": 0.538,
+            "index": 18,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00021059",
+            "similarity": 0.667,
+            "index": 16,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00026971",
+            "similarity": 0.667,
+            "index": 21,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00026971",
+      "summary": "There were delays in obtaining OIA approval from Sweden.  Scheduling conflicts arose, with offers to meet at various times throughout the day and the following week.  A memo regarding travel to Sweden was signed and sent, and efforts were underway to secure final DOJ approval. The conversation involved apologies for delays and offers of flexibility in scheduling.",
+      "timestamp": "2020-02-04T00:00:00",
+      "timestamp_raw": "04 Feb 2020",
+      "keywords": [
+        "epstein",
+        "travel approval",
+        "travel",
+        "approval",
+        "memo",
+        "oia",
+        "doj",
+        "calendar",
+        "scheduling",
+        "2020"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00026969",
+            "similarity": 0.667,
+            "index": 20,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00017052",
+            "similarity": 0.538,
+            "index": 18,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029802",
+      "summary": "Emails between February 3rd and January 31st, 2020, concern travel approval for “Epstein.” Discussions revolve around scheduling a meeting to review a travel memo regarding a trip to Sweden. There are delays in obtaining Office and DOJ approvals. One party repeatedly offers flexible scheduling options (afternoon or next week) and confirms the memo was delivered and signed. Redactions obscure sender and recipient identities.",
+      "timestamp": "2020-02-04T00:00:00",
+      "timestamp_raw": "04 Feb 2020",
+      "keywords": [
+        "epstein",
+        "travel approval",
+        "travel",
+        "scheduling",
+        "meeting",
+        "doj",
+        "u.s. attorney",
+        "new york",
+        "memo",
+        "signature"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00017052",
+            "similarity": 0.538,
+            "index": 18,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031726",
+      "summary": "Travel authorization 10982122 for the purpose of witness interviews related to the Epstein investigation (R20NYS 13340 - 2018R01618) has been approved. The trip to Stockholm, Sweden, from February 3rd to 6th, 2020, was authorized for the traveler, OBD-USA-USANYS-NEW YORK SOUTHERN (UNYS) (JO2104), and the minor customer, and uses the E2 Solutions travel system with associated login links.  The email includes standard confidentiality and notification management information.",
+      "timestamp": "2020-02-06T00:00:00",
+      "timestamp_raw": "06 Feb 2020",
+      "keywords": [
+        "travel authorization",
+        "stockholm",
+        "sweden",
+        "efta00031726",
+        "doj",
+        "e2",
+        "travel",
+        "2020-02-03",
+        "2020-02-06",
+        "r20nys",
+        "witness interviews"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00016830",
+            "similarity": 0.571,
+            "index": 10,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021112",
+      "summary": "Travel authorization 10982122 was approved for a trip to Stockholm, Sweden from February 3rd to February 6th, 2020, for the purpose of witness interviews related to the Epstein investigation (R20NYS 13340 - 2018R01618). The authorization is currently pending approval. Relevant login links and contact information for support are provided. Reference ID# T0007 is associated with this authorization.",
+      "timestamp": "2020-02-06T00:00:00",
+      "timestamp_raw": "06 Feb 2020",
+      "keywords": [
+        "travel authorization",
+        "stockholm",
+        "sweden",
+        "e2 solutions",
+        "doj",
+        "epstein investigation",
+        "2020-02-03",
+        "2020-02-06",
+        "approval",
+        "efta00021112"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00016830",
+            "similarity": 0.5,
+            "index": 10,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00027839",
+            "similarity": 0.75,
+            "index": 9,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00027838",
+            "similarity": 0.615,
+            "index": 8,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027844",
+      "summary": "A final voucher (Voucher ID: 1) for travel expenses related to an Epstein investigation (“R20NYS 13340”) is pending review. The trip, to Stockholm, Sweden, from February 3rd to 6th, 2020, had a current total expense of 2143.49 and an estimated cost of 2954.54. The voucher was prepared by a travel arranger and is accessible through E2 Solutions.  The sender provides login information and cautions about unmonitored replies and the potential for confidential information. Reference ID# V0012 is associated with the document.",
+      "timestamp": "2020-02-10T00:00:00",
+      "timestamp_raw": "10 Feb 2020",
+      "keywords": [
+        "efta00027844",
+        "voucher",
+        "stockholm",
+        "sweden",
+        "travel",
+        "expenses",
+        "approval",
+        "doj",
+        "e2 solutions",
+        "epstein investigation"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00021147",
+            "similarity": 0.538,
+            "index": 28,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00031711",
+            "similarity": 0.538,
+            "index": 38,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00026857",
+      "summary": "This document consists of email exchanges related to travel requests for interviews and investigations, primarily concerning the Epstein case (2018R01618). Multiple requests are made for travel to Pensacola, FL, Stockholm, Sweden, Los Angeles, and West Palm Beach, Florida, involving teams of individuals. These requests include specific flight details (e.g., American Airlines flights with layovers), requests for refundable tickets, and the need for conference room reservations. The emails highlight a persistent pattern of travel requests tied to the Epstein investigation and demonstrate a need for logistical coordination regarding flight bookings, timing, and accommodation.",
+      "timestamp": "2020-02-12T00:00:00",
+      "timestamp_raw": "12 Feb 2020",
+      "keywords": [
+        "travel",
+        "approval",
+        "flights",
+        "pns",
+        "lga",
+        "jfk",
+        "pensacola",
+        "florida",
+        "interview",
+        "booking",
+        "refundable",
+        "stockholm",
+        "sweden",
+        "epstein",
+        "investigation"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032879",
+      "summary": "Multiple requests are being submitted for travel approvals to conduct interviews related to the Epstein investigation (2018R01618). These requests involve travel to locations including Pensacola, Florida; Stockholm, Sweden; Los Angeles, California; West Palm Beach, Florida, and Fort Lauderdale, Florida.  Each request involves a team of individuals and requests approval for a conference room during the interviews. The requests consistently reference prior similar investigations and prioritize minimizing travel time.  Cost-conscious booking options are requested.",
+      "timestamp": "2020-02-12T00:00:00",
+      "timestamp_raw": "12 Feb 2020",
+      "keywords": [
+        "travel approval",
+        "epstein investigation",
+        "pensacola",
+        "florida",
+        "stockholm",
+        "sweden",
+        "los angeles",
+        "west palm beach",
+        "conference room",
+        "2018r01618"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00026843",
+            "similarity": 0.667,
+            "index": 30,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00029663",
+            "similarity": 0.538,
+            "index": 31,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00014411",
+            "similarity": 0.692,
+            "index": 32,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00021147",
+      "summary": "Email communication regarding approved voucher 10982122(1) for a trip to Stockholm, Sweden from February 3rd to February 6th, 2020, for the purpose of witness interviews related to the Epstein investigation (R20NYS 13340 - 2018R01618). The voucher total expenses were 2143.49, and the estimated trip cost was 2954.54. The voucher is currently pending approval. The email includes links to E2 Single Sign On and E2 Manual Login systems.",
+      "timestamp": "2020-02-12T00:00:00",
+      "timestamp_raw": "12 Feb 2020",
+      "keywords": [
+        "efta00021147",
+        "voucher",
+        "stockholm",
+        "sweden",
+        "travel",
+        "approval",
+        "expenses",
+        "2020-02-03",
+        "2018r01618",
+        "e2 solutions"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00027844",
+            "similarity": 0.538,
+            "index": 25,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025084",
+      "summary": "The document is a redacted email chain concerning travel requests for investigations related to the Epstein case (2018R01618). Multiple requests are made for travel to Pensacola, Florida, Los Angeles, Stockholm, Sweden, and potentially other locations, primarily for interviews and conference room bookings.  The requests consistently involve American Airlines flights, specific dates, and a need for refundable tickets.  A recurring theme is seeking approval for travel expenses and conference room reservations due to ongoing investigative work.  The emails detail scheduling difficulties, flight changes, and attempts to secure the most cost-effective and refundable options.",
+      "timestamp": "2020-02-12T00:00:00",
+      "timestamp_raw": "12 Feb 2020",
+      "keywords": [
+        "travel approval",
+        "flights",
+        "pensacola",
+        "jfk",
+        "pns",
+        "lga",
+        "schedules",
+        "refundable",
+        "booking",
+        "interviews",
+        "west palm beach"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026843",
+      "summary": "The document consists of a series of email exchanges requesting travel approvals for investigations, primarily related to the Epstein case (2018R01618). The requests consistently involve travel to Los Angeles, West Palm Beach, and potentially Stockholm, Sweden, for interviews with victims and witnesses.  A recurring request is for approval to secure conference rooms at hotels during these trips. The emails highlight a need for flexibility in scheduling and an interest in minimizing travel time and costs, often specifying domestic or domestic-flagged carrier flights. Redactions obscure specific details within the emails.",
+      "timestamp": "2020-02-13T00:00:00",
+      "timestamp_raw": "13 Feb 2020",
+      "keywords": [
+        "travel approval",
+        "los angeles",
+        "conference room",
+        "epstein investigation",
+        "stockholm",
+        "sweden",
+        "florida",
+        "interviews",
+        "united states v. epstein",
+        "2018r01618"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00032879",
+            "similarity": 0.667,
+            "index": 27,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00029663",
+            "similarity": 0.818,
+            "index": 31,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00014411",
+            "similarity": 0.692,
+            "index": 32,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00029663",
+      "summary": "The document consists of a series of emails requesting travel approvals for investigations related to the Epstein case (2018R01618).  These requests involve travel to locations including Los Angeles, Stockholm, West Palm Beach, and Fort Lauderdale, Florida, primarily for interviews.  The requests consistently involve a team of individuals, seek approval for hotel bookings and conference rooms, and specify expected travel dates with flexible timelines.  The emails repeatedly reference prior similar requests and a desire for domestic-flagged carrier flights to minimize costs.  The content is heavily redacted.",
+      "timestamp": "2020-02-13T00:00:00",
+      "timestamp_raw": "13 Feb 2020",
+      "keywords": [
+        "travel approval",
+        "los angeles",
+        "epstein investigation",
+        "stockholm",
+        "sweden",
+        "conference room",
+        "florida",
+        "interviews",
+        "united states v. epstein",
+        "booking"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00026843",
+            "similarity": 0.818,
+            "index": 30,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00032879",
+            "similarity": 0.538,
+            "index": 27,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00014411",
+            "similarity": 0.571,
+            "index": 32,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00014411",
+      "summary": "The documents detail repeated requests for travel approval for interviews related to the Epstein investigation (2018R01618). These requests involve travel to Los Angeles, Stockholm, West Palm Beach, and potentially Fort Lauderdale, Florida. The team consistently seeks permission for flights, hotel reservations (including conference rooms) for these interviews, and favors domestic-flagged carrier flights. The requests are often linked to prior investigations and involve multiple individuals coordinating travel arrangements and confirming scheduling details.",
+      "timestamp": "2020-02-13T00:00:00",
+      "timestamp_raw": "13 Feb 2020",
+      "keywords": [
+        "travel approval",
+        "flights",
+        "los angeles",
+        "hotel",
+        "conference room",
+        "epstein investigation",
+        "interviews",
+        "stockholm",
+        "sweden",
+        "west palm beach",
+        "florida",
+        "2018r01618"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00029663",
+            "similarity": 0.571,
+            "index": 31,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00026843",
+            "similarity": 0.692,
+            "index": 30,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00032879",
+            "similarity": 0.692,
+            "index": 27,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00014396",
+            "similarity": 0.571,
+            "index": 36,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00021141",
+      "summary": "This document consists of a series of email exchanges regarding travel approvals for investigative work, primarily related to the Epstein investigation (2018R01618). The core requests involve travel to locations including Pensacola, Florida, Los Angeles, Stockholm, Sweden, and West Palm Beach/Fort Lauderdale, Florida, for interviews with witnesses. Flight options, particularly refundable domestic flights versus nonrefundable ones, are frequently discussed. Hotel bookings and conference room reservations are also repeatedly requested, often with specific time constraints. The emails highlight a need to coordinate schedules, consider alternative flight options, and manage expenses related to the investigation.",
+      "timestamp": "2020-02-13T00:00:00",
+      "timestamp_raw": "13 Feb 2020",
+      "keywords": [
+        "travel approval",
+        "flights",
+        "pensacola",
+        "florida",
+        "interview",
+        "conference room",
+        "booking",
+        "refundable",
+        "domestic",
+        "international",
+        "cost"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023274",
+      "summary": "This document contains a series of email exchanges related to travel requests for investigative purposes, primarily linked to the Epstein investigation (2018R01618). The requests involve travel to various locations including Pensacola, Florida, Stockholm, Sweden, Los Angeles, and West Palm Beach, Florida, for witness interviews. Flight options are repeatedly proposed, often with refundable options being highlighted. Hotel accommodations, particularly at the Hilton Garden Inn (specifically the “HGI PENSACOLA AIRPORT MEDICAL” location), and conference room bookings are consistently requested, often with specific dates and durations. There's a recurring need to secure domestic-flagged carrier flights and consideration for costs. The travel arrangements are driven by scheduling conflicts, witness availability, and the need for a brief, focused investigative period.",
+      "timestamp": "2020-02-13T00:00:00",
+      "timestamp_raw": "13 Feb 2020",
+      "keywords": [
+        "travel approval",
+        "pensacola",
+        "florida",
+        "flight",
+        "hotel",
+        "conference room",
+        "interview",
+        "booking",
+        "delta",
+        "charlotte",
+        "nc",
+        "cost",
+        "scheduling",
+        "epstein investigation",
+        "united states v. epstein"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021123",
+      "summary": "Multiple individuals within the U.S. Attorney’s Office (SDNY) are requesting permission and arrangements for travel to Pensacola, Florida, Los Angeles, and Stockholm, Sweden, primarily for conducting interviews with witnesses. Key elements of the requests include: *   **Flight Details:** Specific flight codes (e.g., Delta JFK to PNS) are proposed, with some flights being refundable and others not. *   **Hotel Booking:** Requests are made for hotel accommodations, specifically the Hilton Garden Inn (PNS Airport Medical). *   **Conference Room Requests:** Requests for conference room bookings at the hotel locations for interview sessions are consistently made. *   **Penalty Fare Avoidance:** Guidance is provided on avoiding penalty fares by selecting “unrestricted coach” fare options. *   **Scheduling Flexibility:** The requests emphasize a need for flexible scheduling to accommodate witness availability. *   **Recurring Requests:** The travel requests are part of a pattern of similar requests related to the Epstein investigation.",
+      "timestamp": "2020-02-13T00:00:00",
+      "timestamp_raw": "13 Feb 2020",
+      "keywords": [
+        "flights",
+        "pensacola",
+        "refund",
+        "delta",
+        "booking",
+        "conference room",
+        "travel approval",
+        "penalty fares",
+        "coach",
+        "restrictions"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00014396",
+      "summary": "This document is a series of email exchanges requesting travel approvals for interviews related to the Epstein investigation (2018R01618). The requests involve travel to Pensacola, Florida, Stockholm, Sweden, Los Angeles, and West Palm Beach, Florida, typically for two to three days, to interview witnesses. Consistent requests are made for conference room reservations at various hotels during these trips.  Recurring details include the need for domestic-flagged flights, tax exempt forms, and coordinating with specific individuals (M, and/or). The emails demonstrate a pattern of repeated requests for similar travel arrangements across multiple dates and locations.",
+      "timestamp": "2020-02-17T00:00:00",
+      "timestamp_raw": "17 Feb 2020",
+      "keywords": [
+        "travel approval",
+        "pensacola",
+        "florida",
+        "conference room",
+        "flights",
+        "hotel",
+        "epstein investigation",
+        "interviews",
+        "west palm beach",
+        "scheduling"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00014411",
+            "similarity": 0.571,
+            "index": 32,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023280",
+      "summary": "An email was sent from etravelservices to [REDACTED] regarding Final Voucher 10982122(1), approved for a trip to Stockholm, Sweden from February 3rd to 6th, 2020, for the purpose of the Epstein investigation. The trip total expenses were $2143.49, with an estimated cost of $2954.54. The voucher status is pending approval. The email includes links to E2 Single Sign On and E2 Manual Login, and a disclaimer regarding confidential information. Reference ID# V0010 is also included.",
+      "timestamp": "2020-02-21T00:00:00",
+      "timestamp_raw": "21 Feb 2020",
+      "keywords": [
+        "efta00023280",
+        "voucher",
+        "stockholm",
+        "sweden",
+        "epstein",
+        "investigation",
+        "2020-02-03",
+        "2020-02-06",
+        "approval",
+        "travel"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031711",
+      "summary": "Final voucher 10982122(1) has been approved for travel to Stockholm, Sweden from February 3rd to 6th, 2020. The trip was for the purpose of witness interviews related to the Epstein investigation (R20NYS 13340 - 2018R01618). The traveler is associated with OBD-USA-USANYS-NEW YORK SOUTHERN (UNYS) (JO2104). The total expenses were 2143.49, with an estimated trip cost of 2954.54. The voucher’s current status is awaiting payment.  Links to E2 Single Sign On and E2 Manual Login are provided.",
+      "timestamp": "2020-02-24T00:00:00",
+      "timestamp_raw": "24 Feb 2020",
+      "keywords": [
+        "efta00031711",
+        "voucher",
+        "10982122",
+        "stockholm",
+        "sweden",
+        "travel",
+        "approval",
+        "expenses",
+        "doj",
+        "e2"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00027844",
+            "similarity": 0.538,
+            "index": 25,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024487",
+      "summary": "Several individuals (identified only as “[REDACTED]”) were discussing the completion of a travel approval form for someone named “Epstein.”  The form, specifically a “Sweden travel memo,” was delayed due to OIA approval issues.  Scheduling conflicts arose regarding meeting times, primarily between February 3rd and January 31st, 2020, with offers to meet “tomorrow afternoon” or “next week.”  A signed version of the memo was reportedly delivered and a request was made for Office and DOJ approval, anticipating a short turnaround.",
+      "timestamp": "2020-03-06T00:00:00",
+      "timestamp_raw": "06 Mar 2020",
+      "keywords": [
+        "epstein",
+        "travel approval form",
+        "redacted",
+        "2020",
+        "memo",
+        "oia approval",
+        "doj approval",
+        "scheduling",
+        "meeting"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00029707",
+      "summary": "Several individuals (identified only by \"[REDACTED]\") were coordinating regarding a travel approval form for someone named \"Epstein.\"  There were repeated scheduling conflicts and delays, primarily due to issues with obtaining necessary approvals (specifically OIA and DOJ approval).  The approval process was postponed to the following week, with offers of flexibility from the sender to meet at various times throughout the afternoon or next week. A travel memo for Sweden was also involved in the process.",
+      "timestamp": "2020-03-09T00:00:00",
+      "timestamp_raw": "09 Mar 2020",
+      "keywords": [
+        "epstein",
+        "travel approval form",
+        "redacted",
+        "u.s. attorney",
+        "sweden",
+        "oia approval",
+        "doj approval",
+        "february 2020",
+        "march 2020",
+        "january 2020"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020473",
+      "summary": "*   **Complainant Account:** A woman (identified as redacted) who claims to have been introduced to Epstein by a Canadian friend in 2002-2004. *   **Complainant Activity:** The woman facilitated meetings between Epstein and underage aspiring models, allegedly procuring them for sex trafficking with Epstein and Maxwell’s involvement. She described receiving money from Epstein for her services. *   **Witness Information:** A 40-year-old witness, also redacted, who identifies themselves as the complainant’s friend. *   **Technical Data:** The tip originated from an IP address in Stockholm, Sweden.  The user browser and referrer were also recorded.",
+      "timestamp": "2020-05-08T00:00:00",
+      "timestamp_raw": "May 8, 2020",
+      "keywords": [
+        "epstein",
+        "jeffrey",
+        "ghislaine maxwell",
+        "sex trafficking",
+        "child sex trafficking",
+        "fbi",
+        "ntoc",
+        "nyc",
+        "stockholm",
+        "2002-2004",
+        "tipsibi.gov"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00038676",
+      "summary": "On August 21, 2024, an individual reported to the FBI NTOC that they were a victim of sex trafficking by Jeffrey Epstein between 1989 and 1996 in Manhattan, NY. The individual alleges being trafficked by MI, having their marriage ruined, and being blackmailed by Epstein’s crew. They also claim to have been assaulted and threatened with a stun gun in 1990.  A second individual, Jeffrey Epstein, is identified as a subject of the report.  A third victim, whose details are redacted, is also named. The NTOC forwarded the information for situational awareness and potential action.",
+      "timestamp": "2024-08-21T00:00:00",
+      "timestamp_raw": "August 21, 2024",
+      "keywords": [
+        "fbi",
+        "ntoc",
+        "jeffrey epstein",
+        "sex trafficking",
+        "victim",
+        "sweden",
+        "manhattan",
+        "criminal activity",
+        "threat intake examiner",
+        "email"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028458",
+      "summary": "*   The package included an itinerary and requested information regarding a Point of Contact (POC) and visa requirements. *   The sender was requesting approval for the travel authorization and awaiting OIA (Office of Intelligence Analysis) approval. *   Attachments included a draft ECC package, a questionnaire, and a flight itinerary. *   Communication involved multiple individuals and departments including USAEO-Foreign Travel, USANYS, and OIA. *   The document’s creation date was 2025-12-26.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "eousa",
+        "visa",
+        "passport",
+        "travel authorization",
+        "ecc package",
+        "itinerary",
+        "oia approval",
+        "state dept.",
+        "sweden",
+        "travel state.gov",
+        "travel memo"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00011434",
+      "summary": "Ghislaine contacted doug.band@gsa.gov regarding a potential dinner with “a sluty Spanish girl” and a “cool poised Swedish type” in New York. She also invited him to connect with friends in Europe.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00011434",
+        "redaction",
+        "analysis",
+        "gsa",
+        "spain",
+        "sweden",
+        "europe",
+        "dinner",
+        "ghislaine",
+        "contact information"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00011433",
+      "summary": "The document contains descriptions of several individuals seeking companionship, including a 35-year-old woman described as “sexy and lots of fun,” a 25-year-old “sexy half Asian” with “big breasts,” a 23-year-old woman also described with “huge breasts” and “very wild,” and a 25-year-old woman who works for Elle magazine and wants to leave Sweden. The sender requests advice on arranging meetings with these women.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "efta00011433",
+        "redaction analysis",
+        "sexy",
+        "sweden",
+        "elle mag",
+        "breast size",
+        "hotel room",
+        "wild",
+        "bars",
+        "girls"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    }
+  ]
+}

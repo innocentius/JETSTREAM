@@ -1,0 +1,1707 @@
+{
+  "keyword": "metadata",
+  "count": 40,
+  "keyword_match_count": 39,
+  "content_match_count": 16,
+  "total_files": 55,
+  "timeline": [
+    {
+      "file_id": "EFTA00020978",
+      "summary": "**Key Actions & Issues:** *   **Drive Delivery:** The US Attorney’s Office initially offered to deliver a 64GB drive containing requested files, anticipating a snowstorm delay. *   **Duplicate Production Concerns:** The US Attorney’s Office identified and flagged duplicate productions of ranges, requesting a third production. *   **FTP Link Request:** The defense team requested the documents be sent via FTP, but the requested ranges were too large. *   **Missing Bates Ranges:** The defense team identified missing Bates number ranges (SDNY\\_GM\\_00167911-00169735) and requested their reproduction via FTP. *   **Metadata Issues:** The defense team raised issues with metadata gaps in several DAT files related to PROD011 and PROD015. *   **Unredacted FBI Report Request:** The defense team requested an unredacted version of the FBI report dated December 6, 2006, relating to the cell-site simulator, as referenced in a Daily Beast article. *   **Grand Jury Subpoenas:** The defense team requested copies of the grand jury subpoenas and the date ranges for documents requested within them. *   **Document Provision:** The US Attorney’s Office provided a 4TB hard drive containing the discovery production, addressed the metadata issues, and provided the FBI report as requested. *   **Ongoing Communication:** The parties continue to communicate regarding outstanding issues, particularly concerning Bates ranges and metadata file corrections. **Redactions:** The text contains redactions across multiple pages, indicating sensitive information.",
+      "timestamp": "2006-12-06T00:00:00",
+      "timestamp_raw": "December 6, 2006",
+      "keywords": [
+        "discovery",
+        "ftp",
+        "redaction",
+        "bates",
+        "emails",
+        "attorney",
+        "usanys",
+        "cohengresser",
+        "maxwell",
+        "rodgers",
+        "metadata",
+        "cd",
+        "drive",
+        "subpoenas"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00006770",
+      "summary": "Okay, this is a massive dataset of call detail records (CDRs) from MetroPCS (likely around 2006). Here's a breakdown of what we're looking at and how we can analyze it, along with some key considerations: **What We Have:** * **Extensive CDR Data:** This file contains numerous call records, each with timestamps (date and time), the originating and destination phone numbers, and durations of calls. * **Data Fields:** The records typically contain these fields (although the exact format might vary slightly): * **Timestamp:** Date and time of the call. * **Originating Phone Number (Caller ID):** The number that initiated the call. * **Destination Phone Number (Called ID):** The number that received the call. * **Duration:** The length of the call in seconds. * **Network Information:** (Potentially) Details about the network connection. * **Other:** Call types (e.g., outgoing, incoming), possibly other metadata. * **Large Volume:**  It's a very large file.  Analyzing it directly within a standard spreadsheet or even a large database might be slow and potentially overwhelming. **Potential Analyses & Questions We Could Answer:** 1.  **Call Volume & Patterns:** *   **Total Calls:**  How many calls were made/received in the dataset? *   **Peak Calling Times:** What times of day or days of the week had the highest call volume? *   **Call Duration Distribution:**  What were the typical call durations?  What was the range of call lengths? *   **Call Frequency:** How many calls were made between any two specific phone numbers? 2.  **Traffic Analysis (Between Specific Numbers):** *   **Most Frequent Callers/Recipients:** Which phone numbers were involved in the most calls (both as callers and recipients)? *   **Longest-Running Conversations:** Which pairs of numbers had the longest call durations? *   **Call Sequences:**  Could we identify patterns of calling (e.g., a number calling a set of other numbers in a specific sequence)? 3.  **Network Usage:** *   **Network Congestion:**  Could we identify times when the network was particularly busy (high call volume)? *   **Origin/Destination Zones:**  (If location data were included, which isn't explicitly shown here, but might be in other data sources linked to these calls)  Where were these calls originating from and going to geographically? 4.  **Fraud Detection (Potential):** *   **Unusual Call Patterns:**  Any calls that deviated significantly from typical calling patterns could be flagged for investigation. **Tools & Techniques for Analysis:** *   **Database Systems (SQL):**  The most efficient approach would be to load the data into a database (e.g., MySQL, PostgreSQL, SQLite) and then use SQL queries to extract and analyze the data.  This is essential for handling the large volume of records and performing complex aggregations. *   **Data Analysis Libraries (Python):** Python libraries like Pandas, NumPy, and Matplotlib can be used to process and visualize the data. Pandas is particularly good for working with tabular data. *   **Data Visualization Tools:** Tools like Tableau or Power BI could be used to create interactive dashboards and visualizations. *   **Big Data Technologies (If Necessary):** If the data volume is *extremely* large and doesn’t fit into a standard database, technologies like Apache Spark or Hadoop might be needed. However, this is unlikely for this dataset. **Challenges & Considerations:** *   **Data Quality:**  Assess the quality of the data. Are there any missing fields, inconsistencies, or errors in the data? This will impact the accuracy of your analysis. *   **Privacy:**  Be mindful of privacy concerns when working with call data.  Anonymize or de-identify the data if necessary to protect individuals' identities. *   **Data Structure:** Understand the precise format of the data.  Identify the names and types of each field. *   **Computational Resources:**  Processing a large dataset like this requires sufficient computing power and memory. **To help me give you more targeted guidance, could you tell me:** *   **What are you specifically hoping to learn from this data?** (e.g., \"I want to identify peak calling times,\" or \"I want to find the most frequent callers\"). *   **What tools are you comfortable using?** (e.g., \"I'm familiar with Excel,\" or \"I'm proficient in Python\"). *   **Do you have any specific questions you want to address?**",
+      "timestamp": "2006-12-22T00:00:00",
+      "timestamp_raw": "12-22-2006",
+      "keywords": [
+        "okay",
+        "here’s a breakdown of the information extracted from the provided text",
+        "focusing on key details about the metropcs call data.",
+        "**i. overall data structure**",
+        "*   **file name:** `16980.tre` (likely a table or data file).",
+        "*   **data range:**  the data covers calls from june 1",
+        "2006",
+        "to august 1",
+        "2006.",
+        "*   **record structure:**  each row (record) in the data represents a single phone call. it contains several fields",
+        "including:",
+        "*   `dialed number`: the destination phone number.",
+        "*   `destination number`: the metropcs phone number the call was initiated from.",
+        "*   `direction (dir)`: indicates whether the call was inbound or outbound (likely ‘s’ for outbound and ‘i’ for inbound).",
+        "*   `mm sec`: milliseconds.",
+        "*   `caller id`: the metropcs phone number that initiated the call.",
+        "**ii. specific call details (selected examples)**",
+        "*   **example 1:** (starting june 6",
+        "2006)",
+        "*   `dialed number`:  (not fully listed)",
+        "*   `destination number`:  (not fully listed)",
+        "*   **example 2:** (june 14",
+        "2006)",
+        "*   `dialed number`:  (not fully listed)",
+        "*   `destination number`:  (not fully listed)",
+        "*   **example 3:** (june 15",
+        "2006)",
+        "*   `dialed number`:  (not fully listed)",
+        "*   `destination number`:  (not fully listed)",
+        "**iii.  observations and potential analysis**",
+        "*   **call direction:** the data appears to show both inbound and outbound calls.",
+        "*   **time-based analysis:**  the data provides a timeline of calls",
+        "allowing for analysis of call patterns over time.",
+        "*   **duration:** the “mm sec” field could be used to calculate the duration of each call.",
+        "*   **number of calls:** the complete dataset would reveal the total number of calls made.",
+        "*   **frequency of calls:** further analysis would be possible with information on the frequency of calls between specific numbers or during certain times.",
+        "**iv. considerations & missing information**",
+        "*   **incomplete data:** this is an excerpt",
+        "so a complete dataset is needed for thorough analysis.",
+        "*   **column definitions:**  the exact meanings of all columns (especially `mm sec`) are not fully clear from this snippet.",
+        "*   **data quality:**  the data might contain errors or missing values.",
+        "to help you further",
+        "could you please tell me:",
+        "*   what is the *purpose* of this data?  (e.g.",
+        "are you trying to identify patterns",
+        "find specific calls",
+        "analyze call volume",
+        "or something else?)",
+        "*   are there other columns in the data file beyond those listed?",
+        "*   do you have a sample of the *complete* dataset (e.g.",
+        "a few more rows)?"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00013477",
+      "summary": "A phone call, classified as X-PERSONAL and designated priority 5, occurred on December 17, 2009, from 18:00:00 to 19:30:00 GMT. The event was a CEOS Meeting regarding the Epstein investigation. The meeting was created on March 27, 2015, and modified on July 22, 2015.  EFTA00013477 was an attendee.",
+      "timestamp": "2009-12-17T00:00:00",
+      "timestamp_raw": "December 17, 2009",
+      "keywords": [
+        "efta00013477",
+        "ceos meeting",
+        "epstein investigation",
+        "redaction analysis",
+        "2009-12-17",
+        "x-personal",
+        "event",
+        "investigation",
+        "metadata",
+        "call-in"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00014184",
+            "similarity": 0.667,
+            "index": 3,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00014184",
+      "summary": "A phone meeting, designated as X-PERSONAL, occurred on December 17, 2009, from 18:00:00 to 19:30:00 GMT. The meeting was related to the CEOS Meeting regarding the Epstein investigation. It was created on December 14, 2009, and last modified on October 2, 2022. EFTA00014184 was an attendee.",
+      "timestamp": "2009-12-17T00:00:00",
+      "timestamp_raw": "December 17, 2009",
+      "keywords": [
+        "epstein investigation",
+        "ceos meeting",
+        "2009-12-17",
+        "personal",
+        "x-personal",
+        "event",
+        "call-in",
+        "investigation",
+        "data",
+        "metadata"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00013477",
+            "similarity": 0.667,
+            "index": 2,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028335",
+      "summary": "On July 12, 2019, the U.S. District Court for the Southern District of New York issued a memo endorsement regarding the case of *USA v. Epstein* (Case Number 1:19-cr-00490-RMB). The endorsement, signed by Judge Richard M. Berman, denied a government request for an extension of time to review a response to a motion. The email originates from the NYSD ECF Pool and provides information about the electronic filing process and the document's metadata, including a digital stamp.",
+      "timestamp": "2019-07-12T00:00:00",
+      "timestamp_raw": "July 12, 2019",
+      "keywords": [
+        "epstein",
+        "usa v. epstein",
+        "case 1:19-cr-00490-rmb",
+        "memo endorsement",
+        "redaction",
+        "southern district of new york",
+        "judge richard m. berman",
+        "ecf",
+        "cm/ecf"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00024009",
+      "summary": "Mark Taylor submitted a Freedom of Information request to the House of Commons regarding emails leaked to the Daily Mail alleging blackmail by Jeffrey Epstein involving Jes Staley’s appointment as CEO of Barclays. The request seeks a copy of these emails, their recipient lists, and any associated metadata. The request references a 2015 Times article and 2019 Bloomberg report concerning Staley’s meetings with Epstein and allegations of blackmail targeting Parliament. John Mann and Mark Gamier reportedly advised questioning Staley due to these threats.",
+      "timestamp": "2019-08-07T00:00:00",
+      "timestamp_raw": "07 Aug 2019",
+      "keywords": [
+        "jeffrey epstein",
+        "blackmail",
+        "daily mail",
+        "parliament",
+        "john mann",
+        "barclays",
+        "jes staley",
+        "emails",
+        "freedom of information",
+        "treasury select committee"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035064",
+      "summary": "An email was sent from [REDACTED] to [REDACTED] on August 10, 2019, regarding “MCC Epstein” (EFTA00035064). The email was forwarded by [REDACTED] via a Samsung Galaxy smartphone, and included correspondence from [REDACTED].",
+      "timestamp": "2019-08-10T00:00:00",
+      "timestamp_raw": "August 10, 2019",
+      "keywords": [
+        "efta00035064",
+        "mcc epstein",
+        "redaction",
+        "analysis",
+        "fwd",
+        "samsung",
+        "vcrizon",
+        "2019",
+        "2025",
+        "metadata"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00035483",
+      "summary": "An email was forwarded from “[REDACTED]” to “[REDACTED]” on August 14, 2019, at 17:41:43 GMT+0000, regarding “Count Slips” (EFTA00035483). The email originated from a Samsung Galaxy smartphone.",
+      "timestamp": "2019-08-14T00:00:00",
+      "timestamp_raw": "August 14, 2019",
+      "keywords": [
+        "efta00035483",
+        "redaction analysis",
+        "slips",
+        "count",
+        "samsung",
+        "vcrizon",
+        "2019",
+        "2025",
+        "email",
+        "metadata"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021023",
+      "summary": "The document details a significant challenge in reviewing over 1.3 million electronic documents seized during an investigation related to Ghislaine Maxwell. The data was received in a disorganized manner, lacking proper labeling and connection to the original source devices. Key issues include: *   **Data Organization:** The documents were dumped into a massive, unlabeled pile, with some large files excluded due to size limitations. *   **Lack of Metadata:** The data lacks essential metadata, such as email attachments and file linking, making review extremely difficult. *   **Identification Problems:** It's unclear which devices the documents originated from, whether the files are complete or partial, and what devices remain to be processed. There are discrepancies in control numbers and file naming conventions. *   **Technical Difficulties:** The team is struggling with issues related to the data format, requiring a revised data format and potential replication of previous data sets. *   **Coordination Efforts:** Multiple attempts are made to schedule a meeting to discuss the issues and establish a system for tracking and reviewing the documents, emphasizing the need for a clear device inventory and a tracking spreadsheet.",
+      "timestamp": "2020-03-11T00:00:00",
+      "timestamp_raw": "11 Mar 2020",
+      "keywords": [
+        "epstein",
+        "search warrant",
+        "documents",
+        "redaction",
+        "data",
+        "files",
+        "database",
+        "review",
+        "devices",
+        "meeting"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00028339",
+            "similarity": 0.538,
+            "index": 12,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00032141",
+      "summary": "The document details a significant challenge in reviewing a massive collection of electronic data seized in connection with the Epstein investigation. The FBI’s forensic team in New York received over 1.4 million documents from multiple sources, including hard drives and CDs, but the data is severely disorganized and lacks crucial metadata. Specifically, the files are not linked to their originating devices, there’s no indication of whether they represent full or partial data sets, and control numbers are inconsistent. The team repeatedly requested a standardized system—a spreadsheet identifying devices, review status, and data transfers—to facilitate the review process, but faced delays due to network issues and a lack of coordination. Multiple emails exchanged between FBI personnel and U.S. Attorneys highlight the difficulties in tracking the data, the need for a clear accounting of received materials, and the urgency of establishing a systematic review approach before significant time is lost.",
+      "timestamp": "2020-03-31T00:00:00",
+      "timestamp_raw": "31 Mar 2020",
+      "keywords": [
+        "epstein",
+        "warrant documents",
+        "data",
+        "review",
+        "taint",
+        "relativity",
+        "devices",
+        "files",
+        "organization",
+        "encryption",
+        "screen"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030309",
+      "summary": "The US Attorney’s office has provided several data dumps (over 1.4 million documents), but the data is severely disorganized and lacks crucial metadata. Specifically, the files are not linked to their originating devices, making it impossible to track the full scope of the collection or efficiently review the materials. Attempts to establish a system for tracking the data have been met with delays and unanswered emails. There are concerns about duplicated files and an inability to determine which items are complete versus partial. Multiple parties involved (including CART, Relativity users, and the US Attorney’s office) express frustration with the lack of organization and request a coordinated meeting to address the issues and establish a clear process for reviewing the data. The team is struggling to determine what data has been previously provided, whether files are full or partial, and what devices are associated with the data.",
+      "timestamp": "2020-04-04T00:00:00",
+      "timestamp_raw": "04 Apr 2020",
+      "keywords": [
+        "epstein",
+        "search warrant",
+        "documents",
+        "relativity",
+        "taint screen",
+        "ausas",
+        "agents",
+        "devices",
+        "files",
+        "review",
+        "data",
+        "organization",
+        "organization",
+        "network",
+        "computers",
+        "hard drives",
+        "mac",
+        "files",
+        "distribution",
+        "timelines"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00010440",
+      "summary": "The provided text is a series of email exchanges concerning the review of documents seized in connection with the Epstein investigation. Key issues include difficulties with the data format received, specifically problems with linking emails to attachments, a lack of metadata associating files with seized devices, and inconsistencies between search warrant returns and the delivered data. The recipients repeatedly request a spreadsheet detailing the devices, the status of data dumps, and the transfer of materials. There are concerns about the volume of data (over a million documents) and the need for a standardized system to track the progress of the review. Multiple attempts are made to schedule a meeting to address these challenges and establish a clearer workflow.",
+      "timestamp": "2020-04-07T00:00:00",
+      "timestamp_raw": "07 Apr 2020",
+      "keywords": [
+        "epstein",
+        "search warrant",
+        "documents",
+        "relativity",
+        "data",
+        "devices",
+        "spreadsheet",
+        "conference call",
+        "review",
+        "files",
+        "mac",
+        "windows"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00028339",
+            "similarity": 0.571,
+            "index": 12,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00028339",
+      "summary": "The provided text is a series of email exchanges between US Attorney’s Office personnel and external parties regarding the review of documents seized in connection with the investigation of Jeffrey Epstein. The core issues revolve around difficulties in processing and understanding the vast amount of data received, specifically concerning discrepancies between search warrant returns and the actual files, missing metadata, and issues with file loading and database integration. Several key requests are made: a consolidated inventory of devices and data, a system for tracking the review and transfer process, and clarification on the origin and contents of the data files. There are repeated frustrations regarding the lack of clear identification and a need for a standardized spreadsheet to manage the complex data flow, leading to concerns about the effectiveness of the review process.",
+      "timestamp": "2020-04-07T00:00:00",
+      "timestamp_raw": "07 Apr 2020",
+      "keywords": [
+        "epstein",
+        "search warrant",
+        "documents",
+        "fbi",
+        "data",
+        "review",
+        "devices",
+        "spreadsheet",
+        "conference call",
+        "redaction"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00010440",
+            "similarity": 0.571,
+            "index": 11,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00021023",
+            "similarity": 0.538,
+            "index": 8,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030665",
+      "summary": "Initial communication highlights a significant challenge: a lack of clear tracking and organization of the massive volume of data received (over 1 million documents). Multiple individuals involved – FBI agents, U.S. Attorney’s Office staff, and contractors – repeatedly request a centralized spreadsheet detailing the devices, data transfer status, and review progress. Concerns are raised about duplicate or outdated materials, the difficulty in linking files to specific devices, and the inability of the current review process (Relativity) to fully handle the data's complexity. A key issue is the need for a standardized system to identify and manage the numerous hard drives and storage devices containing evidence, allowing for accurate tracking and efficient analysis. The team is frustrated by the lack of a clear timeline and the difficulty in correlating the data to the original search warrants.",
+      "timestamp": "2020-06-01T00:00:00",
+      "timestamp_raw": "01 Jun 2020",
+      "keywords": [
+        "epstein",
+        "search warrant",
+        "documents",
+        "fbi",
+        "financials",
+        "electronics",
+        "thumb drives",
+        "sd cards",
+        "serial number",
+        "dell poweredge",
+        "sony vaio",
+        "storage devices",
+        "location",
+        "usvi spreadsheet",
+        "relativity",
+        "taint review",
+        "data transfer",
+        "devices",
+        "materials",
+        "new york",
+        "virgin islands",
+        "metadata",
+        "inventory"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00016180",
+      "summary": "Initially, FBI agent [REDACTED] was providing data extracts (primarily load files) from devices seized in New York and the US Virgin Islands to the U.S. Attorney’s Office and their contractor, [REDACTED]. However, the team quickly encountered significant challenges in understanding and utilizing the data due to inconsistencies in naming conventions, the sheer volume of information (over 1 million documents), and a lack of clear tracking of what had already been processed. Key issues include: *   **Data Format and Lack of Metadata:** The data was often provided in a format difficult to use directly in e-discovery software (Relativity) due to a lack of clear device identification and categorization. *   **Duplicate Data:** There were concerns about receiving duplicate data, leading to confusion about what had already been reviewed. *   **Coordination Challenges:** Communication and coordination between the FBI, the U.S. Attorney’s Office, and their contractor were strained, leading to delays and a lack of clear direction. *   **Requests for a Tracking System:** The U.S. Attorney’s Office repeatedly requested a spreadsheet or other system to track the data and its status, highlighting the need for better organization. *   **Technical Issues:** The FBI agent mentioned network issues that slowed down the data transfers. Multiple attempts were made to establish a clear workflow, including proposed meetings to discuss the data and a request for a standardized spreadsheet to document the evidence.  Ultimately, the situation highlighted a significant breakdown in communication and a critical need for a more structured approach to managing the massive amount of data involved in the investigation.",
+      "timestamp": "2020-07-06T00:00:00",
+      "timestamp_raw": "06 Jul 2020",
+      "keywords": [
+        "epstein",
+        "search warrant",
+        "documents",
+        "fbi",
+        "data",
+        "devices",
+        "servers",
+        "email",
+        "analysis",
+        "redaction",
+        "relativity",
+        "evidence",
+        "usvi",
+        "ny",
+        "mac",
+        "extraction",
+        "files",
+        "transfer",
+        "timeline"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026819",
+      "summary": "Department of Justice, Southern District of New York, to letters from defense counsel regarding the Ghislaine Maxwell case (20 Cr. 330 (MN)). The DOJ asserts that it has fulfilled its discovery obligations, including producing electronic materials and initial non-electronic discovery by the deadlines set by the court.  The DOJ acknowledges delays in providing discovery to Maxwell due to defense requests for reformatting and rebinding, but claims these were addressed promptly. They highlight efforts to ensure Maxwell could access discovery at the Metropolitan Detention Center (MDC), including creating new files, coordinating with MDC IT staff, and temporarily allowing defense counsel to bring laptops.  Specifically, the DOJ is facilitating the review of approximately 43,500 images seized from Jeffrey Epstein’s residences, and is working to address concerns about her conditions of confinement, such as access to meals, medical care, and mail, while acknowledging limitations due to the pandemic and BOP regulations. The Government confirmed she will receive up to 13 hours of discovery access per day, exceeding that of other MDC inmates.",
+      "timestamp": "2020-10-08T00:00:00",
+      "timestamp_raw": "October 8, 2020",
+      "keywords": [
+        "discovery",
+        "ghislaine maxwell",
+        "united states v.",
+        "rule 16",
+        "electronic materials",
+        "metadata",
+        "metropolitan detention center",
+        "mdc",
+        "conditions of confinement",
+        "fbi",
+        "highly confidential materials",
+        "production",
+        "reformatting",
+        "legal counsel"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030926",
+      "summary": "Attorney’s office (specifically the Southern District of New York) and defense counsel regarding the discovery process in a case, likely involving Ghislaine Maxwell.  The exchanges relate to the production of documents, including flash drives containing Bates ranges, FBI reports, and metadata files.  Key issues addressed include: *   **Drive Delivery:**  Discussions revolve around the delayed delivery of a 4TB hard drive containing the full discovery production. *   **CD Issues:**  Problems with a CD produced on November 18, 2020, due to a lack of a CD drive on the recipient’s computer. *   **Bates Range Corrections:**  Requests for clarification and correction of Bates number ranges, particularly a lack of correlation between Bates numbers and subject devices. *   **Missing Documents:**  Queries regarding missing documents, specifically subscriber information and flight logs. *   **Metadata Issues:** Problems with metadata load files, including gaps and inconsistencies. *   **Unsealed Documents:** Concerns about the Daily Beast article referencing an unsealed FBI affidavit related to the cell-site simulator, with requests for confirmation of its release. *   **Production Index:** A request for a detailed index of documents produced in the November 9 and November 18 productions. *   **Grand Jury Subpoenas:** Requests for copies of grand jury subpoenas and the date ranges covered by them. The exchanges demonstrate a significant level of contention and detailed scrutiny over the discovery process, highlighting issues with file production, metadata management, and the government's handling of relevant materials.",
+      "timestamp": "2020-11-18T00:00:00",
+      "timestamp_raw": "November 18, 2020",
+      "keywords": [
+        "discovery requests",
+        "bates ranges",
+        "redaction",
+        "ftp",
+        "production",
+        "drive",
+        "metadata",
+        "cd",
+        "fbi report",
+        "discovery issues",
+        "grand jury subpoenas",
+        "efta00030926",
+        "mdc"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00023026",
+      "summary": "This document is a correspondence chain between Assistant U.S. Attorney Christian Everdell and defense counsel regarding discovery requests in a case involving Ghislaine Maxwell. Key points include: *   **Delivery of Discovery Materials:** The government has provided Ms. Maxwell with copies of discovery materials, including a 4TB drive containing all previously produced materials and a CD containing documents from November 18, 2020. *   **Metadata and Device Issues:** There are concerns regarding Bates numbers, device identification (SDNY_PROD015/016), and gaps in metadata load files. The government proposes renumbering documents and providing updated DAT files. *   **Missing Documents:** The defense requests the production of missing documents, including AT&T subscriber information and flight logs. *   **Redaction Requests:** The government denies requests for a log of redactions and states they did not apply any redactions to the discovered materials. *   **Subpoena Requests:** The defense requests copies of grand jury subpoenas and the date ranges covered by them. *   **Unsealed Filings:** The government clarifies the status of a search warrant affidavit referenced in a Daily Beast article, stating it was unsealed according to court order and that the District of New Hampshire took no affirmative steps to release it.",
+      "timestamp": "2020-11-18T00:00:00",
+      "timestamp_raw": "November 18, 2020",
+      "keywords": [
+        "discovery",
+        "maxwell",
+        "epstein",
+        "fbi",
+        "cd",
+        "redactions",
+        "metadata",
+        "subpoenas",
+        "documents",
+        "grant jury",
+        "bates numbers"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00018597",
+      "summary": "An email exchange regarding the Epstein investigation is documented. The email originated from [REDACTED] to [REDACTED], with “B rne, Paul” and “PD” listed as CCs and “USAHUB-USAJournal111” in the BCC. The email subject is \"RE: Epstein investigation\" and includes an attached message named \"_Epstein_investigation.msg\". The message-id is <SN1P110MB017599AAF5C69FE0846B1130EC190@SNIP110MB0175.NAMP110.PROD.OUTLOOK.COM.",
+      "timestamp": "2020-11-26T00:00:00",
+      "timestamp_raw": "26 Oct 2020",
+      "keywords": [
+        "epstein investigation",
+        "redaction analysis",
+        "efta00018597",
+        "fbi",
+        "usanys",
+        "paul brne",
+        "investigation",
+        "message",
+        "outlook",
+        "metadata"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00021707",
+      "summary": "Maxwell. *   They are requesting a 4TB hard drive containing the complete discovery production, which is not yet ready. *   They are questioning the correlation of Bates numbers to subject devices in the discovery cover letters. *   They are requesting an unredacted FBI report and a log of redactions. *   They identify missing documents, including AT&T subscriber information and flight logs, and request their production. *   They point out metadata inconsistencies in the PROD011 and PROD015 production files. *   They request a copy of the government’s detailed index of documents. *   They are requesting copies of grand jury subpoenas and their associated date ranges. *   They inquire about the unsealing of a cell-site simulator affidavit referenced in a news article and requests confirmation of any related FOIA releases.",
+      "timestamp": "2021-01-07T00:00:00",
+      "timestamp_raw": "07 Jan 2021",
+      "keywords": [
+        "discovery",
+        "maxwell",
+        "fbi report",
+        "redaction",
+        "bates numbers",
+        "cd drive",
+        "hard drive",
+        "sdny_prod015",
+        "sdny_gm_00001015",
+        "subpoenas",
+        "metadata"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00021736",
+            "similarity": 0.643,
+            "index": 20,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00021736",
+      "summary": "The email chain details discovery requests from Cohen & Gresser LLP to the US government regarding the case involving Ghislaine Maxwell. Key requests include: *   Immediate delivery of a 4TB hard drive containing the full discovery production. *   Providing the CD data to Maxwell via a thumb drive or external CD drive. *   Correlating Bates numbers to SDNY_PROD015 and SDNY_PROD016 documents. *   Producing an unredacted FBI report and a log of redactions. *   Producing missing documents, specifically AT&T subscriber information and flight logs. *   Addressing metadata gaps in PROD011 and PROD015 DAT files. *   Providing detailed indices of document productions. *   Providing copies of grand jury subpoenas and requested date ranges. *   Confirmation regarding the unsealing of a cell-site simulator affidavit referenced in a Daily Beast article.",
+      "timestamp": "2021-01-16T00:00:00",
+      "timestamp_raw": "16 Jan 2021",
+      "keywords": [
+        "discovery",
+        "fbi report",
+        "redaction",
+        "bates numbers",
+        "cd",
+        "hard drive",
+        "maxwell",
+        "sdny_prod015",
+        "sdny_gm",
+        "subpoenas",
+        "metadata",
+        "foia"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00021707",
+            "similarity": 0.643,
+            "index": 19,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030861",
+      "summary": "The US Attorney’s Office for the Southern District of New York (USANYS) is responding to inquiries from defense counsel regarding the production of discovery materials. **Key Points:** *   **Production Status:** The USANYS is in the process of finalizing the production of discovery materials, primarily focusing on re-stamping documents (SDNY_GM_00327069.001 - SDNY_GM_00327069.794) and loading them onto a drive. *   **Missing Documents & Issues:** The defense is raising concerns about missing documents (AT&T subscriber information, flight logs), metadata gaps in the DAT files (PROD011 and PROD015), and overlaps in production ranges. They request renumbering, new DAT files, and a clarification of Bates number correlations. *   **Requests for Unredacted Materials:** The defense is specifically requesting the unredacted FBI report (SDNY_GM_02050812-14) and a list of redacted documents, along with copies of grand jury subpoenas and the date range of documents requested. *   **Confirmation of Release:** They seek confirmation about the unsealing of the cell-site simulator affidavit referenced in a Daily Beast article and any subsequent FOIA releases. *   **Ongoing Communication:** The exchange highlights a continuous flow of communication between the USANYS and defense counsel as they work to address the discovery requests and ensure compliance with legal procedures. **Note:** The text is heavily redacted, obscuring specific details and potentially sensitive information.",
+      "timestamp": "2021-01-27T00:00:00",
+      "timestamp_raw": "27 Jan 2021",
+      "keywords": [
+        "discovery requests",
+        "redaction",
+        "production",
+        "ftp",
+        "files",
+        "emails",
+        "metadata",
+        "bates numbers",
+        "cd",
+        "drive",
+        "defense counsel",
+        "usanys",
+        "prod011",
+        "dat files",
+        "maxwell",
+        "maxwell's defense"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030888",
+      "summary": "It’s a record of communications between defense counsel (Cohen & Gresser LLP) and a contractor (\"USANYS\") regarding the production of discovery materials. Key points include: *   **Initial Production:** The contractor was tasked with producing discovery materials, including PROD011 and PROD015 files, along with re-bates stamped items. *   **CD Issues:** Initial CD productions were problematic, requiring the transfer of materials to thumb drives or external drives for delivery to Maxwell. *   **Metadata Discrepancies:** Significant issues arose with the metadata (.DAT) files for PROD011 and PROD015, with gaps identified and requests made for updated files. The 4th and 5th production file had overlapping numbers. *   **Discovery Requests & Concerns:** Counsel raised numerous discovery requests, including demands for an unredacted FBI report, a list correlating Bates numbers, and clarification of missing documents (AT&T records, flight logs). *   **Ongoing Issues:** There were ongoing concerns about the completeness of the production, specifically regarding Bates number accuracy and the identification of missing documents. Counsel pushed for the provision of a more detailed index. *   **Further Requests:** Counsel requested copies of grand jury subpoenas, information regarding the unsealing of documents, and clarification of the Daily Beast article referencing the cell-site simulator affidavit. The document represents a series of emails and related information attempting to address gaps and issues within the discovery process.",
+      "timestamp": "2021-01-27T00:00:00",
+      "timestamp_raw": "27 Jan 2021",
+      "keywords": [
+        "usanys",
+        "contractor",
+        "mdc",
+        "discovery requests",
+        "cd",
+        "prod011",
+        "prod015",
+        "dat files",
+        "redaction",
+        "bates numbers",
+        "ftp site",
+        "maxwell",
+        "defense counsel",
+        "fbi report",
+        "subpoena",
+        "metadata",
+        "cell-site simulator"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030912",
+      "summary": "The USANYS team had previously produced discovery materials, including a 4TB hard drive and CD containing documents. They requested a new hard drive to be created, but faced delays. They identified Bates ranges that hadn’t been produced and requested their reproduction via FTP. Concerns were raised regarding metadata issues, missing documents (like AT&T data and Rodgers flight logs), and a discrepancy in the numbering of document productions. The USANYS team also requested unredacted FBI reports and grand jury subpoenas, and an update on the status of materials related to the Daily Beast article referencing the cell-site simulator affidavit. The exchanges focused on confirming the delivery of materials, reproducing missing Bates ranges, addressing metadata discrepancies, and obtaining additional documents and information. Redactions were noted and discussed throughout the communication.",
+      "timestamp": "2021-01-29T00:00:00",
+      "timestamp_raw": "January 29, 2021",
+      "keywords": [
+        "discovery requests",
+        "ftp",
+        "ranges",
+        "bates",
+        "redacted",
+        "documents",
+        "production",
+        "subpoenas",
+        "metadata",
+        "maxwell"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00011489",
+      "summary": "The core issues revolve around delayed production of discovery materials, particularly Bates ranges (SDNY_GM_00167911-00169735), metadata files, and specific FBI reports. Key points include: *   **Initial FTP Request:** Everdell initially requests the discovery materials via FTP, specifying the missing Bates ranges. *   **Assistant U.S. Attorney Response:** The Assistant U.S. Attorney proposes alternative methods for delivery (CD or FTP link) and acknowledges the need for a new hard drive containing the discovery. *   **Metadata Issues:** Significant concerns are raised about gaps and errors in the metadata load files for various productions (PROD011, PROD015), requiring the provision of new DAT files.  There are also concerns about overlapping document ranges. *   **Missing Documents:** The defense requests the production of missing documents, including AT&T and David Rodgers production records, and asks for clarification on the removal of specific items from grand jury subpoena productions. *   **FBI Report & Affidavits:** The defense requests an unredacted version of the FBI report regarding the cell-site simulator and questions the status of a referenced affidavit, seeking confirmation of its unsealing. *   **Ongoing Communication:**  Multiple email exchanges occur between the parties, seeking clarification, requesting specific documents, and proposing solutions to the logistical and technical problems.",
+      "timestamp": "2021-01-29T00:00:00",
+      "timestamp_raw": "29 Jan 2021",
+      "keywords": [
+        "efta00011489",
+        "ftp",
+        "bates",
+        "discovery",
+        "redaction",
+        "usanys",
+        "sdny",
+        "metadata",
+        "cd",
+        "fbi report",
+        "subpoenas"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00030918",
+      "summary": "This redacted document details communications surrounding the production of discovery materials related to a legal case, likely a criminal investigation. Here’s a breakdown of the key content: *   **Discovery Requests & Production:** The core of the document revolves around responding to discovery requests made by defense counsel (USANYS) regarding materials related to a case, potentially involving a criminal investigation (\"defense\"). The production process involves multiple stages (6a, 6b, 6c), re-stamping, and transferring data to a location (USa.doj.govkcloud NYSkStAndrews\\ Shared). *   **Technical Issues & Corrections:** Significant issues arise regarding the accuracy of Bates numbering, metadata gaps in DAT files, and missing documents. Proposals are made to rectify these problems, including renumbering files, providing new DAT files, and correcting metadata errors. *   **Communication Chain:** The communication is primarily between USANYS (contractor) and the defense counsel (USANYS), with several individuals (e.g., Christian Everdell, Mark S. Cohen, Laura Menninger) involved in coordinating the production. *   **Timeline & Deadlines:** The document highlights ongoing efforts to prepare and deliver the discovery materials by January 27th, 2021, with ongoing requests for updates and confirmation of delivery. *   **Specific Requests & Concerns:** The defense requests a new 4TB hard drive, confirmation of the CD's delivery, clarification of Bates numbering, and detailed explanations for any missing documents or redactions. They also raise concerns regarding the FBI report and the tracking of the subject. *   **Redaction & Confidentiality:** The document is heavily redacted, indicating sensitive information is being protected. It also contains a standard confidentiality notice.",
+      "timestamp": "2021-01-29T00:00:00",
+      "timestamp_raw": "29 Jan 2021",
+      "keywords": [
+        "discovery requests",
+        "redaction",
+        "prod011",
+        "prod015",
+        "bates numbers",
+        "cd",
+        "ftp",
+        "mdc",
+        "defense",
+        "emails",
+        "files",
+        "range",
+        "dat",
+        "maxwell",
+        "usafx",
+        "cdrive",
+        "government",
+        "subpoenas"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00011259",
+      "summary": "Initially, the defense requests a 4TB drive containing discovery materials, encountering delays due to technical issues and the vendor's difficulties. The US Attorney’s Office provides assistance, but also identifies several discovery discrepancies and missing Bates ranges (SDNY_GM_00167911 through SDNY_GM_00169735). These include issues with correlating Bates numbers, missing documents, metadata gaps, and a disputed FBI report. The defense requests unredacted documents, grand jury subpoenas, and confirmation regarding the Daily Beast article referencing an unsealed affidavit. Throughout, there’s a focus on the timely delivery of necessary media (drives, CDs) to ensure Ms. Maxwell’s defense preparation. Finally, the US Attorney’s office acknowledges the issues and proposes solutions, including renumbering documents and providing new metadata files.",
+      "timestamp": "2021-02-02T00:00:00",
+      "timestamp_raw": "02 Feb 2021",
+      "keywords": [
+        "discovery requests",
+        "ftp",
+        "redaction",
+        "bates ranges",
+        "metadata",
+        "drive",
+        "production",
+        "grand jury",
+        "southern district of new york",
+        "usanys",
+        "efta00011259"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028845",
+      "summary": "The document records communications regarding the sharing of evidence in the US v. Maxwell case (20 Cr. 330 (AJN)).  FBI personnel, primarily [REDACTED], are responding to requests from defense counsel (represented by Laura Menninger of Haddon, Morgan & Foreman, P.C.) for access to highly confidential images and physical evidence related to the case, specifically concerning Jeffrey Epstein’s devices and residences.  The requests involve detailed questions about the quantity, format, and metadata of the images, as well as requests for access to physical evidence items and spaces to review them. There is a request for a comprehensive inventory of physical evidence in both FBI-NY and FBI-Florida custody. The communications highlight logistical challenges and a need for timely preparation of materials for review.",
+      "timestamp": "2021-03-15T00:00:00",
+      "timestamp_raw": "15 Mar 2021",
+      "keywords": [
+        "fbi",
+        "maxwell",
+        "evidence",
+        "images",
+        "confidential",
+        "devices",
+        "physical evidence",
+        "defense",
+        "review",
+        "tapes",
+        "files"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00031589",
+      "summary": "This document concerns the discovery process in the US v. Maxwell case, specifically regarding the review of highly confidential evidence related to Jeffrey Epstein’s activities. The US Attorney’s office, represented by an Assistant US Attorney, is facilitating the review of electronic images and physical evidence held by the FBI. Key points include: *   **Types of Evidence:** The FBI possesses three categories of electronic images related to nude/partially nude images: approximately 2,100 electronic images and videos from Epstein’s devices, 3,400 discs from his residences, and 7 hard copy images from the FBI Florida office. *   **Review Access:** The defense team (represented by Laura Menninger of Haddon, Morgan & Foreman) will have access to the electronic files, with Cellebrite software provided for viewing Apple devices. The physical evidence will be reviewed at the FBI’s Bronx warehouse under specific conditions. *   **Logistics:** The warehouse review requires two weeks' notice and is open during business hours. The FBI will provide one laptop for image review and can transport items to 500 Pearl Street. *   **Restrictions:** Duplicates of the obscene electronic images are prohibited, and there are limitations on the number of laptops available.  Electronic media (VHS, cassettes, CDs) are not playable at the warehouse. *   **Timeline & Communication:** The Attorney and defense team are coordinating scheduling for the review, with the FBI anticipating a three-week timeframe for reviewing all electronic media at their Manhattan office.  The defense team is requesting information about the timeline for reviewing the evidence and the availability of an index of physical evidence.",
+      "timestamp": "2021-03-16T00:00:00",
+      "timestamp_raw": "16 Mar 2021",
+      "keywords": [
+        "fbi",
+        "epstein",
+        "maxwell",
+        "discovery",
+        "evidence",
+        "images",
+        "confidential",
+        "nyc",
+        "bronx",
+        "forensic",
+        "metadata"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00030101",
+            "similarity": 0.533,
+            "index": 29,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00030101",
+      "summary": "The document details the FBI’s plan to provide Laura Menninger (representing the defense team) with evidence related to the US v. Maxwell case, specifically focusing on highly confidential nude/partially nude images and physical evidence. Here’s a breakdown of the key information: *   **Evidence Provided:** The FBI will provide three categories of images seized from Jeffrey Epstein’s devices (approximately 2,100 electronic images/videos, 3,400 discs, and 7 hard copy images). The FBI will also provide two spreadsheets detailing all physical evidence in their custody, separated by FBI Miami and New York offices. *   **Review Process:** The defense team can review the evidence at the FBI’s Bronx warehouse, subject to a two-week notice requirement, business hours, and the presence of FBI agents and a prosecutor. They can bring digital cameras (without internet connectivity) to photograph items. *   **Technical Considerations:**  Electronic files require Cellebrite software for review of Apple devices. Metadata may or may not be recoverable from damaged devices. *   **Media Review:** The FBI anticipates providing access to all electronic media (excluding witness statements) for review at the FBI's Manhattan office within approximately three weeks. *   **Communication & Scheduling:**  The parties coordinate calls to discuss the evidence and scheduling of reviews, with the FBI initially indicating a potential review date of May 18th.",
+      "timestamp": "2021-03-16T00:00:00",
+      "timestamp_raw": "16 Mar 2021",
+      "keywords": [
+        "fbi",
+        "epstein",
+        "images",
+        "evidence",
+        "discovery",
+        "confidential",
+        "metadata",
+        "electronic devices",
+        "bronx",
+        "review",
+        "new york",
+        "miami"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00031589",
+            "similarity": 0.533,
+            "index": 28,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020430",
+      "summary": "This document is a follow-up email chain between Christian Everdell (Cohen & Gresser LLP) and a USANYS Assistant United States Attorney regarding discovery materials produced in a case involving Jeffrey Epstein. The core issues raised are: *   **Hard Drive Delivery:** A request for a hard drive containing discovery materials for a client, Ms. Maxwell, has not been addressed. *   **Disk Readability:** Issues with Ms. Maxwell's prison computer preventing reading of disks sent previously, requiring alternative production methods. *   **Missing Attachments:** Over 109,000 emails produced without attachments, demanding their provision. *   **Metadata Issues:** Numerous files (photographs, electronic documents, audio/visual files) lack CART numbers and have inconsistent or delayed metadata dates (July 2020 or later), requesting metadata overlays and source identification. Specifically, gaps exist in production numbers (11/18-12/18), and there's confusion regarding the origin of files with inconsistent metadata. *   **Request for Clarification:** The sender seeks clarification on whether the 11/18-12/18 production gap was intentional. The email threads propose solutions, including providing a hard drive, offering to load files onto a drive, and requesting metadata overlays to address the inconsistencies and missing information.",
+      "timestamp": "2021-03-29T00:00:00",
+      "timestamp_raw": "29 Mar 2021",
+      "keywords": [
+        "discovery",
+        "metadata",
+        "epstein",
+        "fbi",
+        "cart",
+        "production",
+        "files",
+        "attachments",
+        "hard drive",
+        "prison",
+        "southern district of new york",
+        "cd",
+        "images",
+        "bates",
+        "metadata overlay"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00019595",
+            "similarity": 0.5,
+            "index": 33,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00027864",
+      "summary": "The email chain details requests for production of discovery materials in the Maxwell case, primarily prepared by PAE. Specific requests include: 1.  Sending a hard drive containing discovery materials to Ms. Maxwell. 2.  Producing files on a hard drive due to limitations of Ms. Maxwell’s computer. 3.  Providing missing attachments to over 109,000 emails. 4.  Producing metadata overlays for electronic documents with altered creation/modification dates (over 110,000 files). 5.  Providing CART numbers and metadata overlays for over 6,500 photographs with altered dates. 6.  Producing metadata overlays for audio/visual files with various metadata issues, including missing load files and lack of CART numbers. 7.  Clarification regarding a gap in production numbers between November 18 and December 18.",
+      "timestamp": "2021-03-29T00:00:00",
+      "timestamp_raw": "29 Mar 2021",
+      "keywords": [
+        "discovery",
+        "production",
+        "maxwell",
+        "metadata",
+        "hard drive",
+        "emails",
+        "attachments",
+        "cart number",
+        "files",
+        "sdny"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00027861",
+            "similarity": 0.538,
+            "index": 35,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00029942",
+            "similarity": 0.818,
+            "index": 36,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00019092",
+            "similarity": 0.667,
+            "index": 37,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00020426",
+      "summary": "This document is a series of email exchanges between the Southern District of New York’s Assistant United States Attorney (Chris Everdell) and various parties, including Laura Menninger and Jeff Pagliuca, regarding discovery materials related to a case, likely involving Jared Epstein. Here’s a breakdown of the key points: *   **Discovery Issues:** The primary concern is a series of technical issues with the delivered discovery materials, including missing attachments, incorrect metadata, and gaps in production numbers. *   **Metadata Problems:** Specifically, many electronic documents and photographs lack CART numbers and have dates after the purported seizure dates, causing difficulty in accessing and interpreting the data. Requests are made for metadata overlays. *   **Hard Drive Delivery:** The Assistant US Attorney is requesting the delivery of a hard drive containing the discovery materials to Ms. Maxwell, but the other party is hesitant and proposes alternative solutions. *   **Missing Production Numbers:** A gap exists between production numbers 11/18 and 12/18, and the Assistant US Attorney is inquiring about its intentionality. *   **Coordination & Support:** The Assistant US Attorney is requesting a call to discuss these issues and offers to assist with providing materials to Ms. Maxwell. *   **Redactions:** The document contains redactions, indicating the presence of sensitive or confidential information.",
+      "timestamp": "2021-03-29T00:00:00",
+      "timestamp_raw": "29 Mar 2021",
+      "keywords": [
+        "discovery issues",
+        "usanys",
+        "metadata",
+        "fbi",
+        "epstein",
+        "production",
+        "cd",
+        "pdf",
+        "files",
+        "cart numbers",
+        "bates range",
+        "southern district of new york",
+        "hard drive"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00019595",
+      "summary": "This redacted document details a discovery dispute between the Southern District of New York’s United States Attorney’s Office and a legal team (Cohen & Gresser LLP) regarding materials produced in the case involving Jeffrey Epstein. The core issues center around missing files, metadata discrepancies, and a gap in production numbers. Specifically, the US Attorney’s Office is requesting the delivery of a hard drive containing discovery materials to a client, Ms. Maxwell. They identify several problems with prior productions, including: *   Missing attachments from over 109,000 emails. *   Electronic documents with post-seizure creation dates and missing metadata. *   Photographs lacking CART numbers and with similar metadata issues. *   Audio/visual files with similar metadata issues, categorized by production set. *   A gap in the production numbers between November 18th and December 18th. The legal team responds with proposed solutions such as providing the hard drive, correcting the metadata issues, and investigating the production gap.  The correspondence highlights difficulties stemming from the handling and preservation of digital evidence, particularly concerning metadata and the origins of files.",
+      "timestamp": "2021-03-29T00:00:00",
+      "timestamp_raw": "29 Mar 2021",
+      "keywords": [
+        "usanys",
+        "discovery",
+        "metadata",
+        "files",
+        "fbi",
+        "epstein",
+        "cart",
+        "production",
+        "attachments",
+        "hard drive",
+        "mdc",
+        "litigation"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00020430",
+            "similarity": 0.5,
+            "index": 30,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00029944",
+            "similarity": 0.692,
+            "index": 34,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028571",
+            "similarity": 0.533,
+            "index": 45,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00029944",
+      "summary": "This document is a series of email exchanges concerning discovery materials related to a legal case, likely involving Jeffrey Epstein. The core issues revolve around discrepancies in metadata, missing attachments, and gaps in production of electronic files. Specifically, the USANYS (Contractor) team is requesting the production of a hard drive containing discovery materials for Ms. Maxwell, pointing out issues like missing attachments (over 109,000 emails), files with incorrect metadata (photos and audio/visual files produced after the device seizure), a production gap between November 18th and December 18th, and requests for CART numbers and metadata overlays for various files. The team proposes a call to discuss these concerns and offers potential solutions, including providing files on a hard drive or requesting the opposing side to produce them that way. The entire communication highlights a struggle to obtain complete and accurate discovery materials from the opposing side.",
+      "timestamp": "2021-03-29T00:00:00",
+      "timestamp_raw": "29 Mar 2021",
+      "keywords": [
+        "discovery",
+        "usanys",
+        "metadata",
+        "epstein",
+        "files",
+        "cart",
+        "production",
+        "attachments",
+        "hard drive",
+        "pdf"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00019595",
+            "similarity": 0.692,
+            "index": 33,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00028571",
+            "similarity": 0.615,
+            "index": 45,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028585",
+            "similarity": 0.571,
+            "index": 50,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00027861",
+      "summary": "On March 29, 2021, Christian Everdell contacted a recipient regarding discovery issues in the Maxwell case, specifically related to productions prepared by PAE. The issues included: 1.  Failure to send a hard drive containing discovery to Ms. Maxwell. 2.  Files incompatible with Ms. Maxwell’s laptop requiring inclusion on a hard drive. 3.  Missing attachments from over 109,000 emails. 4.  Metadata discrepancies (dates and lack of CART numbers) in over 110,000 electronic documents and 6,500 photographs. 5.  Metadata issues within audio/visual files categorized by production dates (SDNY GM SUPP, SDNY005, SDNY011). 6.  A gap in production numbers between November 18th and December 18th. Everdell requested responses and clarification on these points to facilitate the discovery process.",
+      "timestamp": "2021-03-29T00:00:00",
+      "timestamp_raw": "March 29, 2021",
+      "keywords": [
+        "discovery",
+        "maxwell case",
+        "pae",
+        "hard drive",
+        "metadata",
+        "cart number",
+        "email",
+        "production",
+        "files",
+        "attachments"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00027864",
+            "similarity": 0.538,
+            "index": 31,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00029942",
+            "similarity": 0.538,
+            "index": 36,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019092",
+            "similarity": 0.538,
+            "index": 37,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00020434",
+            "similarity": 0.667,
+            "index": 38,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00029942",
+      "summary": "The email chain details a request for discovery production updates regarding a case involving electronic documents and photographs related to Jeffrey Epstein. Specifically, the sender requests: 1.  The delivery of a hard drive containing discovery materials to a client. 2.  A decision on how to produce files that cannot be read on Ms. Maxwell’s computer. 3.  The provision of missing attachments for over 109,000 emails. 4.  Metadata overlays for over 110,000 electronic documents with altered creation/modification dates. 5.  CART numbers or device source information for over 6,500 photographs with altered creation/modification dates. 6.  Metadata overlays for audio/visual files with similar metadata issues, categorized by production set. 7.  Clarification regarding a gap in production numbers between November 18th and December 18th.",
+      "timestamp": "2021-03-29T00:00:00",
+      "timestamp_raw": "29 Mar 2021",
+      "keywords": [
+        "discovery",
+        "production",
+        "metadata",
+        "hard drive",
+        "emails",
+        "cart number",
+        "sdny",
+        "files",
+        "attachments",
+        "metadata overlay"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00027861",
+            "similarity": 0.538,
+            "index": 35,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00027864",
+            "similarity": 0.818,
+            "index": 31,
+            "category": "highly_relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00019092",
+            "similarity": 0.538,
+            "index": 37,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00020434",
+            "similarity": 0.667,
+            "index": 38,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00028571",
+            "similarity": 0.5,
+            "index": 45,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00019092",
+      "summary": "This redaction analysis document pertains to a legal case, likely a discovery dispute, involving the production of electronic evidence in the Maxwell case. The core issues revolve around discrepancies in metadata and missing information within large productions of documents, emails, photographs, and audio/visual files. Specifically, the sender requests the recipient to: *   Send a hard drive containing discovery materials to Ms. Maxwell. *   Provide missing attachments from over 109,000 emails. *   Produce a metadata overlay for documents with altered creation/modification dates (over 110,000 files). *   Supply CART numbers and metadata overlays for over 6,500 photographs and over 460 audio/visual files. *   Investigate a gap in production numbers between November 18th and December 18th. The communications are between Cohen & Gresser LLP (sending the request) and an unnamed contractor/party (\"USANYS\") receiving it, involving discussions, calendar invites, and attached documentation highlighting the specific deficiencies in the evidence production.",
+      "timestamp": "2021-03-30T00:00:00",
+      "timestamp_raw": "30 Mar 2021",
+      "keywords": [
+        "discovery",
+        "production",
+        "emails",
+        "hard drive",
+        "metadata",
+        "cart number",
+        "maxwell",
+        "pae",
+        "phone call",
+        "files"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00029942",
+            "similarity": 0.538,
+            "index": 36,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00027861",
+            "similarity": 0.538,
+            "index": 35,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00027864",
+            "similarity": 0.667,
+            "index": 31,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00020434",
+            "similarity": 0.818,
+            "index": 38,
+            "category": "highly_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00020434",
+      "summary": "The document is a redacted email chain regarding discovery issues in a legal case (Maxwell case). Key points include: *   A request to send a hard drive containing discovery materials to Ms. Maxwell. *   Disagreements about producing files on disks due to Ms. Maxwell’s computer limitations. *   Numerous metadata issues with electronic documents (emails, documents, photographs, audio/visual files) requiring metadata overlays and/or CART numbers. *   A query regarding a gap in production numbers between November 18th and December 18th. *   Requests for timely responses to resolve these issues.",
+      "timestamp": "2021-03-30T00:00:00",
+      "timestamp_raw": "30 Mar 2021",
+      "keywords": [
+        "discovery",
+        "production",
+        "maxwell",
+        "hard drive",
+        "metadata",
+        "emails",
+        "attachments",
+        "cart number",
+        "pae",
+        "files"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00019092",
+            "similarity": 0.818,
+            "index": 37,
+            "category": "highly_relevant"
+          },
+          {
+            "file_id": "EFTA00029942",
+            "similarity": 0.667,
+            "index": 36,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00027861",
+            "similarity": 0.667,
+            "index": 35,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015770",
+      "summary": "This document outlines the logistics for Laura Menninger’s legal team to review evidence in the US v. Maxwell case (20 Cr. 330 (AJN)). Specifically, it details a request for access to evidence at the Bronx warehouse and 500 Pearl Street courthouse, including: *   **Initial Review Plan:** Chris Everdell proposes arriving at the warehouse on April 12th at 9:30 AM with an investigator and paralegal. *   **Evidence Locations:** The team needs to review evidence from both NY and Florida locations, with disagreements about which items should be transported to 500 Pearl Street. Specifically, items labeled \"Highly Confidential\" may need to be photographed instead of transported. *   **Electronic Media:** The team requires equipment to play recordings and requests clarification on the availability of electronic files, including a concern about missing metadata. *   **Scheduling & Logistics:** The FBI will coordinate the evidence transport and provide an agent to assist. A room at 500 Pearl Street is secured for review. *   **Maxwell’s Appearance:** Maxwell is confirmed to be brought to 500 Pearl Street on April 13th and subsequent days. The document highlights ongoing questions regarding the categorization of evidence, particularly concerning the “Highly Confidential” designation and missing electronic files, and requests further clarification and action from the US Attorney’s office.",
+      "timestamp": "2021-04-08T00:00:00",
+      "timestamp_raw": "08 Apr 2021",
+      "keywords": [
+        "evidence",
+        "warehouse",
+        "maxwell",
+        "bronx",
+        "review",
+        "photographs",
+        "files",
+        "electronic",
+        "surveillance",
+        "items",
+        "laura henninger",
+        "chris everdell",
+        "fbi",
+        "redactions",
+        "500 pearl",
+        "\"highly confidential\""
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015636",
+      "summary": "*   **Initial Requests:** Christian Everdell (USANYS) is requesting specific files and metadata from a vendor (EFTA00015636) regarding recovered electronic devices and photographs. *   **Metadata Issues:** Key issues involve missing metadata associated with many electronic files and photographs recovered from Epstein’s devices, particularly files created or modified after the FBI seizure. The vendor is working to provide metadata overlays. *   **Missing Files:** There are gaps in production numbers (SDNY\\_GM\\_02742044 to 2742183) and unrecovered files (specifically #3, #4, #5, #6, and #7). *   **CD Issues:** Certain photographs were initially produced from CDs that were not processed by CART, leading to missing CART numbers and associated metadata. *   **Delivery Concerns:** There are questions about delivering the discovery materials to Jane Maxwell (USANYS), focusing on the inability of her laptop to read certain file types. *   **Ongoing Investigation:** The parties are coordinating efforts to resolve the metadata issues and ensure the complete delivery of the required discovery materials.",
+      "timestamp": "2021-04-23T00:00:00",
+      "timestamp_raw": "23 Apr 2021",
+      "keywords": [
+        "efta00015636",
+        "discovery issues",
+        "metadata",
+        "epstein",
+        "fbi",
+        "cart",
+        "cd",
+        "hard drive",
+        "metadata overlay",
+        "bates numbers",
+        "sdny",
+        "2021",
+        "2020"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00025179",
+      "summary": "On April 26, 2021, an email exchange discusses an issue with SDNY_PROD011, specifically production 11. Defense counsel is unable to review metadata from images due to a lack of correspondence between Bates numbers in the production and rows in an FBI-created spreadsheet. A meeting was proposed for 2 PM on April 26th to discuss the issue and include a vendor. Subsequent emails requested conference call information and explored alternative meeting times. An overlay file (SDNY PROD011 - Overlay.zip) containing production number, file name, and MD5 hash was attached.",
+      "timestamp": "2021-04-26T00:00:00",
+      "timestamp_raw": "April 26, 2021",
+      "keywords": [
+        "maxwell",
+        "production 11",
+        "metadata",
+        "fbi",
+        "defense counsel",
+        "sdny prod011"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00032787",
+      "summary": "An FBI agent is assisting with a review of production 11 related to the SDNY_PROD011 Maxwell case. Defense counsel is unable to match metadata from the images with a provided spreadsheet due to a lack of Bates number correspondence. Multiple individuals are coordinating a call to discuss the issue, with proposed times including 2 PM and 3 PM on April 26, 2021, and involving a vendor.",
+      "timestamp": "2021-04-26T00:00:00",
+      "timestamp_raw": "April 26, 2021",
+      "keywords": [
+        "maxwell",
+        "production 11",
+        "metadata",
+        "fbi",
+        "defense counsel",
+        "bates number",
+        "conference call",
+        "sdny_prod011",
+        "redaction",
+        "images"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00020785",
+      "summary": "An email was sent from an Assistant United States Attorney to an unknown recipient regarding the metadata of document EFTA00020785.pdf. The email requests information about the device from which the document originated and includes attachments, specifically USGME01088996.doc.",
+      "timestamp": "2021-04-27T00:00:00",
+      "timestamp_raw": "27 Apr 2021",
+      "keywords": [
+        "efta00020785",
+        "redaction analysis",
+        "metadata",
+        "usgme01088996",
+        "united states attorney",
+        "new york",
+        "april 27",
+        "2021"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00015865",
+      "summary": "This document is a submission to Judge Alison J. Nathan regarding a subpoena request from Ghislaine Maxwell’s defense team seeking records from Boies Schiller Flexner LLP (BSF) in the U.S. v. Maxwell case. The Government respectfully opposes three specific requests (9, 10, and 11) based on the *Nixon* standard, which requires a subpoena to be narrowly tailored, relevant, admissible, and not a fishing expedition. Specifically: *   **Request 9 (Minor Victim-2’s Diary):** The Government argues this request is improper because the diary is irrelevant given that the defendant and the victim already acknowledged the absence of references to the defendant within the diary, and the diary is full of unrelated personal entries. *   **Request 10 (Pair of Boots):** The Government intends to obtain the boots through BSF and make them available to the defense for examination, effectively mooting this request. *   **Request 11 (Photographs):** The defense already possesses copies of the photographs; the Government argues that the original physical photographs lack relevant metadata and wouldn’t satisfy the *Nixon* standard without further justification. The Government requests the Court to deny Requests 9 and 11 and reserve decision on Request 10 until the Government obtains the boots and makes them available for examination.",
+      "timestamp": "2021-05-04T00:00:00",
+      "timestamp_raw": "May 4, 2021",
+      "keywords": [
+        "rule 17(c)",
+        "subpoena",
+        "relevance",
+        "admissibility",
+        "specificity",
+        "nixon",
+        "evidence",
+        "impeachment",
+        "brady",
+        "giglio",
+        "diary",
+        "victim",
+        "forensic examination",
+        "photographs",
+        "boots",
+        "due diligence"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028571",
+      "summary": "The emails primarily relate to the production of electronic discovery materials to the US Attorney’s Office, Southern District of New York (USANYS). **Key Points & Actions:** *   **Initial Production:** A contractor (USANYS) sent a CD containing discovery materials to the MDC (presumably the recipient's legal team). Draft cover letters and attached files (DOCX documents) were included. *   **Metadata Issues:** The USANYS team identifies significant issues with the metadata associated with many of the recovered electronic files, including missing dates, incorrect file creation/modification dates, and a lack of CART numbers. *   **Requests for Clarification & Production:** Laura Menninger requests a detailed metadata overlay for files with altered dates, asks for a list of carved/deleted files, and requests CART numbers for specific photographs. *   **Addressing the Drive Issue:** There is discussion about sending a hard drive containing the discovery to the recipient, contingent on the recipient's ability to access it. *   **Missing Attachments:** A large number of emails lack attachments, requiring the USANYS to seek these out. *   **Ongoing Investigation:** The USANYS team is investigating the Bates gap (missing files) and working with a vendor to determine the best way to convey the metadata information. *   **Confirmation of Non-Recovery:** The USANYS confirms that certain attachments were not recovered from searched devices. *   **Multiple Requests for Additional Information:** The assistant US attorney repeatedly requests more information about the discovery materials and the metadata associated with them. **Essentially, the document outlines a challenging discovery process complicated by metadata discrepancies and the need for clarification on missing files and production methods.**",
+      "timestamp": "2021-05-21T00:00:00",
+      "timestamp_raw": "21 May 2021",
+      "keywords": [
+        "efta00028571",
+        "discovery",
+        "usanys",
+        "metadata",
+        "production",
+        "files",
+        "pdfs",
+        "cart",
+        "metadata overlay",
+        "attachments",
+        "metadata",
+        "hard drive"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00029942",
+            "similarity": 0.5,
+            "index": 36,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00029944",
+            "similarity": 0.615,
+            "index": 34,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00019595",
+            "similarity": 0.533,
+            "index": 33,
+            "category": "relevant"
+          }
+        ],
+        "next": [
+          {
+            "file_id": "EFTA00028585",
+            "similarity": 0.533,
+            "index": 50,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00028646",
+      "summary": "The core issue revolves around discrepancies and missing metadata within discovery materials related to Jeffrey Epstein’s case, specifically concerning productions labeled SDNY_GM_SUPP, SDNY005, SDNY011, and files within Bates ranges. Key points include: *   **USAfx Account Issues:** The prosecution is attempting to facilitate the transfer of discovery materials to Laura Menninger via the USAfx platform, initially requesting her to set up an account. *   **Metadata Discrepancies:** Significant problems exist with the metadata of many electronic files, including incorrect creation/modification dates and missing original metadata. Specifically, investigators are struggling to locate attached files and determine the source of files with altered dates. *   **CART Numbers & File Tracking:** A specific concern is the lack of CART numbers for numerous photographs and audio/visual files, leading to difficulties in tracking their origin and processing. *   **Requests for Additional Information:** The prosecution repeatedly requests missing attachments, metadata overlays, and clarification on Bates number gaps to facilitate a complete review of the discovery materials. *   **Coordination Efforts:** The exchanges involve coordinating with the MDC (presumably the court’s electronic discovery unit) and exploring options like a hard drive transfer and potential court orders to compel the provision of missing materials. The document highlights a complex and ongoing effort to rectify issues with the discovery process and ensure all relevant materials are accounted for and properly documented.",
+      "timestamp": "2021-05-24T00:00:00",
+      "timestamp_raw": "24 May 2021",
+      "keywords": [
+        "discovery",
+        "usafx",
+        "metadata",
+        "files",
+        "production",
+        "pdfs",
+        "cart",
+        "supp",
+        "emails",
+        "hard drive",
+        "paralegals",
+        "usanys",
+        "cd",
+        "vendor"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027294",
+      "summary": "The production “Nineteenth” is ready for review, with the exception of FBI Recovered Metadata. The production, index, and cover letter are saved on a shared drive. The standard protective order stamp (“SUBJECT TO PROTECTIVE ORDER PARAGRAPHS 7, 8, 9, 10, 15, and 17”) is proposed for stamping the materials. A 500GB drive is requested for the FBI Recovered Metadata.  The team is coordinating with defense counsel regarding the stamping of JPMC returns and the use of a protective order stamp.",
+      "timestamp": "2021-08-04T00:00:00",
+      "timestamp_raw": "04 Aug 2021",
+      "keywords": [
+        "production",
+        "protective order",
+        "metadata",
+        "fbi",
+        "stamping",
+        "jpmc",
+        "defense counsel",
+        "redaction",
+        "index",
+        "shared drive"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": [
+          {
+            "file_id": "EFTA00027298",
+            "similarity": 0.538,
+            "index": 48,
+            "category": "relevant"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": "EFTA00027298",
+      "summary": "The document details the preparation of a production related to the “Nineteenth Production,” likely a legal case involving Jeffrey Epstein. Key actions include: *   Requests for modifications to an index and cover letter, specifically regarding the categorization of “FBI Recovered Metadata” (splitting it into two subfolders). *   Addition of specific language to the cover letter explaining the HTML files and file structure associated with the recovered data. *   Confirmation that the entire production is stamped and ready for review, excluding the FBI Recovered Metadata (which requires a 500GB drive). *   Discussion regarding the stamping of JP Morgan Chase returns, with a preference for using the existing protective order stamp. *   Coordination on the protective order designation to be used on all materials.",
+      "timestamp": "2021-08-05T00:00:00",
+      "timestamp_raw": "05 Aug 2021",
+      "keywords": [
+        "production",
+        "metadata",
+        "fbi",
+        "epstein",
+        "protective order",
+        "files",
+        "index",
+        "cover letter",
+        "jpmc",
+        "stamping"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00027294",
+            "similarity": 0.538,
+            "index": 47,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027301",
+      "summary": "The U.S. Department of Justice is producing discovery materials related to the case of *United States v. Ghislaine Maxwell* (20 Cr. 330). The materials, stamped with control numbers SDNY_GM_02753644 through SDNY_GM_02753697, include files recovered from Jeffrey Epstein’s New York residence, de-designated images from his electronic devices, Missouri records, JPMorgan Chase records, and the Oxford Letter from 1995. All materials are marked “SUBJECT TO PROTECTIVE ORDER PARAGRAPHS 7, 8, 9, 10, 15, and 17.” The production includes HTML files with thumbnails and metadata for easy access, although some files are not viewable on the FBI’s system and are still being provided. The DOJ intends to continue producing additional materials as they become available.",
+      "timestamp": "2021-08-05T00:00:00",
+      "timestamp_raw": "August 5, 2021",
+      "keywords": [
+        "ghislaine maxwell",
+        "protective order",
+        "sdny",
+        "redaction analysis",
+        "discovery materials",
+        "united states department of justice",
+        "epstein",
+        "criminal case"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00028585",
+      "summary": "Multiple parties – primarily the US Attorney’s Office (USANYS) and a contractor – are involved in addressing issues with the production, particularly regarding missing attachments, metadata discrepancies, and gaps in file production. Key issues identified include: *   **Missing Attachments:** Over 109,000 emails in the discovery lacked their associated attachments. *   **Metadata Issues:** Numerous files (photos and electronic documents) had inconsistent or missing metadata, including incorrect creation/modification dates.  Specifically, files produced after November 9, 2021, had dates post-seizure, and some files lacked CART numbers. *   **Production Gaps:** A gap exists between production numbers 11/18 and 12/18 related to the SDNY_GM_02742044 to 2742183 Bates numbers. *   **Conversion Issues:** Some files were converted to PDF prior to production. *   **Requests for Information:** The USANYS requests a list of all carved or deleted files, confirmation of native vs. PDF formats, and, where applicable, additional metadata information (MIME types, original file names, dates). The US Attorney’s Office seeks to resolve these issues by requesting the contractor to provide requested information and address the gaps, ultimately aiming to facilitate the delivery of the discovery materials to a client (Maxwell). The email chain details the investigation, the specific files of concern, and the steps required to rectify the situation.",
+      "timestamp": "2021-11-09T00:00:00",
+      "timestamp_raw": "November 9, 2021",
+      "keywords": [
+        "efta00028585",
+        "discovery",
+        "production",
+        "metadata",
+        "pdf",
+        "files",
+        "cart",
+        "attachments",
+        "metadata overlay",
+        "dates",
+        "usanys",
+        "contractor"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [
+          {
+            "file_id": "EFTA00028571",
+            "similarity": 0.533,
+            "index": 45,
+            "category": "relevant"
+          },
+          {
+            "file_id": "EFTA00029944",
+            "similarity": 0.571,
+            "index": 34,
+            "category": "relevant"
+          }
+        ],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00026696",
+      "summary": "An email chain discusses redactions for exhibits related to a case (US v. Maxwell).  Multiple individuals are requesting the removal of addresses and phone numbers from document GX 607.  Changes to an index spreadsheet are being made, including updating exhibit designations (MV numbers) and removing specific entries like MV-5 and GXs 316 and 331.  There are questions regarding metadata in document series 417A-422A and the absence of GX 419, requiring adjustments to the index to fill gaps. The index updates will indicate exhibits intended to be offered under seal.",
+      "timestamp": "2021-11-11T00:00:00",
+      "timestamp_raw": "11 Oct 2021",
+      "keywords": [
+        "redaction",
+        "exhibits",
+        "index",
+        "gx-10",
+        "gx-11",
+        "gx-12",
+        "gx-13",
+        "gx-313",
+        "metadata",
+        "us attorney"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034478",
+      "summary": "This document is a Custodian Document Search Checklist related to an investigation, likely a legal case involving an inmate death (LHN-CIV-2019-00204). It details a search conducted by an individual (identified only as “[REDACTED]”) for potentially responsive documents across various media – electronic files (home drives, shared drives, emails, databases), archived electronic files, physical files (office, repositories), and other media (CDs, etc.). The checklist requires the individual to identify locations of potentially responsive documents and report any relevant information, including access to shared drives and email accounts, government and personal devices, social media usage, and any potential transfers of files. The checklist emphasizes the obligation to retain and protect responsive documents and to notify agency counsel of any alterations or destruction. The search ultimately resulted in no responsive documents being found.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "redaction analysis",
+        "legal hold",
+        "inmate death",
+        "email",
+        "databases",
+        "electronic files",
+        "documents",
+        "agency",
+        "attorney client communication",
+        "metadata"
+      ],
+      "match_type": "keyword",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00034574",
+      "summary": "This document is a Custodian Document Search Checklist related to an “Inmate Death” legal hold (LHN-CIV-2019-00204) overseen by agency counsel and the Department of Justice. It’s a standard form used to investigate potential responsive documents across various media – electronic files (home drives, shared drives, emails, databases), archived electronic files, physical files (office, repositories), and other media like CDs/DVDs. The checklist prompts the user to identify locations of potentially responsive documents, who has access, and to confirm they haven’t altered or destroyed any relevant information. It also covers device inventory, data transfer history, and potential social media involvement related to the litigation. The checklist concludes with acknowledgements regarding tracking and metadata preservation and includes signature/date fields. If no responsive documents are found, a separate section confirms this outcome.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "redaction",
+        "legal hold",
+        "documents",
+        "emails",
+        "databases",
+        "files",
+        "search",
+        "agency",
+        "counsel",
+        "responsive"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    },
+    {
+      "file_id": "EFTA00027296",
+      "summary": "The United States Attorney’s Office for the Southern District of New York is producing discovery materials related to the case *United States v. Ghislaine Maxwell* (20 Cr. 330 (MN)). The materials, identified by control numbers SDNY_GM_02753644 through SDNY_GM_02753697, are being provided to counsel representing Ghislaine Maxwell. All materials are marked “SUBJECT TO PROTECTIVE ORDER PARAGRAPHS 7, 8, 9, 10, 15, and 17” due to a recent Department of Justice directive to avoid confusion with classified documents. The production includes FBI recovered metadata, Missouri records, JPMorgan Chase records, and a letter dated November 7, 1995 from Oxford. The government states it will promptly produce additional discoverable material if it becomes aware of it.",
+      "timestamp": null,
+      "timestamp_raw": null,
+      "keywords": [
+        "united states v. ghislaine maxwell",
+        "redaction analysis",
+        "sdny",
+        "protective order",
+        "discovery materials",
+        "confidential",
+        "fbi",
+        "jpmorgan chase",
+        "missouri records",
+        "oxford letter"
+      ],
+      "match_type": "content",
+      "relationships": {
+        "previous": [],
+        "next": []
+      }
+    }
+  ]
+}
