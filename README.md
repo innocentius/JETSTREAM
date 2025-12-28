@@ -59,7 +59,7 @@ python test_results.py
 ### Option 2: Online deployment
 
 
-This repository is deployed with [![cloudflare pages](https://jetstream.naturemag.org)]
+This repository is deployed with cloudflare pages (https://jetstream.naturemag.org).
 
 
 ---
